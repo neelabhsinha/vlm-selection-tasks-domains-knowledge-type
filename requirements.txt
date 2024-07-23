@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+torch
+git+https://github.com/huggingface/transformers.git
+datasets
+nltk
+git+https://github.com/huggingface/accelerate.git
+bitsandbytes
+git+https://github.com/huggingface/peft.git
+plotly
+kaleido
+tqdm
+openai
