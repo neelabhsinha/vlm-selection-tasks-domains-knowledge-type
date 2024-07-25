@@ -28,4 +28,5 @@ wandb/
 metadata/
 scripts/
 aggregated_results/
+./experimental_datasets/
 ```
