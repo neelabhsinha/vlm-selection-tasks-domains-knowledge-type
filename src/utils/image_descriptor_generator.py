@@ -33,8 +33,7 @@ def generate_image_descriptors(split='test', batch_size=1):
             dir_name = f'{experimental_set}/{split}/image_descriptors'
             os.makedirs(dir_name, exist_ok=True)
             save_dict_to_json(os.path.join(dir_name, file_name), image_descriptors)
-            break
-        break
+
 
 
 
