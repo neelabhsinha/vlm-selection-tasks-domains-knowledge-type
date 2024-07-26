@@ -3,12 +3,7 @@ import json
 from PIL import Image
 from torch.utils.data import Dataset, DataLoader, Sampler
 from const import experimental_set
-
-
-def read_json(file_path):
-    with open(file_path, 'r') as file:
-        data = json.load(file)
-    return data
+from src.utils.json_utils import read_json
 
 
 class ExperimentalDatasetSampler(Sampler):
@@ -27,13 +22,12 @@ class ExperimentalDatasetSampler(Sampler):
 
 
 class ExperimentalDataset(Dataset):
-    def __init__(self, get_images=False, get_data=False, get_image_descriptors=False, get_classification=False,
+    def __init__(self, get_images=False, get_image_descriptors=False, get_classification=False,
                  split='test'):
         self.images_dir = os.path.join(experimental_set, split, 'images')
         self.data_dir = os.path.join(experimental_set, split, 'data')
         self.split = split
         self.get_images = get_images
-        self.get_data = get_data
         self.get_image_descriptors = get_image_descriptors
         self.get_classification = get_classification
         self.data_files = [f for f in os.listdir(self.data_dir) if f.endswith('.json')]
@@ -46,10 +40,9 @@ class ExperimentalDataset(Dataset):
         image = None
         image_descriptors = None
         classification = None
-        if self.get_data:
-            data = read_json(os.path.join(self.data_dir, self.data_files[idx]))
+        data = read_json(os.path.join(self.data_dir, self.data_files[idx]))
         if self.get_images:
-            image = Image.open(os.path.join(self.images_dir, self.data_files[idx].replace('.json', '.png')))
+            image = Image.open(data['image_path'])
 
         sample = {
             'data': data,

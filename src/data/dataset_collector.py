@@ -5,14 +5,7 @@ from tqdm import tqdm
 
 from const import datasets, experimental_set
 from src.data.raw_datasets import get_dataset
-
-
-def save_dict_to_json(file_path, dictionary):
-    try:
-        with open(file_path, 'w') as json_file:
-            json.dump(dictionary, json_file, indent=4)
-    except Exception as e:
-        print(f"An error occurred while saving the dictionary to JSON: {e}")
+from src.utils.json_utils import save_dict_to_json
 
 
 class DatasetCollector:

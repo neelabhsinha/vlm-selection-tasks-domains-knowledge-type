@@ -69,4 +69,4 @@ if __name__ == '__main__':
         dataset_collector = DatasetCollector(split=args.split)
         dataset_collector.process_datasets()
     if args.task == 'generate_image_descriptors':
-        generate_image_descriptors(split=args.split)
+        generate_image_descriptors(split=args.split, batch_size=args.batch_size)
