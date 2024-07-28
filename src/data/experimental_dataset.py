@@ -1,7 +1,6 @@
 import os
-import json
 from PIL import Image
-from torch.utils.data import Dataset, DataLoader, Sampler
+from torch.utils.data import Dataset, Sampler
 from const import experimental_set
 from src.utils.json_utils import read_json
 
@@ -26,6 +25,7 @@ class ExperimentalDataset(Dataset):
                  split='test'):
         self.images_dir = os.path.join(experimental_set, split, 'images')
         self.data_dir = os.path.join(experimental_set, split, 'data')
+        self.image_descriptors_dir = os.path.join(experimental_set, split, 'image_descriptors')
         self.split = split
         self.get_images = get_images
         self.get_image_descriptors = get_image_descriptors
@@ -36,14 +36,14 @@ class ExperimentalDataset(Dataset):
         return len(self.data_files)
 
     def __getitem__(self, idx):
-        data = None
         image = None
         image_descriptors = None
         classification = None
         data = read_json(os.path.join(self.data_dir, self.data_files[idx]))
         if self.get_images:
             image = Image.open(data['image_path'])
-
+        if self.get_image_descriptors:
+            image_descriptors = read_json(os.path.join(self.image_descriptors_dir, self.data_files[idx]))
         sample = {
             'data': data,
             'image': image,

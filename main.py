@@ -4,6 +4,7 @@ from const import tasks
 
 from src.data.dataset_collector import DatasetCollector
 from src.utils.image_descriptor_generator import generate_image_descriptors
+from src.utils.task_instance_classifications_generator import generate_task_instance_classifications
 
 
 def configure_huggingface():
@@ -70,3 +71,6 @@ if __name__ == '__main__':
         dataset_collector.process_datasets()
     if args.task == 'generate_image_descriptors':
         generate_image_descriptors(split=args.split, batch_size=args.batch_size)
+    if args.task == 'generate_instance_classifications':
+        generate_task_instance_classifications(split=args.split)
+
