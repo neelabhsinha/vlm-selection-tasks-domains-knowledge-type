@@ -29,8 +29,8 @@ def generate_task_instance_classifications(split='test'):
             'dataset': data['dataset'],
             'key': data['key'],
             'task_type': classification_type,
-            'application_domain': domains['application_domain'],
-            'knowledge_type': knowledge_types['knowledge_type']
+            'application_domain': domains['application_domain'] if 'application_domain' in domains else 'Other' ,
+            'knowledge_type': knowledge_types['knowledge_type'] if 'knowledge_type' in knowledge_types else 'Other'
         }
         file_name = dataset[idx]['data']['dataset'] + '_' + str(dataset[idx]['data']['key']) + '.json'
         dir_name = f'{experimental_set}/{split}/task_instance_classifications'
