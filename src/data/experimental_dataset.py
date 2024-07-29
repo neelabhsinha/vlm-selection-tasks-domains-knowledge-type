@@ -26,6 +26,7 @@ class ExperimentalDataset(Dataset):
         self.images_dir = os.path.join(experimental_set, split, 'images')
         self.data_dir = os.path.join(experimental_set, split, 'data')
         self.image_descriptors_dir = os.path.join(experimental_set, split, 'image_descriptors')
+        self.instance_classifications_dir = os.path.join(experimental_set, split, 'task_instance_classifications')
         self.split = split
         self.get_images = get_images
         self.get_image_descriptors = get_image_descriptors
@@ -44,6 +45,8 @@ class ExperimentalDataset(Dataset):
             image = Image.open(data['image_path'])
         if self.get_image_descriptors:
             image_descriptors = read_json(os.path.join(self.image_descriptors_dir, self.data_files[idx]))
+        if self.get_classification:
+            classification = read_json(os.path.join(self.instance_classifications_dir, self.data_files[idx]))
         sample = {
             'data': data,
             'image': image,
@@ -51,3 +54,7 @@ class ExperimentalDataset(Dataset):
             'classification': classification
         }
         return sample
+
+
+def raw_collate_function(batch):
+    return batch
