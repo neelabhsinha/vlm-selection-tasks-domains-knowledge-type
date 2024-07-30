@@ -1,11 +1,11 @@
 import argparse
 import os
-from const import tasks
+from const import tasks, supported_models
 
 from src.data.dataset_collector import DatasetCollector
 from src.utils.image_descriptor_generator import generate_image_descriptors
 from src.utils.task_instance_classifications_generator import generate_task_instance_classifications
-from src.utils.eval import evaluate
+from src.utils.execute import execute_vlm
 
 
 def configure_huggingface():
@@ -35,7 +35,7 @@ def get_args():
     parser.add_argument("--task", type=str, default='eval', choices=tasks,
                         help="Specify the task to perform. Options are based on predefined tasks in the 'tasks'"
                              " module.")
-    parser.add_argument("--model_name", nargs='+', default=None,
+    parser.add_argument("--model_name", nargs='+', default=None, choices=supported_models,
                         help="List of model names to be used for the evaluation or any other specified task.")
 
     # Sampling configuration (if none is selected, decoder defaults to greedy sampling)
@@ -75,6 +75,6 @@ if __name__ == '__main__':
         generate_image_descriptors(split=args.split, batch_size=args.batch_size)
     if args.task == 'generate_instance_classifications':
         generate_task_instance_classifications(split=args.split)
-    if args.task == 'evaluate':
-        evaluate(model_name, args.batch_size, args.do_sample, args.top_k, args.top_p)
+    if args.task == 'execute':
+        execute_vlm(model_name, args.batch_size, args.do_sample, args.top_k, args.top_p)
 

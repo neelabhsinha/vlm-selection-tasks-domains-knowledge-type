@@ -64,12 +64,11 @@ def collate_function(batch):
         questions.append(instance['data']['question'])
         images.append(instance['image'])
         labels.append(instance['data']['label'])
-        task_types.append(', '.join(instance['classification']['task_type']))
-        domains.append(', '.join(instance['classification']['application_domain']))
-        knowledge_types.append(', '.join(instance['classification']['knowledge_type']))
+        task_types.append(instance['classification']['task_type'])
+        domains.append(instance['classification']['application_domain'])
+        knowledge_types.append(instance['classification']['knowledge_type'])
         image_paths.append(instance['data']['image_path'])
         datasets.append(instance['data']['dataset'])
         keys.append(instance['data']['key'])
-
     return questions, images, labels, task_types, domains, knowledge_types, image_paths, datasets, keys
 

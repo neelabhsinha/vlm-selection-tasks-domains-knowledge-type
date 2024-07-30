@@ -6,9 +6,9 @@ experimental_set = f'{project_root}/experimental_dataset'
 results_dir = f'{project_root}/results'  # results directory
 
 datasets = ['ChartQA', 'DocumentVQA', 'OK-VQA', 'A-OKVQA', 'COCO', 'VQAv2']
-tasks = ['collect_experimental_data', 'generate_image_descriptors', 'generate_instance_classifications', 'evaluate',
+tasks = ['collect_experimental_data', 'generate_image_descriptors', 'generate_instance_classifications', 'execute',
          'generate_quantitative_results']
-supported_models = ['paligemma-3b-mix-224', 'paligemma-3b-pt-448', 'paligemma-3b-pt-896']
+supported_models = ['paligemma-3b-mix-224', 'paligemma-3b-pt-224', 'paligemma-3b-pt-448', 'paligemma-3b-mix-448', 'paligemma-3b-pt-896', 'llava-v1.6-34b-hf', 'llava-v1.6-mistral-7b-hf']
 
 dataset_to_text_type_mapping = {
     'ChartQA': 'Chart Understanding',

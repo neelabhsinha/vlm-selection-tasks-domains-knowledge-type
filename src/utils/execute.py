@@ -7,12 +7,12 @@ import torch
 
 from const import cache_dir, results_dir
 from src.data.experimental_dataset import ExperimentalDataset, ExperimentalDatasetSampler, collate_function
-from src.model.vlm import PaliGemma
+from src.model.vlm import PaliGemma, LlavaNext
 from src.utils.results_io_util import write_results
 from src.utils.gpu_stats import get_gpu_memory
 
 
-def evaluate(model_name, batch_size, do_sample=False, top_k=None, top_p=None, checkpoint=None):
+def execute_vlm(model_name, batch_size, do_sample=False, top_k=None, top_p=None, checkpoint=None):
     parameters_dict = {'model_name': model_name, 'top_k': top_k, 'top_p': top_p, 'checkpoint': checkpoint}
     print('Parameters -')
     print(str(parameters_dict) + '\n\n')
@@ -21,6 +21,8 @@ def evaluate(model_name, batch_size, do_sample=False, top_k=None, top_p=None, ch
     dataloader = DataLoader(dataset, batch_sampler=sampler, collate_fn=collate_function)
     if 'paligemma' in model_name:
         model = PaliGemma(model_name, do_sample, top_k, top_p, checkpoint)
+    elif 'llava' in model_name:
+        model = LlavaNext(model_name, do_sample, top_k, top_p, checkpoint)
     else:
         raise ValueError(f'Specified model {model_name} not currently supported.')
     name = checkpoint if checkpoint is not None else ('pretrained--' + model_name.replace('/', '--'))
@@ -39,7 +41,6 @@ def evaluation_loop(dataloader, model, model_name):
         try:
             with torch.no_grad():
                 response = model(questions, images)
-            print(response)
             results['dataset'].extend(datasets)
             results['key'].extend(keys)
             results['question'].extend(questions)
@@ -49,7 +50,6 @@ def evaluation_loop(dataloader, model, model_name):
             results['task_type'].extend(task_types)
             results['domain'].extend(domains)
             results['knowledge_type'].extend(knowledge_types)
-            break
         except torch.cuda.OutOfMemoryError:
             torch.cuda.empty_cache()
             print('\nCuda Out of Memory Error: Clearing Cache', file=sys.stderr)
