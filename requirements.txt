@@ -13,3 +13,4 @@ kaleido
 tqdm
 openai
 pillow
+torchvision

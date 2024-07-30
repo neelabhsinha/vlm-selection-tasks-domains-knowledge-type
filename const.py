@@ -8,6 +8,7 @@ results_dir = f'{project_root}/results'  # results directory
 datasets = ['ChartQA', 'DocumentVQA', 'OK-VQA', 'A-OKVQA', 'COCO', 'VQAv2']
 tasks = ['collect_experimental_data', 'generate_image_descriptors', 'generate_instance_classifications', 'evaluate',
          'generate_quantitative_results']
+supported_models = ['paligemma-3b-mix-224', 'paligemma-3b-pt-448', 'paligemma-3b-pt-896']
 
 dataset_to_text_type_mapping = {
     'ChartQA': 'Chart Understanding',

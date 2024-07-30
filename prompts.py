@@ -28,5 +28,3 @@ domain_prompt = (
     "What type of application domain does this task belong to? Choose one or many alternatives from the above options.\n"
     "Return output as list of strings as JSON Object. Example: {{'application_domain': ['domain_a', 'domain_b']}}"
 )
-
-phi_3_vision_prompt_template = '<|user|>\n<|image_1|>\n{question}<|end|>\n<|assistant|>\n'

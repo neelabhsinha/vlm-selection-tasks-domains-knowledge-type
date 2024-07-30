@@ -43,6 +43,8 @@ class ExperimentalDataset(Dataset):
         data = read_json(os.path.join(self.data_dir, self.data_files[idx]))
         if self.get_images:
             image = Image.open(data['image_path'])
+            if image.mode != 'RGB':
+                image = image.convert('RGB')
         if self.get_image_descriptors:
             image_descriptors = read_json(os.path.join(self.image_descriptors_dir, self.data_files[idx]))
         if self.get_classification:
@@ -56,5 +58,18 @@ class ExperimentalDataset(Dataset):
         return sample
 
 
-def raw_collate_function(batch):
-    return batch
+def collate_function(batch):
+    questions, images, labels, task_types, domains, knowledge_types, image_paths, datasets, keys = [], [], [], [], [], [], [], [], []
+    for instance in batch:
+        questions.append(instance['data']['question'])
+        images.append(instance['image'])
+        labels.append(instance['data']['label'])
+        task_types.append(', '.join(instance['classification']['task_type']))
+        domains.append(', '.join(instance['classification']['application_domain']))
+        knowledge_types.append(', '.join(instance['classification']['knowledge_type']))
+        image_paths.append(instance['data']['image_path'])
+        datasets.append(instance['data']['dataset'])
+        keys.append(instance['data']['key'])
+
+    return questions, images, labels, task_types, domains, knowledge_types, image_paths, datasets, keys
+
