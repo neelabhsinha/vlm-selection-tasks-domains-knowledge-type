@@ -1,6 +1,7 @@
 import argparse
 import os
 from const import tasks, supported_models
+import torch
 
 from src.data.dataset_collector import DatasetCollector
 from src.utils.image_descriptor_generator import generate_image_descriptors
@@ -63,10 +64,7 @@ def get_args():
 
     return parser.parse_args()
 
-
-if __name__ == '__main__':
-    configure_huggingface()
-    args = get_args()
+def execution_flow():
     model_name = args.model_name[0] if (args.model_name is not None and len(args.model_name) == 1) else args.model_name
     if args.task == 'collect_experimental_data':
         dataset_collector = DatasetCollector(split=args.split)
@@ -77,4 +75,14 @@ if __name__ == '__main__':
         generate_task_instance_classifications(split=args.split)
     if args.task == 'execute':
         execute_vlm(model_name, args.batch_size, args.do_sample, args.top_k, args.top_p)
+
+if __name__ == '__main__':
+    configure_huggingface()
+    args = get_args()
+    current_device = torch.cuda.current_device()
+    if current_device==0:
+        execution_flow()
+    else:
+        print('Terminating process on device', current_device)
+    
 

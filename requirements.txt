@@ -14,3 +14,5 @@ tqdm
 openai
 pillow
 torchvision
+google-generativeai
+xformers
