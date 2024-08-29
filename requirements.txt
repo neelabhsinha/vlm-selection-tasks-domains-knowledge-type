@@ -16,3 +16,4 @@ pillow
 torchvision
 google-generativeai
 xformers
+timm

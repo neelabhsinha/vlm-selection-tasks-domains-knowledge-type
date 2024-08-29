@@ -3,9 +3,13 @@ import os
 import base64
 import requests
 import io
-
-from transformers import AutoProcessor, PaliGemmaForConditionalGeneration, BitsAndBytesConfig, LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer
 import google.generativeai as genai
+import numpy as np
+import torchvision.transforms as T
+from torchvision.transforms.functional import InterpolationMode
+
+from transformers import AutoProcessor, PaliGemmaForConditionalGeneration, BitsAndBytesConfig, LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer, AutoModel
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 from const import cache_dir
 
@@ -14,6 +18,9 @@ from PIL import Image
 
 TORCH_DTYPE = torch.bfloat16 if torch.cuda.is_available() and torch.cuda.get_device_capability()[
     0] >= 8 else torch.float16
+
+np.float_ = np.float64
+np.complex_ = np.complex128
 
 def print_model_info(model, model_name):
     value_counts = Counter(model.hf_device_map.values())
@@ -41,7 +48,7 @@ class PaliGemma:
             load_in_4bit=True,
             bnb_4bit_quant_type="nf4",
             bnb_4bit_use_double_quant=True,
-            bnb_4bit_compute_dtype=torch.bfloat16
+            bnb_4bit_compute_dtype=TORCH_DTYPE
         )
         if 'paligemma' in self.model_name:
             self.model = PaliGemmaForConditionalGeneration.from_pretrained(self.model_name, cache_dir=cache_dir, device_map='auto', 
@@ -75,14 +82,17 @@ class LlavaNext:
             load_in_4bit=True,
             bnb_4bit_quant_type="nf4",
             bnb_4bit_use_double_quant=True,
-            bnb_4bit_compute_dtype=torch.float16
+            bnb_4bit_compute_dtype=TORCH_DTYPE
         )
         if 'mistral' in self.model_name:
             self.prompt_template = '[INST] <image>\n{question} [/INST]'
         elif '34b' in self.model_name:
             self.prompt_template = '<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n{question}<|im_end|><|im_start|>assistant\n'
+        elif 'vicuna' in self.model_name:
+            self.prompt_template = "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <image>\n{question} ASSISTANT:"
         self.model = LlavaNextForConditionalGeneration.from_pretrained(self.model_name, cache_dir=cache_dir, device_map='auto', low_cpu_mem_usage=True, 
                                                                     torch_dtype=TORCH_DTYPE, attn_implementation = 'flash_attention_2')
+        self.model.eval()
         self.processor = AutoProcessor.from_pretrained(self.model_name, cache_dir=cache_dir)
         self.device = next(self.model.parameters()).device
         self.do_sample = do_sample
@@ -119,12 +129,22 @@ class Gemini:
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name=model_name)
         self.prompt_prefix = 'Only answer the below question. Do not provide any additional information.\n'
+        self.safety_settings={
+        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+        HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+    }
         
     def __call__(self, questions, images):
         responses = []
+        images = [resize_image(image, 448) for image in images]
         for question, image in zip(questions, images):
-            response = self.model.generate_content([self.prompt_prefix + question, image])
-            responses.append(response.text)
+            try:
+                response = self.model.generate_content([self.prompt_prefix + question, image], safety_settings=self.safety_settings)
+                responses.append(response.text)
+            except Exception as e:
+                responses.append(f"Error generating response: {e}")
         return responses
     
 class GPT4o:
@@ -144,6 +164,7 @@ class GPT4o:
     
     def __call__(self, questions, images):
         responses = []
+        images = [resize_image(image, 448) for image in images]
         for question, image in zip(questions, images):
             try:
                 base64_image = self._encode_image(image)
@@ -173,7 +194,10 @@ class GPT4o:
 
             response = requests.post("https://api.openai.com/v1/chat/completions", headers=self._headers, json=payload)
             response = response.json()
-            responses.append(response['choices'][0]['message']['content'])
+            try:
+                responses.append(response['choices'][0]['message']['content'])
+            except Exception as e:
+                responses.append(f"Error generating response: {e}")
         return responses
 
 class CogVLM2:
@@ -185,7 +209,7 @@ class CogVLM2:
             load_in_4bit=True,
             bnb_4bit_quant_type="nf4",
             bnb_4bit_use_double_quant=True,
-            bnb_4bit_compute_dtype=torch.float16
+            bnb_4bit_compute_dtype=TORCH_DTYPE
         )
         self.model = AutoModelForCausalLM.from_pretrained(self.model_name, device_map='auto', cache_dir=cache_dir, low_cpu_mem_usage=True, trust_remote_code=True,
                                                                     torch_dtype=TORCH_DTYPE)
@@ -251,5 +275,123 @@ class CogVLM2:
         else:
             return item
         
-            
+class InternVL2:
+    def __init__(self, model_name, do_sample, top_k, top_p, checkpoint):
+        path = f'OpenGVLab/{model_name}' if checkpoint is None else checkpoint
+        self.nf4_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_compute_dtype=TORCH_DTYPE
+        )
+        self.model = AutoModel.from_pretrained(
+                        path,
+                        cache_dir = cache_dir,
+                        torch_dtype=TORCH_DTYPE,
+                        load_in_4bit=True,
+                        low_cpu_mem_usage=True,
+                        use_flash_attn=True,
+                        trust_remote_code=True,
+                        device_map='auto')
+        self.model.eval()
+        self.tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True, use_fast=False, cache_dir=cache_dir)  
+        self._gen_kwargs = {
+            "do_sample": do_sample,
+            "top_k": top_k,
+            "top_p": top_p,
+            "max_new_tokens": 2048
+        }
+        self.device = next(self.model.parameters()).device
+
+    def _build_transform(self, input_size):
+        IMAGENET_MEAN = (0.485, 0.456, 0.406)
+        IMAGENET_STD = (0.229, 0.224, 0.225)
+        MEAN, STD = IMAGENET_MEAN, IMAGENET_STD
+        transform = T.Compose([
+            T.Lambda(lambda img: img.convert('RGB') if img.mode != 'RGB' else img),
+            T.Resize((input_size, input_size), interpolation=InterpolationMode.BICUBIC),
+            T.ToTensor(),
+            T.Normalize(mean=MEAN, std=STD)
+        ])
+        return transform
+
+    def _find_closest_aspect_ratio(self, aspect_ratio, target_ratios, width, height, image_size):
+        best_ratio_diff = float('inf')
+        best_ratio = (1, 1)
+        area = width * height
+        for ratio in target_ratios:
+            target_aspect_ratio = ratio[0] / ratio[1]
+            ratio_diff = abs(aspect_ratio - target_aspect_ratio)
+            if ratio_diff < best_ratio_diff:
+                best_ratio_diff = ratio_diff
+                best_ratio = ratio
+            elif ratio_diff == best_ratio_diff:
+                if area > 0.5 * image_size * image_size * ratio[0] * ratio[1]:
+                    best_ratio = ratio
+        return best_ratio
+
+    def _dynamic_preprocess(self, image, min_num=1, max_num=12, image_size=448, use_thumbnail=False):
+        orig_width, orig_height = image.size
+        aspect_ratio = orig_width / orig_height
+
+        # calculate the existing image aspect ratio
+        target_ratios = set(
+            (i, j) for n in range(min_num, max_num + 1) for i in range(1, n + 1) for j in range(1, n + 1) if
+            i * j <= max_num and i * j >= min_num)
+        target_ratios = sorted(target_ratios, key=lambda x: x[0] * x[1])
+
+        # find the closest aspect ratio to the target
+        target_aspect_ratio = self._find_closest_aspect_ratio(
+            aspect_ratio, target_ratios, orig_width, orig_height, image_size)
+
+        # calculate the target width and height
+        target_width = image_size * target_aspect_ratio[0]
+        target_height = image_size * target_aspect_ratio[1]
+        blocks = target_aspect_ratio[0] * target_aspect_ratio[1]
+
+        # resize the image
+        resized_img = image.resize((target_width, target_height))
+        processed_images = []
+        for i in range(blocks):
+            box = (
+                (i % (target_width // image_size)) * image_size,
+                (i // (target_width // image_size)) * image_size,
+                ((i % (target_width // image_size)) + 1) * image_size,
+                ((i // (target_width // image_size)) + 1) * image_size
+            )
+            split_img = resized_img.crop(box)
+            processed_images.append(split_img)
+        assert len(processed_images) == blocks
+        if use_thumbnail and len(processed_images) != 1:
+            thumbnail_img = image.resize((image_size, image_size))
+            processed_images.append(thumbnail_img)
+        return processed_images
+
+    def _load_image(self, image, input_size=448, max_num=12):
+        if image.mode != 'RGB':
+            image = image.convert('RGB')
+        transform = self._build_transform(input_size=input_size)
+        images = self._dynamic_preprocess(image, image_size=input_size, use_thumbnail=True, max_num=max_num)
+        pixel_values = [transform(image) for image in images]
+        pixel_values = torch.stack(pixel_values).to(self.device).to(TORCH_DTYPE)
+        return pixel_values
+    
+    def __call__(self, questions, images):
+        pixel_values_list = []
+        num_patches_list = []
+
+        for image in images:
+            pixel_values = self._load_image(image)
+            num_patches_list.append(pixel_values.size(0))
+            pixel_values_list.append(pixel_values)
+        pixel_values = torch.cat(pixel_values_list, dim=0)
+        questions = [f'<image>\n{question}' for question in questions]
+        with torch.no_grad():
+            responses = self.model.batch_chat(self.tokenizer, pixel_values,
+                                            num_patches_list=num_patches_list,
+                                            questions=questions,
+                                            generation_config=self._gen_kwargs)
+        return responses
+
+    
             
