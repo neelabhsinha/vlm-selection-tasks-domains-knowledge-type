@@ -102,6 +102,7 @@ class LlavaNext:
         print_model_info(self.model, self.model_name)
         
     def __call__(self, questions, images):
+        images = [resize_image(image, 448) for image in images]
         prompts = self._get_prompt(questions, images)
         inputs = inputs = self.processor(text=prompts, images=images, return_tensors="pt", padding=True)
         inputs = inputs.to(device=self.device)
@@ -223,6 +224,7 @@ class CogVLM2:
         print_model_info(self.model, self.model_name)
         
     def __call__(self, questions, images):
+        images = [resize_image(image, 448) for image in images]
         input_batch = []
         for question, image in zip(questions, images):
             input_sample = self.model.build_conversation_input_ids(self.tokenizer, query=question, history=[], images=[image], template_version='chat')
@@ -233,7 +235,8 @@ class CogVLM2:
         with torch.no_grad():
             outputs = self.model.generate(**input_batch, **self.gen_kwargs)
             outputs = outputs[:, input_batch['input_ids'].shape[1]:]
-            outputs = self.tokenizer.batch_decode(outputs)
+            outputs = self.tokenizer.batch_decode(outputs, skip_special_tokens=True)
+        return outputs
             
     def _collate(self, features, tokenizer) -> dict:
         images = [feature.pop('images', None) for feature in features if 'images' in feature]
@@ -302,6 +305,7 @@ class InternVL2:
             "max_new_tokens": 2048
         }
         self.device = next(self.model.parameters()).device
+        print_model_info(self.model, self.model_name)
 
     def _build_transform(self, input_size):
         IMAGENET_MEAN = (0.485, 0.456, 0.406)
@@ -379,7 +383,7 @@ class InternVL2:
     def __call__(self, questions, images):
         pixel_values_list = []
         num_patches_list = []
-
+        images = [resize_image(image, 448) for image in images]
         for image in images:
             pixel_values = self._load_image(image)
             num_patches_list.append(pixel_values.size(0))
