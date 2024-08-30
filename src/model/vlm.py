@@ -7,8 +7,9 @@ import google.generativeai as genai
 import numpy as np
 import torchvision.transforms as T
 from torchvision.transforms.functional import InterpolationMode
+from qwen_vl_utils import process_vision_info
 
-from transformers import AutoProcessor, PaliGemmaForConditionalGeneration, BitsAndBytesConfig, LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer, AutoModel
+from transformers import AutoProcessor, PaliGemmaForConditionalGeneration, BitsAndBytesConfig, LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer, AutoModel, Qwen2VLForConditionalGeneration
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 from const import cache_dir
@@ -395,6 +396,80 @@ class InternVL2:
                                             num_patches_list=num_patches_list,
                                             questions=questions,
                                             generation_config=self._gen_kwargs)
+        return responses
+    
+class Qwen2VL:
+    def __init__(self, model_name, do_sample, top_k, top_p, checkpoint):
+        path = f'Qwen/{model_name}' if checkpoint is None else checkpoint
+        self.nf4_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_compute_dtype=TORCH_DTYPE
+        )
+        self.model = Qwen2VLForConditionalGeneration.from_pretrained(
+                path,
+                cache_dir=cache_dir,
+                torch_dtype=TORCH_DTYPE,
+                attn_implementation="flash_attention_2",
+                quantization_config=self.nf4_config,
+                low_cpu_mem_usage=True,
+                device_map="auto",
+            )
+        self.processor = AutoProcessor.from_pretrained(path, cache_dir=cache_dir)
+        self.prompt_prefix = 'Only answer the below question. Do not provide any additional information.\n'
+        self._gen_kwargs = {
+            "do_sample": do_sample,
+            "top_k": top_k,
+            "top_p": top_p,
+            "max_new_tokens": 2048
+        }
+        self.device = next(self.model.parameters()).device
+        print_model_info(self.model, model_name)
+        
+    def _encode_image(self, image):
+        buffered = io.BytesIO()
+        image.save(buffered, format='PNG')
+        return base64.b64encode(buffered.getvalue()).decode('utf-8')
+        
+    def _prepare_input(self, images, questions):
+        messages = []
+        for image, question in zip(images, questions):
+            base64_image = self._encode_image(image)
+            message = [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "image", "image": f"data:image/png;base64,{base64_image}"},
+                        {"type": "text", "text": f'{self.prompt_prefix}\n{question}'},
+                    ],
+                }
+            ]
+            messages.append(message)
+        texts = [
+        self.processor.apply_chat_template(msg, tokenize=False, add_generation_prompt=True)
+            for msg in messages
+        ]
+        image_inputs, video_inputs = process_vision_info(messages)
+        inputs = self.processor(
+            text=texts,
+            images=image_inputs,
+            videos=video_inputs,
+            padding=True,
+            return_tensors="pt",
+        )
+        return inputs
+    
+    def __call__(self, questions, images):
+        images = [resize_image(image, 448) for image in images]
+        inputs = self._prepare_input(images, questions)
+        inputs = inputs.to(device=self.device)
+        with torch.no_grad():
+            generated_ids = self.model.generate(**inputs, **self._gen_kwargs)
+            generated_ids_trimmed = [
+                out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+            ]
+        responses = self.processor.batch_decode(generated_ids_trimmed, skip_special_tokens=True)
         return responses
 
     

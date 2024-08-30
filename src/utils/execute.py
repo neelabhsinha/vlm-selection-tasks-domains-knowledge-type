@@ -7,7 +7,7 @@ import torch
 
 from const import results_dir
 from src.data.experimental_dataset import ExperimentalDataset, ExperimentalDatasetSampler, collate_function
-from src.model.vlm import InternVL2, PaliGemma, LlavaNext, Gemini, GPT4o, CogVLM2
+from src.model.vlm import InternVL2, PaliGemma, LlavaNext, Gemini, GPT4o, CogVLM2, Qwen2VL
 from src.utils.results_io_util import write_results
 from src.utils.gpu_stats import get_gpu_memory
 
@@ -31,6 +31,8 @@ def execute_vlm(model_name, batch_size, do_sample=False, top_k=None, top_p=None,
         model = CogVLM2(model_name, do_sample, top_k, top_p, checkpoint)
     elif 'InternVL2' in model_name:
         model = InternVL2(model_name, do_sample, top_k, top_p, checkpoint)
+    elif 'Qwen2' in model_name:
+        model = Qwen2VL(model_name, do_sample, top_k, top_p, checkpoint)
     else:
         raise ValueError(f'Specified model {model_name} not currently supported.')
     name = checkpoint if checkpoint is not None else ('pretrained--' + model_name.replace('/', '--'))

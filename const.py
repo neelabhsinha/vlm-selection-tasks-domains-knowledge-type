@@ -13,7 +13,8 @@ supported_models = ['paligemma-3b-mix-224', 'paligemma-3b-pt-224', 'paligemma-3b
                     'gpt-4o', 'gpt-4o-mini', 
                     'gemini-1.5-flash', 'gemini-1.5-pro', 
                     'cogvlm2-llama3-chat-19B',
-                    'InternVL2-1B','InternVL2-2B', 'InternVL2-4B', 'InternVL2-8B', 'InternVL2-26B', 'InternVL2-40B']
+                    'InternVL2-1B','InternVL2-2B', 'InternVL2-4B', 'InternVL2-8B', 'InternVL2-26B', 'InternVL2-40B',
+                    'Qwen2-VL-2B-Instruct', 'Qwen2-VL-7B-Instruct']
 
 dataset_to_text_type_mapping = {
     'ChartQA': 'Chart Understanding',

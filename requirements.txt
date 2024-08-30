@@ -17,3 +17,4 @@ torchvision
 google-generativeai
 xformers
 timm
+qwen-vl-utils
