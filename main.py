@@ -7,6 +7,7 @@ from src.data.dataset_collector import DatasetCollector
 from src.utils.image_descriptor_generator import generate_image_descriptors
 from src.utils.task_instance_classifications_generator import generate_task_instance_classifications
 from src.utils.execute import execute_vlm
+from src.utils.evaluate_results import compute_metric
 
 
 def configure_huggingface():
@@ -61,6 +62,10 @@ def get_args():
     parser.add_argument('--filter_reasoning', action='store_true',
                         help='Activate this to apply reasoning-specific filters during the results aggregation process,'
                              ' according to predefined lists.')
+    
+    parser.add_argument('--metric', type=str, default='bert_score', help='Specify the metric to compute. Default is bert_score.')
+    
+    parser.add_argument('--results_folder', type=str, default=None, help='Specify the results folder to compute metrics for.')
 
     return parser.parse_args()
 
@@ -75,6 +80,9 @@ def execution_flow():
         generate_task_instance_classifications(split=args.split)
     if args.task == 'execute':
         execute_vlm(model_name, args.batch_size, args.do_sample, args.top_k, args.top_p)
+    if args.task == 'compute_metrics':
+        compute_metric(args.metric, args.force_recompute, args.results_folder)
+        
 
 if __name__ == '__main__':
     configure_huggingface()

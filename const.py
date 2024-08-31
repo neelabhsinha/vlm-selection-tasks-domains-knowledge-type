@@ -7,7 +7,7 @@ results_dir = f'{project_root}/results'  # results directory
 
 datasets = ['ChartQA', 'DocumentVQA', 'OK-VQA', 'A-OKVQA', 'COCO', 'VQAv2']
 tasks = ['collect_experimental_data', 'generate_image_descriptors', 'generate_instance_classifications', 'execute',
-         'generate_quantitative_results']
+         'compute_metrics']
 supported_models = ['paligemma-3b-mix-224', 'paligemma-3b-pt-224', 'paligemma-3b-pt-448', 'paligemma-3b-mix-448', 'paligemma-3b-pt-896', 
                     'llava-v1.6-34b-hf', 'llava-v1.6-mistral-7b-hf', 'llava-v1.6-vicuna-7b-hf', 'llava-v1.6-vicuna-13b-hf',
                     'gpt-4o', 'gpt-4o-mini', 

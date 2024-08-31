@@ -1,4 +1,7 @@
 import os
+from const import results_dir
+import pandas as pd
+import ast
 
 # from const import beautified_model_names
 
@@ -15,6 +18,15 @@ def write_results(results_df, dir_path, parameters_dict=None):
     description.to_csv(f'{dir_path}/result_statistics.csv')
     results_df.to_csv(f'{dir_path}/predictions.csv', index=False)
 
+def process_list_field(field):
+    if isinstance(field, str):
+        try:
+            parsed_field = ast.literal_eval(field)
+            if isinstance(parsed_field, list):
+                return ';'.join(parsed_field)
+        except (ValueError, SyntaxError):
+            return field
+    return field
 
 # def parse_name_to_dict(name):
 #     parts = name.split('--')
