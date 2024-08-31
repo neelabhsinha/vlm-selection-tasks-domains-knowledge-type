@@ -18,12 +18,17 @@ def write_results(results_df, dir_path, parameters_dict=None):
     description.to_csv(f'{dir_path}/result_statistics.csv')
     results_df.to_csv(f'{dir_path}/predictions.csv', index=False)
 
-def process_list_field(field):
+def process_list_field(field, get_combined=True):
     if isinstance(field, str):
         try:
             parsed_field = ast.literal_eval(field)
             if isinstance(parsed_field, list):
-                return ';'.join(parsed_field)
+                if get_combined:
+                    return ';'.join(parsed_field)
+                else:
+                    most_frequent_string = max(set(s.lower() for s in parsed_field), key=lambda x: sum(1 for s in parsed_field if s.lower() == x))
+                    field = next(s for s in parsed_field if s.lower() == most_frequent_string)
+                return field
         except (ValueError, SyntaxError):
             return field
     return field
