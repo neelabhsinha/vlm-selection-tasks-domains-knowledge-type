@@ -25,7 +25,7 @@ dataset_to_text_type_mapping = {
     'VQAv2': 'Visual Question-Answering'
 }
 
-valid_application_domains = categories = [
+valid_application_domains = [
     "Anthropology",
     "Books",
     "Computer Science",
