@@ -92,7 +92,14 @@ class GOEval:
     def get_response(self, question, image, reference, prediction):
         payload = self._get_instance_payload(question, image, reference, prediction)
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=self._headers, json=payload)
-        response = response.json()
+        if (
+            response.status_code != 204 and
+            response.headers["content-type"].strip().startswith("application/json")
+        ):
+            try:
+                response = response.json()
+            except ValueError:
+                response = None
         try:
             out = response['choices'][0]['message']['content']
             return 1 if 'yes' in out.lower() else 0

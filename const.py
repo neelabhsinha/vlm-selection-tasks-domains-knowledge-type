@@ -4,7 +4,7 @@ project_root = '.'
 cache_dir = f'{project_root}/cache'
 experimental_set = f'{project_root}/experimental_dataset'
 results_dir = f'{project_root}/results'  # results directory
-aggregated_results_dir = f'{results_dir}/aggregated_results'  # aggregated results directory
+aggregated_results_dir = f'{project_root}/aggregated_results'  # aggregated results directory
 
 datasets = ['ChartQA', 'DocumentVQA', 'OK-VQA', 'A-OKVQA', 'COCO', 'VQAv2']
 tasks = ['collect_experimental_data', 'generate_image_descriptors', 'generate_instance_classifications', 'execute',
