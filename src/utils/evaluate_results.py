@@ -1,5 +1,5 @@
 from const import results_dir
-from src.model.go_eval import GOEval
+from src.metrics.go_eval import GOEval
 from src.utils.results_io_util import write_results, process_list_field
 import numpy as np
 from tqdm import tqdm
