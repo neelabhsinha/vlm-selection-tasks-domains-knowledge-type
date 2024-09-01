@@ -18,3 +18,4 @@ google-generativeai
 xformers
 timm
 qwen-vl-utils
+scipy 

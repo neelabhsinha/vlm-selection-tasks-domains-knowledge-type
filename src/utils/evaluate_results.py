@@ -25,9 +25,10 @@ def compute_metric(metric, force_recompute=False, results_folder=None):
     if 'rouge' in metric:
         rouge_calculator = RougeScore()
     if 'GOEval' in metric:
-        reference_type = 'referenced' if 'referenced' in metric else 'referenceless'
+        use_reference = False if 'referenceless' in metric else True
+        use_image = False if 'imageless' in metric else True
         model_name = 'gpt-4o' if 'mini' not in metric else 'gpt-4o-mini'
-        go_eval_calculator = GOEval(mode=reference_type, model_name=model_name)
+        go_eval_calculator = GOEval(model_name=model_name, use_reference=use_reference, use_image=use_image)
     for file in tqdm(files, desc=f'Calculating {metric} for results'):
         path = os.path.join(results_dir, file, 'predictions.csv')
         try:

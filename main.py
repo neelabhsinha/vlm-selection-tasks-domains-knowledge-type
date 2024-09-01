@@ -8,6 +8,7 @@ from src.utils.image_descriptor_generator import generate_image_descriptors
 from src.utils.task_instance_classifications_generator import generate_task_instance_classifications
 from src.utils.execute import execute_vlm
 from src.utils.evaluate_results import compute_metric
+from src.utils.aggregate_results import calculate_correlation_between_matrix
 
 
 def configure_huggingface():
@@ -82,6 +83,8 @@ def execution_flow():
         execute_vlm(model_name, args.batch_size, args.do_sample, args.top_k, args.top_p)
     if args.task == 'compute_metrics':
         compute_metric(args.metric, args.force_recompute, args.results_folder)
+    if args.task == 'collect_results':
+        calculate_correlation_between_matrix(args.results_folder)
         
 
 if __name__ == '__main__':

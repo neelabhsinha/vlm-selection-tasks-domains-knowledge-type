@@ -12,8 +12,8 @@ from src.model.vlm import resize_image
 
 
 class GOEval:
-    def __init__(self, model_name = 'gpt-4o', mode='referenced', max_tokens=10):
-        self.mode = mode
+    def __init__(self, model_name = 'gpt-4o', use_reference=True, max_tokens=10, use_image=True):
+        self.use_reference = use_reference
         self.model_name = model_name
         print('Initializing GOEval with model:', model_name)
         api_key = os.getenv('OPENAI_API_KEY')
@@ -22,43 +22,71 @@ class GOEval:
             "Authorization": f"Bearer {api_key}"
         }
         self.client = OpenAI()
+        self.use_image = use_image
         self.referenced_prompt_template = 'Question: {question}\n Reference Answers:{reference}\nCandidate Answer: {candidate}\n\nConsider Reference Answers to be multiple answers provided for the given question in context with the above image. If there are multiple answers, they are separated by semi-colon(;). Based on the image, is the candidate answer a correct answer for the given question? Answer only \'yes\' if the candidate answer is correct or only \'no\' if it is not.'
         self.reference_less_prompt_template = 'Question: {question}\nCandidate Answer: {candidate}\n\nBased on the image, is the candidate answer a correct answer for the given question? Answer only "yes" if the candidate answer is correct or only "no" if it is not.'
+        self.imageless_prompt_template = 'Question: {question}\nReference Answers:{reference}\nCandidate Answer: {candidate}\n\nConsider Reference Answers to be multiple answers provided for the given question in context. If there are multiple answers, they are separated by semi-colon(;). Based on the context, is the candidate answer a correct answer for the given question? Answer only \'yes\' if the candidate answer is correct or only \'no\' if it is not.'
+        self.reference_less_imageless_prompt_template = 'Question: {question}\nCandidate Answer: {candidate}\n\nBased on the context, is the candidate answer a correct answer for the given question? Answer only "yes" if the candidate answer is correct or only "no" if it is not.'
         self.max_tokens = max_tokens
         
     def _get_instance_payload(self, question, image, reference, prediction):
         buffered = io.BytesIO()
         image.save(buffered, format='PNG')
         base64_image = base64.b64encode(buffered.getvalue()).decode('utf-8')
-        if self.mode == 'referenced':
-            prompt = self.referenced_prompt_template.format(question=question, reference=reference, candidate=prediction)
-        elif self.mode == 'referenceless':
-            prompt = self.reference_less_prompt_template.format(question=question, candidate=prediction)
-        payload = {
-            "model": self.model_name,
-            "messages": [
-                {
-                    "role": "system",
-                    "content": "You are a helpful assistant."
-                },
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                                "url": f"data:image/png;base64,{base64_image}"
+        if self.use_image:
+            if self.use_reference:
+                prompt = self.referenced_prompt_template.format(question=question, reference=reference, candidate=prediction)
+            else:
+                prompt = self.reference_less_prompt_template.format(question=question, candidate=prediction)
+            payload = {
+                "model": self.model_name,
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant."
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": f"data:image/png;base64,{base64_image}"
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": prompt
                             }
-                        },
-                        {
-                            "type": "text",
-                            "text": prompt
-                        }
-                    ]
-                }
-            ],
-            "max_tokens": self.max_tokens
-        }
+                        ]
+                    }
+                ],
+                "max_tokens": self.max_tokens
+            }
+        else:
+            if self.use_reference:
+                prompt = self.imageless_prompt_template.format(question=question, reference=reference, candidate=prediction)
+            else:
+                prompt = self.reference_less_imageless_prompt_template.format(question=question, candidate=prediction)
+            payload = {
+                "model": self.model_name,
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": "You are a helpful assistant."
+                    },
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": prompt
+                            }
+                        ]
+                    }
+                ],
+                "max_tokens": self.max_tokens
+            }
         return payload
     
     def get_response(self, question, image, reference, prediction):
