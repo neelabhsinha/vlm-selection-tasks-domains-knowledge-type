@@ -22,7 +22,7 @@ class GOEval:
             "Authorization": f"Bearer {api_key}"
         }
         self.client = OpenAI()
-        self.referenced_prompt_template = 'Question: {question}\n Reference Answers:{reference}\nCandidate Answer: {candidate}\n\nConsider Reference Answers to be multiple answers provided for the given question in context with the above image. If there are multiple answers, they are separated by semi-colon(;). In such case, consider the reference answer having majority votes as the correct answer. Based on the image, and the reference answers, is the candidate answer a correct answer for the given question? Answer only \'yes\' if the candidate answer is correct or only \'no\' if it is not.'
+        self.referenced_prompt_template = 'Question: {question}\n Reference Answers:{reference}\nCandidate Answer: {candidate}\n\nConsider Reference Answers to be multiple answers provided for the given question in context with the above image. If there are multiple answers, they are separated by semi-colon(;). Based on the image, is the candidate answer a correct answer for the given question? Answer only \'yes\' if the candidate answer is correct or only \'no\' if it is not.'
         self.reference_less_prompt_template = 'Question: {question}\nCandidate Answer: {candidate}\n\nBased on the image, is the candidate answer a correct answer for the given question? Answer only "yes" if the candidate answer is correct or only "no" if it is not.'
         self.max_tokens = max_tokens
         
