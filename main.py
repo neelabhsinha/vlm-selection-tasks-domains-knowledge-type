@@ -4,11 +4,13 @@ from const import tasks, supported_models
 import torch
 
 from src.data.dataset_collector import DatasetCollector
+from src.utils.analyze_dataset import analyze_dataset
 from src.utils.image_descriptor_generator import generate_image_descriptors
 from src.utils.task_instance_classifications_generator import generate_task_instance_classifications
 from src.utils.execute import execute_vlm
 from src.utils.evaluate_results import compute_metric
-from src.utils.aggregate_results import calculate_correlation_between_matrix
+from src.utils.aggregate_results import calculate_correlation_between_eval_metrics, collect_model_comparison_results, \
+    collect_model_performance_correlation_results
 
 
 def configure_huggingface():
@@ -63,12 +65,15 @@ def get_args():
     parser.add_argument('--filter_reasoning', action='store_true',
                         help='Activate this to apply reasoning-specific filters during the results aggregation process,'
                              ' according to predefined lists.')
-    
-    parser.add_argument('--metric', type=str, default='bert_score', help='Specify the metric to compute. Default is bert_score.')
-    
-    parser.add_argument('--results_folder', type=str, default=None, help='Specify the results folder to compute metrics for.')
+
+    parser.add_argument('--metric', type=str, default='GOEval_referenced_mini',
+                        help='Specify the metric to compute. Default is bert_score.')
+
+    parser.add_argument('--results_folder', type=str, default=None,
+                        help='Specify the results folder to compute metrics for.')
 
     return parser.parse_args()
+
 
 def execution_flow():
     model_name = args.model_name[0] if (args.model_name is not None and len(args.model_name) == 1) else args.model_name
@@ -79,21 +84,23 @@ def execution_flow():
         generate_image_descriptors(split=args.split, batch_size=args.batch_size)
     if args.task == 'generate_instance_classifications':
         generate_task_instance_classifications(split=args.split)
+    if args.task == 'analyze_dataset':
+        analyze_dataset(split=args.split)
     if args.task == 'execute':
         execute_vlm(model_name, args.batch_size, args.do_sample, args.top_k, args.top_p)
     if args.task == 'compute_metrics':
         compute_metric(args.metric, args.force_recompute, args.results_folder)
     if args.task == 'collect_results':
-        calculate_correlation_between_matrix(args.results_folder)
-        
+        calculate_correlation_between_eval_metrics(args.results_folder)
+        collect_model_comparison_results(args.metric)
+        collect_model_performance_correlation_results(args.metric)
+
 
 if __name__ == '__main__':
     configure_huggingface()
     args = get_args()
-    current_device = torch.cuda.current_device()
-    if current_device==0:
+    current_device = 0
+    if current_device == 0:
         execution_flow()
     else:
         print('Terminating process on device', current_device)
-    
-

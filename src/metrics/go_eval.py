@@ -3,6 +3,7 @@ import io
 from PIL import Image
 import os
 import numpy as np
+from tqdm import tqdm
 import requests
 
 from openai import OpenAI
@@ -98,17 +99,20 @@ class GOEval:
         ):
             try:
                 response = response.json()
-            except ValueError:
+            except ValueError as e:
                 response = None
+                print('Error:', e)
         try:
             out = response['choices'][0]['message']['content']
             return 1 if 'yes' in out.lower() else 0
         except Exception as e:
+            print('Error:', e)
+            print(response)
             return np.nan
             
     def evaluate(self, questions, image_paths, references, predictions):
         responses = []
-        for prediction, question, reference, image_path in zip(predictions, questions, references, image_paths):
+        for prediction, question, reference, image_path in tqdm(zip(predictions, questions, references, image_paths), total=len(questions), desc='Evaluating'):
             reference = process_list_field(reference)
             image = Image.open(image_path)
             image = resize_image(image, 224)

@@ -1,0 +1,12 @@
+Average Caption Length: 46.56
+Standard Deviation of Caption Length: 8.84
+Maximum Caption Length: 96
+Average Number of Object Tags: 13.01
+Standard Deviation of Number of Object Tags: 7.83
+Maximum Number of Object Tags: 59
+Mean Number of Application Domains per Task Instance: 1.70
+Standard Deviation of Application Domains per Task Instance: 0.68
+Max Number of Knowledge Types per Task Instance: 7.00
+Mean Number of Knowledge Types per Task Instance: 2.19
+Standard Deviation of Knowledge Types per Task Instance: 0.83
+Max Number of Knowledge Types per Task Instance: 9.00
