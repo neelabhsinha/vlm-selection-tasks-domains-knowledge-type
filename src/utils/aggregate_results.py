@@ -122,8 +122,6 @@ def collect_model_comparison_results(metric):
     for model in included_models:
         if model not in merged_task_type_df.columns:
             included_models.remove(model)
-    radar_chart_generator.plot_radar_chart(merged_task_type_df, 300, included_models,
-                                           os.path.join(folder_path, 'task_type_variation.pdf'))
     radar_chart_generator.plot_radar_chart(merged_domain_df, 300, included_models,
                                            os.path.join(folder_path, 'domain_variation.pdf'))
     radar_chart_generator.plot_radar_chart(merged_knowledge_type_df, 300, included_models,
