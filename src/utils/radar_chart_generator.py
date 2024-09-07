@@ -65,7 +65,7 @@ class RadarChartPlotter:
                 ),
                 angularaxis=dict(
                     tickfont=dict(
-                        size=30,
+                        size=28,
                         family='Helvetica'
                     )
                 )
@@ -76,7 +76,7 @@ class RadarChartPlotter:
                 xanchor='center',
                 orientation='h',
                 font=dict(
-                    size=26,
+                    size=25,
                     family='Helvetica'
                 ),
                 bgcolor='#e5ecf6',

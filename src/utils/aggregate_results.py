@@ -4,7 +4,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import seaborn as sns
 
-from const import results_dir, aggregated_results_dir, beautified_model_names
+from const import results_dir, aggregated_results_dir, beautified_model_names, valid_application_domains, valid_knowledge_types
 from src.utils.radar_chart_generator import RadarChartPlotter
 
 from src.utils.results_io_util import process_list_field
@@ -122,6 +122,8 @@ def collect_model_comparison_results(metric):
     for model in included_models:
         if model not in merged_task_type_df.columns:
             included_models.remove(model)
+    merged_domain_df = merged_domain_df.reindex(valid_application_domains)
+    merged_knowledge_type_df = merged_knowledge_type_df.reindex(valid_knowledge_types)
     radar_chart_generator.plot_radar_chart(merged_domain_df, 300, included_models,
                                            os.path.join(folder_path, 'domain_variation.pdf'))
     radar_chart_generator.plot_radar_chart(merged_knowledge_type_df, 300, included_models,
@@ -163,11 +165,17 @@ def merge_dataframe(result_df, df, column_key, aspect, metric):
 def save_correlation_matrix(corr, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     plt.figure(figsize=(12, 10))
+
+    # Set larger font size for axis labels and ticks
     ax = sns.heatmap(corr, annot=False, fmt=".2f", cmap='coolwarm',
                      xticklabels=corr.columns, yticklabels=corr.columns,
                      cbar_kws={"shrink": .75})
-    plt.xticks(rotation=45, ha='right')
-    plt.yticks(rotation=45, ha='right')
-    plt.subplots_adjust(left=0.2, right=0.9, top=0.9, bottom=0.2)
+
+    # Adjusting the font sizes
+    ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha='right', fontsize=15)
+    ax.set_yticklabels(ax.get_yticklabels(), rotation=45, ha='right', fontsize=15)
+
+    plt.subplots_adjust(left=0.2, right=1, top=0.95, bottom=0.2)
     plt.savefig(path)
     plt.close()
+
