@@ -9,7 +9,8 @@ import torchvision.transforms as T
 from torchvision.transforms.functional import InterpolationMode
 from qwen_vl_utils import process_vision_info
 
-from transformers import AutoProcessor, PaliGemmaForConditionalGeneration, BitsAndBytesConfig, LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer, AutoModel, Qwen2VLForConditionalGeneration
+from transformers import AutoProcessor, PaliGemmaForConditionalGeneration, BitsAndBytesConfig, \
+    LlavaNextForConditionalGeneration, AutoModelForCausalLM, AutoTokenizer, AutoModel, Qwen2VLForConditionalGeneration
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 from const import cache_dir
@@ -23,13 +24,15 @@ TORCH_DTYPE = torch.bfloat16 if torch.cuda.is_available() and torch.cuda.get_dev
 np.float_ = np.float64
 np.complex_ = np.complex128
 
+
 def print_model_info(model, model_name):
     value_counts = Counter(model.hf_device_map.values())
     total_values = sum(value_counts.values())
     value_percentages = {value: (count / total_values) * 100 for value, count in value_counts.items()}
     print(f'Loaded model {model_name} on these devices:', value_percentages)
     print(f'')
-    
+
+
 def resize_image(image, image_size):
     if image.width > image.height:
         new_width = image_size
@@ -52,8 +55,11 @@ class PaliGemma:
             bnb_4bit_compute_dtype=TORCH_DTYPE
         )
         if 'paligemma' in self.model_name:
-            self.model = PaliGemmaForConditionalGeneration.from_pretrained(self.model_name, cache_dir=cache_dir, device_map='auto', 
-                                                                       quantization_config=self.nf4_config, low_cpu_mem_usage=True, torch_dtype=TORCH_DTYPE)
+            self.model = PaliGemmaForConditionalGeneration.from_pretrained(self.model_name, cache_dir=cache_dir,
+                                                                           device_map='auto',
+                                                                           quantization_config=self.nf4_config,
+                                                                           low_cpu_mem_usage=True,
+                                                                           torch_dtype=TORCH_DTYPE)
         self.processor = AutoProcessor.from_pretrained(self.model_name, cache_dir=cache_dir)
         self.device = next(self.model.parameters()).device
         self.do_sample = do_sample
@@ -61,7 +67,7 @@ class PaliGemma:
         self.top_p = top_p
         self.prompt_prefix = 'Only answer the below question. Do not provide any additional information.\n'
         print_model_info(self.model, self.model_name)
-        
+
     def __call__(self, questions, images):
         images = [resize_image(image, self.image_size) for image in images]
         questions = [self.prompt_prefix + question for question in questions]
@@ -69,12 +75,14 @@ class PaliGemma:
         inputs = inputs.to(device=self.device)
         inputs = {key: value.to(dtype=torch.int32) for key, value in inputs.items()}
         with torch.no_grad():
-            outputs = self.model.generate(**inputs, max_new_tokens=512, do_sample=self.do_sample, top_k=self.top_k, top_p=self.top_p)
+            outputs = self.model.generate(**inputs, max_new_tokens=2048, do_sample=self.do_sample, top_k=self.top_k,
+                                          top_p=self.top_p)
             input_len = inputs["input_ids"].shape[-1]
             outputs = outputs[:, input_len:]
         responses = self.processor.batch_decode(outputs, skip_special_tokens=True)
         return responses
-    
+
+
 class LlavaNext:
     def __init__(self, model_name, do_sample, top_k, top_p, checkpoint):
         self.model_name = checkpoint if checkpoint is not None else f'llava-hf/{model_name}'
@@ -91,8 +99,10 @@ class LlavaNext:
             self.prompt_template = '<|im_start|>system\nAnswer the questions.<|im_end|><|im_start|>user\n<image>\n{question}<|im_end|><|im_start|>assistant\n'
         elif 'vicuna' in self.model_name:
             self.prompt_template = "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions. USER: <image>\n{question} ASSISTANT:"
-        self.model = LlavaNextForConditionalGeneration.from_pretrained(self.model_name, cache_dir=cache_dir, device_map='auto', low_cpu_mem_usage=True, 
-                                                                    torch_dtype=TORCH_DTYPE, attn_implementation = 'flash_attention_2')
+        self.model = LlavaNextForConditionalGeneration.from_pretrained(self.model_name, cache_dir=cache_dir,
+                                                                       device_map='auto', low_cpu_mem_usage=True,
+                                                                       torch_dtype=TORCH_DTYPE,
+                                                                       attn_implementation='flash_attention_2')
         self.model.eval()
         self.processor = AutoProcessor.from_pretrained(self.model_name, cache_dir=cache_dir)
         self.device = next(self.model.parameters()).device
@@ -101,7 +111,7 @@ class LlavaNext:
         self.top_p = top_p
         self.prompt_prefix = 'Only answer the below question. Do not provide any additional information.\n'
         print_model_info(self.model, self.model_name)
-        
+
     def __call__(self, questions, images):
         images = [resize_image(image, 448) for image in images]
         prompts = self._get_prompt(questions, images)
@@ -109,12 +119,13 @@ class LlavaNext:
         inputs = inputs.to(device=self.device)
         inputs = {key: value.to(dtype=torch.int32) for key, value in inputs.items()}
         with torch.no_grad():
-            outputs = self.model.generate(**inputs, max_new_tokens=512, do_sample=self.do_sample, top_k=self.top_k, top_p=self.top_p)
+            outputs = self.model.generate(**inputs, max_new_tokens=2048, do_sample=self.do_sample, top_k=self.top_k,
+                                          top_p=self.top_p)
             input_len = inputs["input_ids"].shape[-1]
             outputs = outputs[:, input_len:]
         responses = self.processor.batch_decode(outputs, skip_special_tokens=True)
         return responses
-        
+
     def _get_prompt(self, questions, images):
         prompts = []
         for question, image in zip(questions, images):
@@ -123,7 +134,8 @@ class LlavaNext:
             # prompt = self.processor.apply_chat_template(chat_template, add_generation_prompt=True)
             prompts.append(prompt)
         return prompts
-    
+
+
 class Gemini:
     def __init__(self, model_name='gemini-1.5-flash'):
         self.model_name = model_name
@@ -131,24 +143,26 @@ class Gemini:
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name=model_name)
         self.prompt_prefix = 'Only answer the below question. Do not provide any additional information.\n'
-        self.safety_settings={
-        HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
-        HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
-        HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
-        HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
-    }
-        
+        self.safety_settings = {
+            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+        }
+
     def __call__(self, questions, images):
         responses = []
         images = [resize_image(image, 448) for image in images]
         for question, image in zip(questions, images):
             try:
-                response = self.model.generate_content([self.prompt_prefix + question, image], safety_settings=self.safety_settings)
+                response = self.model.generate_content([self.prompt_prefix + question, image],
+                                                       safety_settings=self.safety_settings)
                 responses.append(response.text)
             except Exception as e:
                 responses.append(f"Error generating response: {e}")
         return responses
-    
+
+
 class GPT4o:
     def __init__(self, model_name='gpt-4o-mini'):
         self.model_name = model_name
@@ -163,7 +177,7 @@ class GPT4o:
         buffered = io.BytesIO()
         image.save(buffered, format='PNG')
         return base64.b64encode(buffered.getvalue()).decode('utf-8')
-    
+
     def __call__(self, questions, images):
         responses = []
         images = [resize_image(image, 448) for image in images]
@@ -202,6 +216,7 @@ class GPT4o:
                 responses.append(f"Error generating response: {e}")
         return responses
 
+
 class CogVLM2:
     def __init__(self, model_name, do_sample, top_k, top_p, checkpoint):
         self.model_name = model_name
@@ -213,44 +228,51 @@ class CogVLM2:
             bnb_4bit_use_double_quant=True,
             bnb_4bit_compute_dtype=TORCH_DTYPE
         )
-        self.model = AutoModelForCausalLM.from_pretrained(self.model_name, device_map='auto', cache_dir=cache_dir, low_cpu_mem_usage=True, trust_remote_code=True,
-                                                                    torch_dtype=TORCH_DTYPE)
+        self.model = AutoModelForCausalLM.from_pretrained(self.model_name, device_map='auto', cache_dir=cache_dir,
+                                                          low_cpu_mem_usage=True, trust_remote_code=True,
+                                                          torch_dtype=TORCH_DTYPE)
         self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, cache_dir=cache_dir, trust_remote_code=True)
         self.device = next(self.model.parameters()).device
         self.prompt_prefix = 'Only answer below the question. Do not provide any additional information.\n'
         self.gen_kwargs = {
             "max_new_tokens": 2048,
-            "pad_token_id": 128002,  
+            "pad_token_id": 128002,
         }
         print_model_info(self.model, self.model_name)
-        
+
     def __call__(self, questions, images):
         images = [resize_image(image, 448) for image in images]
         input_batch = []
         for question, image in zip(questions, images):
-            input_sample = self.model.build_conversation_input_ids(self.tokenizer, query=question, history=[], images=[image], template_version='chat')
+            input_sample = self.model.build_conversation_input_ids(self.tokenizer, query=question, history=[],
+                                                                   images=[image], template_version='chat')
             input_batch.append(input_sample)
         input_batch = self._collate(input_batch, self.tokenizer)
         input_batch = self._recur_move_to(input_batch, self.device, lambda x: isinstance(x, torch.Tensor))
-        input_batch = self._recur_move_to(input_batch, torch.bfloat16, lambda x: isinstance(x, torch.Tensor) and torch.is_floating_point(x))
+        input_batch = self._recur_move_to(input_batch, torch.bfloat16,
+                                          lambda x: isinstance(x, torch.Tensor) and torch.is_floating_point(x))
         with torch.no_grad():
             outputs = self.model.generate(**input_batch, **self.gen_kwargs)
             outputs = outputs[:, input_batch['input_ids'].shape[1]:]
             outputs = self.tokenizer.batch_decode(outputs, skip_special_tokens=True)
         return outputs
-            
+
     def _collate(self, features, tokenizer) -> dict:
         images = [feature.pop('images', None) for feature in features if 'images' in feature]
         tokenizer.pad_token = tokenizer.eos_token
         max_length = max(len(feature['input_ids']) for feature in features)
-        
+
         def pad_to_max_length(feature, max_length):
             padding_length = max_length - len(feature['input_ids'])
-            feature['input_ids'] = torch.cat([feature['input_ids'], torch.full((padding_length,), tokenizer.pad_token_id)])
-            feature['token_type_ids'] = torch.cat([feature['token_type_ids'], torch.zeros(padding_length, dtype=torch.long)])
-            feature['attention_mask'] = torch.cat([feature['attention_mask'], torch.zeros(padding_length, dtype=torch.long)])
+            feature['input_ids'] = torch.cat(
+                [feature['input_ids'], torch.full((padding_length,), tokenizer.pad_token_id)])
+            feature['token_type_ids'] = torch.cat(
+                [feature['token_type_ids'], torch.zeros(padding_length, dtype=torch.long)])
+            feature['attention_mask'] = torch.cat(
+                [feature['attention_mask'], torch.zeros(padding_length, dtype=torch.long)])
             if feature['labels'] is not None:
-                feature['labels'] = torch.cat([feature['labels'], torch.full((padding_length,), tokenizer.pad_token_id)])
+                feature['labels'] = torch.cat(
+                    [feature['labels'], torch.full((padding_length,), tokenizer.pad_token_id)])
             else:
                 feature['labels'] = torch.full((max_length,), tokenizer.pad_token_id)
             return feature
@@ -265,7 +287,7 @@ class CogVLM2:
             batch['images'] = images
 
         return batch
-         
+
     def _recur_move_to(self, item, tgt, criterion_func):
         if criterion_func(item):
             device_copy = item.to(tgt)
@@ -278,7 +300,8 @@ class CogVLM2:
             return {k: self._recur_move_to(v, tgt, criterion_func) for k, v in item.items()}
         else:
             return item
-        
+
+
 class InternVL2:
     def __init__(self, model_name, do_sample, top_k, top_p, checkpoint):
         path = f'OpenGVLab/{model_name}' if checkpoint is None else checkpoint
@@ -289,16 +312,17 @@ class InternVL2:
             bnb_4bit_compute_dtype=TORCH_DTYPE
         )
         self.model = AutoModel.from_pretrained(
-                        path,
-                        cache_dir = cache_dir,
-                        torch_dtype=TORCH_DTYPE,
-                        load_in_4bit=True,
-                        low_cpu_mem_usage=True,
-                        use_flash_attn=True,
-                        trust_remote_code=True,
-                        device_map='auto')
+            path,
+            cache_dir=cache_dir,
+            torch_dtype=TORCH_DTYPE,
+            load_in_4bit=True,
+            low_cpu_mem_usage=True,
+            use_flash_attn=True,
+            trust_remote_code=True,
+            device_map='auto')
         self.model.eval()
-        self.tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True, use_fast=False, cache_dir=cache_dir)  
+        self.tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True, use_fast=False,
+                                                       cache_dir=cache_dir)
         self._gen_kwargs = {
             "do_sample": do_sample,
             "top_k": top_k,
@@ -380,7 +404,7 @@ class InternVL2:
         pixel_values = [transform(image) for image in images]
         pixel_values = torch.stack(pixel_values).to(self.device).to(TORCH_DTYPE)
         return pixel_values
-    
+
     def __call__(self, questions, images):
         pixel_values_list = []
         num_patches_list = []
@@ -393,11 +417,12 @@ class InternVL2:
         questions = [f'<image>\n{question}' for question in questions]
         with torch.no_grad():
             responses = self.model.batch_chat(self.tokenizer, pixel_values,
-                                            num_patches_list=num_patches_list,
-                                            questions=questions,
-                                            generation_config=self._gen_kwargs)
+                                              num_patches_list=num_patches_list,
+                                              questions=questions,
+                                              generation_config=self._gen_kwargs)
         return responses
-    
+
+
 class Qwen2VL:
     def __init__(self, model_name, do_sample, top_k, top_p, checkpoint):
         path = f'Qwen/{model_name}' if checkpoint is None else checkpoint
@@ -408,14 +433,14 @@ class Qwen2VL:
             bnb_4bit_compute_dtype=TORCH_DTYPE
         )
         self.model = Qwen2VLForConditionalGeneration.from_pretrained(
-                path,
-                cache_dir=cache_dir,
-                torch_dtype=TORCH_DTYPE,
-                attn_implementation="flash_attention_2",
-                quantization_config=self.nf4_config,
-                low_cpu_mem_usage=True,
-                device_map="auto",
-            )
+            path,
+            cache_dir=cache_dir,
+            torch_dtype=TORCH_DTYPE,
+            attn_implementation="flash_attention_2",
+            quantization_config=self.nf4_config,
+            low_cpu_mem_usage=True,
+            device_map="auto",
+        )
         self.processor = AutoProcessor.from_pretrained(path, cache_dir=cache_dir)
         self.prompt_prefix = 'Only answer the below question. Do not provide any additional information.\n'
         self._gen_kwargs = {
@@ -426,12 +451,12 @@ class Qwen2VL:
         }
         self.device = next(self.model.parameters()).device
         print_model_info(self.model, model_name)
-        
+
     def _encode_image(self, image):
         buffered = io.BytesIO()
         image.save(buffered, format='PNG')
         return base64.b64encode(buffered.getvalue()).decode('utf-8')
-        
+
     def _prepare_input(self, images, questions):
         messages = []
         for image, question in zip(images, questions):
@@ -447,7 +472,7 @@ class Qwen2VL:
             ]
             messages.append(message)
         texts = [
-        self.processor.apply_chat_template(msg, tokenize=False, add_generation_prompt=True)
+            self.processor.apply_chat_template(msg, tokenize=False, add_generation_prompt=True)
             for msg in messages
         ]
         image_inputs, video_inputs = process_vision_info(messages)
@@ -459,7 +484,7 @@ class Qwen2VL:
             return_tensors="pt",
         )
         return inputs
-    
+
     def __call__(self, questions, images):
         images = [resize_image(image, 448) for image in images]
         inputs = self._prepare_input(images, questions)
@@ -467,10 +492,7 @@ class Qwen2VL:
         with torch.no_grad():
             generated_ids = self.model.generate(**inputs, **self._gen_kwargs)
             generated_ids_trimmed = [
-                out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+                out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
             ]
         responses = self.processor.batch_decode(generated_ids_trimmed, skip_special_tokens=True)
         return responses
-
-    
-            
