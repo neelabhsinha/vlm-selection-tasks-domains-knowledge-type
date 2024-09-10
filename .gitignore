@@ -27,5 +27,4 @@ wandb/
 /results/
 metadata/
 scripts/
-experimental_dataset/
 ```
