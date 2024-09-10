@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 40574,
+    "image_path": "./experimental_dataset/test/images/VQAv2_40574.png",
+    "question": "Is this a big train station?",
+    "label": [
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes"
+    ]
+}

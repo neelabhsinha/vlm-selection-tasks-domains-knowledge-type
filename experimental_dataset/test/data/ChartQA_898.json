@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 898,
+    "image_path": "./experimental_dataset/test/images/ChartQA_898.png",
+    "question": "In which year M&S had highest gross profit margin?",
+    "label": [
+        "2017"
+    ]
+}

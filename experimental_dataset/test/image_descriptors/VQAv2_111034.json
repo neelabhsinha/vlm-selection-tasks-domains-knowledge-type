@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 111034,
+    "caption": "two polar bears are standing in the snow",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "bear",
+        "outdoor",
+        "snow",
+        "polar bear",
+        "terrestrial animal",
+        "polar",
+        "wildlife"
+    ]
+}

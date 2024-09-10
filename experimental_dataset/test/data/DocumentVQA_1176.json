@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1176,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1176.png",
+    "question": "What is written above 'ACTOS' ?",
+    "label": [
+        "Always QD Power"
+    ]
+}

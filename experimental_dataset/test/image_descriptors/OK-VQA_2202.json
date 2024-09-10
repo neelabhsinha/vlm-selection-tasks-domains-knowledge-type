@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2202,
+    "caption": "a man holding a bat in front of his face",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "tobacco products",
+        "man",
+        "cigarette",
+        "dark",
+        "cigar"
+    ]
+}

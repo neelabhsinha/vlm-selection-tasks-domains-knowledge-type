@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3920,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3920.png",
+    "question": "What is the age limit for women considered for the 'Desirable Weights' table?",
+    "label": [
+        "25",
+        "25 and Over"
+    ]
+}

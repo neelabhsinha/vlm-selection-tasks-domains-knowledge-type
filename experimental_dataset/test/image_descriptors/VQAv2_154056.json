@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 154056,
+    "caption": "a man riding a bike next to a fire hydrant",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "outdoor",
+        "vehicle",
+        "bicycle wheel",
+        "transport",
+        "building",
+        "tire",
+        "road",
+        "black and white",
+        "riding",
+        "person",
+        "bicycle",
+        "street",
+        "bike"
+    ]
+}

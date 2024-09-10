@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 874,
+    "caption": "people sitting around a table with laptops",
+    "object_tags": [
+        "indoor",
+        "person",
+        "computer",
+        "clothing",
+        "personal computer",
+        "laptop",
+        "human face",
+        "man",
+        "people",
+        "wall",
+        "output device",
+        "computer hardware",
+        "sitting",
+        "group"
+    ]
+}

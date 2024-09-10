@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1182,
+    "caption": "a display case filled with oranges and other fruits",
+    "object_tags": [
+        "indoor",
+        "food group",
+        "food",
+        "fruit",
+        "oranges"
+    ]
+}

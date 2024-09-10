@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3260,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Nature",
+        "Professions",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Scientific Knowledge"
+    ]
+}

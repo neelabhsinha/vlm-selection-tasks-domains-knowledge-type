@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 1921,
+    "image_path": "./experimental_dataset/test/images/VQAv2_1921.png",
+    "question": "What country is this?",
+    "label": [
+        "germany",
+        "america",
+        "america",
+        "usa",
+        "usa",
+        "us",
+        "rome",
+        "usa",
+        "america",
+        "england"
+    ]
+}

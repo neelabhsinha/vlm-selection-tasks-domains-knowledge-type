@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 20,
+    "image_path": "./experimental_dataset/test/images/ChartQA_20.png",
+    "question": "Which line represents data about boys?",
+    "label": [
+        "green line"
+    ]
+}

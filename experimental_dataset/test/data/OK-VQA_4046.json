@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4046,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4046.png",
+    "question": "What river are the elephants standing in?",
+    "label": [
+        "nile",
+        "nile",
+        "nile",
+        "nile",
+        "sand",
+        "sand",
+        "zambezi",
+        "zambezi",
+        "water",
+        "water"
+    ]
+}

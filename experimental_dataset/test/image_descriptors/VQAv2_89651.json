@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 89651,
+    "caption": "a snowboarder is in mid air after a jump",
+    "object_tags": [
+        "outdoor",
+        "sport",
+        "sky",
+        "person",
+        "sports equipment",
+        "extreme sport",
+        "boardsport",
+        "adventure",
+        "outdoor recreation",
+        "man",
+        "individual sports",
+        "footwear",
+        "snowboard",
+        "recreation",
+        "snowboarding",
+        "sports",
+        "snow",
+        "slopestyle",
+        "mountain",
+        "jumping",
+        "air",
+        "hill",
+        "rock",
+        "slope"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 162161,
+    "image_path": "./experimental_dataset/test/images/VQAv2_162161.png",
+    "question": "Does the van have a spare tire?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "yes"
+    ]
+}

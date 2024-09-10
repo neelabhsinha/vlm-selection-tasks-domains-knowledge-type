@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 127627,
+    "caption": "a woman brushing her teeth in a hotel room",
+    "object_tags": [
+        "indoor",
+        "person",
+        "furniture",
+        "clothing",
+        "wall",
+        "human face",
+        "pillow",
+        "bed",
+        "linens",
+        "house",
+        "curtain",
+        "bed sheet",
+        "bedding",
+        "table",
+        "room",
+        "interior design",
+        "woman",
+        "window",
+        "bedroom",
+        "hotel",
+        "vacation"
+    ]
+}

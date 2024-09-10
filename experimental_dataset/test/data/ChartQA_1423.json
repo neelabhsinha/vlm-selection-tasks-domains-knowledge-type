@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1423,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1423.png",
+    "question": "How many cases of malware and \"logical\" attacks were reported in 2014?",
+    "label": [
+        "51"
+    ]
+}

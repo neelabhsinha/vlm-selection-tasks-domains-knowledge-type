@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 882,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_882.png",
+    "question": "The positioning of the horses suggests what level of formality?",
+    "label": "['royal level', 'royalty', 'riding', 'unknown', 'high', 'high', 'high level', 'military formation', 'high', 'very formal']",
+    "choices": [
+        "low",
+        "high",
+        "none",
+        "medium"
+    ],
+    "correct_choice": "high"
+}

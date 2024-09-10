@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 712,
+    "caption": "a cat sitting on a bed in front of a mirror",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "picture frame",
+        "furniture",
+        "room",
+        "drawer",
+        "interior design",
+        "nightstand",
+        "bed",
+        "chest of drawers",
+        "linens",
+        "mirror",
+        "vase",
+        "lampshade",
+        "pillow",
+        "bed sheet",
+        "bedroom",
+        "floor",
+        "wooden"
+    ]
+}

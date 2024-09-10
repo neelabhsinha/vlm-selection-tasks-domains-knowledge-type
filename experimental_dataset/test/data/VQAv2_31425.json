@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 31425,
+    "image_path": "./experimental_dataset/test/images/VQAv2_31425.png",
+    "question": "Does he have ski poles?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

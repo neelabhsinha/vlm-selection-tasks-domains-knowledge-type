@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 203,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Nature",
+        "Professions",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Other"
+    ]
+}

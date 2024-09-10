@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 515,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_515.png",
+    "question": "Why are the two holding hands in front of the people?",
+    "label": "['getting married', 'getting married', 'getting married', 'taking vows', 'getting married', 'getting married', 'marriage', 'getting married', 'getting married', 'getting married']",
+    "choices": [
+        "praying",
+        "to dance",
+        "getting married",
+        "to play"
+    ],
+    "correct_choice": "getting married"
+}

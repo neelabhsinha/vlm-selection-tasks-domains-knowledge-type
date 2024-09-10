@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 240,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_240.png",
+    "question": "What type of dinnerware do the people seem to be using?",
+    "label": "['plastic', 'disposable', 'plates', 'plastic', 'plastic', 'family wear', 'plastic', 'plastic picnicware', 'ceramic', 'plastic']",
+    "choices": [
+        "porcelain",
+        "wooden",
+        "steel",
+        "disposable"
+    ],
+    "correct_choice": "disposable"
+}

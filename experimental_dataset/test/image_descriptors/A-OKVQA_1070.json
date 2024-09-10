@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1070,
+    "caption": "two little girls in a bathroom brushing their teeth",
+    "object_tags": [
+        "person",
+        "human face",
+        "toddler",
+        "wall",
+        "indoor",
+        "bathing",
+        "bathtub",
+        "bathroom",
+        "washing",
+        "baby",
+        "child",
+        "young",
+        "boy"
+    ]
+}

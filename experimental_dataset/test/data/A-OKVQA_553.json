@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 553,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_553.png",
+    "question": "What is the purpose of the slats on the black surface?",
+    "label": "['water', 'catch water', 'drainage', 'drain water', 'decoration', 'drainage', 'drain', 'drainage', 'grip', 'drying']",
+    "choices": [
+        "drainage",
+        "cook food",
+        "hold knives",
+        "stacking plates"
+    ],
+    "correct_choice": "drainage"
+}

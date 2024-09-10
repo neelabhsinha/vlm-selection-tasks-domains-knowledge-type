@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4992,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4992.png",
+    "question": "Which subject had the highest weight in baseline period?",
+    "label": [
+        "4"
+    ]
+}

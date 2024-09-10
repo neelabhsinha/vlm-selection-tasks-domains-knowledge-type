@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1129,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1129.png",
+    "question": "What position does the man holding the brown glove play?",
+    "label": "['catching', 'catcher', 'catcher', 'catcher', 'running', 'catcher', 'giove', 'playing time', 'tennis player', 'catcher']",
+    "choices": [
+        "outfield",
+        "pitcher",
+        "catcher",
+        "coach"
+    ],
+    "correct_choice": "catcher"
+}

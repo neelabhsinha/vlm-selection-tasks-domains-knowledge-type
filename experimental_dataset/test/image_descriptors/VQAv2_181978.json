@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 181978,
+    "caption": "a collage of photos of people with kites",
+    "object_tags": [
+        "human face",
+        "clothing",
+        "person",
+        "sunglasses",
+        "boy",
+        "collage",
+        "girl",
+        "smile",
+        "photomontage",
+        "outdoor",
+        "child",
+        "mosaic"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 62,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_62.png",
+    "question": "What are the boats shaped like?",
+    "label": "['cars', 'cars', 'cars', 'cars', 'cars', 'cars', 'cars', 'cars', 'cars', 'cars']",
+    "choices": [
+        "trains",
+        "tanks",
+        "cars",
+        "planes"
+    ],
+    "correct_choice": "cars"
+}

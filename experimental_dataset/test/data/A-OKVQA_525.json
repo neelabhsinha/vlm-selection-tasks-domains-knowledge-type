@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 525,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_525.png",
+    "question": "What type of racket is next to the mans head?",
+    "label": "['wilson', 'badminton', 'tennis', 'squash', 'tennis', 'badminton', 'laptop', 'tennis', 'tennis', 'badminton']",
+    "choices": [
+        "racquetball",
+        "badminton",
+        "tennis",
+        "ping pong"
+    ],
+    "correct_choice": "badminton"
+}

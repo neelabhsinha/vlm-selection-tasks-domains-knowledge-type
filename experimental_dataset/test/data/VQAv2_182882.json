@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 182882,
+    "image_path": "./experimental_dataset/test/images/VQAv2_182882.png",
+    "question": "What is in the water?",
+    "label": [
+        "reflection",
+        "nothing",
+        "food",
+        "fish",
+        "grass",
+        "shadow",
+        "bacteria",
+        "giraffe",
+        "rocks",
+        "rocks"
+    ]
+}

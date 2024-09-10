@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 19201,
+    "caption": "a herd of elephants walking across a river",
+    "object_tags": [
+        "animal",
+        "outdoor",
+        "mammal",
+        "terrestrial animal",
+        "grass",
+        "plant",
+        "safari",
+        "wildlife",
+        "water",
+        "river",
+        "elephant",
+        "rock",
+        "herd",
+        "national park",
+        "elephants and mammoths",
+        "tree",
+        "walking",
+        "nature reserve",
+        "ground",
+        "standing",
+        "hole",
+        "mountain"
+    ]
+}

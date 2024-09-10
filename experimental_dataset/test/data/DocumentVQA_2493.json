@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2493,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2493.png",
+    "question": "Where can you get muumuus and souvenis?",
+    "label": [
+        "asia joe",
+        "Asia Joe"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 127,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_127.png",
+    "question": "What is in the photo above the TV?",
+    "label": "['woman', 'profile', 'woman', 'picture', 'woman', 'tube', 'person', 'person', 'face', 'woman']",
+    "choices": [
+        "cat",
+        "boy",
+        "woman",
+        "dog"
+    ],
+    "correct_choice": "woman"
+}

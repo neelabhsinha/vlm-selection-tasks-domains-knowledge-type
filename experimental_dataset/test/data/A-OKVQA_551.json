@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 551,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_551.png",
+    "question": "What is the likely relationship of the two females?",
+    "label": "['sisters', 'sisters', 'siblings', 'sisters', 'sisters', 'sibling', 'sisters', 'sisters', 'sister', 'sisters']",
+    "choices": [
+        "teacher/student",
+        "sisters",
+        "mother/daughter",
+        "coworkers"
+    ],
+    "correct_choice": "sisters"
+}

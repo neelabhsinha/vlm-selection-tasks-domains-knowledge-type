@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 158197,
+    "image_path": "./experimental_dataset/test/images/VQAv2_158197.png",
+    "question": "What two colors socks is the woman on the right wearing?",
+    "label": [
+        "blue, white",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "white",
+        "blue",
+        "blue and white",
+        "blue",
+        "blue"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4957,
+    "caption": "a dog that is sitting on the floor with a doughnut",
+    "object_tags": [
+        "pet",
+        "dog",
+        "indoor",
+        "dog breed",
+        "floor",
+        "terrier",
+        "black",
+        "mouth",
+        "ground",
+        "animal"
+    ]
+}

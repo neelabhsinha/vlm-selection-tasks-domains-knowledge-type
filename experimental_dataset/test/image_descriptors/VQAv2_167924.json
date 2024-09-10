@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 167924,
+    "caption": "a truck filled with people on top of a dirt road",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "transport",
+        "tree",
+        "road",
+        "mode of transport",
+        "person",
+        "people",
+        "street",
+        "driving",
+        "travel"
+    ]
+}

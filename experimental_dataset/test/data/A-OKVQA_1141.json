@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1141,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1141.png",
+    "question": "What mechanism might all different modes of transportation seen here employ to stop?",
+    "label": "['brakes', 'brakes', 'train', 'running', 'brakes', 'brake', 'move train', 'travel', 'train', 'signal light']",
+    "choices": [
+        "hammer time",
+        "brakes",
+        "bat signal",
+        "voice command"
+    ],
+    "correct_choice": "brakes"
+}

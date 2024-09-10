@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 649,
+    "image_path": "./experimental_dataset/test/images/ChartQA_649.png",
+    "question": "What's the share of top 3 countries?",
+    "label": [
+        "41"
+    ]
+}

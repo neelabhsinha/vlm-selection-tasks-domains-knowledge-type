@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 126814,
+    "image_path": "./experimental_dataset/test/images/VQAv2_126814.png",
+    "question": "What color is the man's hair?",
+    "label": [
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black"
+    ]
+}

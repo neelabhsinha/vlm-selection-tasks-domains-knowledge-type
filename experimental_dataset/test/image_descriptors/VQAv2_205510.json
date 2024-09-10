@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 205510,
+    "caption": "a herd of animals grazing on a grassy hillside",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "cloud",
+        "sky",
+        "lake",
+        "promontory",
+        "water",
+        "road",
+        "landscape",
+        "hill",
+        "ecoregion",
+        "nature",
+        "fell",
+        "mountain",
+        "plant",
+        "loch",
+        "horizon",
+        "highland"
+    ]
+}

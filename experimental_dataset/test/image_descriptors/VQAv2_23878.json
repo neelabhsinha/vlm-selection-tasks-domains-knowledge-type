@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 23878,
+    "caption": "a white bus is parked in a parking lot",
+    "object_tags": [
+        "transport",
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "tire",
+        "auto part",
+        "van",
+        "mode of transport",
+        "parked",
+        "outdoor",
+        "bus",
+        "ground",
+        "text",
+        "motor vehicle",
+        "commercial vehicle",
+        "light commercial vehicle",
+        "road",
+        "parking",
+        "car",
+        "camper",
+        "indoor"
+    ]
+}

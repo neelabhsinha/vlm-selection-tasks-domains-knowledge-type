@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1122,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1122.png",
+    "question": "What is the fax number ?",
+    "label": [
+        "(716) 634-3145"
+    ]
+}

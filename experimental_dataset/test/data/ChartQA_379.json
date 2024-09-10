@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 379,
+    "image_path": "./experimental_dataset/test/images/ChartQA_379.png",
+    "question": "For how many years is the value of the Philippines lower than the one of Nepal?",
+    "label": [
+        "3"
+    ]
+}

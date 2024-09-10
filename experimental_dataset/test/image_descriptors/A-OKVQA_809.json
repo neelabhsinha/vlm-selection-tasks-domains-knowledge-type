@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 809,
+    "caption": "a crowd of people walking down a city street",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "scene",
+        "sky",
+        "person",
+        "clothing",
+        "street",
+        "pedestrian",
+        "people",
+        "man",
+        "traffic light",
+        "town",
+        "way",
+        "walking",
+        "city",
+        "crowd",
+        "sign",
+        "standing",
+        "light",
+        "pedestrians",
+        "sidewalk"
+    ]
+}

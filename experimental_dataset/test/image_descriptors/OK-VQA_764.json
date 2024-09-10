@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 764,
+    "caption": "a bird flying over a body of water",
+    "object_tags": [
+        "animal",
+        "water",
+        "outdoor",
+        "orange",
+        "bird"
+    ]
+}

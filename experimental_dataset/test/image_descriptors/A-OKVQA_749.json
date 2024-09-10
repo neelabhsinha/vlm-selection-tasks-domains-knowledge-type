@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 749,
+    "caption": "a plastic container filled with different types of food",
+    "object_tags": [
+        "food",
+        "cuisine",
+        "meal",
+        "take-out food",
+        "prepackaged meal",
+        "dish",
+        "lunch",
+        "recipe",
+        "salad",
+        "indoor",
+        "plastic",
+        "container",
+        "bowl",
+        "vegetable",
+        "rice"
+    ]
+}

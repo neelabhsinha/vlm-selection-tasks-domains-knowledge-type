@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 81175,
+    "caption": "a herd of zebra standing on top of a lush green field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "plant",
+        "tree",
+        "zebra",
+        "grass",
+        "wildlife",
+        "terrestrial animal",
+        "water",
+        "safari",
+        "sky",
+        "herd",
+        "standing",
+        "zoo",
+        "group",
+        "pond",
+        "elephant"
+    ]
+}

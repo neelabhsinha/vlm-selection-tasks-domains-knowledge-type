@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 665,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_665.png",
+    "question": "What work is the team of horses doing?",
+    "label": "['plowing fields', 'hay bailing', 'ploughing', 'carrying', 'plowing', 'plowing', 'plowing field', 'harvesting', 'farming', 'plowing']",
+    "choices": [
+        "herding sheep",
+        "plowing fields",
+        "pulling passengers",
+        "guarding"
+    ],
+    "correct_choice": "plowing fields"
+}

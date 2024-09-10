@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 578,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_578.png",
+    "question": "Which animal is the weakest?",
+    "label": "['zebra', 'zebra', 'zebra', 'zebra', 'zebra', 'zebra', 'horse', 'flamingo', 'flamingo', 'flamingo']",
+    "choices": [
+        "flamingo",
+        "wildebeest",
+        "zebra",
+        "none"
+    ],
+    "correct_choice": "flamingo"
+}

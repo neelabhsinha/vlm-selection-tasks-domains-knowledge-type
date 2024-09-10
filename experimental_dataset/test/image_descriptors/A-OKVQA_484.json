@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 484,
+    "caption": "a young boy holding a nintendo wii game controller",
+    "object_tags": [
+        "indoor",
+        "person",
+        "human face",
+        "clothing",
+        "controller",
+        "wall",
+        "remote",
+        "toddler",
+        "playing",
+        "game",
+        "sofa",
+        "couch",
+        "boy",
+        "holding",
+        "control",
+        "young"
+    ]
+}

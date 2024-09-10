@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 597,
+    "image_path": "./experimental_dataset/test/images/ChartQA_597.png",
+    "question": "How many countries have more than 70 % primary energy supply over the years?",
+    "label": [
+        "2"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2875,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2875.png",
+    "question": "Who were her Grandchildren?",
+    "label": [
+        "John and Vanessa"
+    ]
+}

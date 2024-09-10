@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 162825,
+    "caption": "a man in a suit and tie standing in front of a fire place",
+    "object_tags": [
+        "clothing",
+        "person",
+        "building",
+        "man",
+        "human face",
+        "dark",
+        "indoor"
+    ]
+}

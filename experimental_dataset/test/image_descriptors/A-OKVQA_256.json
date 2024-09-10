@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 256,
+    "caption": "a woman standing next to a brown horse in a barn",
+    "object_tags": [
+        "horse",
+        "ground",
+        "building",
+        "mare",
+        "stallion",
+        "mane",
+        "sorrel",
+        "stable",
+        "standing",
+        "indoor",
+        "person",
+        "brown",
+        "outdoor"
+    ]
+}

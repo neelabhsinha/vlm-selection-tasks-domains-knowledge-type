@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4237,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4237.png",
+    "question": "Is this man a professional skiier or doing so just for fun?",
+    "label": [
+        "fun",
+        "fun",
+        "fun",
+        "fun",
+        "for fun",
+        "for fun",
+        "professional",
+        "professional",
+        "just for fun",
+        "just for fun"
+    ]
+}

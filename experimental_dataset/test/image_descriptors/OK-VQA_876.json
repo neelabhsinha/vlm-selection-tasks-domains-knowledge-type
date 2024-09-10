@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 876,
+    "caption": "people walking in front of a large clock tower",
+    "object_tags": [
+        "building",
+        "clock",
+        "architecture",
+        "people",
+        "large",
+        "indoor",
+        "floor",
+        "outdoor",
+        "city"
+    ]
+}

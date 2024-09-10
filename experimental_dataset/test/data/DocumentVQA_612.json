@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 612,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_612.png",
+    "question": "What is the brand?",
+    "label": [
+        "now",
+        "Now"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 1885,
+    "image_path": "./experimental_dataset/test/images/VQAv2_1885.png",
+    "question": "Are the cat's eyes green?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

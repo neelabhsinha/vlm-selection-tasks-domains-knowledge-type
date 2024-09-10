@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 943,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_943.png",
+    "question": "When is the final 1998 Camel Plan Presentation to RJR Execs?",
+    "label": [
+        "August 26-27"
+    ]
+}

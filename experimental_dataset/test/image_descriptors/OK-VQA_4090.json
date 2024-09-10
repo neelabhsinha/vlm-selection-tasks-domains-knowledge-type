@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4090,
+    "caption": "people with umbrellas walking down a street",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "black and white",
+        "bicycle wheel",
+        "person",
+        "wheel",
+        "umbrella",
+        "land vehicle",
+        "bicycle",
+        "monochrome",
+        "street"
+    ]
+}

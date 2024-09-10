@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 93621,
+    "caption": "a traffic light on the side of a truck",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "land vehicle",
+        "cloud",
+        "mirror",
+        "road",
+        "public utility",
+        "car",
+        "vehicle",
+        "street",
+        "driving"
+    ]
+}

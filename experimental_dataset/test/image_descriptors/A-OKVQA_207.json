@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 207,
+    "caption": "a black and white cow standing next to a brown and white cow",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "field",
+        "livestock",
+        "mammal",
+        "ranch",
+        "animal",
+        "cattle",
+        "farm",
+        "tree",
+        "grazing",
+        "horse",
+        "plant",
+        "herd",
+        "fodder",
+        "grassland",
+        "bovine",
+        "dairy cow",
+        "herding",
+        "standing",
+        "cow",
+        "black",
+        "pasture"
+    ]
+}

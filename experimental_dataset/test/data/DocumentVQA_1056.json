@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1056,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1056.png",
+    "question": "Who is speaking on 'Zinc metabolism in Myocardial Infarction'?",
+    "label": [
+        "Dr. Robert D. Lindeman"
+    ]
+}

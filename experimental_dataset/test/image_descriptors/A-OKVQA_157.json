@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 157,
+    "caption": "a train on a track near a train station",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "tree",
+        "vehicle",
+        "bicycle wheel",
+        "person",
+        "clothing",
+        "wheel",
+        "people",
+        "cycling",
+        "transport",
+        "ground",
+        "track",
+        "way",
+        "bicycle",
+        "train"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 237,
+    "caption": "a woman and a man playing a video game",
+    "object_tags": [
+        "person",
+        "human face",
+        "indoor",
+        "clothing",
+        "wall",
+        "woman",
+        "smile",
+        "bottle",
+        "controller",
+        "game",
+        "holding",
+        "remote",
+        "room",
+        "glasses",
+        "lady",
+        "people"
+    ]
+}

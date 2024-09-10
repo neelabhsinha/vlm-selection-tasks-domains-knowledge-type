@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 548,
+    "caption": "a girl standing in the grass with a frisbee",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "person",
+        "plant",
+        "clothing",
+        "frisbee",
+        "lawn",
+        "playground",
+        "young",
+        "field",
+        "girl"
+    ]
+}

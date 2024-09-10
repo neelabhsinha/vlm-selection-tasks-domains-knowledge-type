@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1415,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1415.png",
+    "question": "What are the animals featured here best known for?",
+    "label": [
+        "ivory",
+        "ivory",
+        "ivory",
+        "ivory",
+        "circus",
+        "circus",
+        "their memory",
+        "their memory",
+        "size",
+        "size"
+    ]
+}

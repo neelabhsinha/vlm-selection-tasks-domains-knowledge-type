@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1681,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1681.png",
+    "question": "What note has been made regarding the reservations for 10-18-76?",
+    "label": [
+        "Cancelled reservations"
+    ]
+}

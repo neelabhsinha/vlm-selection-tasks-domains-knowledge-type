@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 145372,
+    "image_path": "./experimental_dataset/test/images/VQAv2_145372.png",
+    "question": "Is this a balloon?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

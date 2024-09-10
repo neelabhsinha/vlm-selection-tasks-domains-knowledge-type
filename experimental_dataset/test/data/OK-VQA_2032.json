@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2032,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2032.png",
+    "question": "Are these motorcyclists safer or unsafer than ones not wearing helmets?",
+    "label": [
+        "safer",
+        "safer",
+        "safer",
+        "safer",
+        "safer",
+        "safer",
+        "safer",
+        "safer",
+        "unsafer",
+        "unsafer"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 223,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_223.png",
+    "question": "Who might be helping the girl?",
+    "label": "['parents', 'parent', 'parent', 'her parent', 'parent', 'parents', 'mother', 'mom', 'mom', 'parents']",
+    "choices": [
+        "no one",
+        "parents",
+        "other kids",
+        "priest"
+    ],
+    "correct_choice": "parents"
+}

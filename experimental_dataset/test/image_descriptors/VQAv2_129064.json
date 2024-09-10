@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 129064,
+    "caption": "a woman standing on a beach holding an umbrella",
+    "object_tags": [
+        "outdoor",
+        "beach",
+        "sky",
+        "vacation",
+        "summer",
+        "person",
+        "ground",
+        "water",
+        "tourism",
+        "holiday",
+        "people",
+        "woman",
+        "umbrella",
+        "standing",
+        "sand"
+    ]
+}

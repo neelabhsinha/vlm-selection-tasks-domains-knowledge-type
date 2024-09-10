@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2686,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2686.png",
+    "question": "EVAP is the name of what program ?",
+    "label": [
+        "microwave digestion program"
+    ]
+}

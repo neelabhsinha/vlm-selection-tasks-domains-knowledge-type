@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 186,
+    "image_path": "./experimental_dataset/test/images/ChartQA_186.png",
+    "question": "What's the percentage of respondents who think food near Fukushima is not safe?",
+    "label": [
+        "76"
+    ]
+}

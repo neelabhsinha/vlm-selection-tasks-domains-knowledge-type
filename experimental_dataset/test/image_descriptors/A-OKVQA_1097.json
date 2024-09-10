@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1097,
+    "caption": "a little girl flying a kite in a field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "person",
+        "clothing",
+        "field",
+        "playground",
+        "play",
+        "toddler",
+        "footwear",
+        "jeans",
+        "child",
+        "young",
+        "girl",
+        "boy"
+    ]
+}

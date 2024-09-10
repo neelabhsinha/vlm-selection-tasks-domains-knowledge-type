@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 178,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_178.png",
+    "question": "What kind of sign is this?",
+    "label": [
+        "political",
+        "political",
+        "political",
+        "political",
+        "landmark",
+        "landmark",
+        "advertisement",
+        "advertisement",
+        "park",
+        "park"
+    ]
+}

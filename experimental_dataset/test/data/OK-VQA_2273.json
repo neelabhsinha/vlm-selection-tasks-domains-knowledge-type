@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2273,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2273.png",
+    "question": "What movie is this animal famous in?",
+    "label": [
+        "revenant",
+        "revenant",
+        "revenant",
+        "revenant",
+        "grizzly adams",
+        "grizzly adams",
+        "brother bear",
+        "brother bear",
+        "he bear",
+        "he bear"
+    ]
+}

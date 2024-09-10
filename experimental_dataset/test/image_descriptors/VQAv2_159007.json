@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 159007,
+    "caption": "a zebra standing on top of a dry grass covered field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "zebra",
+        "terrestrial animal",
+        "wildlife",
+        "outdoor",
+        "standing"
+    ]
+}

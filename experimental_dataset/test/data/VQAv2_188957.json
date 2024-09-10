@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 188957,
+    "image_path": "./experimental_dataset/test/images/VQAv2_188957.png",
+    "question": "How many animals are standing by the fence?",
+    "label": [
+        "3",
+        "3",
+        "4",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3"
+    ]
+}

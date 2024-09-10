@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3081,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3081.png",
+    "question": "What % of the men said No ?",
+    "label": [
+        "90"
+    ]
+}

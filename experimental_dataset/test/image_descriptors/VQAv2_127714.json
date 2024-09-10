@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 127714,
+    "caption": "a coffee cup sitting on top of a microwave",
+    "object_tags": [
+        "kitchen appliance",
+        "home appliance",
+        "appliance",
+        "indoor",
+        "small appliance",
+        "microwave oven",
+        "text",
+        "major appliance",
+        "coffee maker",
+        "oven",
+        "kitchen",
+        "food",
+        "microwave"
+    ]
+}

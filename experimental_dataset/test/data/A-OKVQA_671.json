@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 671,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_671.png",
+    "question": "What religion is indicated by the garments of the two men in white clothes and caps?",
+    "label": "['muslim', 'muslim', 'muslim', 'hindi', 'muslims', 'isalm', 'islam', 'islam', 'middle east', 'islam']",
+    "choices": [
+        "buddhism",
+        "judaism",
+        "sikhism",
+        "islam"
+    ],
+    "correct_choice": "islam"
+}

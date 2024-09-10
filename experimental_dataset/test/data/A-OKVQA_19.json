@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 19,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_19.png",
+    "question": "What is the outside of the cake made of?",
+    "label": "['frosting', 'icing', 'food paste', 'fondant', 'fondant', 'icing', 'fondant', 'icing', 'next word', 'fondant']",
+    "choices": [
+        "frosting",
+        "custard",
+        "fondant",
+        "whipped cream"
+    ],
+    "correct_choice": "fondant"
+}

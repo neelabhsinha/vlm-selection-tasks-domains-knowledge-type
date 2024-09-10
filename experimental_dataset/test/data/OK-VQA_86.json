@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 86,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_86.png",
+    "question": "What item might be used to warm this item of furniture?",
+    "label": [
+        "electric blanket",
+        "electric blanket",
+        "electric blanket",
+        "electric blanket",
+        "blanker",
+        "blanker",
+        "cloth dryer",
+        "cloth dryer",
+        "blanket",
+        "blanket"
+    ]
+}

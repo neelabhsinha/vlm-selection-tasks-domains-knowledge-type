@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2190,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2190.png",
+    "question": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Colombia?",
+    "label": [
+        "Dr. E. Cobo"
+    ]
+}

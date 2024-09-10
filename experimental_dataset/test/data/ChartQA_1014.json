@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1014,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1014.png",
+    "question": "For which item, 'my spending has decreased' is the least?",
+    "label": [
+        "Beauty and cosmetics"
+    ]
+}

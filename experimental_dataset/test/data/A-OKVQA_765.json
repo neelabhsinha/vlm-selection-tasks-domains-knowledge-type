@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 765,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_765.png",
+    "question": "What has caused the elephants to turn brown?",
+    "label": "['sand', 'dirt', 'mud', 'dirt', 'mud', 'mud', 'mud', 'mud', 'sand', 'dirt']",
+    "choices": [
+        "paint",
+        "dirt",
+        "straw",
+        "crayon"
+    ],
+    "correct_choice": "dirt"
+}

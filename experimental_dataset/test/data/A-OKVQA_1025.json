@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1025,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1025.png",
+    "question": "What kind of drink is in the glasses?",
+    "label": "['wine', 'wine', 'red wine', 'wine', 'wine', 'wine', 'wine', 'red wine', 'wine', 'red wine']",
+    "choices": [
+        "red wine",
+        "whiskey",
+        "champagne",
+        "white wine"
+    ],
+    "correct_choice": "red wine"
+}

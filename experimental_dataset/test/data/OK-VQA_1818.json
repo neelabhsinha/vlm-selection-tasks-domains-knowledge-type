@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1818,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1818.png",
+    "question": "What physical traits does this skill require a person to have?",
+    "label": [
+        "dexterity",
+        "dexterity",
+        "dexterity",
+        "dexterity",
+        "coordination",
+        "coordination",
+        "black",
+        "black",
+        "steady hand",
+        "steady hand"
+    ]
+}

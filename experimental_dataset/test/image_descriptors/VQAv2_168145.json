@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 168145,
+    "caption": "a woman sitting at a table with a donut in front of her",
+    "object_tags": [
+        "person",
+        "human face",
+        "drink",
+        "clothing",
+        "cocktail",
+        "soft drink",
+        "juice",
+        "drinking straw",
+        "woman",
+        "indoor",
+        "restaurant",
+        "girl",
+        "food"
+    ]
+}

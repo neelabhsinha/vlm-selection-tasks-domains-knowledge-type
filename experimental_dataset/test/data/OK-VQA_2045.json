@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2045,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2045.png",
+    "question": "What is this pizza crust made out of?",
+    "label": [
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "dough"
+    ]
+}

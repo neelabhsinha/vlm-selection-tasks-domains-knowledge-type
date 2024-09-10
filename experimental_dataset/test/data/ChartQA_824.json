@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 824,
+    "image_path": "./experimental_dataset/test/images/ChartQA_824.png",
+    "question": "What percentage of respondents own lots of vinyl records?",
+    "label": [
+        "24"
+    ]
+}

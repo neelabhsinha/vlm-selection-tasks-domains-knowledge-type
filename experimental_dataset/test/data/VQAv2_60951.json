@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 60951,
+    "image_path": "./experimental_dataset/test/images/VQAv2_60951.png",
+    "question": "Is this animal domesticated?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4637,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4637.png",
+    "question": "What is he holding?",
+    "label": [
+        "paper",
+        "paper",
+        "paper",
+        "paper",
+        "model plane",
+        "model plane",
+        "game",
+        "game",
+        "plate",
+        "plate"
+    ]
+}

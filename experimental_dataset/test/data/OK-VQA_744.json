@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 744,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_744.png",
+    "question": "What is the colorful object used for?",
+    "label": [
+        "put out fire",
+        "put out fire",
+        "put out fire",
+        "put out fire",
+        "water",
+        "water",
+        "water",
+        "water",
+        "fire",
+        "fire"
+    ]
+}

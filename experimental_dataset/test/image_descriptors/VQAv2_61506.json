@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 61506,
+    "caption": "a herd of horses grazing in a grassy field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "mammal",
+        "animal",
+        "tree",
+        "field",
+        "sky",
+        "horse",
+        "pasture",
+        "ranch",
+        "livestock",
+        "herd",
+        "grazing",
+        "standing",
+        "eating"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 14257,
+    "caption": "a yellow and blue fire hydrant sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "tire",
+        "wheel",
+        "fire hydrant",
+        "vehicle",
+        "yellow",
+        "ground",
+        "land vehicle",
+        "tree",
+        "motorcycle",
+        "parked",
+        "street",
+        "sidewalk",
+        "scooter"
+    ]
+}

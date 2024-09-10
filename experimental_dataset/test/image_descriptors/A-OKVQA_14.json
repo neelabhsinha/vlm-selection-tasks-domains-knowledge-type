@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 14,
+    "caption": "two men in uniform cutting a cake together",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "food",
+        "tableware",
+        "meal",
+        "fast food",
+        "indoor",
+        "platter",
+        "bowl",
+        "table",
+        "standing",
+        "people",
+        "preparing",
+        "ceiling"
+    ]
+}

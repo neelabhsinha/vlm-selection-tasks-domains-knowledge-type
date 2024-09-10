@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 201980,
+    "image_path": "./experimental_dataset/test/images/VQAv2_201980.png",
+    "question": "What color is the lid?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white"
+    ]
+}

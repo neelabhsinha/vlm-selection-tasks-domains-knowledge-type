@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 323,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_323.png",
+    "question": "Where can you get these?",
+    "label": [
+        "grocery",
+        "grocery",
+        "grocery",
+        "grocery",
+        "supermarket",
+        "supermarket",
+        "store",
+        "store",
+        "grocery store",
+        "grocery store"
+    ]
+}

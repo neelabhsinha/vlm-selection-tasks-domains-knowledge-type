@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4079,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4079.png",
+    "question": "What is the short form for Upholstery?",
+    "label": [
+        "Uphol."
+    ]
+}

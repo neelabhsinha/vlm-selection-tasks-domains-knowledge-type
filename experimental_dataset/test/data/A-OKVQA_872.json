@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 872,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_872.png",
+    "question": "What is the cat laying inside?",
+    "label": "['laptop', 'laptop', 'laptop', 'laptop', 'laptop', 'laptop', 'laptop', 'laptop', 'laptop', 'laptop']",
+    "choices": [
+        "basket",
+        "book",
+        "laptop",
+        "cushions"
+    ],
+    "correct_choice": "laptop"
+}

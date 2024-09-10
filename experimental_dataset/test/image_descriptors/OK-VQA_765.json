@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 765,
+    "caption": "a man holding a surfboard on a beach",
+    "object_tags": [
+        "outdoor",
+        "surfboard",
+        "person",
+        "beach",
+        "water",
+        "surf",
+        "wind wave",
+        "surfing equipment",
+        "tide",
+        "vacation",
+        "wave",
+        "ocean",
+        "ground",
+        "holding",
+        "surfing",
+        "carrying",
+        "standing"
+    ]
+}

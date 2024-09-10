@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 248,
+    "image_path": "./experimental_dataset/test/images/ChartQA_248.png",
+    "question": "What is the color of highest bar in the graph?",
+    "label": [
+        "Teal Blue"
+    ]
+}

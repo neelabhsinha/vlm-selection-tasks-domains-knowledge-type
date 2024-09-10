@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 86073,
+    "image_path": "./experimental_dataset/test/images/VQAv2_86073.png",
+    "question": "Where is the cat sleeping?",
+    "label": [
+        "on top of car",
+        "on car",
+        "car top",
+        "on car",
+        "on car",
+        "top of car",
+        "over car",
+        "on car",
+        "car roof",
+        "car"
+    ]
+}

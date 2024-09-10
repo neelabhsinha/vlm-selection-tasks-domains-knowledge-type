@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1012,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1012.png",
+    "question": "Is Michael the corresponding author?",
+    "label": [
+        "No"
+    ]
+}

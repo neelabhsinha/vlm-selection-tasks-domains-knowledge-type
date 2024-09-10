@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 982,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_982.png",
+    "question": "Why is the boy using a glove?",
+    "label": "['to catch', 'catching', 'catch ball', 'catch ball', 'catch ball', 'catch baseball', 'protect hand', 'ball catching', 'catching ball', 'baseball']",
+    "choices": [
+        "warmth",
+        "to catch",
+        "health",
+        "costume"
+    ],
+    "correct_choice": "to catch"
+}

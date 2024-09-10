@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4449,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4449.png",
+    "question": "What is this person's preferred airline seat?",
+    "label": [
+        "window seat",
+        "Window seat"
+    ]
+}

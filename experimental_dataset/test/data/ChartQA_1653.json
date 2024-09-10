@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1653,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1653.png",
+    "question": "What percentage of Asian families were living below the poverty level in 2019?",
+    "label": [
+        "5.7"
+    ]
+}

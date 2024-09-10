@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2324,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2324.png",
+    "question": "What was BT's earnings before interest, taxes, depreciation and amortization in the fourth quarter of 2020/21?",
+    "label": [
+        "1812"
+    ]
+}

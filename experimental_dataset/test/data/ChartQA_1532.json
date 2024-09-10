@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1532,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1532.png",
+    "question": "How many mobile subscriptions were registered for every 100 people in Tanzania between 2000 and 2019?",
+    "label": [
+        "82.21"
+    ]
+}

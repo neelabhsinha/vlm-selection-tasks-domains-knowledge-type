@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 140969,
+    "caption": "a hot dog sitting on top of a napkin next to a drink",
+    "object_tags": [
+        "food",
+        "fast food",
+        "sandwich",
+        "snack food",
+        "american food",
+        "hot dog bun",
+        "dodger dog",
+        "sausage bun",
+        "choripan",
+        "bread",
+        "chili dog",
+        "coney island hot dog",
+        "knackwurst",
+        "snack",
+        "drink",
+        "table",
+        "dog",
+        "indoor",
+        "hotdog",
+        "bun"
+    ]
+}

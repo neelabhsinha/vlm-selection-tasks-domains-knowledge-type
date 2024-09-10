@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 184450,
+    "caption": "a street sign on a pole in front of a brick building",
+    "object_tags": [
+        "text",
+        "building",
+        "outdoor",
+        "houseplant",
+        "signage",
+        "flowerpot",
+        "street",
+        "address sign",
+        "window",
+        "plant",
+        "sign",
+        "street sign"
+    ]
+}

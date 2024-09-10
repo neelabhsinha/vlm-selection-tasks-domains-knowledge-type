@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 144221,
+    "caption": "a white bath tub sitting next to a white sink",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "tap",
+        "bathroom accessory",
+        "tile",
+        "plumbing",
+        "sink",
+        "restroom",
+        "window",
+        "bathroom cabinet",
+        "white",
+        "marble",
+        "bathroom",
+        "shower",
+        "room",
+        "floor",
+        "tub",
+        "mirror",
+        "bathtub",
+        "toilet"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3209,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3209.png",
+    "question": "What is the most common kind of cheese used in this dish?",
+    "label": [
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "goat cheese",
+        "goat cheese"
+    ]
+}

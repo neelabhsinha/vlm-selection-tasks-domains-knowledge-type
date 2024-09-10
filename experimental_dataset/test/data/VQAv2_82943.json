@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 82943,
+    "image_path": "./experimental_dataset/test/images/VQAv2_82943.png",
+    "question": "What happened to the background?",
+    "label": [
+        "blurred",
+        "blurred",
+        "out of focus",
+        "blur",
+        "out of focus",
+        "blurry",
+        "blurry",
+        "nothing",
+        "blurred",
+        "blurry"
+    ]
+}

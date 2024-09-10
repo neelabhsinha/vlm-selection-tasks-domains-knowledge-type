@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 739,
+    "image_path": "./experimental_dataset/test/images/ChartQA_739.png",
+    "question": "What was the difference between the unemployment rates in 2003 and 2009?",
+    "label": [
+        "0"
+    ]
+}

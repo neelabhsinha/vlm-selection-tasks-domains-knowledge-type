@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 485,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_485.png",
+    "question": "What type of shot is the woman about to hit?",
+    "label": "['serve', 'serve', 'serve', 'serve', 'serve', 'serve', 'fore hand', 'service', 'service', 'serve']",
+    "choices": [
+        "forehand",
+        "slice",
+        "backhand",
+        "serve"
+    ],
+    "correct_choice": "serve"
+}

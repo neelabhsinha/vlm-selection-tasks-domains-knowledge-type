@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1082,
+    "caption": "a piece of cake sitting on top of a white plate",
+    "object_tags": [
+        "baked goods",
+        "food",
+        "sweetness",
+        "baking",
+        "cake",
+        "dessert",
+        "pastry",
+        "sponge cake",
+        "snack",
+        "glaze",
+        "chocolate",
+        "snack cake",
+        "kuchen",
+        "cream",
+        "berry",
+        "pudding",
+        "icing",
+        "semifreddo",
+        "fruit cake",
+        "indoor",
+        "slice"
+    ]
+}

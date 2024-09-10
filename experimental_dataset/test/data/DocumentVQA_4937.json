@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4937,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4937.png",
+    "question": "What is the C.Yr. Remuneration of Director 'S.R.Patel'?",
+    "label": [
+        "10,80,000/-"
+    ]
+}

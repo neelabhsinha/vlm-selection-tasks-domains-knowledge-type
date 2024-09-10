@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 200612,
+    "caption": "a beach umbrella sitting on top of a sandy beach",
+    "object_tags": [
+        "outdoor",
+        "umbrella",
+        "sky",
+        "beach",
+        "ground",
+        "water",
+        "sun tanning",
+        "vacation",
+        "people",
+        "sand",
+        "sitting",
+        "blue",
+        "chair",
+        "summer",
+        "ocean"
+    ]
+}

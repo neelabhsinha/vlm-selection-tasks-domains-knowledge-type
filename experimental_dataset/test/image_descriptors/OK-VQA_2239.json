@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2239,
+    "caption": "a table topped with sandwiches and a bowl of salad",
+    "object_tags": [
+        "food",
+        "fast food",
+        "meal",
+        "cuisine",
+        "dish",
+        "american food",
+        "snack",
+        "supper",
+        "side dish",
+        "brunch",
+        "junk food",
+        "lunch",
+        "ingredient",
+        "delicacy",
+        "indoor",
+        "sandwich",
+        "snack food",
+        "fries",
+        "salad",
+        "vegetable"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 836,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_836.png",
+    "question": "What kind of plant is the red one near the door?",
+    "label": "['poinsettia', 'hypiscus plant', 'pointsettia', 'poinsettia', 'poinsettia', 'poinsettia', 'flower', 'good', 'roses', 'poinsettia']",
+    "choices": [
+        "pointsettia",
+        "tulip",
+        "rose",
+        "daisy"
+    ],
+    "correct_choice": "pointsettia"
+}

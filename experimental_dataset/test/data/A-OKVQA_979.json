@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 979,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_979.png",
+    "question": "What type of room is this?",
+    "label": "['formal', 'formal', 'foyer', 'museum', 'royal', 'museum', 'salon', 'living toom', 'lobby', 'showcase']",
+    "choices": [
+        "cafeteria",
+        "formal",
+        "class",
+        "hospital"
+    ],
+    "correct_choice": "formal"
+}

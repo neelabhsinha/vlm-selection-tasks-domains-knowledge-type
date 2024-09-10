@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3773,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3773.png",
+    "question": "If you had to take a guess would you say that this is someone's bedroom or a hotel room?",
+    "label": [
+        "bedroom",
+        "bedroom",
+        "bedroom",
+        "bedroom",
+        "bedroom",
+        "bedroom",
+        "someone's bedroom",
+        "someone's bedroom",
+        "hotel room",
+        "hotel room"
+    ]
+}

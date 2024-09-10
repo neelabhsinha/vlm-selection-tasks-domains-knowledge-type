@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5146,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5146.png",
+    "question": "Who accompanied Me. Metcalfe when he went on rounds of patient homes?",
+    "label": [
+        "Ms. Drew Schnellbacher"
+    ]
+}

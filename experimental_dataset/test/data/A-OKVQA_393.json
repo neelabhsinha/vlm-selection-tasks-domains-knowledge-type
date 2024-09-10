@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 393,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_393.png",
+    "question": "When does meter enforcement have their days off?",
+    "label": "['weekends', 'weekends', 'saturday sunday', 'saturday sunday', 'weekends', 'weekends', 'weekends', 'saturday sunday', 'weekend', 'weekends']",
+    "choices": [
+        "pta days",
+        "holidays",
+        "weekdays",
+        "weekend"
+    ],
+    "correct_choice": "weekend"
+}

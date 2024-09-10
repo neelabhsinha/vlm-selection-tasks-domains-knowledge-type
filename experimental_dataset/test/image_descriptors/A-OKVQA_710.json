@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 710,
+    "caption": "a little girl sitting at a table with a pizza",
+    "object_tags": [
+        "person",
+        "pizza",
+        "fast food",
+        "food",
+        "dish",
+        "clothing",
+        "italian food",
+        "human face",
+        "toddler",
+        "baby",
+        "pizza cheese",
+        "boy",
+        "california-style pizza",
+        "baked goods",
+        "sitting",
+        "indoor",
+        "table",
+        "child",
+        "young"
+    ]
+}

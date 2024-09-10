@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 83324,
+    "image_path": "./experimental_dataset/test/images/VQAv2_83324.png",
+    "question": "Is the horse behaving?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

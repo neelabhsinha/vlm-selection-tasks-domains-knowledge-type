@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 505,
+    "caption": "a tray of food on a table",
+    "object_tags": [
+        "food",
+        "meal",
+        "fast food",
+        "indoor",
+        "seafood",
+        "dish",
+        "brunch",
+        "table",
+        "bread",
+        "cuisine",
+        "supper",
+        "american food",
+        "delicacy",
+        "vegetable",
+        "restaurant",
+        "sandwich",
+        "crab",
+        "snack food"
+    ]
+}

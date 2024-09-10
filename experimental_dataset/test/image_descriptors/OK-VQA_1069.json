@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1069,
+    "caption": "people on a boat in the middle of the ocean",
+    "object_tags": [
+        "transport",
+        "water",
+        "sky",
+        "outdoor",
+        "watercraft",
+        "boat",
+        "ship",
+        "sea",
+        "lake",
+        "vehicle",
+        "boating",
+        "water transportation",
+        "waterway",
+        "ocean",
+        "beach"
+    ]
+}

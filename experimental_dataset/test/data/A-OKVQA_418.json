@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 418,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_418.png",
+    "question": "Which of these emotions is the person least likely to be experiencing?",
+    "label": "['sadness', 'calmness', 'happy', 'joy', 'happiness', 'anger', 'sad', 'happiness', 'anger', 'sadness']",
+    "choices": [
+        "contentedness",
+        "sadness",
+        "joy",
+        "happiness"
+    ],
+    "correct_choice": "sadness"
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 203215,
+    "caption": "a brown and white dog sitting on the hood of a car",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "outdoor",
+        "pet",
+        "terrier",
+        "dog breed",
+        "dog",
+        "brown"
+    ]
+}

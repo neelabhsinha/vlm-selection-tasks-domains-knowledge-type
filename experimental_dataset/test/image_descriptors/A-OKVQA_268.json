@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 268,
+    "caption": "a living room with a tv and a tv stand",
+    "object_tags": [
+        "text",
+        "indoor",
+        "wall",
+        "computer",
+        "computer monitor",
+        "picture frame",
+        "furniture",
+        "electronics",
+        "television",
+        "room",
+        "screen"
+    ]
+}

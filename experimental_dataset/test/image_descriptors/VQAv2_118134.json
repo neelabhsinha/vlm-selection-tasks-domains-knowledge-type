@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 118134,
+    "caption": "a man and woman sitting on a bench with a dog",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "hat",
+        "fashion accessory",
+        "sunglasses",
+        "smile",
+        "sun hat",
+        "sitting",
+        "dog",
+        "brown",
+        "grass",
+        "wooden",
+        "wearing",
+        "woman",
+        "fall",
+        "glasses"
+    ]
+}

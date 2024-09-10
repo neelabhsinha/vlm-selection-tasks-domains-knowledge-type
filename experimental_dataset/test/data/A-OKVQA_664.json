@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 664,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_664.png",
+    "question": "What is the reflective surface behind the woman holding the umbrella?",
+    "label": "['protective', 'glass', 'window', 'glass', 'window', 'window', 'window', 'window', 'glass', 'glass']",
+    "choices": [
+        "water",
+        "ice",
+        "glass",
+        "rain"
+    ],
+    "correct_choice": "glass"
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 171418,
+    "caption": "a plate of food on a table",
+    "object_tags": [
+        "food",
+        "bottle",
+        "indoor",
+        "meal",
+        "table",
+        "drink",
+        "carrot",
+        "fast food",
+        "tableware",
+        "brunch",
+        "supper",
+        "tomato",
+        "lunch",
+        "person",
+        "vegetable",
+        "salad",
+        "restaurant"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 307,
+    "caption": "a woman standing next to a suitcase on a sidewalk",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "footwear",
+        "houseplant",
+        "tree",
+        "flowerpot",
+        "trousers",
+        "woman",
+        "ground",
+        "people",
+        "plant",
+        "summer"
+    ]
+}

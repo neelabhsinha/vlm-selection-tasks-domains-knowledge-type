@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1971,
+    "caption": "a plate of food on a table with a cup of coffee",
+    "object_tags": [
+        "food",
+        "fast food",
+        "snack",
+        "meal",
+        "dish",
+        "tea",
+        "tableware",
+        "drink",
+        "cuisine",
+        "table",
+        "breakfast",
+        "coffee",
+        "cup",
+        "outdoor"
+    ]
+}

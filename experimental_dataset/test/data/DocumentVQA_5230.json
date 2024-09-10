@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5230,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5230.png",
+    "question": "What is the Percentage of ownership interest as at 31st March,2008 of \u2018Gold Flake Corporation Limited\u2019?",
+    "label": [
+        "100"
+    ]
+}

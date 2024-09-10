@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2633,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2633.png",
+    "question": "What is the RDA of calories for a very active woman(gm)?",
+    "label": [
+        "3000"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 42819,
+    "caption": "a giraffe standing next to a group of people",
+    "object_tags": [
+        "giraffe",
+        "outdoor",
+        "tree",
+        "person",
+        "clothing",
+        "giraffidae",
+        "terrestrial animal",
+        "boy",
+        "standing",
+        "zoo",
+        "sky",
+        "wildlife",
+        "ground",
+        "people",
+        "enclosure"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 299,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_299.png",
+    "question": "What material is the squared off building in the background made from?",
+    "label": "['rock', 'clay', 'concrete', 'stone', 'brick', 'iron', 'concrete', 'bricks', 'brick', 'concrete']",
+    "choices": [
+        "steel",
+        "glass",
+        "wood",
+        "clay"
+    ],
+    "correct_choice": "clay"
+}

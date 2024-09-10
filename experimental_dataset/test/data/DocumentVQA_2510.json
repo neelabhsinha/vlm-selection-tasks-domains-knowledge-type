@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2510,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2510.png",
+    "question": "Which place has plenty of parking space?",
+    "label": [
+        "LAHAINA SQUARE",
+        "Lahaina Square"
+    ]
+}

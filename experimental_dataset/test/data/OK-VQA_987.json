@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 987,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_987.png",
+    "question": "What is this machine used for?",
+    "label": [
+        "work",
+        "work",
+        "work",
+        "work",
+        "work",
+        "work",
+        "type",
+        "type",
+        "compute",
+        "compute"
+    ]
+}

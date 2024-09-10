@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1946,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1946.png",
+    "question": "What is the low estimate range of loaned space?",
+    "label": [
+        "$  585"
+    ]
+}

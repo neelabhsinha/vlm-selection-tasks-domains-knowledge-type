@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2108,
+    "caption": "a slice of pepperoni pizza on a paper plate",
+    "object_tags": [
+        "food",
+        "pizza",
+        "dish",
+        "fast food",
+        "italian food",
+        "pizza cheese",
+        "california-style pizza",
+        "baked goods",
+        "flatbread",
+        "sicilian pizza",
+        "cuisine",
+        "tomato pie",
+        "quiche",
+        "indoor",
+        "slice",
+        "pepperoni",
+        "cheese"
+    ]
+}

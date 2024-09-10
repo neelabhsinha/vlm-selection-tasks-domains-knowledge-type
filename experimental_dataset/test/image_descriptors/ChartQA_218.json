@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 218,
+    "caption": "a collage of photos of different types of electronic devices",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "number",
+        "software",
+        "parallel",
+        "colorfulness"
+    ]
+}

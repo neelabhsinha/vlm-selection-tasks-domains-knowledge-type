@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 326,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_326.png",
+    "question": "What apparel company is sponsoring the tennis match?",
+    "label": "['polo', 'polo', 'polo', 'polo', 'uniqlo', 'ralph lauren', 'ralph lauren', 'polo', 'polo', 'polo']",
+    "choices": [
+        "polo",
+        "dkny",
+        "fendi",
+        "ferragamo"
+    ],
+    "correct_choice": "polo"
+}

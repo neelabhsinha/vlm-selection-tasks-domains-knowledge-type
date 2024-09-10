@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 472,
+    "caption": "a person holding a hot dog in their hand",
+    "object_tags": [
+        "fast food",
+        "person",
+        "food",
+        "snack",
+        "indoor"
+    ]
+}

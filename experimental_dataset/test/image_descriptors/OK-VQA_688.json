@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 688,
+    "caption": "a herd of cattle grazing on a lush green field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "cow",
+        "pasture",
+        "livestock",
+        "field",
+        "plant",
+        "animal",
+        "bovine",
+        "mammal",
+        "herd",
+        "fodder",
+        "ranch",
+        "grazing",
+        "dairy cow",
+        "herding",
+        "grassland",
+        "bull",
+        "ox",
+        "standing",
+        "cattle",
+        "farm"
+    ]
+}

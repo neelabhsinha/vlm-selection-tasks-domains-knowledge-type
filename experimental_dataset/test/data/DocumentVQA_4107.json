@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4107,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4107.png",
+    "question": "What is the name of the 'department'?",
+    "label": [
+        "Department of Aeronautics and Astronautics",
+        "Department of aeronautics and astronautics"
+    ]
+}

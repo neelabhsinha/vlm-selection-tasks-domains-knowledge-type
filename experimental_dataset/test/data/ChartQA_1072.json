@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1072,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1072.png",
+    "question": "When did the blue bar reach the peak?",
+    "label": [
+        "2019"
+    ]
+}

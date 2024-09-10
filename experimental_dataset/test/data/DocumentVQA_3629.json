@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3629,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3629.png",
+    "question": "Which are the five Health districts?",
+    "label": [
+        "10, 20, 21, 25 and 26"
+    ]
+}

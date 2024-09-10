@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 408,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_408.png",
+    "question": "What is the purpose of the masonry on the wall to the left of the kitchen?",
+    "label": "['fireplace', 'fireplace', 'fireplace', 'protect fire', 'wash dishes', 'tv stand', 'fireplace', 'fireplace', 'fireplace', 'display case']",
+    "choices": [
+        "fireplace",
+        "structural wall",
+        "home foundation",
+        "visual aesthetics"
+    ],
+    "correct_choice": "fireplace"
+}

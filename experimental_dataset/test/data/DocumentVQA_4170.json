@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4170,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4170.png",
+    "question": "what is the schedule date of the given program ?",
+    "label": [
+        "Wednesday, November 19, 1975",
+        "Wednesday , November 19, 1975",
+        "November 19, 1975"
+    ]
+}

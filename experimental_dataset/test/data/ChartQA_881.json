@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 881,
+    "image_path": "./experimental_dataset/test/images/ChartQA_881.png",
+    "question": "What is the total immediate expected response time for social media questtions?",
+    "label": [
+        "38"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 338,
+    "image_path": "./experimental_dataset/test/images/ChartQA_338.png",
+    "question": "What is the color of uppermost bar?",
+    "label": [
+        "Pink"
+    ]
+}

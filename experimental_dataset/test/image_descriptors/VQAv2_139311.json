@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 139311,
+    "caption": "a dog sitting on a wooden bench next to a bunch of logs",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "dog",
+        "tree",
+        "outdoor",
+        "fence",
+        "dog breed",
+        "fur",
+        "black",
+        "sitting",
+        "wooden",
+        "ground"
+    ]
+}

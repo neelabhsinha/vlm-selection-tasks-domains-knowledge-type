@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5170,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5170.png",
+    "question": "Which month & year is mentioned under the heading?",
+    "label": [
+        "JULY 1974",
+        "July 1974"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4533,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4533.png",
+    "question": "Which food shown here is often served in asian restaurants?",
+    "label": [
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "rice",
+        "fried rice",
+        "fried rice",
+        "fried rice",
+        "fried rice"
+    ]
+}

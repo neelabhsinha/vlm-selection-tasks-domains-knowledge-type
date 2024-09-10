@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 876,
+    "caption": "a clock tower in the middle of a city",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "land vehicle",
+        "billboard",
+        "car",
+        "vehicle",
+        "tree",
+        "clock",
+        "tower",
+        "street",
+        "city",
+        "clock tower"
+    ]
+}

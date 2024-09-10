@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4168,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4168.png",
+    "question": "What age group plays this sport the most?",
+    "label": [
+        "20s",
+        "20s",
+        "20 30",
+        "20 30",
+        "18 40",
+        "18 40",
+        "20",
+        "20",
+        "20's",
+        "20's"
+    ]
+}

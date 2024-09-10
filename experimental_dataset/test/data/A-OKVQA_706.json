@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 706,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_706.png",
+    "question": "What is the stuffed bear wearing?",
+    "label": "['bowtie', 'bow tie', 'bow tie', 'bowtie', 'bow tie', 'bow', 'bowtie', 'bowtie', 'bow tie', 'bowtie']",
+    "choices": [
+        "raincoat",
+        "suit",
+        "hat",
+        "bow tie"
+    ],
+    "correct_choice": "bow tie"
+}

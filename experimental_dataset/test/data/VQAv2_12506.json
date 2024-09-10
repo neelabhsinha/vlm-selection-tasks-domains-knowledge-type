@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 12506,
+    "image_path": "./experimental_dataset/test/images/VQAv2_12506.png",
+    "question": "What is the tabletop made of?",
+    "label": [
+        "metal",
+        "stone",
+        "metal",
+        "metal",
+        "metal",
+        "wood",
+        "metal",
+        "porcelain",
+        "glass",
+        "metal"
+    ]
+}

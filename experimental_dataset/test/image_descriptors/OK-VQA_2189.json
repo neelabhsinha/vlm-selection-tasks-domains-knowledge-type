@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2189,
+    "caption": "a statue of a woman sitting on a bench",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "sculpture",
+        "human face",
+        "clothing",
+        "fence",
+        "sitting",
+        "bench",
+        "statue",
+        "wooden",
+        "park",
+        "plant",
+        "hat",
+        "ground"
+    ]
+}

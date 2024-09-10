@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 358,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_358.png",
+    "question": "What energy is used to cook the turkey?",
+    "label": "['joyous', 'electric', 'electricity', 'gas', 'oven', 'gas', 'gas', 'heat', 'gas', 'gas']",
+    "choices": [
+        "carbon fire",
+        "gas",
+        "electricity",
+        "wood fire"
+    ],
+    "correct_choice": "gas"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 811,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_811.png",
+    "question": "Where is the person bending?",
+    "label": "['waist', 'in kitchen', 'kitchen', 'counter', 'waist', 'kitchen', 'kitchen', 'kitchen', 'kitchen counter', 'posing']",
+    "choices": [
+        "formal dining",
+        "grocer",
+        "pantry",
+        "kitchen"
+    ],
+    "correct_choice": "kitchen"
+}

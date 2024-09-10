@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 427,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_427.png",
+    "question": "what is this notice about",
+    "label": [
+        "NOTICE OF ANNUAL MEETING OF SHAREHOLDERS"
+    ]
+}

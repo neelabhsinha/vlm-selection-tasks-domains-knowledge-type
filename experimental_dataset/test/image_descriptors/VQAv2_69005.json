@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 69005,
+    "caption": "a desk with a computer and a bag of chips",
+    "object_tags": [
+        "indoor",
+        "text",
+        "computer monitor",
+        "table",
+        "personal computer",
+        "computer keyboard",
+        "furniture",
+        "computer desk",
+        "desktop computer",
+        "output device",
+        "office equipment",
+        "wall",
+        "computer hardware",
+        "computer",
+        "office supplies",
+        "messy",
+        "keyboard",
+        "desk"
+    ]
+}

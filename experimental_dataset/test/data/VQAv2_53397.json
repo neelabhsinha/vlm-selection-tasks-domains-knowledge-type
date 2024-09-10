@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 53397,
+    "image_path": "./experimental_dataset/test/images/VQAv2_53397.png",
+    "question": "What is the man eating?",
+    "label": [
+        "hot dog",
+        "hot dog",
+        "hoagie",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog"
+    ]
+}

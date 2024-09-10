@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1426,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1426.png",
+    "question": "How many square meters of exhibition space was rented in the United States in 2012?",
+    "label": [
+        "41.1"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 151,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Professions",
+        "Knowledge Base",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Technical Knowledge"
+    ]
+}

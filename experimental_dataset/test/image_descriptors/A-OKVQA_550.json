@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 550,
+    "caption": "a bicycle parked next to a fire hydrant",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "bicycle wheel",
+        "tire",
+        "bike",
+        "bicycle frame",
+        "building",
+        "bicycle",
+        "bicycle tire",
+        "cycling",
+        "bicycle saddle",
+        "street",
+        "parked",
+        "city",
+        "ground",
+        "sidewalk",
+        "canal",
+        "winter"
+    ]
+}

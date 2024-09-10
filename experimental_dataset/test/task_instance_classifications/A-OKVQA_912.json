@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 912,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "History",
+        "Social Media",
+        "Professions",
+        "Reviews"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Geographical Knowledge",
+        "Technical Knowledge"
+    ]
+}

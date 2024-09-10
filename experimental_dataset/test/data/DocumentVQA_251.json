@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 251,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_251.png",
+    "question": "what is the name of the program ?",
+    "label": [
+        "Nicotine RSM Study"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4351,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4351.png",
+    "question": "What is the Budget allocated for bad debt provision income category in 1982?",
+    "label": [
+        "( 1,667)",
+        "1,667",
+        "$1,667",
+        "(1,667)"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 60124,
+    "image_path": "./experimental_dataset/test/images/VQAv2_60124.png",
+    "question": "What type of food the this restaurant serve?",
+    "label": [
+        "irish",
+        "italian",
+        "none",
+        "irish",
+        "baked goods",
+        "bar",
+        "english",
+        "sandwiches",
+        "italian",
+        "pizza"
+    ]
+}

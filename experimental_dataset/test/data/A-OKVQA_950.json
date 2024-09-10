@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 950,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_950.png",
+    "question": "What is the name of a famous man associated with this sport?",
+    "label": "['arthur ashe', 'stan smith', 'faruk marcos', 'john mcenroe', 'mcenroe', 'adidas', 'andre agassi', 'tiger', 'arthur ashe', 'andy murray']",
+    "choices": [
+        "david beckham",
+        "john mcenroe",
+        "wayne rooney",
+        "tiger woods"
+    ],
+    "correct_choice": "john mcenroe"
+}

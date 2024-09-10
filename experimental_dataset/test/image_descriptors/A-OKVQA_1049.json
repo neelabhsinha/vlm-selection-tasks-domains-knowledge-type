@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1049,
+    "caption": "a person sitting on a bed using a laptop computer",
+    "object_tags": [
+        "indoor",
+        "computer",
+        "wall",
+        "laptop",
+        "person",
+        "furniture",
+        "desk",
+        "personal computer",
+        "room"
+    ]
+}

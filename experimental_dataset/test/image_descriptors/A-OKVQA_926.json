@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 926,
+    "caption": "a kitchen filled with lots of kitchen equipment",
+    "object_tags": [
+        "indoor",
+        "ceiling",
+        "sink",
+        "kitchen",
+        "wall",
+        "service",
+        "countertop",
+        "floor",
+        "cooking",
+        "restaurant"
+    ]
+}

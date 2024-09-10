@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3507,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3507.png",
+    "question": "What kind of food are they eating?",
+    "label": [
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "italian",
+        "italian"
+    ]
+}

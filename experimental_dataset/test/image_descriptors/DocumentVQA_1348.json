@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1348,
+    "caption": "a wooden table with a knife and scissors on it",
+    "object_tags": [
+        "text",
+        "diagram",
+        "line",
+        "parallel",
+        "sketch",
+        "black and white",
+        "drawing",
+        "rectangle"
+    ]
+}

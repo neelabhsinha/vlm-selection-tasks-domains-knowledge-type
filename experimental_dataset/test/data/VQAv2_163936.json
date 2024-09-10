@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 163936,
+    "image_path": "./experimental_dataset/test/images/VQAv2_163936.png",
+    "question": "Is that an iPhone or an Android?",
+    "label": [
+        "android",
+        "android",
+        "iphone",
+        "iphone",
+        "iphone",
+        "iphone",
+        "iphone",
+        "iphone",
+        "iphone",
+        "iphone"
+    ]
+}

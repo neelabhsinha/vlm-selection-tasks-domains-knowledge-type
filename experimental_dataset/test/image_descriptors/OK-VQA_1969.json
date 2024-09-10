@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1969,
+    "caption": "a dog sleeping on a couch in a living room",
+    "object_tags": [
+        "indoor",
+        "interior design",
+        "furniture",
+        "house",
+        "couch",
+        "window",
+        "wall",
+        "pillow",
+        "den",
+        "room",
+        "book",
+        "sofa bed",
+        "bed",
+        "shelf",
+        "floor",
+        "living room",
+        "red"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 978,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_978.png",
+    "question": "What are the people riding in the water?",
+    "label": "['waves', 'surfboards', 'surfboards', 'surfboards', 'surfboard', 'surf boards', 'surfboard', 'surf boards', 'surfboards', 'surf board']",
+    "choices": [
+        "raft",
+        "kayak",
+        "boat",
+        "surfboard"
+    ],
+    "correct_choice": "surfboard"
+}

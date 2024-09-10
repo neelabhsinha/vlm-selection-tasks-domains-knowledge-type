@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1933,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1933.png",
+    "question": "Who wrote the \u2018letter\u2019?",
+    "label": [
+        "Carolyn Walden",
+        "Carolyn walden"
+    ]
+}

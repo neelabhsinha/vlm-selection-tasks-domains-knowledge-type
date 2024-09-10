@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4957,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4957.png",
+    "question": "Who is number 3 among the list of nominees listed?",
+    "label": [
+        "R.W. Engel"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 210,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_210.png",
+    "question": "If this is a grand slam which must it be?",
+    "label": "['overhand', 'same year', 'wimbledon', 'wimbledon', 'tennis', 'wimbledon', 'competition', 'tennis', 'uknown', 'wimbledon']",
+    "choices": [
+        "wimbledon",
+        "french open",
+        "australian open",
+        "us open"
+    ],
+    "correct_choice": "wimbledon"
+}

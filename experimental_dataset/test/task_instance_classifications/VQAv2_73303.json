@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 73303,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

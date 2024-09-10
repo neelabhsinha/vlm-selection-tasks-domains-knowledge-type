@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 79872,
+    "caption": "a room with a desk, chair and a clock",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "drawer",
+        "cabinetry",
+        "floor",
+        "room",
+        "chest of drawers",
+        "interior design",
+        "coffee table",
+        "mirror",
+        "chair",
+        "furniture",
+        "table"
+    ]
+}

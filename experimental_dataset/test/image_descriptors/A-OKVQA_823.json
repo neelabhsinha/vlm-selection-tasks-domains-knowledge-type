@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 823,
+    "caption": "a green truck is parked in front of a building",
+    "object_tags": [
+        "wheel",
+        "building",
+        "tire",
+        "vehicle",
+        "land vehicle",
+        "road",
+        "waste container",
+        "outdoor",
+        "mode of transport",
+        "ground",
+        "street",
+        "parked"
+    ]
+}

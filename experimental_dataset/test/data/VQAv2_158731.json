@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 158731,
+    "image_path": "./experimental_dataset/test/images/VQAv2_158731.png",
+    "question": "Is the scooter cute?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes"
+    ]
+}

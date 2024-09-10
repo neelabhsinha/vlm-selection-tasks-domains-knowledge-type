@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 185,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_185.png",
+    "question": "What are the white lines marked for?",
+    "label": [
+        "crosswalk",
+        "crosswalk",
+        "crosswalk",
+        "crosswalk",
+        "crosswalk",
+        "crosswalk",
+        "crosswalk",
+        "crosswalk",
+        "cross",
+        "cross"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1960,
+    "caption": "a man standing next to a woman in a kitchen",
+    "object_tags": [
+        "black and white",
+        "clothing",
+        "person",
+        "street",
+        "fast food",
+        "fish",
+        "monochrome",
+        "indoor",
+        "tuna"
+    ]
+}

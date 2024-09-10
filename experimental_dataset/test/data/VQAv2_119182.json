@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 119182,
+    "image_path": "./experimental_dataset/test/images/VQAv2_119182.png",
+    "question": "What kind of stove is that?",
+    "label": [
+        "simple",
+        "countertop stove",
+        "built-in",
+        "energy star",
+        "electric",
+        "ge",
+        "wall mount",
+        "gas stove",
+        "electric",
+        "electric"
+    ]
+}

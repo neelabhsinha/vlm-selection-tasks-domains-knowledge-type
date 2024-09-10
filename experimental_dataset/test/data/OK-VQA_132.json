@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 132,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_132.png",
+    "question": "What kind of park is this picture taken in?",
+    "label": [
+        "skatepark",
+        "skatepark",
+        "skatepark",
+        "skatepark",
+        "skate park",
+        "skate park",
+        "skate park",
+        "skate park",
+        "skate",
+        "skate"
+    ]
+}

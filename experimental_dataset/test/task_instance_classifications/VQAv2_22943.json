@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 22943,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Government and Politics"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge"
+    ]
+}

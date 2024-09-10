@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3517,
+    "caption": "a cat sitting on a chair in a room",
+    "object_tags": [
+        "indoor",
+        "small to medium-sized cats",
+        "felidae",
+        "animal",
+        "domestic cat",
+        "mammal",
+        "whiskers",
+        "cat",
+        "sofa",
+        "domestic short-haired cat",
+        "cat furniture",
+        "chair"
+    ]
+}

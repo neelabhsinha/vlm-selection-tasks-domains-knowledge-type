@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2170,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2170.png",
+    "question": "What is the food in this photo made of?",
+    "label": [
+        "donut",
+        "donut",
+        "donut",
+        "donut",
+        "flower",
+        "flower",
+        "sugar",
+        "sugar",
+        "dough",
+        "dough"
+    ]
+}

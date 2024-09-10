@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5234,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5234.png",
+    "question": "How many references are mentioned?",
+    "label": [
+        "11"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 229,
+    "image_path": "./experimental_dataset/test/images/ChartQA_229.png",
+    "question": "What's the add up value of Lithuania and Bolivia?",
+    "label": [
+        "28.3"
+    ]
+}

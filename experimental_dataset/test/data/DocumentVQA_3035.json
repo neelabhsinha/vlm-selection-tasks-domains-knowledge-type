@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3035,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3035.png",
+    "question": "What is the \"Volume (MM)\" for \"Retail BSGSF\"?",
+    "label": [
+        "172.8"
+    ]
+}

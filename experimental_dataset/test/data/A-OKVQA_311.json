@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 311,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_311.png",
+    "question": "What are towels generally made of?",
+    "label": "['cotton', 'cotton', 'paper', 'fabric', 'cotton', 'cotton', 'cotton', 'cotton', 'fabric', 'cotton']",
+    "choices": [
+        "linen",
+        "rayon",
+        "cotton",
+        "spandex"
+    ],
+    "correct_choice": "cotton"
+}

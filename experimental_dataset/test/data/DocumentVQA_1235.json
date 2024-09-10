@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1235,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1235.png",
+    "question": "What is footnote 36?",
+    "label": [
+        "Id."
+    ]
+}

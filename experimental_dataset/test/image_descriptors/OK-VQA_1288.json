@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1288,
+    "caption": "a piece of cake sitting on a plate next to a cup of coffee",
+    "object_tags": [
+        "food",
+        "tableware",
+        "coffee cup",
+        "plate",
+        "serveware",
+        "tea",
+        "dishware",
+        "baked goods",
+        "mug",
+        "drink",
+        "snack",
+        "saucer",
+        "table",
+        "dessert",
+        "teacup",
+        "kitchenware",
+        "kitchen utensil",
+        "porcelain",
+        "breakfast",
+        "cup",
+        "indoor",
+        "coffee"
+    ]
+}

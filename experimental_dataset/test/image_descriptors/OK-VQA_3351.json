@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3351,
+    "caption": "a woman laying on the ground next to a red and white cat",
+    "object_tags": [
+        "outdoor",
+        "footwear",
+        "person",
+        "clothing",
+        "ground",
+        "plant",
+        "grass",
+        "red",
+        "girl",
+        "laying",
+        "woman",
+        "summer"
+    ]
+}

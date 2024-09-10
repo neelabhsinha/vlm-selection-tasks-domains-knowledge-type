@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2181,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2181.png",
+    "question": "What was the fertility rate in Swaziland in 2020?",
+    "label": [
+        "2.92"
+    ]
+}

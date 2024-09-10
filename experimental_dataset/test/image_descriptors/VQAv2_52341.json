@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 52341,
+    "caption": "a man and a woman standing in a kitchen",
+    "object_tags": [
+        "indoor",
+        "person",
+        "clothing",
+        "wall",
+        "footwear",
+        "dog",
+        "dog breed",
+        "man",
+        "standing",
+        "floor",
+        "kitchen"
+    ]
+}

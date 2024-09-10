@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 96,
+    "image_path": "./experimental_dataset/test/images/ChartQA_96.png",
+    "question": "What is the highest value of green graph?",
+    "label": [
+        "50"
+    ]
+}

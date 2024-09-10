@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 175976,
+    "image_path": "./experimental_dataset/test/images/VQAv2_175976.png",
+    "question": "What is on the walls behind the man?",
+    "label": [
+        "clock",
+        "advertisements",
+        "ads",
+        "advertisements",
+        "rolex ad",
+        "advertisements",
+        "ads",
+        "advertising",
+        "words",
+        "signs"
+    ]
+}

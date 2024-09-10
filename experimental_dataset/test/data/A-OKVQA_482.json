@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 482,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_482.png",
+    "question": "What type of outer clothing does the person who last sat here like to wear?",
+    "label": "['shorts', 'hats', 'hat', 'hat', 'hat', 'hat', 'hat', 'hat', 'light jacket', 'hat']",
+    "choices": [
+        "hats",
+        "bras",
+        "belts",
+        "cowboy boots"
+    ],
+    "correct_choice": "hats"
+}

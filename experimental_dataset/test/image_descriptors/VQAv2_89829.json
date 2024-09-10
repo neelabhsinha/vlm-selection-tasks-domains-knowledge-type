@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 89829,
+    "caption": "a woman holding a hot dog in a bun",
+    "object_tags": [
+        "person",
+        "food",
+        "fast food",
+        "snack food",
+        "sandwich",
+        "snack",
+        "human face",
+        "indoor",
+        "clothing",
+        "bun",
+        "hotdog",
+        "table",
+        "wall",
+        "woman",
+        "dog"
+    ]
+}

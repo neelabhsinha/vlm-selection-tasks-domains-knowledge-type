@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 820,
+    "image_path": "./experimental_dataset/test/images/ChartQA_820.png",
+    "question": "Which year has drastic increase in revenues?",
+    "label": [
+        "2018"
+    ]
+}

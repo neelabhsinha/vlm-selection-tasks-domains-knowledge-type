@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1462,
+    "caption": "two pizzas sitting on top of each other in a pan",
+    "object_tags": [
+        "food",
+        "dish",
+        "fast food",
+        "pizza",
+        "italian food",
+        "pizza cheese",
+        "cuisine",
+        "baked goods",
+        "recipe",
+        "sicilian pizza",
+        "california-style pizza",
+        "casserole",
+        "flatbread",
+        "indoor",
+        "cheese",
+        "tray",
+        "toppings",
+        "pan"
+    ]
+}

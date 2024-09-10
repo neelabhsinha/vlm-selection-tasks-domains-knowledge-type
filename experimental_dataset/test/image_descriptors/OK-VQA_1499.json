@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1499,
+    "caption": "a little girl standing next to a little girl holding a teddy bear",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "toy",
+        "indoor",
+        "toddler",
+        "smile",
+        "girl",
+        "wall",
+        "young",
+        "child",
+        "woman"
+    ]
+}

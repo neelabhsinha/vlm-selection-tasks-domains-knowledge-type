@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5015,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5015.png",
+    "question": "In what kind of stadium is this sport played?",
+    "label": [
+        "baseball",
+        "baseball",
+        "baseball",
+        "baseball",
+        "baseball",
+        "baseball",
+        "outdoor",
+        "outdoor",
+        "baseball stadium",
+        "baseball stadium"
+    ]
+}

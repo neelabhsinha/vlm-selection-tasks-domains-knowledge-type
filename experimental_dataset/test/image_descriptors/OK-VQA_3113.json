@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3113,
+    "caption": "two white vases with flowers on a counter",
+    "object_tags": [
+        "vase",
+        "flower",
+        "ceramic",
+        "still life",
+        "pottery",
+        "still life photography",
+        "floral design",
+        "earthenware",
+        "indoor",
+        "jar",
+        "plant"
+    ]
+}

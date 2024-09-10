@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 687,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_687.png",
+    "question": "How old is the person that the cake is for?",
+    "label": "['30', 'thirty', 'thirty', '30', 'thirty', '30', '30', '30', 'thirty', 'thirty']",
+    "choices": [
+        "30",
+        "20",
+        "50",
+        "25"
+    ],
+    "correct_choice": "30"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2017,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2017.png",
+    "question": "How many people accessed the internet through their mobile phone in Australia in 2017?",
+    "label": [
+        "17.19"
+    ]
+}

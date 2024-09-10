@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2857,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2857.png",
+    "question": "Which committee is this",
+    "label": [
+        "THE FOOD PROTECTION COMMITTEE"
+    ]
+}

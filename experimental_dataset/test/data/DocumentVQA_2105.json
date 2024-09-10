@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2105,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2105.png",
+    "question": "What meats are not acceptable?",
+    "label": [
+        "Organ Meats",
+        "Organ meats"
+    ]
+}

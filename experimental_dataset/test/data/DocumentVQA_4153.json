@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4153,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4153.png",
+    "question": "What is the name of the Board?",
+    "label": [
+        "FOOD AND NUTRITION board",
+        "Food and nutrition board",
+        "FOOD AND NUTRITION"
+    ]
+}

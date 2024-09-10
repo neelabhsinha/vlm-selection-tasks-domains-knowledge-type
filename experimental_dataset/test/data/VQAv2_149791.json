@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 149791,
+    "image_path": "./experimental_dataset/test/images/VQAv2_149791.png",
+    "question": "How many surfers are in the water?",
+    "label": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2"
+    ]
+}

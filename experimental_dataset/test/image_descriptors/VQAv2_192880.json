@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 192880,
+    "caption": "a traffic light on a city street at night",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "night",
+        "street light",
+        "light",
+        "lighting",
+        "street",
+        "city",
+        "sign"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3474,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3474.png",
+    "question": "Which part os the subject's body shows a piercing?",
+    "label": [
+        "ear",
+        "ear",
+        "ear",
+        "ear",
+        "ear",
+        "ear",
+        "ear",
+        "ear",
+        "earlobe",
+        "earlobe"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 121,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_121.png",
+    "question": "What type of container is the straw sticking out of?",
+    "label": "['jar', 'canning jar', 'glass jar', 'mason jar', 'glass', 'canning jar', 'jar', 'mason jar', 'mason jar', 'ball jar']",
+    "choices": [
+        "pint glass",
+        "martini glass",
+        "mason jar",
+        "vase"
+    ],
+    "correct_choice": "mason jar"
+}

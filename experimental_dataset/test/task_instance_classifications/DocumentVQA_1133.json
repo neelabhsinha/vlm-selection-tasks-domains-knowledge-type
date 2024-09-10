@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1133,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Knowledge Base",
+        "Linguistics"
+    ],
+    "knowledge_type": [
+        "Literary Knowledge"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3143,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Nutrition and Food"
+    ],
+    "knowledge_type": [
+        "Scientific Knowledge"
+    ]
+}

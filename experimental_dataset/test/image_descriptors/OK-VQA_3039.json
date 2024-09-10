@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3039,
+    "caption": "a pizza sitting on top of a grill",
+    "object_tags": [
+        "food",
+        "fast food",
+        "pizza",
+        "cuisine",
+        "cooking",
+        "grill",
+        "recipe",
+        "meal",
+        "flatbread",
+        "pan",
+        "sitting",
+        "outdoor",
+        "oven",
+        "toppings"
+    ]
+}

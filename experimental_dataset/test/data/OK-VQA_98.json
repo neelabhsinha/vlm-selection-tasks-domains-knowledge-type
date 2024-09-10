@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 98,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_98.png",
+    "question": "How tall is this animal usually?",
+    "label": [
+        "20 feet",
+        "20 feet",
+        "20 feet",
+        "20 feet",
+        "12 ft",
+        "12 ft",
+        "15 feet",
+        "15 feet",
+        "13ft",
+        "13ft"
+    ]
+}

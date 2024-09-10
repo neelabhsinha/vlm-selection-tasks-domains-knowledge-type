@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3118,
+    "caption": "two women sitting at a table with a pizza",
+    "object_tags": [
+        "person",
+        "food",
+        "drink",
+        "fast food",
+        "pizza",
+        "clothing",
+        "human face",
+        "indoor",
+        "table",
+        "bottle",
+        "wine",
+        "sitting",
+        "woman",
+        "people"
+    ]
+}

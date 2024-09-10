@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 439,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_439.png",
+    "question": "What is this space used for?",
+    "label": [
+        "work",
+        "work",
+        "work",
+        "work",
+        "computer",
+        "computer",
+        "office work",
+        "office work",
+        "work",
+        "work"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2480,
+    "caption": "a herd of elephants standing on top of a river",
+    "object_tags": [
+        "animal",
+        "outdoor",
+        "elephant",
+        "mammal",
+        "water",
+        "elephants and mammoths",
+        "indian elephant",
+        "river",
+        "asian elephant",
+        "ground",
+        "safari",
+        "terrestrial animal",
+        "african elephant",
+        "herd",
+        "grass",
+        "rock",
+        "group",
+        "wildlife"
+    ]
+}

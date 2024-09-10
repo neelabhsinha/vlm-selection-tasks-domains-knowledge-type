@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3785,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3785.png",
+    "question": "Which food item here is not high carb?",
+    "label": [
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "egg and bacon",
+        "egg and bacon"
+    ]
+}

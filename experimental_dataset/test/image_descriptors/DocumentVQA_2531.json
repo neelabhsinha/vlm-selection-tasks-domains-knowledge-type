@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2531,
+    "caption": "a series of photographs showing a flock of birds",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "document",
+        "paper",
+        "letter",
+        "font"
+    ]
+}

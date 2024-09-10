@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 29,
+    "image_path": "./experimental_dataset/test/images/ChartQA_29.png",
+    "question": "What is the difference between the highest percentage and lowest percentage??",
+    "label": [
+        "61"
+    ]
+}

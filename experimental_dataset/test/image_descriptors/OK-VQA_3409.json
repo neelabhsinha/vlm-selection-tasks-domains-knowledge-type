@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3409,
+    "caption": "an airplane is flying high in the sky",
+    "object_tags": [
+        "cloud",
+        "sky",
+        "outdoor",
+        "plane",
+        "flight",
+        "aircraft",
+        "air travel",
+        "transport",
+        "vehicle",
+        "sunset",
+        "clouds",
+        "aviation",
+        "wing",
+        "aerospace engineering",
+        "cloudy",
+        "jet",
+        "airplane"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2003,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2003.png",
+    "question": "What kind of cake is on the plate?",
+    "label": [
+        "chocolate",
+        "chocolate",
+        "chocolate",
+        "chocolate",
+        "chocolate",
+        "chocolate",
+        "chocolate",
+        "chocolate",
+        "chocolate",
+        "chocolate"
+    ]
+}

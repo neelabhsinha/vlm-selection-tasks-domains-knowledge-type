@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1019,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1019.png",
+    "question": "What is powering the bikes?",
+    "label": "['dogs', 'dogs', 'dogs', 'dogs', 'dogs', 'dogs', 'dogs', 'dogs', 'dogs', 'dogs']",
+    "choices": [
+        "dogs",
+        "humans",
+        "wind",
+        "motors"
+    ],
+    "correct_choice": "dogs"
+}

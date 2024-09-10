@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 63,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_63.png",
+    "question": "What is the metal basket near the net used to hold?",
+    "label": "['balls', 'balls', 'tennis balls', 'ball', 'tennis balls', 'balls', 'tennis balls', 'tennis balls', 'balls', 'ball']",
+    "choices": [
+        "tennis balls",
+        "marbles",
+        "bats",
+        "towels"
+    ],
+    "correct_choice": "tennis balls"
+}

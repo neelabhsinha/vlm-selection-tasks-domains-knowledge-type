@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1742,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1742.png",
+    "question": "Among dieters and weight watchers, how many  persons used \u201811-20 times\u2019 ?",
+    "label": [
+        "225"
+    ]
+}

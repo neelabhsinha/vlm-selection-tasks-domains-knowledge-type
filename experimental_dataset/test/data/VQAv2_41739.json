@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 41739,
+    "image_path": "./experimental_dataset/test/images/VQAv2_41739.png",
+    "question": "Is the an apple?",
+    "label": [
+        "yes",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

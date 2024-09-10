@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2417,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2417.png",
+    "question": "How many square meters of ceramic tiles did Africa import in 2008?",
+    "label": [
+        "186"
+    ]
+}

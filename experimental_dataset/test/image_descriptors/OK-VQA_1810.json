@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1810,
+    "caption": "a man riding a skateboard down a street",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "person",
+        "clothing",
+        "ground",
+        "hiking",
+        "riding",
+        "hill",
+        "mountain"
+    ]
+}

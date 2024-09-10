@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1414,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1414.png",
+    "question": "What was Pfizer's basic net earnings per common share in 2020?",
+    "label": [
+        "1.73"
+    ]
+}

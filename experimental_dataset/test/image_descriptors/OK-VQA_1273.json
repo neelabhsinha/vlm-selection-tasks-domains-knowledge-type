@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1273,
+    "caption": "a traffic light with a street sign on top of it",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "sky",
+        "cloud",
+        "sign",
+        "car",
+        "land vehicle",
+        "vehicle",
+        "signage",
+        "street",
+        "traffic sign",
+        "tree",
+        "traffic light",
+        "street sign",
+        "road",
+        "signaling device",
+        "vehicle registration plate",
+        "wheel",
+        "traffic",
+        "highway",
+        "public utility",
+        "light",
+        "green",
+        "way"
+    ]
+}

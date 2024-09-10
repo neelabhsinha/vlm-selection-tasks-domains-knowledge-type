@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1042,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1042.png",
+    "question": "What color is the bar being 1%?",
+    "label": [
+        "light blue"
+    ]
+}

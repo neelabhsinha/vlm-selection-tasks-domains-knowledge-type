@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2403,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2403.png",
+    "question": "What province in Canada had 270 licensed breweries in 2019?",
+    "label": [
+        "Ontario"
+    ]
+}

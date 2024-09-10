@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4709,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4709.png",
+    "question": "What is the \"contact name\" in the \"To\" field?",
+    "label": [
+        "Dr. Ian Munro"
+    ]
+}

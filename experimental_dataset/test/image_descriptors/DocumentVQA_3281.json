@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3281,
+    "caption": "a collage of photographs showing different parts of a computer",
+    "object_tags": [
+        "text",
+        "diagram",
+        "line",
+        "technical drawing",
+        "parallel",
+        "black and white",
+        "plan",
+        "schematic"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 40292,
+    "image_path": "./experimental_dataset/test/images/VQAv2_40292.png",
+    "question": "Is the TV a 3D television?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

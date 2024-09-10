@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5026,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5026.png",
+    "question": "To which account the contribution to provident fund and family pension fund are charged based on section (G)?",
+    "label": [
+        "profit & loss account"
+    ]
+}

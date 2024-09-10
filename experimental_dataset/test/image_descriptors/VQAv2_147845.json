@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 147845,
+    "caption": "a man running across a field with a frisbee",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "grass",
+        "person",
+        "mountain",
+        "field",
+        "tern",
+        "frisbee",
+        "bird"
+    ]
+}

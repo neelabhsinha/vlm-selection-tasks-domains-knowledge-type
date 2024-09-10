@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4401,
+    "caption": "a brown horse standing on top of a lush green field",
+    "object_tags": [
+        "tree",
+        "outdoor",
+        "grass",
+        "cattle",
+        "cow",
+        "plant",
+        "animal",
+        "mammal",
+        "field",
+        "standing",
+        "landscape",
+        "house",
+        "bovine"
+    ]
+}

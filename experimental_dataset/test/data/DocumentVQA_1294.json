@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1294,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1294.png",
+    "question": "With whom is the meeting with?",
+    "label": [
+        "WA state members of the American Farm Bureau Federation"
+    ]
+}

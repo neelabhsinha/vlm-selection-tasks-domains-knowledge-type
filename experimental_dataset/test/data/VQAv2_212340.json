@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 212340,
+    "image_path": "./experimental_dataset/test/images/VQAv2_212340.png",
+    "question": "Is the man trying to catch the tennis ball with his left hand?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

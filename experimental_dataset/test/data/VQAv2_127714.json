@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 127714,
+    "image_path": "./experimental_dataset/test/images/VQAv2_127714.png",
+    "question": "Was the liquid made in a blender?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "tea",
+        "no",
+        "no",
+        "tea",
+        "no",
+        "no",
+        "no"
+    ]
+}

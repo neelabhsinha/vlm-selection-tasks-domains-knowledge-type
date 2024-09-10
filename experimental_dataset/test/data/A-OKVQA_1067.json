@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1067,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1067.png",
+    "question": "What dish is being made?",
+    "label": "['salad', 'fruit salad', 'fruit salad', 'fruit salad', 'fruit salad', 'fruit salad', 'fruit salad', 'salad', 'salad', 'fruit salad']",
+    "choices": [
+        "smoothie",
+        "cake",
+        "stir-fry",
+        "fruit salad"
+    ],
+    "correct_choice": "fruit salad"
+}

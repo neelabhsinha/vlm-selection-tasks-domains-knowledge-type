@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4403,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4403.png",
+    "question": "The red metal portion that overhangs the wheel is called a what?",
+    "label": [
+        "fender",
+        "fender",
+        "fender",
+        "fender",
+        "mudguard",
+        "mudguard",
+        "hood",
+        "hood",
+        "tire well",
+        "tire well"
+    ]
+}

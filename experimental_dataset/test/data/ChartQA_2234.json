@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2234,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2234.png",
+    "question": "What was the CPI value of clothing in 2020?",
+    "label": [
+        "108.9"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 46,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_46.png",
+    "question": "What kind of cuisine is this?",
+    "label": "['asian', 'asian', 'asian cuisine', 'healthy', 'chicken lomein', 'chinese', 'stir fry', 'asian', 'salad', 'chinese']",
+    "choices": [
+        "asian",
+        "american",
+        "african",
+        "european"
+    ],
+    "correct_choice": "asian"
+}

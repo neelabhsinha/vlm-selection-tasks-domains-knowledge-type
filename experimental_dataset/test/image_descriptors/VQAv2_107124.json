@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 107124,
+    "caption": "a person on a surfboard in the water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "surfing",
+        "sport",
+        "surfboard",
+        "person",
+        "boardsport",
+        "ocean",
+        "wave",
+        "surface water sports",
+        "windsports",
+        "wind wave",
+        "extreme sport",
+        "surfing equipment",
+        "windsurfing",
+        "outdoor recreation",
+        "tide",
+        "beach",
+        "sports equipment",
+        "riding",
+        "sea",
+        "surf"
+    ]
+}

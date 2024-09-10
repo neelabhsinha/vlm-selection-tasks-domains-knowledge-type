@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1118,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1118.png",
+    "question": "Which has 1% of distribution share?",
+    "label": [
+        "Licensing and other"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4690,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Anthropology",
+        "Social Media",
+        "News"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Literary Knowledge"
+    ]
+}

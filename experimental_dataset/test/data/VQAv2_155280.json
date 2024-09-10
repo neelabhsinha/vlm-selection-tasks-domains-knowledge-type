@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 155280,
+    "image_path": "./experimental_dataset/test/images/VQAv2_155280.png",
+    "question": "What type of bird is it?",
+    "label": [
+        "yellow",
+        "finch",
+        "canary",
+        "yellow bird",
+        "small",
+        "warbler",
+        "not sure",
+        "sparrow",
+        "bird",
+        "rare bird"
+    ]
+}

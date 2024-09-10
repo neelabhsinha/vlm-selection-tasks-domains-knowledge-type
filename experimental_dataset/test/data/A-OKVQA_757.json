@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 757,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_757.png",
+    "question": "What famous person is likely on the bottle of dressing that is closest to and facing the camera?",
+    "label": "['newman', 'newman', 'paul newman', 'paul newman', 'newman', 'paul newman', 'hidden valley', 'paul newman', 'paul newman', 'paul newman']",
+    "choices": [
+        "robert redford",
+        "apollo crews",
+        "kefka palazzo",
+        "paul newman"
+    ],
+    "correct_choice": "paul newman"
+}

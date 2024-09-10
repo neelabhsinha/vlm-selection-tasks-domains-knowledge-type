@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1899,
+    "caption": "a pair of black bears standing on rocks near a body of water",
+    "object_tags": [
+        "outdoor",
+        "animal",
+        "mammal",
+        "bear",
+        "rock",
+        "water",
+        "wildlife",
+        "plant",
+        "grass",
+        "terrestrial animal",
+        "black bear",
+        "lake",
+        "river",
+        "black"
+    ]
+}

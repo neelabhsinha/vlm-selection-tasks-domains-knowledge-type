@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 31019,
+    "image_path": "./experimental_dataset/test/images/VQAv2_31019.png",
+    "question": "What is that?",
+    "label": [
+        "tuna salad",
+        "food",
+        "drink and some food",
+        "chicken salad",
+        "food",
+        "food",
+        "oatmeal",
+        "chicken salad",
+        "oatmeal",
+        "food"
+    ]
+}

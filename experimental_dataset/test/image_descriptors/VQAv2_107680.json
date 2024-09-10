@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 107680,
+    "caption": "a clock that is sitting on top of a table",
+    "object_tags": [
+        "clock",
+        "wall clock",
+        "quartz clock",
+        "time",
+        "indoor"
+    ]
+}

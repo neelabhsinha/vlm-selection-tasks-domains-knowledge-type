@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1579,
+    "caption": "a man and a woman eating some food together",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "sunglasses",
+        "outdoor",
+        "fashion accessory",
+        "goggles",
+        "smile",
+        "eating",
+        "people",
+        "wall",
+        "food",
+        "woman"
+    ]
+}

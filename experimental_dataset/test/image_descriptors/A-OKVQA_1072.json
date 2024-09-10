@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1072,
+    "caption": "a man standing in front of a table filled with food",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "indoor",
+        "people",
+        "wall",
+        "woman",
+        "ceiling",
+        "group",
+        "footwear",
+        "suit",
+        "table",
+        "conversation",
+        "business",
+        "floor",
+        "food",
+        "standing",
+        "event",
+        "crowd",
+        "waiting"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2195,
+    "caption": "a herd of elephants walking across a lush green field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "elephant",
+        "grass",
+        "tree",
+        "wildlife",
+        "terrestrial animal",
+        "plant",
+        "safari",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "african elephant",
+        "tusk",
+        "herd",
+        "savanna",
+        "field",
+        "standing",
+        "group",
+        "walking"
+    ]
+}

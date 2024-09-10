@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4296,
+    "caption": "a dog looking out of a window at a building",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "window",
+        "sitting",
+        "stone",
+        "ground",
+        "dog",
+        "looking",
+        "cat"
+    ]
+}

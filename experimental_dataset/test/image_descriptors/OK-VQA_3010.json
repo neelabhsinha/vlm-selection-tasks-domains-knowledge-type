@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3010,
+    "caption": "a man riding on the back of a motorcycle",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "wheel",
+        "vehicle",
+        "sky",
+        "road",
+        "tire",
+        "motorbike",
+        "auto part",
+        "motorcycle helmet",
+        "motorcycle",
+        "helmet",
+        "motorcycle fairing",
+        "asphalt",
+        "fuel tank",
+        "cruiser",
+        "tarmac",
+        "person",
+        "tree",
+        "motorcycling",
+        "street",
+        "riding",
+        "bike"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 135723,
+    "image_path": "./experimental_dataset/test/images/VQAv2_135723.png",
+    "question": "What is the purpose of this product?",
+    "label": [
+        "cook",
+        "for moisture",
+        "cook",
+        "cooking",
+        "dehydration",
+        "bake food",
+        "cooking",
+        "cook",
+        "oven",
+        "cooking"
+    ]
+}

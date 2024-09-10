@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 77,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_77.png",
+    "question": "Why so many green vegetables?",
+    "label": [
+        "healthy",
+        "healthy",
+        "healthy",
+        "healthy",
+        "make salad",
+        "make salad",
+        "lot of vegetable are green",
+        "lot of vegetable are green",
+        "salad",
+        "salad"
+    ]
+}

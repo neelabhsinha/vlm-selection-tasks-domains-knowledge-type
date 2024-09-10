@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3537,
+    "caption": "a woman sitting on a curb looking at her cell phone",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "footwear",
+        "tree",
+        "human face",
+        "fence",
+        "bench",
+        "jeans",
+        "girl",
+        "plant",
+        "woman",
+        "sitting",
+        "street",
+        "ledge",
+        "park",
+        "people"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 933,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_933.png",
+    "question": "What kind of suit would you wear while doing this?",
+    "label": [
+        "swimsuit",
+        "swimsuit",
+        "wet suit",
+        "wet suit",
+        "swim",
+        "swim",
+        "swim",
+        "swim",
+        "bath suit",
+        "bath suit"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 57,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_57.png",
+    "question": "What drink might these be good in?",
+    "label": "['banana', 'shake', 'shake', 'juice', 'smoothie', 'fruit juice', 'smoothie', 'milkshake', 'smoothie', 'milkshake']",
+    "choices": [
+        "beer",
+        "milkshake",
+        "gin",
+        "coffee"
+    ],
+    "correct_choice": "milkshake"
+}

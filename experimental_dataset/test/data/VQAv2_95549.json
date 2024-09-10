@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 95549,
+    "image_path": "./experimental_dataset/test/images/VQAv2_95549.png",
+    "question": "Based on candles on the cake, how old is the birthday boy?",
+    "label": [
+        "8",
+        "8",
+        "8",
+        "9",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8"
+    ]
+}

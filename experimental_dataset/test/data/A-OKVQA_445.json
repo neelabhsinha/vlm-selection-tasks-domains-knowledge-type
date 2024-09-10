@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 445,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_445.png",
+    "question": "Why might people sit here?",
+    "label": "['dining', 'to relax', 'eat', 'eating', 'to eat', 'protection', 'eat', 'eat', 'beach', 'to rest']",
+    "choices": [
+        "to testify",
+        "to rest",
+        "to shop",
+        "get tattoo"
+    ],
+    "correct_choice": "to rest"
+}

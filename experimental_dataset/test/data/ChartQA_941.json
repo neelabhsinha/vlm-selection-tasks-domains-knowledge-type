@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 941,
+    "image_path": "./experimental_dataset/test/images/ChartQA_941.png",
+    "question": "What is the difference between the highest and lowest value in 2017?",
+    "label": [
+        "72"
+    ]
+}

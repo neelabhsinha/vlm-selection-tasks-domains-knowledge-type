@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 572,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_572.png",
+    "question": "What does the player need to do to the ball?",
+    "label": "['racket', 'serve', 'hit', 'swing', 'hit', 'hit it', 'kick', 'hit it', 'return it', 'hit']",
+    "choices": [
+        "swing",
+        "juggle",
+        "throw",
+        "dribble"
+    ],
+    "correct_choice": "swing"
+}

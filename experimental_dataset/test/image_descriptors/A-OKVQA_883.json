@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 883,
+    "caption": "men in baseball uniforms standing next to each other",
+    "object_tags": [
+        "person",
+        "man",
+        "footwear",
+        "clothing",
+        "human face",
+        "uniform",
+        "black",
+        "military uniform",
+        "posing",
+        "standing",
+        "ground",
+        "outdoor",
+        "military"
+    ]
+}

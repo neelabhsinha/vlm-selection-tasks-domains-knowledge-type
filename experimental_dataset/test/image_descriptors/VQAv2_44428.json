@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 44428,
+    "caption": "a little girl standing on a sidewalk holding an umbrella",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "umbrella",
+        "accessory",
+        "building",
+        "person",
+        "holding",
+        "clothing",
+        "footwear",
+        "tree",
+        "rain",
+        "street",
+        "woman",
+        "standing"
+    ]
+}

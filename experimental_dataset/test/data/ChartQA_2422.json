@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2422,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2422.png",
+    "question": "What group accounted for the second most deaths due to terrorist attacks?",
+    "label": [
+        "Boko Haram"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 239,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_239.png",
+    "question": "What is the name of the knot used on this tie?",
+    "label": [
+        "windsor",
+        "windsor",
+        "windsor",
+        "windsor",
+        "windsor",
+        "windsor",
+        "windsor",
+        "windsor",
+        "knot",
+        "knot"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 72236,
+    "caption": "two boats are docked in the water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "transport",
+        "ship",
+        "water",
+        "watercraft",
+        "boat",
+        "cloud",
+        "lake",
+        "vehicle",
+        "naval architecture",
+        "boating",
+        "launch",
+        "yacht",
+        "motor ship"
+    ]
+}

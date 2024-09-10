@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 65951,
+    "caption": "a woman sitting on a bench next to a body of water",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "sky",
+        "person",
+        "ground",
+        "footwear",
+        "bench",
+        "man",
+        "sitting",
+        "settle",
+        "mountain",
+        "wooden",
+        "park",
+        "beach"
+    ]
+}

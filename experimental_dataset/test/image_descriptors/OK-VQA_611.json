@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 611,
+    "caption": "a man sitting on top of a small white plane",
+    "object_tags": [
+        "transport",
+        "aircraft",
+        "outdoor",
+        "grass",
+        "vehicle",
+        "person",
+        "wheel",
+        "light aircraft",
+        "monoplane",
+        "man",
+        "model aircraft",
+        "radio-controlled aircraft",
+        "ultralight aviation",
+        "general aviation",
+        "motor glider",
+        "air travel",
+        "radio-controlled toy",
+        "propeller-driven aircraft",
+        "drone",
+        "plane",
+        "field"
+    ]
+}

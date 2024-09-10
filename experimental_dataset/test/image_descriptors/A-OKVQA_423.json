@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 423,
+    "caption": "a plastic container filled with vegetables and fruit",
+    "object_tags": [
+        "food",
+        "fast food",
+        "tomato",
+        "ingredient",
+        "food group",
+        "carrot",
+        "cuisine",
+        "meal",
+        "kitchen utensil",
+        "vegetable",
+        "vegetarian food",
+        "tableware",
+        "indoor",
+        "bowl",
+        "spoon",
+        "salad"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 13,
+    "image_path": "./experimental_dataset/test/images/ChartQA_13.png",
+    "question": "What's the average of all the values in the green bars (round to one decimal)?",
+    "label": [
+        "21.6"
+    ]
+}

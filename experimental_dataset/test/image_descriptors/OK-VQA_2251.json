@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2251,
+    "caption": "a man walking on the beach with a surfboard",
+    "object_tags": [
+        "outdoor",
+        "surfboard",
+        "sky",
+        "person",
+        "water",
+        "beach",
+        "surfing equipment",
+        "boardsport",
+        "sports equipment",
+        "surface water sports",
+        "mountain",
+        "ground",
+        "ocean",
+        "holding",
+        "surf",
+        "surfing",
+        "yellow"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 110576,
+    "image_path": "./experimental_dataset/test/images/VQAv2_110576.png",
+    "question": "Is this indoors or outdoors?",
+    "label": [
+        "inside",
+        "indoors",
+        "indoors",
+        "indoors",
+        "indoors",
+        "indoors",
+        "indoors",
+        "indoors",
+        "indoors",
+        "indoors"
+    ]
+}

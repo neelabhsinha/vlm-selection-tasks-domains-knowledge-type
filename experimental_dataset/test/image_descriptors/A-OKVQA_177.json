@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 177,
+    "caption": "two people sitting on a bench in front of a lake",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "mountain",
+        "person",
+        "clothing",
+        "water",
+        "hiking",
+        "lake",
+        "people",
+        "sitting",
+        "grass",
+        "ground",
+        "river"
+    ]
+}

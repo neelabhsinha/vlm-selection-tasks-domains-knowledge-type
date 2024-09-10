@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5037,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5037.png",
+    "question": "Which country might the liquid on the far left have originated in?",
+    "label": [
+        "france",
+        "france",
+        "france",
+        "france",
+        "france",
+        "france",
+        "italy",
+        "italy",
+        "china",
+        "china"
+    ]
+}

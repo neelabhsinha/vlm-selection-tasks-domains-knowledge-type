@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3724,
+    "caption": "a cutting board with a knife on top of it",
+    "object_tags": [
+        "table",
+        "food",
+        "kitchen utensil",
+        "fork",
+        "tool",
+        "tableware",
+        "indoor",
+        "fast food",
+        "blue",
+        "knife",
+        "pepper",
+        "tray",
+        "vegetable"
+    ]
+}

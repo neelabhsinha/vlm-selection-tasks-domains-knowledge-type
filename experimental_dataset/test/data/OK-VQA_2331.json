@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2331,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2331.png",
+    "question": "What famous american sisters play this sport?",
+    "label": [
+        "williams",
+        "williams",
+        "williams",
+        "williams",
+        "katrina sister",
+        "katrina sister",
+        "tennis",
+        "tennis",
+        "roger federer",
+        "roger federer"
+    ]
+}

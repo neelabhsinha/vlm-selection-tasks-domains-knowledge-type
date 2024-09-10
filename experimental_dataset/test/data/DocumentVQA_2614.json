@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2614,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2614.png",
+    "question": "What is the nationality?",
+    "label": [
+        "USA"
+    ]
+}

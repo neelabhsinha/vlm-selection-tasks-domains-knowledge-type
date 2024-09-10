@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3163,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3163.png",
+    "question": "When is the Strategic Publication Development Meeting?",
+    "label": [
+        "October 19, 2000"
+    ]
+}

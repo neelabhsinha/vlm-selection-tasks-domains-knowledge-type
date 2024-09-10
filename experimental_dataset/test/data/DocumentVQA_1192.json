@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1192,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1192.png",
+    "question": "In which sate is University of Cincinnati?",
+    "label": [
+        "OHIO",
+        "Ohio"
+    ]
+}

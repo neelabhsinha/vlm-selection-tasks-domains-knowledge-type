@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3088,
+    "caption": "a red stop sign sitting on top of a metal pole",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "sign",
+        "window",
+        "furniture",
+        "signage",
+        "text",
+        "stop sign",
+        "street furniture",
+        "stop",
+        "red",
+        "chair"
+    ]
+}

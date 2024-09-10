@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 47679,
+    "caption": "a kitchen filled with lots of kitchen supplies",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "home appliance",
+        "cabinetry",
+        "countertop",
+        "furniture",
+        "house",
+        "drawer",
+        "interior design",
+        "chest of drawers",
+        "television",
+        "sink",
+        "cupboard",
+        "kitchen appliance",
+        "home",
+        "coffee table",
+        "den",
+        "room",
+        "floor",
+        "kitchen",
+        "food",
+        "flat"
+    ]
+}

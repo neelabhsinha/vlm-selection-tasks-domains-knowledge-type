@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1.png",
+    "question": "What is the difference in value between Lamb and Corn?",
+    "label": [
+        "0.57"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 64533,
+    "image_path": "./experimental_dataset/test/images/VQAv2_64533.png",
+    "question": "Is he leaning to the right?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no"
+    ]
+}

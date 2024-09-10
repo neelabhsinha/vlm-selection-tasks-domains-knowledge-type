@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1219,
+    "caption": "a cat sleeping on a blanket on a chair",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "felidae",
+        "small to medium-sized cats",
+        "furniture",
+        "cat furniture",
+        "wall",
+        "domestic cat",
+        "sleeping",
+        "chair",
+        "mammal",
+        "cat"
+    ]
+}

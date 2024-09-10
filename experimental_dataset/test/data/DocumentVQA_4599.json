@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4599,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4599.png",
+    "question": "Which is the first brand along the x axis?",
+    "label": [
+        "vantage",
+        "Vantage"
+    ]
+}

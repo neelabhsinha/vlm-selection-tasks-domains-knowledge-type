@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2459,
+    "caption": "a building with a clock on the front of it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "clock",
+        "window",
+        "building",
+        "clock tower",
+        "facade",
+        "city",
+        "tower",
+        "large"
+    ]
+}

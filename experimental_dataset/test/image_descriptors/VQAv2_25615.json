@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 25615,
+    "caption": "a pizza sitting on top of a table next to a bottle of wine",
+    "object_tags": [
+        "food",
+        "drink",
+        "pizza",
+        "bottle",
+        "wine glass",
+        "fast food",
+        "indoor",
+        "wine",
+        "italian food",
+        "table",
+        "tableware",
+        "baked goods",
+        "pizza cheese",
+        "california-style pizza",
+        "alcoholic beverage",
+        "flatbread"
+    ]
+}

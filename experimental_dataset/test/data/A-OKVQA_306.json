@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 306,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_306.png",
+    "question": "What does the electric street sign say?",
+    "label": "[\"don't walk\", 'plaza shuttle', \"don't walk\", \"don't walk\", \"don't walk\", 'stop', 'safty', \"don't walk\", 'dont walk', \"don't walk\"]",
+    "choices": [
+        "proceed",
+        "don't walk",
+        "yield",
+        "walk"
+    ],
+    "correct_choice": "don't walk"
+}

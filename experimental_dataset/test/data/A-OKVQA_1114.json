@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1114,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1114.png",
+    "question": "What is the name of the type of business where the product in the foreground of this picture would be purchased?",
+    "label": "['cake cutting', 'birthday cakes', 'bakery', 'cake', 'bakery', 'bakery', 'organization', 'bakery', 'bakery', 'rainbow']",
+    "choices": [
+        "bakery",
+        "pharmacy",
+        "fishmonger",
+        "tailor"
+    ],
+    "correct_choice": "bakery"
+}

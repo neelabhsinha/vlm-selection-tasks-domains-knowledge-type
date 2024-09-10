@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1660,
+    "caption": "a yellow and black train on tracks next to a building",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "car",
+        "train",
+        "yellow",
+        "auto part",
+        "transport",
+        "building",
+        "track",
+        "construction",
+        "railroad",
+        "ground",
+        "parked",
+        "stopped",
+        "locomotive",
+        "passing",
+        "engine",
+        "rail"
+    ]
+}

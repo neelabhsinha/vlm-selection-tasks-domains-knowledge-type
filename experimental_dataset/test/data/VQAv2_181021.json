@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 181021,
+    "image_path": "./experimental_dataset/test/images/VQAv2_181021.png",
+    "question": "Are the zebras facing opposite directions?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

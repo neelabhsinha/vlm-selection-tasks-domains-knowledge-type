@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 988,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_988.png",
+    "question": "What is to the left of the woman?",
+    "label": "['microwave', 'microwave', 'microwave', 'microwave', 'microwave', 'microwave', 'microwave', 'computer', 'computer', 'microwave']",
+    "choices": [
+        "phone",
+        "tv",
+        "stereo",
+        "microwave"
+    ],
+    "correct_choice": "microwave"
+}

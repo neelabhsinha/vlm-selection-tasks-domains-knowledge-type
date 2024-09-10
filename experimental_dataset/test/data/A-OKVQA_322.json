@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 322,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_322.png",
+    "question": "What is the cat playing with?",
+    "label": "['knife', 'pocket knife', 'knife', 'pocketknife', 'knife', 'swiss knife', 'knife', 'pocket knife', 'knife', 'knife']",
+    "choices": [
+        "spoon",
+        "remote",
+        "knife",
+        "ball"
+    ],
+    "correct_choice": "knife"
+}

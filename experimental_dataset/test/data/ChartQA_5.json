@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 5,
+    "image_path": "./experimental_dataset/test/images/ChartQA_5.png",
+    "question": "What is the difference between the highest and the lowest green bar??",
+    "label": [
+        "6"
+    ]
+}

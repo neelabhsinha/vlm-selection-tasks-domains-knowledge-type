@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 324,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_324.png",
+    "question": "What is on the umbrella?",
+    "label": "['whales', 'water protestant', 'whales', 'whale', 'whales', 'hand image', 'whale', 'fish', 'whale', 'whales']",
+    "choices": [
+        "fish",
+        "whale",
+        "dolphin",
+        "rain"
+    ],
+    "correct_choice": "whale"
+}

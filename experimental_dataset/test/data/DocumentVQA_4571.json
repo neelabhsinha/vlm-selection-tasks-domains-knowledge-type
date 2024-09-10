@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4571,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4571.png",
+    "question": "How many dollars can you save on Camel with this coupon?",
+    "label": [
+        "$2.00",
+        "2.00"
+    ]
+}

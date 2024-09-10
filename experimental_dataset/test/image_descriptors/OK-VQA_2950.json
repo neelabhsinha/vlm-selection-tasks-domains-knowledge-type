@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2950,
+    "caption": "a black cat sitting on top of a blue bucket",
+    "object_tags": [
+        "small to medium-sized cats",
+        "domestic cat",
+        "felidae",
+        "whiskers",
+        "cat",
+        "person",
+        "chair",
+        "grey",
+        "gray",
+        "kitten"
+    ]
+}

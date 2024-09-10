@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 87728,
+    "caption": "a man and a woman preparing food on a stove top",
+    "object_tags": [
+        "person",
+        "food",
+        "indoor",
+        "fast food",
+        "cooking",
+        "clothing",
+        "meal",
+        "cookware and bakeware",
+        "pizza",
+        "kitchen",
+        "preparing"
+    ]
+}

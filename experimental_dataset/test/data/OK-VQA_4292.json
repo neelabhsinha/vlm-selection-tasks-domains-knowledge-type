@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4292,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4292.png",
+    "question": "What is the name of this position?",
+    "label": [
+        "batter",
+        "batter",
+        "batter",
+        "batter",
+        "batter",
+        "batter",
+        "catcher",
+        "catcher",
+        "catcher",
+        "catcher"
+    ]
+}

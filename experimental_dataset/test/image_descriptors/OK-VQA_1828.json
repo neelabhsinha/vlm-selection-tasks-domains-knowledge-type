@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1828,
+    "caption": "a person is petting a brown horse",
+    "object_tags": [
+        "outdoor",
+        "horse",
+        "sky",
+        "mane",
+        "mare",
+        "grass",
+        "sorrel",
+        "stallion",
+        "mustang horse",
+        "person",
+        "livestock",
+        "ranch",
+        "mountain",
+        "standing",
+        "ground",
+        "brown"
+    ]
+}

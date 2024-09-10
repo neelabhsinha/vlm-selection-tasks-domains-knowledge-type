@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 493,
+    "caption": "a bouquet of flowers sitting on top of a table",
+    "object_tags": [
+        "table",
+        "flower arranging",
+        "rose",
+        "centrepiece",
+        "floristry",
+        "cut flowers",
+        "floral design",
+        "bouquet",
+        "flower",
+        "tableware",
+        "vase",
+        "artificial flower",
+        "petal",
+        "indoor",
+        "stemware",
+        "wine glass",
+        "drinkware",
+        "garden roses",
+        "champagne stemware",
+        "ikebana",
+        "tablecloth",
+        "sitting",
+        "wedding",
+        "plant"
+    ]
+}

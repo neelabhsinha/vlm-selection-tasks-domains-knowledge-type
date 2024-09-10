@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1090,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1090.png",
+    "question": "Which country's flag is on the plane?",
+    "label": "['united states', 'united states', 'america', 'usa', 'america', 'united states', 'united states', 'united states', 'usa', 'usa']",
+    "choices": [
+        "england",
+        "canada",
+        "france",
+        "united states"
+    ],
+    "correct_choice": "united states"
+}

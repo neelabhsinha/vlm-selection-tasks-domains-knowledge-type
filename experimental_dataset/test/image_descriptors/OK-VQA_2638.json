@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2638,
+    "caption": "a train traveling over a bridge over a body of water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "bridge",
+        "water",
+        "lake",
+        "building",
+        "truss bridge",
+        "boat",
+        "river"
+    ]
+}

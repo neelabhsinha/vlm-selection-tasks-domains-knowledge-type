@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 334,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_334.png",
+    "question": "Why do people have their arms up?",
+    "label": "['catching frisbee', 'catch frisbee', 'catching', 'catching', 'catch frisbee', 'catching', 'to catch', 'to catch', 'catching', 'catching']",
+    "choices": [
+        "to signal",
+        "to wave",
+        "to catch",
+        "to cheer"
+    ],
+    "correct_choice": "to catch"
+}

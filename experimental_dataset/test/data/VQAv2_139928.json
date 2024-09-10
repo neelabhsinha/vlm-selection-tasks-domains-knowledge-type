@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 139928,
+    "image_path": "./experimental_dataset/test/images/VQAv2_139928.png",
+    "question": "What does the sign say?",
+    "label": [
+        "please do not feed animals",
+        "please do not feed animals as it's very harmful to them",
+        "don't feed animals",
+        "please do not feed animals as it's very harmful to them",
+        "please do not feed animals as it's very harmful to them",
+        "do not feed animals",
+        "please do not fee animals as it's very harmful to them",
+        "please do not feed animals as it's very harmful to them",
+        "please do not feed animals as it's very harmful to them",
+        "do not feed"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 67803,
+    "caption": "a person in a kitchen using a blender",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "bowl",
+        "mixing bowl",
+        "kitchen appliance",
+        "food",
+        "countertop",
+        "tableware",
+        "kitchen",
+        "table",
+        "wall",
+        "woman",
+        "preparing",
+        "cooking",
+        "cutting"
+    ]
+}

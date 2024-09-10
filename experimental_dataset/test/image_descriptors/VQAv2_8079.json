@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 8079,
+    "caption": "a man taking a picture of himself in a car mirror",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "person",
+        "plant",
+        "sky",
+        "lake",
+        "mountain",
+        "tree",
+        "automotive mirror",
+        "vehicle",
+        "adventure",
+        "mirror"
+    ]
+}

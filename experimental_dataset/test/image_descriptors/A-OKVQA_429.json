@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 429,
+    "caption": "zebras are standing in a field",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "outdoor",
+        "tree",
+        "ground",
+        "zebra",
+        "zoo",
+        "terrestrial animal",
+        "wildlife",
+        "safari",
+        "standing",
+        "plant"
+    ]
+}

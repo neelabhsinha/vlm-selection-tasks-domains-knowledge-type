@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 169772,
+    "image_path": "./experimental_dataset/test/images/VQAv2_169772.png",
+    "question": "What type of pants is the woman wearing?",
+    "label": [
+        "jeans",
+        "denim",
+        "jeans",
+        "jeans",
+        "jeans",
+        "jeans",
+        "jeans",
+        "jeans",
+        "jeans",
+        "jeans"
+    ]
+}

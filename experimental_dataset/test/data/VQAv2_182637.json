@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 182637,
+    "image_path": "./experimental_dataset/test/images/VQAv2_182637.png",
+    "question": "What color are they?",
+    "label": [
+        "brown and white",
+        "brown, white",
+        "brown & white",
+        "brown",
+        "brown, white",
+        "brown and yellow",
+        "brown and tan",
+        "brown and yellow",
+        "brown",
+        "brown"
+    ]
+}

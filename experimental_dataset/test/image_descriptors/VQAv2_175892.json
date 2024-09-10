@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 175892,
+    "caption": "a man and a woman posing for a picture",
+    "object_tags": [
+        "human face",
+        "person",
+        "man",
+        "suit",
+        "smile",
+        "indoor",
+        "formal wear",
+        "clothing",
+        "wall",
+        "blazer",
+        "tie",
+        "shirt",
+        "dress shirt",
+        "friendship",
+        "coat",
+        "businessperson",
+        "people",
+        "gentleman",
+        "standing",
+        "posing",
+        "event",
+        "group",
+        "woman",
+        "business"
+    ]
+}

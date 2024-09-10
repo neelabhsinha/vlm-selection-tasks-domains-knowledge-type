@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 574,
+    "caption": "a park bench that is next to a parking meter",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "playground",
+        "plant",
+        "bench",
+        "outdoor bench",
+        "park"
+    ]
+}

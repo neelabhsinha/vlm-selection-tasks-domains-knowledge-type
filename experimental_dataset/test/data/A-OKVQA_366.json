@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 366,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_366.png",
+    "question": "What brand of electronics is the person using on the desk?",
+    "label": "['apple', 'apple', 'apple', 'apple', 'apple', 'apple', 'apple', 'apple', 'apple', 'apple']",
+    "choices": [
+        "microsoft",
+        "hp",
+        "apple",
+        "dell"
+    ],
+    "correct_choice": "apple"
+}

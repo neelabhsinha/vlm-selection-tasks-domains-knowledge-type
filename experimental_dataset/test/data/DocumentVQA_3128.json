@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3128,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3128.png",
+    "question": "What is the membership no. of Ken Benson?",
+    "label": [
+        "ma 0777",
+        "MA 0777"
+    ]
+}

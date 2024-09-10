@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 480,
+    "image_path": "./experimental_dataset/test/images/ChartQA_480.png",
+    "question": "What's the percentage value of Oppose bar in the U.S.?",
+    "label": [
+        "51"
+    ]
+}

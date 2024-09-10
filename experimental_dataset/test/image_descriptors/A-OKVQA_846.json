@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 846,
+    "caption": "a young man standing in front of a crowd of people",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "screenshot",
+        "woman",
+        "people",
+        "crowd",
+        "indoor",
+        "outdoor",
+        "art"
+    ]
+}

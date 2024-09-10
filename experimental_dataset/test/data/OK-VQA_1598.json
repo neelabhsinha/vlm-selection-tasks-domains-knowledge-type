@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1598,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1598.png",
+    "question": "What english city is famous for a tournament for the sport this man is playing?",
+    "label": [
+        "wimbledon",
+        "wimbledon",
+        "wimbledon",
+        "wimbledon",
+        "london",
+        "london",
+        "wimbleton",
+        "wimbleton",
+        "tennis",
+        "tennis"
+    ]
+}

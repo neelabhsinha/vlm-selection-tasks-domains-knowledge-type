@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4701,
+    "caption": "a white toilet sitting next to a sink in a bathroom",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "bathroom",
+        "toilet",
+        "plumbing fixture",
+        "restroom",
+        "bathroom accessory",
+        "bidet",
+        "toilet seat",
+        "plumbing",
+        "tile",
+        "sink",
+        "floor"
+    ]
+}

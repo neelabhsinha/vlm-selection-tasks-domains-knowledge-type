@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1914,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1914.png",
+    "question": "When was the last time online gaming traffic was forecast to occur in North America?",
+    "label": [
+        "2011"
+    ]
+}

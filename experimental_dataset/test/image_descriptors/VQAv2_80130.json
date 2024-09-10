@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 80130,
+    "caption": "a red stop sign sitting on the side of a street",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "sky",
+        "sign",
+        "signage",
+        "building",
+        "traffic sign",
+        "street",
+        "billboard",
+        "stop sign",
+        "land vehicle",
+        "stop",
+        "shop",
+        "city"
+    ]
+}

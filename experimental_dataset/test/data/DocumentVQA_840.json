@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 840,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_840.png",
+    "question": "Which is the project with the highest(highest value) priority?",
+    "label": [
+        "55. sand/inorganics in tobacco",
+        "sand/inorganics in tobacco"
+    ]
+}

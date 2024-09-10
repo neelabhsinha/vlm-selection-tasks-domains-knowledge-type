@@ -1,0 +1,18 @@
+{
+    "dataset": "ChartQA",
+    "key": 1494,
+    "caption": "a collage of images showing a computer screen",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "display",
+        "number",
+        "software",
+        "plot",
+        "parallel",
+        "line",
+        "font",
+        "diagram",
+        "rectangle"
+    ]
+}

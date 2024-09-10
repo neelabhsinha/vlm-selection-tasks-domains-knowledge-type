@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4197,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4197.png",
+    "question": "What is the full form of ILSI ?",
+    "label": [
+        "International Life Sciences Institute",
+        "International life sciences institute"
+    ]
+}

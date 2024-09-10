@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 677,
+    "image_path": "./experimental_dataset/test/images/ChartQA_677.png",
+    "question": "What is the average of all produces less than 15 billion?",
+    "label": [
+        "7.76"
+    ]
+}

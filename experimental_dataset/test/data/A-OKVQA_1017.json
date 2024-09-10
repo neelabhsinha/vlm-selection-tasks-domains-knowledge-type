@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1017,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1017.png",
+    "question": "Athletes often participate in what activity to warm up their muscles before starting?",
+    "label": "['hamstring', 'stretch', 'stretching', 'stretching', 'stretching', 'stretching', 'practice', 'sports', 'stretching', 'stretching']",
+    "choices": [
+        "cheering",
+        "dancing",
+        "sleeping",
+        "stretching"
+    ],
+    "correct_choice": "stretching"
+}

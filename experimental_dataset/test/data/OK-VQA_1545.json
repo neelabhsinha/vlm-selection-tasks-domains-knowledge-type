@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1545,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1545.png",
+    "question": "What type of cooking could be done using the black appliance on the counter?",
+    "label": [
+        "fry",
+        "fry",
+        "fry",
+        "fry",
+        "popcorn",
+        "popcorn",
+        "bread bake",
+        "bread bake",
+        "fry",
+        "fry"
+    ]
+}

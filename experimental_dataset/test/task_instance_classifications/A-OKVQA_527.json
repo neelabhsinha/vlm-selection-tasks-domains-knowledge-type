@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 527,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Fiction"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Geographical Knowledge"
+    ]
+}

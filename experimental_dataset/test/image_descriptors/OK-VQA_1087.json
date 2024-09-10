@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1087,
+    "caption": "a crowd of people flying kites in a city",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "kite",
+        "person",
+        "skyscraper",
+        "clothing",
+        "people",
+        "building",
+        "man",
+        "woman",
+        "crowd",
+        "tourism",
+        "downtown",
+        "metropolitan area",
+        "city",
+        "group",
+        "standing",
+        "street",
+        "high",
+        "skyline"
+    ]
+}

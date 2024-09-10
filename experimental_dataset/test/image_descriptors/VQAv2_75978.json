@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 75978,
+    "caption": "a man in a suit and tie sitting in a car",
+    "object_tags": [
+        "person",
+        "tie",
+        "man",
+        "clothing",
+        "human face",
+        "vehicle",
+        "wearing",
+        "collar",
+        "car",
+        "land vehicle",
+        "gentleman",
+        "dress shirt",
+        "suit",
+        "necktie",
+        "outdoor",
+        "indoor",
+        "shirt"
+    ]
+}

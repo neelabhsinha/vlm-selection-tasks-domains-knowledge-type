@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4450,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4450.png",
+    "question": "What vitamins do you get from these fruits?",
+    "label": [
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium",
+        "vitamin",
+        "vitamin",
+        "c vitamin",
+        "c vitamin",
+        "vitamin c",
+        "vitamin c"
+    ]
+}

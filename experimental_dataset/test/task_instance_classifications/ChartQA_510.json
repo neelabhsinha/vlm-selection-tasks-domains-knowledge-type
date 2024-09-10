@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 510,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Government and Politics",
+        "News",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Social Knowledge"
+    ]
+}

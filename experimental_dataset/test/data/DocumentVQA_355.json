@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 355,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_355.png",
+    "question": "When was merit half nic 85mm prototypes produced?",
+    "label": [
+        "June 4, 1990",
+        "june 4, 1990"
+    ]
+}

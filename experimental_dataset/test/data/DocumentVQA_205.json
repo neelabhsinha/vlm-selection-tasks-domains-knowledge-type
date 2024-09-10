@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 205,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_205.png",
+    "question": "what is the no of cut tobacco?",
+    "label": [
+        "MT-778"
+    ]
+}

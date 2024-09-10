@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 60233,
+    "image_path": "./experimental_dataset/test/images/VQAv2_60233.png",
+    "question": "What color shirt is the goalie wearing?",
+    "label": [
+        "black",
+        "orange",
+        "black",
+        "orange",
+        "black",
+        "orange",
+        "orange",
+        "orange",
+        "black",
+        "orange"
+    ]
+}

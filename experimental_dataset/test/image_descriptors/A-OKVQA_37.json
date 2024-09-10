@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 37,
+    "caption": "a kitchen with a stove top oven and a counter top",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "cabinetry",
+        "countertop",
+        "furniture",
+        "home appliance",
+        "kitchen appliance",
+        "drawer",
+        "sink",
+        "room",
+        "cupboard",
+        "table",
+        "chest of drawers",
+        "oven",
+        "interior design",
+        "microwave oven",
+        "chair",
+        "appliance",
+        "window",
+        "kitchen",
+        "home"
+    ]
+}

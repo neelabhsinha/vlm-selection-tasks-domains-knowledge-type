@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3586,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3586.png",
+    "question": "What is the proportion of glucose pentaacetate given in \u2018table I\u2019?",
+    "label": [
+        "0.6%"
+    ]
+}

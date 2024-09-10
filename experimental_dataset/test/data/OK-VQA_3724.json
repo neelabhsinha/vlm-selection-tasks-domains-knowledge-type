@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3724,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3724.png",
+    "question": "What activity do the these utensils assist in?",
+    "label": [
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "chop",
+        "chop"
+    ]
+}

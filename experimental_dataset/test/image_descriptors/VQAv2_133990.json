@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 133990,
+    "caption": "a brown and white horse walking down a road",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "horse",
+        "outdoor",
+        "road",
+        "tree",
+        "mare",
+        "grass",
+        "mane",
+        "sorrel",
+        "stallion",
+        "mustang horse",
+        "liver",
+        "plant",
+        "brown",
+        "ground",
+        "street"
+    ]
+}

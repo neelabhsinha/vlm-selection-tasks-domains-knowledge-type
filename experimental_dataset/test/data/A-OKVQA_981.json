@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 981,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_981.png",
+    "question": "The large white building to the far left on the shore is likely the main facility governing what object/structure on the water?",
+    "label": "['marina docks', 'marina', 'boats', 'boats', 'marina', 'docks', 'docks', 'boats', 'pier', 'port']",
+    "choices": [
+        "port",
+        "beach",
+        "steamboat",
+        "cruiseship"
+    ],
+    "correct_choice": "port"
+}

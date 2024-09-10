@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1084,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1084.png",
+    "question": "What is this street vendor in black shirt and hat selling at her stand?",
+    "label": "['food', 'food', 'food', 'hot peppers', 'flowers', 'food', 'peppers', 'fruit', 'vegtable', 'some food']",
+    "choices": [
+        "green peppers",
+        "mango peppers",
+        "hot peppers",
+        "banana peppers"
+    ],
+    "correct_choice": "hot peppers"
+}

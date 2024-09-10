@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4527,
+    "caption": "a traffic light sitting on top of a pole",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "public utility",
+        "electricity",
+        "electrical supply",
+        "tree",
+        "overhead power line",
+        "signaling device",
+        "street light",
+        "pole",
+        "light",
+        "street",
+        "traffic light",
+        "cloudy"
+    ]
+}

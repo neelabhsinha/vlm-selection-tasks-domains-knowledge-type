@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 9453,
+    "caption": "a yellow truck with graffiti on the side of it",
+    "object_tags": [
+        "vehicle",
+        "transport",
+        "outdoor",
+        "land vehicle",
+        "wheel",
+        "sky",
+        "van",
+        "light commercial vehicle",
+        "motor vehicle",
+        "commercial vehicle",
+        "trailer",
+        "truck",
+        "text",
+        "grass",
+        "parked"
+    ]
+}

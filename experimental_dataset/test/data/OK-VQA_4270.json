@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4270,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4270.png",
+    "question": "What kind of tree is this?",
+    "label": [
+        "oak",
+        "oak",
+        "oak",
+        "oak",
+        "oak",
+        "oak",
+        "maple",
+        "maple",
+        "cedar",
+        "cedar"
+    ]
+}

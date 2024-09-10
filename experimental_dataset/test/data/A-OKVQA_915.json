@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 915,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_915.png",
+    "question": "Who is the manufacturer of the truck?",
+    "label": "['isuzu', 'isuzu', 'isuzu', 'isuzu', 'isuzu', 'isuzu', 'izuzu', 'isuzu', 'isuzu', 'isuzu']",
+    "choices": [
+        "dodge",
+        "mercedes",
+        "hyundai",
+        "isuzu"
+    ],
+    "correct_choice": "isuzu"
+}

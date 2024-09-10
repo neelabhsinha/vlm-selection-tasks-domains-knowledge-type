@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 351,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_351.png",
+    "question": "What type of structure is being used?",
+    "label": "['separator', 'cement', 'concrete barrier', 'guard rail', 'barrier', 'median', 'traffic divider', 'concrete', 'jersey barrier', 'barrier']",
+    "choices": [
+        "cement",
+        "natural",
+        "wood",
+        "plastic"
+    ],
+    "correct_choice": "cement"
+}

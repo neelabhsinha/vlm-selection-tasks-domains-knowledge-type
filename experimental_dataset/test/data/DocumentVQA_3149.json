@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3149,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3149.png",
+    "question": "What is the hand written word above the delivery date?",
+    "label": [
+        "Done"
+    ]
+}

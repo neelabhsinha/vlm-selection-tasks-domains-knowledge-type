@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2200,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2200.png",
+    "question": "What was the global production of tree nuts expected to reach by 2020/2021?",
+    "label": [
+        "5.33"
+    ]
+}

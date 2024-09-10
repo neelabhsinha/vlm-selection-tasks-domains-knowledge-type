@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 549,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_549.png",
+    "question": "What is the horse trying to clear?",
+    "label": "['jump hurdle', 'some bars', 'poles', 'jumping pole', 'hurdle', 'hurdle', 'hurdles', 'winner', 'obstruction', 'obstacle']",
+    "choices": [
+        "lake",
+        "path",
+        "bridge",
+        "poles"
+    ],
+    "correct_choice": "poles"
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 35096,
+    "caption": "a bathroom with a toilet and a tiled floor",
+    "object_tags": [
+        "indoor",
+        "bathroom",
+        "wall",
+        "plumbing fixture",
+        "bathroom accessory",
+        "plumbing",
+        "toilet",
+        "toilet seat",
+        "bidet",
+        "floor",
+        "white",
+        "black",
+        "tile",
+        "tiled",
+        "black and white",
+        "restroom"
+    ]
+}

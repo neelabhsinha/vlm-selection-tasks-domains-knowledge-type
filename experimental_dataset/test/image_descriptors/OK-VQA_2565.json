@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2565,
+    "caption": "two people riding water skis on top of a body of water",
+    "object_tags": [
+        "water",
+        "outdoor",
+        "boat",
+        "transport",
+        "lake",
+        "watercraft",
+        "ship",
+        "vehicle",
+        "surfing",
+        "speedboat",
+        "riding",
+        "jet"
+    ]
+}

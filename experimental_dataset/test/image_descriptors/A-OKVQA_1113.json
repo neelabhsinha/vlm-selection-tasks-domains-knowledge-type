@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1113,
+    "caption": "a teddy bear wearing a hat and holding a stick",
+    "object_tags": [
+        "bear",
+        "teddy",
+        "toy",
+        "teddy bear",
+        "stuffed toy",
+        "plush",
+        "stuffed",
+        "indoor",
+        "animal",
+        "outdoor",
+        "ground",
+        "wearing"
+    ]
+}

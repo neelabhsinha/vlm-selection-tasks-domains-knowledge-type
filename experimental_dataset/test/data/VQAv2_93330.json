@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 93330,
+    "image_path": "./experimental_dataset/test/images/VQAv2_93330.png",
+    "question": "What color are the beaks?",
+    "label": [
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "unknown",
+        "black",
+        "black",
+        "black",
+        "black"
+    ]
+}

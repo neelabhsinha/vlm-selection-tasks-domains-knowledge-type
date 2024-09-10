@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 884,
+    "image_path": "./experimental_dataset/test/images/ChartQA_884.png",
+    "question": "What's the computing total for semiconductor demand in 2014?",
+    "label": [
+        "105.4"
+    ]
+}

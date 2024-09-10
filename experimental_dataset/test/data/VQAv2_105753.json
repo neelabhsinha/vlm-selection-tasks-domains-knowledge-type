@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 105753,
+    "image_path": "./experimental_dataset/test/images/VQAv2_105753.png",
+    "question": "How many vases can you count?",
+    "label": [
+        "5",
+        "4",
+        "5",
+        "4",
+        "6",
+        "5",
+        "5",
+        "4",
+        "5",
+        "4"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 116828,
+    "image_path": "./experimental_dataset/test/images/VQAv2_116828.png",
+    "question": "What color is the grass?",
+    "label": [
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green brown",
+        "green",
+        "brownish",
+        "green/brown"
+    ]
+}

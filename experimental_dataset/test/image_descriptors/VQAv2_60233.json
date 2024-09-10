@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 60233,
+    "caption": "a young man kicking a soccer ball on a field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "person",
+        "football",
+        "field",
+        "soccer player",
+        "playing",
+        "sports equipment",
+        "soccer ball",
+        "ball game",
+        "athletic game",
+        "football player",
+        "team sport",
+        "playground",
+        "forward",
+        "sport",
+        "player",
+        "kick",
+        "ball",
+        "soccer",
+        "footwear",
+        "goal",
+        "game",
+        "young"
+    ]
+}

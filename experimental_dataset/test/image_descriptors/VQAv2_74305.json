@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 74305,
+    "caption": "a woman standing on a beach with a frisbee",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "swimwear",
+        "beach",
+        "vacation",
+        "summer",
+        "ground",
+        "barefoot",
+        "woman",
+        "person",
+        "shore",
+        "nature",
+        "girl",
+        "sand"
+    ]
+}

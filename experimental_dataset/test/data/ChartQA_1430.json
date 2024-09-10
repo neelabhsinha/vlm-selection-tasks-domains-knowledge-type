@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1430,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1430.png",
+    "question": "What was Arizona's GDP in dollars in 2018?",
+    "label": [
+        "320.66"
+    ]
+}

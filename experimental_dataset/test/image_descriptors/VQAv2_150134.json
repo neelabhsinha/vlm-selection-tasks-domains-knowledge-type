@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 150134,
+    "caption": "a glass vase filled with lots of different colored flowers",
+    "object_tags": [
+        "indoor",
+        "flower",
+        "vase",
+        "petal",
+        "floristry",
+        "glass",
+        "tulip",
+        "wall",
+        "plant",
+        "yellow"
+    ]
+}

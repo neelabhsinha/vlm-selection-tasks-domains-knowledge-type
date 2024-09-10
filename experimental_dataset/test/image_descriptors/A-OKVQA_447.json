@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 447,
+    "caption": "a man taking a picture of a pizza in a restaurant",
+    "object_tags": [
+        "person",
+        "fast food",
+        "clothing",
+        "pizza",
+        "food",
+        "dish",
+        "meal",
+        "indoor",
+        "shop",
+        "table",
+        "italian food",
+        "cuisine",
+        "man",
+        "pizza cheese",
+        "sitting",
+        "people"
+    ]
+}

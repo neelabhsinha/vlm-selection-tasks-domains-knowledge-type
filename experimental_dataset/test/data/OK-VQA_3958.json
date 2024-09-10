@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3958,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3958.png",
+    "question": "What is the liquid that fills the hanging bag?",
+    "label": [
+        "saline",
+        "saline",
+        "saline",
+        "saline",
+        "fluid",
+        "fluid",
+        "iv fluid",
+        "iv fluid",
+        "solution",
+        "solution"
+    ]
+}

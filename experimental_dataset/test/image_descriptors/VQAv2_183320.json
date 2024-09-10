@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 183320,
+    "caption": "a parrot sitting on top of a mirror",
+    "object_tags": [
+        "animal",
+        "bird",
+        "parrot",
+        "beak",
+        "parakeet",
+        "feather",
+        "indoor",
+        "budgie",
+        "sitting"
+    ]
+}

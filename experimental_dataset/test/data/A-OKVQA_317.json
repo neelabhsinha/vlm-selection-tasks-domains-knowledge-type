@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 317,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_317.png",
+    "question": "What animals are in the field?",
+    "label": "['zebras', 'zebras', 'zebras', 'zebra stag', 'zebras', 'zebras', 'zebras', 'horse', 'zebra', 'zebra']",
+    "choices": [
+        "zebra",
+        "lion",
+        "cheetah",
+        "tiger"
+    ],
+    "correct_choice": "zebra"
+}

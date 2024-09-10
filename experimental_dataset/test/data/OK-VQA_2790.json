@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2790,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2790.png",
+    "question": "Which brand of car is shown in this picture?",
+    "label": [
+        "chevy",
+        "chevy",
+        "chevy",
+        "chevy",
+        "chevy",
+        "chevy",
+        "chevrolet",
+        "chevrolet",
+        "chevrolet silverado",
+        "chevrolet silverado"
+    ]
+}

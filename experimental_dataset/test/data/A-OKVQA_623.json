@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 623,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_623.png",
+    "question": "In what part of the world is this city traffic most likely occurring?",
+    "label": "['japan', 'asia', 'asia', 'asia', 'japan', 'east asia', 'korea', 'singapore', 'japan', 'asia']",
+    "choices": [
+        "south america",
+        "north america",
+        "east asia",
+        "north africa"
+    ],
+    "correct_choice": "east asia"
+}

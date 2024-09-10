@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 233,
+    "caption": "a dog sitting in the driver's seat of a car",
+    "object_tags": [
+        "outdoor",
+        "car",
+        "mirror",
+        "dog",
+        "green",
+        "window",
+        "vehicle",
+        "looking",
+        "container",
+        "street"
+    ]
+}

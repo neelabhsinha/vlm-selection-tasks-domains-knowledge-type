@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 626,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_626.png",
+    "question": "What is the bus being used for?",
+    "label": "['transport passengers', 'pets', 'house band', 'tourists', 'transport', 'business', 'music band', 'club', 'fun travel', 'touring band']",
+    "choices": [
+        "camping",
+        "storage",
+        "home",
+        "touring band"
+    ],
+    "correct_choice": "touring band"
+}

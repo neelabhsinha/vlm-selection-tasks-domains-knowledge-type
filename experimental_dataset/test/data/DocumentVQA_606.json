@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 606,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_606.png",
+    "question": "Which meeting is arranged in \u2018sky top lodge\u2019?",
+    "label": [
+        "food industries advisory committee",
+        "Food industries advisory committee",
+        "1967 meeting"
+    ]
+}

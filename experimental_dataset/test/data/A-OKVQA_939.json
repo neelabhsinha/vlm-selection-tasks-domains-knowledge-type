@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 939,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_939.png",
+    "question": "Where is this person located?",
+    "label": "['office', 'at desk', 'office', 'office', 'office', 'office', 'at desk', 'office', 'office', 'office']",
+    "choices": [
+        "school",
+        "store",
+        "hospital",
+        "office"
+    ],
+    "correct_choice": "office"
+}

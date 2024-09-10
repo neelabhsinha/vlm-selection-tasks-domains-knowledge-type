@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3735,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Social Media",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Geographical Knowledge"
+    ]
+}

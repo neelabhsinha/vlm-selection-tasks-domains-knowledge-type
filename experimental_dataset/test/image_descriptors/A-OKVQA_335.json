@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 335,
+    "caption": "a bedroom with a television and a dresser",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "drawer",
+        "chest of drawers",
+        "cabinetry",
+        "floor",
+        "interior design",
+        "desk",
+        "nightstand",
+        "lampshade",
+        "filing cabinet",
+        "mirror",
+        "room",
+        "lamp",
+        "cupboard",
+        "table",
+        "television",
+        "home"
+    ]
+}

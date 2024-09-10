@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1824,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1824.png",
+    "question": "What is another use of the item the person is holding in this picture?",
+    "label": [
+        "phone call",
+        "phone call",
+        "phone call",
+        "phone call",
+        "talk",
+        "talk",
+        "phone",
+        "phone",
+        "talk",
+        "talk"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 179402,
+    "caption": "a traffic light on a street corner",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "window",
+        "tree",
+        "cloud",
+        "building",
+        "street",
+        "house",
+        "light"
+    ]
+}

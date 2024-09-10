@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4503,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4503.png",
+    "question": "What culture does she resemble?",
+    "label": [
+        "asian",
+        "asian",
+        "asian",
+        "asian",
+        "japanese",
+        "japanese",
+        "spain",
+        "spain",
+        "american",
+        "american"
+    ]
+}

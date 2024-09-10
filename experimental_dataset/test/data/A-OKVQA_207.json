@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 207,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_207.png",
+    "question": "What animal is next to the baby animal?",
+    "label": "['cow', 'cow', 'cow', 'cow', 'cow', 'cow', 'cow', 'adult', 'cow', 'cow']",
+    "choices": [
+        "rooster",
+        "chicken",
+        "cow",
+        "hen"
+    ],
+    "correct_choice": "cow"
+}

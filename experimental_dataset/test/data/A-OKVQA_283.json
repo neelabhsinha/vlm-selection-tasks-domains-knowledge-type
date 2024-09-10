@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 283,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_283.png",
+    "question": "The people on laptops seem most likely to be part of what group?",
+    "label": "['working', 'school group', 'study group', 'same organization', 'students', 'class', 'premed', 'students', 'study group', 'tech group']",
+    "choices": [
+        "work",
+        "friends",
+        "class",
+        "competition"
+    ],
+    "correct_choice": "class"
+}

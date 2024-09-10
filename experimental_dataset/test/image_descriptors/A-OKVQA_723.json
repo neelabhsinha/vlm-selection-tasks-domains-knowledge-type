@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 723,
+    "caption": "a hotel room with a bed, desk, chair and a lamp",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "scene",
+        "furniture",
+        "room",
+        "interior design",
+        "bed",
+        "pillow",
+        "linens",
+        "bedding",
+        "bed sheet",
+        "floor",
+        "mattress",
+        "lampshade",
+        "duvet cover",
+        "suite",
+        "ceiling",
+        "mirror",
+        "bed frame",
+        "boutique hotel",
+        "nightstand",
+        "cushion",
+        "table",
+        "bedroom",
+        "hotel",
+        "chair"
+    ]
+}

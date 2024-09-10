@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2105,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2105.png",
+    "question": "What was the average ticket price in 2020?",
+    "label": [
+        "104.73"
+    ]
+}

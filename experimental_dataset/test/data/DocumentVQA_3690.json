@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3690,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3690.png",
+    "question": "What is the day and date of the meeting?",
+    "label": [
+        "Tuesday - July 7, 1987"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 714,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_714.png",
+    "question": "What does the man have in his hand?",
+    "label": "['cigarettes', 'cigarette pack', 'lighter', 'cigarette', 'box', 'lighter', 'cigarettes', 'lighter', 'lighter', 'cigarette']",
+    "choices": [
+        "money",
+        "drink",
+        "lighter",
+        "candy"
+    ],
+    "correct_choice": "lighter"
+}

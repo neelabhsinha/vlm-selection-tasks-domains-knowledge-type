@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 141619,
+    "caption": "a kitchen with a sink and a counter top",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "bottle",
+        "drink",
+        "countertop",
+        "person",
+        "kitchen",
+        "glasses",
+        "food"
+    ]
+}

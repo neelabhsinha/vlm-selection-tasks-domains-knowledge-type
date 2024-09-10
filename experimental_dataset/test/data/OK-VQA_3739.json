@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3739,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3739.png",
+    "question": "What is the temperature like?",
+    "label": [
+        "warm",
+        "warm",
+        "warm",
+        "warm",
+        "warm",
+        "warm",
+        "hot",
+        "hot",
+        "mild",
+        "mild"
+    ]
+}

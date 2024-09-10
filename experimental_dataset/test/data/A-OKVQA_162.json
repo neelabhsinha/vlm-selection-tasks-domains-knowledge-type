@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 162,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_162.png",
+    "question": "When it comes to the child what is he or she doing?",
+    "label": "['practicing', 'learning balance', 'learning', 'riding', 'skating', 'skateboarding', 'riding', 'skateboarding', 'practicing skateboarding', 'skateboarding']",
+    "choices": [
+        "roller blading",
+        "kicking",
+        "karate",
+        "skateboarding"
+    ],
+    "correct_choice": "skateboarding"
+}

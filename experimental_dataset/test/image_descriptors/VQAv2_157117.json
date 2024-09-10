@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 157117,
+    "caption": "people sitting at a table with plates of food",
+    "object_tags": [
+        "clothing",
+        "person",
+        "furniture",
+        "human face",
+        "wall",
+        "tableware",
+        "indoor",
+        "smile",
+        "table",
+        "dining table",
+        "window",
+        "house",
+        "tablecloth",
+        "people",
+        "dining room",
+        "sitting",
+        "group",
+        "posing",
+        "woman",
+        "dining",
+        "family"
+    ]
+}

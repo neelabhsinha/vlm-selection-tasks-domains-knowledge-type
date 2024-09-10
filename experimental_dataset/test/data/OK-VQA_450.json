@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 450,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_450.png",
+    "question": "What are they doing inside this room?",
+    "label": [
+        "wash",
+        "wash",
+        "wash",
+        "wash",
+        "pee",
+        "pee",
+        "wash hand",
+        "wash hand",
+        "urine",
+        "urine"
+    ]
+}

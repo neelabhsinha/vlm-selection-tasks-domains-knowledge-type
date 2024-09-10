@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4941,
+    "caption": "a cat laying on a blue chair in a yard",
+    "object_tags": [
+        "animal",
+        "small to medium-sized cats",
+        "felidae",
+        "furniture",
+        "chair",
+        "outdoor",
+        "sitting",
+        "blue",
+        "cat"
+    ]
+}

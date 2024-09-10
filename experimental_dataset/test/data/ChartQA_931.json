@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 931,
+    "image_path": "./experimental_dataset/test/images/ChartQA_931.png",
+    "question": "What is the average percentage share from 2013 to 2018 in offline sales of jewelry, watches, and accessories retail sector in Germany?",
+    "label": [
+        "91.1"
+    ]
+}

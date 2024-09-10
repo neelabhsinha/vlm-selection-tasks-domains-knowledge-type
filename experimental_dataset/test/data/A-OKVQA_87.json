@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 87,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_87.png",
+    "question": "What can be seen through the buildings?",
+    "label": "['sun', 'sun', 'sunlight', 'sun', 'sun', 'sunlight', 'sunlight', 'sun', 'sunlight', 'sun']",
+    "choices": [
+        "clouds",
+        "birds",
+        "more buildings",
+        "sunlight"
+    ],
+    "correct_choice": "sunlight"
+}

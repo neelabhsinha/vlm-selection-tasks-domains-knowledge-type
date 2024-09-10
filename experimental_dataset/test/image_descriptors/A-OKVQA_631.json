@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 631,
+    "caption": "a herd of cattle grazing on a lush green field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "water",
+        "lake",
+        "tree",
+        "livestock",
+        "pasture",
+        "herding",
+        "grazing",
+        "plant",
+        "herd",
+        "ranch",
+        "animal",
+        "bovine",
+        "mammal",
+        "freshwater marsh",
+        "cow",
+        "group",
+        "field",
+        "river",
+        "nature",
+        "cattle",
+        "standing"
+    ]
+}

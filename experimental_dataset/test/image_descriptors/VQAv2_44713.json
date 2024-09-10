@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 44713,
+    "caption": "a collage of photos showing different types of food",
+    "object_tags": [
+        "cuisine",
+        "meal",
+        "food",
+        "lunch",
+        "recipe",
+        "fast food",
+        "ingredient",
+        "okazu",
+        "bowl",
+        "supper",
+        "chinese food",
+        "variety",
+        "various",
+        "indoor",
+        "dish"
+    ]
+}

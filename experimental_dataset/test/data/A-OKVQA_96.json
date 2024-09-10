@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 96,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_96.png",
+    "question": "What player is shown in the photo?",
+    "label": "['pitcher', 'baseball player', 'baseball', 'pitcher', 'pitcher', 'pitcher', 'position', 'pitcher', 'pitcher', 'pitcher']",
+    "choices": [
+        "shortstop",
+        "catcher",
+        "position",
+        "first baseman"
+    ],
+    "correct_choice": "position"
+}

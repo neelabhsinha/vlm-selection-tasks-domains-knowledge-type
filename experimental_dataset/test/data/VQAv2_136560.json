@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 136560,
+    "image_path": "./experimental_dataset/test/images/VQAv2_136560.png",
+    "question": "How many train track are there?",
+    "label": [
+        "2",
+        "3",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2"
+    ]
+}

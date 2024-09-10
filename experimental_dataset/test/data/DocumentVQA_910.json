@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 910,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_910.png",
+    "question": "What is the chemical formula for Chlorine ?",
+    "label": [
+        "Cl"
+    ]
+}

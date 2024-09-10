@@ -1,0 +1,32 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 518,
+    "caption": "airplanes that are flying in the sky",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "plane",
+        "airplane",
+        "smoke",
+        "flight",
+        "airshow",
+        "air travel",
+        "general aviation",
+        "aircraft",
+        "air racing",
+        "vehicle",
+        "wing",
+        "transport",
+        "air force",
+        "fighter aircraft",
+        "monoplane",
+        "aerospace engineering",
+        "air",
+        "aerobatics",
+        "aerospace manufacturer",
+        "blue",
+        "jet",
+        "aviation",
+        "fighter"
+    ]
+}

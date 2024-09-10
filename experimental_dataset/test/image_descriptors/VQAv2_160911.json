@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 160911,
+    "caption": "a black and white cat standing on a white sink",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "bathroom",
+        "wall",
+        "small to medium-sized cats",
+        "plumbing fixture",
+        "felidae",
+        "white",
+        "tap",
+        "sink",
+        "domestic cat",
+        "cat"
+    ]
+}

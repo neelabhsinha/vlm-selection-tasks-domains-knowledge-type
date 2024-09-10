@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1582,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1582.png",
+    "question": "Is this a landline or cellular phone?",
+    "label": [
+        "cellular",
+        "cellular",
+        "cellular",
+        "cellular",
+        "cellular",
+        "cellular",
+        "flip phone",
+        "flip phone",
+        "cell phone",
+        "cell phone"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 45559,
+    "image_path": "./experimental_dataset/test/images/VQAv2_45559.png",
+    "question": "What type of material was used to make the border for the grassy area?",
+    "label": [
+        "brick",
+        "brick",
+        "brick",
+        "bricks",
+        "brick",
+        "brick",
+        "bricks",
+        "brick",
+        "bricks",
+        "brick"
+    ]
+}

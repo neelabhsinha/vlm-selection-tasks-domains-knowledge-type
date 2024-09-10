@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4894,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4894.png",
+    "question": "Which is the cause of death that contributed the most to deaths of indians?",
+    "label": [
+        "Heart diseases",
+        "heart diseases"
+    ]
+}

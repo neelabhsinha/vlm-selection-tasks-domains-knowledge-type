@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1098,
+    "caption": "a street sign on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "text",
+        "traffic sign",
+        "sign",
+        "signage",
+        "sky",
+        "painting",
+        "cloud",
+        "stop sign",
+        "ground",
+        "stop"
+    ]
+}

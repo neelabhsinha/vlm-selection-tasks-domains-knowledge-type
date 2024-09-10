@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1342,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1342.png",
+    "question": "Animals like to urinate on these?",
+    "label": [
+        "fire hydrant",
+        "fire hydrant",
+        "fire hydrant",
+        "fire hydrant",
+        "fire hydrant",
+        "fire hydrant",
+        "fire hidrant",
+        "fire hidrant",
+        "dog",
+        "dog"
+    ]
+}

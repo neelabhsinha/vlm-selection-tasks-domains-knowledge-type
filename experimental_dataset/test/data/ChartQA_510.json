@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 510,
+    "image_path": "./experimental_dataset/test/images/ChartQA_510.png",
+    "question": "What is the percentage of Military bad views on media??",
+    "label": [
+        "37"
+    ]
+}

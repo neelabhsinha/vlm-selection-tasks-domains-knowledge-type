@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1011,
+    "caption": "a man riding a horse drawn carriage down a river",
+    "object_tags": [
+        "outdoor",
+        "horse",
+        "rein",
+        "bridle",
+        "horse supplies",
+        "halter",
+        "horse tack",
+        "ground",
+        "mare",
+        "cart",
+        "stallion",
+        "cowboy",
+        "wrangler",
+        "horse harness",
+        "pack animal",
+        "water",
+        "person",
+        "riding"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1097,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1097.png",
+    "question": "What is the EXT. Number ?",
+    "label": [
+        "6376"
+    ]
+}

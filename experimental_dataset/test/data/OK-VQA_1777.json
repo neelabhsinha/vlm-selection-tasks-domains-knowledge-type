@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1777,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1777.png",
+    "question": "What is the road this bus is on made of?",
+    "label": [
+        "asphalt",
+        "asphalt",
+        "asphalt",
+        "asphalt",
+        "asphalt",
+        "asphalt",
+        "asphalt",
+        "asphalt",
+        "concrete",
+        "concrete"
+    ]
+}

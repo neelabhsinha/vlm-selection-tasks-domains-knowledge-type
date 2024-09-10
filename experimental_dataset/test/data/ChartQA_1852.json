@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1852,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1852.png",
+    "question": "What was Siemens AG's annual revenue in the 2020 fiscal year?",
+    "label": [
+        "57139"
+    ]
+}

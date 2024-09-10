@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 768,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_768.png",
+    "question": "What type of car can be seen behind the motorcycle?",
+    "label": "['ford mustang', 'ford', 'mustang', 'mustang', 'mustang', 'ford mustang', 'mustang', 'mustang', 'mustang', 'chevrolet']",
+    "choices": [
+        "hemi",
+        "corvette",
+        "cadillac",
+        "mustang"
+    ],
+    "correct_choice": "mustang"
+}

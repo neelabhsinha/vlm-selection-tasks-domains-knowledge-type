@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 976,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_976.png",
+    "question": "What kind of train is in the photo?",
+    "label": "['freight train', 'tank car', 'freight train', 'cargo', 'cargo', 'freight', 'oil', 'freight', 'freight electric', 'long']",
+    "choices": [
+        "tram",
+        "passenger train",
+        "locomotive ttrain",
+        "tank car"
+    ],
+    "correct_choice": "tank car"
+}

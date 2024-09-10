@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3521,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3521.png",
+    "question": "What is the page number at the bottom right corner of the page?",
+    "label": [
+        "27"
+    ]
+}

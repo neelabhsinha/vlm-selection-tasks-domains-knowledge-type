@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4737,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4737.png",
+    "question": "Why is allowing this pet behavior bad for the electronic?",
+    "label": [
+        "attention",
+        "attention",
+        "hair",
+        "hair",
+        "shed hair",
+        "shed hair",
+        "hair get into keyboard",
+        "hair get into keyboard",
+        "hair",
+        "hair"
+    ]
+}

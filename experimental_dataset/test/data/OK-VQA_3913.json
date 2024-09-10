@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3913,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3913.png",
+    "question": "Which material is used to make this bat shown in this picture?",
+    "label": [
+        "aluminum",
+        "aluminum",
+        "aluminum",
+        "aluminum",
+        "aluminum",
+        "aluminum",
+        "plastic",
+        "plastic",
+        "wood",
+        "wood"
+    ]
+}

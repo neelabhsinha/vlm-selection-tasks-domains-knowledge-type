@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2029,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2029.png",
+    "question": "How many points are there on the agenda?",
+    "label": [
+        "7"
+    ]
+}

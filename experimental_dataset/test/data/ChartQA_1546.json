@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1546,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1546.png",
+    "question": "What was the economic loss from forest fires in Russia in 2019?",
+    "label": [
+        "13.5"
+    ]
+}

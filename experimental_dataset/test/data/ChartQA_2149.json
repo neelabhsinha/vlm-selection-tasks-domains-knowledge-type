@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2149,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2149.png",
+    "question": "What was El Salvador's corruption perception index score in 2020?",
+    "label": [
+        "36"
+    ]
+}

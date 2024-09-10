@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 481,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_481.png",
+    "question": "Who was the artist that painted this train car?",
+    "label": [
+        "banksy",
+        "banksy",
+        "banksy",
+        "banksy",
+        "van gogh",
+        "van gogh",
+        "graffiti",
+        "graffiti",
+        "street artist",
+        "street artist"
+    ]
+}

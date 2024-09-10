@@ -1,0 +1,32 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 93,
+    "caption": "a black motorcycle parked in front of a building",
+    "object_tags": [
+        "tire",
+        "wheel",
+        "vehicle",
+        "motorbike",
+        "land vehicle",
+        "building",
+        "auto part",
+        "parked",
+        "fuel tank",
+        "brake",
+        "outdoor",
+        "vehicle brake",
+        "ground",
+        "transport",
+        "disc brake",
+        "rim",
+        "spoke",
+        "suspension",
+        "automotive exhaust",
+        "fender",
+        "chopper",
+        "muffler",
+        "bike",
+        "motorcycle",
+        "sidewalk"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1129,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1129.png",
+    "question": "Why are the electric lights not on currently?",
+    "label": [
+        "daytime",
+        "daytime",
+        "daytime",
+        "daytime",
+        "day time",
+        "day time",
+        "it is daytime",
+        "it is daytime",
+        "it daytime",
+        "it daytime"
+    ]
+}

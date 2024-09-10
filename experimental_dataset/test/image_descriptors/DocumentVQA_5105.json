@@ -1,0 +1,16 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5105,
+    "caption": "a collage of photographs of a city",
+    "object_tags": [
+        "text",
+        "black and white",
+        "font",
+        "number",
+        "screenshot",
+        "parallel",
+        "receipt",
+        "document",
+        "monochrome"
+    ]
+}

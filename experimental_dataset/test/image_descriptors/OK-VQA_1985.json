@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1985,
+    "caption": "a man on a surfboard in the water",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "water",
+        "recreation",
+        "outdoor recreation",
+        "sport",
+        "surfboard",
+        "surface water sports",
+        "boardsport",
+        "adventure",
+        "surfing equipment",
+        "wave",
+        "extreme sport",
+        "towed water sport",
+        "surfing",
+        "windsports",
+        "riding",
+        "water skiing",
+        "wind wave",
+        "sports equipment",
+        "ocean"
+    ]
+}

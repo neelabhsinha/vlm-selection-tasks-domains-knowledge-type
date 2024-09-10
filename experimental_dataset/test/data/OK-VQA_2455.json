@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2455,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2455.png",
+    "question": "What year these cell phones were made?",
+    "label": [
+        "2000",
+        "2000",
+        "2000",
+        "2000",
+        "2003",
+        "2003",
+        "2003",
+        "2003",
+        "2002",
+        "2002"
+    ]
+}

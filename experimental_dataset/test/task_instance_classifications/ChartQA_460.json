@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 460,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Social Media",
+        "Government and Politics"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge"
+    ]
+}

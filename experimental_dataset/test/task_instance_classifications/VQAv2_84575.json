@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 84575,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Justice",
+        "Linguistics"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge"
+    ]
+}

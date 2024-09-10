@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 830,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_830.png",
+    "question": "What flag is on the umbrella?",
+    "label": "['england', 'union jack', 'united states', 'britain', 'union jack', 'british', 'uk', 'united kingdom', 'uk', 'england']",
+    "choices": [
+        "united states",
+        "union jack",
+        "denmark",
+        "canada"
+    ],
+    "correct_choice": "union jack"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 934,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_934.png",
+    "question": "What is table 2?",
+    "label": [
+        "Demographic data on the adult subjects"
+    ]
+}

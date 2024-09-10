@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 716,
+    "image_path": "./experimental_dataset/test/images/ChartQA_716.png",
+    "question": "Which year has the highest average annual wage?",
+    "label": [
+        "2019"
+    ]
+}

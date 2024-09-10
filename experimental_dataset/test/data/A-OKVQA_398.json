@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 398,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_398.png",
+    "question": "What type cruciferous vegetable is topping this pie?",
+    "label": "['broccoli', 'broccoli', 'broccoli', 'brocolli', 'broccoli', 'broccoli', 'broccoli', 'lettuce', 'spinach', 'broccoli']",
+    "choices": [
+        "tomato",
+        "pepperoni",
+        "feta",
+        "broccoli"
+    ],
+    "correct_choice": "broccoli"
+}

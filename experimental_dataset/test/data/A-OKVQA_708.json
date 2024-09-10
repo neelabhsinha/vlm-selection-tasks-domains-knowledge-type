@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 708,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_708.png",
+    "question": "What is the shop at the back?",
+    "label": "['motorcycle shop', 'used bikes', 'bike', 'dealer', 'motorcycle dealer', 'motorcycle shop', 'motorcycle', 'service', 'bike', 'mechanic']",
+    "choices": [
+        "motorcycle dealer",
+        "toy store",
+        "driving school",
+        "car dealer"
+    ],
+    "correct_choice": "motorcycle dealer"
+}

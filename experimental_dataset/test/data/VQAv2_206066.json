@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 206066,
+    "image_path": "./experimental_dataset/test/images/VQAv2_206066.png",
+    "question": "Is the giraffe looking up or down?",
+    "label": [
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2936,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2936.png",
+    "question": "What is the conference headquarters room no.?",
+    "label": [
+        "509"
+    ]
+}

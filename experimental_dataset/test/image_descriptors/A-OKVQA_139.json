@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 139,
+    "caption": "a city street filled with lots of parked cars",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "building",
+        "public space",
+        "town",
+        "billboard",
+        "tree",
+        "street",
+        "people",
+        "road",
+        "town square",
+        "pedestrian",
+        "ground",
+        "city",
+        "square"
+    ]
+}

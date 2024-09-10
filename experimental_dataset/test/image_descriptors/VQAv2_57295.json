@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 57295,
+    "caption": "a double decker bus driving down a city street",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "public transport",
+        "transport",
+        "road",
+        "way",
+        "building",
+        "mode of transport",
+        "train",
+        "tram",
+        "sky",
+        "streetcar",
+        "street",
+        "tree",
+        "city",
+        "tramway",
+        "bus",
+        "trolley"
+    ]
+}

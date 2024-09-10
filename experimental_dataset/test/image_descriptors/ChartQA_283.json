@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 283,
+    "caption": "a series of photos showing different types of fabric",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "rectangle",
+        "font",
+        "parallel"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 335,
+    "image_path": "./experimental_dataset/test/images/ChartQA_335.png",
+    "question": "What is the difference in tow top bar?",
+    "label": [
+        "0.02"
+    ]
+}

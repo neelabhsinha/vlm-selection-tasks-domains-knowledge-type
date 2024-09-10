@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1265,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1265.png",
+    "question": "What is to be done if we have sufficient information to designate high/low priority?",
+    "label": [
+        "Initiate priority designation"
+    ]
+}

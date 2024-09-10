@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 932,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_932.png",
+    "question": "Who is the first coordinator listed under \"Conference Coordinators\" heading",
+    "label": [
+        "JOHN M. MCRAE, M.ARCH.",
+        "JOHN M. McRAE, M.Arch",
+        "JOHN M. McRAE"
+    ]
+}

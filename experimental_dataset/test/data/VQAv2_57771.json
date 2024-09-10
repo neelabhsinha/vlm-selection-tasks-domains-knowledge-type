@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 57771,
+    "image_path": "./experimental_dataset/test/images/VQAv2_57771.png",
+    "question": "How many girl children are there?",
+    "label": [
+        "1",
+        "0",
+        "1",
+        "1",
+        "1",
+        "0",
+        "0",
+        "1",
+        "1",
+        "1"
+    ]
+}

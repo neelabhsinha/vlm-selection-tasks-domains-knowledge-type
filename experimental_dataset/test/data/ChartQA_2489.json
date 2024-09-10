@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2489,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2489.png",
+    "question": "How many ships were in the North American cruise industry in 2013?",
+    "label": [
+        "178"
+    ]
+}

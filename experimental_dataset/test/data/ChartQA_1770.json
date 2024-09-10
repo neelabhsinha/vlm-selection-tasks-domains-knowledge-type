@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1770,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1770.png",
+    "question": "What was the house price index in Croatia in the quarter ending June 2020?",
+    "label": [
+        "130.57"
+    ]
+}

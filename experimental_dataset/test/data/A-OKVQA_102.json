@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 102,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_102.png",
+    "question": "What is the activity being performed?",
+    "label": "['riding horse', 'roman riding', 'balance', 'riding', 'horseback riding', 'horse riding', 'show performance', 'riding horses', 'horseback riding', 'riding']",
+    "choices": [
+        "show performance",
+        "training horse",
+        "riding horse",
+        "feeding horse"
+    ],
+    "correct_choice": "show performance"
+}

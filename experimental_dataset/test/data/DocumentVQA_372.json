@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 372,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_372.png",
+    "question": "What is the target submission date for Paper PS(3)?",
+    "label": [
+        "april 2003",
+        "April 2003"
+    ]
+}

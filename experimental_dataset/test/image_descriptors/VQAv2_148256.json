@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 148256,
+    "caption": "a book that is sitting on top of a book case",
+    "object_tags": [
+        "text",
+        "book",
+        "bottle",
+        "publication",
+        "poster"
+    ]
+}

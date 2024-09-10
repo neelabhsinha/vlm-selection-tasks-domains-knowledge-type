@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 337,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_337.png",
+    "question": "Where is this cat located?",
+    "label": "['floor', 'floor', 'wood floor', 'floor', 'floor', 'by door', 'floor', 'home', 'on floor', 'living room']",
+    "choices": [
+        "vet",
+        "home",
+        "office",
+        "store"
+    ],
+    "correct_choice": "home"
+}

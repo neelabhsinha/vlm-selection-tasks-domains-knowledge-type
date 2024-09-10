@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 169327,
+    "image_path": "./experimental_dataset/test/images/VQAv2_169327.png",
+    "question": "Is there a train in this scene?",
+    "label": [
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

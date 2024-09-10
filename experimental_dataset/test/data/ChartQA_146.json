@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 146,
+    "image_path": "./experimental_dataset/test/images/ChartQA_146.png",
+    "question": "What is the highest point of this graph?",
+    "label": [
+        "92"
+    ]
+}

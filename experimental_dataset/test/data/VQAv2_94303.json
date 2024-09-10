@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 94303,
+    "image_path": "./experimental_dataset/test/images/VQAv2_94303.png",
+    "question": "What kind of shoes is the person wearing?",
+    "label": [
+        "crocs",
+        "crocs",
+        "crocs",
+        "crocs",
+        "crocks",
+        "crocs",
+        "crocs",
+        "red ones",
+        "crocs",
+        "crocs"
+    ]
+}

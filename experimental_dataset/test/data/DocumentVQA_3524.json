@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3524,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3524.png",
+    "question": "What is listed in APPENDIX I?",
+    "label": [
+        "Relevant Meetings and Conferences",
+        "Relevant meetings and conferences",
+        "Listing of Relevant meetings and conferences"
+    ]
+}

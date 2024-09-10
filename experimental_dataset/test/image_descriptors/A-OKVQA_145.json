@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 145,
+    "caption": "a man and a woman sitting on a couch",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "person",
+        "clothing",
+        "furniture",
+        "couch",
+        "family",
+        "house",
+        "coffee table",
+        "interior design",
+        "sofa",
+        "man",
+        "room",
+        "television",
+        "sitting",
+        "people",
+        "floor",
+        "living room",
+        "shelf",
+        "table"
+    ]
+}

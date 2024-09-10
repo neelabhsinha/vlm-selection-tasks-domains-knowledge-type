@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 178416,
+    "caption": "cows are standing in a field",
+    "object_tags": [
+        "grass",
+        "sky",
+        "outdoor",
+        "field",
+        "cloud",
+        "plain",
+        "grassland",
+        "pasture",
+        "land lot",
+        "horse",
+        "grassy",
+        "green",
+        "grazing"
+    ]
+}

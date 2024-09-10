@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1250,
+    "caption": "a living room with a tv and a chair",
+    "object_tags": [
+        "indoor",
+        "screenshot",
+        "window",
+        "black and white",
+        "monitor",
+        "wall",
+        "monochrome"
+    ]
+}

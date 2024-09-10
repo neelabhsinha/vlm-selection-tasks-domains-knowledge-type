@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2246,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2246.png",
+    "question": "What was Western Digital's market share in the first quarter of 2018?",
+    "label": [
+        "32.3"
+    ]
+}

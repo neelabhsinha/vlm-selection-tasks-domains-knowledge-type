@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1131,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1131.png",
+    "question": "Who has lead responsibility of conducting literature search on renal/bladder cancer studies?",
+    "label": [
+        "HASKINS",
+        "Haskins"
+    ]
+}

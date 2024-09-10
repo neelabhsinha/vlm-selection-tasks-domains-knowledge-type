@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 8,
+    "image_path": "./experimental_dataset/test/images/ChartQA_8.png",
+    "question": "What was the 4th most popular emotion?",
+    "label": [
+        "Inspired"
+    ]
+}

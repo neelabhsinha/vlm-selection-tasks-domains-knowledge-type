@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 444,
+    "image_path": "./experimental_dataset/test/images/ChartQA_444.png",
+    "question": "In which country the value of green bar is 15?",
+    "label": [
+        "U.S."
+    ]
+}

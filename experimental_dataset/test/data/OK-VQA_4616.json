@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4616,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4616.png",
+    "question": "Where would you find this?",
+    "label": [
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "men room in germany",
+        "men room in germany",
+        "airport",
+        "airport",
+        "restroom",
+        "restroom"
+    ]
+}

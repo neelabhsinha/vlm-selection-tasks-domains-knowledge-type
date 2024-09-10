@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2163,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2163.png",
+    "question": "What percentage of Apple customers reported being very satisfied?",
+    "label": [
+        "84"
+    ]
+}

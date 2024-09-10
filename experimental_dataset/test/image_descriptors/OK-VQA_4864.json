@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4864,
+    "caption": "a green vase sitting on top of a table",
+    "object_tags": [
+        "vase",
+        "indoor",
+        "wall",
+        "still life",
+        "still life photography",
+        "flower",
+        "table",
+        "green",
+        "sitting",
+        "perfume"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 82746,
+    "caption": "two hot dogs on a bun on a white plate",
+    "object_tags": [
+        "sandwich",
+        "food",
+        "fast food",
+        "snack food",
+        "indoor",
+        "bread",
+        "table",
+        "american food",
+        "meal",
+        "hamburger",
+        "banh ma",
+        "bun",
+        "breakfast sandwich",
+        "platter",
+        "restaurant"
+    ]
+}

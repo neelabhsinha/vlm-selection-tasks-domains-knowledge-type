@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 969,
+    "image_path": "./experimental_dataset/test/images/ChartQA_969.png",
+    "question": "Which opinion has the least difference between male and female?",
+    "label": [
+        "Less"
+    ]
+}

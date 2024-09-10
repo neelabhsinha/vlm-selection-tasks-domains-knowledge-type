@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3403,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3403.png",
+    "question": "What is the \u201cheading\u201d written at the top of the document?",
+    "label": [
+        "AGENDA FOR MENOPAUSAL HEALTH PUBLICATION MANAGEMENT MEETING",
+        "Agenda for menopausal health publication management meeting"
+    ]
+}

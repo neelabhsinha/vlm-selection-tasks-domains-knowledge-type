@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1025,
+    "caption": "a man pouring wine into a glass on a table",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "bottle",
+        "wine",
+        "tableware",
+        "drink",
+        "wall",
+        "window",
+        "man",
+        "table",
+        "standing",
+        "floor",
+        "people",
+        "alcohol"
+    ]
+}

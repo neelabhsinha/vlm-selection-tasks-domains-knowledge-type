@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3580,
+    "caption": "a brown bear standing on top of a rock",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "bear",
+        "outdoor",
+        "ground",
+        "terrestrial animal",
+        "snout",
+        "brown bear",
+        "black bear",
+        "kodiak bear",
+        "grizzly bear",
+        "wildlife",
+        "fur",
+        "sun bear",
+        "zoo",
+        "brown",
+        "rock"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 652,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_652.png",
+    "question": "What are the dogs getting?",
+    "label": "['exercise', 'ball', 'exercise', 'excited', 'exercise', 'exercise', 'exercise', 'exercise', 'ball', 'food']",
+    "choices": [
+        "treats",
+        "petted",
+        "shots",
+        "exercise"
+    ],
+    "correct_choice": "exercise"
+}

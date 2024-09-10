@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 413,
+    "caption": "a plastic container filled with different types of food",
+    "object_tags": [
+        "food",
+        "fruit",
+        "food group",
+        "ingredient",
+        "meal",
+        "tomato",
+        "diet food",
+        "produce",
+        "prepackaged meal",
+        "natural foods",
+        "lunch",
+        "take-out food",
+        "staple food",
+        "superfood",
+        "fast food",
+        "cuisine",
+        "bento",
+        "cucumber",
+        "vegetable",
+        "indoor",
+        "box",
+        "tray",
+        "carrot stick"
+    ]
+}

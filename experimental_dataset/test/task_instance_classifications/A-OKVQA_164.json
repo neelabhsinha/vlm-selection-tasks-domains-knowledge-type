@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 164,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Geographical Knowledge",
+        "Technical Knowledge"
+    ]
+}

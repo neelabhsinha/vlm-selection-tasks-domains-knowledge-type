@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 176078,
+    "caption": "a young woman holding a red frisbee in a park",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "clothing",
+        "person",
+        "ground",
+        "toddler",
+        "footwear",
+        "plant",
+        "playground",
+        "grass",
+        "girl",
+        "young"
+    ]
+}

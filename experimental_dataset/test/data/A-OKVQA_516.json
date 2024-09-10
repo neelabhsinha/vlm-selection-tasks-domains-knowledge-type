@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 516,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_516.png",
+    "question": "According to the graphic on the sign what kind of place is nearby?",
+    "label": "['airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport']",
+    "choices": [
+        "zoo",
+        "hotel",
+        "airport",
+        "hospital"
+    ],
+    "correct_choice": "airport"
+}

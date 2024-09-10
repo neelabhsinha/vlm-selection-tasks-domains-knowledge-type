@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 942,
+    "caption": "a large cruise ship sitting on a dock next to a park",
+    "object_tags": [
+        "outdoor",
+        "watercraft",
+        "transport",
+        "sky",
+        "ship",
+        "vehicle",
+        "naval architecture",
+        "passenger ship",
+        "boat",
+        "ground",
+        "cruise ship",
+        "cruiseferry",
+        "tree",
+        "motor ship",
+        "water",
+        "sitting",
+        "dock",
+        "large",
+        "park",
+        "river",
+        "parked"
+    ]
+}

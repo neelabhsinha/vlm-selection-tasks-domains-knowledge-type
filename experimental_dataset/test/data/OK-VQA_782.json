@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 782,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_782.png",
+    "question": "Where might i see these?",
+    "label": [
+        "air show",
+        "air show",
+        "air show",
+        "air show",
+        "air show",
+        "air show",
+        "air force base",
+        "air force base",
+        "event",
+        "event"
+    ]
+}

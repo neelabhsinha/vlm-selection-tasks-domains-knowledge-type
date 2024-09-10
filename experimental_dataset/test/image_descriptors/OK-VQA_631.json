@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 631,
+    "caption": "a man sitting at a table eating a slice of pizza",
+    "object_tags": [
+        "person",
+        "fast food",
+        "indoor",
+        "food",
+        "wall",
+        "snack",
+        "meal",
+        "clothing",
+        "eating",
+        "pizza",
+        "slice"
+    ]
+}

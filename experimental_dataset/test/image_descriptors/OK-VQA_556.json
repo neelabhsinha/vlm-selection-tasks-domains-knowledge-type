@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 556,
+    "caption": "a white teddy bear sitting on top of a white surface",
+    "object_tags": [
+        "toy",
+        "stuffed toy",
+        "animal",
+        "dog",
+        "bear",
+        "plush",
+        "teddy bear",
+        "stuffed",
+        "animal figure",
+        "fabric",
+        "indoor"
+    ]
+}

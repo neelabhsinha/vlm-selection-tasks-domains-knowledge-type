@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 80,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_80.png",
+    "question": "What are these cases for?",
+    "label": "['travel', 'travel', 'parking', 'travelers clothes', 'traveling luggage', 'suitcase', 'travel', 'traveling', 'clothing', 'travel']",
+    "choices": [
+        "clothing",
+        "instruments",
+        "clothing",
+        "food"
+    ],
+    "correct_choice": "clothing"
+}

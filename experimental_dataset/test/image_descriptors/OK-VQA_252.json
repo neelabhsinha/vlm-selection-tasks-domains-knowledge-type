@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 252,
+    "caption": "a pair of elephants standing next to each other",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "terrestrial animal",
+        "elephants and mammoths",
+        "indian elephant",
+        "asian elephant",
+        "sky",
+        "wildlife",
+        "african elephant",
+        "safari",
+        "tusk",
+        "ground",
+        "standing"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3421,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3421.png",
+    "question": "what is the toll free number of free press for the credit card orders,",
+    "label": [
+        "1-800-323-7445"
+    ]
+}

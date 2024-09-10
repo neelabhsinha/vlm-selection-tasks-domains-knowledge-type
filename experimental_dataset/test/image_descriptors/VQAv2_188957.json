@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 188957,
+    "caption": "two brown cows standing next to each other in a field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "mammal",
+        "animal",
+        "cattle",
+        "livestock",
+        "herd",
+        "plant",
+        "fence",
+        "field",
+        "grazing",
+        "tree",
+        "fodder",
+        "terrestrial animal",
+        "ranch",
+        "herding",
+        "sky",
+        "cow",
+        "bovine",
+        "standing",
+        "grassland",
+        "rural area",
+        "farm",
+        "fenced",
+        "brown",
+        "pasture"
+    ]
+}

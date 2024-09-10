@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 225,
+    "caption": "a red stop sign sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "wheel",
+        "traffic sign",
+        "land vehicle",
+        "vehicle",
+        "stop sign",
+        "text",
+        "car",
+        "signage",
+        "stop",
+        "tire",
+        "red",
+        "ground",
+        "grass",
+        "street",
+        "sign",
+        "pole"
+    ]
+}

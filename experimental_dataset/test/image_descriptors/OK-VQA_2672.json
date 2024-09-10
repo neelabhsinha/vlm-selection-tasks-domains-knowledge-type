@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2672,
+    "caption": "a dog laying on top of a couch next to a person",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "sofa",
+        "laying",
+        "comfort",
+        "human face",
+        "sitting",
+        "wall",
+        "brown",
+        "woman",
+        "dog",
+        "people"
+    ]
+}

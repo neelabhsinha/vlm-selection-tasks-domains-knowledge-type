@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3137,
+    "caption": "a woman is using her cell phone in the rain",
+    "object_tags": [
+        "person",
+        "clothing",
+        "phone",
+        "woman",
+        "fashion accessory",
+        "outdoor",
+        "girl",
+        "street",
+        "cellphone",
+        "using"
+    ]
+}

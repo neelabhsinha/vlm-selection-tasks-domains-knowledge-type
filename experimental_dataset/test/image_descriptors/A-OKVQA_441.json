@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 441,
+    "caption": "a dog sitting in a living room next to a door",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "floor",
+        "furniture",
+        "animal",
+        "flooring",
+        "room",
+        "dog",
+        "door",
+        "home",
+        "house"
+    ]
+}

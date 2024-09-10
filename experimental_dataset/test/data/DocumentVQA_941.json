@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 941,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_941.png",
+    "question": "What is the amount of Deferred futures profit?",
+    "label": [
+        "716"
+    ]
+}

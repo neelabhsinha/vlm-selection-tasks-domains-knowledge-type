@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 435,
+    "image_path": "./experimental_dataset/test/images/ChartQA_435.png",
+    "question": "How many countries have Air and GHG emissions rate of more than 8?",
+    "label": [
+        "1"
+    ]
+}

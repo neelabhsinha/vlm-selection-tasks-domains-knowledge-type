@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 32,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_32.png",
+    "question": "What does it say on the boys hat?",
+    "label": "['happy birthday', 'happy birthday', 'happy birthday', 'happy birthday', 'happy birthday', 'happy birthday', 'happy birthday', 'happy birthday', 'happy birthday', 'happy birthday']",
+    "choices": [
+        "happy birthday",
+        "huggy buggy",
+        "herpy derpy",
+        "huggy harry"
+    ],
+    "correct_choice": "happy birthday"
+}

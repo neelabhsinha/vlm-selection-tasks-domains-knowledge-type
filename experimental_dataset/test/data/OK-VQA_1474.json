@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1474,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1474.png",
+    "question": "What sort of garnish should be added to this dish to make it more appetizing?",
+    "label": [
+        "parsley",
+        "parsley",
+        "parsley",
+        "parsley",
+        "parsley",
+        "parsley",
+        "parsley",
+        "parsley",
+        "red pepper",
+        "red pepper"
+    ]
+}

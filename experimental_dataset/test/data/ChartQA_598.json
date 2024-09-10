@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 598,
+    "image_path": "./experimental_dataset/test/images/ChartQA_598.png",
+    "question": "In which year, the saving rate gap between two countries is maximum?",
+    "label": [
+        "1994"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2502,
+    "caption": "a blue and yellow toy car sitting on top of a bed",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "car",
+        "blue",
+        "painted"
+    ]
+}

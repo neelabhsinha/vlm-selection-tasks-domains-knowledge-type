@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 40704,
+    "caption": "a herd of cattle standing on top of a lush green field",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "cattle",
+        "mammal",
+        "water",
+        "animal",
+        "livestock",
+        "bovine",
+        "cow",
+        "grass",
+        "horse",
+        "dairy cow",
+        "plant",
+        "lake",
+        "river",
+        "standing",
+        "ground"
+    ]
+}

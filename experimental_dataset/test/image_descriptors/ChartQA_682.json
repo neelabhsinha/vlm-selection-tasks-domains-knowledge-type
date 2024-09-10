@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 682,
+    "caption": "a computer generated image of a person holding a blue ribbon",
+    "object_tags": [
+        "text",
+        "plot",
+        "line",
+        "diagram",
+        "screenshot",
+        "number",
+        "font",
+        "parallel"
+    ]
+}

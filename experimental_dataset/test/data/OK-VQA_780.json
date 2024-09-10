@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 780,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_780.png",
+    "question": "What is the complimentary color to the bike?",
+    "label": [
+        "silver",
+        "silver",
+        "silver",
+        "silver",
+        "black",
+        "black",
+        "grey",
+        "grey",
+        "red",
+        "red"
+    ]
+}

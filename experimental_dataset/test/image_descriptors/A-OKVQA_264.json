@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 264,
+    "caption": "people standing around a luggage carousel at an airport",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "footwear",
+        "airport",
+        "people",
+        "ceiling",
+        "service",
+        "baggage claim",
+        "cart",
+        "indoor",
+        "group",
+        "standing",
+        "ground",
+        "car"
+    ]
+}

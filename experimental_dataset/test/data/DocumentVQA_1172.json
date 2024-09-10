@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1172,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1172.png",
+    "question": "What is the name of the organization?",
+    "label": [
+        "Actos",
+        "actos pioglitazone HCI"
+    ]
+}

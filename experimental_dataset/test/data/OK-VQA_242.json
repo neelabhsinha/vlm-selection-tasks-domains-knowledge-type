@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 242,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_242.png",
+    "question": "How did this man get in the air?",
+    "label": [
+        "jumped",
+        "jumped",
+        "jumped",
+        "jumped",
+        "jumped",
+        "jumped",
+        "jumped",
+        "jumped",
+        "soccer",
+        "soccer"
+    ]
+}

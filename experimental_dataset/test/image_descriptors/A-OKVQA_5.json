@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 5,
+    "caption": "a herd of sheep standing next to each other",
+    "object_tags": [
+        "animal",
+        "outdoor",
+        "mammal",
+        "tree",
+        "black and white",
+        "livestock",
+        "fence",
+        "horse",
+        "ranch",
+        "herd",
+        "grazing",
+        "standing",
+        "grass",
+        "field"
+    ]
+}

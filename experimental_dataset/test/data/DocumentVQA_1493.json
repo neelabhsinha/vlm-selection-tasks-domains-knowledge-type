@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1493,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1493.png",
+    "question": "When is the Opening : Invocation?",
+    "label": [
+        "9:30 A.M."
+    ]
+}

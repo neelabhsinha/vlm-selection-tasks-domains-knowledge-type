@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3706,
+    "caption": "cars driving down a street at night",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "land vehicle",
+        "vehicle",
+        "cloud",
+        "light",
+        "tree",
+        "street light",
+        "sunset",
+        "car",
+        "street",
+        "traffic",
+        "road",
+        "signaling device",
+        "electricity",
+        "public utility",
+        "vehicle registration plate",
+        "evening",
+        "wheel",
+        "traffic light",
+        "stop",
+        "night"
+    ]
+}

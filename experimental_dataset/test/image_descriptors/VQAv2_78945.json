@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 78945,
+    "caption": "two dogs playing with a frisbee in the grass",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "dog breed",
+        "pet",
+        "sporting group",
+        "black",
+        "dog",
+        "frisbee",
+        "field",
+        "mammal",
+        "animal",
+        "play",
+        "puppy"
+    ]
+}

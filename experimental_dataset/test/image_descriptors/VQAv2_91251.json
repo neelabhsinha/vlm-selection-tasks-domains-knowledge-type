@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 91251,
+    "caption": "a woman cutting a cake with a knife",
+    "object_tags": [
+        "person",
+        "clothing",
+        "birthday cake",
+        "wall",
+        "cake",
+        "indoor",
+        "dessert",
+        "baked goods",
+        "food",
+        "cake decorating",
+        "icing",
+        "woman",
+        "birthday",
+        "sugar cake",
+        "torte",
+        "candle",
+        "sweetness",
+        "human face",
+        "baking",
+        "buttercream",
+        "table",
+        "people",
+        "family",
+        "cutting",
+        "party"
+    ]
+}

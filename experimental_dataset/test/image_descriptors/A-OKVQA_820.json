@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 820,
+    "caption": "a pan filled with lots of vegetables on top of a table",
+    "object_tags": [
+        "food",
+        "ingredient",
+        "indoor",
+        "carrot",
+        "food group",
+        "produce",
+        "vegetarian food",
+        "staple food",
+        "fruit",
+        "vegetable",
+        "broccoli",
+        "dish",
+        "tomato"
+    ]
+}

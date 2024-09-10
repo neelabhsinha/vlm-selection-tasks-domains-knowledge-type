@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1164,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1164.png",
+    "question": "What is this picture comparing?",
+    "label": [
+        "live room",
+        "live room",
+        "live room",
+        "live room",
+        "room",
+        "room",
+        "wallpaper",
+        "wallpaper",
+        "cat",
+        "cat"
+    ]
+}

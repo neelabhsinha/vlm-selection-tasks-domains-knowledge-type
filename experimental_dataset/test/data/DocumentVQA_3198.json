@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3198,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3198.png",
+    "question": "What is the \u2018salary\u2019 of M.Wigren?",
+    "label": [
+        "$5,589"
+    ]
+}

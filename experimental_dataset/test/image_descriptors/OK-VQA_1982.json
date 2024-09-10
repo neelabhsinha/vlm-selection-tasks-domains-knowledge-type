@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1982,
+    "caption": "a microwave on top of a kitchen counter",
+    "object_tags": [
+        "indoor",
+        "home appliance",
+        "cabinet",
+        "kitchen appliance",
+        "appliance",
+        "wall",
+        "cabinetry",
+        "microwave oven",
+        "small appliance",
+        "countertop",
+        "major appliance",
+        "cupboard",
+        "oven",
+        "kitchen",
+        "shelf",
+        "coffee maker",
+        "microwave",
+        "floor",
+        "refrigerator"
+    ]
+}

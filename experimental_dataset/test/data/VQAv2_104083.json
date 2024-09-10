@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 104083,
+    "image_path": "./experimental_dataset/test/images/VQAv2_104083.png",
+    "question": "Are the elephants playing with each other?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 283,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_283.png",
+    "question": "Which class are these students most likely attending?",
+    "label": [
+        "culinary",
+        "culinary",
+        "culinary",
+        "culinary",
+        "home economic",
+        "home economic",
+        "home ec",
+        "home ec",
+        "cook",
+        "cook"
+    ]
+}

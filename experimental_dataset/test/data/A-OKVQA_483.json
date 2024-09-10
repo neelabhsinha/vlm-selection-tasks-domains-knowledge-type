@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 483,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_483.png",
+    "question": "The paper cups probably contain what beverage?",
+    "label": "['juice', 'soda', 'soda', 'water', 'soda', 'soda', 'soda', 'soda', 'water', 'soda']",
+    "choices": [
+        "alcoholic",
+        "soda",
+        "coffee",
+        "tea"
+    ],
+    "correct_choice": "soda"
+}

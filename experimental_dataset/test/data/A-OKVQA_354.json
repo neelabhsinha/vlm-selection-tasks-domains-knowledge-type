@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 354,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_354.png",
+    "question": "What color is the object that the animals have their heads buried in?",
+    "label": "['green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green']",
+    "choices": [
+        "purple",
+        "yellow",
+        "red",
+        "green"
+    ],
+    "correct_choice": "green"
+}

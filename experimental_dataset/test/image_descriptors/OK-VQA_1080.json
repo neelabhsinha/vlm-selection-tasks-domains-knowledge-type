@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1080,
+    "caption": "a church with a cross on the front of it",
+    "object_tags": [
+        "chapel",
+        "building",
+        "cathedral",
+        "holy places",
+        "parish",
+        "candle",
+        "vault",
+        "mission",
+        "shrine",
+        "arch",
+        "abbey",
+        "gothic architecture",
+        "symmetry",
+        "indoor",
+        "church",
+        "place of worship",
+        "aisle",
+        "altar"
+    ]
+}

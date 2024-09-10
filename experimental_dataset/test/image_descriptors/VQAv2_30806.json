@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 30806,
+    "caption": "a herd of sheep standing next to each other",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "sheep",
+        "livestock",
+        "herd",
+        "ground",
+        "outdoor",
+        "terrestrial animal",
+        "standing",
+        "grass",
+        "enclosure",
+        "zoo"
+    ]
+}

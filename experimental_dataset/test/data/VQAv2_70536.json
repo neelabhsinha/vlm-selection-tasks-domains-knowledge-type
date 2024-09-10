@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 70536,
+    "image_path": "./experimental_dataset/test/images/VQAv2_70536.png",
+    "question": "What parts of the animals' body is pictured?",
+    "label": [
+        "rear",
+        "butt",
+        "butts",
+        "tails",
+        "bottom",
+        "rear",
+        "butt",
+        "tail end",
+        "rears",
+        "rear"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 997,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_997.png",
+    "question": "What time of day was this?",
+    "label": "['early evening', 'dusk', 'evening', 'evening', 'evening', 'evening', 'night', 'dusk', 'twilight', 'evening']",
+    "choices": [
+        "midnight",
+        "afternoon",
+        "morning",
+        "evening"
+    ],
+    "correct_choice": "evening"
+}

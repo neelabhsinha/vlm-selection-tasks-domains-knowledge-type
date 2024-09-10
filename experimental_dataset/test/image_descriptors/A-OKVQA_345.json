@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 345,
+    "caption": "a man and woman standing next to each other in a room",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "woman",
+        "carpet",
+        "indoor",
+        "rug",
+        "flooring",
+        "red carpet",
+        "wall",
+        "man",
+        "red",
+        "people",
+        "floor"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5265,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5265.png",
+    "question": "What type of documentation is this?",
+    "label": [
+        "Special Customs Invoice",
+        "SPECIAL CUSTOMS INVOICE"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 88719,
+    "caption": "a smiling woman holding a plate of food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "outdoor",
+        "smile",
+        "man",
+        "fast food",
+        "people",
+        "food",
+        "woman",
+        "standing"
+    ]
+}

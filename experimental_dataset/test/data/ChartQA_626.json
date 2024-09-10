@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 626,
+    "image_path": "./experimental_dataset/test/images/ChartQA_626.png",
+    "question": "What's the percentage of people choose only abroad?",
+    "label": [
+        "20"
+    ]
+}

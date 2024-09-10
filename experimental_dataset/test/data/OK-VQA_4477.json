@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4477,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4477.png",
+    "question": "What type of activity are the items on the trailer used for?",
+    "label": [
+        "water sport",
+        "water sport",
+        "water sport",
+        "water sport",
+        "water sport",
+        "water sport",
+        "watersports",
+        "watersports",
+        "watersports",
+        "watersports"
+    ]
+}

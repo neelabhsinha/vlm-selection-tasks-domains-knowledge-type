@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 31553,
+    "caption": "people walking down the street with luggage",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "luggage and bags",
+        "outdoor",
+        "building",
+        "jeans",
+        "man",
+        "woman",
+        "handbag",
+        "trousers",
+        "pedestrian",
+        "luggage",
+        "road",
+        "street fashion",
+        "suitcase",
+        "travel",
+        "backpack",
+        "jacket",
+        "ground",
+        "people",
+        "accessory",
+        "street",
+        "city",
+        "bag",
+        "sidewalk"
+    ]
+}

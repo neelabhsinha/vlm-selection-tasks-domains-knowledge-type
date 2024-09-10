@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4085,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4085.png",
+    "question": "What is the date of the report?",
+    "label": [
+        "JULY 1980",
+        "July, 1980"
+    ]
+}

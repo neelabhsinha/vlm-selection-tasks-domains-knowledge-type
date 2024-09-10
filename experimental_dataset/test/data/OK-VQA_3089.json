@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3089,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3089.png",
+    "question": "What ingredients are used in this food?",
+    "label": [
+        "cheese",
+        "cheese",
+        "cheese",
+        "cheese",
+        "cheese tomato sauce",
+        "cheese tomato sauce",
+        "bread cheese basil tomato",
+        "bread cheese basil tomato",
+        "cheese tomato sauce' pizza dough garlic",
+        "cheese tomato sauce' pizza dough garlic"
+    ]
+}

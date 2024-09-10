@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 697,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_697.png",
+    "question": "Why are the stuffed bears on display?",
+    "label": "['contest', 'auctioned off', 'for sale', 'being sold', 'be sold', 'museum', 'exhibition', 'teddybear picnic', 'antiques', 'to buy']",
+    "choices": [
+        "exhibition",
+        "prizes/gift",
+        "decorations",
+        "bear fair"
+    ],
+    "correct_choice": "exhibition"
+}

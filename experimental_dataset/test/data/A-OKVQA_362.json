@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 362,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_362.png",
+    "question": "What part of the keyboard is shown?",
+    "label": "['numpad', 'number pad', 'number keys', 'keypad', 'number keys', 'number pad', 'numbers button', 'number pad', 'upper right', 'numpad']",
+    "choices": [
+        "letters",
+        "keypad",
+        "touchpad",
+        "trackpad"
+    ],
+    "correct_choice": "keypad"
+}

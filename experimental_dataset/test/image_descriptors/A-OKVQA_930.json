@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 930,
+    "caption": "a plate of food on a table",
+    "object_tags": [
+        "plate",
+        "food",
+        "dish",
+        "cuisine",
+        "meal",
+        "fast food",
+        "tableware",
+        "drink",
+        "table",
+        "fork",
+        "breakfast",
+        "indoor",
+        "staple food",
+        "restaurant"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4320,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4320.png",
+    "question": "Which dog has the heaviest liver?",
+    "label": [
+        "26F"
+    ]
+}

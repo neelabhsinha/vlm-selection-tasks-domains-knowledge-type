@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1567,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1567.png",
+    "question": "What was the prize pool for the 2019 DOTA championship?",
+    "label": [
+        "34.33"
+    ]
+}

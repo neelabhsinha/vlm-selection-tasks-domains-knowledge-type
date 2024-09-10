@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1131,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1131.png",
+    "question": "What kind of a lounge is this?",
+    "label": "['bag', 'luggage', 'business', 'business', 'airport', 'travel luggage', 'suitcase', 'airport lounge', 'person', 'big']",
+    "choices": [
+        "dog",
+        "leisure",
+        "business",
+        "cat"
+    ],
+    "correct_choice": "business"
+}

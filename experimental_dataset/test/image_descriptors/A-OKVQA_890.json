@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 890,
+    "caption": "two men standing next to each other holding cell phones",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "human face",
+        "sunglasses",
+        "jeans",
+        "goggles",
+        "passenger",
+        "fashion accessory",
+        "smile",
+        "glasses",
+        "hat",
+        "people",
+        "standing",
+        "outdoor"
+    ]
+}

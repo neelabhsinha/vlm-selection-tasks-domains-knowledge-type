@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 888,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_888.png",
+    "question": "What is a group of these animals called?",
+    "label": "['sheeps', 'flock', 'flock', 'flock', 'flock', 'flock', 'flock', 'pack', 'herd', 'flock']",
+    "choices": [
+        "flock",
+        "clowder",
+        "gang",
+        "pride"
+    ],
+    "correct_choice": "flock"
+}

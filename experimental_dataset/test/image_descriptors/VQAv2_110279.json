@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 110279,
+    "caption": "a young boy riding a skateboard on top of a parking lot",
+    "object_tags": [
+        "sport",
+        "person",
+        "footwear",
+        "outdoor",
+        "clothing",
+        "sports equipment",
+        "skating",
+        "skateboarding equipment",
+        "ground",
+        "skateboarder",
+        "street sports",
+        "roller sport",
+        "boardsport",
+        "longboarding",
+        "individual sports",
+        "longboard",
+        "skateboarding",
+        "boy",
+        "young",
+        "road",
+        "riding",
+        "skate",
+        "skateboard",
+        "child",
+        "skatepark"
+    ]
+}

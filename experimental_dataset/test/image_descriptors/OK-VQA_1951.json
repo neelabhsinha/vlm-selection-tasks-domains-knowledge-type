@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1951,
+    "caption": "a large black and white panda bear laying on the ground",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "panda",
+        "outdoor",
+        "terrestrial animal",
+        "zoo",
+        "bear",
+        "ground",
+        "giant panda",
+        "snout",
+        "rock"
+    ]
+}

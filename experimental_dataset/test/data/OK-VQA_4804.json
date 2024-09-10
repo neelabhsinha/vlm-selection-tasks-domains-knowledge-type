@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4804,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4804.png",
+    "question": "What kind of fruit is picture in this warehouse?",
+    "label": [
+        "banana",
+        "banana",
+        "banana",
+        "banana",
+        "banana",
+        "banana",
+        "banana",
+        "banana",
+        "bannanas",
+        "bannanas"
+    ]
+}

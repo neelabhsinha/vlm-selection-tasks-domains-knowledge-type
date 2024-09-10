@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2594,
+    "caption": "a herd of zebra standing on top of a sandy beach",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "zebra",
+        "outdoor",
+        "ground",
+        "wildlife",
+        "terrestrial animal",
+        "safari",
+        "herd",
+        "standing",
+        "grass",
+        "field",
+        "group"
+    ]
+}

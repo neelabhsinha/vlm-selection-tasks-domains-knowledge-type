@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2643,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2643.png",
+    "question": "What is the reason for contact?",
+    "label": [
+        "Smoking controversies - Health",
+        "Smoking controversies - health"
+    ]
+}

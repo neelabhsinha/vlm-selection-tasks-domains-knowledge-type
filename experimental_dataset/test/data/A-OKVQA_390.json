@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 390,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_390.png",
+    "question": "What time of day is this?",
+    "label": "['midday', 'daytime', 'mid day', 'noon', 'afternoon', 'afternoon', 'noon', 'midday', 'evening', 'daytime']",
+    "choices": [
+        "daytime",
+        "dawn",
+        "evening",
+        "night"
+    ],
+    "correct_choice": "daytime"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4671,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4671.png",
+    "question": "How much is polyunsaturated (poly) fat in safflower?",
+    "label": [
+        "78"
+    ]
+}

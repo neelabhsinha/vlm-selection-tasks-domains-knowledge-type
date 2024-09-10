@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1346,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1346.png",
+    "question": "What are the bags made of?",
+    "label": [
+        "cloth",
+        "cloth",
+        "cloth",
+        "cloth",
+        "cloth",
+        "cloth",
+        "plastic",
+        "plastic",
+        "fabric",
+        "fabric"
+    ]
+}

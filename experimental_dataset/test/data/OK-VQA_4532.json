@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4532,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4532.png",
+    "question": "What are those chairs made out of?",
+    "label": [
+        "fabric",
+        "fabric",
+        "fabric",
+        "fabric",
+        "plastic",
+        "plastic",
+        "wood",
+        "wood",
+        "material",
+        "material"
+    ]
+}

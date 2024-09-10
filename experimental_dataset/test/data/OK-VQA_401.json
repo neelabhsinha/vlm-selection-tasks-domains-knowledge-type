@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 401,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_401.png",
+    "question": "Why is he eating this?",
+    "label": [
+        "snack",
+        "snack",
+        "snack",
+        "snack",
+        "carnival",
+        "carnival",
+        "hungry",
+        "hungry",
+        "treat",
+        "treat"
+    ]
+}

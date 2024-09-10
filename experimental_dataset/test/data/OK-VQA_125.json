@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 125,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_125.png",
+    "question": "For how long should the man in this picture continue to brush his teeth?",
+    "label": [
+        "5 minutes",
+        "5 minutes",
+        "5 minutes",
+        "5 minutes",
+        "2 minutes",
+        "2 minutes",
+        "30 seconds",
+        "30 seconds",
+        "year",
+        "year"
+    ]
+}

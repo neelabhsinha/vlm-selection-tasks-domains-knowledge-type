@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 259,
+    "caption": "a horse drawn carriage on a city street",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "tree",
+        "road",
+        "land vehicle",
+        "street",
+        "vehicle",
+        "pedestrian",
+        "public space",
+        "town square",
+        "people",
+        "town",
+        "wheel",
+        "riding",
+        "city",
+        "person",
+        "ground",
+        "carriage"
+    ]
+}

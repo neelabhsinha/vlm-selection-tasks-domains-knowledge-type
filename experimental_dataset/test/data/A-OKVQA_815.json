@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 815,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_815.png",
+    "question": "What is this dog ready to do?",
+    "label": "['eat', 'celebrate', 'eat', 'eat pie', 'eat', 'eat cake', 'eat cake', 'eat', 'eat', 'eat']",
+    "choices": [
+        "sleep",
+        "eat",
+        "attack",
+        "run"
+    ],
+    "correct_choice": "eat"
+}

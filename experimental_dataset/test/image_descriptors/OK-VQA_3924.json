@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3924,
+    "caption": "a yellow frisbee sitting on top of a green field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "sky",
+        "playground",
+        "cloud",
+        "sports equipment",
+        "frisbee",
+        "green",
+        "yellow",
+        "field"
+    ]
+}

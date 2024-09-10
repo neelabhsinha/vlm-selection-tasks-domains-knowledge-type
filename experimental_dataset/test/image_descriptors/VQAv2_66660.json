@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 66660,
+    "caption": "a red and yellow train is on the tracks",
+    "object_tags": [
+        "transport",
+        "train",
+        "railroad",
+        "outdoor",
+        "track",
+        "vehicle",
+        "railway",
+        "land vehicle",
+        "public transport",
+        "rolling stock",
+        "train station",
+        "locomotive",
+        "railroad car",
+        "passenger car",
+        "building",
+        "rolling",
+        "transport hub",
+        "red",
+        "electric locomotive",
+        "yellow",
+        "platform",
+        "ground",
+        "rail",
+        "coast"
+    ]
+}

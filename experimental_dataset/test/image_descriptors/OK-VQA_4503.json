@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4503,
+    "caption": "a young man sitting on a bench next to a toilet",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "sitting",
+        "wall",
+        "indoor",
+        "young",
+        "red"
+    ]
+}

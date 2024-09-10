@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 741,
+    "caption": "a man and a woman sitting on a beach next to a body of water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "person",
+        "clothing",
+        "lake",
+        "beach",
+        "man",
+        "standing",
+        "ground"
+    ]
+}

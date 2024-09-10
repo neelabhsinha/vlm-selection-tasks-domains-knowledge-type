@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4690,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4690.png",
+    "question": "Whose photograph is given at the bottom?",
+    "label": [
+        "Miss Jaquelin Ambler",
+        "MISS JAQUELIN AMBLER",
+        "JAQUELIN AMBLER"
+    ]
+}

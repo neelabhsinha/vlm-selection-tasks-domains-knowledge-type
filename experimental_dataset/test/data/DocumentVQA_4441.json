@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4441,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4441.png",
+    "question": "Is Martin interested in playing Golf on October 13?",
+    "label": [
+        "no",
+        "No"
+    ]
+}

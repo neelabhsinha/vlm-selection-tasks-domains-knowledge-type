@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 364,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_364.png",
+    "question": "Why is the pipe on the back of the truck?",
+    "label": "['transport', 'for transport', 'to transport', 'be transported', 'being moved', 'delivering', 'being transported', 'irrigation', 'transport', 'for construction']",
+    "choices": [
+        "to repair",
+        "to decorate",
+        "to transport",
+        "to paint"
+    ],
+    "correct_choice": "to transport"
+}

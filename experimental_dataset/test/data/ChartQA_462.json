@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 462,
+    "image_path": "./experimental_dataset/test/images/ChartQA_462.png",
+    "question": "The blue bar represents what ( value 55,70)?",
+    "label": [
+        "Generally produces accurate conclusions"
+    ]
+}

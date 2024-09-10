@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 46296,
+    "image_path": "./experimental_dataset/test/images/VQAv2_46296.png",
+    "question": "Which craft travels further on a tank of gas?",
+    "label": [
+        "plane",
+        "plane",
+        "plane",
+        "plane",
+        "plane",
+        "boat",
+        "boat",
+        "airplane",
+        "airplane",
+        "airplane"
+    ]
+}

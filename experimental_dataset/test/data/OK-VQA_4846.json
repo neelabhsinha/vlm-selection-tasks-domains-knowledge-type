@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4846,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4846.png",
+    "question": "Who invented the first one of these?",
+    "label": [
+        "richard trevithick",
+        "richard trevithick",
+        "richard trevithick",
+        "richard trevithick",
+        "mr steam engine",
+        "mr steam engine",
+        "thomas",
+        "thomas",
+        "english",
+        "english"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 180293,
+    "caption": "a sink with soap, toothbrushes, and toothpaste",
+    "object_tags": [
+        "sink",
+        "indoor",
+        "plumbing fixture",
+        "tap",
+        "household supply",
+        "plastic",
+        "plumbing",
+        "bathroom"
+    ]
+}

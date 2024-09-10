@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 147361,
+    "caption": "a large group of boys and girls posing for a picture",
+    "object_tags": [
+        "clothing",
+        "person",
+        "posing",
+        "human face",
+        "smile",
+        "group",
+        "building",
+        "team",
+        "outdoor",
+        "footwear",
+        "man",
+        "boy",
+        "child",
+        "young",
+        "standing",
+        "sitting",
+        "black",
+        "people",
+        "school"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2455,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Government and Politics",
+        "Justice"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Social Knowledge"
+    ]
+}

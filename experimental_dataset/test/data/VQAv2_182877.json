@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 182877,
+    "image_path": "./experimental_dataset/test/images/VQAv2_182877.png",
+    "question": "Are this people traveling to somewhere?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

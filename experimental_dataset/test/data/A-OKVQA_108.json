@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 108,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_108.png",
+    "question": "What type of cuisine would be purchased here?",
+    "label": "['mexican', 'tamales', 'mexican', 'mexican', 'mexican', 'mexican', 'mexican', 'tacos', 'mexican', 'tamales']",
+    "choices": [
+        "chinese",
+        "russian",
+        "italian",
+        "mexican"
+    ],
+    "correct_choice": "mexican"
+}

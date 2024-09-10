@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3235,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3235.png",
+    "question": "What kind of oil is on the dish?",
+    "label": [
+        "olive oil",
+        "olive oil",
+        "olive oil",
+        "olive oil",
+        "butter",
+        "butter",
+        "olive",
+        "olive",
+        "peanut oil",
+        "peanut oil"
+    ]
+}

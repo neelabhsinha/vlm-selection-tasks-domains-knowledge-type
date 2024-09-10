@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5007,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5007.png",
+    "question": "How many offspring do these animals typically bare?",
+    "label": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4 6",
+        "4 6",
+        "6",
+        "6"
+    ]
+}

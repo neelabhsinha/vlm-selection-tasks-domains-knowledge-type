@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 944,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_944.png",
+    "question": "What type of foods are in the basket?",
+    "label": "['apples', 'apple', 'apples', 'apples', 'apple', 'apple', 'apples', 'fruit', 'fruits', 'apples']",
+    "choices": [
+        "fruit",
+        "fish",
+        "meat",
+        "vegetables"
+    ],
+    "correct_choice": "fruit"
+}

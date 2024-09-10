@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 439,
+    "caption": "a man and a woman standing next to a beach",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "sky",
+        "ground",
+        "jeans",
+        "footwear",
+        "trousers",
+        "man",
+        "beach",
+        "hiking",
+        "water",
+        "standing",
+        "shore"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 430,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_430.png",
+    "question": "What plant is shown in the art on the wall?",
+    "label": [
+        "cactus",
+        "cactus",
+        "cactus",
+        "cactus",
+        "cactus",
+        "cactus",
+        "cactus",
+        "cactus",
+        "rose",
+        "rose"
+    ]
+}

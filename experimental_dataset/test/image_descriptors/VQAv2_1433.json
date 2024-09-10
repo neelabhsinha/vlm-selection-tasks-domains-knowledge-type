@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 1433,
+    "caption": "a police officer directing traffic on a city street",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "text",
+        "road",
+        "transport",
+        "vehicle registration plate",
+        "sky",
+        "mode of transport",
+        "building",
+        "street",
+        "wheel",
+        "man",
+        "person",
+        "car",
+        "city",
+        "bus",
+        "transit"
+    ]
+}

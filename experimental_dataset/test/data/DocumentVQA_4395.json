@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4395,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4395.png",
+    "question": "What is written above the image of the cigarette?",
+    "label": [
+        "smokers",
+        "Smokers"
+    ]
+}

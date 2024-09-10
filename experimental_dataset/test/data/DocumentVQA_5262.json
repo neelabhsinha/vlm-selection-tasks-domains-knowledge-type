@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5262,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5262.png",
+    "question": "What is the name of the exporting carrier?",
+    "label": [
+        "Pan Am."
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2256,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2256.png",
+    "question": "What was the infant mortality rate in Thailand in 2019?",
+    "label": [
+        "7.7"
+    ]
+}

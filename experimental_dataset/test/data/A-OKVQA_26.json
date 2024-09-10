@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 26,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_26.png",
+    "question": "What are the orange vehicles for?",
+    "label": "['air traffic', 'guide planes', 'pulling plane', 'safety vehicle', 'service airplanes', 'transport', 'maintenance', 'food delivery', 'luggage', 'maintenance']",
+    "choices": [
+        "police",
+        "shuttle",
+        "passengers",
+        "air traffic"
+    ],
+    "correct_choice": "air traffic"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 181021,
+    "caption": "a zebra and a baby zebra standing in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "zebra",
+        "outdoor",
+        "grass",
+        "wildlife",
+        "terrestrial animal",
+        "field",
+        "safari",
+        "standing",
+        "ground"
+    ]
+}

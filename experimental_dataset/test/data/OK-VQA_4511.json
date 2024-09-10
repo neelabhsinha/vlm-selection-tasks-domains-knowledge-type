@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4511,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4511.png",
+    "question": "What will she use this for?",
+    "label": [
+        "pack",
+        "pack",
+        "pack",
+        "pack",
+        "travel",
+        "travel",
+        "cloth",
+        "cloth",
+        "pack cloth",
+        "pack cloth"
+    ]
+}

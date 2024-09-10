@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2161,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2161.png",
+    "question": "What was EDI sales in the UK in 2019?",
+    "label": [
+        "336.6"
+    ]
+}

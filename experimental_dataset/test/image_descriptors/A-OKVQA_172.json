@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 172,
+    "caption": "people standing on a platform next to a train",
+    "object_tags": [
+        "railroad",
+        "transport",
+        "outdoor",
+        "train",
+        "rolling stock",
+        "railway",
+        "track",
+        "vehicle",
+        "passenger car",
+        "public transport",
+        "tree",
+        "railroad car",
+        "land vehicle",
+        "sky",
+        "people",
+        "car",
+        "rail",
+        "person"
+    ]
+}

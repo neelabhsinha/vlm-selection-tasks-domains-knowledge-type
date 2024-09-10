@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3031,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3031.png",
+    "question": "What is the total project support in the year 1982?",
+    "label": [
+        "378.0"
+    ]
+}

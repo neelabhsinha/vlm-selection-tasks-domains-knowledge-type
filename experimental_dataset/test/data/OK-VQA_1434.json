@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1434,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1434.png",
+    "question": "What is the design on this blanket referred to as?",
+    "label": [
+        "plaid",
+        "plaid",
+        "plaid",
+        "plaid",
+        "plaid",
+        "plaid",
+        "plaid",
+        "plaid",
+        "flanel",
+        "flanel"
+    ]
+}

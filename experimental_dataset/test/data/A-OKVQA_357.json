@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 357,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_357.png",
+    "question": "What type of drink are they drinking?",
+    "label": "['wine', 'wine', 'wine', 'red wine', 'wine', 'wine', 'wine', 'wine', 'wine', 'wine']",
+    "choices": [
+        "soda",
+        "beer",
+        "red wine",
+        "vodka"
+    ],
+    "correct_choice": "red wine"
+}

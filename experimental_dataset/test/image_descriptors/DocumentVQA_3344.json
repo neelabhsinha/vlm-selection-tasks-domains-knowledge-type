@@ -1,0 +1,16 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3344,
+    "caption": "a collage of photographs showing a computer generated image",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "black and white",
+        "number",
+        "parallel",
+        "diagram",
+        "receipt",
+        "document"
+    ]
+}

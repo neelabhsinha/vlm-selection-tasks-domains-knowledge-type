@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 865,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_865.png",
+    "question": "What is this person jumping off of?",
+    "label": "['curb', 'concrete', 'ledge', 'scatting board', 'curb', 'bench', 'ramp', 'curb', 'platform', 'curb']",
+    "choices": [
+        "trash can",
+        "curb",
+        "porch",
+        "tree"
+    ],
+    "correct_choice": "curb"
+}

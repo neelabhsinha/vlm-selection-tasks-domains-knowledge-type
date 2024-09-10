@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 895,
+    "caption": "a dog sitting in the back seat of a car",
+    "object_tags": [
+        "animal",
+        "car",
+        "vehicle",
+        "land vehicle",
+        "dog breed",
+        "outdoor",
+        "vehicle door",
+        "window",
+        "sitting",
+        "brown",
+        "dog"
+    ]
+}

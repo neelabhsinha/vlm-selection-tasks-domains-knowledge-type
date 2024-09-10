@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 132,
+    "caption": "a flock of birds flying over a body of water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "flock",
+        "beach",
+        "ground",
+        "animal",
+        "bird"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 138,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_138.png",
+    "question": "What kind of room is on the left of the yellow train?",
+    "label": "['waiting room', 'train depot', 'waiting room', 'restroom', 'waiting room', 'resting', 'waiting room', 'waiting', 'station depot', 'waiting room']",
+    "choices": [
+        "nursery room",
+        "bathroom",
+        "changing room",
+        "waiting room"
+    ],
+    "correct_choice": "waiting room"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 992,
+    "image_path": "./experimental_dataset/test/images/ChartQA_992.png",
+    "question": "What is the highest life expectancy at birth of male?",
+    "label": [
+        "80.7"
+    ]
+}

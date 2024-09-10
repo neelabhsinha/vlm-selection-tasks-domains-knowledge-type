@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3022,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3022.png",
+    "question": "What is the email id of Ryan James Potts?",
+    "label": [
+        "pottsr@rjrt.com"
+    ]
+}

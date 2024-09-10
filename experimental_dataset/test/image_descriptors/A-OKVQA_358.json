@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 358,
+    "caption": "two women standing in a kitchen preparing food",
+    "object_tags": [
+        "person",
+        "indoor",
+        "home appliance",
+        "clothing",
+        "wall",
+        "woman",
+        "gas stove",
+        "kitchen appliance",
+        "kitchen",
+        "cookware and bakeware",
+        "countertop",
+        "smile",
+        "appliance",
+        "microwave oven",
+        "kitchen stove",
+        "major appliance",
+        "food",
+        "cooking",
+        "standing",
+        "stove",
+        "oven"
+    ]
+}

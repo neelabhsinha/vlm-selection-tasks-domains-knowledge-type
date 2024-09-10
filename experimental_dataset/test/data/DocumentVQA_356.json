@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 356,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_356.png",
+    "question": "In which country is the company located?",
+    "label": [
+        "U.S.A.",
+        "U.S.A"
+    ]
+}

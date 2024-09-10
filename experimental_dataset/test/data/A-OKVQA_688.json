@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 688,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_688.png",
+    "question": "What type of restaurant is this?",
+    "label": "['modern restraunt', 'pizza parlor', 'pizzeria', 'pizza joint', 'pizza place', 'pizzeria', 'italian', 'pizza', 'pizza', 'breakfast']",
+    "choices": [
+        "fast food",
+        "coffee bar",
+        "buffet",
+        "pizzeria"
+    ],
+    "correct_choice": "pizzeria"
+}

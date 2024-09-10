@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1486,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1486.png",
+    "question": "How many dollars did Bonefish Grill restaurant sales reach in the United States in 2020?",
+    "label": [
+        "396.19"
+    ]
+}

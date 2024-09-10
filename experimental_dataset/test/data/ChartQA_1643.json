@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1643,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1643.png",
+    "question": "How many cars did Honda sell in Turkey in 2019?",
+    "label": [
+        "20354"
+    ]
+}

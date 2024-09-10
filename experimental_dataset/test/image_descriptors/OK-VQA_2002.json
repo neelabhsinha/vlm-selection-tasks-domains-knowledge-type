@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2002,
+    "caption": "a man standing next to a man flying a kite",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "person",
+        "clothing",
+        "man",
+        "lighthouse",
+        "beach",
+        "ground",
+        "standing",
+        "people",
+        "kite"
+    ]
+}

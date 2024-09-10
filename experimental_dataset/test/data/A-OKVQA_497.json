@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 497,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_497.png",
+    "question": "Why would one sit here?",
+    "label": "['relax', 'relax', 'shade', 'relax', 'relax', 'to relax', 'enjoy view', 'relax', 'use shade', 'relaxing']",
+    "choices": [
+        "work",
+        "relax",
+        "paint",
+        "eat"
+    ],
+    "correct_choice": "relax"
+}

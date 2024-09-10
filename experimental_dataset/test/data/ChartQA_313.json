@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 313,
+    "image_path": "./experimental_dataset/test/images/ChartQA_313.png",
+    "question": "What is the ratio of highest and lowest bar",
+    "label": [
+        "1.905805459"
+    ]
+}

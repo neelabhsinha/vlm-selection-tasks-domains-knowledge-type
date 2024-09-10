@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3769,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3769.png",
+    "question": "What is the timing for Project Approval?",
+    "label": [
+        "4/3/06"
+    ]
+}

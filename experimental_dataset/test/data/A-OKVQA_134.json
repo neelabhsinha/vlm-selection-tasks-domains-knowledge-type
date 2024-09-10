@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 134,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_134.png",
+    "question": "What other sport besides ping pong is played by someone in this household?",
+    "label": "['tennis', 'tennis', 'tennis', 'racket ball', 'tennis', 'tennis', 'tennis', 'racket ball', 'tennis', 'tennis']",
+    "choices": [
+        "lacrosse",
+        "hockey",
+        "baseball",
+        "tennis"
+    ],
+    "correct_choice": "tennis"
+}

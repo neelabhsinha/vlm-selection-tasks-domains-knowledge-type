@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 344,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_344.png",
+    "question": "What is the animal playing?",
+    "label": "['polar bear', 'fetch ball', 'dog', 'polar bear', 'fetch', 'chewing', 'pull balls', 'ball', 'balls', 'balls']",
+    "choices": [
+        "people",
+        "rope toys",
+        "other animals",
+        "balls"
+    ],
+    "correct_choice": "balls"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2572,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2572.png",
+    "question": "These animals are found in what area of the world?",
+    "label": [
+        "north america",
+        "north america",
+        "north america",
+        "north america",
+        "usa",
+        "usa",
+        "arizona",
+        "arizona",
+        "american west",
+        "american west"
+    ]
+}

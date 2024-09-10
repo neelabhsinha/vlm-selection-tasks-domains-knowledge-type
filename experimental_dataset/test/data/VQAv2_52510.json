@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 52510,
+    "image_path": "./experimental_dataset/test/images/VQAv2_52510.png",
+    "question": "Is the cat a tabby?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

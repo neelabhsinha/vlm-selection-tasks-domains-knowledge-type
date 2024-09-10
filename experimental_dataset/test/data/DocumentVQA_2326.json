@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2326,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2326.png",
+    "question": "Which is the State in the address?",
+    "label": [
+        "Maryland"
+    ]
+}

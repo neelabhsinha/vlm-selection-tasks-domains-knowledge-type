@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 137221,
+    "caption": "a sandwich cut in half sitting on top of a white plate",
+    "object_tags": [
+        "food",
+        "bread",
+        "fast food",
+        "american food",
+        "bun",
+        "sandwich",
+        "baked goods",
+        "breakfast sandwich",
+        "gluten",
+        "snack food",
+        "banh ma",
+        "bread roll",
+        "bacon sandwich",
+        "indoor"
+    ]
+}

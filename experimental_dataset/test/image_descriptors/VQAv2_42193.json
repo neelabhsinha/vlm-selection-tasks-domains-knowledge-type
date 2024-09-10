@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 42193,
+    "caption": "a dog swimming in a body of water",
+    "object_tags": [
+        "water",
+        "outdoor",
+        "swimming",
+        "lake",
+        "bird"
+    ]
+}

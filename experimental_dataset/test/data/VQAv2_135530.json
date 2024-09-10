@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 135530,
+    "image_path": "./experimental_dataset/test/images/VQAv2_135530.png",
+    "question": "What is the boy holding?",
+    "label": [
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee"
+    ]
+}

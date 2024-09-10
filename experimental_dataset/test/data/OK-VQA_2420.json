@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2420,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2420.png",
+    "question": "How high can a kite go?",
+    "label": [
+        "50 feet",
+        "50 feet",
+        "50 feet",
+        "50 feet",
+        "300 yards",
+        "300 yards",
+        "40 feet",
+        "40 feet",
+        "200 ft",
+        "200 ft"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1118,
+    "caption": "a person using a laptop computer on a desk",
+    "object_tags": [
+        "computer",
+        "indoor",
+        "laptop",
+        "text",
+        "personal computer",
+        "netbook",
+        "output device",
+        "person",
+        "computer hardware",
+        "input device",
+        "touchpad",
+        "space bar",
+        "electronic device",
+        "typing",
+        "gadget",
+        "office equipment",
+        "peripheral",
+        "display device",
+        "wall",
+        "mac",
+        "lap"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 141759,
+    "image_path": "./experimental_dataset/test/images/VQAv2_141759.png",
+    "question": "Where are the kids on the bike heading too?",
+    "label": [
+        "beach",
+        "water",
+        "beach",
+        "water",
+        "ocean",
+        "ocean",
+        "water",
+        "water",
+        "beach",
+        "ocean"
+    ]
+}

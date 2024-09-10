@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4005,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4005.png",
+    "question": "What is the \u2018maximum amount of loan due from western express industries limited at any time during the year\u2019?",
+    "label": [
+        "Rs.10,96,52,390"
+    ]
+}

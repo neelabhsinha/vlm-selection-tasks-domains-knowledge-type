@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4923,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4923.png",
+    "question": "A group of these animals is called a what?",
+    "label": [
+        "herd",
+        "herd",
+        "herd",
+        "herd",
+        "herd",
+        "herd",
+        "zebra",
+        "zebra",
+        "zebra",
+        "zebra"
+    ]
+}

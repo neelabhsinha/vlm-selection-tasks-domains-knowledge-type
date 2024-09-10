@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 498,
+    "caption": "a woman holding an umbrella on a sidewalk",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "footwear",
+        "clothing",
+        "umbrella",
+        "fruit",
+        "street",
+        "people",
+        "holding",
+        "ground",
+        "red"
+    ]
+}

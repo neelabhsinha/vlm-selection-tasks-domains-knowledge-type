@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2499,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2499.png",
+    "question": "How many cases did Lombardy have?",
+    "label": [
+        "841961"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1300,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1300.png",
+    "question": "What was the female to male ratio in tertiary education in Malaysia in 2008?",
+    "label": [
+        "1.33"
+    ]
+}

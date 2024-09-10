@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4475,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4475.png",
+    "question": "Who is the Contact Person ?",
+    "label": [
+        "David Moore"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 143802,
+    "caption": "a living room filled with furniture and a couch",
+    "object_tags": [
+        "black and white",
+        "floor",
+        "table",
+        "indoor",
+        "coffee table",
+        "couch",
+        "chair",
+        "room",
+        "suitcase",
+        "interior design",
+        "monochrome",
+        "furniture"
+    ]
+}

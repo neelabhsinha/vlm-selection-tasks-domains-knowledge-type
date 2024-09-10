@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 583,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_583.png",
+    "question": "What object is missing that has a yellow cable on the shelf of the cabinet on the wall?",
+    "label": "['tv', 'dvd player', 'ethernet cord', 'phone', 'printer', 'charger', 'monitor', 'television', 'tv', 'mouse']",
+    "choices": [
+        "record player",
+        "fish tank",
+        "microwave",
+        "tv"
+    ],
+    "correct_choice": "tv"
+}

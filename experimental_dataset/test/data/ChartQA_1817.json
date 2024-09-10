@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1817,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1817.png",
+    "question": "What was the weighted average price of diamonds at the Diavik mine?",
+    "label": [
+        "109"
+    ]
+}

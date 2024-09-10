@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2138,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2138.png",
+    "question": "What country is this?",
+    "label": [
+        "united state",
+        "united state",
+        "united state",
+        "united state",
+        "japan",
+        "japan",
+        "spain",
+        "spain",
+        "america",
+        "america"
+    ]
+}

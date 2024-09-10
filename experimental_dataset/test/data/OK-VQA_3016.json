@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3016,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3016.png",
+    "question": "The signs hanging between the buildings in the photo have what language on them?",
+    "label": [
+        "chinese",
+        "chinese",
+        "chinese",
+        "chinese",
+        "chinese",
+        "chinese",
+        "chinese",
+        "chinese",
+        "chinese",
+        "chinese"
+    ]
+}

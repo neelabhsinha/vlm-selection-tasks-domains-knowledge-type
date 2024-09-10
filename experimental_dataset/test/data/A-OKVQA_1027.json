@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1027,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1027.png",
+    "question": "In which city does this bus travel?",
+    "label": "['san francisco', 'san francisco', 'san francisco', 'san francisco', 'castro', 'san francisco', 'california', 'san francisco', 'san francisco', 'stanyan']",
+    "choices": [
+        "ankorage",
+        "boston",
+        "arkansas",
+        "san francisco"
+    ],
+    "correct_choice": "san francisco"
+}

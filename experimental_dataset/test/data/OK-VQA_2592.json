@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2592,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2592.png",
+    "question": "What model is the car?",
+    "label": [
+        "ford",
+        "ford",
+        "ford",
+        "ford",
+        "ram",
+        "ram",
+        "dodge",
+        "dodge",
+        "dodge ram srt 10",
+        "dodge ram srt 10"
+    ]
+}

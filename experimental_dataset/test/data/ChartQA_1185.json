@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1185,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1185.png",
+    "question": "What is the sum other than yes?",
+    "label": [
+        "23"
+    ]
+}

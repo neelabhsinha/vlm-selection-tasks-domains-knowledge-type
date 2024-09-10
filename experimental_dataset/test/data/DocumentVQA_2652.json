@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2652,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2652.png",
+    "question": "Who is directly coming under Executive Director?",
+    "label": [
+        "DIRECTOR OFFICE OF BIOMEDICAL STUDIES",
+        "Director Office of Biomedical studies"
+    ]
+}

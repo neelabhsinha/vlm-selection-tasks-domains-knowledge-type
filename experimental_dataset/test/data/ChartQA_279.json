@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 279,
+    "image_path": "./experimental_dataset/test/images/ChartQA_279.png",
+    "question": "Find out the average of the bottom two air pollutants??",
+    "label": [
+        "32.115"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1101,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1101.png",
+    "question": "What is the dog doing with the bovines here?",
+    "label": "['playing', 'dog', 'herding', 'barking', 'herding', 'dog safe', 'cow', 'dog playing', 'see cows', 'guarding']",
+    "choices": [
+        "eating them",
+        "herding",
+        "biting ears",
+        "fleeing"
+    ],
+    "correct_choice": "herding"
+}

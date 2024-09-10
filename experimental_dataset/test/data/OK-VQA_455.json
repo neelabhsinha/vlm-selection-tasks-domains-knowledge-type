@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 455,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_455.png",
+    "question": "What is the tallest one of these that has even been surfed on?",
+    "label": [
+        "78 feet",
+        "78 feet",
+        "78 feet",
+        "78 feet",
+        "42 feet",
+        "42 feet",
+        "wave",
+        "wave",
+        "8 foot",
+        "8 foot"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4312,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4312.png",
+    "question": "What is the name of the store ?",
+    "label": [
+        "Pathmark Stores Inc."
+    ]
+}

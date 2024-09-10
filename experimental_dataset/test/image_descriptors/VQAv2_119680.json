@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 119680,
+    "caption": "a woman holding a pair of scissors in a kitchen",
+    "object_tags": [
+        "person",
+        "wall",
+        "indoor",
+        "clothing",
+        "footwear",
+        "furniture",
+        "cleanliness",
+        "human face",
+        "smile",
+        "table",
+        "whiteboard",
+        "desk",
+        "joint",
+        "floor",
+        "holding",
+        "woman"
+    ]
+}

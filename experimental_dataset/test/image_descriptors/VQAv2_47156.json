@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 47156,
+    "caption": "a red truck driving down a street next to a street light",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "land vehicle",
+        "wheel",
+        "road",
+        "car",
+        "tree",
+        "transport",
+        "auto part",
+        "public utility",
+        "motor vehicle",
+        "windshield",
+        "tire",
+        "mode of transport",
+        "road surface",
+        "overhead power line",
+        "cloud",
+        "street",
+        "red",
+        "driving",
+        "light",
+        "truck",
+        "intersection",
+        "vehicle",
+        "traffic"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 181785,
+    "caption": "a man in a suit and tie posing for a picture",
+    "object_tags": [
+        "human face",
+        "person",
+        "necktie",
+        "clothing",
+        "smile",
+        "forehead",
+        "tie",
+        "eyebrow",
+        "chin",
+        "portrait",
+        "collar",
+        "formal wear",
+        "suit",
+        "man",
+        "purple",
+        "lip",
+        "neck",
+        "gentleman",
+        "dress shirt",
+        "cheek",
+        "wearing",
+        "wall",
+        "indoor",
+        "hair",
+        "headshot"
+    ]
+}

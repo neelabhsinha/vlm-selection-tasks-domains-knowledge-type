@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4823,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4823.png",
+    "question": "Who is the author of the publication?",
+    "label": [
+        "alice henderson smith",
+        "Alice Henderson Smith"
+    ]
+}

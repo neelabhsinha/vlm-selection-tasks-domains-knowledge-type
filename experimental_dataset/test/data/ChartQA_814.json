@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 814,
+    "image_path": "./experimental_dataset/test/images/ChartQA_814.png",
+    "question": "How many products are diversified?",
+    "label": [
+        "5"
+    ]
+}

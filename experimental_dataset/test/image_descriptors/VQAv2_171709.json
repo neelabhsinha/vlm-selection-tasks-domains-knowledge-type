@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 171709,
+    "caption": "a plate of food with a sandwich on it",
+    "object_tags": [
+        "food",
+        "dish",
+        "plate",
+        "fast food",
+        "table",
+        "indoor",
+        "meal",
+        "cuisine",
+        "breakfast",
+        "cup"
+    ]
+}

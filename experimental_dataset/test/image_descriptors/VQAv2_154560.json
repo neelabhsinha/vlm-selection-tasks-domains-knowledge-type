@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 154560,
+    "caption": "a man riding a snowboard down a snow covered slope",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "person",
+        "footwear",
+        "tree",
+        "clothing",
+        "winter",
+        "outdoor recreation",
+        "ski",
+        "snowboarding",
+        "winter sport",
+        "piste",
+        "ski resort",
+        "freezing",
+        "snowshoe",
+        "recreation",
+        "sports equipment",
+        "snowboard",
+        "mountain",
+        "hiking equipment",
+        "glacial landform",
+        "ski pole",
+        "slope",
+        "skiing"
+    ]
+}

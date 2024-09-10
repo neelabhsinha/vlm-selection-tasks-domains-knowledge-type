@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 686,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_686.png",
+    "question": "What kind of beverage is the red sign advertising?",
+    "label": "['drink', 'coca cola', 'coca cola', 'coca cola', 'coke', 'coca cola', 'coca cola', 'soda', 'coco cola', 'coca cola']",
+    "choices": [
+        "juice",
+        "alcohol",
+        "soda",
+        "water"
+    ],
+    "correct_choice": "soda"
+}

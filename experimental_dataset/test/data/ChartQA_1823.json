@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1823,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1823.png",
+    "question": "What was the value of in-store merchandise sales in 2019?",
+    "label": [
+        "195.5"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 719,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_719.png",
+    "question": "What category does the food fall into that the girls are eating?",
+    "label": "['donut', 'pastry', 'junk', 'sweets', 'donut', 'pastry', 'pastry', 'dessert', 'sweets', 'good dessert']",
+    "choices": [
+        "vegetable",
+        "pastry",
+        "meat",
+        "fruit"
+    ],
+    "correct_choice": "pastry"
+}

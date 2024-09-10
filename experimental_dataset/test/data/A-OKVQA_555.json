@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 555,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_555.png",
+    "question": "What is the most likely reason for reflection on the runway?",
+    "label": "['heat', 'water', 'hot surface', 'heat', 'water', 'find it', 'aeroplane flying', 'glare', 'exhaust', 'water']",
+    "choices": [
+        "heat",
+        "cold",
+        "gas leak",
+        "water"
+    ],
+    "correct_choice": "water"
+}

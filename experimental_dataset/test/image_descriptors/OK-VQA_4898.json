@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4898,
+    "caption": "a man and a woman holding nintendo wii game controllers",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "human face",
+        "wall",
+        "man",
+        "jeans",
+        "computer",
+        "smile",
+        "controller",
+        "people",
+        "game",
+        "room",
+        "standing",
+        "group",
+        "holding",
+        "young",
+        "remote"
+    ]
+}

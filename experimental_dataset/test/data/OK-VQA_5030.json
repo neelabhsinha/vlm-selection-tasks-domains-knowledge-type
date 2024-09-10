@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5030,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5030.png",
+    "question": "A person who only eats these is called what?",
+    "label": [
+        "vegetarian",
+        "vegetarian",
+        "vegetarian",
+        "vegetarian",
+        "vegetarian",
+        "vegetarian",
+        "vegitarian",
+        "vegitarian",
+        "vegan",
+        "vegan"
+    ]
+}

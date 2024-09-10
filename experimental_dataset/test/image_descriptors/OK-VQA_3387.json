@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3387,
+    "caption": "two black bears are playing with each other",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "fence",
+        "zoo",
+        "outdoor",
+        "terrestrial animal",
+        "snout",
+        "bear",
+        "fur",
+        "black bear",
+        "sun bear",
+        "animal shelter",
+        "black",
+        "dog",
+        "enclosure"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4544,
+    "caption": "a woman pouring some liquid into a blender",
+    "object_tags": [
+        "person",
+        "indoor",
+        "wall",
+        "kitchen appliance",
+        "home appliance",
+        "small appliance",
+        "kitchen",
+        "woman",
+        "blender",
+        "appliance"
+    ]
+}

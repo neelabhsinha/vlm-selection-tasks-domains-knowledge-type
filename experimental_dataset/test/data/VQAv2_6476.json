@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 6476,
+    "image_path": "./experimental_dataset/test/images/VQAv2_6476.png",
+    "question": "Is the train old?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

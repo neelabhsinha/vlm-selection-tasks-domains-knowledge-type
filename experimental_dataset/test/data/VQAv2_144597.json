@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 144597,
+    "image_path": "./experimental_dataset/test/images/VQAv2_144597.png",
+    "question": "What color is the hair?",
+    "label": [
+        "orange",
+        "no hair",
+        "not possible",
+        "red",
+        "no color",
+        "no hair",
+        "red",
+        "red",
+        "brown",
+        "red"
+    ]
+}

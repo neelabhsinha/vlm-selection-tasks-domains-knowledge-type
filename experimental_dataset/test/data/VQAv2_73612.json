@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 73612,
+    "image_path": "./experimental_dataset/test/images/VQAv2_73612.png",
+    "question": "Does this sport have an Umpire?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "yes"
+    ]
+}

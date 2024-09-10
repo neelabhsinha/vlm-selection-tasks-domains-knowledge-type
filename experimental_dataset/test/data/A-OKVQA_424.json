@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 424,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_424.png",
+    "question": "What is the healthiest ingredient on the pizza?",
+    "label": "['tomato sauce', 'olive', 'chicken', 'mushrooms', 'tomato sauce', 'mushroom', 'tomato', 'mushrooms', 'mushroom', 'mushroom']",
+    "choices": [
+        "crust",
+        "sauce",
+        "cheese",
+        "mushroom"
+    ],
+    "correct_choice": "mushroom"
+}

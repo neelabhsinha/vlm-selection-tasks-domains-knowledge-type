@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 82746,
+    "image_path": "./experimental_dataset/test/images/VQAv2_82746.png",
+    "question": "Has someone been drinking coffee?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

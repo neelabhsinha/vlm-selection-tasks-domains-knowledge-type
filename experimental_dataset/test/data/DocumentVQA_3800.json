@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3800,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3800.png",
+    "question": "How many top investors are invited?",
+    "label": [
+        "25"
+    ]
+}

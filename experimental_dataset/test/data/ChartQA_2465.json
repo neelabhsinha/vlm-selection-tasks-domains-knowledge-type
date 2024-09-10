@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2465,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2465.png",
+    "question": "What was the average increase in online traffic in the UK from 2015 to 2016?",
+    "label": [
+        "28.7"
+    ]
+}

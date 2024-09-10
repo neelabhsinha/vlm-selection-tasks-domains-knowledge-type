@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2271,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2271.png",
+    "question": "What is the third line of the address?",
+    "label": [
+        "500 S. Kingshighway"
+    ]
+}

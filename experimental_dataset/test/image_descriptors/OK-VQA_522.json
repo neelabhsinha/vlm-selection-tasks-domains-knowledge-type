@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 522,
+    "caption": "a flock of seagulls on a beach near the ocean",
+    "object_tags": [
+        "outdoor",
+        "aquatic bird",
+        "animal",
+        "bird",
+        "sky",
+        "water",
+        "beach",
+        "rock",
+        "seabird",
+        "coastal and oceanic landforms",
+        "ground",
+        "flock",
+        "group",
+        "ocean",
+        "sea gull"
+    ]
+}

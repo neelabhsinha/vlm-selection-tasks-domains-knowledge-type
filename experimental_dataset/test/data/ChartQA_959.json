@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 959,
+    "image_path": "./experimental_dataset/test/images/ChartQA_959.png",
+    "question": "What is the sum of highest value and lowest value of navy blue bar?",
+    "label": [
+        "2372.1"
+    ]
+}

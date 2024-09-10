@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 274,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_274.png",
+    "question": "What is the man on TV doing?",
+    "label": "['singing', 'singing', 'singing', 'singing', 'singing', 'singing', 'singing', 'singing', 'singing', 'singing']",
+    "choices": [
+        "playing basketball",
+        "singing",
+        "surfing",
+        "boxing"
+    ],
+    "correct_choice": "singing"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4327,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4327.png",
+    "question": "How do you get that many trophies?",
+    "label": [
+        "win",
+        "win",
+        "win",
+        "win",
+        "skill",
+        "skill",
+        "win",
+        "win",
+        "buy them",
+        "buy them"
+    ]
+}

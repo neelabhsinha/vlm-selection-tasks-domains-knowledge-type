@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2221,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2221.png",
+    "question": "Who is the staff representative from AHA?",
+    "label": [
+        "EDGAR A. VOVSI",
+        "Edgar A. Vovsi"
+    ]
+}

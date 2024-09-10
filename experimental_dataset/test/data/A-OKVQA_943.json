@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 943,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_943.png",
+    "question": "What type of animals are the kites representing?",
+    "label": "['seahorses', 'seahorses', 'seahorses', 'seahorses', 'dragons', 'seahorses', 'seahorses', 'seahorses', 'seahorses', 'seahorses']",
+    "choices": [
+        "dragons",
+        "cats",
+        "frogs",
+        "dogs"
+    ],
+    "correct_choice": "dragons"
+}

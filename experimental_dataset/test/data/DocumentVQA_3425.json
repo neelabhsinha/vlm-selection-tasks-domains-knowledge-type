@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3425,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3425.png",
+    "question": "Where was the voucher prepared?",
+    "label": [
+        "St. Louis, Missouri"
+    ]
+}

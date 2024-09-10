@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3407,
+    "caption": "a duck standing on top of a body of water",
+    "object_tags": [
+        "animal",
+        "bird",
+        "aquatic bird",
+        "goose",
+        "outdoor",
+        "water bird",
+        "beak",
+        "canada goose",
+        "wildlife",
+        "geese and swans",
+        "ducks, geese and swans",
+        "duck",
+        "water",
+        "grass",
+        "standing",
+        "pond",
+        "lake"
+    ]
+}

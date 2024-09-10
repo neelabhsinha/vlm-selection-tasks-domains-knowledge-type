@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 59825,
+    "image_path": "./experimental_dataset/test/images/VQAv2_59825.png",
+    "question": "Are there other people in this room?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no"
+    ]
+}

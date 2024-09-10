@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 204,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_204.png",
+    "question": "What super hero is the cake based off?",
+    "label": "['spiderman', 'spiderman', 'spiderman', 'spiderman', 'superman', 'spiderman', 'spiderman', 'spiderman', 'spiderman', 'spiderman']",
+    "choices": [
+        "spiderman",
+        "batman",
+        "iron man",
+        "superman"
+    ],
+    "correct_choice": "spiderman"
+}

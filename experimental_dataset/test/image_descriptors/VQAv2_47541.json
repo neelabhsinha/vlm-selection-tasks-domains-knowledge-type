@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 47541,
+    "caption": "a black and white dog playing with a frisbee",
+    "object_tags": [
+        "indoor",
+        "pet",
+        "black",
+        "floor",
+        "person",
+        "dog",
+        "cat"
+    ]
+}

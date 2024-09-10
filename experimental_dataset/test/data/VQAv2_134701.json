@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 134701,
+    "image_path": "./experimental_dataset/test/images/VQAv2_134701.png",
+    "question": "Are the person's fingernails clean?",
+    "label": [
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no"
+    ]
+}

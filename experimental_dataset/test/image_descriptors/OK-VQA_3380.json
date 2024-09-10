@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3380,
+    "caption": "a man eating a sandwich on a city street",
+    "object_tags": [
+        "clothing",
+        "person",
+        "black and white",
+        "human face",
+        "man",
+        "outdoor",
+        "building",
+        "monochrome",
+        "footwear",
+        "street",
+        "people"
+    ]
+}

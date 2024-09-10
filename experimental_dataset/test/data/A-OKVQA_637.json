@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 637,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_637.png",
+    "question": "Where is the pie most likely shown?",
+    "label": "['restaurant', 'pizzeria', 'front entrance', 'supreme', 'restaurant', 'restaurant', 'pizzeria', 'pizza restaurant', 'pizza restaurant', 'restaurant']",
+    "choices": [
+        "cafeteria",
+        "restaurant",
+        "kitchen",
+        "home"
+    ],
+    "correct_choice": "restaurant"
+}

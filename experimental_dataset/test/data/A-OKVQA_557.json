@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 557,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_557.png",
+    "question": "What animal is a close relative of zebras?",
+    "label": "['horse', 'horse', 'horse', 'horses', 'horse', 'horses', 'horse', 'donkeys', 'horses', 'horse']",
+    "choices": [
+        "bear",
+        "horse",
+        "wolf",
+        "dog"
+    ],
+    "correct_choice": "horse"
+}

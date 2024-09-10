@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 965,
+    "caption": "a man standing next to a train on a track",
+    "object_tags": [
+        "railroad",
+        "steam",
+        "locomotive",
+        "vehicle",
+        "steam engine",
+        "railway",
+        "rolling stock",
+        "land vehicle",
+        "train",
+        "transport",
+        "track",
+        "ground",
+        "platform",
+        "person",
+        "outdoor",
+        "engine",
+        "indoor",
+        "people"
+    ]
+}

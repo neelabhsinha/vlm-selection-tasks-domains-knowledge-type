@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 376,
+    "caption": "two men on horseback in front of a crowd of spectators",
+    "object_tags": [
+        "ground",
+        "horse",
+        "helmet",
+        "person",
+        "rein",
+        "people",
+        "outdoor",
+        "time",
+        "knight"
+    ]
+}

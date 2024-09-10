@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 294,
+    "caption": "a black and white cat sitting on the hood of a white truck",
+    "object_tags": [
+        "tire",
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "outdoor",
+        "auto part",
+        "motor vehicle",
+        "vehicle door",
+        "automotive exterior",
+        "truck",
+        "fender",
+        "pickup truck",
+        "windshield",
+        "automotive carrying rack",
+        "automotive tire",
+        "automotive luggage rack",
+        "parked",
+        "car"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 1213,
+    "caption": "a collage of images of a blue sky and a blue sky",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "software",
+        "diagram",
+        "rectangle",
+        "computer icon",
+        "operating system"
+    ]
+}

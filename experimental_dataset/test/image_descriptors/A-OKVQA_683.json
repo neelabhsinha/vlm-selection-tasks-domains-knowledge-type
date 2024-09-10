@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 683,
+    "caption": "a bathroom with a sink, toilet and bathtub",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "scene",
+        "plumbing fixture",
+        "tap",
+        "room",
+        "floor",
+        "countertop",
+        "bathroom accessory",
+        "bathtub",
+        "cabinetry",
+        "shower",
+        "interior design",
+        "plumbing",
+        "restroom",
+        "bathroom cabinet",
+        "ceiling",
+        "sink",
+        "bathroom",
+        "white",
+        "tile",
+        "tub"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 170794,
+    "image_path": "./experimental_dataset/test/images/VQAv2_170794.png",
+    "question": "Are these wild flowers?",
+    "label": [
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes"
+    ]
+}

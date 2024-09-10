@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 834,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_834.png",
+    "question": "What type of stroke is being used?",
+    "label": "['backhand', 'return', 'backhand', 'backhand', 'backhand', 'backhand', 'backhand', 'return', 'forehand', 'backhand']",
+    "choices": [
+        "breast",
+        "side",
+        "backhand",
+        "forehand"
+    ],
+    "correct_choice": "forehand"
+}

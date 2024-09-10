@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4150,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4150.png",
+    "question": "Name the type dress material which is used to make this coat suits?",
+    "label": [
+        "polyester",
+        "polyester",
+        "polyester",
+        "polyester",
+        "cotton",
+        "cotton",
+        "suit",
+        "suit",
+        "silk",
+        "silk"
+    ]
+}

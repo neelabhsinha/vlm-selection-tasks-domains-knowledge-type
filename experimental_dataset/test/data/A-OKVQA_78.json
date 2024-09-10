@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 78,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_78.png",
+    "question": "What is the man in the gray suit on the left looking down to check?",
+    "label": "['phone', 'phone', 'phone', 'cellphone', 'phone', 'cellphone', 'phone', 'phone', 'cellphone', 'phone']",
+    "choices": [
+        "phone",
+        "tablet",
+        "notebook",
+        "pager"
+    ],
+    "correct_choice": "phone"
+}

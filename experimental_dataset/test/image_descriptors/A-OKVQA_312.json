@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 312,
+    "caption": "a black and white cat laying on top of a computer desk",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "small to medium-sized cats",
+        "felidae",
+        "computer monitor",
+        "computer",
+        "cat furniture",
+        "wall",
+        "black",
+        "floor",
+        "cat",
+        "keyboard",
+        "kitten"
+    ]
+}

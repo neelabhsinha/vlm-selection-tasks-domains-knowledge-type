@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1344,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1344.png",
+    "question": "What mammalian genus do the animals in this picture belong to?",
+    "label": [
+        "equine",
+        "equine",
+        "equine",
+        "equine",
+        "horse and zebra",
+        "horse and zebra",
+        "equus",
+        "equus",
+        "zebra",
+        "zebra"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 44723,
+    "image_path": "./experimental_dataset/test/images/VQAv2_44723.png",
+    "question": "What inspires you about this picture?",
+    "label": [
+        "lots of motion",
+        "lighting",
+        "nothing",
+        "lighting",
+        "different",
+        "religious",
+        "spreading light",
+        "it's complex",
+        "nothing",
+        "cross"
+    ]
+}

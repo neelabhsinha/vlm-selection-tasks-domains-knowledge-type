@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3120,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3120.png",
+    "question": "Which is the breakout room for SSA?",
+    "label": [
+        "Plaza 13"
+    ]
+}

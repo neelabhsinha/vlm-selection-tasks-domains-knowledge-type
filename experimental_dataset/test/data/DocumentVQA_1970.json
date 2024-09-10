@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1970,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1970.png",
+    "question": "When was CLAUD T.CARNEY born?",
+    "label": [
+        "1887"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4962,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4962.png",
+    "question": "What meat do we get from this animal when grown?",
+    "label": [
+        "beef",
+        "beef",
+        "beef",
+        "beef",
+        "beef",
+        "beef",
+        "veal",
+        "veal",
+        "steak",
+        "steak"
+    ]
+}

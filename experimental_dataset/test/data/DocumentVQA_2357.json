@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2357,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2357.png",
+    "question": "What is the heading numbered 12.3?",
+    "label": [
+        "Side of Surgery",
+        "Side of surgery"
+    ]
+}

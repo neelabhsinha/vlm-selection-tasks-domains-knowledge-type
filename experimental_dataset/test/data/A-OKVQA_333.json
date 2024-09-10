@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 333,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_333.png",
+    "question": "The thing on the ceiling performs what function?",
+    "label": "['circulates air', 'fan room', 'circulates air', 'cooling', 'cooling', 'circulates air', 'fan', 'active function', 'cools room', 'blowing air']",
+    "choices": [
+        "heating",
+        "cooking",
+        "cleaning",
+        "cooling"
+    ],
+    "correct_choice": "cooling"
+}

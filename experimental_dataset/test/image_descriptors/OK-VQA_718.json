@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 718,
+    "caption": "a cat sitting on top of a flat screen tv",
+    "object_tags": [
+        "cat",
+        "animal",
+        "indoor",
+        "monitor",
+        "display device",
+        "flat panel display",
+        "television set",
+        "wall",
+        "television",
+        "led-backlit lcd display",
+        "output device",
+        "felidae",
+        "small to medium-sized cats",
+        "electronic device",
+        "screen",
+        "sitting",
+        "computer monitor"
+    ]
+}

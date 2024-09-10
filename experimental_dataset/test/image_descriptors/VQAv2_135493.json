@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 135493,
+    "caption": "a snow covered ski slope with skiers and snowboarders",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "nature",
+        "sky",
+        "cloud",
+        "ski slope",
+        "winter",
+        "ski",
+        "skiing",
+        "piste",
+        "ski resort",
+        "glacial landform",
+        "freezing",
+        "mountain",
+        "ice cap",
+        "terrain",
+        "slope",
+        "people",
+        "covered",
+        "person",
+        "clouds",
+        "cloudy"
+    ]
+}

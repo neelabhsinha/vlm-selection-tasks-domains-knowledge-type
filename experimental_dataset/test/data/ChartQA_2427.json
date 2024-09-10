@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2427,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2427.png",
+    "question": "How many people were on antiretroviral therapy in 2019?",
+    "label": [
+        "25.4"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 510,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_510.png",
+    "question": "How many countries has approved the use of saccharin?",
+    "label": [
+        "More than 90 countries"
+    ]
+}

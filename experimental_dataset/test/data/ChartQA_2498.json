@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2498,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2498.png",
+    "question": "Which province had the highest relative incidence of the coronavirus?",
+    "label": [
+        "Autonomous Province of Bolzano"
+    ]
+}

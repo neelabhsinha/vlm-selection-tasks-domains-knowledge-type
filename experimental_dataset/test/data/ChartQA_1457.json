@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1457,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1457.png",
+    "question": "What was the unemployment rate in Sweden in 2018?",
+    "label": [
+        "6.3"
+    ]
+}

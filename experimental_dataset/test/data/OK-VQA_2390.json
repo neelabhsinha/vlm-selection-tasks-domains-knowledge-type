@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2390,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2390.png",
+    "question": "In which city is this baseball team to which the batter belongs based?",
+    "label": [
+        "chicago",
+        "chicago",
+        "chicago",
+        "chicago",
+        "chicago",
+        "chicago",
+        "chicago cub",
+        "chicago cub",
+        "st louis",
+        "st louis"
+    ]
+}

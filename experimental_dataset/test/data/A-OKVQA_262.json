@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 262,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_262.png",
+    "question": "What is the rectangular object in the back left used to do?",
+    "label": "['watch tv', 'television', 'microwave food', 'watch tv', 'microwave food', 'microwave food', 'watching tv', 'watch television', 'watching tv', 'tv']",
+    "choices": [
+        "blend food",
+        "watch tv",
+        "store bread",
+        "cook food"
+    ],
+    "correct_choice": "watch tv"
+}

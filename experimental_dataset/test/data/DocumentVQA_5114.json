@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5114,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5114.png",
+    "question": "How much pepper is needed for the Mayonnaise recipe?",
+    "label": [
+        "1/16 tsp."
+    ]
+}

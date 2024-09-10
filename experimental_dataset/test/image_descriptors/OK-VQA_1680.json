@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1680,
+    "caption": "a pizza sitting on top of a paper plate",
+    "object_tags": [
+        "baked goods",
+        "fast food",
+        "snack",
+        "baking",
+        "dessert",
+        "food",
+        "indoor"
+    ]
+}

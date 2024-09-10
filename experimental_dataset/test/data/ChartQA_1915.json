@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1915,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1915.png",
+    "question": "What percentage of the global horology market did Swatch Group control in 2013?",
+    "label": [
+        "19.4"
+    ]
+}

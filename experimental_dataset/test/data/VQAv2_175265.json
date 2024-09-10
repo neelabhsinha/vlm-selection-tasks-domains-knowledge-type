@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 175265,
+    "image_path": "./experimental_dataset/test/images/VQAv2_175265.png",
+    "question": "Is there cheese on this pizza?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "rtf"
+    ]
+}

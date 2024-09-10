@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 568,
+    "caption": "a bus that is driving down the street",
+    "object_tags": [
+        "land vehicle",
+        "vehicle",
+        "outdoor",
+        "text",
+        "transport",
+        "road",
+        "wheel",
+        "street",
+        "mode of transport",
+        "building",
+        "vehicle registration plate",
+        "car",
+        "traffic",
+        "taxi",
+        "bus",
+        "city",
+        "driving"
+    ]
+}

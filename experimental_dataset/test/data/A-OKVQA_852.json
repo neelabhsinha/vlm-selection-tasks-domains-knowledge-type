@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 852,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_852.png",
+    "question": "What are the cats laying next to?",
+    "label": "['remotes', 'remote', 'remote controls', 'remotes', 'remotes', 'remote controls', 'tv remotes', 'remote', 'tv remotes', 'remotes']",
+    "choices": [
+        "magazines",
+        "books",
+        "phones",
+        "remote controls"
+    ],
+    "correct_choice": "remote controls"
+}

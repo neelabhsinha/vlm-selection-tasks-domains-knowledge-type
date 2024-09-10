@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2128,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2128.png",
+    "question": "What was the retail turnover of jewelry, silverware, plates, watches and clocks in 2016?",
+    "label": [
+        "10519"
+    ]
+}

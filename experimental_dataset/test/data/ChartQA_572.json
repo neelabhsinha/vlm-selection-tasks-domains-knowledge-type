@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 572,
+    "image_path": "./experimental_dataset/test/images/ChartQA_572.png",
+    "question": "Which place show less then 24 BMI?",
+    "label": [
+        "Benin"
+    ]
+}

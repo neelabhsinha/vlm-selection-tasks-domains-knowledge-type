@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1813,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1813.png",
+    "question": "How many objectives are mentioned?",
+    "label": [
+        "5.",
+        "5"
+    ]
+}

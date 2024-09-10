@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3855,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3855.png",
+    "question": "Which person has the highest number of abstract numbers associated with him ?",
+    "label": [
+        "Al-Adil, K.M",
+        "al-adil, k.m."
+    ]
+}

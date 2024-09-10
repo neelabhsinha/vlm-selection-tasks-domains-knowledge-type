@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 935,
+    "image_path": "./experimental_dataset/test/images/ChartQA_935.png",
+    "question": "What is the sum of maximum number of companies in domestic and total market?",
+    "label": [
+        "66"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1069,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1069.png",
+    "question": "Where are the men in the back directing the animals to?",
+    "label": "['pens', 'pen', 'gates', 'captivity', 'fence', 'pens', 'pasture', 'corral', 'pen', 'right']",
+    "choices": [
+        "water",
+        "captivity",
+        "slaughter",
+        "freedom"
+    ],
+    "correct_choice": "captivity"
+}

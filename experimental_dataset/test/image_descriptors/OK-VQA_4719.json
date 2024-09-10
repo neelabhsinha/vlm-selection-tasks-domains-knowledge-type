@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4719,
+    "caption": "a cluttered desk with many items on it",
+    "object_tags": [
+        "book",
+        "text",
+        "indoor",
+        "furniture",
+        "luggage and bags",
+        "plastic",
+        "desk",
+        "table",
+        "items",
+        "bag",
+        "case",
+        "various"
+    ]
+}

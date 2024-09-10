@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 10233,
+    "caption": "a cluttered desk with a laptop, cell phone, and other items",
+    "object_tags": [
+        "text",
+        "indoor",
+        "office supplies",
+        "computer",
+        "receipt",
+        "accessory",
+        "office equipment",
+        "laptop",
+        "everyday carry",
+        "pen",
+        "case",
+        "table",
+        "items",
+        "floor",
+        "bag",
+        "desk"
+    ]
+}

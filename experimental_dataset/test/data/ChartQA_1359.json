@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1359,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1359.png",
+    "question": "What was Sudan's female population in 2019?",
+    "label": [
+        "21.43"
+    ]
+}

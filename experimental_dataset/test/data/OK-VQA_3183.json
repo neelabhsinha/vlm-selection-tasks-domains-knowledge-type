@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3183,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3183.png",
+    "question": "What type of board is this person waterskiing on?",
+    "label": [
+        "surf",
+        "surf",
+        "surf",
+        "surf",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "wakeboard",
+        "wakeboard"
+    ]
+}

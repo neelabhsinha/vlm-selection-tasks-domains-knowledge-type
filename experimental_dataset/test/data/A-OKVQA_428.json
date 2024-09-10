@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 428,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_428.png",
+    "question": "Where are the trucks headed to?",
+    "label": "['market', 'market', 'market', 'market', 'market', 'market', 'market', 'market', 'market', 'market']",
+    "choices": [
+        "port",
+        "interstate",
+        "market",
+        "junkyard"
+    ],
+    "correct_choice": "market"
+}

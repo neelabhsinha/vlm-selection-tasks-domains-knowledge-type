@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2542,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2542.png",
+    "question": "What is the cost of living in San Francisco?",
+    "label": [
+        "$1,514",
+        "$1,514."
+    ]
+}

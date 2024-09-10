@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 758,
+    "image_path": "./experimental_dataset/test/images/ChartQA_758.png",
+    "question": "In which year the line graph saw its highest peak?",
+    "label": [
+        "2019"
+    ]
+}

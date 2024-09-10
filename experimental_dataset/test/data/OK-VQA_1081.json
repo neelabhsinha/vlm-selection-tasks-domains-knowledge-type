@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1081,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1081.png",
+    "question": "What is the triangular green colored device used for?",
+    "label": [
+        "reflex",
+        "reflex",
+        "reflex",
+        "reflex",
+        "remove wallpaper",
+        "remove wallpaper",
+        "check reflex",
+        "check reflex",
+        "reflex test",
+        "reflex test"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 696,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_696.png",
+    "question": "Does this food taste salty sweet sour or bitter?",
+    "label": [
+        "sweet",
+        "sweet",
+        "sweet",
+        "sweet",
+        "sweet",
+        "sweet",
+        "sweet",
+        "sweet",
+        "sweet",
+        "sweet"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4009,
+    "caption": "a crowd of people walking down a city street",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "man",
+        "jeans",
+        "woman",
+        "people",
+        "building",
+        "group",
+        "trousers",
+        "street",
+        "billboard",
+        "pedestrian",
+        "walking",
+        "standing",
+        "outdoor",
+        "ground",
+        "crowd",
+        "crowded",
+        "sign",
+        "waiting"
+    ]
+}

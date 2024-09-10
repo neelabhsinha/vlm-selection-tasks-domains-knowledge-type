@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 106,
+    "caption": "a crowd of people standing on top of a beach",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "people",
+        "surfing",
+        "sky",
+        "surfboard",
+        "ground",
+        "recreation",
+        "group",
+        "tree",
+        "beach",
+        "clothing",
+        "vacation",
+        "tourism",
+        "shorts",
+        "standing"
+    ]
+}

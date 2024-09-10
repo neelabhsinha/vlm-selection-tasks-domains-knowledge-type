@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 75110,
+    "image_path": "./experimental_dataset/test/images/VQAv2_75110.png",
+    "question": "Does this man look happy?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

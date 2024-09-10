@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2634,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2634.png",
+    "question": "To secure this two wheeled conveyance seen here on the street what sort of metal item is needed?",
+    "label": [
+        "lock",
+        "lock",
+        "lock",
+        "lock",
+        "lock",
+        "lock",
+        "chain",
+        "chain",
+        "metal chain",
+        "metal chain"
+    ]
+}

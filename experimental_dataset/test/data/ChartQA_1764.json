@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1764,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1764.png",
+    "question": "What was the value of merchandise exported to Mexico from the U.S. in 2019?",
+    "label": [
+        "767.16"
+    ]
+}

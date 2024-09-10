@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2976,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2976.png",
+    "question": "What is name of company?",
+    "label": [
+        "SWANSON CENTER FOR NUTRITION, INC.",
+        "Swanson Center for Nutrition, INC."
+    ]
+}

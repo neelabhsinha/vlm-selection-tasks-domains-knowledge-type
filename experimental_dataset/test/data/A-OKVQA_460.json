@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 460,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_460.png",
+    "question": "How many people are visible in the water?",
+    "label": "['two', 'two', 'two', 'two', 'two', 'sea', 'three', 'four', 'two', 'four']",
+    "choices": [
+        "five",
+        "six",
+        "two",
+        "seven"
+    ],
+    "correct_choice": "two"
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 680,
+    "caption": "a man is holding a baseball bat on a baseball field",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "ground",
+        "sports equipment",
+        "footwear",
+        "wheel",
+        "baseball",
+        "playground",
+        "man",
+        "bicycle",
+        "grass"
+    ]
+}

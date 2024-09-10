@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 297,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_297.png",
+    "question": "Can you guess the ingredients used to make this dish?",
+    "label": [
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "bread tomato cheese",
+        "bread tomato cheese",
+        "flour marinara sauce butter",
+        "flour marinara sauce butter",
+        "bread cheese pepperoni pizza sauce",
+        "bread cheese pepperoni pizza sauce"
+    ]
+}

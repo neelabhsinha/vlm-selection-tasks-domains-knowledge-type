@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 147745,
+    "image_path": "./experimental_dataset/test/images/VQAv2_147745.png",
+    "question": "What is the airlines whose planes are sitting at the gates?",
+    "label": [
+        "sas",
+        "sas",
+        "sas",
+        "sas",
+        "sas",
+        "sas",
+        "southern",
+        "sas",
+        "sas",
+        "sas"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 16722,
+    "image_path": "./experimental_dataset/test/images/VQAv2_16722.png",
+    "question": "Is the audience excited?",
+    "label": [
+        "yes",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

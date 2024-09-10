@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1212,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1212.png",
+    "question": "Which category is increased in 5 years compared to Today ?",
+    "label": [
+        "Other medical device"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 478,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_478.png",
+    "question": "What type of company has an ad at the court?",
+    "label": "['continent airlines', 'continent airlines', 'airline', 'airlines', 'airlines', 'continental airlines', 'travel', 'continental airlines', 'continental airlines', 'continental airlines']",
+    "choices": [
+        "clothing",
+        "travel",
+        "health",
+        "food"
+    ],
+    "correct_choice": "travel"
+}

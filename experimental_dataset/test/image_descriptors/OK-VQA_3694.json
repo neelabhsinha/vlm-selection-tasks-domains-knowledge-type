@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3694,
+    "caption": "a tennis racket on a tennis court",
+    "object_tags": [
+        "sport",
+        "sports equipment",
+        "athletic game",
+        "racket",
+        "tennis ball",
+        "racquet sport",
+        "tennis equipment",
+        "ball",
+        "tennis racket",
+        "soft tennis",
+        "racketlon",
+        "strings",
+        "tennis player",
+        "rackets",
+        "tennis court",
+        "ball game",
+        "tennis",
+        "outdoor",
+        "ground",
+        "court",
+        "player",
+        "hitting"
+    ]
+}

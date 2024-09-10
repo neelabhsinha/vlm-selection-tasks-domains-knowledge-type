@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3390,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3390.png",
+    "question": "What is the technical name for the cloud type in the sky?",
+    "label": [
+        "cumulus",
+        "cumulus",
+        "cumulus",
+        "cumulus",
+        "cumulus",
+        "cumulus",
+        "cumulonimbus",
+        "cumulonimbus",
+        "nimbus",
+        "nimbus"
+    ]
+}

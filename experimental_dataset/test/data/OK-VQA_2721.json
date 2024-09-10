@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2721,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2721.png",
+    "question": "Where can you buy this type of furniture?",
+    "label": [
+        "furniture store",
+        "furniture store",
+        "furniture store",
+        "furniture store",
+        "store",
+        "store",
+        "store",
+        "store",
+        "ikea",
+        "ikea"
+    ]
+}

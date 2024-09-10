@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 90138,
+    "image_path": "./experimental_dataset/test/images/VQAv2_90138.png",
+    "question": "Who uses this bathroom?",
+    "label": [
+        "someone disabled",
+        "handicapped",
+        "patient",
+        "handicapped person",
+        "disabled",
+        "old person",
+        "patient",
+        "handicapped person",
+        "handicap person",
+        "disabled person"
+    ]
+}

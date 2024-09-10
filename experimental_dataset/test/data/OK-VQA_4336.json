@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4336,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4336.png",
+    "question": "Is this device for indoor or outdoor use?",
+    "label": [
+        "indoor",
+        "indoor",
+        "indoor",
+        "indoor",
+        "indoor",
+        "indoor",
+        "indoor",
+        "indoor",
+        "indoor",
+        "indoor"
+    ]
+}

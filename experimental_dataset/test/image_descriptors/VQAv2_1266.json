@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 1266,
+    "caption": "a snowboarder is in the middle of a jump",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "person",
+        "winter",
+        "freezing",
+        "blizzard",
+        "covered",
+        "ground",
+        "shovel"
+    ]
+}

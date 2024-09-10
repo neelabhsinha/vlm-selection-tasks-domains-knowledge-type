@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 224,
+    "caption": "a park bench in a park with people walking around",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "clothing",
+        "footwear",
+        "person",
+        "park",
+        "man",
+        "bench",
+        "outdoor bench",
+        "building",
+        "playground",
+        "public space",
+        "furniture",
+        "street furniture",
+        "shade",
+        "ground",
+        "table-tennis table",
+        "street",
+        "people",
+        "standing"
+    ]
+}

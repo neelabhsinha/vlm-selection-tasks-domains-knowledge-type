@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4041,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4041.png",
+    "question": "What pattern is the bedcover?",
+    "label": [
+        "geometric",
+        "geometric",
+        "geometric",
+        "geometric",
+        "wave",
+        "wave",
+        "diamond",
+        "diamond",
+        "triangle",
+        "triangle"
+    ]
+}

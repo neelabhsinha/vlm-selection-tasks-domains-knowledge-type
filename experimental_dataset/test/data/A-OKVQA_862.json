@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 862,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_862.png",
+    "question": "Where is the food being prepared?",
+    "label": "['grill', 'pizza', 'pizza', 'grill', 'grill', 'grill', 'grill', 'pizza', 'pizza', 'grill']",
+    "choices": [
+        "stove",
+        "oven",
+        "grill",
+        "fireplace"
+    ],
+    "correct_choice": "grill"
+}

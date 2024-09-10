@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2540,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Knowledge Base",
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge"
+    ]
+}

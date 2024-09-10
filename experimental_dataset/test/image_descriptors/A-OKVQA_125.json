@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 125,
+    "caption": "a white plate topped with a sandwich and vegetables",
+    "object_tags": [
+        "food",
+        "indoor",
+        "plate",
+        "fast food",
+        "meal",
+        "table",
+        "cuisine",
+        "a la carte food",
+        "culinary art",
+        "carrot",
+        "garnish",
+        "ingredient",
+        "vegetable",
+        "white",
+        "restaurant",
+        "dish",
+        "meat"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 117,
+    "caption": "two people are riding a bike on the street",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "outdoor",
+        "vehicle",
+        "building",
+        "tire",
+        "road",
+        "bicycle",
+        "bicycle wheel",
+        "car",
+        "transport",
+        "street",
+        "van",
+        "city",
+        "riding",
+        "person",
+        "travel"
+    ]
+}

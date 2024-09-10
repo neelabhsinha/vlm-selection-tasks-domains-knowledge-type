@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2154,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2154.png",
+    "question": "Which type of fruit are there the most of in the bowl?",
+    "label": [
+        "apple",
+        "apple",
+        "apple",
+        "apple",
+        "apple",
+        "apple",
+        "apple",
+        "apple",
+        "apple",
+        "apple"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1795,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1795.png",
+    "question": "What action is this sign associated with?",
+    "label": [
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "drive",
+        "drive"
+    ]
+}

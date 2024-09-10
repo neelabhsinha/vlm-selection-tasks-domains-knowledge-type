@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 144330,
+    "image_path": "./experimental_dataset/test/images/VQAv2_144330.png",
+    "question": "What is the message written on?",
+    "label": [
+        "sign",
+        "sign",
+        "metal sign",
+        "stop",
+        "sign",
+        "signs",
+        "street sign",
+        "sign",
+        "metal sign",
+        "street sign"
+    ]
+}

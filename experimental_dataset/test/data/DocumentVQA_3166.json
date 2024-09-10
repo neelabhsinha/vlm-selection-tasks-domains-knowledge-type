@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3166,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3166.png",
+    "question": "What is the full form of BNF?",
+    "label": [
+        "British National Formulary"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 181,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_181.png",
+    "question": "How do these people know each other?",
+    "label": "['school class', 'classmates', 'classmates', 'classmates', 'classmates', 'classmates', 'classmates', 'school chums', 'school', 'classmates']",
+    "choices": [
+        "coworkers",
+        "spouses",
+        "siblings",
+        "classmates"
+    ],
+    "correct_choice": "classmates"
+}

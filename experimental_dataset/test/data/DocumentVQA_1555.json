@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1555,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1555.png",
+    "question": "what is the first date of work as per the stats?",
+    "label": [
+        "10/20"
+    ]
+}

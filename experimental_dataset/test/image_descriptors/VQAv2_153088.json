@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 153088,
+    "caption": "a bowl filled with meat and vegetables on top of a table",
+    "object_tags": [
+        "dish",
+        "cuisine",
+        "food",
+        "plate",
+        "broccoli",
+        "tableware",
+        "indoor",
+        "ingredient",
+        "fork",
+        "table",
+        "curry",
+        "soup",
+        "kitchen utensil",
+        "indian cuisine",
+        "stew",
+        "meat",
+        "bowl",
+        "vegetable",
+        "restaurant",
+        "chicken",
+        "dinner"
+    ]
+}

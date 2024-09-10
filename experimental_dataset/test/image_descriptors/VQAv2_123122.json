@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 123122,
+    "caption": "a man cutting a girl's hair with a pair of scissors",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "wall",
+        "human face",
+        "shop",
+        "barber",
+        "beauty salon",
+        "hairdresser",
+        "chair",
+        "furniture",
+        "haircut",
+        "hair"
+    ]
+}

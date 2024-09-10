@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1330,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1330.png",
+    "question": "What brand of shirt is this man wearing?",
+    "label": [
+        "ralph lauren",
+        "ralph lauren",
+        "ralph lauren",
+        "ralph lauren",
+        "button down",
+        "button down",
+        "it office shirt",
+        "it office shirt",
+        "lacoste",
+        "lacoste"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3300,
+    "caption": "a flock of birds flying over a large ship",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "bird",
+        "watercraft",
+        "transport",
+        "ship",
+        "naval architecture",
+        "flock",
+        "large"
+    ]
+}

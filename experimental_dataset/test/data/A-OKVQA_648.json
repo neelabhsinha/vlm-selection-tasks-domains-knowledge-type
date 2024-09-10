@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 648,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_648.png",
+    "question": "What pattern is the floor?",
+    "label": "['checkered', 'checked boxes', 'checkered', 'checkerboard', 'checkerboard', 'checkboard', 'checkerboard', 'checkered', 'checkerboard', 'checkerboard']",
+    "choices": [
+        "tie dye",
+        "swirl",
+        "checkerboard",
+        "hardwood"
+    ],
+    "correct_choice": "checkerboard"
+}

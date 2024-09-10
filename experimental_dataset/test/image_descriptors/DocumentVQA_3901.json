@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3901,
+    "caption": "a black and white photo of a clock",
+    "object_tags": [
+        "text",
+        "document",
+        "handwriting",
+        "number",
+        "black and white",
+        "parallel",
+        "font"
+    ]
+}

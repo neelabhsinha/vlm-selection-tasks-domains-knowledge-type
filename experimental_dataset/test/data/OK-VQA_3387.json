@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3387,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3387.png",
+    "question": "What breed of bears are these?",
+    "label": [
+        "brown bear",
+        "brown bear",
+        "black bear",
+        "black bear",
+        "black",
+        "black",
+        "black bear",
+        "black bear",
+        "grizzley",
+        "grizzley"
+    ]
+}

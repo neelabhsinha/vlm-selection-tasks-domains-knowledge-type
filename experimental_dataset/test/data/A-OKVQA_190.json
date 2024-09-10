@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 190,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_190.png",
+    "question": "How did the animal on the car arrive there?",
+    "label": "['flew', 'landing', 'flying', 'flew', 'flying', 'flew', 'flying', 'flew', 'flew', 'flew']",
+    "choices": [
+        "horseback",
+        "uber",
+        "greyhound",
+        "flying"
+    ],
+    "correct_choice": "flying"
+}

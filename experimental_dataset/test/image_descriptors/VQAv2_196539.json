@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 196539,
+    "caption": "a black bear standing in the middle of a tree filled forest",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "fall",
+        "autumn",
+        "deciduous",
+        "leaf",
+        "nature"
+    ]
+}

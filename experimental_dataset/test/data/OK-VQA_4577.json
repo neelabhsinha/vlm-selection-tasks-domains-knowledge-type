@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4577,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4577.png",
+    "question": "How many calories does this meal have?",
+    "label": [
+        "700",
+        "700",
+        "700",
+        "700",
+        "1200",
+        "1200",
+        "1000",
+        "1000",
+        "15000",
+        "15000"
+    ]
+}

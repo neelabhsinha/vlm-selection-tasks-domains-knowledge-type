@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 302,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_302.png",
+    "question": "Why is the person using an umbrella?",
+    "label": "['sun', 'sun', 'sun protection', 'sun protection', 'sunlight', 'sunny', 'shade', 'protect rain', 'hot sun', 'block sun']",
+    "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "costume"
+    ],
+    "correct_choice": "sun"
+}

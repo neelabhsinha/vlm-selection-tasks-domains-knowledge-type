@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 69574,
+    "caption": "a police car parked next to a fire hydrant",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "sky",
+        "wheel",
+        "building",
+        "tire",
+        "road",
+        "auto part",
+        "street",
+        "city",
+        "parked",
+        "car",
+        "ground",
+        "sidewalk",
+        "police"
+    ]
+}

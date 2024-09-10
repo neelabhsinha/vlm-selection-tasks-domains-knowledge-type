@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1000,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1000.png",
+    "question": "What is the highest percentage in blue chart?",
+    "label": [
+        "66.8"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4069,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4069.png",
+    "question": "What is the total no. of Blacks in high income group?",
+    "label": [
+        "79"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 913,
+    "caption": "a sandwich and salad on a plate",
+    "object_tags": [
+        "food",
+        "bread",
+        "drink",
+        "fast food",
+        "meal",
+        "brunch",
+        "table",
+        "plate",
+        "cuisine",
+        "baked goods",
+        "dish",
+        "american food",
+        "sliced bread",
+        "toast",
+        "juice",
+        "breakfast",
+        "texas toast",
+        "staple food",
+        "sandwich",
+        "snack food",
+        "indoor",
+        "salad",
+        "lunch",
+        "restaurant"
+    ]
+}

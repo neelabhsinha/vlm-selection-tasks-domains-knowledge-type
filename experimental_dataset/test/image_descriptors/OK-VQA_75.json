@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 75,
+    "caption": "a cat laying on top of a couch",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "cat",
+        "domestic cat",
+        "indoor",
+        "small to medium-sized cats",
+        "felidae",
+        "whiskers",
+        "laying",
+        "sofa",
+        "domestic short-haired cat",
+        "tabby cat",
+        "chair",
+        "floor"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2002,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "History",
+        "Nature"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Geographical Knowledge"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 315,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_315.png",
+    "question": "How many people have skateboards?",
+    "label": "['two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two']",
+    "choices": [
+        "five",
+        "four",
+        "two",
+        "ten"
+    ],
+    "correct_choice": "two"
+}

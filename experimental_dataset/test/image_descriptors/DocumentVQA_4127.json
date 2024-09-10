@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4127,
+    "caption": "a collage of photographs of a man and a dog",
+    "object_tags": [
+        "text",
+        "ink",
+        "paper",
+        "letter",
+        "printing",
+        "document",
+        "black and white"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 227,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_227.png",
+    "question": "Given the position of the bat and ball the batter most likely?",
+    "label": "['got strike', 'hit', 'swinging', 'makes contact', 'struck out', 'missed', 'will hit', 'struck out', 'is lefthanded', 'hit']",
+    "choices": [
+        "missed",
+        "fouled",
+        "popped up",
+        "grounded out"
+    ],
+    "correct_choice": "missed"
+}

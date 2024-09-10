@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 165484,
+    "caption": "a brown and white dog and a black and white dog",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "dog breed",
+        "pet",
+        "animal",
+        "fence",
+        "mammal",
+        "snout",
+        "dog",
+        "gate"
+    ]
+}

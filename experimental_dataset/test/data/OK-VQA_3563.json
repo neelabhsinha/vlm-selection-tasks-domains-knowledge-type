@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3563,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3563.png",
+    "question": "You use the object over the windows when the weather is what outside?",
+    "label": [
+        "hot",
+        "hot",
+        "hot",
+        "hot",
+        "hot",
+        "hot",
+        "sunny",
+        "sunny",
+        "sunny",
+        "sunny"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 247,
+    "image_path": "./experimental_dataset/test/images/ChartQA_247.png",
+    "question": "Is the average percentage share of primary energy from fossil fuels of all three countries more than 90%?",
+    "label": [
+        "Yes"
+    ]
+}

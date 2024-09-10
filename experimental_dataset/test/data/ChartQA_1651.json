@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1651,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1651.png",
+    "question": "What was the brand value of the BBC in 2019?",
+    "label": [
+        "2294"
+    ]
+}

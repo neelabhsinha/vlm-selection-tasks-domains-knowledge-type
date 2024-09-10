@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 144,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_144.png",
+    "question": "What is the man taking?",
+    "label": "['bike', 'picture', 'picture', 'picture', 'photographs', 'photograph', 'picture', 'picture', 'picture', 'picture']",
+    "choices": [
+        "walk",
+        "picture",
+        "watch",
+        "pee"
+    ],
+    "correct_choice": "picture"
+}

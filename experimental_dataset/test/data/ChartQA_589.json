@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 589,
+    "image_path": "./experimental_dataset/test/images/ChartQA_589.png",
+    "question": "In how many years, the price level indices was more than 105 in Austria?",
+    "label": [
+        "2"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1294,
+    "caption": "two young children laying on a bed together",
+    "object_tags": [
+        "person",
+        "indoor",
+        "human face",
+        "comfort",
+        "boy",
+        "clothing",
+        "baby",
+        "toddler",
+        "child",
+        "lap",
+        "sofa",
+        "couch"
+    ]
+}

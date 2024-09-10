@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 112,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_112.png",
+    "question": "What could a person use this for?",
+    "label": [
+        "direct",
+        "direct",
+        "direct",
+        "direct",
+        "identify their location",
+        "identify their location",
+        "to tell direct",
+        "to tell direct",
+        "direction",
+        "direction"
+    ]
+}

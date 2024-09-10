@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 169492,
+    "caption": "a man holding an umbrella while standing in the rain",
+    "object_tags": [
+        "person",
+        "clothing",
+        "umbrella",
+        "accessory",
+        "man",
+        "fashion accessory",
+        "human face",
+        "holding",
+        "street",
+        "outdoor",
+        "rain",
+        "standing"
+    ]
+}

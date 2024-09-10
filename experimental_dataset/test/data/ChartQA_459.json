@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 459,
+    "image_path": "./experimental_dataset/test/images/ChartQA_459.png",
+    "question": "What's the difference between the maximum and the minimum value in the Black and white people bar?",
+    "label": [
+        "24"
+    ]
+}

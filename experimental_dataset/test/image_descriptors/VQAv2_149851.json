@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 149851,
+    "caption": "a woman blowing out candles on a birthday cake",
+    "object_tags": [
+        "person",
+        "candle",
+        "birthday cake",
+        "indoor",
+        "wall",
+        "cake",
+        "clothing",
+        "party",
+        "birthday",
+        "dessert",
+        "cake decorating",
+        "food",
+        "woman",
+        "standing"
+    ]
+}

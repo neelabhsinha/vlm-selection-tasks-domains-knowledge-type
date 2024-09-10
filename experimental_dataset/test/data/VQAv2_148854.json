@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 148854,
+    "image_path": "./experimental_dataset/test/images/VQAv2_148854.png",
+    "question": "Is this an apple computer?",
+    "label": [
+        "no",
+        "no",
+        "unknown",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no"
+    ]
+}

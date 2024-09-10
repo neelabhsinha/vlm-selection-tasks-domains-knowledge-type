@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3410,
+    "caption": "a little boy sitting at a table with a fork and spoon",
+    "object_tags": [
+        "person",
+        "human face",
+        "indoor",
+        "toddler",
+        "table",
+        "food",
+        "snack",
+        "meal",
+        "fast food",
+        "baby",
+        "tableware",
+        "drink",
+        "soft drink",
+        "clothing",
+        "child",
+        "wall",
+        "sitting",
+        "eating",
+        "boy",
+        "young",
+        "restaurant"
+    ]
+}

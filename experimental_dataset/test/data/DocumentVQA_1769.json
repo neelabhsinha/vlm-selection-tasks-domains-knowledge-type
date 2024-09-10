@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1769,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1769.png",
+    "question": "Who was the chairman of the meeting?",
+    "label": [
+        "DR. FREDERICK SEITZ",
+        "Dr. Frederick Seitz"
+    ]
+}

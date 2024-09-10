@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 65079,
+    "caption": "a street sign with a street name on it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "signage",
+        "sign",
+        "text",
+        "traffic sign",
+        "street sign",
+        "street",
+        "pole"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 847,
+    "caption": "a pizza sitting on top of a wooden table",
+    "object_tags": [
+        "tableware",
+        "person",
+        "food",
+        "drink",
+        "table",
+        "meal",
+        "wine glass",
+        "pizza",
+        "fast food",
+        "drinkware",
+        "dish",
+        "cuisine",
+        "stemware",
+        "indoor",
+        "plate",
+        "culinary art",
+        "baked goods",
+        "wine",
+        "sitting",
+        "restaurant"
+    ]
+}

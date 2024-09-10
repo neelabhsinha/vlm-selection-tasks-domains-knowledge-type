@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4181,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4181.png",
+    "question": "What is the cost of the grade school education program?",
+    "label": [
+        "$10,000"
+    ]
+}

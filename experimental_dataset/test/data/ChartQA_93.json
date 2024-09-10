@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 93,
+    "image_path": "./experimental_dataset/test/images/ChartQA_93.png",
+    "question": "What are the sum vale of Major, Minor, and Not a factor in an Athletic ability group?",
+    "label": [
+        "99"
+    ]
+}

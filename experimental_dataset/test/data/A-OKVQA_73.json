@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 73,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_73.png",
+    "question": "How was the cake decorated?",
+    "label": "['roses', 'piping tip', 'elaborate frosting', 'bakery', 'carefully', 'icing', 'flowers', 'frosting roses', 'frosting', 'icing']",
+    "choices": [
+        "drawn",
+        "piping tip",
+        "fork",
+        "sprinkled"
+    ],
+    "correct_choice": "piping tip"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1081,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1081.png",
+    "question": "The man's physique can be described as being what?",
+    "label": "['lean', 'physique', 'fit', 'athletic', 'slim', 'slim', 'in shape', 'athletic', 'scrawny lean', 'athletic']",
+    "choices": [
+        "sloth-like",
+        "gargantuan",
+        "rotund",
+        "in shape"
+    ],
+    "correct_choice": "in shape"
+}

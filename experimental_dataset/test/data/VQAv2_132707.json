@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 132707,
+    "image_path": "./experimental_dataset/test/images/VQAv2_132707.png",
+    "question": "Is the train coming near the camera or away from it?",
+    "label": [
+        "away",
+        "near",
+        "away",
+        "coming near",
+        "near",
+        "near",
+        "coming near",
+        "near",
+        "near",
+        "near"
+    ]
+}

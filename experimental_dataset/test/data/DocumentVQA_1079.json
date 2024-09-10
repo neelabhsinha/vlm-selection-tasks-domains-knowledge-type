@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1079,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1079.png",
+    "question": "What is the date of this memo?",
+    "label": [
+        "11/18/82"
+    ]
+}

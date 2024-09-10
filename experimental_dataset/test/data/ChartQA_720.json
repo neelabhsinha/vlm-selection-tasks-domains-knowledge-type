@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 720,
+    "image_path": "./experimental_dataset/test/images/ChartQA_720.png",
+    "question": "Which age group has the maximum number of people using internet?",
+    "label": [
+        "25-34"
+    ]
+}

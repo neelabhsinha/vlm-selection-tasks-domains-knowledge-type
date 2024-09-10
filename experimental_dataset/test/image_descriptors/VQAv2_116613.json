@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 116613,
+    "caption": "a snowboarder is doing a trick in the air",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "sky",
+        "extreme sport",
+        "snow",
+        "snowboarding",
+        "man",
+        "jumping",
+        "sports equipment",
+        "stunt",
+        "snowboard",
+        "stunt performer",
+        "footwear",
+        "air",
+        "boardsport",
+        "individual sports",
+        "mountain",
+        "riding",
+        "winter"
+    ]
+}

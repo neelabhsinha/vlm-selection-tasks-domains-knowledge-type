@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 135493,
+    "image_path": "./experimental_dataset/test/images/VQAv2_135493.png",
+    "question": "Is this during sunset or sunrise?",
+    "label": [
+        "sunset",
+        "sunset",
+        "sunrise",
+        "sunset",
+        "sunset",
+        "sunset",
+        "sunrise",
+        "sunset",
+        "sunrise",
+        "sunset"
+    ]
+}

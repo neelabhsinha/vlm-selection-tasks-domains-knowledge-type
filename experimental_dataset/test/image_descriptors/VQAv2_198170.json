@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 198170,
+    "caption": "a man sitting on a curb with a bag of luggage",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "outdoor",
+        "street",
+        "jeans",
+        "building",
+        "man",
+        "luggage and bags",
+        "waste container",
+        "ground",
+        "bird",
+        "sitting",
+        "blue",
+        "people",
+        "sidewalk",
+        "city"
+    ]
+}

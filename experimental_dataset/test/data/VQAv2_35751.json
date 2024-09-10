@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 35751,
+    "image_path": "./experimental_dataset/test/images/VQAv2_35751.png",
+    "question": "What is in the mug?",
+    "label": [
+        "beer",
+        "beer",
+        "beer",
+        "beer",
+        "beer",
+        "beer",
+        "beer",
+        "beer",
+        "stein",
+        "behind pizza"
+    ]
+}

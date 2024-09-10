@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 693,
+    "caption": "a woman taking a picture of her dog in the mirror",
+    "object_tags": [
+        "car mirror",
+        "mirror",
+        "car",
+        "dog",
+        "automotive mirror",
+        "outdoor",
+        "rear-view mirror",
+        "automotive side-view mirror",
+        "vehicle",
+        "vehicle door",
+        "window",
+        "person",
+        "head"
+    ]
+}

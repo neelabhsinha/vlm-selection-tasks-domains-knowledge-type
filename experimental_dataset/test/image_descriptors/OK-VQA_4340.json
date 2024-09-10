@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4340,
+    "caption": "a large clock tower towering over the city of london",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "clock",
+        "sky",
+        "water",
+        "building",
+        "bridge",
+        "skyline",
+        "spire",
+        "tower",
+        "city",
+        "river",
+        "black and white",
+        "landscape",
+        "large",
+        "sunset",
+        "cloudy",
+        "monochrome",
+        "cityscape"
+    ]
+}

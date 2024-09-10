@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1616,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1616.png",
+    "question": "The sharp objects are doing what?",
+    "label": [
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut"
+    ]
+}

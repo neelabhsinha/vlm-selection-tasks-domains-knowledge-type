@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 702,
+    "caption": "a kitchen with a refrigerator, microwave, sink and dishwasher",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "home appliance",
+        "cabinetry",
+        "countertop",
+        "major appliance",
+        "floor",
+        "cabinet",
+        "kitchen appliance",
+        "sink",
+        "drawer",
+        "cupboard",
+        "appliance",
+        "oven",
+        "chest of drawers",
+        "refrigerator",
+        "room",
+        "home",
+        "kitchen",
+        "ceiling",
+        "microwave",
+        "remodel"
+    ]
+}

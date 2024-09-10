@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1110,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1110.png",
+    "question": "Are these common zebras or south african zebras?",
+    "label": [
+        "south african",
+        "south african",
+        "south african",
+        "south african",
+        "common",
+        "common",
+        "common",
+        "common",
+        "common zebra",
+        "common zebra"
+    ]
+}

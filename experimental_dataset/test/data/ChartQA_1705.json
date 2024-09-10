@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1705,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1705.png",
+    "question": "When did Hunter's annual revenue begin to grow?",
+    "label": [
+        "2013"
+    ]
+}

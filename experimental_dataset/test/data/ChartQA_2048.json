@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2048,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2048.png",
+    "question": "What was Paris Sait-Germain's revenue in the 2018/19 season?",
+    "label": [
+        "636"
+    ]
+}

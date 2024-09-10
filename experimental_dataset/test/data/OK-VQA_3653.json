@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3653,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3653.png",
+    "question": "How many survivers are there from this crash?",
+    "label": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "4",
+        "4",
+        "1",
+        "1"
+    ]
+}

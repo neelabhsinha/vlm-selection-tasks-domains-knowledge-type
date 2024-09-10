@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 797,
+    "image_path": "./experimental_dataset/test/images/ChartQA_797.png",
+    "question": "How many years does the poverty percentage rose above 11%?",
+    "label": [
+        "3"
+    ]
+}

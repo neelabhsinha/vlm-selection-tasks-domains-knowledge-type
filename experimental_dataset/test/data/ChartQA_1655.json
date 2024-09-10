@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1655,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1655.png",
+    "question": "How many Facebook fans did Spongebob Squarepants have?",
+    "label": [
+        "51.11"
+    ]
+}

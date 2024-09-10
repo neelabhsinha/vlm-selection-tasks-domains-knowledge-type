@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 895,
+    "caption": "a train with people riding on the tracks",
+    "object_tags": [
+        "people",
+        "building",
+        "person",
+        "metro station",
+        "train station",
+        "train",
+        "bicycle",
+        "platform",
+        "indoor",
+        "ceiling",
+        "subway",
+        "track",
+        "waiting"
+    ]
+}

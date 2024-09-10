@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 407,
+    "caption": "a blurry picture of a computer screen with numbers on it",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "number",
+        "line",
+        "parallel",
+        "font"
+    ]
+}

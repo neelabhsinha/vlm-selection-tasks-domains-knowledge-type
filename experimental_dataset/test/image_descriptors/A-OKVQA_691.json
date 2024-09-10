@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 691,
+    "caption": "a man laying on a bed in a hospital bed",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "bed",
+        "person",
+        "road",
+        "woman"
+    ]
+}

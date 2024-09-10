@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 98652,
+    "image_path": "./experimental_dataset/test/images/VQAv2_98652.png",
+    "question": "Is there soap next to the wash basin?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

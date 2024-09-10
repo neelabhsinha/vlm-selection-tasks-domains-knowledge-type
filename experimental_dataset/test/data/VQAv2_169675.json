@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 169675,
+    "image_path": "./experimental_dataset/test/images/VQAv2_169675.png",
+    "question": "What is the most dominant color in this room?",
+    "label": [
+        "green",
+        "white",
+        "white",
+        "white",
+        "white",
+        "blue green",
+        "white",
+        "green",
+        "green",
+        "seafoam green"
+    ]
+}

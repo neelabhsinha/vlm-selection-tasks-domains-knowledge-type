@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 875,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_875.png",
+    "question": "What is the dish and cup set positioned to resemble?",
+    "label": "['clock', 'numbers', 'clock', 'clock', 'clock', 'clock', 'clock', 'clock', 'clock', 'clock']",
+    "choices": [
+        "television",
+        "painting",
+        "ball",
+        "clock"
+    ],
+    "correct_choice": "clock"
+}

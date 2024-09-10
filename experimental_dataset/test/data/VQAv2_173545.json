@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 173545,
+    "image_path": "./experimental_dataset/test/images/VQAv2_173545.png",
+    "question": "What is the man in the air reaching for?",
+    "label": [
+        "saucer",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee"
+    ]
+}

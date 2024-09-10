@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 210453,
+    "image_path": "./experimental_dataset/test/images/VQAv2_210453.png",
+    "question": "Which one is wearing sunglasses?",
+    "label": [
+        "man on right",
+        "one in orange",
+        "right",
+        "one on right",
+        "right",
+        "one in orange pants",
+        "right",
+        "man in orange pants",
+        "man on right",
+        "one on right"
+    ]
+}

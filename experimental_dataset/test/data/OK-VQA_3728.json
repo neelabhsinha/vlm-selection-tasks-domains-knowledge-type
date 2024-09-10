@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3728,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3728.png",
+    "question": "What are the ingredients of this drink?",
+    "label": [
+        "coffee",
+        "coffee",
+        "coffee",
+        "coffee",
+        "sugar coffee",
+        "sugar coffee",
+        "milk and coffee",
+        "milk and coffee",
+        "coffee and cream",
+        "coffee and cream"
+    ]
+}

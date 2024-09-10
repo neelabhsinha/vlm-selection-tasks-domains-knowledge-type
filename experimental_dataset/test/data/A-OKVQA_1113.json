@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1113,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1113.png",
+    "question": "What is the brown bear in the grey and black jacket doing?",
+    "label": "['playing', 'hokcey', 'cleaning', 'playing hockey', 'playing', 'playing hockey', 'playing', 'hockey', 'tear beer', 'hang']",
+    "choices": [
+        "playing hockey",
+        "talking",
+        "sleeping",
+        "playing kickball"
+    ],
+    "correct_choice": "playing hockey"
+}

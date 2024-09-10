@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 165599,
+    "image_path": "./experimental_dataset/test/images/VQAv2_165599.png",
+    "question": "What is the slang term for what this guy is doing?",
+    "label": [
+        "selfie",
+        "taking selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie"
+    ]
+}

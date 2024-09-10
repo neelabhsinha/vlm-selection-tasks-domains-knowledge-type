@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1085,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1085.png",
+    "question": "What brand of airplane is shown?",
+    "label": [
+        "cessna",
+        "cessna",
+        "cessna",
+        "cessna",
+        "cessna",
+        "cessna",
+        "recretional",
+        "recretional",
+        "cesna",
+        "cesna"
+    ]
+}

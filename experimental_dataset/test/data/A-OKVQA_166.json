@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 166,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_166.png",
+    "question": "What type of area is shown?",
+    "label": "['urban', 'street', 'city', 'highway', 'shopping area', 'city', 'city street', 'commercial', 'city street', 'road']",
+    "choices": [
+        "rural",
+        "medical",
+        "commercial",
+        "residential"
+    ],
+    "correct_choice": "commercial"
+}

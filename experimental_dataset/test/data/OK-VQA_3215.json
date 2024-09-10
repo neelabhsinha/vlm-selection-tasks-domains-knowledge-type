@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3215,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3215.png",
+    "question": "Why is this cat under the umbrella?",
+    "label": [
+        "play",
+        "play",
+        "play",
+        "play",
+        "rain",
+        "rain",
+        "rain",
+        "rain",
+        "shade",
+        "shade"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3121,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3121.png",
+    "question": "Who shall discuss Corporate/Marketing Strategies?",
+    "label": [
+        "Lynn Beasley"
+    ]
+}

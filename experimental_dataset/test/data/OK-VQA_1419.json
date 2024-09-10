@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1419,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1419.png",
+    "question": "What is the name of the mechanism that the baby is sitting in?",
+    "label": [
+        "chair",
+        "chair",
+        "chair",
+        "chair",
+        "bouncy seat",
+        "bouncy seat",
+        "rocker",
+        "rocker",
+        "stroller",
+        "stroller"
+    ]
+}

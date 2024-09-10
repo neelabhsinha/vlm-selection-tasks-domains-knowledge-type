@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 470,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_470.png",
+    "question": "Why are the skiers wearing bibs with numbers on them?",
+    "label": "['race number', 'competing', 'race', 'racing', 'race numbers', 'competition', 'to race', \"they're competing\", 'number id', 'identification']",
+    "choices": [
+        "as joke",
+        "to race",
+        "as punishment",
+        "for cosplay"
+    ],
+    "correct_choice": "to race"
+}

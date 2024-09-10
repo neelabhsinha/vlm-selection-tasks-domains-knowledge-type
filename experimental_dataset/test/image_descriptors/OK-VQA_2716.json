@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2716,
+    "caption": "people walking on the beach with surfboards",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "people",
+        "surfing",
+        "beach",
+        "wind wave",
+        "tide",
+        "vacation",
+        "person",
+        "tourism",
+        "surfboard",
+        "swimming",
+        "ocean",
+        "shore",
+        "group",
+        "walking",
+        "dog",
+        "carrying",
+        "nature",
+        "wave",
+        "ground",
+        "surf"
+    ]
+}

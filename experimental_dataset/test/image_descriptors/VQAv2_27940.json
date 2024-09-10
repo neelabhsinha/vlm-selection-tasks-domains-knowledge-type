@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 27940,
+    "caption": "a young boy holding a skateboard in front of his face",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "footwear",
+        "sports equipment",
+        "boardsport",
+        "ground",
+        "man",
+        "skateboarding equipment",
+        "skateboard",
+        "young",
+        "holding",
+        "boy",
+        "standing"
+    ]
+}

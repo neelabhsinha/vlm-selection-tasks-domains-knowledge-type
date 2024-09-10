@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 176712,
+    "caption": "a woman working on a sewing machine in a factory",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "indoor",
+        "woman",
+        "factory"
+    ]
+}

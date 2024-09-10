@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 448,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_448.png",
+    "question": "What is the designation of Karen D Mittleman, PhD?",
+    "label": [
+        "Senior Medical Writer"
+    ]
+}

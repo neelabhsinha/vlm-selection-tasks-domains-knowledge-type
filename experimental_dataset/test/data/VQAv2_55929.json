@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55929,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55929.png",
+    "question": "How many dogs are looking in front of them?",
+    "label": [
+        "no dogs",
+        "0",
+        "0",
+        "0",
+        "2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+    ]
+}

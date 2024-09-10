@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 65079,
+    "image_path": "./experimental_dataset/test/images/VQAv2_65079.png",
+    "question": "What number is shown?",
+    "label": [
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7"
+    ]
+}

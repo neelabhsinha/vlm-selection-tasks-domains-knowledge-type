@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2046,
+    "caption": "a brown and white dog standing on top of a patio",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "dog breed",
+        "plant",
+        "animal",
+        "mammal",
+        "dog",
+        "brown"
+    ]
+}

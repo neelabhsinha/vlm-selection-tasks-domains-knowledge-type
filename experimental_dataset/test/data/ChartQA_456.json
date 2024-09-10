@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 456,
+    "image_path": "./experimental_dataset/test/images/ChartQA_456.png",
+    "question": "What's the value of the Very well bar in the 65+ age group?",
+    "label": [
+        "68"
+    ]
+}

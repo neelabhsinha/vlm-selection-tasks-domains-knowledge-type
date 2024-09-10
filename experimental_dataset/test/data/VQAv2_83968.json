@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 83968,
+    "image_path": "./experimental_dataset/test/images/VQAv2_83968.png",
+    "question": "How many lamps are there?",
+    "label": [
+        "2",
+        "2",
+        "3",
+        "2",
+        "2",
+        "2",
+        "3",
+        "2",
+        "2",
+        "2"
+    ]
+}

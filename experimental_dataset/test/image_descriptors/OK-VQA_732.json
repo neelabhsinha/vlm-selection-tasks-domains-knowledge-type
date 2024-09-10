@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 732,
+    "caption": "a sandwich sitting on top of a wooden table",
+    "object_tags": [
+        "food",
+        "fast food",
+        "sandwich",
+        "bread",
+        "bottle",
+        "indoor",
+        "american food",
+        "bun",
+        "drink",
+        "hamburger",
+        "table",
+        "snack food",
+        "snack",
+        "banh ma",
+        "person"
+    ]
+}

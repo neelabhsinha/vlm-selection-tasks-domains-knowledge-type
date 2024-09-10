@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 42,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_42.png",
+    "question": "What is likely in front of the rug?",
+    "label": "['cupboard', 'sink', 'cupboard', 'sink', 'sink', 'sink', 'sink', 'cabinets', 'sink', 'sink']",
+    "choices": [
+        "refrigerator",
+        "pantry",
+        "washing machine",
+        "sink"
+    ],
+    "correct_choice": "sink"
+}

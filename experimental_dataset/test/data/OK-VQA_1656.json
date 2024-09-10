@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1656,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1656.png",
+    "question": "What is the fastest way i can get somewhere listed here?",
+    "label": [
+        "plane",
+        "plane",
+        "plane",
+        "plane",
+        "fly",
+        "fly",
+        "by train",
+        "by train",
+        "this is transportation schedule",
+        "this is transportation schedule"
+    ]
+}

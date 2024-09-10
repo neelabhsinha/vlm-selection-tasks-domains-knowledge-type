@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 457,
+    "caption": "a person jumping in the air to catch a frisbee",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "fence",
+        "wire fencing",
+        "playground",
+        "field",
+        "plant",
+        "mesh",
+        "chain-link fencing",
+        "sky",
+        "person"
+    ]
+}

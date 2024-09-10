@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3899,
+    "caption": "a man holding a skateboard while standing on a sidewalk",
+    "object_tags": [
+        "person",
+        "footwear",
+        "clothing",
+        "sport",
+        "outdoor",
+        "jeans",
+        "street",
+        "people",
+        "ground"
+    ]
+}

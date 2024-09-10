@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2067,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2067.png",
+    "question": "Who had 12.88 million followers in January 2017?",
+    "label": [
+        "Nash Grier"
+    ]
+}

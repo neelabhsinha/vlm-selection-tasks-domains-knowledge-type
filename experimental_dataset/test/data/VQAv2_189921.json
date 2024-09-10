@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 189921,
+    "image_path": "./experimental_dataset/test/images/VQAv2_189921.png",
+    "question": "Does the dog normally wear this?",
+    "label": [
+        "yes",
+        "all",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

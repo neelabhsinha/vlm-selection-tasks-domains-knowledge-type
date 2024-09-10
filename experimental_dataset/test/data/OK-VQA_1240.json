@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1240,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1240.png",
+    "question": "What is this persons gender?",
+    "label": [
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "female"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 346,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_346.png",
+    "question": "What are they waiting to do when they stand next to the street?",
+    "label": "['cross', 'light change', 'ride bus', 'cross', 'ride bus', 'cross', 'cross', 'cross', 'cross', 'cross']",
+    "choices": [
+        "cross",
+        "work",
+        "sit",
+        "talk"
+    ],
+    "correct_choice": "cross"
+}

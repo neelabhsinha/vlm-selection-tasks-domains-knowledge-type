@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 69,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_69.png",
+    "question": "What is the skateboard balanced on?",
+    "label": "['chain', 'rope', 'posts', 'rope', 'fence', 'chain', 'post', 'ropes', 'chain link', 'rope']",
+    "choices": [
+        "post",
+        "air",
+        "chain",
+        "ground"
+    ],
+    "correct_choice": "chain"
+}

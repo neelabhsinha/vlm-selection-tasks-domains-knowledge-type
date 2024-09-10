@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2502,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2502.png",
+    "question": "What kind of bed is this in the photo?",
+    "label": [
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "racecar",
+        "racecar",
+        "race",
+        "race"
+    ]
+}

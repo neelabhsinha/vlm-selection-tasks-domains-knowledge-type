@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 284,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_284.png",
+    "question": "How would you cut the vegetables?",
+    "label": "['knife', 'slices', 'knife', 'with knife', 'peeler', 'slice', 'slice', 'in half', 'knife', 'peeler']",
+    "choices": [
+        "fork",
+        "knife",
+        "hands",
+        "peeler"
+    ],
+    "correct_choice": "peeler"
+}

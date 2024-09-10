@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1402,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1402.png",
+    "question": "As per the table what is the first item in the list of materials mailed?",
+    "label": [
+        "annual reports"
+    ]
+}

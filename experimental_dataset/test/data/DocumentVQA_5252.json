@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5252,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5252.png",
+    "question": "What is the \u2018nature of duties\u2019 on March 26, 1975?",
+    "label": [
+        "nci \"workshop\" nih"
+    ]
+}

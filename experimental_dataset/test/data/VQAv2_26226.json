@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 26226,
+    "image_path": "./experimental_dataset/test/images/VQAv2_26226.png",
+    "question": "Is the woman Caucasian?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

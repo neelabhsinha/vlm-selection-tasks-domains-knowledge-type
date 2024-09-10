@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 571,
+    "caption": "a woman riding a bike down a street",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "outdoor",
+        "person",
+        "tire",
+        "clothing",
+        "bicycle wheel",
+        "tree",
+        "footwear",
+        "cycling",
+        "car",
+        "bicycle tire",
+        "bicycle frame",
+        "woman",
+        "bicycle",
+        "ground",
+        "riding",
+        "street",
+        "bike"
+    ]
+}

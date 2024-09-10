@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4009,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4009.png",
+    "question": "Is this photo in a city or village?",
+    "label": [
+        "city",
+        "city",
+        "city",
+        "city",
+        "city",
+        "city",
+        "city",
+        "city",
+        "city",
+        "city"
+    ]
+}

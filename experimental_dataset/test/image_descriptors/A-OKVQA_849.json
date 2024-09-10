@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 849,
+    "caption": "a man holding a baby holding a cup of coffee",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "indoor",
+        "toddler",
+        "baby",
+        "boy",
+        "wall",
+        "thumb",
+        "holding"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 6911,
+    "caption": "a nintendo wii game controller sitting on top of a table",
+    "object_tags": [
+        "indoor",
+        "floor",
+        "furniture",
+        "home appliance",
+        "lamp",
+        "wall",
+        "mechanical fan",
+        "table"
+    ]
+}

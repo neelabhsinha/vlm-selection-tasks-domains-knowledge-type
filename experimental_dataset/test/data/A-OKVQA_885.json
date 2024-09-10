@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 885,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_885.png",
+    "question": "Why does the man have an elevated arm?",
+    "label": "['maintaining balance', 'hailing cab', 'balance himself', 'for balance', 'walking', 'for balance', 'balance', 'balance', 'balance', 'carrying']",
+    "choices": [
+        "balance",
+        "waving",
+        "eating",
+        "exercise"
+    ],
+    "correct_choice": "balance"
+}

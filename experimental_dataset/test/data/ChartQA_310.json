@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 310,
+    "image_path": "./experimental_dataset/test/images/ChartQA_310.png",
+    "question": "Which mode of transport has CO2 emissions value 191.6 g?",
+    "label": [
+        "Medium car (petrol)"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 18905,
+    "image_path": "./experimental_dataset/test/images/VQAv2_18905.png",
+    "question": "What colors are the bars across?",
+    "label": [
+        "white",
+        "orange and yellow",
+        "orange and yellow",
+        "yellow and orange",
+        "orange/yellow",
+        "orange and yellow",
+        "orange yellow",
+        "orange, yellow",
+        "orange",
+        "orange and yellow"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 628,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_628.png",
+    "question": "How many suitcases have tags?",
+    "label": "['four', 'seven', 'four', 'four', 'four', 'four', 'four', 'four', 'four', 'four']",
+    "choices": [
+        "two",
+        "three",
+        "five",
+        "four"
+    ],
+    "correct_choice": "four"
+}

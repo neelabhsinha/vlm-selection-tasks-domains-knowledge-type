@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 116069,
+    "caption": "a man standing on top of a snow covered slope",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "person",
+        "sky",
+        "winter",
+        "clothing",
+        "footwear",
+        "skiing",
+        "tree",
+        "freezing",
+        "ski",
+        "blizzard",
+        "ski pole",
+        "black and white",
+        "pole"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 324,
+    "caption": "a little girl holding an umbrella over her head",
+    "object_tags": [
+        "person",
+        "human face",
+        "accessory",
+        "clothing",
+        "umbrella",
+        "toddler",
+        "holding",
+        "boy",
+        "baby",
+        "child",
+        "indoor",
+        "girl",
+        "outdoor"
+    ]
+}

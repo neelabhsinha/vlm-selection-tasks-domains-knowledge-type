@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 978,
+    "caption": "a man flying a kite in the air",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "tree",
+        "kite",
+        "person",
+        "outdoor recreation",
+        "recreation",
+        "air",
+        "extreme sport",
+        "adventure",
+        "individual sports",
+        "jump",
+        "jumping",
+        "high"
+    ]
+}

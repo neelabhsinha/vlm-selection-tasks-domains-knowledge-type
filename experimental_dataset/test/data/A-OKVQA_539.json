@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 539,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_539.png",
+    "question": "What is typically on top of a cake?",
+    "label": "['icing', 'icing', 'cream', 'frosting', 'frosting', 'frosting', 'cream', 'frosting', 'cream', 'icing']",
+    "choices": [
+        "chocolate",
+        "icing",
+        "candles",
+        "sprinkles"
+    ],
+    "correct_choice": "icing"
+}

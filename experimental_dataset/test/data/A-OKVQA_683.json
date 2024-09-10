@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 683,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_683.png",
+    "question": "What is coming through the structure at the top of the wall above the tub?",
+    "label": "['window', 'sunlight', 'sunlight', 'light', 'sunlight', 'window', 'window', 'window', 'fan', 'light']",
+    "choices": [
+        "snow",
+        "cat",
+        "light",
+        "thief"
+    ],
+    "correct_choice": "light"
+}

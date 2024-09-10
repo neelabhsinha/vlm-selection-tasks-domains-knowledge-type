@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4939,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4939.png",
+    "question": "What's the model of the motorcycle on the right?",
+    "label": [
+        "harley",
+        "harley",
+        "harley",
+        "harley",
+        "bmw",
+        "bmw",
+        "harley davidson",
+        "harley davidson",
+        "indian",
+        "indian"
+    ]
+}

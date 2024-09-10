@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 37060,
+    "caption": "a man in a suit and a woman in a dress",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "wall",
+        "indoor",
+        "footwear",
+        "outerwear",
+        "man",
+        "fashion accessory",
+        "smile",
+        "costume",
+        "mantle",
+        "fashion",
+        "standing",
+        "wearing",
+        "dressed",
+        "suit",
+        "hat"
+    ]
+}

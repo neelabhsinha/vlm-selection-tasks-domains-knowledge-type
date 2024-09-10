@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3887,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3887.png",
+    "question": "How many 'meetings of the Remuneration Committee were held during the year'?",
+    "label": [
+        "Three",
+        "Three meetings of the remuneration Committee"
+    ]
+}

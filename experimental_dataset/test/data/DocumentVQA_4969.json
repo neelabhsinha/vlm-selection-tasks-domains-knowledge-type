@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4969,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4969.png",
+    "question": "How many number of persons are examined in 'Johore'?",
+    "label": [
+        "225"
+    ]
+}

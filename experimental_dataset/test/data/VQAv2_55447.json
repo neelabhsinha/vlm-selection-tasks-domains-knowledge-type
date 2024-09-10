@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55447,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55447.png",
+    "question": "Where is the little girl at?",
+    "label": [
+        "not visible",
+        "tennis court",
+        "playing tennis",
+        "tennis court",
+        "field",
+        "court",
+        "tennis court",
+        "tennis court",
+        "nowhere",
+        "tennis court"
+    ]
+}

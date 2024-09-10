@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 789,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_789.png",
+    "question": "What do people throw in these round objects?",
+    "label": [
+        "coin",
+        "coin",
+        "coin",
+        "coin",
+        "coin",
+        "coin",
+        "coin",
+        "coin",
+        "coin",
+        "coin"
+    ]
+}

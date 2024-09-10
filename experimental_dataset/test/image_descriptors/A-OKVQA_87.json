@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 87,
+    "caption": "a person sitting on a bench next to a street",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "road",
+        "building",
+        "skyscraper",
+        "street",
+        "city",
+        "sunset",
+        "downtown",
+        "ground",
+        "sun"
+    ]
+}

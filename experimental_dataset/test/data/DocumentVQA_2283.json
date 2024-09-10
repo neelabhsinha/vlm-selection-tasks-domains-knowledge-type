@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2283,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2283.png",
+    "question": "What is the state code for Missouri?",
+    "label": [
+        "MO"
+    ]
+}

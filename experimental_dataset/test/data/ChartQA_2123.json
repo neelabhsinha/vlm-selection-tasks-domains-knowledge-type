@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2123,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2123.png",
+    "question": "Which state had the fastest internet connection in 2018?",
+    "label": [
+        "New Jersey"
+    ]
+}

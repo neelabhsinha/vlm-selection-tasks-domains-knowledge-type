@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 469,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_469.png",
+    "question": "Why are the children wearing hats?",
+    "label": "['warmth', 'for warmth', 'warmth', 'cold', 'cold', 'cold', 'stay warm', 'cold weather', 'cold', 'cold']",
+    "choices": [
+        "warmth",
+        "protection",
+        "fashion",
+        "uniform"
+    ],
+    "correct_choice": "warmth"
+}

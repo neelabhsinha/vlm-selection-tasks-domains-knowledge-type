@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 76,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_76.png",
+    "question": "Why would you use this bag?",
+    "label": "['travel', 'safety', 'travel', 'trip', 'travel', 'traveling', 'carry samples', 'vacation', 'personal items', 'travelling']",
+    "choices": [
+        "shop",
+        "travel",
+        "catch",
+        "preserve"
+    ],
+    "correct_choice": "travel"
+}

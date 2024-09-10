@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 94791,
+    "image_path": "./experimental_dataset/test/images/VQAv2_94791.png",
+    "question": "Does this person have a tattoo?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no"
+    ]
+}

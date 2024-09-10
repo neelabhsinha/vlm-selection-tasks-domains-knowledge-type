@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 131,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_131.png",
+    "question": "What level of a house is this room located in?",
+    "label": "['basement', 'basement', 'basement', 'basement', 'basement', 'first', 'first', 'basement', 'basement', 'basement']",
+    "choices": [
+        "basement",
+        "ground",
+        "second",
+        "third"
+    ],
+    "correct_choice": "basement"
+}

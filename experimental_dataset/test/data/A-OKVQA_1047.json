@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1047,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1047.png",
+    "question": "When playing tennis what is the name of the actual event?",
+    "label": "['open', 'match', 'tournament', 'wimbledon', 'tennis match', 'match', 'tennis match', 'wimbledon', 'grand slam', 'playing']",
+    "choices": [
+        "court",
+        "rackets",
+        "doubles",
+        "match"
+    ],
+    "correct_choice": "match"
+}

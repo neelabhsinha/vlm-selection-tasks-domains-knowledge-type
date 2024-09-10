@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1039,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1039.png",
+    "question": "What are the cushions made out of?",
+    "label": "['bases', 'bases', 'baseball bases', 'leather', 'plastic', 'vinyl', 'blocks', 'polyester', 'cloth fabrics', 'baseball bases']",
+    "choices": [
+        "bases",
+        "windows",
+        "pizza boxes",
+        "paper"
+    ],
+    "correct_choice": "bases"
+}

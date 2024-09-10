@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 300,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_300.png",
+    "question": "How many people can sit at the table?",
+    "label": "['four', 'chairs', 'six', 'five', 'four', 'four', 'five', 'five', 'four', 'four']",
+    "choices": [
+        "two",
+        "eight",
+        "six",
+        "four"
+    ],
+    "correct_choice": "four"
+}

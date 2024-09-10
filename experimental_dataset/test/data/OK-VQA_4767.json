@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4767,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4767.png",
+    "question": "What kind of fruit is these?",
+    "label": [
+        "citrus",
+        "citrus",
+        "citrus",
+        "citrus",
+        "citrus",
+        "citrus",
+        "apple",
+        "apple",
+        "orange",
+        "orange"
+    ]
+}

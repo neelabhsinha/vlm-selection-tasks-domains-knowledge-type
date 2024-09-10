@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1424,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Anthropology",
+        "Linguistics"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Commonsense Knowledge",
+        "Geographical Knowledge"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 414,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_414.png",
+    "question": "Why is the man standing in the dirt?",
+    "label": "['baseball', 'batting', 'baseball', 'playing baseball', 'golf', 'playing baseball', 'playing baseball', 'playing softball', 'batting', 'playing']",
+    "choices": [
+        "target practice",
+        "playing baseball",
+        "farming",
+        "making fort"
+    ],
+    "correct_choice": "playing baseball"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 35250,
+    "image_path": "./experimental_dataset/test/images/VQAv2_35250.png",
+    "question": "What is the man doing in the picture?",
+    "label": [
+        "sitting",
+        "sitting",
+        "enjoying nice day outdoors",
+        "sitting",
+        "sitting",
+        "sitting",
+        "sitting",
+        "sitting",
+        "sitting",
+        "sitting down"
+    ]
+}

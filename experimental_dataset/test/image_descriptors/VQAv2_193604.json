@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 193604,
+    "caption": "a man wearing a neck tie and a shirt with a tie around his neck",
+    "object_tags": [
+        "person",
+        "man",
+        "human face",
+        "clothing",
+        "human beard",
+        "vehicle",
+        "seat belt",
+        "head restraint",
+        "car",
+        "indoor",
+        "wearing"
+    ]
+}

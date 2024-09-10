@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1112,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1112.png",
+    "question": "Which year has has the least purchase frequency on one purchase day?",
+    "label": [
+        "[2015, 2016]"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 581,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_581.png",
+    "question": "Why did he leave his car next to a fire hydrant?",
+    "label": [
+        "negligence",
+        "negligence",
+        "rain",
+        "rain",
+        "park",
+        "park",
+        "quick stop",
+        "quick stop",
+        "parked",
+        "parked"
+    ]
+}

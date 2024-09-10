@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 214107,
+    "caption": "a sandwich on a table with a bottle of ketchup",
+    "object_tags": [
+        "fast food",
+        "bread",
+        "text",
+        "indoor",
+        "baked goods",
+        "sandwich",
+        "food",
+        "snack food",
+        "snack"
+    ]
+}

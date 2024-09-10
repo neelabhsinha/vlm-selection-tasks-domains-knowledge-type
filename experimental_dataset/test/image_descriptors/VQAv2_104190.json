@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 104190,
+    "caption": "a flock of birds flying through the air",
+    "object_tags": [
+        "outdoor",
+        "animal",
+        "sky",
+        "animal migration",
+        "bird migration",
+        "flock",
+        "bird",
+        "nature",
+        "wildlife"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4815,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Movies",
+        "Professions",
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Geographical Knowledge"
+    ]
+}

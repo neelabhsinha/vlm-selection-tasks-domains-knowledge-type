@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 226,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_226.png",
+    "question": "What other sports might be played on this surface?",
+    "label": "['snowboarding', 'snowmobiling', 'snowmobile sledding', 'snow shoes', 'snowboard', 'snowboarding', 'snowboarding', 'snowmobiling', 'snowboarding snowmobiling', 'snowmobiling']",
+    "choices": [
+        "badminton",
+        "golf",
+        "snowboarding",
+        "tennis"
+    ],
+    "correct_choice": "snowboarding"
+}

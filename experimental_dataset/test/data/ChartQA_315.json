@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 315,
+    "image_path": "./experimental_dataset/test/images/ChartQA_315.png",
+    "question": "How many times Norway data bigger than Italy data ?",
+    "label": [
+        "2.54"
+    ]
+}

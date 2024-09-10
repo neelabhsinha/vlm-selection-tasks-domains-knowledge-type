@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2538,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2538.png",
+    "question": "How fast could you travel on this?",
+    "label": [
+        "very fast",
+        "very fast",
+        "very fast",
+        "very fast",
+        "fast",
+        "fast",
+        "500 mph",
+        "500 mph",
+        "extremely",
+        "extremely"
+    ]
+}

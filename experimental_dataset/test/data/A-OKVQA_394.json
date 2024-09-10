@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 394,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_394.png",
+    "question": "What color is the pedestrian powered vehicle on the lot?",
+    "label": "['silver', 'green', 'silver', 'green', 'green', 'green', 'green', 'blue', 'green', 'green']",
+    "choices": [
+        "green",
+        "red",
+        "yellow",
+        "black"
+    ],
+    "correct_choice": "green"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 585,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_585.png",
+    "question": "What is the laptop on?",
+    "label": "['table', 'table', 'table', 'portable table', 'table', 'folding table', 'table', 'tv table', 'table', 'table']",
+    "choices": [
+        "counter",
+        "bed",
+        "island",
+        "table"
+    ],
+    "correct_choice": "table"
+}

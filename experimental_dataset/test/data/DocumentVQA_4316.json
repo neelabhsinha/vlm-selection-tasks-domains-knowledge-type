@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4316,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4316.png",
+    "question": "The dog, named \"6M\" is a male or female?",
+    "label": [
+        "Male",
+        "male"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 647,
+    "caption": "a giraffe standing in a grassy area next to a fence",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "tree",
+        "grass",
+        "giraffe",
+        "plant",
+        "terrestrial animal",
+        "wildlife",
+        "sky",
+        "giraffidae",
+        "standing",
+        "fence",
+        "field",
+        "fenced",
+        "enclosure",
+        "zoo",
+        "area"
+    ]
+}

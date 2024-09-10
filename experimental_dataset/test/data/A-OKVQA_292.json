@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 292,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_292.png",
+    "question": "What pattern shirt is the man wearing?",
+    "label": "['striped', 'stripes', 'striped', 'stripes', 'striped', 'striped', 'striped', 'stripes', 'striped', 'striped']",
+    "choices": [
+        "polka dot",
+        "argyle",
+        "solid color",
+        "stripes"
+    ],
+    "correct_choice": "stripes"
+}

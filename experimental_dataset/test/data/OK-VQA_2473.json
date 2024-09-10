@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2473,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2473.png",
+    "question": "What is the handler of this animal known as?",
+    "label": [
+        "mahout",
+        "mahout",
+        "mahout",
+        "mahout",
+        "13000 pounds",
+        "13000 pounds",
+        "elephant trainer",
+        "elephant trainer",
+        "elephant",
+        "elephant"
+    ]
+}

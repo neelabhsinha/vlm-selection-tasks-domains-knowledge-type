@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2354,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2354.png",
+    "question": "What is the heading numbered 12.2 ?",
+    "label": [
+        "Gender"
+    ]
+}

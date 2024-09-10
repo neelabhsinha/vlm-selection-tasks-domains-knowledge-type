@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 67,
+    "caption": "a man riding a skateboard on top of a parking meter",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "outdoor",
+        "vehicle",
+        "person",
+        "tire",
+        "clothing",
+        "transport",
+        "bicycle",
+        "bicycle wheel",
+        "building",
+        "car",
+        "riding",
+        "grass",
+        "Segway",
+        "bike",
+        "street",
+        "unicycle"
+    ]
+}

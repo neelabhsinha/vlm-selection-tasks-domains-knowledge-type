@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 51751,
+    "image_path": "./experimental_dataset/test/images/VQAv2_51751.png",
+    "question": "Does the vase contain a plant?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

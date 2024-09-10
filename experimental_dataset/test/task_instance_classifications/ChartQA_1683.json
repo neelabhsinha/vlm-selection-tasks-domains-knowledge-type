@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 1683,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Nutrition and Food",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Geographical Knowledge"
+    ]
+}

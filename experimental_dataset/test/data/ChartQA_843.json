@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 843,
+    "image_path": "./experimental_dataset/test/images/ChartQA_843.png",
+    "question": "In which year, the estimated number of Christians in Global South exceed 1300 million?",
+    "label": [
+        "2010"
+    ]
+}

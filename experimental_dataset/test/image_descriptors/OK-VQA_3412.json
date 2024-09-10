@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3412,
+    "caption": "a black cat laying on top of a black suitcase",
+    "object_tags": [
+        "accessory",
+        "luggage and bags",
+        "case",
+        "luggage",
+        "suitcase",
+        "indoor",
+        "hand luggage",
+        "everyday carry",
+        "briefcase",
+        "bag",
+        "floor",
+        "black"
+    ]
+}

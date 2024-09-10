@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2776,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2776.png",
+    "question": "In which hotel is the meeting scheduled to take place?",
+    "label": [
+        "sheraton-chicago hotel",
+        "Sheraton-Chicago hotel",
+        "sheraton-chicago"
+    ]
+}

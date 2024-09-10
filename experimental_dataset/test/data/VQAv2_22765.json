@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 22765,
+    "image_path": "./experimental_dataset/test/images/VQAv2_22765.png",
+    "question": "Does the woman in the cream dress have her eyes open?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

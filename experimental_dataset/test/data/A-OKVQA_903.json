@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 903,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_903.png",
+    "question": "Where might this bench be located?",
+    "label": "['island', 'beach', 'oceanside', 'beach', 'ocean side', 'uk', 'waterfront', 'ocean', 'ireland', \"water's edge\"]",
+    "choices": [
+        "pond",
+        "island",
+        "mountain",
+        "lakeshore"
+    ],
+    "correct_choice": "island"
+}

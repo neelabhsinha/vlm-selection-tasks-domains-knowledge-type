@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2651,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2651.png",
+    "question": "What kind of cat is this?",
+    "label": [
+        "black",
+        "black",
+        "black",
+        "black",
+        "tabby",
+        "tabby",
+        "housecat",
+        "housecat",
+        "domestic",
+        "domestic"
+    ]
+}

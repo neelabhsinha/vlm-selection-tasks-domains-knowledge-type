@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 188890,
+    "caption": "a man in a wetsuit standing on a surfboard",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "water",
+        "sky",
+        "swimming",
+        "surfing",
+        "surfboard",
+        "rash guard",
+        "wet suit",
+        "recreation",
+        "outdoor recreation",
+        "surface water sports",
+        "beach",
+        "mountain",
+        "ocean",
+        "surf",
+        "wave"
+    ]
+}

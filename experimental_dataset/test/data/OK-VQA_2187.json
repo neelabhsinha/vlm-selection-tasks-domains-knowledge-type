@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2187,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2187.png",
+    "question": "What is the symbol in the shown board indicates?",
+    "label": [
+        "don't walk",
+        "don't walk",
+        "don't walk",
+        "don't walk",
+        "right arrow",
+        "right arrow",
+        "turn right",
+        "turn right",
+        "1 way",
+        "1 way"
+    ]
+}

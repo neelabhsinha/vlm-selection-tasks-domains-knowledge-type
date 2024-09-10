@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 531,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_531.png",
+    "question": "What is the man's most probable relationship with the boys on the court?",
+    "label": "['coach', 'instructor', 'friends', 'coach', 'dad', 'students', 'coach', 'father', 'coach', 'father']",
+    "choices": [
+        "opponent",
+        "judge",
+        "coach",
+        "father"
+    ],
+    "correct_choice": "coach"
+}

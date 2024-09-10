@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1700,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1700.png",
+    "question": "Can you name the brand of the white car shown in this picture?",
+    "label": [
+        "chevrolet camaro",
+        "chevrolet camaro",
+        "chevrolet camaro",
+        "chevrolet camaro",
+        "pontiac",
+        "pontiac",
+        "chevrolet chevelle",
+        "chevrolet chevelle",
+        "buick",
+        "buick"
+    ]
+}

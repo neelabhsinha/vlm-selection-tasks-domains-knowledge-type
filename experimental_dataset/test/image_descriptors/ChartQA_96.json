@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 96,
+    "caption": "a computer generated image of a clock on a screen",
+    "object_tags": [
+        "text",
+        "map",
+        "diagram",
+        "font",
+        "screenshot"
+    ]
+}

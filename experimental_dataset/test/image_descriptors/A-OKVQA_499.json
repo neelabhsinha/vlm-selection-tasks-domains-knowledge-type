@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 499,
+    "caption": "a large body of water with a bridge over it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "tourist attraction",
+        "Ferris wheel",
+        "water",
+        "tower",
+        "building",
+        "amusement ride",
+        "boat",
+        "lake",
+        "amusement park",
+        "river",
+        "large",
+        "city",
+        "travel"
+    ]
+}

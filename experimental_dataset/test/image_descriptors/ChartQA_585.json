@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 585,
+    "caption": "a collage of photos showing a train on a train track",
+    "object_tags": [
+        "text",
+        "plot",
+        "line",
+        "screenshot",
+        "diagram",
+        "font",
+        "number",
+        "parallel"
+    ]
+}

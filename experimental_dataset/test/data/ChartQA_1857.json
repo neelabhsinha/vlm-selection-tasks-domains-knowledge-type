@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1857,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1857.png",
+    "question": "What was the capital outlay expenditure for the Canadian school boards in 2017?",
+    "label": [
+        "5326.38"
+    ]
+}

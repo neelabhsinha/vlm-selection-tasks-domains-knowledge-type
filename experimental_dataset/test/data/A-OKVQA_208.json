@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 208,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_208.png",
+    "question": "What do people do with the items purchased at this corner?",
+    "label": "['eat', 'eat', 'groceries', 'advertise', 'eat', 'ate them', 'eat them', 'eat tem', 'eat them', 'eat']",
+    "choices": [
+        "sell them",
+        "eat them",
+        "wear them",
+        "display them"
+    ],
+    "correct_choice": "eat them"
+}

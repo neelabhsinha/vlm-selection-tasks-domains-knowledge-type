@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3246,
+    "caption": "a man on a surfboard in the water",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "clothing",
+        "person",
+        "footwear",
+        "sport",
+        "shorts",
+        "recreation",
+        "water",
+        "boat",
+        "standing",
+        "people",
+        "ground",
+        "summer"
+    ]
+}

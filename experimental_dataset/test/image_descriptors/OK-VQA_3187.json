@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3187,
+    "caption": "a large jetliner sitting on top of an airport tarmac",
+    "object_tags": [
+        "plane",
+        "cloud",
+        "outdoor",
+        "sky",
+        "airliner",
+        "airport",
+        "airline",
+        "air travel",
+        "vehicle",
+        "airport apron",
+        "jet aircraft",
+        "runway",
+        "jet engine",
+        "jet bridge",
+        "service",
+        "aerospace engineering",
+        "aircraft engine",
+        "aviation",
+        "window",
+        "aircraft",
+        "ground",
+        "tarmac",
+        "parked",
+        "airplane",
+        "airbus",
+        "jet"
+    ]
+}

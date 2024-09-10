@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1888,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1888.png",
+    "question": "What was the number of similar trips by French residents to the UK in 2019?",
+    "label": [
+        "3.56"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1146,
+    "caption": "a man standing on a bench next to a woman",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "person",
+        "footwear",
+        "ground",
+        "people",
+        "ship",
+        "watercraft",
+        "black and white"
+    ]
+}

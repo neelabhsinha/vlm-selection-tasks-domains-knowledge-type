@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1055,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1055.png",
+    "question": "What does the kite look like?",
+    "label": "['dragon', 'dragon', 'dragon', 'sting ray', 'stingray', 'snake', 'ray', 'sting ray', 'eel', 'snake']",
+    "choices": [
+        "praying mantis",
+        "horse",
+        "zebra",
+        "sting ray"
+    ],
+    "correct_choice": "sting ray"
+}

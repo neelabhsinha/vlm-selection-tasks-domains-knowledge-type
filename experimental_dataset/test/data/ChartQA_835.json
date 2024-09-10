@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 835,
+    "image_path": "./experimental_dataset/test/images/ChartQA_835.png",
+    "question": "What is the sum of two largest segment in the pie chart?",
+    "label": [
+        "70"
+    ]
+}

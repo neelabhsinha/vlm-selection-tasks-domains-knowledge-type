@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2322,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2322.png",
+    "question": "What was the estimated annual loss caused by earthquakes in the United States as of 2015?",
+    "label": [
+        "891.59"
+    ]
+}

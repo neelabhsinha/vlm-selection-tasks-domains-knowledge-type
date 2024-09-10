@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 200612,
+    "image_path": "./experimental_dataset/test/images/VQAv2_200612.png",
+    "question": "Is anybody sitting on these chairs?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "no"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 247,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_247.png",
+    "question": "The man is looking in what direction?",
+    "label": "['up', 'skyward', 'forward', 'up', 'towards cars', 'up', 'up', 'up', 'upward', 'up']",
+    "choices": [
+        "up",
+        "behind",
+        "sideways",
+        "down"
+    ],
+    "correct_choice": "up"
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 608,
+    "caption": "a person walking on the beach with a flock of birds",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "bird",
+        "aquatic bird",
+        "beach",
+        "wind wave",
+        "animal migration",
+        "walking",
+        "flock",
+        "ocean",
+        "person",
+        "standing",
+        "people",
+        "wave",
+        "sea gull",
+        "sea"
+    ]
+}

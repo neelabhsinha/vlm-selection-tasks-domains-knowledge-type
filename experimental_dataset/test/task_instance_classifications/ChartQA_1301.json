@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 1301,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Linguistics",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Social Knowledge"
+    ]
+}

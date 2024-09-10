@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1067,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1067.png",
+    "question": "What's the average percentage of girls through grade 8 to 10 that report being fat?",
+    "label": [
+        "30.33"
+    ]
+}

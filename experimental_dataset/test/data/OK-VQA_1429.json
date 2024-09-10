@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1429,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1429.png",
+    "question": "What kind of signs are these?",
+    "label": [
+        "street",
+        "street",
+        "street",
+        "street",
+        "street",
+        "street",
+        "street",
+        "street",
+        "traffic",
+        "traffic"
+    ]
+}

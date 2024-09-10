@@ -1,0 +1,16 @@
+{
+    "dataset": "ChartQA",
+    "key": 1384,
+    "caption": "a computer screen with a picture of a person on it",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "software",
+        "display",
+        "number",
+        "computer icon",
+        "operating system",
+        "web page",
+        "office application software"
+    ]
+}

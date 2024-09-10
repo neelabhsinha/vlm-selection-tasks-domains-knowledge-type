@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 15,
+    "caption": "a vase sitting on top of a wooden table",
+    "object_tags": [
+        "indoor",
+        "vase",
+        "book",
+        "flower",
+        "furniture",
+        "wall",
+        "floral design",
+        "shelf",
+        "still life",
+        "wooden",
+        "table",
+        "sitting",
+        "floor",
+        "wood"
+    ]
+}

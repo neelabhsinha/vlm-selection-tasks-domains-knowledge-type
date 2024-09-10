@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1021,
+    "caption": "a cat laying on top of a blanket on a bed",
+    "object_tags": [
+        "indoor",
+        "bookcase",
+        "small to medium-sized cats",
+        "book",
+        "felidae",
+        "shelf",
+        "domestic cat",
+        "cat",
+        "animal",
+        "orange",
+        "mammal"
+    ]
+}

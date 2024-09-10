@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3135,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3135.png",
+    "question": "What is keeping the sun from shining in on the room?",
+    "label": [
+        "curtain",
+        "curtain",
+        "curtain",
+        "curtain",
+        "curtain",
+        "curtain",
+        "curtain",
+        "curtain",
+        "drape",
+        "drape"
+    ]
+}

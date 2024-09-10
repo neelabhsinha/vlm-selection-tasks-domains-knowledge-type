@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1139,
+    "caption": "a woman laying on a bed with a laptop",
+    "object_tags": [
+        "indoor",
+        "human face",
+        "person",
+        "bed",
+        "wall",
+        "clothing",
+        "comfort",
+        "blanket",
+        "bed sheet",
+        "furniture",
+        "room",
+        "baby"
+    ]
+}

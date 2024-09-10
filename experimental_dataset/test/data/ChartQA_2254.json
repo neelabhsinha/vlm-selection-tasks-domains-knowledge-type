@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2254,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2254.png",
+    "question": "What was Cineworld Group's net income in 2019?",
+    "label": [
+        "180.3"
+    ]
+}

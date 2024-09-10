@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4165,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4165.png",
+    "question": "Who has signed this letter?",
+    "label": [
+        "Wendell G. Scott, M. D.",
+        "Wendell G. Scott"
+    ]
+}

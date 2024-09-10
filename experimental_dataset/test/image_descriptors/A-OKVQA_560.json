@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 560,
+    "caption": "a street scene with a group of people in front of a bus",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "transport",
+        "wheel",
+        "road",
+        "sky",
+        "building",
+        "bus",
+        "mode of transport",
+        "tree",
+        "street",
+        "van",
+        "people",
+        "ground"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 37971,
+    "caption": "a kitchen with a wooden counter top and wooden cabinets",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "cabinetry",
+        "wall",
+        "bottle",
+        "shelving",
+        "countertop",
+        "cupboard",
+        "shelf",
+        "drawer",
+        "kitchen appliance",
+        "table",
+        "wooden",
+        "kitchen",
+        "cabinet",
+        "home"
+    ]
+}

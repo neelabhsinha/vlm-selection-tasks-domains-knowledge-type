@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 729,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_729.png",
+    "question": "What are the 3 Bears doing?",
+    "label": "['picnicking', 'tea party', 'picnicking', 'tea party', 'picnic', 'eating', 'picnic', 'picnic', 'picnic', 'picnic']",
+    "choices": [
+        "tea party",
+        "having lunch",
+        "none",
+        "gossip session"
+    ],
+    "correct_choice": "tea party"
+}

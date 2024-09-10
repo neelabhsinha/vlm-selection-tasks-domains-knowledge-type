@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1637,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1637.png",
+    "question": "What is the crude birth rate of Switzerland expected to be in 2020?",
+    "label": [
+        "10.3"
+    ]
+}

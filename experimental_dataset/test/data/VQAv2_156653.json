@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 156653,
+    "image_path": "./experimental_dataset/test/images/VQAv2_156653.png",
+    "question": "Is that a man or woman looking at the screen?",
+    "label": [
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man",
+        "man"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2226,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2226.png",
+    "question": "What was the third most popular brand on Foursquare?",
+    "label": [
+        "MTV"
+    ]
+}

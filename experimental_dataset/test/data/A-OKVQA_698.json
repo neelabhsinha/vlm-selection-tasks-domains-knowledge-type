@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 698,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_698.png",
+    "question": "What is the train riding on?",
+    "label": "['rails', 'rails', 'rails', 'railroad', 'tracks', 'rail', 'junction', 'tracks', 'tracks', 'railroad tracks']",
+    "choices": [
+        "grass",
+        "tunnel",
+        "railroad",
+        "street"
+    ],
+    "correct_choice": "railroad"
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 143530,
+    "caption": "people sitting around a table with a cake",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "human face",
+        "indoor",
+        "wall",
+        "tableware",
+        "people",
+        "table",
+        "food",
+        "group",
+        "sitting",
+        "restaurant"
+    ]
+}

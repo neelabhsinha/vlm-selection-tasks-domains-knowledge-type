@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2717,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Anthropology",
+        "Nature",
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Geographical Knowledge"
+    ]
+}

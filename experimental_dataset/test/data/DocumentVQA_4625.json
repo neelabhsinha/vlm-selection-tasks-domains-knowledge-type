@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4625,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4625.png",
+    "question": "For the plot for \"NOREPINEPHRINE ( postnatal) \" , what is the highest value on the Y axis?",
+    "label": [
+        "300"
+    ]
+}

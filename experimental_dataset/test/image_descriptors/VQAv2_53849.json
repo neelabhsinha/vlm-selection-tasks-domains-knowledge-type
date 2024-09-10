@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 53849,
+    "caption": "a large white dog standing in front of a flower garden",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "landscaping",
+        "botanical garden",
+        "tree",
+        "hedge",
+        "shrub",
+        "groundcover",
+        "garden",
+        "annual plant",
+        "lawn",
+        "park",
+        "yard",
+        "flower",
+        "plant",
+        "field"
+    ]
+}

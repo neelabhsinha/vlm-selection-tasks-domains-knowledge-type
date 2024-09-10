@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 133361,
+    "caption": "a child sitting on a toilet with a book",
+    "object_tags": [
+        "person",
+        "indoor",
+        "black and white",
+        "wall",
+        "clothing",
+        "plumbing fixture",
+        "window",
+        "sitting",
+        "bathroom",
+        "toilet",
+        "woman",
+        "girl",
+        "bowl",
+        "monochrome"
+    ]
+}

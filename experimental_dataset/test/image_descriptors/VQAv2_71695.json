@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 71695,
+    "caption": "a man in a suit and tie",
+    "object_tags": [
+        "human face",
+        "person",
+        "clothing",
+        "man",
+        "wall",
+        "portrait",
+        "indoor",
+        "art"
+    ]
+}

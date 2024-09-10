@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 774,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_774.png",
+    "question": "What colour are the couch and chair?",
+    "label": "['beige', 'cream', 'cream', 'white', 'white', 'cream', 'cream', 'cream color', 'sandalbrown', 'ivory']",
+    "choices": [
+        "blue",
+        "cream",
+        "yellow",
+        "brown"
+    ],
+    "correct_choice": "cream"
+}

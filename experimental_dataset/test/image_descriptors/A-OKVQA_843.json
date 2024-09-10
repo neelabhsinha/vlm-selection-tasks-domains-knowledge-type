@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 843,
+    "caption": "a clock tower on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "clock",
+        "clock tower",
+        "tower",
+        "landmark",
+        "city"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 128594,
+    "caption": "a bride and groom pose for a picture",
+    "object_tags": [
+        "person",
+        "bride",
+        "wedding dress",
+        "clothing",
+        "smile",
+        "suit",
+        "ceremony",
+        "bridal clothing",
+        "bridal veil",
+        "female person",
+        "marriage",
+        "veil",
+        "flower",
+        "human face",
+        "formal wear",
+        "gown",
+        "fashion accessory",
+        "bridal party dress",
+        "dress",
+        "woman",
+        "wedding",
+        "head covering",
+        "outdoor"
+    ]
+}

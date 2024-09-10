@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 141470,
+    "image_path": "./experimental_dataset/test/images/VQAv2_141470.png",
+    "question": "What berries are in the bowl?",
+    "label": [
+        "blueberries and raspberries",
+        "raspberries and blueberries",
+        "raspberries",
+        "raspberries and blueberries",
+        "blueberries and raspberries",
+        "strawberries and blueberries",
+        "blueberries, strawberries",
+        "raspberries",
+        "raspberries blueberries",
+        "raspberries and blueberries"
+    ]
+}

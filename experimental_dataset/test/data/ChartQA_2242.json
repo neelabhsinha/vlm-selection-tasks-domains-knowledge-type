@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2242,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2242.png",
+    "question": "What was the second most valuable brand worldwide in 2012?",
+    "label": [
+        "Hermes"
+    ]
+}

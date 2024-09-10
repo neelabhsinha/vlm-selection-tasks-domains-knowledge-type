@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3016,
+    "caption": "street signs on a pole in a city",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "city",
+        "black and white",
+        "monochrome",
+        "street",
+        "sign"
+    ]
+}

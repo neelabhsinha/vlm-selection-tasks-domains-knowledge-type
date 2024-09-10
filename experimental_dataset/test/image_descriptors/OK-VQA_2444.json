@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2444,
+    "caption": "two dogs playing with a frisbee in the sand",
+    "object_tags": [
+        "ground",
+        "dog breed",
+        "outdoor",
+        "dog collar",
+        "sporting group",
+        "pet",
+        "leash",
+        "mammal",
+        "dog",
+        "animal",
+        "mouth"
+    ]
+}

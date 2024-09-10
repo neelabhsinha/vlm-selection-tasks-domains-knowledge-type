@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4865,
+    "caption": "a black purse sitting on top of a kitchen counter",
+    "object_tags": [
+        "indoor",
+        "cabinet",
+        "kitchen appliance",
+        "appliance",
+        "cabinetry",
+        "home appliance",
+        "wall",
+        "major appliance",
+        "kitchen",
+        "countertop",
+        "cupboard",
+        "drawer",
+        "oven",
+        "refrigerator",
+        "kitchen stove",
+        "freezer",
+        "stove",
+        "floor",
+        "small appliance",
+        "cooktop",
+        "kitchen sink",
+        "dishwasher",
+        "microwave oven",
+        "gas stove",
+        "sink",
+        "home"
+    ]
+}

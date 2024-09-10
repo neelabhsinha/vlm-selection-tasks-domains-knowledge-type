@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4781,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4781.png",
+    "question": "What is the first base used for the statistical test?",
+    "label": [
+        "total respondents",
+        "Total respondents"
+    ]
+}

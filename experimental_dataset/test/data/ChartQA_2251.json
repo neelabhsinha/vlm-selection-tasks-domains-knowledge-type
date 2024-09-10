@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2251,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2251.png",
+    "question": "What was Lesotho's gross domestic product in 2019?",
+    "label": [
+        "2.29"
+    ]
+}

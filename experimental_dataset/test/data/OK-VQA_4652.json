@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4652,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4652.png",
+    "question": "If she is eating the pizza right side up estimate the calorie count of the pizza she is eating?",
+    "label": [
+        "500",
+        "500",
+        "500",
+        "500",
+        "1000",
+        "1000",
+        "175",
+        "175",
+        "400",
+        "400"
+    ]
+}

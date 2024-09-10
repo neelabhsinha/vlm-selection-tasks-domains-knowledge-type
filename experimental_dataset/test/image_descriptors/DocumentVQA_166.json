@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 166,
+    "caption": "a white paper with a picture of a group of people on it",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "rectangle",
+        "font",
+        "document",
+        "printing"
+    ]
+}

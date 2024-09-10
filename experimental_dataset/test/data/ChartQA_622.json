@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 622,
+    "image_path": "./experimental_dataset/test/images/ChartQA_622.png",
+    "question": "How much percentage showed in red color?",
+    "label": [
+        "10"
+    ]
+}

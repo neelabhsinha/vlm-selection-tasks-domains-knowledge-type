@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 868,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_868.png",
+    "question": "Why are the people using umbrellas?",
+    "label": "[\"it's raining\", 'raining', 'rain', 'rainy day', 'its raining', 'raining', 'raining', 'rain', 'rain', 'raining']",
+    "choices": [
+        "it's snowing",
+        "it's cold",
+        "it's hot",
+        "it's raining"
+    ],
+    "correct_choice": "it's raining"
+}

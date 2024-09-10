@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1675,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1675.png",
+    "question": "What was the least peaceful country in the world according to the Global Peace Index 2020?",
+    "label": [
+        "Afghanistan"
+    ]
+}

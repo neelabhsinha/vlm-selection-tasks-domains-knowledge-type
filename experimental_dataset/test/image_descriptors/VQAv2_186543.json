@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 186543,
+    "caption": "a man riding a skateboard down a street next to a woman",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "outdoor",
+        "person",
+        "man",
+        "building",
+        "street",
+        "road",
+        "car",
+        "monochrome",
+        "land vehicle",
+        "snapshot",
+        "vehicle",
+        "pedestrian",
+        "wheel",
+        "style",
+        "black and white",
+        "street fashion",
+        "sidewalk",
+        "people",
+        "city",
+        "ground"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 11387,
+    "caption": "a truck is parked on the side of the road",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "building",
+        "wheel",
+        "outdoor",
+        "parade",
+        "road",
+        "car",
+        "street",
+        "tire",
+        "person",
+        "people",
+        "truck",
+        "city",
+        "night"
+    ]
+}

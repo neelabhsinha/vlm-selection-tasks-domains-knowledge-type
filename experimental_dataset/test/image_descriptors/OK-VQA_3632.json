@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3632,
+    "caption": "a white frosted chocolate cake sitting on top of a wooden table",
+    "object_tags": [
+        "dessert",
+        "baked goods",
+        "sweetness",
+        "food",
+        "birthday cake",
+        "cake",
+        "chocolate",
+        "table",
+        "baking",
+        "chocolate cake",
+        "icing",
+        "glaze",
+        "plate",
+        "cake decorating",
+        "confectionery",
+        "sachertorte",
+        "chocolate truffle",
+        "snack cake",
+        "kuchen",
+        "indoor",
+        "sitting"
+    ]
+}

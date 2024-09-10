@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 330,
+    "caption": "a dog catching a frisbee in a yard",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "dog",
+        "house",
+        "field",
+        "animal",
+        "ground",
+        "mammal"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 963,
+    "image_path": "./experimental_dataset/test/images/ChartQA_963.png",
+    "question": "What is the difference between the highest and lowest value in 15-64 years?",
+    "label": [
+        "5.66"
+    ]
+}

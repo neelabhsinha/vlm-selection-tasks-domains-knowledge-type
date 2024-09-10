@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 414,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_414.png",
+    "question": "Name the family or bread to which this dog belongs to?",
+    "label": [
+        "boston terrier",
+        "boston terrier",
+        "boston terrier",
+        "boston terrier",
+        "boxer",
+        "boxer",
+        "boxer",
+        "boxer",
+        "pug",
+        "pug"
+    ]
+}

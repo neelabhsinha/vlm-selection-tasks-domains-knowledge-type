@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4102,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4102.png",
+    "question": "Where might an activity like these take place?",
+    "label": [
+        "mountain",
+        "mountain",
+        "mountain",
+        "mountain",
+        "denver",
+        "denver",
+        "snow",
+        "snow",
+        "mountain",
+        "mountain"
+    ]
+}

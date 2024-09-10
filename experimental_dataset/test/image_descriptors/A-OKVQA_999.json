@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 999,
+    "caption": "a tray of food that is on a table",
+    "object_tags": [
+        "food",
+        "fast food",
+        "person",
+        "cuisine",
+        "dish",
+        "indoor",
+        "pizza"
+    ]
+}

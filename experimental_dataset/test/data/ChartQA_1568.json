@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1568,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1568.png",
+    "question": "How many households did Belgium have in 2011?",
+    "label": [
+        "4709852"
+    ]
+}

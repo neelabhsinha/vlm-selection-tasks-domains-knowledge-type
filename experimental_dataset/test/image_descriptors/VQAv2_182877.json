@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 182877,
+    "caption": "people standing in front of a white bus",
+    "object_tags": [
+        "outdoor",
+        "bus",
+        "vehicle",
+        "land vehicle",
+        "transport",
+        "tree",
+        "sky",
+        "person",
+        "man",
+        "mode of transport",
+        "road",
+        "people",
+        "public transport",
+        "tour bus service",
+        "street",
+        "standing",
+        "waiting"
+    ]
+}

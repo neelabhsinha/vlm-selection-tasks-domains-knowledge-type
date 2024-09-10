@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 83305,
+    "image_path": "./experimental_dataset/test/images/VQAv2_83305.png",
+    "question": "What are the people holding behind the umbrella?",
+    "label": [
+        "drinks",
+        "nothing",
+        "cups",
+        "nothing",
+        "coffee",
+        "handles",
+        "cup",
+        "nothing",
+        "cups",
+        "cups"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1262,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1262.png",
+    "question": "How old is the branch of the military mentioned on the boy's shirt?",
+    "label": [
+        "200 years",
+        "200 years",
+        "200 years",
+        "200 years",
+        "50 years",
+        "50 years",
+        "231 years",
+        "231 years",
+        "100",
+        "100"
+    ]
+}

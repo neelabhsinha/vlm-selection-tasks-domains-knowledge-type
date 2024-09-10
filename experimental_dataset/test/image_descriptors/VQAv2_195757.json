@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 195757,
+    "caption": "two pizzas sitting on top of a grill",
+    "object_tags": [
+        "food",
+        "dish",
+        "fast food",
+        "cuisine",
+        "pizza",
+        "grill",
+        "barbecue grill",
+        "outdoor grill rack & topper",
+        "grilling",
+        "meat",
+        "recipe",
+        "barbecue",
+        "outdoor",
+        "rack",
+        "tray",
+        "pan",
+        "cooking",
+        "oven"
+    ]
+}

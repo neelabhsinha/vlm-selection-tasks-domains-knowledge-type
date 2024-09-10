@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4257,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4257.png",
+    "question": "What decade could this be?",
+    "label": [
+        "1930s",
+        "1930s",
+        "1930s",
+        "1930s",
+        "1940",
+        "1940",
+        "1940",
+        "1940",
+        "1940s",
+        "1940s"
+    ]
+}

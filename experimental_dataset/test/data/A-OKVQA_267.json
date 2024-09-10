@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 267,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_267.png",
+    "question": "How many vehicles have their lights on?",
+    "label": "['one', 'one', 'one', 'one', 'one', 'two', 'one', 'one', 'one', 'one']",
+    "choices": [
+        "three",
+        "one",
+        "none",
+        "two"
+    ],
+    "correct_choice": "two"
+}

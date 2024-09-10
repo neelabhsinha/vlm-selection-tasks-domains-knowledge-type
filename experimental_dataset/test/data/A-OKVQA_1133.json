@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1133,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1133.png",
+    "question": "Given the stance of the batter the player is most likely?",
+    "label": "['playing', 'win match', 'left handed', 'batting', 'hitting', 'game', 'hit', 'right-handed', 'righthanded', 'to play']",
+    "choices": [
+        "lefthanded",
+        "switch hitter",
+        "ambidextrous",
+        "righthanded"
+    ],
+    "correct_choice": "righthanded"
+}

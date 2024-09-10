@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 136,
+    "caption": "a man and a woman looking at a stone wall",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "man",
+        "tree",
+        "sky",
+        "rock",
+        "ground"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 401,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Law",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Cultural Knowledge",
+        "Technical Knowledge"
+    ]
+}

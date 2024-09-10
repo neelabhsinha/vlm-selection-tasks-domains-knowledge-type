@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3548,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3548.png",
+    "question": "What other furniture items might be found in this room?",
+    "label": [
+        "coffee table",
+        "coffee table",
+        "coffee table",
+        "coffee table",
+        "tv",
+        "tv",
+        "loveseat",
+        "loveseat",
+        "television",
+        "television"
+    ]
+}

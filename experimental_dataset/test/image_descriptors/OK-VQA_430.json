@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 430,
+    "caption": "a bed with a picture on the wall and a painting on the wall",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "pillow",
+        "bed",
+        "television",
+        "linens",
+        "picture frame",
+        "interior design",
+        "bedding",
+        "bed sheet",
+        "cushion",
+        "duvet cover",
+        "room",
+        "bedroom",
+        "floor",
+        "hotel"
+    ]
+}

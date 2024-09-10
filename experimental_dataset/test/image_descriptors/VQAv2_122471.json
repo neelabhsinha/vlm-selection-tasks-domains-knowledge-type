@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 122471,
+    "caption": "a man sitting in a chair holding a game controller",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "indoor",
+        "wall",
+        "finger",
+        "eyewear",
+        "comfort",
+        "vision care",
+        "sitting",
+        "glasses",
+        "holding",
+        "remote",
+        "using",
+        "controller"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 121,
+    "caption": "a vase filled with pink flowers sitting on a table",
+    "object_tags": [
+        "vase",
+        "indoor",
+        "soft drink",
+        "table",
+        "flower",
+        "drinkware",
+        "glass",
+        "cup",
+        "red",
+        "sitting",
+        "drink",
+        "wall",
+        "plant",
+        "floor",
+        "glasses",
+        "restaurant"
+    ]
+}

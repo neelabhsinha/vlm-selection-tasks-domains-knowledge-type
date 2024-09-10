@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1468,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1468.png",
+    "question": "What state are these citrus fruits native to?",
+    "label": [
+        "florida",
+        "florida",
+        "florida",
+        "florida",
+        "florida",
+        "florida",
+        "florida",
+        "florida",
+        "florida",
+        "florida"
+    ]
+}

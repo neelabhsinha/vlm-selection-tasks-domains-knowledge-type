@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3605,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3605.png",
+    "question": "What design is on the headboard of the bed?",
+    "label": [
+        "swirl",
+        "swirl",
+        "swirl",
+        "swirl",
+        "flower",
+        "flower",
+        "avant garde",
+        "avant garde",
+        "punched",
+        "punched"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3548,
+    "caption": "a boy and a girl playing a video game",
+    "object_tags": [
+        "indoor",
+        "clothing",
+        "person",
+        "wall",
+        "house",
+        "human face",
+        "toddler",
+        "jeans",
+        "furniture",
+        "family",
+        "couch",
+        "interior design",
+        "lap",
+        "room",
+        "playing",
+        "window",
+        "footwear",
+        "floor",
+        "living room",
+        "child",
+        "sofa",
+        "boy",
+        "game",
+        "young",
+        "controller",
+        "remote"
+    ]
+}

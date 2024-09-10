@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 564,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_564.png",
+    "question": "What are the girls sitting on?",
+    "label": "['three', 'dock', 'deck', 'dock', 'dock', 'dock', 'dock', 'three', 'dock', 'dock']",
+    "choices": [
+        "dock",
+        "chairs",
+        "grass",
+        "boat"
+    ],
+    "correct_choice": "dock"
+}

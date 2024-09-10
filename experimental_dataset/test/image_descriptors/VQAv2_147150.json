@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 147150,
+    "caption": "a man standing on a beach holding a surfboard",
+    "object_tags": [
+        "outdoor",
+        "surfboard",
+        "person",
+        "water",
+        "surfing",
+        "boardsport",
+        "surfing equipment",
+        "ocean",
+        "wind wave",
+        "surface water sports",
+        "surf",
+        "sports equipment",
+        "wakesurfing",
+        "recreation",
+        "wave",
+        "beach"
+    ]
+}

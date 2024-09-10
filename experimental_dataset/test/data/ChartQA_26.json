@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 26,
+    "image_path": "./experimental_dataset/test/images/ChartQA_26.png",
+    "question": "What's the percentage of biggest segment?",
+    "label": [
+        "80"
+    ]
+}

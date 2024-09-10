@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2455,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2455.png",
+    "question": "to whom terry whitson is delivering ?",
+    "label": [
+        "Phipps Bend"
+    ]
+}

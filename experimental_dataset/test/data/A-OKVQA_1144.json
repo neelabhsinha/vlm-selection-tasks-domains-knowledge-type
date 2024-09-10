@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1144,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1144.png",
+    "question": "What does the yellow sign advise you to watch for?",
+    "label": "['parking', 'watch', 'pedestrians', 'people', 'pedestrian', 'pedestrians', 'pedstrains', 'signal board', 'pedestrians', 'warning']",
+    "choices": [
+        "pedestrians",
+        "speedbumps",
+        "dogs",
+        "deer"
+    ],
+    "correct_choice": "pedestrians"
+}

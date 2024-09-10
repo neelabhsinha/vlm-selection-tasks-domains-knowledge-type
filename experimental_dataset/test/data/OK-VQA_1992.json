@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1992,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1992.png",
+    "question": "What is this animal's diet in the wild?",
+    "label": [
+        "plant",
+        "plant",
+        "plant",
+        "plant",
+        "plant",
+        "plant",
+        "lion",
+        "lion",
+        "grass",
+        "grass"
+    ]
+}

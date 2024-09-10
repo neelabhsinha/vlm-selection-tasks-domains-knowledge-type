@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 116171,
+    "caption": "a car parked in front of a stop sign",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "water",
+        "tire",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "ground",
+        "street",
+        "rain",
+        "car"
+    ]
+}

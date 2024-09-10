@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 140,
+    "image_path": "./experimental_dataset/test/images/ChartQA_140.png",
+    "question": "When does the ratings of EU reach the peak?",
+    "label": [
+        "2013"
+    ]
+}

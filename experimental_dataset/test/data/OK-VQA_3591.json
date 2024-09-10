@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3591,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3591.png",
+    "question": "Which kind of train is seen in this photo?",
+    "label": [
+        "subway",
+        "subway",
+        "subway",
+        "subway",
+        "transportation",
+        "transportation",
+        "commuter",
+        "commuter",
+        "lightrail",
+        "lightrail"
+    ]
+}

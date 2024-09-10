@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 46961,
+    "caption": "a city bus parked on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "sky",
+        "land vehicle",
+        "vehicle",
+        "bus",
+        "clothing",
+        "road",
+        "mode of transport",
+        "person",
+        "public transport",
+        "footwear",
+        "street",
+        "bus stop",
+        "standing",
+        "woman",
+        "girl"
+    ]
+}

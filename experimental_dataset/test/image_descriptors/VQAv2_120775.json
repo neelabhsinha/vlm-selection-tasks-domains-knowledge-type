@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 120775,
+    "caption": "a man brushing his teeth in front of a mirror",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "indoor",
+        "wall",
+        "smile",
+        "glasses",
+        "interaction",
+        "man",
+        "laugh",
+        "woman",
+        "standing",
+        "people"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 97598,
+    "image_path": "./experimental_dataset/test/images/VQAv2_97598.png",
+    "question": "What brand is the desktop?",
+    "label": [
+        "dell",
+        "dell",
+        "dell",
+        "hp",
+        "laptop",
+        "dell",
+        "dell",
+        "dell",
+        "dell",
+        "dell"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 19028,
+    "image_path": "./experimental_dataset/test/images/VQAv2_19028.png",
+    "question": "How many bicycles?",
+    "label": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "2",
+        "1",
+        "2",
+        "2",
+        "2",
+        "2"
+    ]
+}

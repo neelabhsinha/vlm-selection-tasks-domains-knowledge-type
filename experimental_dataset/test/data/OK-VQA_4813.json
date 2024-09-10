@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4813,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4813.png",
+    "question": "What type of natural disaster is most likely to happen to this scene?",
+    "label": [
+        "forest fire",
+        "forest fire",
+        "forest fire",
+        "forest fire",
+        "wed engagement",
+        "wed engagement",
+        "wildfire",
+        "wildfire",
+        "fire",
+        "fire"
+    ]
+}

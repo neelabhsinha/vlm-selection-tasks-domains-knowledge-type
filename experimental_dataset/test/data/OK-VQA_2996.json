@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2996,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2996.png",
+    "question": "What is the very bright light called above the girls head in this photo?",
+    "label": [
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "glare",
+        "glare"
+    ]
+}

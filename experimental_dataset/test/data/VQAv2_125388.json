@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 125388,
+    "image_path": "./experimental_dataset/test/images/VQAv2_125388.png",
+    "question": "Is there trash in the can?",
+    "label": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no"
+    ]
+}

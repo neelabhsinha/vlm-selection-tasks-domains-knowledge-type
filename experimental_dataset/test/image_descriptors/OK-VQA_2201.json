@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2201,
+    "caption": "a man riding a dirt bike on top of a lush green field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "transport",
+        "tire",
+        "motorcycle",
+        "bike",
+        "sports equipment",
+        "black and white",
+        "helmet",
+        "freeride",
+        "extreme sport",
+        "motorcycling",
+        "motorcycle racing",
+        "off-roading",
+        "riding",
+        "person",
+        "motorbike",
+        "bicycle",
+        "field",
+        "monochrome"
+    ]
+}

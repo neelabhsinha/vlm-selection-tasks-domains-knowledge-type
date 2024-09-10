@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1179,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1179.png",
+    "question": "Wine consumption of which group increasing over the years?",
+    "label": [
+        "[Casual consumers**, Non-consumers]"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 146568,
+    "image_path": "./experimental_dataset/test/images/VQAv2_146568.png",
+    "question": "How many people are wearing hats?",
+    "label": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

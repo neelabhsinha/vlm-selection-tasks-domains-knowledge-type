@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 45822,
+    "caption": "a bus and a car are parked in front of a church",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "road",
+        "sky",
+        "wheel",
+        "building",
+        "street",
+        "mode of transport",
+        "transport",
+        "tree",
+        "church",
+        "driving",
+        "city",
+        "bus",
+        "parked"
+    ]
+}

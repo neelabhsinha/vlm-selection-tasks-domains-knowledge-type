@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5191,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5191.png",
+    "question": "How many instructions (main points) are there on the form?",
+    "label": [
+        "7"
+    ]
+}

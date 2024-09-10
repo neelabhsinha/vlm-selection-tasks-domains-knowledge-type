@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4142,
+    "caption": "a man standing in front of a bunch of bananas",
+    "object_tags": [
+        "person",
+        "banana",
+        "fruit",
+        "local food",
+        "natural foods",
+        "man",
+        "clothing",
+        "produce",
+        "food",
+        "plant",
+        "outdoor",
+        "market"
+    ]
+}

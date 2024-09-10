@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3283,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3283.png",
+    "question": "What kind of place is this?",
+    "label": [
+        "office",
+        "office",
+        "office",
+        "office",
+        "office",
+        "office",
+        "office",
+        "office",
+        "cubicle",
+        "cubicle"
+    ]
+}

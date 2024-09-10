@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 634,
+    "caption": "people sitting under umbrellas on a beach",
+    "object_tags": [
+        "outdoor",
+        "umbrella",
+        "beach",
+        "ground",
+        "person",
+        "building",
+        "people",
+        "chair",
+        "sand",
+        "summer"
+    ]
+}

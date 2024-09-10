@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4417,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4417.png",
+    "question": "What is this animals main food source?",
+    "label": [
+        "fish",
+        "fish",
+        "fish",
+        "fish",
+        "berry",
+        "berry",
+        "salmon",
+        "salmon",
+        "prey",
+        "prey"
+    ]
+}

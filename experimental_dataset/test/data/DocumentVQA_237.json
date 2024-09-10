@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 237,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_237.png",
+    "question": "What is the consolidated salary of Y. C. Deveshwar (Rs.lac)?",
+    "label": [
+        "240.00"
+    ]
+}

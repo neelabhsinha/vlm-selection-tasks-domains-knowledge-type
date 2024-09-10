@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 86787,
+    "caption": "two people flying a kite in a field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "kite",
+        "cloud",
+        "field",
+        "grassland",
+        "plain",
+        "air sports",
+        "kite sports",
+        "steppe",
+        "outdoor recreation",
+        "paragliding",
+        "person",
+        "parachute",
+        "people",
+        "landscape",
+        "standing"
+    ]
+}

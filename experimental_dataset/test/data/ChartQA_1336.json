@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1336,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1336.png",
+    "question": "What was the share of webcams in 2013?",
+    "label": [
+        "48"
+    ]
+}

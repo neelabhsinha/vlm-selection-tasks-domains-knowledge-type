@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 420,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_420.png",
+    "question": "what is the name of the company in the letter head?",
+    "label": [
+        "PEPSICO"
+    ]
+}

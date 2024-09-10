@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4323,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4323.png",
+    "question": "What is the date given in the \u2018voucher\u2019?",
+    "label": [
+        "february 8, 1974"
+    ]
+}

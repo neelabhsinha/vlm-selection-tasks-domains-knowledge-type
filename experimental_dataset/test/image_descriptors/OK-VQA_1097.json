@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1097,
+    "caption": "a laptop computer sitting on top of a bed",
+    "object_tags": [
+        "indoor",
+        "laptop",
+        "screenshot",
+        "bed",
+        "computer",
+        "mac"
+    ]
+}

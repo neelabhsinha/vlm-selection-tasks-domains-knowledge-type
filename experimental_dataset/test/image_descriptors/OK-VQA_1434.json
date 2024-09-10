@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1434,
+    "caption": "a man laying on a bed with a blanket",
+    "object_tags": [
+        "indoor",
+        "person",
+        "furniture",
+        "comfort",
+        "human face",
+        "bed",
+        "pillow",
+        "clothing",
+        "man",
+        "sofa",
+        "blanket",
+        "laptop",
+        "wall",
+        "sleeping"
+    ]
+}

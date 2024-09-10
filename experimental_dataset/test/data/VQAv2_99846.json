@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 99846,
+    "image_path": "./experimental_dataset/test/images/VQAv2_99846.png",
+    "question": "Is this a man in a costume?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

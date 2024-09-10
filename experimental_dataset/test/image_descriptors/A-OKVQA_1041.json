@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1041,
+    "caption": "a man sitting on a couch holding a cup",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "indoor",
+        "wall",
+        "glasses",
+        "man",
+        "smile",
+        "comfort",
+        "thumb",
+        "accessory",
+        "sitting",
+        "holding",
+        "remote"
+    ]
+}

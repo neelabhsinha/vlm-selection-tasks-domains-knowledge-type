@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 605,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_605.png",
+    "question": "What group of people are on the bus?",
+    "label": "['senior citizens', 'seniors', 'elderly', 'elderly', 'seniors', 'senior citizens', 'women', 'tourists', 'elderly', 'senior citizens']",
+    "choices": [
+        "babies",
+        "seniors",
+        "college students",
+        "teenagers"
+    ],
+    "correct_choice": "seniors"
+}

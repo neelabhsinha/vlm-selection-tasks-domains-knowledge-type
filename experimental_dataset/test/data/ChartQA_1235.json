@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1235,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1235.png",
+    "question": "What is the sum of Reliablity?",
+    "label": [
+        "101"
+    ]
+}

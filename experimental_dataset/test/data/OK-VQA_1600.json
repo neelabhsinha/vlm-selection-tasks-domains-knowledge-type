@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1600,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1600.png",
+    "question": "Where could you find these animals?",
+    "label": [
+        "north america",
+        "north america",
+        "north america",
+        "north america",
+        "canada",
+        "canada",
+        "pond",
+        "pond",
+        "lake",
+        "lake"
+    ]
+}

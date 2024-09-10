@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 177160,
+    "image_path": "./experimental_dataset/test/images/VQAv2_177160.png",
+    "question": "What is the boy wearing?",
+    "label": [
+        "shorts and shirt",
+        "black shorts and white t-shirt",
+        "swimsuit",
+        "shorts",
+        "shorts and shirt",
+        "shirt",
+        "shorts",
+        "wetsuit",
+        "swim trunks",
+        "surfwear"
+    ]
+}

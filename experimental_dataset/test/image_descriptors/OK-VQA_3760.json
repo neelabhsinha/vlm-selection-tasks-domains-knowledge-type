@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3760,
+    "caption": "a room with a desk and a computer on it",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "wall",
+        "computer monitor",
+        "computer",
+        "text",
+        "bookcase",
+        "computer desk",
+        "television",
+        "table",
+        "desktop computer",
+        "floor",
+        "personal computer",
+        "output device",
+        "den",
+        "interior design",
+        "office chair",
+        "chair",
+        "shelving",
+        "desk",
+        "room",
+        "home",
+        "shelf",
+        "office"
+    ]
+}

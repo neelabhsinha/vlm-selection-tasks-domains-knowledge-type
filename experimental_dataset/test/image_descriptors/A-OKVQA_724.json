@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 724,
+    "caption": "a living room filled with furniture and a fireplace",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "couch",
+        "interior design",
+        "den",
+        "sofa bed",
+        "studio couch",
+        "television",
+        "pillow",
+        "coffee table",
+        "house",
+        "floor",
+        "table",
+        "living room",
+        "loveseat",
+        "armrest",
+        "sofa",
+        "room",
+        "furniture",
+        "home",
+        "fireplace"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 48204,
+    "caption": "a man in a kitchen preparing food on a cutting board",
+    "object_tags": [
+        "indoor",
+        "person",
+        "table",
+        "clothing",
+        "house",
+        "wall",
+        "vase",
+        "tableware",
+        "furniture",
+        "window",
+        "floor",
+        "kitchen"
+    ]
+}

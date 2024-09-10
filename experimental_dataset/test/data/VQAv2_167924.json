@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 167924,
+    "image_path": "./experimental_dataset/test/images/VQAv2_167924.png",
+    "question": "Is the vehicle roomy?",
+    "label": [
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes"
+    ]
+}

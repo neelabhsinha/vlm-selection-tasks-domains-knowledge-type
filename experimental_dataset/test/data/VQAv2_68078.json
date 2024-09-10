@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 68078,
+    "image_path": "./experimental_dataset/test/images/VQAv2_68078.png",
+    "question": "Is the child hurt?",
+    "label": [
+        "no",
+        "no",
+        "can't tell",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

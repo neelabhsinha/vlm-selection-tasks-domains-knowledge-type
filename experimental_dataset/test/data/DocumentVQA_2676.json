@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2676,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2676.png",
+    "question": "What is written just below the logo?",
+    "label": [
+        "\"Real Solutions that Work for Families\"",
+        "Real solutions that work for families",
+        "\"Real solutions that work for families\""
+    ]
+}

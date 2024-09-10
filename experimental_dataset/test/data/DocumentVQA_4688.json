@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4688,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4688.png",
+    "question": "Who is the dean of university college?",
+    "label": [
+        "Dr. Earnest Brandenburg",
+        "DR. EARNEST BRANDENBURG",
+        "EARNEST BRANDENBURG"
+    ]
+}

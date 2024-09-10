@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 399,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_399.png",
+    "question": "How many people seem to be sitting down to eat?",
+    "label": "['one', 'one', 'one', 'two', 'one', 'one', 'one', 'one', '1 person', 'one']",
+    "choices": [
+        "three",
+        "two",
+        "one",
+        "four"
+    ],
+    "correct_choice": "one"
+}

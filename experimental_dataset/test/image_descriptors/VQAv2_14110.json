@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 14110,
+    "caption": "two men standing next to each other holding wii controllers",
+    "object_tags": [
+        "clothing",
+        "indoor",
+        "wall",
+        "person",
+        "jeans",
+        "footwear",
+        "man",
+        "furniture",
+        "trousers",
+        "human face",
+        "picture frame",
+        "room",
+        "floor",
+        "game",
+        "controller",
+        "standing",
+        "remote",
+        "art"
+    ]
+}

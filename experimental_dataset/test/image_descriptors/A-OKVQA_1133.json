@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1133,
+    "caption": "a baseball player holding a bat on a baseball field",
+    "object_tags": [
+        "athletic game",
+        "person",
+        "outdoor",
+        "baseball",
+        "player",
+        "sport",
+        "bat-and-ball games",
+        "sports equipment",
+        "baseball bat",
+        "baseball player",
+        "glove",
+        "stick and ball games",
+        "sport venue",
+        "sports uniform",
+        "baseball uniform",
+        "baseball park",
+        "swinging",
+        "hitting"
+    ]
+}

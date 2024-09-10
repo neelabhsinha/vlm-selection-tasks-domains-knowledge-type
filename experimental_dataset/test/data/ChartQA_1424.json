@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1424,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1424.png",
+    "question": "What percentage of Zambia's GDP did government expenditure amount to in 2019?",
+    "label": [
+        "30.22"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1839,
+    "caption": "a sandwich and french fries on a tray",
+    "object_tags": [
+        "food",
+        "fast food",
+        "snack",
+        "bread",
+        "baked goods",
+        "american food",
+        "junk food",
+        "banh",
+        "bun",
+        "sandwich",
+        "finger food",
+        "cuisine",
+        "meal",
+        "dish",
+        "snack food",
+        "fried food",
+        "gluten",
+        "side dish",
+        "banh ma",
+        "indoor",
+        "burger"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 149,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_149.png",
+    "question": "What is the ' series' and 'no' of publication ?",
+    "label": [
+        "series c no4",
+        "Series C No4"
+    ]
+}

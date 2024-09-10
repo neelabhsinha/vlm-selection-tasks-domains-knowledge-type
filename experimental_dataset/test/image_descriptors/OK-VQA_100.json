@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 100,
+    "caption": "a man on a skateboard on a wooden platform",
+    "object_tags": [
+        "footwear",
+        "clothing",
+        "person",
+        "outdoor",
+        "sport",
+        "jeans",
+        "playground",
+        "ground",
+        "skating",
+        "boy",
+        "riding",
+        "skateboarding",
+        "street",
+        "young",
+        "skateboard"
+    ]
+}

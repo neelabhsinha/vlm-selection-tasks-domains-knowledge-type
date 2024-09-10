@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3426,
+    "caption": "a man is flying a kite on the beach",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sky",
+        "person",
+        "beach",
+        "ground",
+        "water",
+        "kite sports",
+        "vacation",
+        "windsports",
+        "standing",
+        "kite",
+        "parachute"
+    ]
+}

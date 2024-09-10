@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2561,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2561.png",
+    "question": "How much was the unexpended income at the end of first fiscal year?",
+    "label": [
+        "$315,135.46"
+    ]
+}

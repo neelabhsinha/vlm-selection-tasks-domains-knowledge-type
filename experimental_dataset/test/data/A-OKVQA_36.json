@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 36,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_36.png",
+    "question": "What is the batter most likely preparing to do here?",
+    "label": "['bunt', 'bunt', 'swing', 'bunt', 'bunt', 'bunt', 'hitting', 'bunt', 'swing', 'bunt']",
+    "choices": [
+        "bunt",
+        "sit",
+        "dodge ball",
+        "slide"
+    ],
+    "correct_choice": "bunt"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2660,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2660.png",
+    "question": "Under which department, \"PLACEMENT\" is organized, in first chart?",
+    "label": [
+        "OFFICE OF SCIENTIFIC PERSONNEL"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3252,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3252.png",
+    "question": "What is the name of the trick being performed?",
+    "label": [
+        "rail slide",
+        "rail slide",
+        "slide",
+        "slide",
+        "grind",
+        "grind",
+        "board slide",
+        "board slide",
+        "grind",
+        "grind"
+    ]
+}

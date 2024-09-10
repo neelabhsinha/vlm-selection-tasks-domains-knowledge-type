@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 443,
+    "image_path": "./experimental_dataset/test/images/ChartQA_443.png",
+    "question": "What's the sum of the average value of blue and green bars?",
+    "label": [
+        "98"
+    ]
+}

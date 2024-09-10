@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 205287,
+    "caption": "a woman sitting on a bench with an umbrella",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "footwear",
+        "plant",
+        "tree",
+        "grass",
+        "human face",
+        "fashion accessory",
+        "ground",
+        "woman",
+        "umbrella",
+        "sitting",
+        "holding",
+        "people",
+        "rock",
+        "girl"
+    ]
+}

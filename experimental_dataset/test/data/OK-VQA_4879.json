@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4879,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4879.png",
+    "question": "What item indicates that the speaker is not a culinary expert?",
+    "label": [
+        "tie",
+        "tie",
+        "tie",
+        "tie",
+        "slide",
+        "slide",
+        "suit",
+        "suit",
+        "projector",
+        "projector"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 874,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_874.png",
+    "question": "In addition to working what else does the group seem to be doing at the tables?",
+    "label": "['drinking water', 'talking', 'talking', 'having meal', 'eating', 'socializing', 'eating', 'drinking', 'eating', 'typing']",
+    "choices": [
+        "chatting",
+        "napping",
+        "playing",
+        "eating"
+    ],
+    "correct_choice": "eating"
+}

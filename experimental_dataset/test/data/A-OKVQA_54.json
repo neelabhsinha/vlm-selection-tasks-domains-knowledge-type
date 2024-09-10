@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 54,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_54.png",
+    "question": "They are likely having pizza at what kind of event?",
+    "label": "['meeting', 'meeting', 'school event', 'meeting', 'party', 'working event', 'party', 'social', 'academic', 'party']",
+    "choices": [
+        "family",
+        "gaming",
+        "academic",
+        "social"
+    ],
+    "correct_choice": "academic"
+}

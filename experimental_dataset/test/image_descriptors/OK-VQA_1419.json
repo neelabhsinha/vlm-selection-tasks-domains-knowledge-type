@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1419,
+    "caption": "a baby sitting in a chair with a toy in its mouth",
+    "object_tags": [
+        "human face",
+        "person",
+        "clothing",
+        "baby & toddler clothing",
+        "boy",
+        "indoor",
+        "baby",
+        "floor",
+        "chair",
+        "child",
+        "toddler"
+    ]
+}

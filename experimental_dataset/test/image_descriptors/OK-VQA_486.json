@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 486,
+    "caption": "a horse that is walking on the beach",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "beach",
+        "water",
+        "person",
+        "horse",
+        "clothing",
+        "ground",
+        "mare",
+        "people",
+        "riding",
+        "standing"
+    ]
+}

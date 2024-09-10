@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 208198,
+    "caption": "a pair of scissors sitting on top of a table",
+    "object_tags": [
+        "tool",
+        "scissors",
+        "office instrument",
+        "indoor",
+        "text",
+        "table",
+        "hand tool"
+    ]
+}

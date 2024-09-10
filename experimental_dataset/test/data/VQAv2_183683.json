@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 183683,
+    "image_path": "./experimental_dataset/test/images/VQAv2_183683.png",
+    "question": "What kind of dog is on the couch?",
+    "label": [
+        "white",
+        "mutt",
+        "pit",
+        "mutt",
+        "pitbull",
+        "white",
+        "lab",
+        "wiener",
+        "schnauzer",
+        "bulldog"
+    ]
+}

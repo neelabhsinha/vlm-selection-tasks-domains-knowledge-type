@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 139311,
+    "image_path": "./experimental_dataset/test/images/VQAv2_139311.png",
+    "question": "Where are the dogs?",
+    "label": [
+        "park",
+        "ground",
+        "on steps",
+        "outside",
+        "on stairs",
+        "steps",
+        "dirt",
+        "outside",
+        "backyard",
+        "wood steps"
+    ]
+}

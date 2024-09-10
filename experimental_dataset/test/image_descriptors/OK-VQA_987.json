@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 987,
+    "caption": "a laptop computer sitting on top of a desk",
+    "object_tags": [
+        "indoor",
+        "text",
+        "wall",
+        "computer",
+        "furniture",
+        "shelving",
+        "book",
+        "office supplies",
+        "computer monitor",
+        "shelf",
+        "cabinetry",
+        "writing desk",
+        "microwave",
+        "desk"
+    ]
+}

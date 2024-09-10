@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 67582,
+    "image_path": "./experimental_dataset/test/images/VQAv2_67582.png",
+    "question": "What drinks are on the table?",
+    "label": [
+        "tea and water",
+        "water/tea/coffee(latte)",
+        "ice tea and water",
+        "water and tea",
+        "water",
+        "water and iced tea",
+        "water, juice, coffee",
+        "water and iced tea",
+        "water and tea",
+        "water and tea"
+    ]
+}

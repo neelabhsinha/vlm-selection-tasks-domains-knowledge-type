@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 762,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_762.png",
+    "question": "How many people can fit inside the stadium in the photo?",
+    "label": [
+        "20000",
+        "20000",
+        "20000",
+        "20000",
+        "ten of thousand",
+        "ten of thousand",
+        "lot",
+        "lot",
+        "hundred thousand",
+        "hundred thousand"
+    ]
+}

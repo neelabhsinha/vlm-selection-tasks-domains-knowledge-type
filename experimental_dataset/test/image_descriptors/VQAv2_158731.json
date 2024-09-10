@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 158731,
+    "caption": "a green motorcycle parked in a parking lot",
+    "object_tags": [
+        "land vehicle",
+        "wheel",
+        "vehicle",
+        "outdoor",
+        "tire",
+        "auto part",
+        "motorcycle",
+        "text",
+        "vehicle registration plate",
+        "road",
+        "motor vehicle",
+        "fender",
+        "automotive exterior",
+        "car",
+        "automotive tire",
+        "motorbike",
+        "automotive lighting",
+        "rim",
+        "automotive tail & brake light",
+        "automotive exhaust",
+        "exhaust system",
+        "parked",
+        "ground",
+        "street"
+    ]
+}

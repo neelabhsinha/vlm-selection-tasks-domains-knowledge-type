@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 433,
+    "caption": "a baseball player wearing a catchers mitt on a baseball field",
+    "object_tags": [
+        "footwear",
+        "clothing",
+        "outdoor",
+        "ground",
+        "person",
+        "red",
+        "street",
+        "sitting",
+        "dog",
+        "scooter"
+    ]
+}

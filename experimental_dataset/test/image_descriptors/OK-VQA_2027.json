@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2027,
+    "caption": "a black cat laying on top of a couch",
+    "object_tags": [
+        "indoor",
+        "small to medium-sized cats",
+        "laying",
+        "felidae",
+        "black",
+        "remote",
+        "control",
+        "sofa",
+        "mammal",
+        "floor",
+        "domestic cat",
+        "animal",
+        "controller",
+        "cat"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4428,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4428.png",
+    "question": "Name the sea shown in this picture where the ship is seen?",
+    "label": [
+        "atlantic",
+        "atlantic",
+        "atlantic",
+        "atlantic",
+        "dock of red sea",
+        "dock of red sea",
+        "kamchatka",
+        "kamchatka",
+        "philippine",
+        "philippine"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 131944,
+    "caption": "a person walking down a street holding an umbrella",
+    "object_tags": [
+        "umbrella",
+        "accessory",
+        "person",
+        "clothing",
+        "building",
+        "ground",
+        "rain",
+        "street",
+        "holding",
+        "outdoor",
+        "walking",
+        "standing",
+        "rainy"
+    ]
+}

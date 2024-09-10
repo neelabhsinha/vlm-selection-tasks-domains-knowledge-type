@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4682,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4682.png",
+    "question": "Who is the manufacturer of that motorcycle?",
+    "label": [
+        "ducati",
+        "ducati",
+        "ducati",
+        "ducati",
+        "caress",
+        "caress",
+        "suzuki",
+        "suzuki",
+        "kawasaki",
+        "kawasaki"
+    ]
+}

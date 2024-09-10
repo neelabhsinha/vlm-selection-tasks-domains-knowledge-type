@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4953,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4953.png",
+    "question": "Who is number 1 among the list of nominees listed?",
+    "label": [
+        "John B. Youmans"
+    ]
+}

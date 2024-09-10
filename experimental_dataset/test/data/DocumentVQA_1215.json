@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1215,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1215.png",
+    "question": "What 'is needed to ensure stakeholder engagement and robust well-supported results'?",
+    "label": [
+        "comment periods",
+        "Comment periods",
+        "Comment period"
+    ]
+}

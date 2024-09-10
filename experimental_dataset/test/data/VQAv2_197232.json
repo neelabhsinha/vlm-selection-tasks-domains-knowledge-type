@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 197232,
+    "image_path": "./experimental_dataset/test/images/VQAv2_197232.png",
+    "question": "Are there any lights on in this scene besides sunlight?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes"
+    ]
+}

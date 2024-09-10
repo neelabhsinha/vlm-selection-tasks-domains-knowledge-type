@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1812,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1812.png",
+    "question": "What psychological trait is this animal most well known for?",
+    "label": [
+        "memory",
+        "memory",
+        "memory",
+        "memory",
+        "memory",
+        "memory",
+        "memory",
+        "memory",
+        "fear",
+        "fear"
+    ]
+}

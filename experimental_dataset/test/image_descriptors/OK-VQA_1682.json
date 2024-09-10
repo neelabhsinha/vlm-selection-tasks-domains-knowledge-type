@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1682,
+    "caption": "a white plate topped with a sandwich and salad",
+    "object_tags": [
+        "food",
+        "meal",
+        "bread",
+        "table",
+        "fast food",
+        "fork",
+        "tableware",
+        "drink",
+        "plate",
+        "cuisine",
+        "dish",
+        "brunch",
+        "baked goods",
+        "indoor",
+        "american food",
+        "staple food",
+        "supper",
+        "vegetable",
+        "salad",
+        "sandwich",
+        "snack food"
+    ]
+}

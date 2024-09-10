@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 961,
+    "image_path": "./experimental_dataset/test/images/ChartQA_961.png",
+    "question": "What is the percentage difference between the genders in Purchases made online?",
+    "label": [
+        "1"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 517,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_517.png",
+    "question": "What is the clear plastic on the front for?",
+    "label": "['shield', 'windshield', 'windshield', 'protection', 'wind protection', 'bug shield', 'light', 'wind shield', 'windshield', 'wind protection']",
+    "choices": [
+        "visibility",
+        "bug shield",
+        "sun shield",
+        "style"
+    ],
+    "correct_choice": "bug shield"
+}

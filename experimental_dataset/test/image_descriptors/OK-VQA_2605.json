@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2605,
+    "caption": "a large jetliner flying through a cloudy sky",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "cloud",
+        "plane",
+        "transport",
+        "aircraft",
+        "flight",
+        "airplane",
+        "air travel",
+        "wing",
+        "vehicle",
+        "cloudy",
+        "jet aircraft",
+        "aerospace engineering",
+        "flap",
+        "aviation",
+        "aircraft engine",
+        "airline",
+        "general aviation",
+        "jet",
+        "airliner",
+        "clouds",
+        "aerospace manufacturer",
+        "blue",
+        "large",
+        "day"
+    ]
+}

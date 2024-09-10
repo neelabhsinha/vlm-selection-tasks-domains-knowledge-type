@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 65456,
+    "image_path": "./experimental_dataset/test/images/VQAv2_65456.png",
+    "question": "Is the window clean?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes"
+    ]
+}

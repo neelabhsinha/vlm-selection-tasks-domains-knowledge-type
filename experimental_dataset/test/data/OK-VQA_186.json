@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 186,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_186.png",
+    "question": "How big do these animals get?",
+    "label": [
+        "5 feet",
+        "5 feet",
+        "5 feet",
+        "5 feet",
+        "4ft",
+        "4ft",
+        "100 lbs",
+        "100 lbs",
+        "100 pounds",
+        "100 pounds"
+    ]
+}

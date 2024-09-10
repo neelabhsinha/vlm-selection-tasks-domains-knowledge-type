@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 416,
+    "caption": "a bedroom with a bed and a window",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "bed",
+        "window",
+        "interior design",
+        "house",
+        "furniture",
+        "bedding",
+        "room",
+        "bed sheet",
+        "pillow",
+        "linens",
+        "window treatment",
+        "mattress",
+        "window covering",
+        "bed frame",
+        "duvet cover",
+        "drawer",
+        "chest of drawers",
+        "nightstand",
+        "bedroom",
+        "decay",
+        "abandoned"
+    ]
+}

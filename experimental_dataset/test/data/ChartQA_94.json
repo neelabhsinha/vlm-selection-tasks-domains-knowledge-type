@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 94,
+    "image_path": "./experimental_dataset/test/images/ChartQA_94.png",
+    "question": "Which country received the highest\ufffd Programmable aid over the years?",
+    "label": [
+        "Solomon Islands"
+    ]
+}

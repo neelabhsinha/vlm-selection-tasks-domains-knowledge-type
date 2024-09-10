@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2030,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Books",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Literary Knowledge",
+        "Cultural Knowledge",
+        "Visual Knowledge"
+    ]
+}

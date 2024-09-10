@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4028,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4028.png",
+    "question": "Which vehicle is pulling the person for this activity?",
+    "label": [
+        "boat",
+        "boat",
+        "boat",
+        "boat",
+        "boat",
+        "boat",
+        "boat",
+        "boat",
+        "speed boat",
+        "speed boat"
+    ]
+}

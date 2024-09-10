@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1026,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1026.png",
+    "question": "What is the total including tax?",
+    "label": [
+        "216.00"
+    ]
+}

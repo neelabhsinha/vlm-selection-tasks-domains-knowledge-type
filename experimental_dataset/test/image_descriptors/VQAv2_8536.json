@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 8536,
+    "caption": "a kitchen with a refrigerator and a stove",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "cabinetry",
+        "home appliance",
+        "countertop",
+        "sink",
+        "kitchen appliance",
+        "interior design",
+        "shelf",
+        "cupboard",
+        "room",
+        "house",
+        "ceiling",
+        "tap",
+        "furniture",
+        "drawer",
+        "home",
+        "kitchen",
+        "refrigerator",
+        "appliance",
+        "light",
+        "remodel"
+    ]
+}

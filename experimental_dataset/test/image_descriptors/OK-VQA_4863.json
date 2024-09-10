@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4863,
+    "caption": "a man walking down a street with a statue of a man on top of it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "footwear",
+        "horse",
+        "sculpture",
+        "person",
+        "street",
+        "city",
+        "statue",
+        "art"
+    ]
+}

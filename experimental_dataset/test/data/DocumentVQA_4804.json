@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4804,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4804.png",
+    "question": "Which option is marked, \"CA\" or \"CN\"?",
+    "label": [
+        "CN"
+    ]
+}

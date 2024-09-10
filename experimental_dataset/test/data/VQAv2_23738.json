@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 23738,
+    "image_path": "./experimental_dataset/test/images/VQAv2_23738.png",
+    "question": "What branch of the armed forces is the cake for?",
+    "label": [
+        "air force",
+        "navy",
+        "navy",
+        "army",
+        "navy",
+        "army",
+        "chiefs",
+        "navy",
+        "navy",
+        "navy"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1143,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1143.png",
+    "question": "What is the percentage of men user?",
+    "label": [
+        "61.2"
+    ]
+}

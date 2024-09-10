@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 172827,
+    "caption": "a yellow street sign sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "sky",
+        "sign",
+        "cloud",
+        "road",
+        "traffic sign",
+        "street",
+        "signage",
+        "land vehicle",
+        "road surface",
+        "thoroughfare",
+        "vehicle",
+        "house",
+        "street sign",
+        "asphalt",
+        "car",
+        "plant",
+        "lane",
+        "tarmac",
+        "way",
+        "ground",
+        "yellow",
+        "stop"
+    ]
+}

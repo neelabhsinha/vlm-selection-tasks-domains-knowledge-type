@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 632,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_632.png",
+    "question": "What is the Accounts receivable trade, less allowances for doubtfulaccounts $268 (2007,$193) for 2007?",
+    "label": [
+        "$9,444",
+        "9,444"
+    ]
+}

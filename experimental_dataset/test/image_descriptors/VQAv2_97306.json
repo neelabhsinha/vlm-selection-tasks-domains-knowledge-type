@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 97306,
+    "caption": "a kitchen with a sink and a stove",
+    "object_tags": [
+        "indoor",
+        "countertop",
+        "cabinetry",
+        "tap",
+        "plumbing fixture",
+        "furniture",
+        "mirror",
+        "wall",
+        "house",
+        "interior design",
+        "drawer",
+        "cupboard",
+        "chair",
+        "table",
+        "chest of drawers",
+        "room",
+        "home appliance",
+        "window",
+        "sink",
+        "kitchen",
+        "floor"
+    ]
+}

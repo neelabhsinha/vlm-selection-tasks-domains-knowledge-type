@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 675,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_675.png",
+    "question": "What gas station is pictured?",
+    "label": [
+        "shell",
+        "shell",
+        "shell",
+        "shell",
+        "shell",
+        "shell",
+        "shell",
+        "shell",
+        "shell",
+        "shell"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 8,
+    "caption": "a flower in a vase on a table",
+    "object_tags": [
+        "indoor",
+        "vase",
+        "orange",
+        "still life photography",
+        "lily",
+        "plant",
+        "flower"
+    ]
+}

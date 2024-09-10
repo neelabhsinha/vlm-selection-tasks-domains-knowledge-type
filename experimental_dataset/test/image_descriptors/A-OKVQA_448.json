@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 448,
+    "caption": "a man riding a bike down a river",
+    "object_tags": [
+        "outdoor",
+        "black and white",
+        "tree",
+        "person",
+        "footwear",
+        "water",
+        "monochrome",
+        "clothing",
+        "lake",
+        "street"
+    ]
+}

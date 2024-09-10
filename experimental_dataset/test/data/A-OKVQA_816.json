@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 816,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_816.png",
+    "question": "What continent is this?",
+    "label": "['europe', 'european', 'asia', 'america', 'north america', 'europe', 'north america', 'north america', 'europe', 'asia']",
+    "choices": [
+        "europe",
+        "asia",
+        "africa",
+        "north america"
+    ],
+    "correct_choice": "europe"
+}

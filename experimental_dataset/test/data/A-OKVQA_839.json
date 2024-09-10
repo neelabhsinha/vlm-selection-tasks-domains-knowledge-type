@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 839,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_839.png",
+    "question": "What is the person using to capture an image?",
+    "label": "['phone', 'cell phone', 'phone', 'phone', 'cellphone', 'cellphone', 'phone camera', 'camera', 'phone', 'phone']",
+    "choices": [
+        "phone",
+        "camera",
+        "pencil",
+        "memory"
+    ],
+    "correct_choice": "phone"
+}

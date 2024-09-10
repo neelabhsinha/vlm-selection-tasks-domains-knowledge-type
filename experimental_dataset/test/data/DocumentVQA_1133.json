@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1133,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1133.png",
+    "question": "What is the title of the first paragraph in this document?",
+    "label": [
+        "Judicial Review",
+        "Judicial review"
+    ]
+}

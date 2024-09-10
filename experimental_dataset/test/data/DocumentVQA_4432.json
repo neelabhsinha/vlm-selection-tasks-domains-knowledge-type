@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4432,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4432.png",
+    "question": "What is the committee strength for the meeting on 21st January, 2011 ?",
+    "label": [
+        "6"
+    ]
+}

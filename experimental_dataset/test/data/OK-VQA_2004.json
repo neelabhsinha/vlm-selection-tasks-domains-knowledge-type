@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2004,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2004.png",
+    "question": "What's the best zoo to see this animal?",
+    "label": [
+        "chicago",
+        "chicago",
+        "chicago",
+        "chicago",
+        "new orleans",
+        "new orleans",
+        "elephant zoo",
+        "elephant zoo",
+        "la zoo",
+        "la zoo"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 196881,
+    "caption": "a large black and white polar bear laying on the ground",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "panda",
+        "bear",
+        "outdoor",
+        "ground"
+    ]
+}

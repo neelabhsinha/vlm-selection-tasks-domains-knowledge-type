@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1227,
+    "caption": "a bowl of apples and a bowl of apples on a table",
+    "object_tags": [
+        "food",
+        "kitchen utensil",
+        "tableware",
+        "indoor",
+        "fruit",
+        "dish",
+        "table",
+        "serveware",
+        "snack",
+        "meal",
+        "dishware",
+        "breakfast",
+        "fork",
+        "bowl",
+        "cup",
+        "spoon"
+    ]
+}

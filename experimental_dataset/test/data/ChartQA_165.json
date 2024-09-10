@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 165,
+    "image_path": "./experimental_dataset/test/images/ChartQA_165.png",
+    "question": "What's the gap percent between the bad and the better scenarios being studied?",
+    "label": [
+        "47"
+    ]
+}

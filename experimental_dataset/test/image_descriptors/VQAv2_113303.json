@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 113303,
+    "caption": "a man standing in front of a refrigerator",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "kitchen appliance",
+        "cabinet",
+        "home appliance",
+        "man",
+        "wall",
+        "kitchen",
+        "standing",
+        "refrigerator",
+        "appliance"
+    ]
+}

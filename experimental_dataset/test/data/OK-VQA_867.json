@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 867,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_867.png",
+    "question": "What kind of food does this bird favor?",
+    "label": [
+        "worm",
+        "worm",
+        "worm",
+        "worm",
+        "seed",
+        "seed",
+        "pollen",
+        "pollen",
+        "bug",
+        "bug"
+    ]
+}

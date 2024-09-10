@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1365,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge"
+    ]
+}

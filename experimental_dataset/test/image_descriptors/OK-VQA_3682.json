@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3682,
+    "caption": "a man standing next to a woman in a field",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "sky",
+        "man",
+        "grass",
+        "tree",
+        "people",
+        "footwear",
+        "woman",
+        "jeans",
+        "group",
+        "standing"
+    ]
+}

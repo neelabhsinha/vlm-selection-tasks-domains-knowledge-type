@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3383,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3383.png",
+    "question": "This bear is native to what continent?",
+    "label": [
+        "antarctica",
+        "antarctica",
+        "antarctica",
+        "antarctica",
+        "antarctica",
+        "antarctica",
+        "artic",
+        "artic",
+        "arctic",
+        "arctic"
+    ]
+}

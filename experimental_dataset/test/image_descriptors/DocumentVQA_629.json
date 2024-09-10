@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 629,
+    "caption": "a drawing of a bird sitting on a piece of paper",
+    "object_tags": [
+        "text",
+        "line",
+        "diagram",
+        "sketch",
+        "drawing",
+        "parallel"
+    ]
+}

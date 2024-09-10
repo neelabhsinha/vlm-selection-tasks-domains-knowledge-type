@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 175724,
+    "image_path": "./experimental_dataset/test/images/VQAv2_175724.png",
+    "question": "What dish has been prepared in the picture?",
+    "label": [
+        "cake",
+        "cake",
+        "cake",
+        "cake",
+        "cake",
+        "cake",
+        "cake",
+        "cake",
+        "birthday cake",
+        "living"
+    ]
+}

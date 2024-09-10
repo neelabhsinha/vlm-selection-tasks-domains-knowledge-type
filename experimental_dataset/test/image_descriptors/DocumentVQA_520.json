@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 520,
+    "caption": "a series of photographs of a building with a clock on it",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "rectangle",
+        "parallel"
+    ]
+}

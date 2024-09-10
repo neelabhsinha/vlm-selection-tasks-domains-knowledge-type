@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 93869,
+    "caption": "a train on a train track at night",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "tree",
+        "track",
+        "evening",
+        "train",
+        "sunset",
+        "vehicle",
+        "sun",
+        "railroad",
+        "sunrise"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 138,
+    "caption": "a train on a train track near a crowd of people",
+    "object_tags": [
+        "transport",
+        "railroad",
+        "train",
+        "vehicle",
+        "outdoor",
+        "land vehicle",
+        "track",
+        "railway",
+        "public transport",
+        "rolling stock",
+        "people",
+        "train station",
+        "locomotive",
+        "building",
+        "transport hub",
+        "railroad car",
+        "mode of transport",
+        "platform",
+        "ground",
+        "crowd"
+    ]
+}

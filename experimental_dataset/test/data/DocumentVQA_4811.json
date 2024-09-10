@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4811,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4811.png",
+    "question": "what is the # servings/ day of potato chips?",
+    "label": [
+        "0.2"
+    ]
+}

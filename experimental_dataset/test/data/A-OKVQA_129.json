@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 129,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_129.png",
+    "question": "What kind of weather was there?",
+    "label": "['rainy', 'rain', 'rainy', 'rain', 'rain', 'raining', 'rain', 'rainy', 'rain', 'rain']",
+    "choices": [
+        "hail",
+        "rain",
+        "sun",
+        "snow"
+    ],
+    "correct_choice": "rain"
+}

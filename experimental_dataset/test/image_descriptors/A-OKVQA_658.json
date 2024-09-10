@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 658,
+    "caption": "a motorcycle with a statue of a man on top of it",
+    "object_tags": [
+        "tire",
+        "wheel",
+        "vehicle",
+        "auto part",
+        "land vehicle",
+        "weapon",
+        "military vehicle",
+        "display",
+        "parked",
+        "museum"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1885,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1885.png",
+    "question": "In Table 12, What is the Frequency of revisions without Antibiotics?",
+    "label": [
+        "123"
+    ]
+}

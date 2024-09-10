@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 542,
+    "caption": "a train on a track in a city",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "public transport",
+        "bridge",
+        "vehicle",
+        "transport",
+        "railroad",
+        "transport hub",
+        "track",
+        "sky",
+        "railway",
+        "land vehicle",
+        "rolling stock",
+        "train",
+        "rail",
+        "traveling",
+        "commuter"
+    ]
+}

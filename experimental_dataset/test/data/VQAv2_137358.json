@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 137358,
+    "image_path": "./experimental_dataset/test/images/VQAv2_137358.png",
+    "question": "Do you see the ball?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

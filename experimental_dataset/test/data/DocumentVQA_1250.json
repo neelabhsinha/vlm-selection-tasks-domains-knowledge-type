@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1250,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1250.png",
+    "question": "how much is the airfare ( excluding excise tax )",
+    "label": [
+        "146.73",
+        "$ 146.73",
+        "$146.73"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3714,
+    "caption": "a large group of people with luggage at an airport",
+    "object_tags": [
+        "clothing",
+        "luggage",
+        "luggage and bags",
+        "person",
+        "building",
+        "musical instrument",
+        "man",
+        "suitcase",
+        "street",
+        "standing",
+        "people",
+        "group",
+        "case",
+        "bag",
+        "outdoor"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 43861,
+    "caption": "a car parked on the side of a road next to a truck",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "sky",
+        "tree",
+        "road",
+        "car",
+        "transport",
+        "vehicle registration plate",
+        "van",
+        "automotive parking light",
+        "mode of transport",
+        "truck",
+        "motor vehicle",
+        "street",
+        "building",
+        "family car",
+        "parking",
+        "traffic",
+        "red",
+        "parked",
+        "driving",
+        "city"
+    ]
+}

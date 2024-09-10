@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 173305,
+    "caption": "a woman sitting at a table with a piece of cake",
+    "object_tags": [
+        "person",
+        "birthday cake",
+        "human face",
+        "clothing",
+        "indoor",
+        "table",
+        "dessert",
+        "woman",
+        "cake",
+        "baked goods",
+        "tableware",
+        "wall",
+        "sitting",
+        "food"
+    ]
+}

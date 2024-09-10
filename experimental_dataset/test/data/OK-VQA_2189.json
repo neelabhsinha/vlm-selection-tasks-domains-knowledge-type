@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2189,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2189.png",
+    "question": "What is this woman made out of?",
+    "label": [
+        "bronze",
+        "bronze",
+        "bronze",
+        "bronze",
+        "stone",
+        "stone",
+        "stone",
+        "stone",
+        "steel",
+        "steel"
+    ]
+}

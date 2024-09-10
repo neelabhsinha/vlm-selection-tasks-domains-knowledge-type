@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2047,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2047.png",
+    "question": "What was Square's net revenue in the second quarter of 2020?",
+    "label": [
+        "1923.63"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4253,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4253.png",
+    "question": "When is the Preliminary Pay Register Extraction date?",
+    "label": [
+        "June 28, 1997"
+    ]
+}

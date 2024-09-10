@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2348,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2348.png",
+    "question": "What type of surface is the vehicle driving on?",
+    "label": [
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "dirt",
+        "sand",
+        "sand",
+        "sand",
+        "sand"
+    ]
+}

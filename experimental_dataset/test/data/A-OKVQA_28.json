@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 28,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_28.png",
+    "question": "Which is not an ingredient of this dish?",
+    "label": "['ketchup', 'salad', 'fish', 'ham', 'apple', 'marshmallow', 'pineapple', 'water', 'pepperoni', 'grapes']",
+    "choices": [
+        "flatbread",
+        "prosciutto",
+        "arugula",
+        "pepperoni"
+    ],
+    "correct_choice": "pepperoni"
+}

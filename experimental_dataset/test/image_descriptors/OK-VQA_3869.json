@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3869,
+    "caption": "a woman sitting on a snow covered slope with a snowboard",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "person",
+        "skiing",
+        "sports equipment",
+        "clothing",
+        "winter",
+        "footwear",
+        "snowboard",
+        "glacial landform",
+        "piste",
+        "mountain",
+        "winter sport",
+        "snowshoe",
+        "ski",
+        "ski resort",
+        "freezing",
+        "sky",
+        "ski equipment",
+        "ice cap",
+        "arctic",
+        "snowboarding",
+        "goggles",
+        "skier",
+        "posing",
+        "slope"
+    ]
+}

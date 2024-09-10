@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 94303,
+    "caption": "a living room filled with furniture and a laptop computer",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "wall",
+        "interior design",
+        "desk",
+        "couch",
+        "computer",
+        "table",
+        "book",
+        "shelf",
+        "television",
+        "den",
+        "living room",
+        "room",
+        "studio couch",
+        "sofa bed",
+        "house",
+        "text",
+        "bookcase",
+        "floor",
+        "home"
+    ]
+}

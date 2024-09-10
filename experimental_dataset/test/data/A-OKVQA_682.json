@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 682,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_682.png",
+    "question": "What type of lighting is used in the recessed lights in the kitchen?",
+    "label": "['sunlight', 'led', 'pot lighting', 'sun', 'blue', 'can light', 'bright', 'indirect', 'neon', 'compact fluorescent']",
+    "choices": [
+        "fluorescent",
+        "led",
+        "compact fluorescent",
+        "incandescent"
+    ],
+    "correct_choice": "compact fluorescent"
+}

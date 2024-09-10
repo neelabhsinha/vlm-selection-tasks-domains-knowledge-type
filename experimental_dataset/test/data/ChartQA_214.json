@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 214,
+    "image_path": "./experimental_dataset/test/images/ChartQA_214.png",
+    "question": "What is colombia data?",
+    "label": [
+        "0.1"
+    ]
+}

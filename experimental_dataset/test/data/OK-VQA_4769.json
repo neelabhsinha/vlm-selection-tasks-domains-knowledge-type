@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4769,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4769.png",
+    "question": "How is this made?",
+    "label": [
+        "fried",
+        "fried",
+        "fried",
+        "fried",
+        "oven",
+        "oven",
+        "oven",
+        "oven",
+        "deep fried",
+        "deep fried"
+    ]
+}

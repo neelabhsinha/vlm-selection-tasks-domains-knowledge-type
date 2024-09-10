@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4807,
+    "caption": "a collage of photos of people in a park",
+    "object_tags": [
+        "text",
+        "tree",
+        "outdoor",
+        "black and white",
+        "book",
+        "monochrome"
+    ]
+}

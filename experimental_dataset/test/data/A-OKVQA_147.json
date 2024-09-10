@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 147,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_147.png",
+    "question": "What expression are these children making?",
+    "label": "['smile', 'smile', 'joy', 'smiling', 'happy', 'smiles', 'smiling', 'happy', 'smiles', 'smiles']",
+    "choices": [
+        "confused",
+        "smiling",
+        "crying",
+        "angry"
+    ],
+    "correct_choice": "smiling"
+}

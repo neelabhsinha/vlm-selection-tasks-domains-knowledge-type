@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 525,
+    "caption": "a man sitting in front of a laptop computer",
+    "object_tags": [
+        "text",
+        "laptop",
+        "person",
+        "human face",
+        "indoor",
+        "computer",
+        "glasses",
+        "electronics",
+        "tennis"
+    ]
+}

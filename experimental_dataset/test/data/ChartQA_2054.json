@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2054,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2054.png",
+    "question": "What was the digital share of commerce of music and video in 2013?",
+    "label": [
+        "80.1"
+    ]
+}

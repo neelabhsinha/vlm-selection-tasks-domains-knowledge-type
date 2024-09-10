@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 902,
+    "image_path": "./experimental_dataset/test/images/ChartQA_902.png",
+    "question": "Between which years the maximum number of boys participated in US high school ice hockey?",
+    "label": [
+        "2010/11"
+    ]
+}

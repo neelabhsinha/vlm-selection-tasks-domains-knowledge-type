@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3986,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3986.png",
+    "question": "What is the name of the device that is protecting people from the rain in this picture?",
+    "label": [
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella"
+    ]
+}

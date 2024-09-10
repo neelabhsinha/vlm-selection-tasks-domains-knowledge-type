@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 95385,
+    "caption": "a cat laying on top of a bicycle",
+    "object_tags": [
+        "bicycle wheel",
+        "tire",
+        "animal",
+        "small to medium-sized cats",
+        "felidae",
+        "bicycle",
+        "spoke",
+        "indoor",
+        "wheel",
+        "cat",
+        "bike"
+    ]
+}

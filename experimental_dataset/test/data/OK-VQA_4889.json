@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4889,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4889.png",
+    "question": "What are the candies on this cake?",
+    "label": [
+        "birthday",
+        "birthday",
+        "birthday",
+        "birthday",
+        "m and m's",
+        "m and m's",
+        "birthday candle",
+        "birthday candle",
+        "m and m",
+        "m and m"
+    ]
+}

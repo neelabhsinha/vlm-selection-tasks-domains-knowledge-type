@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 503,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_503.png",
+    "question": "What item is found on the counter?",
+    "label": "['towel', 'soap', 'dishcloth coffeemaker', 'bowl', 'bowl', 'box', 'towel', 'towel', 'coffee maker', 'paper bag']",
+    "choices": [
+        "bowl",
+        "cat",
+        "egg",
+        "coffee maker"
+    ],
+    "correct_choice": "coffee maker"
+}

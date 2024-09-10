@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 153136,
+    "image_path": "./experimental_dataset/test/images/VQAv2_153136.png",
+    "question": "Did these children likely engage in sports just now?",
+    "label": [
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

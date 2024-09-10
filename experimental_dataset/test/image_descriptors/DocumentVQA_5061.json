@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5061,
+    "caption": "a computer generated image of a map of the world",
+    "object_tags": [
+        "text",
+        "parallel",
+        "menu",
+        "document",
+        "number",
+        "handwriting",
+        "screenshot",
+        "receipt"
+    ]
+}

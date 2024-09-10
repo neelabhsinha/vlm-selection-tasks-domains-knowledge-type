@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4532,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4532.png",
+    "question": "In which unit, did  \"Energy\" is represented in the document?",
+    "label": [
+        "kcal"
+    ]
+}

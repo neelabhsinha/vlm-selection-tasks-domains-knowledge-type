@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 686,
+    "caption": "a man and a woman on a bicycle",
+    "object_tags": [
+        "wheel",
+        "person",
+        "land vehicle",
+        "vehicle",
+        "outdoor",
+        "clothing",
+        "building",
+        "transport",
+        "tire",
+        "bicycle wheel",
+        "man",
+        "rickshaw",
+        "road",
+        "motorcycle",
+        "street",
+        "bicycle",
+        "riding",
+        "people",
+        "bike",
+        "scooter"
+    ]
+}

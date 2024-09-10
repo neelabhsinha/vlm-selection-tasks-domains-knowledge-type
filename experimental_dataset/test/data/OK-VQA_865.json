@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 865,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_865.png",
+    "question": "What kind of event is this?",
+    "label": [
+        "horse race",
+        "horse race",
+        "horse race",
+        "horse race",
+        "horse race",
+        "horse race",
+        "horse race",
+        "horse race",
+        "race",
+        "race"
+    ]
+}

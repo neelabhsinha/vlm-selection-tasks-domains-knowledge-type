@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1106,
+    "caption": "two women sitting at a table with a cell phone",
+    "object_tags": [
+        "person",
+        "human face",
+        "smile",
+        "clothing",
+        "wine glass",
+        "indoor",
+        "wine",
+        "woman",
+        "drink",
+        "wall",
+        "tableware",
+        "glasses",
+        "glass",
+        "bar"
+    ]
+}

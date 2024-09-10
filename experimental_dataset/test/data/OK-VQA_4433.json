@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4433,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4433.png",
+    "question": "What does this vehicle do?",
+    "label": [
+        "transport",
+        "transport",
+        "transport",
+        "transport",
+        "transport people",
+        "transport people",
+        "move",
+        "move",
+        "transport",
+        "transport"
+    ]
+}

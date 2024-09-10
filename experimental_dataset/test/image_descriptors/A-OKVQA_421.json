@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 421,
+    "caption": "a refrigerator that has some food on it",
+    "object_tags": [
+        "wall",
+        "text",
+        "indoor",
+        "home appliance",
+        "kitchen appliance",
+        "soft drink",
+        "food",
+        "kitchen",
+        "appliance",
+        "refrigerator"
+    ]
+}

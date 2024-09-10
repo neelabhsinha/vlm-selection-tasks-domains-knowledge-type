@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 447,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_447.png",
+    "question": "What is the light green liquid in the glass and metal dispenser on the table far in the back left?",
+    "label": "['unknown', 'olive oil', 'relish', 'olive oil', 'olive oil', 'oil', 'olive oil', 'alcohol', 'oil', 'unknown']",
+    "choices": [
+        "lime juice",
+        "olive oil",
+        "mountain dew",
+        "green tea"
+    ],
+    "correct_choice": "olive oil"
+}

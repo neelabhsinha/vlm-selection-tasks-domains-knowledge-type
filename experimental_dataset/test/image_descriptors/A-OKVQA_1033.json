@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1033,
+    "caption": "a person holding a sandwich in their hand",
+    "object_tags": [
+        "person",
+        "snack",
+        "fast food",
+        "baked goods",
+        "food",
+        "bread",
+        "holding",
+        "indoor",
+        "hand"
+    ]
+}

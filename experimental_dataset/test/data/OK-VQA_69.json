@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 69,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_69.png",
+    "question": "What fruit comes from these trees?",
+    "label": [
+        "coconut",
+        "coconut",
+        "coconut",
+        "coconut",
+        "coconut",
+        "coconut",
+        "pineapple",
+        "pineapple",
+        "banana",
+        "banana"
+    ]
+}

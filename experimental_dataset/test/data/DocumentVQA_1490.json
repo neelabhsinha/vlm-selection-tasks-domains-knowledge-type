@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1490,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1490.png",
+    "question": "What is the number of pages for recent sweetener reasearch report ?",
+    "label": [
+        "38 pages",
+        "38"
+    ]
+}

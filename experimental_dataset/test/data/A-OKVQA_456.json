@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 456,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_456.png",
+    "question": "What can be done with this utensil?",
+    "label": "['cook soup', 'stirring', 'stir', 'stir', 'stir', 'stirring', 'stir', 'stirring', 'stir', 'stir']",
+    "choices": [
+        "brush",
+        "stir",
+        "flip",
+        "cut"
+    ],
+    "correct_choice": "stir"
+}

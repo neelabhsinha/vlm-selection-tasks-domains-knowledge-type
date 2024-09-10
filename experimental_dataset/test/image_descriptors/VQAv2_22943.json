@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 22943,
+    "caption": "a man in a suit holding a bottle of wine",
+    "object_tags": [
+        "person",
+        "indoor",
+        "wall",
+        "bottle",
+        "clothing",
+        "drink",
+        "tie",
+        "man",
+        "human face",
+        "wine glass",
+        "shirt",
+        "dress shirt",
+        "smile",
+        "wine",
+        "wearing"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 95201,
+    "image_path": "./experimental_dataset/test/images/VQAv2_95201.png",
+    "question": "What game is this equipment for?",
+    "label": [
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis"
+    ]
+}

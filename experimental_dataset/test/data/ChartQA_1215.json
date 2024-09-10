@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1215,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1215.png",
+    "question": "What is the difference  between the highest age of groom and lowest age of bride ?",
+    "label": [
+        "2.7"
+    ]
+}

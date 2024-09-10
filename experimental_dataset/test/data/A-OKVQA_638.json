@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 638,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_638.png",
+    "question": "What are these people most likely drinking?",
+    "label": "['wine', 'water', 'water', 'water', 'wine', 'water', 'water', 'wine', 'water', 'wine']",
+    "choices": [
+        "red wine",
+        "champagne",
+        "water",
+        "apple juice"
+    ],
+    "correct_choice": "water"
+}

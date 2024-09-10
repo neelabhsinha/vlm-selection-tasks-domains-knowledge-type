@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 281,
+    "caption": "a woman in a blue shirt talking on a cell phone",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "indoor",
+        "wall",
+        "glasses",
+        "hearing",
+        "smile",
+        "office supplies",
+        "woman",
+        "telephone"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 619,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_619.png",
+    "question": "What creamy food frequently would fill up these cups?",
+    "label": "['yogurt', 'yogurt', 'yogurt', 'smoothies', 'smoothies', 'yogurt', 'smoothies', 'yogurt', 'yogurt', 'yogurt']",
+    "choices": [
+        "yogurt",
+        "dressing",
+        "mashed potatoes",
+        "hummus"
+    ],
+    "correct_choice": "yogurt"
+}

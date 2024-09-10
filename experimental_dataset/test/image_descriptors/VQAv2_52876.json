@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 52876,
+    "caption": "a man and a woman sitting on a lawn chair",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "grass",
+        "clothing",
+        "fashion accessory",
+        "sun hat",
+        "vehicle",
+        "plant",
+        "hat",
+        "summer"
+    ]
+}

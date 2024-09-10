@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5269,
+    "caption": "a collage of photos showing a variety of different types of newspapers",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "black and white",
+        "number",
+        "printing",
+        "menu",
+        "document"
+    ]
+}

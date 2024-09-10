@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1875,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1875.png",
+    "question": "How many software units were sold in Nintendo's 2021 fiscal year?",
+    "label": [
+        "3.38"
+    ]
+}

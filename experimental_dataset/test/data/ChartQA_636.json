@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 636,
+    "image_path": "./experimental_dataset/test/images/ChartQA_636.png",
+    "question": "What is the number of pupils receiving lesson in Gaelic learner classes?",
+    "label": [
+        "3996"
+    ]
+}

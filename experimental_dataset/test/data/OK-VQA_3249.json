@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3249,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3249.png",
+    "question": "What is the ingredient shown on top of this food item?",
+    "label": [
+        "sprinkle",
+        "sprinkle",
+        "sprinkle",
+        "sprinkle",
+        "sprinkle",
+        "sprinkle",
+        "sprinkle",
+        "sprinkle",
+        "jimmy",
+        "jimmy"
+    ]
+}

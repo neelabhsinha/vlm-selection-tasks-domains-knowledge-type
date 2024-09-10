@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 82279,
+    "image_path": "./experimental_dataset/test/images/VQAv2_82279.png",
+    "question": "Is the woman trying to brush the child's teeth?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

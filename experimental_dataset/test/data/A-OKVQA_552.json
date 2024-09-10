@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 552,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_552.png",
+    "question": "What board game is the man's competition shirt referring to?",
+    "label": "['chess', 'chess', 'chess', 'chess', 'chess', 'chess', 'chess', 'chess', 'chess', 'chess']",
+    "choices": [
+        "checkers",
+        "go",
+        "monopoly",
+        "chess"
+    ],
+    "correct_choice": "chess"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 673,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_673.png",
+    "question": "Where are the people sitting?",
+    "label": "['on bench', 'park', 'bench', 'park', 'park bench', 'park', 'bench', 'bench', 'bench', 'bench']",
+    "choices": [
+        "grass",
+        "bus",
+        "park",
+        "shopping mall"
+    ],
+    "correct_choice": "park"
+}

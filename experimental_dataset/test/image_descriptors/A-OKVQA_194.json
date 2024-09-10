@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 194,
+    "caption": "three women and two men standing in front of a table full of pizzas",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "wall",
+        "smile",
+        "fast food",
+        "snack",
+        "human face",
+        "furniture",
+        "food",
+        "table",
+        "people",
+        "woman",
+        "standing",
+        "floor",
+        "pizza"
+    ]
+}

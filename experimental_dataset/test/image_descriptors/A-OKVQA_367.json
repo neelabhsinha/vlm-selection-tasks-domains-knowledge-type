@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 367,
+    "caption": "a small group of children sitting at a table in a classroom",
+    "object_tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "man",
+        "woman",
+        "furniture",
+        "learning",
+        "chair",
+        "education",
+        "job",
+        "employment",
+        "people",
+        "desk",
+        "human face",
+        "class",
+        "meeting",
+        "classroom",
+        "course",
+        "group",
+        "table",
+        "wall"
+    ]
+}

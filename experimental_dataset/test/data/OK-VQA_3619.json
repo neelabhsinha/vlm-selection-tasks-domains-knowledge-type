@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3619,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3619.png",
+    "question": "What color would this be it it were transporting students?",
+    "label": [
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "orange",
+        "orange"
+    ]
+}

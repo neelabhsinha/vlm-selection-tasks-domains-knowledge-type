@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 156623,
+    "caption": "a bathroom with a toilet, sink and window",
+    "object_tags": [
+        "indoor",
+        "window",
+        "sink",
+        "wall",
+        "plumbing fixture",
+        "interior design",
+        "window blind",
+        "tap",
+        "house",
+        "window covering",
+        "window treatment",
+        "bathroom",
+        "countertop",
+        "floor",
+        "room",
+        "toilet"
+    ]
+}

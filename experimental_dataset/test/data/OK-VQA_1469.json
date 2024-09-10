@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1469,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1469.png",
+    "question": "How does the lady can eat the cake?",
+    "label": [
+        "with fork",
+        "with fork",
+        "with fork",
+        "with fork",
+        "with fork",
+        "with fork",
+        "fork",
+        "fork",
+        "utinsils01",
+        "utinsils01"
+    ]
+}

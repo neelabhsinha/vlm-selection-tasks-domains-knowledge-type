@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 400,
+    "caption": "a man standing in a field with a herd of sheep",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sheep",
+        "herding",
+        "plant",
+        "livestock",
+        "person",
+        "hiking",
+        "shepherd",
+        "goatherd",
+        "herder",
+        "herd",
+        "mountain",
+        "standing",
+        "field"
+    ]
+}

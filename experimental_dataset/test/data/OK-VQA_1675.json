@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1675,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1675.png",
+    "question": "What kind of car is this?",
+    "label": [
+        "convertible",
+        "convertible",
+        "convertible",
+        "convertible",
+        "sport car",
+        "sport car",
+        "fiat",
+        "fiat",
+        "convert",
+        "convert"
+    ]
+}

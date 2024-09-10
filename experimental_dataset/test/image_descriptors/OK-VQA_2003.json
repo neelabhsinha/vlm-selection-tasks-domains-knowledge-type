@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2003,
+    "caption": "a piece of chocolate cake sitting on top of a white plate",
+    "object_tags": [
+        "food",
+        "table",
+        "dessert",
+        "tableware",
+        "drink",
+        "cake",
+        "plate",
+        "chocolate",
+        "baked goods",
+        "sweetness",
+        "serveware",
+        "snack",
+        "chocolate cake",
+        "indoor",
+        "dishware",
+        "drinkware",
+        "snack cake",
+        "cup",
+        "sitting",
+        "coffee"
+    ]
+}

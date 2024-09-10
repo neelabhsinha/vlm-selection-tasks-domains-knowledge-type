@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 228,
+    "caption": "a man sitting at a counter in a kitchen",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "indoor",
+        "wall",
+        "kitchen appliance",
+        "home appliance",
+        "kitchen",
+        "countertop",
+        "man",
+        "microwave oven",
+        "food",
+        "cooking",
+        "oven"
+    ]
+}

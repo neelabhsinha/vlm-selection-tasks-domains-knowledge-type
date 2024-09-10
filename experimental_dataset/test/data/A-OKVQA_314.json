@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 314,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_314.png",
+    "question": "They are likely sitting down to enjoy what meal of the day?",
+    "label": "['breakfast', 'breakfast', 'breakfast', 'breakfast', 'breakfast', 'breakfast', 'breakfast', 'breakfast', 'breakfast', 'breakfast']",
+    "choices": [
+        "dinner",
+        "snack",
+        "breakfast",
+        "lunch"
+    ],
+    "correct_choice": "breakfast"
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 490,
+    "caption": "a woman brushing her teeth while a child watches",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "indoor",
+        "wall",
+        "toddler",
+        "baby",
+        "bathroom",
+        "boy",
+        "brushing",
+        "brush",
+        "child",
+        "young",
+        "girl"
+    ]
+}

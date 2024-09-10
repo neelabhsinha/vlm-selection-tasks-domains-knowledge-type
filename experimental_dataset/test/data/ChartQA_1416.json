@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1416,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1416.png",
+    "question": "What is the projected GDP of the United States in dollars?",
+    "label": [
+        "22920"
+    ]
+}

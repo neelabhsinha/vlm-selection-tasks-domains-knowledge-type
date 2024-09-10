@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1560,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1560.png",
+    "question": "How long is that sandwhich?",
+    "label": [
+        "12 inches",
+        "12 inches",
+        "12 inches",
+        "12 inches",
+        "1 foot",
+        "1 foot",
+        "foot long",
+        "foot long",
+        "foot",
+        "foot"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 120,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_120.png",
+    "question": "Which piece of clothing is unique to one person here?",
+    "label": "['vest', 'sweater', 'vneck sweater', 'vest', 'grey sweater', 'vest', 'sweater', 'vest', 'lanyard', 'sweater']",
+    "choices": [
+        "collar",
+        "shirt",
+        "tie",
+        "vest"
+    ],
+    "correct_choice": "vest"
+}

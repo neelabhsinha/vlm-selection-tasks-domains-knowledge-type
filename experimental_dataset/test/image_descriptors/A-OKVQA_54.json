@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 54,
+    "caption": "people sitting around a table eating pizza",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "human face",
+        "indoor",
+        "people",
+        "group",
+        "sharing",
+        "conversation",
+        "furniture",
+        "meeting",
+        "sitting",
+        "wall",
+        "chair",
+        "learning",
+        "footwear",
+        "table",
+        "room",
+        "eating",
+        "food"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2721,
+    "caption": "a man standing next to a bed in a room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "clothing",
+        "person",
+        "bed",
+        "interior design",
+        "footwear",
+        "room",
+        "bed frame",
+        "man",
+        "bedding",
+        "floor",
+        "standing",
+        "people",
+        "bedroom"
+    ]
+}

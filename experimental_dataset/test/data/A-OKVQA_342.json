@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 342,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_342.png",
+    "question": "Where is the horse?",
+    "label": "['field', 'field', 'farm', 'open field', 'field', 'field', 'ranch', 'corral', 'outside', 'field']",
+    "choices": [
+        "farm",
+        "city street",
+        "ranch",
+        "parade"
+    ],
+    "correct_choice": "ranch"
+}

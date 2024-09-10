@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 151684,
+    "image_path": "./experimental_dataset/test/images/VQAv2_151684.png",
+    "question": "Where is the mouse?",
+    "label": [
+        "on desk",
+        "on desk",
+        "next to keyboard",
+        "foremost in picture",
+        "on desk",
+        "right of keyboard",
+        "table",
+        "front",
+        "on desktop",
+        "table"
+    ]
+}

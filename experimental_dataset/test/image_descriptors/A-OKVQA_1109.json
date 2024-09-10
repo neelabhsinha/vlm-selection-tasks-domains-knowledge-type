@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1109,
+    "caption": "two baseball players on a field playing baseball",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "athletic game",
+        "sport",
+        "person",
+        "player",
+        "baseball",
+        "sports equipment",
+        "sports uniform",
+        "sport venue",
+        "bat-and-ball games",
+        "team sport",
+        "ball game",
+        "baseball player",
+        "field",
+        "baseball uniform",
+        "baseball park",
+        "baseball equipment",
+        "baseball field",
+        "fence",
+        "baseball glove",
+        "clothing",
+        "glove"
+    ]
+}

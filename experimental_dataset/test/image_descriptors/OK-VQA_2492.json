@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2492,
+    "caption": "a car with a cartoon character on top of it",
+    "object_tags": [
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "tire",
+        "car",
+        "indoor"
+    ]
+}

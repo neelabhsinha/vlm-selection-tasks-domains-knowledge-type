@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4249,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4249.png",
+    "question": "What are these animals typically farmed for?",
+    "label": [
+        "wool",
+        "wool",
+        "wool",
+        "wool",
+        "wool",
+        "wool",
+        "milk",
+        "milk",
+        "meat",
+        "meat"
+    ]
+}

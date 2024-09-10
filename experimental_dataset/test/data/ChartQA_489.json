@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 489,
+    "image_path": "./experimental_dataset/test/images/ChartQA_489.png",
+    "question": "Is the value in\ufffd Rich & poor more than Young & older people in Not very strong?",
+    "label": [
+        "No"
+    ]
+}

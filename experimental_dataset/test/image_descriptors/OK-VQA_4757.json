@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4757,
+    "caption": "a duck is swimming in a pond of water",
+    "object_tags": [
+        "animal",
+        "bird",
+        "aquatic bird",
+        "water bird",
+        "outdoor",
+        "duck",
+        "water",
+        "lake",
+        "ducks, geese and swans",
+        "beak",
+        "geese and swans",
+        "goose",
+        "ducks",
+        "swimming",
+        "pond",
+        "wildlife"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1934,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1934.png",
+    "question": "What percentage of Honduras exports came from the United States in 2019?",
+    "label": [
+        "53"
+    ]
+}

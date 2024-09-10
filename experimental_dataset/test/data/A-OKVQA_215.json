@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 215,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_215.png",
+    "question": "Which vegetable in this soup is heart shaped?",
+    "label": "['carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot']",
+    "choices": [
+        "lima bean",
+        "carrot",
+        "onion",
+        "tomato"
+    ],
+    "correct_choice": "carrot"
+}

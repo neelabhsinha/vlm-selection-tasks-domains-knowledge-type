@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 205956,
+    "caption": "a man on a skateboard doing a trick",
+    "object_tags": [
+        "person",
+        "sports equipment",
+        "outdoor",
+        "clothing",
+        "sport",
+        "individual sports",
+        "sports",
+        "man",
+        "footwear",
+        "recreation",
+        "stunt",
+        "stunt performer",
+        "jumping",
+        "street stunts",
+        "skating",
+        "skateboard",
+        "skateboarding",
+        "street sports",
+        "skateboarding equipment",
+        "boardsport",
+        "skateboarder",
+        "air",
+        "park"
+    ]
+}

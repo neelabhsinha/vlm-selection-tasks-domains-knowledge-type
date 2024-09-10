@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 179833,
+    "image_path": "./experimental_dataset/test/images/VQAv2_179833.png",
+    "question": "Were the oats used to make this food?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no"
+    ]
+}

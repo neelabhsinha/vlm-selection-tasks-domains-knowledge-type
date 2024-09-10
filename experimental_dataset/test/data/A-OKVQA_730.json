@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 730,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_730.png",
+    "question": "What body of water is this?",
+    "label": "['lake', 'lake', 'lake', 'lake', 'lake', 'lake', 'lake', 'lake', 'lake', 'lake']",
+    "choices": [
+        "ocean",
+        "pond",
+        "river",
+        "lake"
+    ],
+    "correct_choice": "lake"
+}

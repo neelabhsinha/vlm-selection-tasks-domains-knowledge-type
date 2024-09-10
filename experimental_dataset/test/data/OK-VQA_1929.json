@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1929,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1929.png",
+    "question": "What is usually above a sink that is not present in this picture?",
+    "label": [
+        "mirror",
+        "mirror",
+        "mirror",
+        "mirror",
+        "mirror",
+        "mirror",
+        "mirror",
+        "mirror",
+        "mirro",
+        "mirro"
+    ]
+}

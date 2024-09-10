@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 183809,
+    "image_path": "./experimental_dataset/test/images/VQAv2_183809.png",
+    "question": "How many palm trees do you see?",
+    "label": [
+        "25",
+        "many",
+        "16",
+        "50",
+        "more than 20",
+        "multiple",
+        "100",
+        "22",
+        "many",
+        "20"
+    ]
+}

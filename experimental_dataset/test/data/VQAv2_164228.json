@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 164228,
+    "image_path": "./experimental_dataset/test/images/VQAv2_164228.png",
+    "question": "What is this kid doing?",
+    "label": [
+        "playing legos",
+        "posing",
+        "holding remote",
+        "playing game",
+        "lego",
+        "holding remotes",
+        "playing wii",
+        "gaming",
+        "playing",
+        "wii"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 91039,
+    "image_path": "./experimental_dataset/test/images/VQAv2_91039.png",
+    "question": "Is this cowboy hat made with a very tight weave?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no"
+    ]
+}

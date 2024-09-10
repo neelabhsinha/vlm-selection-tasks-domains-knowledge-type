@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1846,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1846.png",
+    "question": "What clothing are made form these animals shown?",
+    "label": [
+        "sweater",
+        "sweater",
+        "sweater",
+        "sweater",
+        "cardigan",
+        "cardigan",
+        "coat",
+        "coat",
+        "wool",
+        "wool"
+    ]
+}

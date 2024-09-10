@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3824,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3824.png",
+    "question": "What is the estimated cost range of \u2018Increased energy consumption \u2019 (1994  through 2003) as per the table?",
+    "label": [
+        "0.0 - 32.1"
+    ]
+}

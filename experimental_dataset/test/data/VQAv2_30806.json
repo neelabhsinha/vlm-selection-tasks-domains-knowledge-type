@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 30806,
+    "image_path": "./experimental_dataset/test/images/VQAv2_30806.png",
+    "question": "What are the sheep standing next to?",
+    "label": [
+        "barn",
+        "building",
+        "barn",
+        "barn",
+        "building",
+        "house",
+        "barn",
+        "barn",
+        "barn",
+        "barn"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 974,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_974.png",
+    "question": "What vehicle are the people riding on?",
+    "label": "['moped', 'motorcycle', 'motorcycles', 'motorcycle', 'motorcycles', 'motorcycles', 'motorcycle', 'motorcycles', 'motorcycles', 'motorcycle']",
+    "choices": [
+        "trucks",
+        "cars",
+        "motorcycle",
+        "taxis"
+    ],
+    "correct_choice": "motorcycle"
+}

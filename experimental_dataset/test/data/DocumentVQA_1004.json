@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1004,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1004.png",
+    "question": "What is the name of the center to which ingredient related queries can be sent?",
+    "label": [
+        "consumer information center",
+        "Consumer information center"
+    ]
+}

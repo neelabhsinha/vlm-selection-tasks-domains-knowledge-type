@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1638,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1638.png",
+    "question": "What was the second most expensive domain in 2011?",
+    "label": [
+        "fab.de"
+    ]
+}

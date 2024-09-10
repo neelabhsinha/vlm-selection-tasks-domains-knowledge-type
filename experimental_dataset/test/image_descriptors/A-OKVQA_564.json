@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 564,
+    "caption": "a man in a suit holding a cell phone",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "sky",
+        "grass",
+        "human face",
+        "tie",
+        "smile",
+        "lake",
+        "man",
+        "water",
+        "standing",
+        "suit",
+        "posing",
+        "young",
+        "wearing"
+    ]
+}

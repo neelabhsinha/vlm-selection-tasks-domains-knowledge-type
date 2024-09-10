@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 516,
+    "caption": "a street scene with a man walking down the street",
+    "object_tags": [
+        "outdoor",
+        "text",
+        "land vehicle",
+        "vehicle",
+        "road",
+        "wheel",
+        "building",
+        "tree",
+        "bicycle wheel",
+        "street",
+        "person",
+        "pedestrian",
+        "signage",
+        "sidewalk",
+        "footwear",
+        "people",
+        "bicycle",
+        "sign",
+        "city"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 46077,
+    "caption": "a woman is petting a small dog on a leash",
+    "object_tags": [
+        "footwear",
+        "clothing",
+        "person",
+        "outdoor",
+        "ground",
+        "leash",
+        "dog breed",
+        "dog",
+        "street",
+        "woman",
+        "girl"
+    ]
+}

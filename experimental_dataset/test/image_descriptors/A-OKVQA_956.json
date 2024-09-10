@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 956,
+    "caption": "a woman sitting at a desk in front of a laptop computer",
+    "object_tags": [
+        "indoor",
+        "book",
+        "bookcase",
+        "wall",
+        "furniture",
+        "clothing",
+        "desk",
+        "person",
+        "table",
+        "human face",
+        "computer desk",
+        "personal computer",
+        "computer monitor",
+        "computer",
+        "shelving",
+        "office supplies",
+        "text",
+        "shelf",
+        "office",
+        "woman"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 102195,
+    "caption": "a bathroom with a toilet and a sink",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "bathroom",
+        "plumbing fixture",
+        "plumbing",
+        "restroom",
+        "bathroom accessory",
+        "household supply",
+        "toilet seat",
+        "bidet",
+        "toilet",
+        "floor",
+        "tile",
+        "tiled"
+    ]
+}

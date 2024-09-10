@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 123,
+    "image_path": "./experimental_dataset/test/images/ChartQA_123.png",
+    "question": "How many types of plastic had the production lower than 30 million tonnes?",
+    "label": [
+        "3"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3929,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3929.png",
+    "question": "What weather conditions are required to participate in the sport shown in the photo?",
+    "label": [
+        "snow",
+        "snow",
+        "snow",
+        "snow",
+        "winter",
+        "winter",
+        "snowy",
+        "snowy",
+        "snow cold",
+        "snow cold"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 677,
+    "caption": "a man sitting on a couch with a dog",
+    "object_tags": [
+        "indoor",
+        "window",
+        "person",
+        "couch",
+        "furniture",
+        "comfort",
+        "clothing",
+        "sofa bed",
+        "sitting",
+        "wall",
+        "sofa",
+        "dog"
+    ]
+}

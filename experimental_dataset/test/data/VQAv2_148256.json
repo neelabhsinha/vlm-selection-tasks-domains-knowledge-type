@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 148256,
+    "image_path": "./experimental_dataset/test/images/VQAv2_148256.png",
+    "question": "What is depicted in the book?",
+    "label": [
+        "taking picture",
+        "camera",
+        "camera",
+        "camera phone",
+        "man holding camera",
+        "phone",
+        "camera skills",
+        "photography tips",
+        "photography",
+        "camera"
+    ]
+}

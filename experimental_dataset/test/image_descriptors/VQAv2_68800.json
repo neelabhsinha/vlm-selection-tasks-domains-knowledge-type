@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 68800,
+    "caption": "a traffic light with a street sign above it",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "sky",
+        "cloud",
+        "tree",
+        "public utility",
+        "billboard",
+        "sign",
+        "signage",
+        "street",
+        "signaling device",
+        "overhead power line",
+        "electrical supply",
+        "electricity",
+        "traffic light",
+        "street sign",
+        "traffic",
+        "light",
+        "road"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 7169,
+    "image_path": "./experimental_dataset/test/images/VQAv2_7169.png",
+    "question": "Which ocean or sea is this?",
+    "label": [
+        "atlantic",
+        "unknown",
+        "bay area",
+        "pacific",
+        "sea",
+        "sea",
+        "pacific",
+        "atlantic",
+        "atlantic",
+        "atlantic"
+    ]
+}

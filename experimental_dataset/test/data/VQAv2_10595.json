@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 10595,
+    "image_path": "./experimental_dataset/test/images/VQAv2_10595.png",
+    "question": "What is this?",
+    "label": [
+        "meeting",
+        "meeting",
+        "meeting",
+        "meeting",
+        "meeting",
+        "meeting",
+        "conference",
+        "japanese luncheon",
+        "meeting",
+        "meeting"
+    ]
+}

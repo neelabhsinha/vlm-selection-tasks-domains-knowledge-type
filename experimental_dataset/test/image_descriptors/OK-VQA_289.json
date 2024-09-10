@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 289,
+    "caption": "a cat standing on top of a toilet in a bathroom",
+    "object_tags": [
+        "animal",
+        "cat",
+        "indoor",
+        "toilet",
+        "wall",
+        "small to medium-sized cats",
+        "pet",
+        "felidae",
+        "white",
+        "bathroom"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4085,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "News"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

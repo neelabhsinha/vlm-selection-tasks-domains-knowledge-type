@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1098,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1098.png",
+    "question": "What breakfast item is on the woman's plate?",
+    "label": "['bagel', 'bagel', 'bagel', 'bagel cheese', 'cheese bagel', 'bagel', 'bagel', 'bagel', 'bread', 'bagel']",
+    "choices": [
+        "bagel",
+        "donut",
+        "croissant",
+        "muffin"
+    ],
+    "correct_choice": "bagel"
+}

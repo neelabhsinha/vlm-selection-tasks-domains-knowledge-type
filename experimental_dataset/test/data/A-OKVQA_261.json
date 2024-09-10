@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 261,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_261.png",
+    "question": "What are the ski poles used for?",
+    "label": "['for pushing', 'balance', 'stability', 'balance/push-forward', 'balance', 'pushing off', 'balance', 'skiing', 'balance', 'balance']",
+    "choices": [
+        "fashion",
+        "pushing off",
+        "ice picks",
+        "snow shovelling"
+    ],
+    "correct_choice": "pushing off"
+}

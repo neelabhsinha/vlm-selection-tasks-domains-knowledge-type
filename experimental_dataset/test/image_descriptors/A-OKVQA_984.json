@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 984,
+    "caption": "a man sleeping in a bed with a cat",
+    "object_tags": [
+        "indoor",
+        "person",
+        "comfort",
+        "laying",
+        "nap",
+        "cat",
+        "sleeping"
+    ]
+}

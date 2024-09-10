@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 225,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_225.png",
+    "question": "What type of sign is visible?",
+    "label": "['stop sign', 'traffic', 'stop', 'stop', 'stop sign', 'stop', 'stop', 'stop', 'stop sign', 'stop sign']",
+    "choices": [
+        "directional",
+        "traffic",
+        "price",
+        "brand"
+    ],
+    "correct_choice": "traffic"
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 348,
+    "caption": "a herd of sheep standing on top of a road",
+    "object_tags": [
+        "outdoor",
+        "herd",
+        "car",
+        "sheep",
+        "vehicle",
+        "road",
+        "animal",
+        "land vehicle",
+        "mammal",
+        "sky",
+        "herding",
+        "grass",
+        "mountain",
+        "driving"
+    ]
+}

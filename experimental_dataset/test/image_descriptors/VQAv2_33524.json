@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 33524,
+    "caption": "two white horses standing next to each other",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "horse",
+        "mane",
+        "mare",
+        "livestock",
+        "grass",
+        "plant",
+        "sorrel",
+        "stallion",
+        "mustang horse",
+        "standing",
+        "field"
+    ]
+}

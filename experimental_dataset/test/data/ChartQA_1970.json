@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1970,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1970.png",
+    "question": "What was the profit of Mast-Jgermeister SE in 2016?",
+    "label": [
+        "101.88"
+    ]
+}

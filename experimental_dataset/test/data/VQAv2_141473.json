@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 141473,
+    "image_path": "./experimental_dataset/test/images/VQAv2_141473.png",
+    "question": "Is this man dressed up?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no"
+    ]
+}

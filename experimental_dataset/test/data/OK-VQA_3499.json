@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3499,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3499.png",
+    "question": "What sport is this?",
+    "label": [
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard"
+    ]
+}

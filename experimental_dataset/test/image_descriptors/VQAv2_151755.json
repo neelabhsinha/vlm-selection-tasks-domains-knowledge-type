@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 151755,
+    "caption": "a cat laying on top of a pair of shoes",
+    "object_tags": [
+        "indoor",
+        "small to medium-sized cats",
+        "felidae",
+        "mammal",
+        "footwear",
+        "floor",
+        "shoes",
+        "black",
+        "ground",
+        "animal",
+        "cat"
+    ]
+}

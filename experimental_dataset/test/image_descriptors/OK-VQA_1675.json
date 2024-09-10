@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1675,
+    "caption": "a man and a dog sitting in a car on a city street",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "wheel",
+        "road",
+        "tire",
+        "building",
+        "street",
+        "vehicle registration plate",
+        "car",
+        "convertible"
+    ]
+}

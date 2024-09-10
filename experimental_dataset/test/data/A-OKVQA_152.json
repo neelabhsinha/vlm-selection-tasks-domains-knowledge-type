@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 152,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_152.png",
+    "question": "How many bake pans were utilized?",
+    "label": "['four', 'four', 'one', 'four', 'one', 'four', 'four', 'one', 'four', 'one']",
+    "choices": [
+        "one",
+        "none",
+        "four",
+        "three"
+    ],
+    "correct_choice": "four"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 871,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_871.png",
+    "question": "In what area of the vehicle is the dog likely riding?",
+    "label": "['back seat', 'back seat', 'back seat', 'back seat', 'not clear', 'back', 'backseat', 'back seat', 'back', 'back seat']",
+    "choices": [
+        "back seat",
+        "roof",
+        "front seat",
+        "open back"
+    ],
+    "correct_choice": "back seat"
+}

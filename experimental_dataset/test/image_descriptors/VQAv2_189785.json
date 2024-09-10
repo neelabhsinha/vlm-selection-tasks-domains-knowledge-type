@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 189785,
+    "caption": "a boat floating on top of a body of water",
+    "object_tags": [
+        "outdoor",
+        "ship",
+        "boat",
+        "black and white",
+        "sky",
+        "tree",
+        "fog",
+        "water",
+        "transport",
+        "watercraft",
+        "monochrome",
+        "landscape",
+        "mist"
+    ]
+}

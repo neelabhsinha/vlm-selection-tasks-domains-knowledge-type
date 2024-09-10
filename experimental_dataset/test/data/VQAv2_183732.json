@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 183732,
+    "image_path": "./experimental_dataset/test/images/VQAv2_183732.png",
+    "question": "Are there mountains near?",
+    "label": [
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

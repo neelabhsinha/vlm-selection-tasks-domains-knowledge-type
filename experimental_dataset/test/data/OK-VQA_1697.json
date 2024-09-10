@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1697,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1697.png",
+    "question": "What breed of dog is this?",
+    "label": [
+        "australian cattle dog",
+        "australian cattle dog",
+        "australian cattle dog",
+        "australian cattle dog",
+        "shepherd",
+        "shepherd",
+        "mutt",
+        "mutt",
+        "hound",
+        "hound"
+    ]
+}

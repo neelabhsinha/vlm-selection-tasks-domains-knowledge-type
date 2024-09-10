@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1660,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1660.png",
+    "question": "What kind of car is this?",
+    "label": [
+        "sedan",
+        "sedan",
+        "sedan",
+        "sedan",
+        "toyota",
+        "toyota",
+        "4 door sedan",
+        "4 door sedan",
+        "ford",
+        "ford"
+    ]
+}

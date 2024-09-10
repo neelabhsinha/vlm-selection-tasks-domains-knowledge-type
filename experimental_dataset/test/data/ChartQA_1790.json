@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1790,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1790.png",
+    "question": "How much money did super-PACs spend on TV-attack ads as of November 20?",
+    "label": [
+        "77658792"
+    ]
+}

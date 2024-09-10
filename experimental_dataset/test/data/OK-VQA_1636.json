@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1636,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1636.png",
+    "question": "Are the streets in this picture wet or dry?",
+    "label": [
+        "wet",
+        "wet",
+        "wet",
+        "wet",
+        "wet",
+        "wet",
+        "wet",
+        "wet",
+        "wet",
+        "wet"
+    ]
+}

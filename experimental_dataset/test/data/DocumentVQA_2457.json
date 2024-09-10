@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2457,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2457.png",
+    "question": "Which is the first company mentioned?",
+    "label": [
+        "THE SUGAR ASSOCIATION, Inc."
+    ]
+}

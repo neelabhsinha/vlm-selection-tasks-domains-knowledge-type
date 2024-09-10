@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 281,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_281.png",
+    "question": "How do we know this woman is at work?",
+    "label": "['uniform', 'uniform', 'her uniform', 'wearing uniform', 'uniform', 'wearing uniform', 'uniform', 'uniform', 'uniform', 'uniform']",
+    "choices": [
+        "signage",
+        "surroundings",
+        "helping customer",
+        "wearing uniform"
+    ],
+    "correct_choice": "wearing uniform"
+}

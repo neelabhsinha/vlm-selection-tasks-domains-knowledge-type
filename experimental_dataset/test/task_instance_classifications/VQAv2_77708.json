@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 77708,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Social Media",
+        "Movies",
+        "Sports"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

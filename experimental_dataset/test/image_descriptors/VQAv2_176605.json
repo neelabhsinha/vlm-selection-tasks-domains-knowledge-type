@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 176605,
+    "caption": "a plate of vegetables on a table",
+    "object_tags": [
+        "food",
+        "produce",
+        "food group",
+        "ingredient",
+        "natural foods",
+        "carrot stick",
+        "vegetarian food",
+        "diet food",
+        "platter",
+        "meal",
+        "cucumber",
+        "vegan nutrition",
+        "whole food",
+        "baby carrot",
+        "fruit",
+        "staple food",
+        "table",
+        "tomato",
+        "superfood",
+        "indoor",
+        "vegetable",
+        "carrot"
+    ]
+}

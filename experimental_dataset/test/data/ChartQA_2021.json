@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2021,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2021.png",
+    "question": "Who is the career receiving leader of the Kansas City Chiefs?",
+    "label": [
+        "Tony Gonzalez"
+    ]
+}

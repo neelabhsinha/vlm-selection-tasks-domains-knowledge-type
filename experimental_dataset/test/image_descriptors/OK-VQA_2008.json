@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2008,
+    "caption": "a man standing next to a group of elephants",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "footwear",
+        "ground",
+        "tree",
+        "person",
+        "elephant",
+        "sky",
+        "elephants and mammoths",
+        "asian elephant",
+        "mountain",
+        "fence",
+        "people",
+        "group",
+        "standing"
+    ]
+}

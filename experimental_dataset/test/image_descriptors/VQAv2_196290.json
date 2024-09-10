@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 196290,
+    "caption": "a microwave oven sitting on top of a counter",
+    "object_tags": [
+        "appliance",
+        "home appliance",
+        "wall",
+        "indoor",
+        "kitchen appliance",
+        "small appliance",
+        "major appliance",
+        "microwave",
+        "microwave oven",
+        "oven",
+        "white",
+        "kitchen"
+    ]
+}

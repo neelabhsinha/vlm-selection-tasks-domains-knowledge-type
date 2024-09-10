@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2766,
+    "caption": "two men in uniform cutting a cake together",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "food",
+        "tableware",
+        "meal",
+        "fast food",
+        "platter",
+        "indoor",
+        "bowl",
+        "plate",
+        "table",
+        "standing",
+        "people",
+        "preparing",
+        "ceiling"
+    ]
+}

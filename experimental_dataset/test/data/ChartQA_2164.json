@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2164,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2164.png",
+    "question": "In what year was the value of U.S. exports to China 3.86 billion U.S. dollars?",
+    "label": [
+        "1985"
+    ]
+}

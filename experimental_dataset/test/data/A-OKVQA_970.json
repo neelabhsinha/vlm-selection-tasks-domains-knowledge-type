@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 970,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_970.png",
+    "question": "Where are these zebras located?",
+    "label": "['field', 'savannah', 'field', 'field', 'wild', 'wildanimal parks', 'field', 'savannah', 'desert', 'field']",
+    "choices": [
+        "circus",
+        "zoo",
+        "wild",
+        "in enclosure"
+    ],
+    "correct_choice": "wild"
+}

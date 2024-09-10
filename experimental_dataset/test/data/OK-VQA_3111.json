@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3111,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3111.png",
+    "question": "Where was this bedspread bought?",
+    "label": [
+        "department store",
+        "department store",
+        "department store",
+        "department store",
+        "store",
+        "store",
+        "victoria secret",
+        "victoria secret",
+        "target",
+        "target"
+    ]
+}

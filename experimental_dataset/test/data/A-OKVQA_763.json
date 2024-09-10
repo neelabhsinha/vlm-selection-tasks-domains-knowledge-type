@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 763,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_763.png",
+    "question": "Why does the person in orange have their arms out?",
+    "label": "['catching', 'catching', 'catching frisbee', 'to catch', 'catch frisbee', 'reach', 'to catch', 'catch frisbee', 'catching', 'catching']",
+    "choices": [
+        "measure",
+        "break fall",
+        "reach",
+        "balance"
+    ],
+    "correct_choice": "reach"
+}

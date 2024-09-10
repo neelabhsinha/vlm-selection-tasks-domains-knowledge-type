@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 821,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_821.png",
+    "question": "What animals are in the grass behind the woman in yellow?",
+    "label": "['cats', 'cats', 'cats', 'cats', 'cats', 'cats', 'cats', 'cats', 'cats', 'cats']",
+    "choices": [
+        "sheep",
+        "foxes",
+        "birds",
+        "cats"
+    ],
+    "correct_choice": "cats"
+}

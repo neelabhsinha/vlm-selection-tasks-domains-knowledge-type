@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 747,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_747.png",
+    "question": "What is the program listed after \"Internal white papers\", based on 'INTRODUCTION' second section?",
+    "label": [
+        "Pharmaceutical compendia surveillance program"
+    ]
+}

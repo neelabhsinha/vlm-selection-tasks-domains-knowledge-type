@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5041,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5041.png",
+    "question": "How much is the maximum amount due on 31.03.1999 for 5th entry 'M/s Baba Global Ltd.' based on section 6 'SUNDRY DEBTORS'?",
+    "label": [
+        "5856881.69"
+    ]
+}

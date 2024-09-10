@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5030,
+    "caption": "a table topped with a bunch of green vegetables",
+    "object_tags": [
+        "produce",
+        "natural foods",
+        "vegan nutrition",
+        "vegetable",
+        "vegetarian food",
+        "indoor",
+        "table",
+        "whole food",
+        "food group",
+        "superfood",
+        "food",
+        "local food",
+        "ingredient",
+        "diet food",
+        "zucchini",
+        "staple food",
+        "cucumber",
+        "legume",
+        "green",
+        "fruit",
+        "floor"
+    ]
+}

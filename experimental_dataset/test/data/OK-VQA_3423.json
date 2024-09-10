@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3423,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3423.png",
+    "question": "Where do you store this vehicle?",
+    "label": [
+        "dock",
+        "dock",
+        "dock",
+        "dock",
+        "harbor",
+        "harbor",
+        "marina",
+        "marina",
+        "water",
+        "water"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 74,
+    "caption": "a small boat in the middle of the water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "cloud",
+        "transport",
+        "watercraft",
+        "vehicle",
+        "boat",
+        "boating",
+        "ship",
+        "waterway",
+        "cloudy",
+        "lake",
+        "floating"
+    ]
+}

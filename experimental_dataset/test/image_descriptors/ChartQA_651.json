@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 651,
+    "caption": "a collage of images of a person on a cell phone",
+    "object_tags": [
+        "text",
+        "plot",
+        "line",
+        "diagram",
+        "number",
+        "screenshot",
+        "font",
+        "parallel"
+    ]
+}

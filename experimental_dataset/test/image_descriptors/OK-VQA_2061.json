@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2061,
+    "caption": "a kitchen filled with furniture and appliances",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "ceiling",
+        "furniture",
+        "cabinetry",
+        "countertop",
+        "interior design",
+        "kitchen & dining room table",
+        "home appliance",
+        "floor",
+        "house",
+        "cupboard",
+        "drawer",
+        "dining room",
+        "kitchen appliance",
+        "table",
+        "kitchen",
+        "home",
+        "room",
+        "dining",
+        "chair",
+        "remodel"
+    ]
+}

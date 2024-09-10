@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 27909,
+    "image_path": "./experimental_dataset/test/images/VQAv2_27909.png",
+    "question": "Are there placemats on the table?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes"
+    ]
+}

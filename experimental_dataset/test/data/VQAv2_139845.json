@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 139845,
+    "image_path": "./experimental_dataset/test/images/VQAv2_139845.png",
+    "question": "What is the man holding?",
+    "label": [
+        "doughnut",
+        "donut",
+        "donut",
+        "doughnut",
+        "donut",
+        "donut",
+        "doughnut",
+        "donut",
+        "donut",
+        "donut"
+    ]
+}

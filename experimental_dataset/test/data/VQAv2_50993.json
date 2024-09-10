@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 50993,
+    "image_path": "./experimental_dataset/test/images/VQAv2_50993.png",
+    "question": "What is covering the ground?",
+    "label": [
+        "sand",
+        "sand",
+        "sand",
+        "sand",
+        "sand",
+        "sand",
+        "sand",
+        "sand",
+        "sand",
+        "sand"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2389,
+    "caption": "a hotel room with two beds and two lamps",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "bedding",
+        "bed sheet",
+        "bed frame",
+        "pillow",
+        "duvet cover",
+        "mattress",
+        "linens",
+        "furniture",
+        "interior design",
+        "nightstand",
+        "cushion",
+        "duvet",
+        "suite",
+        "bed",
+        "drawer",
+        "throw pillow",
+        "lampshade",
+        "bed skirt",
+        "boutique hotel",
+        "bedroom",
+        "floor",
+        "hotel",
+        "room"
+    ]
+}

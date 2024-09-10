@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 237,
+    "image_path": "./experimental_dataset/test/images/ChartQA_237.png",
+    "question": "What is the average land use per 100 kilocalories by Wheat and Milk production?",
+    "label": [
+        "0.2"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 824,
+    "caption": "a dog standing in a bathroom next to a toilet",
+    "object_tags": [
+        "animal",
+        "dog",
+        "indoor",
+        "toilet",
+        "wall",
+        "bathroom",
+        "floor",
+        "ground"
+    ]
+}

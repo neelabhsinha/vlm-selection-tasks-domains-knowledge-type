@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1424,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1424.png",
+    "question": "Which noun in the picture is the tallest?",
+    "label": [
+        "door",
+        "door",
+        "door",
+        "door",
+        "man",
+        "man",
+        "human",
+        "human",
+        "house",
+        "house"
+    ]
+}

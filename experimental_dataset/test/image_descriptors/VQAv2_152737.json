@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 152737,
+    "caption": "a baby brushing his teeth with a tooth brush",
+    "object_tags": [
+        "toddler",
+        "person",
+        "human face",
+        "clothing",
+        "indoor",
+        "baby & toddler clothing",
+        "child",
+        "boy",
+        "baby",
+        "wall",
+        "floor"
+    ]
+}

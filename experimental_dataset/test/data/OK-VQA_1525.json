@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1525,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1525.png",
+    "question": "Which color seen on a garment here is often seen on flowering bushes?",
+    "label": [
+        "pink",
+        "pink",
+        "pink",
+        "pink",
+        "pink",
+        "pink",
+        "rose",
+        "rose",
+        "rose",
+        "rose"
+    ]
+}

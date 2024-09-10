@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 338,
+    "caption": "a living room filled with furniture and a tv",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "scene",
+        "room",
+        "floor",
+        "interior design",
+        "table",
+        "ceiling",
+        "cabinetry",
+        "hotel",
+        "bed",
+        "drawer",
+        "coffee table",
+        "linens",
+        "flooring",
+        "chest of drawers",
+        "bedroom",
+        "lampshade",
+        "chair"
+    ]
+}

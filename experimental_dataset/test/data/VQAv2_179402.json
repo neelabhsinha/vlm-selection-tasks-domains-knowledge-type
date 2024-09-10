@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 179402,
+    "image_path": "./experimental_dataset/test/images/VQAv2_179402.png",
+    "question": "What are the three poles in front of the building used for?",
+    "label": [
+        "street lights",
+        "traffic lights",
+        "street lights",
+        "light",
+        "electricity",
+        "light",
+        "street lights",
+        "lights",
+        "hold street light",
+        "street lights"
+    ]
+}

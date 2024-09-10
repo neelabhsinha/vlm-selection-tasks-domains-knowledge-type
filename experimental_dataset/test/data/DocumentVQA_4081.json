@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4081,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4081.png",
+    "question": "How much is the total amounts claimed for the current period?",
+    "label": [
+        "1,222.97",
+        "1222.97"
+    ]
+}

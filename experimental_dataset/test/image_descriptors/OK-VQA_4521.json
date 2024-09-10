@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4521,
+    "caption": "a man holding a bird in his hands",
+    "object_tags": [
+        "bird",
+        "person",
+        "clothing",
+        "man",
+        "bird of prey",
+        "fashion accessory",
+        "eagle",
+        "human face",
+        "hawk",
+        "falcon",
+        "outdoor",
+        "hat"
+    ]
+}

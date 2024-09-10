@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 906,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_906.png",
+    "question": "What was the player doing before running?",
+    "label": "['hitting baseball', 'standing', 'batting', 'batting', 'batting', 'hitting', 'batting', 'batting', 'hitting ball', 'playing']",
+    "choices": [
+        "batting",
+        "pitching",
+        "fielding",
+        "coaching"
+    ],
+    "correct_choice": "batting"
+}

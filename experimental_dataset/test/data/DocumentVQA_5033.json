@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5033,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5033.png",
+    "question": "In which building # is pool?",
+    "label": [
+        "3"
+    ]
+}

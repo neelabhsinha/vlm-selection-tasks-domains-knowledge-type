@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3749,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3749.png",
+    "question": "What is the title of the \u2018table\u2019?",
+    "label": [
+        "EQUITY HOLDING PROMOTERS & MAJOR INVESTORS",
+        "Equity holding promoters & major investors",
+        "Equity owner type: non-promoters-2010"
+    ]
+}

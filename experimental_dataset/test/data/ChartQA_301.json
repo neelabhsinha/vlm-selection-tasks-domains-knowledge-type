@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 301,
+    "image_path": "./experimental_dataset/test/images/ChartQA_301.png",
+    "question": "Is the median larger than the average of the case numbers from all scenarios?",
+    "label": [
+        "Yes"
+    ]
+}

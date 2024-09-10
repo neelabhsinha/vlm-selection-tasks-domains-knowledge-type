@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 394,
+    "image_path": "./experimental_dataset/test/images/ChartQA_394.png",
+    "question": "What's the color of the line of Jamaica?",
+    "label": [
+        "orange"
+    ]
+}

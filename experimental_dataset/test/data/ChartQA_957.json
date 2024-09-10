@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 957,
+    "image_path": "./experimental_dataset/test/images/ChartQA_957.png",
+    "question": "What is the total number of applications in India?",
+    "label": [
+        "6.7"
+    ]
+}

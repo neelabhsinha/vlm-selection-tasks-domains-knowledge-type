@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 543,
+    "caption": "a number of sail boats on a beach",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "transport",
+        "ship",
+        "sky",
+        "sailboat",
+        "sailing vessel",
+        "sail",
+        "mast",
+        "watercraft",
+        "sailing",
+        "water",
+        "vehicle",
+        "boat",
+        "ground",
+        "beach",
+        "group",
+        "people",
+        "ocean"
+    ]
+}

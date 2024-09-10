@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 203318,
+    "image_path": "./experimental_dataset/test/images/VQAv2_203318.png",
+    "question": "What company has their watermark on this photo?",
+    "label": [
+        "blinkstar media",
+        "blinkstar media",
+        "blinkstar media",
+        "blinkstar media",
+        "blink star media",
+        "na",
+        "blinkstar media",
+        "blinkstar media",
+        "blinkstar media",
+        "blink star media"
+    ]
+}

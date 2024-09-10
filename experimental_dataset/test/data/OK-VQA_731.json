@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 731,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_731.png",
+    "question": "What is the primary purpose of the vehicles in this image?",
+    "label": [
+        "fly",
+        "fly",
+        "fly",
+        "fly",
+        "defense",
+        "defense",
+        "sightseeing",
+        "sightseeing",
+        "fly",
+        "fly"
+    ]
+}

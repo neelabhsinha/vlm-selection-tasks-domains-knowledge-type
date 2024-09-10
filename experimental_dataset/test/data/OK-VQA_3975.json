@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3975,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3975.png",
+    "question": "What nationality is the woman sitting on the stairs?",
+    "label": [
+        "indian",
+        "indian",
+        "indian",
+        "indian",
+        "alaskan",
+        "alaskan",
+        "mexican",
+        "mexican",
+        "nepali",
+        "nepali"
+    ]
+}

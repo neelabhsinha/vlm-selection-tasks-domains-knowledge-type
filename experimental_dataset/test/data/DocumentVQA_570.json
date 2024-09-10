@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 570,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_570.png",
+    "question": "What is the activity at 5.00?",
+    "label": [
+        "180 min saliva"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 182729,
+    "caption": "people riding motorcycles down a street",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "land vehicle",
+        "bicycle wheel",
+        "vehicle",
+        "road",
+        "person",
+        "cycling",
+        "tree",
+        "bicycle frame",
+        "bicycles--equipment and supplies",
+        "bicycle tire",
+        "riding",
+        "road bicycle",
+        "street",
+        "bicycle handlebar",
+        "bicycle pedal",
+        "transport",
+        "cycle sport",
+        "clothing",
+        "lane",
+        "sports equipment",
+        "bicycle",
+        "people",
+        "group",
+        "bike"
+    ]
+}

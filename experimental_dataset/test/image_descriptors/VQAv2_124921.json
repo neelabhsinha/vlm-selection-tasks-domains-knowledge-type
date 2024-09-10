@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 124921,
+    "caption": "a young boy sitting on a park bench",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "tree",
+        "footwear",
+        "person",
+        "playground",
+        "fence",
+        "ground",
+        "plant",
+        "young",
+        "girl",
+        "boy",
+        "woman"
+    ]
+}

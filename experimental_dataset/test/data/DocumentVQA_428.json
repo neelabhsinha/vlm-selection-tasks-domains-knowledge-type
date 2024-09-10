@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 428,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_428.png",
+    "question": "who is the secretary of the company ?",
+    "label": [
+        "Larry D. Thompson"
+    ]
+}

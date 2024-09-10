@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 30073,
+    "caption": "a living room filled with furniture and a fireplace",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "interior design",
+        "couch",
+        "hearth",
+        "living room",
+        "television",
+        "den",
+        "ceiling",
+        "wood-burning stove",
+        "house",
+        "room",
+        "studio couch",
+        "fire screen",
+        "sofa bed",
+        "home appliance",
+        "floor",
+        "fireplace",
+        "furniture",
+        "home"
+    ]
+}

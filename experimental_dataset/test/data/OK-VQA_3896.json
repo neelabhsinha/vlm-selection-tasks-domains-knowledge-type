@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3896,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3896.png",
+    "question": "How much gas does this type of transportation usually require?",
+    "label": [
+        "50 gallons",
+        "50 gallons",
+        "50 gallons",
+        "50 gallons",
+        "20 gallons",
+        "20 gallons",
+        "gas",
+        "gas",
+        "10 miles per gallon",
+        "10 miles per gallon"
+    ]
+}

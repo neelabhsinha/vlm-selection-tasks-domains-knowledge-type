@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 148467,
+    "caption": "a man standing on top of a rock near a body of water",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sea",
+        "sky",
+        "water",
+        "beach",
+        "vacation",
+        "accessory",
+        "rock",
+        "boat",
+        "person",
+        "umbrella",
+        "people",
+        "ocean",
+        "landscape"
+    ]
+}

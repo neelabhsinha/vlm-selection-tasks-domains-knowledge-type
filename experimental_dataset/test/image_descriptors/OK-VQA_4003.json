@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4003,
+    "caption": "a cat laying on top of a computer keyboard",
+    "object_tags": [
+        "indoor",
+        "small to medium-sized cats",
+        "felidae",
+        "whiskers",
+        "keyboard",
+        "domestic short-haired cat",
+        "laying",
+        "mammal",
+        "animal",
+        "domestic cat",
+        "sleeping",
+        "cat",
+        "kitten"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3191,
+    "caption": "boats are docked in the water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "tree",
+        "cloud",
+        "sky",
+        "autumn",
+        "boat",
+        "reflection",
+        "waterway",
+        "landscape",
+        "ship",
+        "watercraft",
+        "channel",
+        "vehicle",
+        "reservoir",
+        "lake",
+        "bank",
+        "floating",
+        "river",
+        "nature",
+        "fall",
+        "sunset"
+    ]
+}

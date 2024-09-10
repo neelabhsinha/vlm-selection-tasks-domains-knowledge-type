@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1688,
+    "caption": "a sandwich and french fries sitting on a table",
+    "object_tags": [
+        "food",
+        "fast food",
+        "french fries",
+        "american food",
+        "fries",
+        "junk food",
+        "snack",
+        "fried food",
+        "kids' meal",
+        "british cuisine",
+        "bun",
+        "indoor",
+        "sandwich",
+        "potato",
+        "snack food"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 100,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_100.png",
+    "question": "What brand of blue jeans is the skateboarder wearing?",
+    "label": [
+        "levis",
+        "levis",
+        "van",
+        "van",
+        "levi",
+        "levi",
+        "american",
+        "american",
+        "wrangler",
+        "wrangler"
+    ]
+}

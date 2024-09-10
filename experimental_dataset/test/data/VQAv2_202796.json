@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 202796,
+    "image_path": "./experimental_dataset/test/images/VQAv2_202796.png",
+    "question": "Which of these items is a sign of bad luck?",
+    "label": [
+        "umbrella",
+        "bad luck sign is cat",
+        "umbrella in house",
+        "cat",
+        "neither",
+        "umbrella",
+        "cat",
+        "open umbrella indoors",
+        "none",
+        "umbrella"
+    ]
+}

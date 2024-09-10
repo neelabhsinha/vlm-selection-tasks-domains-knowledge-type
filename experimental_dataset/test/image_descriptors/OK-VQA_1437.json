@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1437,
+    "caption": "a cell phone sitting on top of a table",
+    "object_tags": [
+        "everyday carry",
+        "clock",
+        "analog watch",
+        "watch",
+        "indoor"
+    ]
+}

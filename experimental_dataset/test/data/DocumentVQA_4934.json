@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4934,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4934.png",
+    "question": "Which patient has the lowest Nitrogen balance?",
+    "label": [
+        "5"
+    ]
+}

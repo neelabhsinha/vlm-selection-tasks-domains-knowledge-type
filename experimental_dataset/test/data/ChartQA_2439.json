@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2439,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2439.png",
+    "question": "Which country led the list of kidnapping cases in 2018?",
+    "label": [
+        "Mexico"
+    ]
+}

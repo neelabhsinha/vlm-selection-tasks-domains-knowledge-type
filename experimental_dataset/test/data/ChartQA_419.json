@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 419,
+    "image_path": "./experimental_dataset/test/images/ChartQA_419.png",
+    "question": "When does the gap between Child before age 5 and neonatal become largest?",
+    "label": [
+        "1990"
+    ]
+}

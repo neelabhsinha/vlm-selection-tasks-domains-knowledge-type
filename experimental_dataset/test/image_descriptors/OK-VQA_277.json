@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 277,
+    "caption": "a bridge over a river in a city",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "cloud",
+        "arch bridge",
+        "water",
+        "waterway",
+        "river",
+        "aqueduct",
+        "concrete bridge",
+        "channel",
+        "canal",
+        "arch",
+        "beam bridge",
+        "girder bridge",
+        "city",
+        "bridge",
+        "travel"
+    ]
+}

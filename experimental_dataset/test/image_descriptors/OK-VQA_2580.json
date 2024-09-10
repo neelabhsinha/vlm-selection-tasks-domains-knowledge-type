@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2580,
+    "caption": "a man standing in front of a food truck",
+    "object_tags": [
+        "person",
+        "clothing",
+        "man",
+        "bottle",
+        "human face",
+        "customer",
+        "indoor",
+        "preparing",
+        "people",
+        "table"
+    ]
+}

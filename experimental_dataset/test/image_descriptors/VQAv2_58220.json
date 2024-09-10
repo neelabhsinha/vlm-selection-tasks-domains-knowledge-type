@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 58220,
+    "caption": "a woman walking down a street next to a tall building",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "road",
+        "street",
+        "people",
+        "person",
+        "city",
+        "sign"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3560,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3560.png",
+    "question": "How long does it take someone to learn this sport?",
+    "label": [
+        "2 years",
+        "2 years",
+        "2 years",
+        "2 years",
+        "year",
+        "year",
+        "everyone is different",
+        "everyone is different",
+        "3 months",
+        "3 months"
+    ]
+}

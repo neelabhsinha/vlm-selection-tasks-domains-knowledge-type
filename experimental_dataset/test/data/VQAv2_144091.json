@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 144091,
+    "image_path": "./experimental_dataset/test/images/VQAv2_144091.png",
+    "question": "Where is the plane?",
+    "label": [
+        "taking off",
+        "taking off",
+        "taking off",
+        "in air",
+        "taking off",
+        "in air",
+        "taking off",
+        "taking off of ground",
+        "america",
+        "in air"
+    ]
+}

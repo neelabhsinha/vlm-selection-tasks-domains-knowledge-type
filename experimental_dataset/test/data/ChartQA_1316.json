@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1316,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1316.png",
+    "question": "What was the global peak of CO2 emissions from coal combustion in 2018?",
+    "label": [
+        "14766"
+    ]
+}

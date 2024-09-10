@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1075,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1075.png",
+    "question": "What number comes after the number on the man's jersey when you count to twenty?",
+    "label": "['11', 'ten', 'eleven', 'eleven', 'eleven', 'eleven', '11', 'eleven', 'eleven', '11']",
+    "choices": [
+        "fifteen",
+        "nineteen",
+        "sixteen",
+        "eleven"
+    ],
+    "correct_choice": "eleven"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 436,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_436.png",
+    "question": "What kind of flavor would the fruit on the pizza add?",
+    "label": "['spicy', 'savory', 'sweet', 'tomato', 'savory', 'sweet', 'sweet', 'sweet', 'pineapple', 'pineapple']",
+    "choices": [
+        "sweet",
+        "spicy",
+        "umami",
+        "sour"
+    ],
+    "correct_choice": "sweet"
+}

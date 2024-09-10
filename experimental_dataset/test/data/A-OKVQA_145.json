@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 145,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_145.png",
+    "question": "What item is on the bottom shelf near the TV?",
+    "label": "['drawer', 'speakers', 'speakers', 'speakers', 'speaker', 'speakers', 'speakers', 'speaker', 'speakers', 'stereo']",
+    "choices": [
+        "cars",
+        "pictures",
+        "swords",
+        "speakers"
+    ],
+    "correct_choice": "speakers"
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 72,
+    "caption": "a white car parked next to a parking meter",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "sky",
+        "transport",
+        "wheel",
+        "tree",
+        "road",
+        "bus",
+        "car",
+        "street",
+        "parked",
+        "transit",
+        "stopped"
+    ]
+}

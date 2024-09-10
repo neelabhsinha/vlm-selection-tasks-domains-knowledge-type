@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 990,
+    "image_path": "./experimental_dataset/test/images/ChartQA_990.png",
+    "question": "Which year has the least acquaitance?",
+    "label": [
+        "18/19"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 597,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_597.png",
+    "question": "What is the most likely explanation for how the people in the back of the room can hear this man?",
+    "label": "['microphone', 'microphone', 'behind you', 'microphone', 'microphone', 'speakers', 'microphone', 'lapel microphone', 'microphone', 'shirt microphone']",
+    "choices": [
+        "streaming",
+        "shouting",
+        "small room",
+        "microphone"
+    ],
+    "correct_choice": "microphone"
+}

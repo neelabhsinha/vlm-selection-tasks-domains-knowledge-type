@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 12,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_12.png",
+    "question": "What is the name of the fashion wear/clothing advertise",
+    "label": [
+        "wills lifestyle",
+        "Wills Lifestyle"
+    ]
+}

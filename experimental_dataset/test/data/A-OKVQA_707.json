@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 707,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_707.png",
+    "question": "What type of picture is on the screen?",
+    "label": "['television', 'overlay photo', 'overlay', 'superimposed', 'face', 'overlapping', 'people', 'television', 'double image', 'double exposed']",
+    "choices": [
+        "single exposed",
+        "over exposed",
+        "triple exposed",
+        "double exposed"
+    ],
+    "correct_choice": "double exposed"
+}

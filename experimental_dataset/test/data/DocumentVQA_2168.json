@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2168,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2168.png",
+    "question": "What is the last underlined subheading on the page?",
+    "label": [
+        "Learning Results",
+        "Learning results"
+    ]
+}

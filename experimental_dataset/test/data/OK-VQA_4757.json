@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4757,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4757.png",
+    "question": "Where does this animal live?",
+    "label": [
+        "lake",
+        "lake",
+        "lake",
+        "lake",
+        "north america",
+        "north america",
+        "by water",
+        "by water",
+        "near water",
+        "near water"
+    ]
+}

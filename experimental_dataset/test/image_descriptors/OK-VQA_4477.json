@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4477,
+    "caption": "a truck with a surfboard on top of it parked in front of a house",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "transport",
+        "wheel",
+        "sky",
+        "building",
+        "tire",
+        "land vehicle",
+        "auto part",
+        "ground",
+        "car",
+        "parked",
+        "house",
+        "watercraft",
+        "red"
+    ]
+}

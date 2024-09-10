@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 877,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_877.png",
+    "question": "What is seen in the background of the photo?",
+    "label": "['city', 'city', 'skyline', 'city', 'city', 'skyline', 'skyline', 'city', 'skyline', 'city']",
+    "choices": [
+        "mountains",
+        "people",
+        "skyline",
+        "animals"
+    ],
+    "correct_choice": "skyline"
+}

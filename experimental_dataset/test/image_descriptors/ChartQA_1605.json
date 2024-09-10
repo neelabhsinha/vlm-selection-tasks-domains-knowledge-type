@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 1605,
+    "caption": "a collage of images of a blue wall with a blue background",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "display",
+        "rectangle",
+        "diagram",
+        "software",
+        "number",
+        "plot"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2276,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2276.png",
+    "question": "What was the net interest income of Bank of America in dollars in the fourth quarter of 2020?",
+    "label": [
+        "10.25"
+    ]
+}

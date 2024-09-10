@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2483,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2483.png",
+    "question": "What edible treat is in the glass?",
+    "label": [
+        "candy cane",
+        "candy cane",
+        "candy cane",
+        "candy cane",
+        "candy cane",
+        "candy cane",
+        "candy cane",
+        "candy cane",
+        "candy",
+        "candy"
+    ]
+}

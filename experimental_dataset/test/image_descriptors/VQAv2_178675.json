@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 178675,
+    "caption": "people walking down a street at night",
+    "object_tags": [
+        "building",
+        "scene",
+        "way",
+        "outdoor",
+        "street",
+        "alley",
+        "night",
+        "street light",
+        "infrastructure",
+        "town",
+        "electricity",
+        "ground",
+        "light",
+        "city"
+    ]
+}

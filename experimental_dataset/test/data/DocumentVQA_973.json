@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 973,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_973.png",
+    "question": "What is the date of correspondence?",
+    "label": [
+        "JUNE 7, 1990",
+        "June 7, 1990"
+    ]
+}

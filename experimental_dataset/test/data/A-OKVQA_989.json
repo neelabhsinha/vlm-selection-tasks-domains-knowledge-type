@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 989,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_989.png",
+    "question": "What are these people attending?",
+    "label": "['wine tasting', 'wine tasting', 'wine gallery', 'wine tasting', 'tasting', 'wine tasting', 'wine tasting', 'tasting', 'wine tasting', 'wine tasting']",
+    "choices": [
+        "beer crawl",
+        "bachelor party",
+        "baby shower",
+        "wine tasting"
+    ],
+    "correct_choice": "wine tasting"
+}

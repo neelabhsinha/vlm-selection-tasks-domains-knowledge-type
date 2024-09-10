@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 120,
+    "caption": "a man and a woman posing for a picture",
+    "object_tags": [
+        "human face",
+        "person",
+        "smile",
+        "clothing",
+        "collar",
+        "man",
+        "tie",
+        "indoor",
+        "wall",
+        "dress shirt",
+        "formal wear",
+        "laugh",
+        "chin",
+        "forehead",
+        "eyebrow",
+        "gentleman",
+        "iris",
+        "necktie",
+        "wearing",
+        "posing",
+        "standing",
+        "shirt"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 514,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_514.png",
+    "question": "How many people can likely eat one cake?",
+    "label": "['one', 'six', 'one', 'one', 'one', 'two', 'multiple', 'one', 'four', 'two']",
+    "choices": [
+        "12",
+        "36",
+        "24",
+        "four"
+    ],
+    "correct_choice": "four"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5005,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5005.png",
+    "question": "What was the capacity of the single PCD tested at Bonded Oil, Dayton?",
+    "label": [
+        "104 packs"
+    ]
+}

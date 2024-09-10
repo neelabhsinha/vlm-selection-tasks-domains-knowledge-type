@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2079,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2079.png",
+    "question": "In what year did shopping malls in the United States have a total gross leasable area of just over 4 trillion square feet?",
+    "label": [
+        "1986"
+    ]
+}

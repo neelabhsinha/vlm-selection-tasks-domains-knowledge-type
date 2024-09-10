@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1082,
+    "caption": "a clock is shown on a sign",
+    "object_tags": [
+        "text",
+        "parallel",
+        "diagram",
+        "line",
+        "circle",
+        "number"
+    ]
+}

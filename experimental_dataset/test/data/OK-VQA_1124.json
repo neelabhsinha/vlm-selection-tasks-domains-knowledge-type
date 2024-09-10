@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1124,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1124.png",
+    "question": "What equipment are they using to ski?",
+    "label": [
+        "snow board",
+        "snow board",
+        "snow board",
+        "snow board",
+        "snowboard",
+        "snowboard",
+        "slolomn",
+        "slolomn",
+        "snowboard",
+        "snowboard"
+    ]
+}

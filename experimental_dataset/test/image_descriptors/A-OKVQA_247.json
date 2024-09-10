@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 247,
+    "caption": "a man flying a kite in a grassy field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "person",
+        "kite",
+        "cloud",
+        "field",
+        "vehicle",
+        "aircraft",
+        "airplane",
+        "flight",
+        "standing",
+        "glider",
+        "air",
+        "airshow"
+    ]
+}

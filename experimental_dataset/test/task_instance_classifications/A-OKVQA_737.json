@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 737,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Government and Politics",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Visual Knowledge"
+    ]
+}

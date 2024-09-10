@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 197183,
+    "image_path": "./experimental_dataset/test/images/VQAv2_197183.png",
+    "question": "Are all the elephants the same age?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no"
+    ]
+}

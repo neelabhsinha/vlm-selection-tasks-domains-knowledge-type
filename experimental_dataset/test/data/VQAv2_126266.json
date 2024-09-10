@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 126266,
+    "image_path": "./experimental_dataset/test/images/VQAv2_126266.png",
+    "question": "What food item is wrapped in the pastry?",
+    "label": [
+        "custard",
+        "donut",
+        "custard",
+        "donuts",
+        "apple",
+        "doughnuts",
+        "donut",
+        "custard",
+        "donut",
+        "strudel"
+    ]
+}

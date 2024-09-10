@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 135,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_135.png",
+    "question": "Which team is on offense?",
+    "label": "['lime', 'red', 'lime', 'blue team', 'red', 'red', 'red', 'blue team', 'red', 'blue team']",
+    "choices": [
+        "red",
+        "neither",
+        "blue",
+        "both"
+    ],
+    "correct_choice": "red"
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 946,
+    "caption": "a collage of photos showing different types of blue and white objects",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "display",
+        "software",
+        "rectangle",
+        "diagram",
+        "computer icon",
+        "design"
+    ]
+}

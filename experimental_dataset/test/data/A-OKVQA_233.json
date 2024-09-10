@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 233,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_233.png",
+    "question": "What social activity might this person engage in at night this day?",
+    "label": "['drinking', 'drinking', 'drinking', 'drinking', 'drinking', 'drinking', 'drinking', 'drinking', 'drinking', 'drinking']",
+    "choices": [
+        "drinking",
+        "marriage ceremony",
+        "political rally",
+        "business meeting"
+    ],
+    "correct_choice": "drinking"
+}

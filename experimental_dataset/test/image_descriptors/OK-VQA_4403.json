@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4403,
+    "caption": "a man riding a motorcycle on a city street",
+    "object_tags": [
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "outdoor",
+        "tire",
+        "street",
+        "road",
+        "building",
+        "motorcycle",
+        "auto part",
+        "motorbike",
+        "motorcycling",
+        "night",
+        "city",
+        "ground",
+        "person",
+        "red",
+        "light"
+    ]
+}

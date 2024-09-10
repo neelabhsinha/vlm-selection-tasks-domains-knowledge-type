@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1481,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1481.png",
+    "question": "Where did William J Darby prefer to stay ,according to the letter he wrote?",
+    "label": [
+        "Radisson",
+        "RADISSON"
+    ]
+}

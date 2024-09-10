@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3646,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3646.png",
+    "question": "Which is having lowest Circulation under 'Key Experimental/Research Journals' ?",
+    "label": [
+        "Journal of Laboratory and Clinical Medicine"
+    ]
+}

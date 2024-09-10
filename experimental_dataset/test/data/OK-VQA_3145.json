@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3145,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3145.png",
+    "question": "What animal sees in these colors?",
+    "label": [
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "cat",
+        "cat",
+        "owl",
+        "owl"
+    ]
+}

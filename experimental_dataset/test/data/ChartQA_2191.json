@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2191,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2191.png",
+    "question": "How many dollars did West Virginia generate from sports betting in March 2021?",
+    "label": [
+        "3.89"
+    ]
+}

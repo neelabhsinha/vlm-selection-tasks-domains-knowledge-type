@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1748,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1748.png",
+    "question": "What color stars are in the background?",
+    "label": [
+        "gold",
+        "gold",
+        "gold",
+        "gold",
+        "gold",
+        "gold",
+        "beige",
+        "beige",
+        "yellow",
+        "yellow"
+    ]
+}

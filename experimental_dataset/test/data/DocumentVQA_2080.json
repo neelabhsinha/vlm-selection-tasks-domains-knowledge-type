@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2080,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2080.png",
+    "question": "What is the case size of both the brand styles?",
+    "label": [
+        "6M"
+    ]
+}

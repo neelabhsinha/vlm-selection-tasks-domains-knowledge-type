@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 128,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Government and Politics",
+        "Professions",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Social Knowledge"
+    ]
+}

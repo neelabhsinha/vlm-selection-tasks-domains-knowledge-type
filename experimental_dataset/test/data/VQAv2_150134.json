@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 150134,
+    "image_path": "./experimental_dataset/test/images/VQAv2_150134.png",
+    "question": "Why is the grout two different colors?",
+    "label": [
+        "design",
+        "cleanliness",
+        "temperature",
+        "dirty",
+        "different times of application",
+        "old",
+        "sink is white",
+        "new and old",
+        "age",
+        "enhance appearance"
+    ]
+}

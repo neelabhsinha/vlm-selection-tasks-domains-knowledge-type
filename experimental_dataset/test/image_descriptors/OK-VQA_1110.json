@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1110,
+    "caption": "three zebras eating grass in the shade",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "zebra",
+        "ground",
+        "tree",
+        "wildlife",
+        "terrestrial animal",
+        "plant",
+        "standing",
+        "water",
+        "zoo",
+        "pond"
+    ]
+}

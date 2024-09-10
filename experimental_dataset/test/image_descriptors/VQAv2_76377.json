@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 76377,
+    "caption": "a jetliner flying through a cloudy sky",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "plane",
+        "transport",
+        "aircraft",
+        "cloud",
+        "flight",
+        "air travel",
+        "aviation",
+        "vehicle",
+        "air force",
+        "jet aircraft",
+        "wing",
+        "military aircraft",
+        "general aviation",
+        "aerospace engineering",
+        "aerospace manufacturer",
+        "airplane",
+        "jet",
+        "cloudy",
+        "airshow",
+        "clouds",
+        "air",
+        "military vehicle"
+    ]
+}

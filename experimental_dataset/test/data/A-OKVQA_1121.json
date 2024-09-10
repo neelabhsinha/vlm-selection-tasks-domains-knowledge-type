@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1121,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1121.png",
+    "question": "Which of the fruits shown has a seed that is easier to see?",
+    "label": "['plum', 'plums', 'plums', 'banana', 'plum', 'plum', 'grapes', 'grap', 'apple', 'banana']",
+    "choices": [
+        "pear",
+        "plum",
+        "banana",
+        "apple"
+    ],
+    "correct_choice": "plum"
+}

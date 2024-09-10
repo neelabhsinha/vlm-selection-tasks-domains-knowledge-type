@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 695,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_695.png",
+    "question": "What kind of liquid is in the blue bottle?",
+    "label": "['detergent', 'vodka', 'alcohol', 'soap', 'dishwasher', 'liquor', 'alcoholic', 'alcohol', 'liquor', 'alcohol']",
+    "choices": [
+        "water",
+        "alcohol",
+        "juice",
+        "soda"
+    ],
+    "correct_choice": "alcohol"
+}

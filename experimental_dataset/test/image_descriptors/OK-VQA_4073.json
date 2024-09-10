@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4073,
+    "caption": "a little girl and a man flying a kite in a park",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "grass",
+        "footwear",
+        "jeans",
+        "toddler",
+        "boy",
+        "girl",
+        "child",
+        "park",
+        "green",
+        "people",
+        "field",
+        "bubble"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 232,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Anthropology"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge"
+    ]
+}

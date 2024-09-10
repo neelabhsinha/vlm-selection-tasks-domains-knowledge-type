@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3636,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3636.png",
+    "question": "Apart from pictures what moving images can this device capture?",
+    "label": [
+        "video",
+        "video",
+        "video",
+        "video",
+        "video",
+        "video",
+        "video",
+        "video",
+        "video image",
+        "video image"
+    ]
+}

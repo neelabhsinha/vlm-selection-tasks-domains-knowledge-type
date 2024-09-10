@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 119182,
+    "caption": "a kitchen with a stove, microwave and refrigerator",
+    "object_tags": [
+        "indoor",
+        "cabinet",
+        "home appliance",
+        "wall",
+        "kitchen appliance",
+        "appliance",
+        "major appliance",
+        "kitchen",
+        "cabinetry",
+        "microwave oven",
+        "countertop",
+        "cupboard",
+        "kitchen stove",
+        "gas stove",
+        "small appliance",
+        "cooktop",
+        "freezer",
+        "microwave",
+        "oven",
+        "stove",
+        "steel",
+        "home",
+        "refrigerator"
+    ]
+}

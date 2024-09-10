@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 739,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_739.png",
+    "question": "What pattern is on the man's shirt?",
+    "label": "['checker', 'plaid', 'plaid', 'plaid', 'flannel', 'casual', 'plaid', 'plaid', 'plaid', 'plaid']",
+    "choices": [
+        "plaid",
+        "polka dot",
+        "argyle",
+        "stripes"
+    ],
+    "correct_choice": "plaid"
+}

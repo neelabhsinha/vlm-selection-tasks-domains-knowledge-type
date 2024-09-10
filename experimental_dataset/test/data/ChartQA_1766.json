@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1766,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1766.png",
+    "question": "What was the average daily rate of hotels in Houston in the United States in the first quarter of 2017?",
+    "label": [
+        "168"
+    ]
+}

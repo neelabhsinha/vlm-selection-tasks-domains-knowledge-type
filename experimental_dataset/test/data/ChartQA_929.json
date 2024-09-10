@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 929,
+    "image_path": "./experimental_dataset/test/images/ChartQA_929.png",
+    "question": "What is the difference between the maximum percentage of Obama supporters and the minimum percentage of Romney supporters in the 2012 election?",
+    "label": [
+        "85"
+    ]
+}

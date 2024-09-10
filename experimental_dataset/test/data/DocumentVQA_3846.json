@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3846,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3846.png",
+    "question": "What is serial number \u20185\u2019?",
+    "label": [
+        "expenditure in foreign currency",
+        "Expenditure in foreign currency"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 562,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_562.png",
+    "question": "What is the first budget listed under Publication Program Budget?",
+    "label": [
+        "4 review articles/clinical trial manuscripts",
+        "4 Review Articles/Clinical Trial Manuscripts"
+    ]
+}

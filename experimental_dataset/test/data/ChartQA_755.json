@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 755,
+    "image_path": "./experimental_dataset/test/images/ChartQA_755.png",
+    "question": "What is the total market share of Mercadona and Lidl in Spain in 2020?",
+    "label": [
+        "31"
+    ]
+}

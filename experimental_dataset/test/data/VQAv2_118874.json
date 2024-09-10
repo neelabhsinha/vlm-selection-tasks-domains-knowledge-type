@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 118874,
+    "image_path": "./experimental_dataset/test/images/VQAv2_118874.png",
+    "question": "What brand of shoes does he have on?",
+    "label": [
+        "adidas",
+        "adidas",
+        "adidas",
+        "nike",
+        "adidas",
+        "nike",
+        "cleats",
+        "nike",
+        "puma",
+        "adidas"
+    ]
+}

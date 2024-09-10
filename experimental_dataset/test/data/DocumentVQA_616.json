@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 616,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_616.png",
+    "question": "What is plotted along the y axis ?",
+    "label": [
+        "LOSS OF THIAMINE (%)",
+        "Loss of Thiamine (%)"
+    ]
+}

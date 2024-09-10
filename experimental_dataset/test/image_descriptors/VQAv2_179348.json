@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 179348,
+    "caption": "a man riding on the back of a horse through a field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "plant",
+        "tree",
+        "animal",
+        "field",
+        "horse",
+        "mammal",
+        "nature"
+    ]
+}

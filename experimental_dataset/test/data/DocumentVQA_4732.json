@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4732,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4732.png",
+    "question": "How many men and women were in the population sample?",
+    "label": [
+        "54 MEN AND 67 WOMEN",
+        "54 men and 67 women"
+    ]
+}

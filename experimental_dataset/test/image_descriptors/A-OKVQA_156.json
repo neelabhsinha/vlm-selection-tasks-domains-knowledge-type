@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 156,
+    "caption": "a car is stopped at a red light at night",
+    "object_tags": [
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "road",
+        "transport",
+        "outdoor",
+        "car",
+        "street",
+        "building",
+        "vehicle registration plate",
+        "automotive parking light",
+        "sedan",
+        "mid-size car",
+        "city",
+        "night",
+        "light"
+    ]
+}

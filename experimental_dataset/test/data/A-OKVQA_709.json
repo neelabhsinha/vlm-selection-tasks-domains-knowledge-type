@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 709,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_709.png",
+    "question": "What movie is on the kite?",
+    "label": "['toy story', 'toy story', 'toy story', 'toy story', 'toy story', 'toy story', 'toy story', 'toy story', 'toy story', 'toy story']",
+    "choices": [
+        "shrek",
+        "up",
+        "toy story",
+        "cars"
+    ],
+    "correct_choice": "toy story"
+}

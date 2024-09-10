@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 183715,
+    "image_path": "./experimental_dataset/test/images/VQAv2_183715.png",
+    "question": "What is the woman doing?",
+    "label": [
+        "sitting",
+        "sitting",
+        "no women",
+        "standing",
+        "sitting",
+        "watching",
+        "watching",
+        "watching",
+        "watching",
+        "watching baseball game"
+    ]
+}

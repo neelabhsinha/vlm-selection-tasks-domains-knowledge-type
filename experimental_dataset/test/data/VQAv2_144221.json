@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 144221,
+    "image_path": "./experimental_dataset/test/images/VQAv2_144221.png",
+    "question": "Is this a toilet?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

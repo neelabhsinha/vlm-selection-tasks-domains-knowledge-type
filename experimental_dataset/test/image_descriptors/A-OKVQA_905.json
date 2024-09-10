@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 905,
+    "caption": "cars are stopped at a red light",
+    "object_tags": [
+        "text",
+        "land vehicle",
+        "vehicle",
+        "outdoor",
+        "wheel",
+        "vehicle registration plate",
+        "sky",
+        "car",
+        "road",
+        "building",
+        "automotive tail & brake light",
+        "traffic",
+        "auto part",
+        "billboard",
+        "motor vehicle",
+        "traffic congestion",
+        "infrastructure",
+        "street",
+        "sign",
+        "tollbooth",
+        "light",
+        "city"
+    ]
+}

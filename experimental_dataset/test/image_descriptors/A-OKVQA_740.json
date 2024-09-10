@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 740,
+    "caption": "a man eating a hot dog in a garden",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "man",
+        "plant",
+        "fast food",
+        "human face",
+        "sitting",
+        "food",
+        "eating",
+        "holding",
+        "sandwich",
+        "snack food"
+    ]
+}

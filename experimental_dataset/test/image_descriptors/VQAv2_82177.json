@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 82177,
+    "caption": "a brown and white dog sitting on top of a skateboard",
+    "object_tags": [
+        "footwear",
+        "dog breed",
+        "pet",
+        "clothing",
+        "person",
+        "bulldog",
+        "australian bulldog",
+        "old english bulldog",
+        "english bulldog",
+        "dog",
+        "outdoor",
+        "standing",
+        "ground",
+        "wearing"
+    ]
+}

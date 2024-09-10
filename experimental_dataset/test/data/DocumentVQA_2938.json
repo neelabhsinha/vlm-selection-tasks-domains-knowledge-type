@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2938,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2938.png",
+    "question": "What is the name of the Mailgram services?",
+    "label": [
+        "western union mailgram",
+        "Western Union Mailgram"
+    ]
+}

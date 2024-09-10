@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 242,
+    "caption": "a collage of photos of people and a train",
+    "object_tags": [
+        "text",
+        "vehicle",
+        "land vehicle",
+        "train",
+        "bus",
+        "public transport",
+        "transport",
+        "person",
+        "people",
+        "group"
+    ]
+}

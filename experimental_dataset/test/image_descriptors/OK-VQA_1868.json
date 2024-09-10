@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1868,
+    "caption": "a horse pulling a carriage down a snow covered street",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "horse",
+        "cart",
+        "animal",
+        "snow",
+        "horse harness",
+        "horse and buggy",
+        "wagon",
+        "horse supplies",
+        "bridle",
+        "vehicle",
+        "mare",
+        "halter",
+        "carriage",
+        "rein",
+        "wheel",
+        "horse tack",
+        "winter",
+        "road",
+        "street",
+        "drawn",
+        "horse-drawn vehicle"
+    ]
+}

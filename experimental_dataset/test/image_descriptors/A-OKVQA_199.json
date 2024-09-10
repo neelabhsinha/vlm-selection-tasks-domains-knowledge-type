@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 199,
+    "caption": "a man and woman sitting on a sidewalk next to a white refrigerator",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "outdoor",
+        "building",
+        "human face",
+        "jeans",
+        "ground",
+        "waste container",
+        "woman",
+        "sidewalk",
+        "sitting",
+        "refrigerator",
+        "street",
+        "people",
+        "appliance"
+    ]
+}

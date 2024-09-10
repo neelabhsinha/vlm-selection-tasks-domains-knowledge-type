@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 67582,
+    "caption": "a woman sitting at a table with fruit and vegetables",
+    "object_tags": [
+        "person",
+        "food",
+        "clothing",
+        "human face",
+        "meal",
+        "vegetable",
+        "fruit",
+        "table",
+        "woman",
+        "outdoor",
+        "girl"
+    ]
+}

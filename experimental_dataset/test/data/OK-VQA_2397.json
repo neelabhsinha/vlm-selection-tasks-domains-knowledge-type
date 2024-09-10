@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2397,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2397.png",
+    "question": "This tennis player comes to the clinic for elbow pain what anatomic structure has she likely injured?",
+    "label": [
+        "elbow",
+        "elbow",
+        "elbow",
+        "elbow",
+        "ligament",
+        "ligament",
+        "tendon",
+        "tendon",
+        "joint",
+        "joint"
+    ]
+}

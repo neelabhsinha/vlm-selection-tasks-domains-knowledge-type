@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 180293,
+    "image_path": "./experimental_dataset/test/images/VQAv2_180293.png",
+    "question": "What is behind the faucet?",
+    "label": [
+        "cleaning brush",
+        "brush",
+        "brush",
+        "soap",
+        "brush",
+        "soap",
+        "brush",
+        "brush",
+        "cleaning brush",
+        "brush"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3086,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3086.png",
+    "question": "Which is the third cigarette brand along the x axis?",
+    "label": [
+        "now",
+        "NOW"
+    ]
+}

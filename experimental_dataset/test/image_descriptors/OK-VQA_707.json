@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 707,
+    "caption": "a man on a bicycle with bananas in front of him",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "market",
+        "selling",
+        "hawker",
+        "trade",
+        "bazaar",
+        "peddler",
+        "ground",
+        "building",
+        "marketplace",
+        "wheel",
+        "flea market",
+        "street",
+        "produce",
+        "people",
+        "woman",
+        "vegetable"
+    ]
+}

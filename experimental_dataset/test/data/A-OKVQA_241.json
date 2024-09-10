@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 241,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_241.png",
+    "question": "Why is the man holding an umbrella?",
+    "label": "['sun protection', 'raining', 'raining', 'raining', 'raining', 'rain', 'its raining', 'rain', 'rain', 'raining soon']",
+    "choices": [
+        "hail",
+        "rain",
+        "sun",
+        "snow"
+    ],
+    "correct_choice": "rain"
+}

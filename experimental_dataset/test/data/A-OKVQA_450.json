@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 450,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_450.png",
+    "question": "Which of these objects is used to write on and is present on the desk?",
+    "label": "['laptop', 'pen', 'sticky note', 'post-its', 'laptop', 'post-its', 'pen', 'post its', 'keyboard', 'keyboard']",
+    "choices": [
+        "post-its",
+        "graph paper",
+        "chalk board",
+        "clip board"
+    ],
+    "correct_choice": "post-its"
+}

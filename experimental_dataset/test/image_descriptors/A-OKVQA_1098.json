@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1098,
+    "caption": "a woman sitting at a table with a donut in front of her",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "snack",
+        "fast food",
+        "meal",
+        "smile",
+        "window",
+        "baked goods",
+        "indoor",
+        "eating",
+        "doughnut",
+        "food",
+        "wall",
+        "donut",
+        "woman",
+        "vacation"
+    ]
+}

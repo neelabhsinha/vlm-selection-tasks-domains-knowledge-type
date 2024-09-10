@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 82924,
+    "image_path": "./experimental_dataset/test/images/VQAv2_82924.png",
+    "question": "How many poles is the man on the left holding?",
+    "label": [
+        "0",
+        "2",
+        "2",
+        "2",
+        "0",
+        "2",
+        "0",
+        "0",
+        "1",
+        "2"
+    ]
+}

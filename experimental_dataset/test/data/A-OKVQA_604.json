@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 604,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_604.png",
+    "question": "What destination is on the top of the bus?",
+    "label": "['north bergen', 'north bergen', 'north bergen', 'north bergen', 'north bergen', 'north bergen', 'bemeen', 'bemeen', 'north bergen', 'north bergen']",
+    "choices": [
+        "burlington",
+        "north bergen",
+        "norway",
+        "livingston"
+    ],
+    "correct_choice": "north bergen"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 97,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_97.png",
+    "question": "How do you turn this on?",
+    "label": [
+        "key",
+        "key",
+        "key",
+        "key",
+        "key",
+        "key",
+        "ignition",
+        "ignition",
+        "with key",
+        "with key"
+    ]
+}

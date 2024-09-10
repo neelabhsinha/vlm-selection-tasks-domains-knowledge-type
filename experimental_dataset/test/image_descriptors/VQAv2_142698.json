@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 142698,
+    "caption": "a man walking down the street with an umbrella",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "person",
+        "street",
+        "clothing",
+        "vehicle",
+        "land vehicle",
+        "footwear",
+        "wheel",
+        "umbrella",
+        "pedestrian",
+        "walking",
+        "carrying",
+        "woman",
+        "people",
+        "city"
+    ]
+}

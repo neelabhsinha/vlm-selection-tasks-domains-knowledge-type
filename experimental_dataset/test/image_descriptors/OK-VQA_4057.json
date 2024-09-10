@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4057,
+    "caption": "a man jumping in the air to catch a frisbee",
+    "object_tags": [
+        "footwear",
+        "sport",
+        "person",
+        "clothing",
+        "sports equipment",
+        "sports",
+        "athletic game",
+        "court",
+        "athletic shoe",
+        "physical fitness",
+        "man",
+        "sportswear",
+        "sport venue",
+        "handball",
+        "indoor",
+        "jumping",
+        "frisbee",
+        "player",
+        "outdoor"
+    ]
+}

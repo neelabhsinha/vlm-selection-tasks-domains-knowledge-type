@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 866,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_866.png",
+    "question": "What trick is the skateboarder performing?",
+    "label": "['rail', 'ollie', 'skateboarding', 'rail grind', 'railslide', 'rail grind', 'jumping', 'sliding rail', 'jump', 'grinding']",
+    "choices": [
+        "kickflip",
+        "front kick",
+        "rail grind",
+        "ollie"
+    ],
+    "correct_choice": "rail grind"
+}

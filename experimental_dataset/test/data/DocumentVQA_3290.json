@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3290,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3290.png",
+    "question": "What is the Expenses for Employee Benefits for 1987?",
+    "label": [
+        "$18,559",
+        "18,559"
+    ]
+}

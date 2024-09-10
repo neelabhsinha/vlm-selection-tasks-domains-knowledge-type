@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 713,
+    "caption": "a white plate topped with a piece of cake",
+    "object_tags": [
+        "food",
+        "plate",
+        "dish",
+        "cuisine",
+        "dairy",
+        "ice cream",
+        "frozen dessert",
+        "chocolate syrup",
+        "kitchen utensil",
+        "culinary art",
+        "sweetness",
+        "syrup",
+        "berry",
+        "indoor",
+        "desert",
+        "dessert"
+    ]
+}

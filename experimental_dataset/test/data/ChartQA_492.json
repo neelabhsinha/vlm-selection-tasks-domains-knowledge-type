@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 492,
+    "image_path": "./experimental_dataset/test/images/ChartQA_492.png",
+    "question": "What is the percentage of shared democratic values for Americans?",
+    "label": [
+        "21"
+    ]
+}

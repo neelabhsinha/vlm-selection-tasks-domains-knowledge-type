@@ -1,0 +1,32 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 140,
+    "caption": "a small propeller plane sitting on top of a tarmac",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "plane",
+        "aircraft",
+        "transport",
+        "vehicle",
+        "air travel",
+        "aviation",
+        "jet aircraft",
+        "airplane",
+        "aircraft engine",
+        "aerospace engineering",
+        "aerospace manufacturer",
+        "air force",
+        "military aircraft",
+        "general aviation",
+        "flap",
+        "ground",
+        "jet",
+        "airshow",
+        "air",
+        "runway",
+        "parked",
+        "red",
+        "airport"
+    ]
+}

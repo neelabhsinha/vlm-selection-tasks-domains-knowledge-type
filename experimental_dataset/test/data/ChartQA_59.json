@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 59,
+    "image_path": "./experimental_dataset/test/images/ChartQA_59.png",
+    "question": "What is the difference between maximum and minimum Human Development index across all the countries?",
+    "label": [
+        "0.23"
+    ]
+}

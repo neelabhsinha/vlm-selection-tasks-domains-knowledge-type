@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4367,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4367.png",
+    "question": "What is the phone number given?",
+    "label": [
+        "1-800-681-7771",
+        "882-1360"
+    ]
+}

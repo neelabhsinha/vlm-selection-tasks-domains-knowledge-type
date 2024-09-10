@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 696,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_696.png",
+    "question": "What month is written on the chest of the stuffed animal?",
+    "label": "['june', 'june', 'june', 'june', 'june', 'june', 'june', 'june', 'june', 'june']",
+    "choices": [
+        "september",
+        "june",
+        "july",
+        "august"
+    ],
+    "correct_choice": "june"
+}

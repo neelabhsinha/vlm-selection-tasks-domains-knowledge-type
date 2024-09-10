@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1722,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1722.png",
+    "question": "What year was the highest share of Danish households with internet access?",
+    "label": [
+        "2017"
+    ]
+}

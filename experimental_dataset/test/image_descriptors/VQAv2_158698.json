@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 158698,
+    "caption": "a collage of photos of a computer keyboard and mouse",
+    "object_tags": [
+        "computer",
+        "office equipment",
+        "input device",
+        "peripheral",
+        "electronic device",
+        "computer keyboard",
+        "indoor",
+        "desk",
+        "office supplies",
+        "computer mouse",
+        "space bar",
+        "computer hardware",
+        "personal computer",
+        "gadget",
+        "output device",
+        "personal computer hardware",
+        "computer component",
+        "mouse",
+        "keyboard",
+        "mac",
+        "laptop"
+    ]
+}

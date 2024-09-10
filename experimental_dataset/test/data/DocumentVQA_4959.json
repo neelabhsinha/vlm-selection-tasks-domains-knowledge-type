@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4959,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4959.png",
+    "question": "Who is number 4 among the list of nominees listed?",
+    "label": [
+        "harry steenbock",
+        "Harry Steenbock"
+    ]
+}

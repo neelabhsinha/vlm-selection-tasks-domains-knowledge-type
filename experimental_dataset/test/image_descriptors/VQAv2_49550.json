@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 49550,
+    "caption": "a person holding a cell phone in their hand",
+    "object_tags": [
+        "electronics",
+        "indoor",
+        "person",
+        "communication device",
+        "gadget",
+        "electronic device",
+        "mobile phone",
+        "text",
+        "portable communications device",
+        "telephone",
+        "mobile device",
+        "multimedia",
+        "computer",
+        "wall",
+        "phone",
+        "display device",
+        "holding",
+        "telephony",
+        "monitor",
+        "output device",
+        "hand",
+        "flat panel display",
+        "screen",
+        "smartphone"
+    ]
+}

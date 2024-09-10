@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 163371,
+    "image_path": "./experimental_dataset/test/images/VQAv2_163371.png",
+    "question": "Is the hot dog on a bun?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

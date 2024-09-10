@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 396,
+    "image_path": "./experimental_dataset/test/images/ChartQA_396.png",
+    "question": "What's the color of the line representing the Netherlands?",
+    "label": [
+        "orange"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 51,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_51.png",
+    "question": "In what type of environment are they most likely riding skateboards?",
+    "label": "['urban', 'playing', 'skate park', 'urban', 'warm tropical', 'urban', 'tropical', 'business', 'city', 'urban areas']",
+    "choices": [
+        "beach",
+        "city",
+        "rural",
+        "suburban"
+    ],
+    "correct_choice": "city"
+}

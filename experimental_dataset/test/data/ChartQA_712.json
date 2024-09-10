@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 712,
+    "image_path": "./experimental_dataset/test/images/ChartQA_712.png",
+    "question": "Which year shows the largest decrease of employment rate?",
+    "label": [
+        "2004"
+    ]
+}

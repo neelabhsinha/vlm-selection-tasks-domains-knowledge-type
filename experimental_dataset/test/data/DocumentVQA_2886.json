@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2886,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2886.png",
+    "question": "What is the mean score of the total test?",
+    "label": [
+        "82.1"
+    ]
+}

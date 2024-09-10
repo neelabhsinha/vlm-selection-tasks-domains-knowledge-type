@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 143768,
+    "image_path": "./experimental_dataset/test/images/VQAv2_143768.png",
+    "question": "How many stuffed animals are there?",
+    "label": [
+        "3",
+        "3",
+        "3",
+        "4",
+        "3",
+        "3",
+        "3",
+        "3",
+        "5",
+        "4"
+    ]
+}

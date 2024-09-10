@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 178926,
+    "image_path": "./experimental_dataset/test/images/VQAv2_178926.png",
+    "question": "Is the man wearing a long neck tie or a bow tie?",
+    "label": [
+        "necktie",
+        "long neck tie",
+        "necktie",
+        "long neck tie",
+        "long neck tie",
+        "long neck tie",
+        "long neck tie",
+        "long neck tie",
+        "long neck tie",
+        "long neck tie"
+    ]
+}

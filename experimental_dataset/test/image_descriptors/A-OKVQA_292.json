@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 292,
+    "caption": "a person standing next to a fire hydrant",
+    "object_tags": [
+        "ground",
+        "clothing",
+        "person",
+        "outdoor",
+        "footwear",
+        "street",
+        "sidewalk"
+    ]
+}

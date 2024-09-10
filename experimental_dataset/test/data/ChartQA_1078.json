@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1078,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1078.png",
+    "question": "What is the value of the dark blue bar in middle?",
+    "label": [
+        "113"
+    ]
+}

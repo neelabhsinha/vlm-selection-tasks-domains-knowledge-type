@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 760,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_760.png",
+    "question": "What is the quotient of each individual digit on his jersey?",
+    "label": "['one', 'one', 'one', 'two', 'two', 'two', 'one', 'one', 'one one', 'one']",
+    "choices": [
+        "one",
+        "two",
+        "101",
+        "11"
+    ],
+    "correct_choice": "one"
+}

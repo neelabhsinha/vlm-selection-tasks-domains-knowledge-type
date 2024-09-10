@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4682,
+    "caption": "a man riding a motorcycle on top of a wave",
+    "object_tags": [
+        "motorcycle",
+        "outdoor",
+        "vehicle",
+        "water",
+        "person",
+        "wheel",
+        "riding",
+        "motorbike",
+        "sport",
+        "tire",
+        "motorcycling",
+        "man",
+        "land vehicle",
+        "clothing",
+        "motorcycle helmet",
+        "motorcycle racing",
+        "motorsport",
+        "motorcycle fairing",
+        "beach",
+        "ocean",
+        "wave"
+    ]
+}

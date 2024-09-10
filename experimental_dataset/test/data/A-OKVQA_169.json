@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 169,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_169.png",
+    "question": "Which body part of the cow could you look at to find out which identity and/or owner the cow has?",
+    "label": "['ear', 'ear', 'ear', 'ear', 'tag', 'ear', 'ear', 'ear', 'tag', 'ear']",
+    "choices": [
+        "ear",
+        "foot",
+        "rump",
+        "knee"
+    ],
+    "correct_choice": "ear"
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4441,
+    "caption": "a river with a boat in the middle of it",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "water",
+        "lake",
+        "sky",
+        "ship",
+        "waterway",
+        "channel",
+        "vehicle",
+        "tower block",
+        "metropolis",
+        "skyline",
+        "city",
+        "skyscraper",
+        "metropolitan area",
+        "downtown",
+        "boat",
+        "river",
+        "watercraft",
+        "large",
+        "floating",
+        "reflection",
+        "travel"
+    ]
+}

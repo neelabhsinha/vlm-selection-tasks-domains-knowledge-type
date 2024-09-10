@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4512,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4512.png",
+    "question": "Who approves study budgets based on sub-title \"Site specifics\" ?",
+    "label": [
+        "Himself",
+        "himself"
+    ]
+}

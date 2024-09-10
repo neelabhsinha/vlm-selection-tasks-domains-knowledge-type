@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 494,
+    "caption": "a group of people sitting on a couch playing a video game",
+    "object_tags": [
+        "human face",
+        "person",
+        "clothing",
+        "indoor",
+        "wall",
+        "man",
+        "concert",
+        "room",
+        "music",
+        "game",
+        "controller",
+        "people"
+    ]
+}

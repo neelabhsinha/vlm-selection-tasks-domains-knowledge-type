@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2117,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2117.png",
+    "question": "Which country was the world's leading natural rubber exporting country in 2019?",
+    "label": [
+        "Thailand"
+    ]
+}

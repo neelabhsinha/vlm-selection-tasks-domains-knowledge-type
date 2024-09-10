@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 183687,
+    "image_path": "./experimental_dataset/test/images/VQAv2_183687.png",
+    "question": "What is on top of the dog?",
+    "label": [
+        "pillow",
+        "pillow",
+        "blanket",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow"
+    ]
+}

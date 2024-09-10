@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5086,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5086.png",
+    "question": "What is the price index for all items in1940?",
+    "label": [
+        "59.4"
+    ]
+}

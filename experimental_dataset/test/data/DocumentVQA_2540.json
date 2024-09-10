@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2540,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2540.png",
+    "question": "What is the carrier code?",
+    "label": [
+        "AA"
+    ]
+}

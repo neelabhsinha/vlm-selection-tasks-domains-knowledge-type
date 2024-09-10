@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 495,
+    "image_path": "./experimental_dataset/test/images/ChartQA_495.png",
+    "question": "Can you say more republicans are saying that society has gone far enough to accept transgender than democrats?",
+    "label": [
+        "Yes"
+    ]
+}

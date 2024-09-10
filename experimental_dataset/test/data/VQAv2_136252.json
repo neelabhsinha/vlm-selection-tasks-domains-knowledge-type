@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 136252,
+    "image_path": "./experimental_dataset/test/images/VQAv2_136252.png",
+    "question": "What kind of bird is soaring?",
+    "label": [
+        "seagull",
+        "eagle",
+        "seagull",
+        "seagulls",
+        "seagull",
+        "seagull",
+        "seagull",
+        "seagull",
+        "seagull",
+        "seagull"
+    ]
+}

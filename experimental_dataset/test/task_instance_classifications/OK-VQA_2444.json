@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2444,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Nature",
+        "Sports"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Social Knowledge"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1908,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1908.png",
+    "question": "How many\u2019 no reported revisions\u2019?",
+    "label": [
+        "1087 (98.8%)",
+        "1087"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 231,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_231.png",
+    "question": "Where does this fruit grow?",
+    "label": "['trees', 'tree', 'tree', 'tree', 'tree', 'trees', 'tree', 'tree', 'tree', 'trees']",
+    "choices": [
+        "logs",
+        "sea",
+        "trees",
+        "ground"
+    ],
+    "correct_choice": "trees"
+}

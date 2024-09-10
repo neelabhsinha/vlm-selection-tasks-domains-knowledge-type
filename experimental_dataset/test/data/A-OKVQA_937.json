@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 937,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_937.png",
+    "question": "What country can you learn about travel to if you visit the website on the bus?",
+    "label": "['malaysia', 'maylasia', 'malaysia', 'maylasia', 'maylasia', 'malaysia', 'malaysia', 'malaysia', 'malaysia', 'malaysia']",
+    "choices": [
+        "bolivia",
+        "malaysia",
+        "china",
+        "japan"
+    ],
+    "correct_choice": "malaysia"
+}

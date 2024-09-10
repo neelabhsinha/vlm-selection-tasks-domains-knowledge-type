@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4754,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4754.png",
+    "question": "What % of Smokers dream of moving out to the country to be closer to nature?",
+    "label": [
+        "60"
+    ]
+}

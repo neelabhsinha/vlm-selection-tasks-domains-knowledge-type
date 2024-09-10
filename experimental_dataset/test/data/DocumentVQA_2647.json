@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2647,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2647.png",
+    "question": "What is the method of contact?",
+    "label": [
+        "call",
+        "Call"
+    ]
+}

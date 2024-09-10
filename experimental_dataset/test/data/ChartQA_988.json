@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 988,
+    "image_path": "./experimental_dataset/test/images/ChartQA_988.png",
+    "question": "What is the difference between the space available in Europe?",
+    "label": [
+        "1"
+    ]
+}

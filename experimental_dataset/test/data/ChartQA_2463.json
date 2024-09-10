@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2463,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2463.png",
+    "question": "Which country had the lowest growth in online traffic?",
+    "label": [
+        "Germany"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 203094,
+    "image_path": "./experimental_dataset/test/images/VQAv2_203094.png",
+    "question": "What is yellow?",
+    "label": [
+        "right canoe",
+        "canoe",
+        "canoe on right",
+        "kayak",
+        "kayak",
+        "canoe",
+        "canoe",
+        "kayak",
+        "kayak",
+        "kayak on right"
+    ]
+}

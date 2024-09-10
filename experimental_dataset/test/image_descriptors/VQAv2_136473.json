@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 136473,
+    "caption": "a laptop computer sitting on top of a suitcase",
+    "object_tags": [
+        "laptop",
+        "indoor",
+        "computer",
+        "electronic device",
+        "gadget",
+        "luggage and bags",
+        "floor",
+        "suitcase",
+        "input device",
+        "case",
+        "accessory",
+        "black"
+    ]
+}

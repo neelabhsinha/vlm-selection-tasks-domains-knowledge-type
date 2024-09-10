@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 126476,
+    "image_path": "./experimental_dataset/test/images/VQAv2_126476.png",
+    "question": "Which room in the house is this?",
+    "label": [
+        "office",
+        "office",
+        "office",
+        "living room",
+        "not home",
+        "office",
+        "office",
+        "office",
+        "unclear",
+        "office"
+    ]
+}

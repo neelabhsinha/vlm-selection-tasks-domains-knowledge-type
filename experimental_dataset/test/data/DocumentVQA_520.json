@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 520,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_520.png",
+    "question": "What is the name of the county?",
+    "label": [
+        "CUYAHOGA COUNTY",
+        "Cuyahoga county"
+    ]
+}

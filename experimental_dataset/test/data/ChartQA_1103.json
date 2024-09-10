@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1103,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1103.png",
+    "question": "What is the average of 1,3,5,7th bar in the chart?",
+    "label": [
+        "53.23"
+    ]
+}

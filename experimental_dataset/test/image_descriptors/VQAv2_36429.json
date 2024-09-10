@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 36429,
+    "caption": "a white truck parked next to a wooden fence",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "land vehicle",
+        "plant",
+        "vehicle",
+        "wheel",
+        "building",
+        "tree",
+        "truck",
+        "grass",
+        "house",
+        "parked",
+        "ground"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 579,
+    "caption": "a man and a woman sitting at a table with a laptop",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "indoor",
+        "bottle",
+        "window",
+        "table",
+        "woman",
+        "food"
+    ]
+}

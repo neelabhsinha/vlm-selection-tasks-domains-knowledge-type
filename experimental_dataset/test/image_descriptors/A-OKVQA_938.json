@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 938,
+    "caption": "a white plate topped with meat and vegetables",
+    "object_tags": [
+        "plate",
+        "food",
+        "cuisine",
+        "dish",
+        "table",
+        "ingredient",
+        "cruciferous vegetables",
+        "fork",
+        "steak",
+        "vegetable",
+        "meal",
+        "tableware",
+        "leaf vegetable",
+        "delmonico steak",
+        "meat",
+        "dinner",
+        "broccoli",
+        "indoor",
+        "steak au poivre",
+        "pepper steak",
+        "carrot",
+        "potato"
+    ]
+}

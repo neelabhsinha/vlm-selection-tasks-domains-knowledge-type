@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2173,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2173.png",
+    "question": "What did Samuel Lepkovsky write?",
+    "label": [
+        "Taste"
+    ]
+}

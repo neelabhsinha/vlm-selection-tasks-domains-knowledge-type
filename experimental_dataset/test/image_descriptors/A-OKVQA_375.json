@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 375,
+    "caption": "a statue of a man on top of a clock tower",
+    "object_tags": [
+        "outdoor",
+        "clock",
+        "sky",
+        "sculpture",
+        "monument",
+        "building",
+        "tower",
+        "statue"
+    ]
+}

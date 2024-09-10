@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 1241,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Anthropology"
+    ],
+    "knowledge_type": [
+        "Social Knowledge",
+        "Cultural Knowledge"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1035,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1035.png",
+    "question": "Why are the trees without leaves?",
+    "label": "[\"it's winter\", 'fall season', 'autumn', 'fall', 'winter time', 'too cold', 'winter', \"it's fall\", 'seasonal changes', 'dry']",
+    "choices": [
+        "bad weather",
+        "fall season",
+        "landscaping",
+        "fake trees"
+    ],
+    "correct_choice": "fall season"
+}

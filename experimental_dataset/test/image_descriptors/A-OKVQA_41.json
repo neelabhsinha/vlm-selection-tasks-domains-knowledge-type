@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 41,
+    "caption": "a woman taking a picture of herself in a bathroom mirror",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "person",
+        "tap",
+        "bathroom accessory",
+        "clothing",
+        "plumbing",
+        "mirror",
+        "countertop",
+        "restroom",
+        "sink",
+        "standing",
+        "bathroom",
+        "room"
+    ]
+}

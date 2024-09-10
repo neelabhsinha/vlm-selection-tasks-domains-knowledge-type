@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 196539,
+    "image_path": "./experimental_dataset/test/images/VQAv2_196539.png",
+    "question": "Is there a mammal in this scene?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "yes"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 779,
+    "caption": "a herd of cattle grazing on a dry grass covered field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "animal",
+        "field",
+        "tree",
+        "bovine",
+        "livestock",
+        "cow",
+        "dairy cow",
+        "herd",
+        "pasture",
+        "herding",
+        "mammal",
+        "plant",
+        "grazing",
+        "ranch",
+        "standing",
+        "cattle"
+    ]
+}

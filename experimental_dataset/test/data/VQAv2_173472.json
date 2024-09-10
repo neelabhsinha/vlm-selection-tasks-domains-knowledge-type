@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 173472,
+    "image_path": "./experimental_dataset/test/images/VQAv2_173472.png",
+    "question": "What is cast?",
+    "label": [
+        "shadow",
+        "shadow",
+        "cloud",
+        "clouds",
+        "overcast",
+        "giraffes",
+        "i don't know",
+        "sky",
+        "giraffes",
+        "shadow"
+    ]
+}

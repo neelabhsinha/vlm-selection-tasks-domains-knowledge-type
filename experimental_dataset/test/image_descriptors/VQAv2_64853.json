@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 64853,
+    "caption": "a semi truck is parked in a parking lot",
+    "object_tags": [
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "transport",
+        "outdoor",
+        "tire",
+        "text",
+        "sky",
+        "lorry",
+        "trailer truck",
+        "commercial vehicle",
+        "auto part",
+        "truck",
+        "road",
+        "freight transport",
+        "motor vehicle",
+        "mode of transport",
+        "cargo",
+        "truck driver",
+        "trailer",
+        "ground",
+        "street",
+        "parked"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3492,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3492.png",
+    "question": "What are these umbrellas made of?",
+    "label": [
+        "cloth",
+        "cloth",
+        "cloth",
+        "cloth",
+        "cotton",
+        "cotton",
+        "nylon",
+        "nylon",
+        "material",
+        "material"
+    ]
+}

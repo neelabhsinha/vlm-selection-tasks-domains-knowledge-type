@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2804,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2804.png",
+    "question": "What is the \u2018RJR INVOICE#\u2019 given?",
+    "label": [
+        "104-0025"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 146143,
+    "caption": "two men are preparing food in a kitchen",
+    "object_tags": [
+        "person",
+        "wall",
+        "clothing",
+        "indoor",
+        "smile",
+        "countertop",
+        "human face",
+        "kitchen appliance",
+        "man",
+        "sink",
+        "bottle",
+        "kitchen",
+        "woman",
+        "standing"
+    ]
+}

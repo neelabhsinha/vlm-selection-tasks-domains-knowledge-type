@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 383,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_383.png",
+    "question": "Which ingredient offers the most protein?",
+    "label": "['meat', 'turkey', 'ham', 'ham', 'cheese', 'ham', 'ham', 'ham', 'ham', 'meat']",
+    "choices": [
+        "lettuce",
+        "pepper",
+        "tomato",
+        "ham"
+    ],
+    "correct_choice": "ham"
+}

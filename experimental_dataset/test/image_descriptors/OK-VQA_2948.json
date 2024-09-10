@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2948,
+    "caption": "a white car parked next to a parking meter",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "tire",
+        "vehicle",
+        "ground",
+        "land vehicle",
+        "auto part",
+        "road",
+        "car",
+        "street",
+        "parked",
+        "parking",
+        "meter",
+        "sign"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4738,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4738.png",
+    "question": "How many advices does smooth move #325 have for daters?",
+    "label": [
+        "4"
+    ]
+}

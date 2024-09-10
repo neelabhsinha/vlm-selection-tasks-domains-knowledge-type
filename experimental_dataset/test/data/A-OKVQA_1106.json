@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1106,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1106.png",
+    "question": "What is the name of the lip piercing that the girl in the foreground has?",
+    "label": "['pin', 'lip ring', 'drinks', 'hoop', 'philtrum piercing', 'vertical labret', 'glass', 'safety pin', 'drinking wisky', 'vertical labret']",
+    "choices": [
+        "vertical labret",
+        "spider bite",
+        "conch",
+        "septum"
+    ],
+    "correct_choice": "vertical labret"
+}

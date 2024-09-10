@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 859,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_859.png",
+    "question": "These bouquets are probably located in what kind of venue?",
+    "label": "['home', 'home', 'vase', 'dining room', 'dining room', 'kitchen', 'home', 'kitchen', 'wedding', 'home']",
+    "choices": [
+        "school",
+        "wedding",
+        "restaurant",
+        "home"
+    ],
+    "correct_choice": "home"
+}

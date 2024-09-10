@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1989,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1989.png",
+    "question": "What was the market value of peer-to-peer consumer lending in France in 2018?",
+    "label": [
+        "346.1"
+    ]
+}

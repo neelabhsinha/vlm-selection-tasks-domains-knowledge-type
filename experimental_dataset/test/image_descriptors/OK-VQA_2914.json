@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2914,
+    "caption": "a woman sitting on a bench next to a body of water",
+    "object_tags": [
+        "outdoor",
+        "luggage and bags",
+        "accessory",
+        "handbag",
+        "person",
+        "lake",
+        "water",
+        "clothing",
+        "ground",
+        "woman",
+        "bag",
+        "street"
+    ]
+}

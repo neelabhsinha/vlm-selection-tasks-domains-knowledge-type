@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 183040,
+    "caption": "a man brushing his teeth in a bathroom",
+    "object_tags": [
+        "person",
+        "wall",
+        "indoor",
+        "bathroom",
+        "human face",
+        "teeth",
+        "brushing",
+        "selfie",
+        "man",
+        "clothing",
+        "mirror",
+        "toothbrush",
+        "mouth",
+        "brush"
+    ]
+}

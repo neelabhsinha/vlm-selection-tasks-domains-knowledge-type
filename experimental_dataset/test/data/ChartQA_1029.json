@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1029,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1029.png",
+    "question": "What's the difference between Red 1 and Red 2 in 2012-13?",
+    "label": [
+        "1.6"
+    ]
+}

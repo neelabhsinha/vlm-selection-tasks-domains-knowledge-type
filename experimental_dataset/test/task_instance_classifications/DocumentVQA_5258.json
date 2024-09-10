@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5258,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "History",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Visual Knowledge"
+    ]
+}

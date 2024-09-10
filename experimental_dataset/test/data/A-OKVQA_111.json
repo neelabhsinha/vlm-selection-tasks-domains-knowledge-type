@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 111,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_111.png",
+    "question": "What kind of coating has been used?",
+    "label": "['frosting', 'chocolate', 'icing', 'chocolate', 'icing', 'paint', 'sugar glaze', 'frosting', 'icing', 'frosting']",
+    "choices": [
+        "polish",
+        "frosting",
+        "paint",
+        "varnish"
+    ],
+    "correct_choice": "frosting"
+}

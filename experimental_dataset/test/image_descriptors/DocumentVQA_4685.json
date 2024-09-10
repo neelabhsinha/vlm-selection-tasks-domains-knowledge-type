@@ -1,0 +1,16 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4685,
+    "caption": "a collage of photographs of a group of people",
+    "object_tags": [
+        "text",
+        "newspaper",
+        "human face",
+        "person",
+        "paper",
+        "woman",
+        "clothing",
+        "publication",
+        "newsprint"
+    ]
+}

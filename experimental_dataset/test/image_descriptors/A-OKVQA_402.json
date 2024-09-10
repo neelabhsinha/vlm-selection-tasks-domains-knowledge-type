@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 402,
+    "caption": "a city street with a street sign on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sky",
+        "road",
+        "way",
+        "tree",
+        "neighbourhood",
+        "road surface",
+        "building",
+        "street",
+        "house",
+        "town"
+    ]
+}

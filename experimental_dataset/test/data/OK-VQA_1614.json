@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1614,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1614.png",
+    "question": "What direction is the wind from?",
+    "label": [
+        "right",
+        "right",
+        "right",
+        "right",
+        "east",
+        "east",
+        "north",
+        "north",
+        "south east",
+        "south east"
+    ]
+}

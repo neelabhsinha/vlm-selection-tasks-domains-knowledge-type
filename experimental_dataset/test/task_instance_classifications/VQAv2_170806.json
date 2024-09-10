@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 170806,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Professions",
+        "Nutrition and Food"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Social Knowledge"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 14194,
+    "image_path": "./experimental_dataset/test/images/VQAv2_14194.png",
+    "question": "What color is the skater's helmet?",
+    "label": [
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black"
+    ]
+}

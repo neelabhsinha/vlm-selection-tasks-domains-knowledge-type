@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 99226,
+    "image_path": "./experimental_dataset/test/images/VQAv2_99226.png",
+    "question": "What color is the house on the right?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "white",
+        "white and black",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white"
+    ]
+}

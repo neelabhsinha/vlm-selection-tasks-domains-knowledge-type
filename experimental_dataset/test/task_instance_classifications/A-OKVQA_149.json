@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 149,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Economics",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge"
+    ]
+}

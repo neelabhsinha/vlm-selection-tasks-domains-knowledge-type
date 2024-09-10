@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1844,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1844.png",
+    "question": "What was the second largest carrier in Russia in 2020?",
+    "label": [
+        "S7 Airlines"
+    ]
+}

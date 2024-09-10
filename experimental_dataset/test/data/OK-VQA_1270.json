@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1270,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1270.png",
+    "question": "What is the brand of the hair dryer?",
+    "label": [
+        "conair",
+        "conair",
+        "conair",
+        "conair",
+        "conair",
+        "conair",
+        "conair",
+        "conair",
+        "conair",
+        "conair"
+    ]
+}

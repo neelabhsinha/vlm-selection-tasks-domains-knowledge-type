@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 61567,
+    "caption": "two bears standing next to each other in a field",
+    "object_tags": [
+        "bear",
+        "animal",
+        "mammal",
+        "cloud",
+        "outdoor",
+        "brown bear",
+        "painting",
+        "mountain",
+        "grizzly bear",
+        "kodiak bear",
+        "polar bear"
+    ]
+}

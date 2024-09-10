@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 560,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_560.png",
+    "question": "What is the horse doing in front of the cart?",
+    "label": "['travelling', 'pulling', 'pulling', 'pulling', 'pulling it', 'pulling', 'pulling it', 'cart pulling', 'riding someone', 'pulling']",
+    "choices": [
+        "pulling it",
+        "eating it",
+        "stopping it",
+        "attacking it"
+    ],
+    "correct_choice": "pulling it"
+}

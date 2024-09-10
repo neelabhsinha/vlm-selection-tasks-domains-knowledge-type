@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 776,
+    "image_path": "./experimental_dataset/test/images/ChartQA_776.png",
+    "question": "In which month the line graph saw its peak?",
+    "label": [
+        "May '21"
+    ]
+}

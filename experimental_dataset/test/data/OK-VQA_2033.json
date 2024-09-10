@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2033,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2033.png",
+    "question": "What is this type of furniture called the cat is sitting on?",
+    "label": [
+        "bookshelf",
+        "bookshelf",
+        "bookshelf",
+        "bookshelf",
+        "shelf",
+        "shelf",
+        "media stand",
+        "media stand",
+        "bookcase",
+        "bookcase"
+    ]
+}

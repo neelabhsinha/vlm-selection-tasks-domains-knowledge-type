@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 585,
+    "image_path": "./experimental_dataset/test/images/ChartQA_585.png",
+    "question": "For how many times has the value of US been larger than that of Sweden?",
+    "label": [
+        "1"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 33,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_33.png",
+    "question": "What sport are they mimicking?",
+    "label": "['baseball', 'baseball', 'baseball', 'baseball', 'baseball', 'baseball', 'baseball', 'baseball', 'baseball', 'baseball']",
+    "choices": [
+        "baseball",
+        "lacrosse",
+        "cricket",
+        "basketball"
+    ],
+    "correct_choice": "baseball"
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5050,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5050.png",
+    "question": "Which hotel\u2019s bill is given?",
+    "label": [
+        "DELMONICO\u2019S Hotel",
+        "delmonico's hotel"
+    ]
+}

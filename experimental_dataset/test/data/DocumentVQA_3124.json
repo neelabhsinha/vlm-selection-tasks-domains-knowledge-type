@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3124,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3124.png",
+    "question": "What is the title?",
+    "label": [
+        "the 'basic four' way to good meals",
+        "The 'Basic four' way to good meals"
+    ]
+}

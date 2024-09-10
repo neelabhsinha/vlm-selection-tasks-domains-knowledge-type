@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2417,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2417.png",
+    "question": "What style breakfast is this?",
+    "label": [
+        "continental",
+        "continental",
+        "continental",
+        "continental",
+        "brunch",
+        "brunch",
+        "english",
+        "english",
+        "cafeteria",
+        "cafeteria"
+    ]
+}

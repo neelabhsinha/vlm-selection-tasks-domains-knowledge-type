@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 691,
+    "image_path": "./experimental_dataset/test/images/ChartQA_691.png",
+    "question": "What is the sum of Canada and United states?",
+    "label": [
+        "71.08"
+    ]
+}

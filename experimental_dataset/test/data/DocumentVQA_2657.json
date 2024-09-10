@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2657,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2657.png",
+    "question": "What is the topic of \"Dr. D.F. Caldwell\" in MORNING SESSION?",
+    "label": [
+        "psycho-biological changes in zinc deficiency",
+        "Psycho-Biological Changes in Zinc Deficiency"
+    ]
+}

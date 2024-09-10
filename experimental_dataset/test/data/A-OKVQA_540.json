@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 540,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_540.png",
+    "question": "Why is the woman holding an umbrella while seated?",
+    "label": "['stay dry', 'raining', 'raining', 'raining', 'raining', 'rain', \"it's raining\", 'rain protection', 'repelling rain', 'prevent rain']",
+    "choices": [
+        "to dance",
+        "showing off",
+        "block sun",
+        "repelling rain"
+    ],
+    "correct_choice": "repelling rain"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 487,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_487.png",
+    "question": "What are the kids on the boards learning to do?",
+    "label": "['surf', 'surf', 'surf', 'surf', 'surf', 'body surf', 'surf', 'surf', 'surf', 'surf']",
+    "choices": [
+        "wrestle",
+        "fish",
+        "scuba dive",
+        "body surf"
+    ],
+    "correct_choice": "body surf"
+}

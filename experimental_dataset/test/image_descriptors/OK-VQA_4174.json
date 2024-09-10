@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4174,
+    "caption": "a black and white cat looking at a dog",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "tree",
+        "pet",
+        "tail",
+        "small to medium-sized cats",
+        "felidae",
+        "window",
+        "indoor",
+        "ground",
+        "black",
+        "domestic cat",
+        "cat",
+        "outdoor"
+    ]
+}

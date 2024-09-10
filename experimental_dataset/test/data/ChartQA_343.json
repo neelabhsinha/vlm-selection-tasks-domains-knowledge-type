@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 343,
+    "image_path": "./experimental_dataset/test/images/ChartQA_343.png",
+    "question": "What is the average of the three highest areas?",
+    "label": [
+        "32.43"
+    ]
+}

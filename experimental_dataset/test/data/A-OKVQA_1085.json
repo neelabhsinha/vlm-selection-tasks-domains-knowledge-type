@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1085,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1085.png",
+    "question": "What are the dog's owners likely doing?",
+    "label": "['moving', 'moving in', 'moving', 'unpacking items', 'moving', 'moving', 'moving in', 'moving', 'moving', 'moving']",
+    "choices": [
+        "moving",
+        "stealing",
+        "vacationing",
+        "garbage"
+    ],
+    "correct_choice": "moving"
+}

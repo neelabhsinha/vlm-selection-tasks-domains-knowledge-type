@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1055,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1055.png",
+    "question": "What is the knot on this man's tie called?",
+    "label": [
+        "knot",
+        "knot",
+        "knot",
+        "knot",
+        "windsor",
+        "windsor",
+        "neck tie",
+        "neck tie",
+        "regular",
+        "regular"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 739,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_739.png",
+    "question": "What is the classification of \"P3(6) FAST TRACK\" ?",
+    "label": [
+        "metabolic impact/hemostasis",
+        "Metabolic impact/hemostasis"
+    ]
+}

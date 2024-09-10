@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 793,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_793.png",
+    "question": "What is the object the man is on made from?",
+    "label": "['wood', 'wood', 'wood', 'wood', 'wood', 'wood', 'wood', 'wood', 'wood', 'wood']",
+    "choices": [
+        "wood",
+        "cement",
+        "brick",
+        "steel"
+    ],
+    "correct_choice": "wood"
+}

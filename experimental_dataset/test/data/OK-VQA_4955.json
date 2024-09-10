@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4955,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4955.png",
+    "question": "What does this vehicle transport?",
+    "label": [
+        "children",
+        "children",
+        "children",
+        "children",
+        "schoolchildren",
+        "schoolchildren",
+        "people",
+        "people",
+        "student",
+        "student"
+    ]
+}

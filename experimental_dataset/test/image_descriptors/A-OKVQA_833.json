@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 833,
+    "caption": "a young man holding a frisbee while standing on a sidewalk",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "footwear",
+        "trousers",
+        "run",
+        "ground",
+        "green",
+        "runner",
+        "park"
+    ]
+}

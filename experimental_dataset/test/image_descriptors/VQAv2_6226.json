@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 6226,
+    "caption": "a small boat is docked in the water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "watercraft",
+        "vehicle",
+        "ship",
+        "boating",
+        "transport",
+        "boat",
+        "boats and boating--equipment and supplies",
+        "skiff",
+        "water transportation",
+        "mountain",
+        "harbor",
+        "waterway",
+        "dinghy",
+        "lake",
+        "landscape",
+        "floating",
+        "sunset"
+    ]
+}

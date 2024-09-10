@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 584,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_584.png",
+    "question": "What type of animal is in the grass?",
+    "label": "['cow', 'cow', 'cow', 'cow', 'cows', 'cows', 'cows', 'cow', 'cows', 'cow']",
+    "choices": [
+        "cow",
+        "giraffe",
+        "dog",
+        "panda"
+    ],
+    "correct_choice": "cow"
+}

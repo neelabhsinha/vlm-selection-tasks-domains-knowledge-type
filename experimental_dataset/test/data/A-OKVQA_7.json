@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 7,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_7.png",
+    "question": "What is the descriptive word for this surface?",
+    "label": "['desk', 'desktop', 'glossy', 'computer', 'busy', 'crowded', 'table', 'smooth', 'desk', 'cluttered']",
+    "choices": [
+        "barren",
+        "crowded",
+        "minimalist",
+        "empty"
+    ],
+    "correct_choice": "crowded"
+}

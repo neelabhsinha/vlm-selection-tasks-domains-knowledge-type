@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 123990,
+    "caption": "a teddy bear holding a sign in front of a wall",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "wall",
+        "indoor",
+        "sign",
+        "floor",
+        "brown"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 908,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_908.png",
+    "question": "In what city is this street most probably located?",
+    "label": "['uk', 'london', 'newton', 'washington dc', 'tottenham', 'tottenham', 'hale village', 'tottenham', 'tottenham', 'london']",
+    "choices": [
+        "london",
+        "paris",
+        "berlin",
+        "amsterdam"
+    ],
+    "correct_choice": "london"
+}

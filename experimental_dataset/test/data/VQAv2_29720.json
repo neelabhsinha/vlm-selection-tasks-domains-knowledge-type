@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 29720,
+    "image_path": "./experimental_dataset/test/images/VQAv2_29720.png",
+    "question": "Are there waves?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

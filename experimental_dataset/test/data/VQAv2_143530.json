@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 143530,
+    "image_path": "./experimental_dataset/test/images/VQAv2_143530.png",
+    "question": "Was this taken in an office?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

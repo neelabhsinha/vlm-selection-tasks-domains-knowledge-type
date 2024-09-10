@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 132419,
+    "caption": "a man in a military uniform holding a baby",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "man",
+        "hat",
+        "fashion accessory",
+        "smile",
+        "outdoor",
+        "flower",
+        "military",
+        "woman",
+        "people",
+        "uniform"
+    ]
+}

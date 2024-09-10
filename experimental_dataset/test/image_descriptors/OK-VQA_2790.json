@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2790,
+    "caption": "a black truck parked in front of a white truck",
+    "object_tags": [
+        "vehicle",
+        "tire",
+        "land vehicle",
+        "wheel",
+        "outdoor",
+        "motor vehicle",
+        "auto part",
+        "automotive exterior",
+        "vehicle door",
+        "truck",
+        "pickup truck",
+        "fender",
+        "automotive carrying rack",
+        "transport",
+        "automotive luggage rack",
+        "windshield",
+        "automotive tire",
+        "bumper",
+        "sport utility vehicle",
+        "parked",
+        "hardtop",
+        "window",
+        "coupe utility",
+        "roof rack",
+        "car",
+        "pickup"
+    ]
+}

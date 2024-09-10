@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 37060,
+    "image_path": "./experimental_dataset/test/images/VQAv2_37060.png",
+    "question": "Is she listening to music?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

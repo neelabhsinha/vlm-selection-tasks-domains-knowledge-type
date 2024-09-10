@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 258,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_258.png",
+    "question": "What is the expansion of HRT?",
+    "label": [
+        "hormone replacement therapy"
+    ]
+}

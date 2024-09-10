@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 655,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_655.png",
+    "question": "What type of instrument is found next to the attachable keyboard?",
+    "label": "['computer mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'mouse', 'computer mouse', 'mouse', 'mouse']",
+    "choices": [
+        "trackpad",
+        "pencil",
+        "mouse",
+        "phone"
+    ],
+    "correct_choice": "mouse"
+}

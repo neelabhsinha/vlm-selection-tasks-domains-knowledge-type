@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 73303,
+    "caption": "a semi truck is parked on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "tire",
+        "transport",
+        "sky",
+        "road",
+        "truck",
+        "tree",
+        "auto part",
+        "trailer truck",
+        "commercial vehicle",
+        "freight transport",
+        "cargo",
+        "trailer",
+        "lorry",
+        "street"
+    ]
+}

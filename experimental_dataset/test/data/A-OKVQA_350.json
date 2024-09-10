@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 350,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_350.png",
+    "question": "Which color of clothing is unique to just one of the two people here?",
+    "label": "['green', 'grey', 'gray', 'blue', 'light blue', 'light blue', 'black pants', 'blue', 'green', 'gray']",
+    "choices": [
+        "white",
+        "yellow",
+        "grey",
+        "black"
+    ],
+    "correct_choice": "grey"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 608,
+    "image_path": "./experimental_dataset/test/images/ChartQA_608.png",
+    "question": "which company has the largest percentage?",
+    "label": [
+        "American Airlines"
+    ]
+}

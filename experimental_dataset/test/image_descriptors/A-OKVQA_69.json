@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 69,
+    "caption": "a man riding a skateboard on top of a wooden bench",
+    "object_tags": [
+        "outdoor",
+        "footwear",
+        "tree",
+        "clothing",
+        "person",
+        "plant",
+        "ground",
+        "skateboard",
+        "man",
+        "street",
+        "park",
+        "grass",
+        "riding",
+        "sidewalk"
+    ]
+}

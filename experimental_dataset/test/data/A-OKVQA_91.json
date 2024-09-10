@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 91,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_91.png",
+    "question": "What problem will the people on the ferry face?",
+    "label": "['bridge', 'seasickness', 'rain', 'storm', 'collision', 'bridge', 'storm', 'hit bridge', 'raining', 'bad weather']",
+    "choices": [
+        "earthquake",
+        "raining",
+        "sunburn",
+        "tsunami"
+    ],
+    "correct_choice": "raining"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1558,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1558.png",
+    "question": "What was the revenue of the Cincinnati Bengals in 2019?",
+    "label": [
+        "397"
+    ]
+}

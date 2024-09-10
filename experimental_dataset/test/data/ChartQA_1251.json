@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1251,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1251.png",
+    "question": "In what year did online sales make up 6.8 percent of retail sales of jewelry, watches and accessories in Germany?",
+    "label": [
+        "2013"
+    ]
+}

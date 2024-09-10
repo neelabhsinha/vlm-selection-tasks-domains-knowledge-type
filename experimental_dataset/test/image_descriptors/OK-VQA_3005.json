@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3005,
+    "caption": "a man carrying a surfboard on top of a sandy beach",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "palm tree",
+        "arecales",
+        "attalea speciosa",
+        "palm",
+        "beach",
+        "tree",
+        "plant"
+    ]
+}

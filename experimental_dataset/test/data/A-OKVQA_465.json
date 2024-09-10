@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 465,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_465.png",
+    "question": "Which country uses this kind of mail service?",
+    "label": "['great britain', 'england', 'united kingdom', 'england', 'britain', 'england', 'england', 'britain', 'england', 'england']",
+    "choices": [
+        "united states",
+        "kazakhstan",
+        "england",
+        "china"
+    ],
+    "correct_choice": "england"
+}

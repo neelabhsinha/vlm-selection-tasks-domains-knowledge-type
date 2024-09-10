@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4345,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4345.png",
+    "question": "What is the title of the table?",
+    "label": [
+        "rats surviving total body irradiation",
+        "Rats surviving Total Body Irradiation"
+    ]
+}

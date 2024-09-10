@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 661,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_661.png",
+    "question": "What is the frequent vehicle on this pictured street?",
+    "label": "['van', 'scooter', 'motorcycles', 'motorcycle', 'vans', 'motorcycles', 'bicycle motorbike', 'scooters', 'motorbikes bicycles', 'van']",
+    "choices": [
+        "van",
+        "motorcycle",
+        "bicycle",
+        "semi"
+    ],
+    "correct_choice": "motorcycle"
+}

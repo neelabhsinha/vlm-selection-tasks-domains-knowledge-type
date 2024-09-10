@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 75,
+    "image_path": "./experimental_dataset/test/images/VQAv2_75.png",
+    "question": "What type of beverage is being displayed?",
+    "label": [
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 742,
+    "caption": "a bathroom with a shower, sink, and mirror",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "bathtub",
+        "bathroom accessory",
+        "interior design",
+        "tap",
+        "sink",
+        "bathroom",
+        "room",
+        "hotel",
+        "vase",
+        "tile",
+        "mirror",
+        "flower",
+        "shower",
+        "tub",
+        "home"
+    ]
+}

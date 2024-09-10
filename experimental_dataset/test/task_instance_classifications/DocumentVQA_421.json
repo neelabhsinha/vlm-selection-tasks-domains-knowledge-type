@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 421,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Government and Politics",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Technical Knowledge"
+    ]
+}

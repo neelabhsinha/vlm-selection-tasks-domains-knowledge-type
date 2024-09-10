@@ -1,0 +1,32 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 964,
+    "caption": "a man standing in front of a fruit stand filled with lots of fruit",
+    "object_tags": [
+        "person",
+        "clothing",
+        "market",
+        "selling",
+        "trade",
+        "greengrocer",
+        "local food",
+        "natural foods",
+        "whole food",
+        "jeans",
+        "grocer",
+        "bazaar",
+        "standing",
+        "man",
+        "food group",
+        "outdoor",
+        "hawker",
+        "dog",
+        "shopkeeper",
+        "fruit",
+        "marketplace",
+        "people",
+        "produce",
+        "street",
+        "food"
+    ]
+}

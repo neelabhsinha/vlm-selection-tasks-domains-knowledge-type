@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 734,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_734.png",
+    "question": "How will the people on the mountain get off it?",
+    "label": "['ski down', 'skating skier', 'ski down', 'skiing', 'skiing', 'skiing downhill', 'skiing', 'ski down', 'ski down', 'ski down']",
+    "choices": [
+        "ski lift",
+        "uber",
+        "ski down",
+        "bike"
+    ],
+    "correct_choice": "ski down"
+}

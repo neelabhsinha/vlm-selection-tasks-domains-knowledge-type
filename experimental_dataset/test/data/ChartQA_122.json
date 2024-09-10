@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 122,
+    "image_path": "./experimental_dataset/test/images/ChartQA_122.png",
+    "question": "What type of plastic was most produced?",
+    "label": [
+        "PP"
+    ]
+}

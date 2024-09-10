@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1531,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1531.png",
+    "question": "Why does this animal have this object?",
+    "label": [
+        "play",
+        "play",
+        "play",
+        "play",
+        "play",
+        "play",
+        "ball",
+        "ball",
+        "ball",
+        "ball"
+    ]
+}

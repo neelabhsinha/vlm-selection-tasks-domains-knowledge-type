@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 820,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_820.png",
+    "question": "What tool is usedd for this type of art?",
+    "label": [
+        "spray paint",
+        "spray paint",
+        "spray paint",
+        "spray paint",
+        "spray paint",
+        "spray paint",
+        "spary paint can",
+        "spary paint can",
+        "spray can",
+        "spray can"
+    ]
+}

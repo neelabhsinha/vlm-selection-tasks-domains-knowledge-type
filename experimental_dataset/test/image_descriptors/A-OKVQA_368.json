@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 368,
+    "caption": "people standing outside of a building with a clock",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "clock",
+        "sky",
+        "footwear",
+        "clothing",
+        "person",
+        "jeans",
+        "man",
+        "people",
+        "standing",
+        "store",
+        "city",
+        "sidewalk",
+        "street"
+    ]
+}

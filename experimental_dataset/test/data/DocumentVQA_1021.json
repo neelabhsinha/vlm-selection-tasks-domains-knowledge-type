@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1021,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1021.png",
+    "question": "In which country is oriental stores located?",
+    "label": [
+        "Lebanon"
+    ]
+}

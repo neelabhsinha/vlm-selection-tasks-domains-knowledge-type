@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4112,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4112.png",
+    "question": "Who is the chairman of the 'Department of aeronautics and astronautics'?",
+    "label": [
+        "Angus N. MacDonald"
+    ]
+}

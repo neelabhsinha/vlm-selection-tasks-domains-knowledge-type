@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1256,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1256.png",
+    "question": "Which is the place mentioned in the first certificate?",
+    "label": [
+        "New Delhi"
+    ]
+}

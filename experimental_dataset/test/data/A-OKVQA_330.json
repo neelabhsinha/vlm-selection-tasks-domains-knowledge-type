@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 330,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_330.png",
+    "question": "What sort of surface/substance does the conveyance with a problem here move upon?",
+    "label": "['engine', 'motor', 'water', 'oil', 'water', 'roadways', 'road', 'water', 'on wheel', 'water']",
+    "choices": [
+        "sea",
+        "sky",
+        "rail",
+        "road"
+    ],
+    "correct_choice": "road"
+}

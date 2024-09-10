@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 508,
+    "image_path": "./experimental_dataset/test/images/ChartQA_508.png",
+    "question": "What age group thought that they should be subjected to it the most?",
+    "label": [
+        "65+"
+    ]
+}

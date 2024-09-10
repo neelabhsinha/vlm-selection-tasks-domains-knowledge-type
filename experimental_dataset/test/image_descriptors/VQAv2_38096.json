@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 38096,
+    "caption": "a cat eating a sandwich on a bed",
+    "object_tags": [
+        "small to medium-sized cats",
+        "felidae",
+        "animal",
+        "pet",
+        "indoor",
+        "domestic cat",
+        "mammal",
+        "cat"
+    ]
+}

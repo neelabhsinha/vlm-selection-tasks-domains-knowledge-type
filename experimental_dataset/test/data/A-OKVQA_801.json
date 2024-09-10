@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 801,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_801.png",
+    "question": "What might the two be feeling while sitting on the bench?",
+    "label": "['love', 'love', 'hands', 'affection', 'love', 'love', 'romantic', 'arousal', 'love', 'show kind']",
+    "choices": [
+        "neutral",
+        "hate",
+        "fear",
+        "love"
+    ],
+    "correct_choice": "love"
+}

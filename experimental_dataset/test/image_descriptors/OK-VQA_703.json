@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 703,
+    "caption": "a row of urinals in a public restroom",
+    "object_tags": [
+        "bathroom",
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "plumbing",
+        "bathroom accessory",
+        "toilet",
+        "urinal",
+        "toilet seat",
+        "bidet",
+        "plumbing fitting",
+        "tiled",
+        "public",
+        "floor",
+        "restroom",
+        "tile"
+    ]
+}

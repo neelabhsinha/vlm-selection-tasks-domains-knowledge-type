@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 14,
+    "image_path": "./experimental_dataset/test/images/ChartQA_14.png",
+    "question": "What's the percentage of U.S adults who refused?",
+    "label": [
+        "2"
+    ]
+}

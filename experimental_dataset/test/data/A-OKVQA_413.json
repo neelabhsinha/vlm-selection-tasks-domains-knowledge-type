@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 413,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_413.png",
+    "question": "What is the item with all of the visible black seeds called?",
+    "label": "['kiwi fruit', 'kiwi fruit', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi']",
+    "choices": [
+        "kiwi",
+        "honeydew",
+        "watermelon",
+        "apple"
+    ],
+    "correct_choice": "kiwi"
+}

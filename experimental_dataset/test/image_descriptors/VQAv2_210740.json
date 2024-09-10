@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 210740,
+    "caption": "a birthday party for a young girl with a birthday cake",
+    "object_tags": [
+        "person",
+        "clothing",
+        "birthday cake",
+        "human face",
+        "indoor",
+        "birthday",
+        "cake",
+        "fashion accessory",
+        "smile",
+        "man",
+        "table",
+        "baked goods",
+        "dessert",
+        "party supply",
+        "people",
+        "party",
+        "wall",
+        "woman",
+        "group",
+        "food",
+        "hat",
+        "cutting",
+        "shop",
+        "family"
+    ]
+}

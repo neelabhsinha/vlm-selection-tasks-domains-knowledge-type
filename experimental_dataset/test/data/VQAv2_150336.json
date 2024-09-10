@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 150336,
+    "image_path": "./experimental_dataset/test/images/VQAv2_150336.png",
+    "question": "What are the two main colors of the bus?",
+    "label": [
+        "cream, blue",
+        "blue white",
+        "blue and white",
+        "blue cream white",
+        "blue and white",
+        "blue and beige",
+        "blue and tan",
+        "blue & beige",
+        "white and blue",
+        "blue and cream"
+    ]
+}

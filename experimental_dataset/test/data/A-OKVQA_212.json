@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 212,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_212.png",
+    "question": "What fruit is the clock shaped as?",
+    "label": "['apple', 'apple', 'apple', 'apple', 'apple', 'apple', 'apple', 'apple', 'apple', 'apple']",
+    "choices": [
+        "orange",
+        "pineapple",
+        "apple",
+        "pear"
+    ],
+    "correct_choice": "apple"
+}

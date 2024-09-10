@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 822,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_822.png",
+    "question": "How is the object in the air controlled?",
+    "label": "['wind', 'line', 'wind', 'wind', 'by string', 'hands', 'string', 'cord', 'string', 'wind']",
+    "choices": [
+        "battery",
+        "computer",
+        "remote",
+        "string"
+    ],
+    "correct_choice": "string"
+}

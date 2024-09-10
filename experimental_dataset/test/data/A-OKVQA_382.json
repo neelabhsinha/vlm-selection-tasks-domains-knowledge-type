@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 382,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_382.png",
+    "question": "What area of the baseball field are the players almost colliding over as one blocks the other most likely?",
+    "label": "['3rd base', 'base', '3rd base', 'base', '3rd base', 'base', 'home plate', '3rd base', 'base', 'base']",
+    "choices": [
+        "batter's box",
+        "home plate",
+        "catcher's box",
+        "pitcher's mound"
+    ],
+    "correct_choice": "home plate"
+}

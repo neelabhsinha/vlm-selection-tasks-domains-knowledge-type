@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1645,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Nature"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Temporal Knowledge",
+        "Geographical Knowledge",
+        "Social Knowledge"
+    ]
+}

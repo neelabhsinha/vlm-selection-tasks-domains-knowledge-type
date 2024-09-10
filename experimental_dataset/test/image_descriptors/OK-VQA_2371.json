@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2371,
+    "caption": "a piece of cake on a plate with a fork",
+    "object_tags": [
+        "food",
+        "baked goods",
+        "dish",
+        "dessert",
+        "kitchen utensil",
+        "snack",
+        "gluten",
+        "plate",
+        "fast food",
+        "tableware",
+        "breakfast",
+        "indoor",
+        "table",
+        "baking",
+        "pastry",
+        "silverware",
+        "cuisine",
+        "dishware",
+        "fork",
+        "meal",
+        "bread",
+        "spoon",
+        "pancake"
+    ]
+}

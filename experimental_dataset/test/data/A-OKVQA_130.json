@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 130,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_130.png",
+    "question": "What is the facade that the couple is being interviewed in likely designed to be?",
+    "label": "['first meeting', 'microwave', 'relationship', 'television', 'talk show', 'television', 'tv show', 'tv', 'television', 'television']",
+    "choices": [
+        "radio",
+        "camera",
+        "building",
+        "tv"
+    ],
+    "correct_choice": "tv"
+}

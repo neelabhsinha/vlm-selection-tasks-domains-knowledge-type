@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 47,
+    "caption": "a large building with a bunch of airplanes in it",
+    "object_tags": [
+        "aircraft",
+        "transport",
+        "plane",
+        "vehicle",
+        "general aviation",
+        "aerospace manufacturer",
+        "air travel",
+        "aerospace engineering",
+        "aviation",
+        "hangar",
+        "propeller-driven aircraft",
+        "airplane",
+        "indoor"
+    ]
+}

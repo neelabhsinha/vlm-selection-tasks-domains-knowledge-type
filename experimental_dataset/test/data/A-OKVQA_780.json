@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 780,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_780.png",
+    "question": "What type of pizza is shown?",
+    "label": "['margherita', 'cheese', 'cheese', 'cheese', 'neapolitan pizza', 'cheese', 'cheese', 'cheese spinach', 'cheese', 'margarita']",
+    "choices": [
+        "deep dish",
+        "pepperoni",
+        "margherita",
+        "sausage"
+    ],
+    "correct_choice": "margherita"
+}

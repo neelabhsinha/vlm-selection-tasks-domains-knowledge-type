@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1438,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1438.png",
+    "question": "What nationality of food is she eating?",
+    "label": [
+        "mexican",
+        "mexican",
+        "mexican",
+        "mexican",
+        "mexican",
+        "mexican",
+        "spanish",
+        "spanish",
+        "american",
+        "american"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2108,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2108.png",
+    "question": "What else could you have on these slices?",
+    "label": [
+        "sausage",
+        "sausage",
+        "sausage",
+        "sausage",
+        "pineapple",
+        "pineapple",
+        "nothing",
+        "nothing",
+        "vegetable",
+        "vegetable"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 858,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_858.png",
+    "question": "What company made the red bus to the right?",
+    "label": "['volvo', 'volvo', 'volvo', 'volvo', 'volvo', 'volvo', 'volvo', 'volvo', 'volvo', 'volvo']",
+    "choices": [
+        "suzuki",
+        "honda",
+        "bmw",
+        "volvo"
+    ],
+    "correct_choice": "volvo"
+}

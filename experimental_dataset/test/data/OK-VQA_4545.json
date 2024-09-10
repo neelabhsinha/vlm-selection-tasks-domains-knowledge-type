@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4545,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4545.png",
+    "question": "When would i want this?",
+    "label": [
+        "lunch",
+        "lunch",
+        "lunch",
+        "lunch",
+        "lunch",
+        "lunch",
+        "diiner",
+        "diiner",
+        "dinner",
+        "dinner"
+    ]
+}

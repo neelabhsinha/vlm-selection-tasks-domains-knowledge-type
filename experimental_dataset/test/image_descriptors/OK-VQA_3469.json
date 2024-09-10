@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3469,
+    "caption": "a black dog standing on top of a sandy beach",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "ground",
+        "outdoor",
+        "dog breed",
+        "dog",
+        "beach",
+        "sporting group",
+        "snout",
+        "black",
+        "sand"
+    ]
+}

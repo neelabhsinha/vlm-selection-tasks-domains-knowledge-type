@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1521,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1521.png",
+    "question": "Who makes the motorcycle pictured in the corner?",
+    "label": [
+        "honda",
+        "honda",
+        "honda",
+        "honda",
+        "manufacturer",
+        "manufacturer",
+        "harley davidson",
+        "harley davidson",
+        "bicing",
+        "bicing"
+    ]
+}

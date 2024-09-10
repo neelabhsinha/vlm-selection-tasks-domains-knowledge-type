@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 178149,
+    "image_path": "./experimental_dataset/test/images/VQAv2_178149.png",
+    "question": "What food is on the plate?",
+    "label": [
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza"
+    ]
+}

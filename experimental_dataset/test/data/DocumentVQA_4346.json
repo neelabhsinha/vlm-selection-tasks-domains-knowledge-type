@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4346,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4346.png",
+    "question": "For the months 0-50 how many workers were there with 7 to 25 MO. ?",
+    "label": [
+        "14"
+    ]
+}

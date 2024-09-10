@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 820,
+    "caption": "a train on a train track with graffiti on it",
+    "object_tags": [
+        "cloud",
+        "outdoor",
+        "graffiti",
+        "sky",
+        "painting",
+        "painted",
+        "train",
+        "mountain",
+        "track",
+        "car"
+    ]
+}

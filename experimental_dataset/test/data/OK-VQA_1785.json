@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1785,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1785.png",
+    "question": "Is this a private or commercial plane?",
+    "label": [
+        "commercial",
+        "commercial",
+        "commercial",
+        "commercial",
+        "commercial",
+        "commercial",
+        "commercial",
+        "commercial",
+        "private",
+        "private"
+    ]
+}

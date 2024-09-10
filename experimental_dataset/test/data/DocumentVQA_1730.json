@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1730,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1730.png",
+    "question": "To whom is it addressed?",
+    "label": [
+        "Dr. & Mrs. William J. Darby"
+    ]
+}

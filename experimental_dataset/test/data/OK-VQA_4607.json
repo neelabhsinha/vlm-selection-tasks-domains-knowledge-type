@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4607,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4607.png",
+    "question": "Who would ride the train?",
+    "label": [
+        "conductor",
+        "conductor",
+        "conductor",
+        "conductor",
+        "engineer",
+        "engineer",
+        "passenger",
+        "passenger",
+        "people",
+        "people"
+    ]
+}

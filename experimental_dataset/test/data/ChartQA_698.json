@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 698,
+    "image_path": "./experimental_dataset/test/images/ChartQA_698.png",
+    "question": "Which is represented by yellow color?",
+    "label": [
+        "Netherlands"
+    ]
+}

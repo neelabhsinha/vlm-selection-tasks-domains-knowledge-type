@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3435,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3435.png",
+    "question": "Where is this man?",
+    "label": [
+        "asia",
+        "asia",
+        "asia",
+        "asia",
+        "asia",
+        "asia",
+        "hong kong",
+        "hong kong",
+        "korea",
+        "korea"
+    ]
+}

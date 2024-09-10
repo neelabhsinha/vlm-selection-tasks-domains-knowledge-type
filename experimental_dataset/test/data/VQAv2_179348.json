@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 179348,
+    "image_path": "./experimental_dataset/test/images/VQAv2_179348.png",
+    "question": "What are the people riding?",
+    "label": [
+        "elephants",
+        "elephants",
+        "elephants",
+        "elephants",
+        "elephants",
+        "elephants",
+        "elephant",
+        "elephants",
+        "elephants",
+        "elephant"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 755,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_755.png",
+    "question": "The weather must have a moderate amount of what?",
+    "label": "['sunlight', 'sunshine', 'sunshine', 'wind', 'sun', 'sun', 'wind', 'wind', 'sunshine', 'sunshine']",
+    "choices": [
+        "rain",
+        "snow",
+        "wind",
+        "cold"
+    ],
+    "correct_choice": "wind"
+}

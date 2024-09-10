@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 20738,
+    "caption": "a table full of pizzas and bottles of wine",
+    "object_tags": [
+        "food",
+        "fast food",
+        "tableware",
+        "indoor",
+        "meal",
+        "table",
+        "dish",
+        "bottle",
+        "pizza",
+        "supper",
+        "cuisine",
+        "snack",
+        "person",
+        "beer",
+        "drink"
+    ]
+}

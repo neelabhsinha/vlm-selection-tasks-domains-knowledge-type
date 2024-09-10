@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2815,
+    "caption": "a white ice cream truck parked in front of a building",
+    "object_tags": [
+        "transport",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "text",
+        "tire",
+        "motor vehicle",
+        "outdoor",
+        "truck",
+        "building",
+        "road",
+        "light commercial vehicle",
+        "automotive tire",
+        "auto part",
+        "automotive exterior",
+        "white",
+        "van",
+        "car",
+        "parked",
+        "cream",
+        "ice",
+        "police"
+    ]
+}

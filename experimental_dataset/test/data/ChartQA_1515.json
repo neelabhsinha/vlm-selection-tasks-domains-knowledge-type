@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1515,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1515.png",
+    "question": "What field of study did people with a Master's degree in have the second highest starting salary?",
+    "label": [
+        "Engineering"
+    ]
+}

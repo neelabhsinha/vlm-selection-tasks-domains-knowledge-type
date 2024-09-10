@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2171,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2171.png",
+    "question": "What is the number given for 'Intermission' ?",
+    "label": [
+        "1000"
+    ]
+}

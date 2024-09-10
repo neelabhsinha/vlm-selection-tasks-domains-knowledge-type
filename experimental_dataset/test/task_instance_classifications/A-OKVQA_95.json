@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 95,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Social Media",
+        "Professions",
+        "Public Places",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge",
+        "Cultural Knowledge"
+    ]
+}

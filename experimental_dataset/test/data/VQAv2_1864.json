@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 1864,
+    "image_path": "./experimental_dataset/test/images/VQAv2_1864.png",
+    "question": "What animal is on the sign?",
+    "label": [
+        "ducks",
+        "duck",
+        "duck",
+        "duck",
+        "duck",
+        "duck",
+        "duck",
+        "duck",
+        "duck",
+        "duck"
+    ]
+}

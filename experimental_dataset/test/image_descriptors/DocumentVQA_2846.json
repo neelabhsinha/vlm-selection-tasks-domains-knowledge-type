@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2846,
+    "caption": "a wall with many different signs on it",
+    "object_tags": [
+        "text",
+        "rectangle",
+        "diagram",
+        "parallel",
+        "plan",
+        "handwriting"
+    ]
+}

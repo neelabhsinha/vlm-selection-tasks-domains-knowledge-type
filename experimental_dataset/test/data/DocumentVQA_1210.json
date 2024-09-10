@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1210,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1210.png",
+    "question": "What is DABT?",
+    "label": [
+        "DIPLOMATE OF THE AMERICAN BOARD OF TOXICOLOGY",
+        "Diplomate of the American Board of Toxicology"
+    ]
+}

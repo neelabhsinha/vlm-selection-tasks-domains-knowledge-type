@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1124,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1124.png",
+    "question": "What is the name of the addressee?",
+    "label": [
+        "Besine Wagner, M.D."
+    ]
+}

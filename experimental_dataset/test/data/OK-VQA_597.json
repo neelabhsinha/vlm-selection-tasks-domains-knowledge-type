@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 597,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_597.png",
+    "question": "What is the model of the motorcycle in the front of the motorcycle pack?",
+    "label": [
+        "harley davidson",
+        "harley davidson",
+        "harley davidson",
+        "harley davidson",
+        "harley davidson",
+        "harley davidson",
+        "harley",
+        "harley",
+        "suzuki",
+        "suzuki"
+    ]
+}

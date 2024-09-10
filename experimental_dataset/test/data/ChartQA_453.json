@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 453,
+    "image_path": "./experimental_dataset/test/images/ChartQA_453.png",
+    "question": "Is the median of all the bars in Donald Trump category greater than the highest value of gray bar?",
+    "label": [
+        "No"
+    ]
+}

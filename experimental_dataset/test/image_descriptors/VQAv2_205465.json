@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 205465,
+    "caption": "a man wearing a tie and a shirt",
+    "object_tags": [
+        "wall",
+        "human face",
+        "person",
+        "clothing",
+        "indoor",
+        "man",
+        "chin",
+        "forehead",
+        "picture frame",
+        "smile",
+        "portrait",
+        "dress shirt",
+        "necktie",
+        "wearing",
+        "shirt",
+        "art"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2461,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2461.png",
+    "question": "Where can you see this culture?",
+    "label": [
+        "pennsylvania",
+        "pennsylvania",
+        "pennsylvania",
+        "pennsylvania",
+        "amish country",
+        "amish country",
+        "ohio",
+        "ohio",
+        "rural area",
+        "rural area"
+    ]
+}

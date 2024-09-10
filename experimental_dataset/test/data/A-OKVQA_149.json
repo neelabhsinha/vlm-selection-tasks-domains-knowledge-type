@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 149,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_149.png",
+    "question": "What does Fidelity specialize in?",
+    "label": "['investments', 'investments', 'investments', 'investments', 'investments', 'investment', 'car', 'investing', 'investments', 'financial services']",
+    "choices": [
+        "travel",
+        "insurance",
+        "investments",
+        "rentals"
+    ],
+    "correct_choice": "investments"
+}

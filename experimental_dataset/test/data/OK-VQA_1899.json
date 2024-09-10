@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1899,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1899.png",
+    "question": "What is the typical habitat for these animals?",
+    "label": [
+        "wood",
+        "wood",
+        "wood",
+        "wood",
+        "forest",
+        "forest",
+        "wildlife habitat",
+        "wildlife habitat",
+        "cave",
+        "cave"
+    ]
+}

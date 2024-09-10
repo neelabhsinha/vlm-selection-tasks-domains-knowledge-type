@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2540,
+    "caption": "a park bench sitting next to a body of water",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "plant",
+        "waste container",
+        "bench",
+        "building",
+        "fence",
+        "grass",
+        "street furniture",
+        "playground",
+        "furniture",
+        "ground",
+        "park",
+        "sitting",
+        "city",
+        "area"
+    ]
+}

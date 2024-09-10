@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 137,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_137.png",
+    "question": "What do the larger elephants still have intact?",
+    "label": "['tail', 'tusks', 'tusk', 'tusks', 'tusks', 'tusks', 'tusks', 'tusks', 'arrow', 'tusks']",
+    "choices": [
+        "tusks",
+        "pythons",
+        "horns",
+        "antlers"
+    ],
+    "correct_choice": "tusks"
+}

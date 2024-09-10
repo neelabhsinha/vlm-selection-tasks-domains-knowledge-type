@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 425,
+    "image_path": "./experimental_dataset/test/images/ChartQA_425.png",
+    "question": "How many countries recorded more than 200 incidences of venomous animal contact over the years?",
+    "label": [
+        "3"
+    ]
+}

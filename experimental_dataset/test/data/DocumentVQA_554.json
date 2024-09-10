@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 554,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_554.png",
+    "question": "Which room requires more area, cold room or storage room ?",
+    "label": [
+        "storage room",
+        "Storage room"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 194487,
+    "caption": "a glass vase filled with pink flowers sitting on a table",
+    "object_tags": [
+        "vase",
+        "flower",
+        "rose",
+        "still life",
+        "indoor",
+        "petal",
+        "still life photography",
+        "cut flowers",
+        "artificial flower",
+        "floristry",
+        "table",
+        "flower arranging",
+        "floral design",
+        "centrepiece",
+        "wall",
+        "glass",
+        "plant",
+        "red"
+    ]
+}

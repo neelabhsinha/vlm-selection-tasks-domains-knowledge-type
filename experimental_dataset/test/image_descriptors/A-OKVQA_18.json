@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 18,
+    "caption": "a table topped with plates of food and glasses of wine",
+    "object_tags": [
+        "tableware",
+        "table",
+        "food",
+        "wine glass",
+        "meal",
+        "indoor",
+        "snack",
+        "stemware",
+        "brunch",
+        "drinkware",
+        "platter",
+        "fast food",
+        "champagne stemware",
+        "supper",
+        "bread",
+        "plate",
+        "wine",
+        "dish",
+        "bottle",
+        "glasses",
+        "sitting",
+        "restaurant",
+        "drink",
+        "red"
+    ]
+}

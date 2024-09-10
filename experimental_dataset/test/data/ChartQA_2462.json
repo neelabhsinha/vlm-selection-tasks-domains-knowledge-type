@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2462,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2462.png",
+    "question": "What percentage of Hondurans were estimated to survive with less than 3.20 U.S. dollars a day in 2010?",
+    "label": [
+        "29.4"
+    ]
+}

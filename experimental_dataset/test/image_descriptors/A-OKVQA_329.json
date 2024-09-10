@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 329,
+    "caption": "two horses are standing on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "tree",
+        "vehicle",
+        "wheel",
+        "road",
+        "car",
+        "tire",
+        "mammal",
+        "street",
+        "ground",
+        "animal",
+        "horse",
+        "parked"
+    ]
+}

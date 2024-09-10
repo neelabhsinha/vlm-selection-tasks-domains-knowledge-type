@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4203,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4203.png",
+    "question": "who is the assembly planning committee representative mentioned in the given agenda ?",
+    "label": [
+        "Robert Stewart"
+    ]
+}

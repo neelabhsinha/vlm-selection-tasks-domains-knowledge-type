@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 33138,
+    "caption": "a toaster oven sitting on top of a tile floor",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "tool",
+        "home appliance",
+        "floor"
+    ]
+}

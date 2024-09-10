@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1847,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1847.png",
+    "question": "What is the year of the claim?",
+    "label": [
+        "1976"
+    ]
+}

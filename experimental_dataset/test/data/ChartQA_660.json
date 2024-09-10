@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 660,
+    "image_path": "./experimental_dataset/test/images/ChartQA_660.png",
+    "question": "How many people say 'I was the victim'?",
+    "label": [
+        "1"
+    ]
+}

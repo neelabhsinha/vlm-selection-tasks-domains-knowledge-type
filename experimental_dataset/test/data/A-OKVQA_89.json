@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 89,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_89.png",
+    "question": "What will be built here one day?",
+    "label": "['building', 'building', 'trafic rules', 'building', 'building', 'building', 'transportation depo', 'building', 'building', 'mall construction']",
+    "choices": [
+        "building",
+        "boat",
+        "car",
+        "house"
+    ],
+    "correct_choice": "building"
+}

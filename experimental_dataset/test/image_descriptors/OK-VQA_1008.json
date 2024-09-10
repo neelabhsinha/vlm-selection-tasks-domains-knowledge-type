@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1008,
+    "caption": "a row of wooden buildings with umbrellas on top of them",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "winter",
+        "tree",
+        "plant",
+        "house"
+    ]
+}

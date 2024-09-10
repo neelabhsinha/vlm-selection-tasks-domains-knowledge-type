@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 106727,
+    "image_path": "./experimental_dataset/test/images/VQAv2_106727.png",
+    "question": "The wall has tiles?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2208,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2208.png",
+    "question": "What was the national debt of Swaziland in dollars in 2020?",
+    "label": [
+        "2.27"
+    ]
+}

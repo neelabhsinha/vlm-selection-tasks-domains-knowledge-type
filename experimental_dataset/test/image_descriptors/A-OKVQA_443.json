@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 443,
+    "caption": "a woman and a boy sitting on a surfboard",
+    "object_tags": [
+        "person",
+        "surfboard",
+        "clothing",
+        "surfing",
+        "human face",
+        "sports equipment",
+        "smile",
+        "wall",
+        "surfing equipment",
+        "indoor",
+        "holding"
+    ]
+}

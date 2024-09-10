@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 322,
+    "caption": "a black and white cat laying on top of a wooden table",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "small to medium-sized cats",
+        "felidae",
+        "table",
+        "furniture",
+        "black",
+        "sitting",
+        "white",
+        "cat",
+        "domestic cat",
+        "floor",
+        "wooden",
+        "mammal"
+    ]
+}

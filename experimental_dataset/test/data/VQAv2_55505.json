@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55505,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55505.png",
+    "question": "Is the man going to burn?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

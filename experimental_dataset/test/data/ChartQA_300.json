@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 300,
+    "image_path": "./experimental_dataset/test/images/ChartQA_300.png",
+    "question": "Which bar is under 300",
+    "label": [
+        "Deaths from HIV/AIDS"
+    ]
+}

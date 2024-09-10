@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4789,
+    "caption": "a store front with a display case with a doughnut in front of it",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "door",
+        "outdoor",
+        "person",
+        "coat",
+        "window",
+        "street",
+        "building",
+        "trousers",
+        "stone",
+        "standing",
+        "walking",
+        "sidewalk",
+        "doorway",
+        "woman",
+        "ground",
+        "store",
+        "city",
+        "jacket"
+    ]
+}

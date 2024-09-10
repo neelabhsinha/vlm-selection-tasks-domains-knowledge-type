@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 181,
+    "image_path": "./experimental_dataset/test/images/ChartQA_181.png",
+    "question": "What is the largest pie represented?",
+    "label": [
+        "Better off"
+    ]
+}

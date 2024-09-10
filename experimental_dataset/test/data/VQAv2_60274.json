@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 60274,
+    "image_path": "./experimental_dataset/test/images/VQAv2_60274.png",
+    "question": "Is there a light above the table?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

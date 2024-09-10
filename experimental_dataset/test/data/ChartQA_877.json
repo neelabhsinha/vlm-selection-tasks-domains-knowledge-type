@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 877,
+    "image_path": "./experimental_dataset/test/images/ChartQA_877.png",
+    "question": "What is the difference between the Lam Research of 2019 and 2020?",
+    "label": [
+        "3.4"
+    ]
+}

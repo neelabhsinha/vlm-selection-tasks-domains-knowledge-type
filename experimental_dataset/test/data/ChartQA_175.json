@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 175,
+    "image_path": "./experimental_dataset/test/images/ChartQA_175.png",
+    "question": "Is the median of all three data values equal to 32?",
+    "label": [
+        "Yes"
+    ]
+}

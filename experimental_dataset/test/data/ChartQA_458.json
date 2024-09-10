@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 458,
+    "image_path": "./experimental_dataset/test/images/ChartQA_458.png",
+    "question": "what's the number of very strong democrats and republicans?",
+    "label": [
+        "71"
+    ]
+}

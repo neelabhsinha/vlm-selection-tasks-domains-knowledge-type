@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2821,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2821.png",
+    "question": "What is the sporting equipment called that the man has in his hand?",
+    "label": [
+        "racquet",
+        "racquet",
+        "racquet",
+        "racquet",
+        "racket",
+        "racket",
+        "racket",
+        "racket",
+        "tennis racket",
+        "tennis racket"
+    ]
+}

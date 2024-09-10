@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1017,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1017.png",
+    "question": "Name the place where these persons skating in this picture?",
+    "label": [
+        "skatepark",
+        "skatepark",
+        "skatepark",
+        "skatepark",
+        "park",
+        "park",
+        "skate park",
+        "skate park",
+        "rink",
+        "rink"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3906,
+    "caption": "a woman sitting on a couch next to a man",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "floor",
+        "clothing",
+        "furniture",
+        "couch",
+        "interior design",
+        "person",
+        "room",
+        "sofa bed",
+        "studio couch",
+        "flooring",
+        "footwear",
+        "loveseat",
+        "woman",
+        "sofa",
+        "window",
+        "standing"
+    ]
+}

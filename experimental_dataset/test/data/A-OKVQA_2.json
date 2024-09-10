@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 2,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_2.png",
+    "question": "What best describes the pool of water?",
+    "label": "['muddy', 'dirty', 'murky water', 'muddy', 'pond', 'pond', 'watering hole', 'pond', 'pond', 'dirty']",
+    "choices": [
+        "frozen",
+        "fresh",
+        "dirty",
+        "boiling"
+    ],
+    "correct_choice": "dirty"
+}

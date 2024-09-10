@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 867,
+    "image_path": "./experimental_dataset/test/images/ChartQA_867.png",
+    "question": "Is the sum total value of Yes, it could more then  No ,it could not ?",
+    "label": [
+        "No"
+    ]
+}

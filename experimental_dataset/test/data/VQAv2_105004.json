@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 105004,
+    "image_path": "./experimental_dataset/test/images/VQAv2_105004.png",
+    "question": "How many pillows on the bed?",
+    "label": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+    ]
+}

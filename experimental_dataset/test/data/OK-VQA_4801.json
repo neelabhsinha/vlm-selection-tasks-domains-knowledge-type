@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4801,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4801.png",
+    "question": "Who has the right of way here?",
+    "label": [
+        "pedestrian",
+        "pedestrian",
+        "pedestrian",
+        "pedestrian",
+        "pedestrian",
+        "pedestrian",
+        "pedestrian",
+        "pedestrian",
+        "people",
+        "people"
+    ]
+}

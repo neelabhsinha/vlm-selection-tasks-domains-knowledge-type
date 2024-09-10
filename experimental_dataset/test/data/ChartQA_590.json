@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 590,
+    "image_path": "./experimental_dataset/test/images/ChartQA_590.png",
+    "question": "Which two countries are being compared in the given graph?",
+    "label": [
+        "[Lithuania, Saudi Arabia]"
+    ]
+}

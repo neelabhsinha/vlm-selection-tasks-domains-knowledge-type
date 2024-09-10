@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 52,
+    "caption": "a number of different types of electronic devices on a table",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "number",
+        "software",
+        "web page",
+        "website"
+    ]
+}

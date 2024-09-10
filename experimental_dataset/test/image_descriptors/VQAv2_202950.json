@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 202950,
+    "caption": "people standing on top of a snow covered slope",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "hiking equipment",
+        "sky",
+        "winter",
+        "person",
+        "adventure",
+        "glacial landform",
+        "people",
+        "skiing",
+        "mountaineer",
+        "slope",
+        "freezing",
+        "outdoor recreation",
+        "mountain guide",
+        "hiking",
+        "mountaineering",
+        "group",
+        "standing",
+        "mountain"
+    ]
+}

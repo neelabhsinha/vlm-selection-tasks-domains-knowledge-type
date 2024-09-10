@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3204,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3204.png",
+    "question": "What happened to this bus?",
+    "label": [
+        "tipped over",
+        "tipped over",
+        "flipped over",
+        "flipped over",
+        "wrecked",
+        "wrecked",
+        "flipped",
+        "flipped",
+        "wreck",
+        "wreck"
+    ]
+}

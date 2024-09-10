@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3217,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3217.png",
+    "question": "Thomas edison is given credit for this invention?",
+    "label": [
+        "lightbulb",
+        "lightbulb",
+        "lightbulb",
+        "lightbulb",
+        "electric lamp",
+        "electric lamp",
+        "light bulb",
+        "light bulb",
+        "light",
+        "light"
+    ]
+}

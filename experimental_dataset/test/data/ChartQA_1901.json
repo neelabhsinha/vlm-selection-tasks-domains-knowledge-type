@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1901,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1901.png",
+    "question": "How much did interest income of FDIC-insured commercial banks from loans in domestic offices amount to in 2019?",
+    "label": [
+        "481.55"
+    ]
+}

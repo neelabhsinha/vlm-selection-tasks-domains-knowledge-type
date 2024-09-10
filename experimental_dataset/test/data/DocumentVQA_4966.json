@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4966,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4966.png",
+    "question": "What is the publishing year of 'Survey of Food and Nutrition Research in the United States'?",
+    "label": [
+        "1952-53"
+    ]
+}

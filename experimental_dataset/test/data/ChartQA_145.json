@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 145,
+    "image_path": "./experimental_dataset/test/images/ChartQA_145.png",
+    "question": "How many points have 56 value in blue graph?",
+    "label": [
+        "3"
+    ]
+}

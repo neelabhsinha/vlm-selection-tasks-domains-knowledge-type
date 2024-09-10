@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 127,
+    "image_path": "./experimental_dataset/test/images/ChartQA_127.png",
+    "question": "Is the Decrease value is two times the value of Increase?",
+    "label": [
+        "No"
+    ]
+}

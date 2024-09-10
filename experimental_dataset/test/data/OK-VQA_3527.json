@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3527,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3527.png",
+    "question": "Where might a person dress like this?",
+    "label": [
+        "office",
+        "office",
+        "office",
+        "office",
+        "office",
+        "office",
+        "wed",
+        "wed",
+        "interview",
+        "interview"
+    ]
+}

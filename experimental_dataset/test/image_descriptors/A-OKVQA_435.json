@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 435,
+    "caption": "a person sitting at a table with a plate of pizza",
+    "object_tags": [
+        "person",
+        "tableware",
+        "fast food",
+        "meal",
+        "food",
+        "table",
+        "drink",
+        "plate",
+        "dish",
+        "supper",
+        "cuisine",
+        "indoor",
+        "italian food",
+        "brunch",
+        "pizza",
+        "dinner",
+        "restaurant",
+        "slice"
+    ]
+}

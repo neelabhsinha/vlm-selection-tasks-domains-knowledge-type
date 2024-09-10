@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 11079,
+    "caption": "a herd of giraffe standing on top of a lush green field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "sky",
+        "fence",
+        "field",
+        "tree",
+        "cloud",
+        "pasture",
+        "person",
+        "standing",
+        "gate",
+        "park"
+    ]
+}

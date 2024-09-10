@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4642,
+    "caption": "a tall clock tower towering over a city",
+    "object_tags": [
+        "sky",
+        "tree",
+        "building",
+        "outdoor",
+        "fog",
+        "tower",
+        "branch",
+        "city",
+        "skyscraper"
+    ]
+}

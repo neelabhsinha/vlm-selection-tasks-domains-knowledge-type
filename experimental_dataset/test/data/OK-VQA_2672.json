@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2672,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2672.png",
+    "question": "Often used at slumber parties to fight with?",
+    "label": [
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow",
+        "pillow"
+    ]
+}

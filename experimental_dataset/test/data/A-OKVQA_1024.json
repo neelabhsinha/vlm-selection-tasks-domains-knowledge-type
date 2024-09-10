@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1024,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1024.png",
+    "question": "What kind of room is it?",
+    "label": "['bedroom', 'bedroom', 'bedroom', 'hotel room', 'bedroom', 'hotel', 'hotel', 'bedroom', 'hotel', 'bedroom']",
+    "choices": [
+        "bedroom",
+        "living room",
+        "hospital ward",
+        "hotel"
+    ],
+    "correct_choice": "hotel"
+}

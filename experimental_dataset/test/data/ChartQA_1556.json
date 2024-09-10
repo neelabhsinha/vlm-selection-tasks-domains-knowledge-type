@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1556,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1556.png",
+    "question": "What was the recycling rate of local authority collected waste in England in the 2019/2020 financial year?",
+    "label": [
+        "43.2"
+    ]
+}

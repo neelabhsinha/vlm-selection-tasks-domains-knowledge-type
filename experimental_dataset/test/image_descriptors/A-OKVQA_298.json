@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 298,
+    "caption": "a stop sign on the corner of a street",
+    "object_tags": [
+        "outdoor",
+        "text",
+        "signage",
+        "sky",
+        "traffic sign",
+        "stop sign",
+        "tree",
+        "street",
+        "street sign",
+        "stop",
+        "road",
+        "sign",
+        "pole",
+        "red",
+        "intersection"
+    ]
+}

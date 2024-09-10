@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1219,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1219.png",
+    "question": "What style of weave was used to make that blanket?",
+    "label": [
+        "knit",
+        "knit",
+        "knit",
+        "knit",
+        "black",
+        "black",
+        "plaid",
+        "plaid",
+        "wool",
+        "wool"
+    ]
+}

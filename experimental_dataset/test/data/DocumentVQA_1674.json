@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1674,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1674.png",
+    "question": "Where is the stopover on February 13th?",
+    "label": [
+        "L.A."
+    ]
+}

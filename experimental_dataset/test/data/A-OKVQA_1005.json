@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1005,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1005.png",
+    "question": "What is the most diverse seashore bird?",
+    "label": "['sandpiper', 'pelican', 'seagull', 'swan', 'sandpipers', 'seabird', 'gulls', 'pelicans', 'gully', 'seagull']",
+    "choices": [
+        "sandpiper",
+        "crow",
+        "pelican",
+        "seagull"
+    ],
+    "correct_choice": "sandpiper"
+}

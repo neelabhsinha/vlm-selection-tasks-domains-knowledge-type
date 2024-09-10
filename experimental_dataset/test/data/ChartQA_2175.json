@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2175,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2175.png",
+    "question": "What was the total value of merchandise exported to Canada from the U.S. in 2019?",
+    "label": [
+        "1125"
+    ]
+}

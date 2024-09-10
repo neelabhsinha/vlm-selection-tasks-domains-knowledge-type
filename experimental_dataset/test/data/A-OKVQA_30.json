@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 30,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_30.png",
+    "question": "Where are we at?",
+    "label": "['outdoor market', 'market', 'market', 'market', 'market', 'street festival', 'event', 'market', 'market', 'street']",
+    "choices": [
+        "fair",
+        "garage sale",
+        "street festival",
+        "flea market"
+    ],
+    "correct_choice": "street festival"
+}

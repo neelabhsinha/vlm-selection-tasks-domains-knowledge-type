@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 38232,
+    "caption": "a white dog sitting on a table next to a book",
+    "object_tags": [
+        "coffee cup",
+        "pet",
+        "indoor",
+        "poodle crossbreed",
+        "dog breed",
+        "dog",
+        "sitting",
+        "animal",
+        "cup",
+        "mammal"
+    ]
+}

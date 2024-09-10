@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 884,
+    "caption": "a woman sitting on a couch in a living room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "television",
+        "clothing",
+        "furniture",
+        "mirror",
+        "home appliance",
+        "house",
+        "sink",
+        "window",
+        "drawer",
+        "chest of drawers",
+        "cabinetry",
+        "person",
+        "black and white",
+        "woman",
+        "floor",
+        "room",
+        "appliance"
+    ]
+}

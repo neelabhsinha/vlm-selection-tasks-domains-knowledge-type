@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3781,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3781.png",
+    "question": "What ethnicity are the people?",
+    "label": [
+        "asian",
+        "asian",
+        "asian",
+        "asian",
+        "white",
+        "white",
+        "white",
+        "white",
+        "caucasion",
+        "caucasion"
+    ]
+}

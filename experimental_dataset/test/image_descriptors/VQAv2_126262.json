@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 126262,
+    "caption": "a display case filled with lots of doughnuts",
+    "object_tags": [
+        "text",
+        "baked goods",
+        "snack",
+        "food",
+        "bakery",
+        "baking",
+        "dessert",
+        "pastry",
+        "bread",
+        "gluten",
+        "doughnut",
+        "bagel",
+        "sweetness",
+        "handwriting",
+        "sign",
+        "donut"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1024,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1024.png",
+    "question": "What type of death had the bigger neonatal death percentage?",
+    "label": [
+        "Preterm birth complications"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 694,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_694.png",
+    "question": "What other animal does this animal often work closely with?",
+    "label": "['human', 'sheep', 'human', 'sheep', 'cat', 'person', 'cat', 'human', 'humans', 'sheep']",
+    "choices": [
+        "crocodiles",
+        "beetles",
+        "wasps",
+        "sheep"
+    ],
+    "correct_choice": "sheep"
+}

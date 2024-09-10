@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 67803,
+    "image_path": "./experimental_dataset/test/images/VQAv2_67803.png",
+    "question": "What is the person making in the kitchen?",
+    "label": [
+        "veggie smoothie",
+        "shake",
+        "smoothie",
+        "cake",
+        "shake",
+        "protein shake",
+        "cake",
+        "vegetable smoothie",
+        "smoothie",
+        "smoothie"
+    ]
+}

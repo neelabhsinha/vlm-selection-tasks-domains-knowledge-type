@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 27967,
+    "image_path": "./experimental_dataset/test/images/VQAv2_27967.png",
+    "question": "Is there spray paint on the hydrant?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

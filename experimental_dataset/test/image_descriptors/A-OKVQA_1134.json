@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1134,
+    "caption": "a city street filled with cars and pedestrians",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "land vehicle",
+        "vehicle",
+        "street",
+        "road",
+        "traffic light",
+        "wheel",
+        "way",
+        "city",
+        "taxi",
+        "sky",
+        "signaling device",
+        "sidewalk",
+        "thoroughfare",
+        "downtown",
+        "car",
+        "lane",
+        "traffic",
+        "pedestrian crossing",
+        "road surface",
+        "person",
+        "light"
+    ]
+}

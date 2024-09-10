@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4370,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4370.png",
+    "question": "How many meetings has Shri M. H. Patil attended?",
+    "label": [
+        "8"
+    ]
+}

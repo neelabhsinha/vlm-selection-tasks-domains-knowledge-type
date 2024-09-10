@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 118,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_118.png",
+    "question": "What are the zebras doing?",
+    "label": "['grazing', 'grazing', 'eating', 'eating', 'eating', 'grazing', 'eating', 'grazing', 'grazing', 'eating']",
+    "choices": [
+        "grazing",
+        "sleeping",
+        "drinking",
+        "walking"
+    ],
+    "correct_choice": "grazing"
+}

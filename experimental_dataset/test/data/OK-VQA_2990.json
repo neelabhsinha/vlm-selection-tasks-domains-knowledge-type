@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2990,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2990.png",
+    "question": "What am i doing to my hair?",
+    "label": [
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "cut",
+        "trim",
+        "trim"
+    ]
+}

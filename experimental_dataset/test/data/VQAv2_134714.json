@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 134714,
+    "image_path": "./experimental_dataset/test/images/VQAv2_134714.png",
+    "question": "Are the women inside or outside?",
+    "label": [
+        "outside",
+        "outside",
+        "outside",
+        "outside",
+        "outside",
+        "outside",
+        "outside",
+        "outside",
+        "outside",
+        "outside"
+    ]
+}

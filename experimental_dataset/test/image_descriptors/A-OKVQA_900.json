@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 900,
+    "caption": "a stove top oven sitting next to a sink",
+    "object_tags": [
+        "indoor",
+        "sink",
+        "wall",
+        "countertop",
+        "kitchen",
+        "stove"
+    ]
+}

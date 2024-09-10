@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 82,
+    "image_path": "./experimental_dataset/test/images/ChartQA_82.png",
+    "question": "What's the percentage of people choosing very for their state officials?",
+    "label": [
+        "55"
+    ]
+}

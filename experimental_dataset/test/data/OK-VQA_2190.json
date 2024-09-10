@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2190,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2190.png",
+    "question": "Why is he bending over the toilet for?",
+    "label": [
+        "puke",
+        "puke",
+        "to vomit",
+        "to vomit",
+        "to throw up",
+        "to throw up",
+        "vomit",
+        "vomit",
+        "vomit",
+        "vomit"
+    ]
+}

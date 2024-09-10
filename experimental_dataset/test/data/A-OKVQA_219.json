@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 219,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_219.png",
+    "question": "What type of venue might this be?",
+    "label": "['airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport']",
+    "choices": [
+        "town hall",
+        "airport",
+        "concert hall",
+        "train station"
+    ],
+    "correct_choice": "airport"
+}

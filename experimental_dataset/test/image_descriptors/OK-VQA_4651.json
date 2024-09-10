@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4651,
+    "caption": "a brown and white cat standing next to a brown and white cat",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "ground",
+        "black and white",
+        "zoo",
+        "animal shelter",
+        "outdoor",
+        "standing",
+        "cat"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 401,
+    "caption": "a man and a woman playing a video game",
+    "object_tags": [
+        "clothing",
+        "person",
+        "jeans",
+        "wall",
+        "indoor",
+        "human face",
+        "elbow",
+        "footwear",
+        "trousers",
+        "smile",
+        "man",
+        "joint",
+        "shoulder",
+        "controller",
+        "game",
+        "woman",
+        "wrist",
+        "playing",
+        "floor",
+        "standing",
+        "remote",
+        "holding",
+        "people"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 655,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_655.png",
+    "question": "What is the faculty honorarium for each member?",
+    "label": [
+        "$1,500",
+        "$1,500 per member"
+    ]
+}

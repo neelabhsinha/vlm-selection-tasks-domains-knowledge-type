@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3708,
+    "caption": "two trains are on the tracks in a train yard",
+    "object_tags": [
+        "outdoor",
+        "railroad",
+        "track",
+        "train",
+        "railway",
+        "vehicle",
+        "sky",
+        "land vehicle",
+        "transport",
+        "rolling stock",
+        "electric locomotive",
+        "public transport",
+        "railroad car",
+        "train station",
+        "building",
+        "tree",
+        "locomotive",
+        "passenger car",
+        "transport hub",
+        "rail",
+        "ground",
+        "traveling",
+        "yellow"
+    ]
+}

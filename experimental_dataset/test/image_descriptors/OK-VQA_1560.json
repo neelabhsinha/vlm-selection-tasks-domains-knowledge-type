@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1560,
+    "caption": "a young woman holding a hot dog in a bun",
+    "object_tags": [
+        "person",
+        "human face",
+        "indoor",
+        "snack",
+        "fast food",
+        "dog",
+        "clothing",
+        "food",
+        "hotdog",
+        "restaurant",
+        "woman",
+        "snack food"
+    ]
+}

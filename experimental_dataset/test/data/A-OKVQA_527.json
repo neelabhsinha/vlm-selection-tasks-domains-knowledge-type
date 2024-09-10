@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 527,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_527.png",
+    "question": "Which Street Fighter character comes from a country that reveres this animal?",
+    "label": "['ninja', 'dhalsim', 'dhalsim', 'dhalsim', 'india', 'dhalsim', 'ninja', 'dhalsim', 'dhalsim', 'dhalsim']",
+    "choices": [
+        "ken",
+        "dhalsim",
+        "m. bison",
+        "ryu"
+    ],
+    "correct_choice": "dhalsim"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 153513,
+    "image_path": "./experimental_dataset/test/images/VQAv2_153513.png",
+    "question": "Is this bird going to fall off the branch?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

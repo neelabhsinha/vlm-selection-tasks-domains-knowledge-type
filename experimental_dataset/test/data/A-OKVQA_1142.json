@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1142,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1142.png",
+    "question": "What brand of hair product does he have?",
+    "label": "['pic', 'mobile', 'shampoo', 'apple', 'dove', 'hair conditioner', 'normal', 'apple', 'head and shoulders', 'apple']",
+    "choices": [
+        "finesse",
+        "dove",
+        "loreal",
+        "head and shoulders"
+    ],
+    "correct_choice": "head and shoulders"
+}

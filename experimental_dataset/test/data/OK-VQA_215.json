@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 215,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_215.png",
+    "question": "What causes the staining to occur?",
+    "label": [
+        "rust",
+        "rust",
+        "rust",
+        "rust",
+        "soap scum",
+        "soap scum",
+        "limescale",
+        "limescale",
+        "hard water",
+        "hard water"
+    ]
+}

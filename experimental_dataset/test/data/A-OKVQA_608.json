@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 608,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_608.png",
+    "question": "What type of body of water are all of the birds gathering at?",
+    "label": "['ocean', 'sea', 'ocean', 'ocean', 'ocean', 'ocean', 'shore', 'ocean', 'shore', 'shore']",
+    "choices": [
+        "swamp",
+        "lake",
+        "pond",
+        "sea"
+    ],
+    "correct_choice": "sea"
+}

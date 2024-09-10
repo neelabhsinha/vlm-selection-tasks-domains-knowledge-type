@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 10652,
+    "image_path": "./experimental_dataset/test/images/VQAv2_10652.png",
+    "question": "What color is the closest umbrella?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "no umbrellas",
+        "red",
+        "white"
+    ]
+}

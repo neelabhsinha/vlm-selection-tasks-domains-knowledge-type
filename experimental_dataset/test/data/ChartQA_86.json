@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 86,
+    "image_path": "./experimental_dataset/test/images/ChartQA_86.png",
+    "question": "Which two values are same in the upper graph?",
+    "label": [
+        "77"
+    ]
+}

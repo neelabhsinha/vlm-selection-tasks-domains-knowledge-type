@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1360,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1360.png",
+    "question": "What percentage of Russians believed that a war between the United States and Iran could lead to the Third World War?",
+    "label": [
+        "25"
+    ]
+}

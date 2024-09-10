@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 596,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Formal logic",
+        "Mathematics"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge",
+        "Mathematical Knowledge"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2545,
+    "caption": "a little girl standing in the snow with a polar bear",
+    "object_tags": [
+        "bear",
+        "outdoor",
+        "polar bear",
+        "polar",
+        "snow",
+        "fur",
+        "person",
+        "coat",
+        "winter"
+    ]
+}

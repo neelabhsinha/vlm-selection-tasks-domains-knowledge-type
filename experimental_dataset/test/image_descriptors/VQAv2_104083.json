@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 104083,
+    "caption": "a herd of elephants standing on top of a lush green field",
+    "object_tags": [
+        "outdoor",
+        "mammal",
+        "animal",
+        "grass",
+        "sky",
+        "herd",
+        "cloud",
+        "elephant",
+        "safari",
+        "field",
+        "grazing",
+        "terrestrial animal",
+        "herding",
+        "elephants and mammoths",
+        "indian elephant",
+        "asian elephant",
+        "african elephant",
+        "savanna",
+        "pasture",
+        "tusk",
+        "wildlife",
+        "group",
+        "standing",
+        "grassy"
+    ]
+}

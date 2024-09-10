@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2030,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2030.png",
+    "question": "What is point number 5 in the document?",
+    "label": [
+        "Polyunsaturated fats"
+    ]
+}

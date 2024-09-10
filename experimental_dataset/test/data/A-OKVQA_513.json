@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 513,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_513.png",
+    "question": "What kind of day is it outside?",
+    "label": "['sunny', 'sunny', 'afternoon', 'sunny', 'sunny', 'warm', 'sunny', 'dry', 'sunny day', 'sunny']",
+    "choices": [
+        "rainy",
+        "snowy",
+        "cold",
+        "warm"
+    ],
+    "correct_choice": "warm"
+}

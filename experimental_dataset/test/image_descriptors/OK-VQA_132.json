@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 132,
+    "caption": "a man on a skateboard doing a trick",
+    "object_tags": [
+        "person",
+        "sport",
+        "clothing",
+        "footwear",
+        "skating",
+        "man",
+        "skateboard",
+        "outdoor",
+        "boardsport",
+        "wall",
+        "people",
+        "group",
+        "skate"
+    ]
+}

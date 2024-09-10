@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3406,
+    "caption": "a person jumping a skateboard in the air",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "person",
+        "footwear",
+        "water",
+        "clothing",
+        "wheel",
+        "street",
+        "riding",
+        "ground",
+        "people",
+        "city",
+        "wet"
+    ]
+}

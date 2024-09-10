@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 469,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_469.png",
+    "question": "What is the Exhibit No mentioned in the document?",
+    "label": [
+        "70"
+    ]
+}

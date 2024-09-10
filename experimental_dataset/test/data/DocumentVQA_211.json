@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 211,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_211.png",
+    "question": "What is the \"index\" of the rate of quitting losses?",
+    "label": [
+        "(89)",
+        "89"
+    ]
+}

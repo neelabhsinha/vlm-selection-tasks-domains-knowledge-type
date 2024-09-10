@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4284,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4284.png",
+    "question": "What does the diet of this animal consist of?",
+    "label": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "plant",
+        "plant",
+        "vegetation",
+        "vegetation",
+        "grass",
+        "grass"
+    ]
+}

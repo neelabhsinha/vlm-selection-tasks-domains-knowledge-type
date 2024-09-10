@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1362,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1362.png",
+    "question": "What day of the week is busiest for a place like the one pictured?",
+    "label": [
+        "sunday",
+        "sunday",
+        "sunday",
+        "sunday",
+        "sunday",
+        "sunday",
+        "saturday",
+        "saturday",
+        "saturday",
+        "saturday"
+    ]
+}

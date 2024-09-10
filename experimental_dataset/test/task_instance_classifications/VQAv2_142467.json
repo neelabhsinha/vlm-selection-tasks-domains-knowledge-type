@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 142467,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "History",
+        "Social Media",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge"
+    ]
+}

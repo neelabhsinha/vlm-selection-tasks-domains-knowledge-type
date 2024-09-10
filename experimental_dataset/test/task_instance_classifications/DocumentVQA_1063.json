@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1063,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Nutrition and Food",
+        "Mathematics"
+    ],
+    "knowledge_type": [
+        "Mathematical Knowledge"
+    ]
+}

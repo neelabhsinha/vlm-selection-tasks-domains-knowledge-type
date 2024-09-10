@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 154241,
+    "caption": "a pizza sitting on top of a white plate",
+    "object_tags": [
+        "food",
+        "fast food",
+        "dish",
+        "pizza",
+        "cuisine",
+        "flatbread",
+        "italian food",
+        "pizza cheese",
+        "california-style pizza",
+        "recipe",
+        "table",
+        "leaf",
+        "sitting",
+        "toppings",
+        "indoor"
+    ]
+}

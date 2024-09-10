@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3443,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3443.png",
+    "question": "What material is used to cover these roadways?",
+    "label": [
+        "asphalt",
+        "asphalt",
+        "asphalt",
+        "asphalt",
+        "pavement",
+        "pavement",
+        "tar",
+        "tar",
+        "taff",
+        "taff"
+    ]
+}

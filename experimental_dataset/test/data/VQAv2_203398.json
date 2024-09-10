@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 203398,
+    "image_path": "./experimental_dataset/test/images/VQAv2_203398.png",
+    "question": "What are in the boxes?",
+    "label": [
+        "pizza",
+        "pizza boxes",
+        "pizzas",
+        "pizza",
+        "pizzas",
+        "pizzas",
+        "pizzas",
+        "pizzas",
+        "pizzas",
+        "pizza"
+    ]
+}

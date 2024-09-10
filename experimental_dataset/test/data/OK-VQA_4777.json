@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4777,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4777.png",
+    "question": "What cities still have cable cars?",
+    "label": [
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "athens",
+        "athens",
+        "san francisco and denver",
+        "san francisco and denver"
+    ]
+}

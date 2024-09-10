@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1683,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1683.png",
+    "question": "What is this cooking technique called?",
+    "label": [
+        "grill",
+        "grill",
+        "grill",
+        "grill",
+        "grill",
+        "grill",
+        "grill",
+        "grill",
+        "camp fire",
+        "camp fire"
+    ]
+}

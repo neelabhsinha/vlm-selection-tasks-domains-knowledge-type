@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 92,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_92.png",
+    "question": "Why do the cattle have their heads down to the ground?",
+    "label": "['eating', 'to eat', 'grazing', 'feeding', 'eating hay', 'eating', 'eating hay', 'eating hay', 'eating', 'food']",
+    "choices": [
+        "to eat",
+        "to drink",
+        "to play",
+        "to sleep"
+    ],
+    "correct_choice": "to eat"
+}

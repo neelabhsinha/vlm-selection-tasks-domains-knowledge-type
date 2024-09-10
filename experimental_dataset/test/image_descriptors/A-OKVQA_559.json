@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 559,
+    "caption": "a person walking down the street with a bike",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "bicycle wheel",
+        "ground",
+        "sign",
+        "street",
+        "sidewalk",
+        "city",
+        "bicycle"
+    ]
+}

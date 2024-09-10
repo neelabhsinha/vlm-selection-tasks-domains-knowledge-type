@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2577,
+    "caption": "a woman walking down a sidewalk talking on a cell phone",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "building",
+        "street fashion",
+        "outdoor",
+        "trousers",
+        "standing",
+        "shoe",
+        "knee",
+        "shoulder",
+        "ankle",
+        "waist",
+        "woman",
+        "ground",
+        "street",
+        "sidewalk",
+        "fashion"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 189,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_189.png",
+    "question": "What cultural clothing are the women wearing?",
+    "label": "['kimono', 'dress', 'kimonos', 'dresses', 'dress', 'japanese', 'japanese', 'kimono', 'japanese', 'chinese robes']",
+    "choices": [
+        "vietnamese",
+        "korean",
+        "chinese",
+        "japanese"
+    ],
+    "correct_choice": "japanese"
+}

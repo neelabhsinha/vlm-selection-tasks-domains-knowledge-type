@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 449,
+    "caption": "two men in a kitchen with a wine glass",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "bottle",
+        "man",
+        "employment",
+        "wall",
+        "standing",
+        "people",
+        "wine"
+    ]
+}

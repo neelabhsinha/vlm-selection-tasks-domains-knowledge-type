@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5244,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5244.png",
+    "question": "Is it Pre-sleeved?",
+    "label": [
+        "no",
+        "No"
+    ]
+}

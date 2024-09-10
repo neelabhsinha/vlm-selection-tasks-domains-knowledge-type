@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3704,
+    "caption": "two people in the ocean with surfboards",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "wave",
+        "water",
+        "surf",
+        "surfboard",
+        "sport",
+        "wind wave",
+        "surfing",
+        "boardsport",
+        "ocean",
+        "tide",
+        "sports equipment",
+        "surface water sports",
+        "surfing equipment",
+        "wakesurfing",
+        "beach",
+        "wet suit",
+        "people",
+        "wet"
+    ]
+}

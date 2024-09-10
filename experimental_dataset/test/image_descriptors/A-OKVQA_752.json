@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 752,
+    "caption": "a cat standing on top of a refrigerator door",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "cat",
+        "person",
+        "small to medium-sized cats",
+        "felidae",
+        "refrigerator",
+        "appliance",
+        "kitchen",
+        "standing",
+        "looking"
+    ]
+}

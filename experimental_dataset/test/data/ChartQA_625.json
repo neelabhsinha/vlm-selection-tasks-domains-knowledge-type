@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 625,
+    "image_path": "./experimental_dataset/test/images/ChartQA_625.png",
+    "question": "For how many months did the price decrease compared with the previous month?",
+    "label": [
+        "3"
+    ]
+}

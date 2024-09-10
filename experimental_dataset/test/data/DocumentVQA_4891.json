@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4891,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4891.png",
+    "question": "Which heart association's logo is given?",
+    "label": [
+        "American Heart Association"
+    ]
+}

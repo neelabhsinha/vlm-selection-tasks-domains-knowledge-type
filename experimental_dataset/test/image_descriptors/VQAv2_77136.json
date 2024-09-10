@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 77136,
+    "caption": "a person cutting a pizza with a knife",
+    "object_tags": [
+        "pizza",
+        "dish",
+        "food",
+        "person",
+        "fast food",
+        "pizza cheese",
+        "italian food",
+        "california-style pizza",
+        "flatbread",
+        "baked goods",
+        "toppings",
+        "indoor",
+        "cutting"
+    ]
+}

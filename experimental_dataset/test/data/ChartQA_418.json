@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 418,
+    "image_path": "./experimental_dataset/test/images/ChartQA_418.png",
+    "question": "Which group has the largest mortality rates?",
+    "label": [
+        "Child (before age 5)"
+    ]
+}

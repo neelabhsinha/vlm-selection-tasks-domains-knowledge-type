@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 558,
+    "image_path": "./experimental_dataset/test/images/ChartQA_558.png",
+    "question": "How many method of communication system is mention in the chart?",
+    "label": [
+        "6"
+    ]
+}

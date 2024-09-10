@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 194361,
+    "image_path": "./experimental_dataset/test/images/VQAv2_194361.png",
+    "question": "Is ketchup being served on the hot dog?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

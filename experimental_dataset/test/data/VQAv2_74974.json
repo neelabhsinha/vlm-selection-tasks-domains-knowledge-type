@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 74974,
+    "image_path": "./experimental_dataset/test/images/VQAv2_74974.png",
+    "question": "Do these animals eat meat?",
+    "label": [
+        "leaves",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

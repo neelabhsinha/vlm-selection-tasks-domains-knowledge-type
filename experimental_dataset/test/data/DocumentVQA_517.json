@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 517,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_517.png",
+    "question": "What is the total number of options granted in 2001?",
+    "label": [
+        "3,39,119"
+    ]
+}

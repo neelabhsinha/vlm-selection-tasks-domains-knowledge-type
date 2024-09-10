@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4821,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4821.png",
+    "question": "When would you want this drink?",
+    "label": [
+        "morn",
+        "morn",
+        "morn",
+        "morn",
+        "morn",
+        "morn",
+        "breakfast",
+        "breakfast",
+        "breakfast",
+        "breakfast"
+    ]
+}

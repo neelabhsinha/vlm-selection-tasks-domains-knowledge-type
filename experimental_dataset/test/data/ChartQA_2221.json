@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2221,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2221.png",
+    "question": "What was the average expenditure on miscellaneous household appliances per consumer unit in the United States in 2019?",
+    "label": [
+        "8.39"
+    ]
+}

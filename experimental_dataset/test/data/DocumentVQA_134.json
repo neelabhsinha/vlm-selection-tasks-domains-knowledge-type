@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 134,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_134.png",
+    "question": "Is Esterified estrogen effective in treating Hot flushes vs Placebo?",
+    "label": [
+        "yes",
+        "Yes"
+    ]
+}

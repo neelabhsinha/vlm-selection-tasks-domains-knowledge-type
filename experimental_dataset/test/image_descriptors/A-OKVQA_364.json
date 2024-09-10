@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 364,
+    "caption": "a man standing next to a truck on a road",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "wheel",
+        "vehicle",
+        "footwear",
+        "person",
+        "land vehicle",
+        "tire",
+        "clothing",
+        "truck",
+        "tree",
+        "auto part",
+        "man",
+        "road",
+        "ground",
+        "trailer",
+        "standing"
+    ]
+}

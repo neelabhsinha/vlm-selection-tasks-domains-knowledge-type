@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 109862,
+    "caption": "a dog laying in a suitcase on the floor",
+    "object_tags": [
+        "animal",
+        "pet",
+        "dog breed",
+        "mammal",
+        "dog bed",
+        "indoor",
+        "floor",
+        "brown",
+        "dog",
+        "puppy"
+    ]
+}

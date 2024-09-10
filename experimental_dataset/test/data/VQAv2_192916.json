@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 192916,
+    "image_path": "./experimental_dataset/test/images/VQAv2_192916.png",
+    "question": "Do any orange have stickers?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2727,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2727.png",
+    "question": "What is the name of the breed of the dog holding onto the water bottle?",
+    "label": [
+        "pug",
+        "pug",
+        "pug",
+        "pug",
+        "bulldog",
+        "bulldog",
+        "bulldog",
+        "bulldog",
+        "water",
+        "water"
+    ]
+}

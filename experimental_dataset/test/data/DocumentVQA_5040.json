@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5040,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5040.png",
+    "question": "How much is the amount due of 'M/s Meenakshi Stores' as on 31.03.1999 based on section 6 'SUNDRY DEBTORS'?",
+    "label": [
+        "158863.44"
+    ]
+}

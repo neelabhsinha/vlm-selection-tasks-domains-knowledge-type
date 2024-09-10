@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 16478,
+    "caption": "a man sitting on a bench outside of a building",
+    "object_tags": [
+        "outdoor",
+        "window",
+        "door",
+        "building",
+        "wall",
+        "waste container",
+        "graffiti",
+        "facade",
+        "fire hydrant",
+        "street",
+        "painted",
+        "ground",
+        "city"
+    ]
+}

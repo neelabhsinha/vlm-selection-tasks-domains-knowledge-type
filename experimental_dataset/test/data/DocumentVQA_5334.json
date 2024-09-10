@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5334,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5334.png",
+    "question": "What is the \u2018total\u2019 amount?",
+    "label": [
+        "$196.69"
+    ]
+}

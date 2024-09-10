@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3284,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3284.png",
+    "question": "What is a famous version of this animal in cartoons?",
+    "label": [
+        "sylvester",
+        "sylvester",
+        "sylvester",
+        "sylvester",
+        "tom",
+        "tom",
+        "silvester",
+        "silvester",
+        "garfield",
+        "garfield"
+    ]
+}

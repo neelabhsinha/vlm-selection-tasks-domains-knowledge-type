@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 676,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_676.png",
+    "question": "who is the director of department of undergraduate medical education ?",
+    "label": [
+        "hayden c. nicholson, m.d.",
+        "Hayden C. Nicholson , M.D",
+        "hayden c. nicholson"
+    ]
+}

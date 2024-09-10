@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 985,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_985.png",
+    "question": "What service is being offered for riders on the blue and white bus?",
+    "label": "['coast tour', 'coast tour', 'transportation', 'transportation', 'tours', 'coast tour', 'coast tour', 'transportation', 'coast tour', 'transportation']",
+    "choices": [
+        "tours",
+        "haircuts",
+        "healthcare",
+        "buffets"
+    ],
+    "correct_choice": "tours"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 94699,
+    "image_path": "./experimental_dataset/test/images/VQAv2_94699.png",
+    "question": "What is the girl doing?",
+    "label": [
+        "brushing tooth",
+        "brushing her teeth",
+        "brushing her teeth",
+        "brushing teeth",
+        "whitening her teeth",
+        "eating",
+        "cleaning her teeth",
+        "brushing teeth",
+        "eating",
+        "brushing her teeth"
+    ]
+}

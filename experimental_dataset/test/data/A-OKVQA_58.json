@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 58,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_58.png",
+    "question": "What type of parking is available?",
+    "label": "['two wheeler', 'bicycle parking', 'bike', 'bike', 'bicycle', 'bicycle', 'two wheeler', 'metered parking', 'outdoors', 'bike']",
+    "choices": [
+        "truck",
+        "airplane",
+        "bicycle",
+        "rv"
+    ],
+    "correct_choice": "bicycle"
+}

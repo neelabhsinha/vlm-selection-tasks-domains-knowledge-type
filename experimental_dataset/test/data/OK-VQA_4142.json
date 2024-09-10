@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4142,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4142.png",
+    "question": "The fruit above the mans head is rich in one element?",
+    "label": [
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 19930,
+    "image_path": "./experimental_dataset/test/images/VQAv2_19930.png",
+    "question": "Is the water moving?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

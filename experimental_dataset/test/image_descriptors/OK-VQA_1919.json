@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1919,
+    "caption": "a green and white bus parked in front of a building",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "wheel",
+        "transport",
+        "road",
+        "mode of transport",
+        "green",
+        "building",
+        "bus",
+        "public transport",
+        "street",
+        "parked",
+        "people"
+    ]
+}

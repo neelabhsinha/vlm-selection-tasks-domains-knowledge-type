@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 177007,
+    "caption": "people are gathered around a table with plates of food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "wall",
+        "indoor",
+        "human face",
+        "people",
+        "meal",
+        "food",
+        "table",
+        "tableware",
+        "group",
+        "sharing",
+        "snack",
+        "girl",
+        "supper",
+        "dinner",
+        "pizza",
+        "eating",
+        "sitting",
+        "woman",
+        "family",
+        "party"
+    ]
+}

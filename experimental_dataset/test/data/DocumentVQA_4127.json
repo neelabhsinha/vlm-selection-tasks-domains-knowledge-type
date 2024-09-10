@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4127,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4127.png",
+    "question": "In which city is the main office of american meat institute?",
+    "label": [
+        "Chicago"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 116069,
+    "image_path": "./experimental_dataset/test/images/VQAv2_116069.png",
+    "question": "What is the woman holding?",
+    "label": [
+        "skis",
+        "skis",
+        "skis and ski poles",
+        "skis and ski poles",
+        "skis and poles",
+        "ski poles",
+        "skis and poles",
+        "skis",
+        "skis and ski poles",
+        "ski pole"
+    ]
+}

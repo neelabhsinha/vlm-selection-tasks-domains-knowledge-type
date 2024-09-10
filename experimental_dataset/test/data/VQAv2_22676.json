@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 22676,
+    "image_path": "./experimental_dataset/test/images/VQAv2_22676.png",
+    "question": "Is the toilet seat up or down?",
+    "label": [
+        "down",
+        "up",
+        "up",
+        "up",
+        "down",
+        "up",
+        "down",
+        "up",
+        "up",
+        "up"
+    ]
+}

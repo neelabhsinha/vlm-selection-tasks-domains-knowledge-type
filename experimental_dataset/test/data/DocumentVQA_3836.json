@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3836,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3836.png",
+    "question": "During the current year, how much is the \u2018research and development expenses for stores & spare parts consumed\u2019?",
+    "label": [
+        "5,94,652",
+        "5,94,652 rupees"
+    ]
+}

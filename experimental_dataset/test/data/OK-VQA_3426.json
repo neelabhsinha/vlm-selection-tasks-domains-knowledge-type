@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3426,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3426.png",
+    "question": "What type of weather is this?",
+    "label": [
+        "cloudy",
+        "cloudy",
+        "cloudy",
+        "cloudy",
+        "cloudy",
+        "cloudy",
+        "overcast",
+        "overcast",
+        "stormy",
+        "stormy"
+    ]
+}

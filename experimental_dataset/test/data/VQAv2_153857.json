@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 153857,
+    "image_path": "./experimental_dataset/test/images/VQAv2_153857.png",
+    "question": "What is the number of the player on the ground?",
+    "label": [
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "1",
+        "3",
+        "3",
+        "3",
+        "3"
+    ]
+}

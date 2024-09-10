@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3748,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3748.png",
+    "question": "What brand makes this controller?",
+    "label": [
+        "nintendo",
+        "nintendo",
+        "nintendo",
+        "nintendo",
+        "nintendo",
+        "nintendo",
+        "sony",
+        "sony",
+        "wii",
+        "wii"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 141470,
+    "caption": "a bowl of cereal with bananas and strawberries",
+    "object_tags": [
+        "food",
+        "berry",
+        "bowl",
+        "indoor",
+        "sweetness",
+        "frutti di bosco",
+        "superfood",
+        "fruit salad",
+        "accessory fruit",
+        "strawberry",
+        "plate",
+        "natural foods",
+        "fruit cup",
+        "tutti frutti",
+        "dessert",
+        "vegetarian food",
+        "alpine strawberry",
+        "table",
+        "fruit",
+        "tableware"
+    ]
+}

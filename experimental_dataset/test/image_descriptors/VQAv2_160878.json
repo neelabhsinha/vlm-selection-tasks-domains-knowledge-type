@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 160878,
+    "caption": "a man swinging a baseball bat at a ball",
+    "object_tags": [
+        "athletic game",
+        "person",
+        "sport",
+        "grass",
+        "clothing",
+        "footwear",
+        "outdoor",
+        "golf",
+        "green"
+    ]
+}

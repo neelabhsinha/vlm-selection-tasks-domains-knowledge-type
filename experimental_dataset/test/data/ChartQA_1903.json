@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1903,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1903.png",
+    "question": "What percentage did Dominican Republic's gross domestic product grow by in 2019?",
+    "label": [
+        "5"
+    ]
+}

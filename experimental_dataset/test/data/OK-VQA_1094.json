@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1094,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1094.png",
+    "question": "What is spread across the person's toast in this photo?",
+    "label": [
+        "butter",
+        "butter",
+        "butter",
+        "butter",
+        "butter",
+        "butter",
+        "butter",
+        "butter",
+        "cream cheese",
+        "cream cheese"
+    ]
+}

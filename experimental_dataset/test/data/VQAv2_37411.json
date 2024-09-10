@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 37411,
+    "image_path": "./experimental_dataset/test/images/VQAv2_37411.png",
+    "question": "Are the orange markings on the plane brighter than the traffic cone?",
+    "label": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

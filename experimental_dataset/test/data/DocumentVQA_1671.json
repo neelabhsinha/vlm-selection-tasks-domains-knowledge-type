@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1671,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1671.png",
+    "question": "What does ND denote?",
+    "label": [
+        "non-detectable"
+    ]
+}

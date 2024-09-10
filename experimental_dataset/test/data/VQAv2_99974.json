@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 99974,
+    "image_path": "./experimental_dataset/test/images/VQAv2_99974.png",
+    "question": "Is that a player piano?",
+    "label": [
+        "no",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "yes"
+    ]
+}

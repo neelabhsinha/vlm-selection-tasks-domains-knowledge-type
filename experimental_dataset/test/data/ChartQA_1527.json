@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1527,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1527.png",
+    "question": "How much money did travel and tourism directly contribute to the U.S. economy in 2017?",
+    "label": [
+        "509"
+    ]
+}

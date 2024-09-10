@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 69299,
+    "caption": "a tall clock tower with a clock on each of it's sides",
+    "object_tags": [
+        "clock",
+        "sky",
+        "tower",
+        "outdoor",
+        "building",
+        "clock tower",
+        "wall clock",
+        "quartz clock",
+        "large"
+    ]
+}

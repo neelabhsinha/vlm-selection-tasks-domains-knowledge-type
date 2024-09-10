@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2540,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2540.png",
+    "question": "What goes in the container next to the benches?",
+    "label": [
+        "trash",
+        "trash",
+        "trash",
+        "trash",
+        "trash",
+        "trash",
+        "trash",
+        "trash",
+        "garbage",
+        "garbage"
+    ]
+}

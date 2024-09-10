@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 129595,
+    "image_path": "./experimental_dataset/test/images/VQAv2_129595.png",
+    "question": "Is this an ocean or lake?",
+    "label": [
+        "lake",
+        "lake",
+        "lake",
+        "lake",
+        "lake",
+        "lake",
+        "lake",
+        "lake",
+        "lake",
+        "lake"
+    ]
+}

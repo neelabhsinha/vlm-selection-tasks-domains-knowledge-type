@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 959,
+    "caption": "a banana sitting on top of a table next to a window",
+    "object_tags": [
+        "banana",
+        "furniture",
+        "indoor",
+        "chair",
+        "window",
+        "vacation",
+        "floor"
+    ]
+}

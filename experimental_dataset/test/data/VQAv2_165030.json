@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 165030,
+    "image_path": "./experimental_dataset/test/images/VQAv2_165030.png",
+    "question": "What kind of material is the bowl on?",
+    "label": [
+        "glass",
+        "glass",
+        "glass",
+        "wood",
+        "glass",
+        "wood",
+        "wood",
+        "wood",
+        "wood",
+        "glass"
+    ]
+}

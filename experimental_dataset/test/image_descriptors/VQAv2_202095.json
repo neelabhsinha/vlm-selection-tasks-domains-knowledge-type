@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 202095,
+    "caption": "a man standing next to a bunch of bananas",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "banana",
+        "clothing",
+        "land vehicle",
+        "wheel",
+        "matoke",
+        "vehicle",
+        "fruit",
+        "man",
+        "cooking plantain",
+        "tire",
+        "saba banana",
+        "ground",
+        "plant",
+        "street"
+    ]
+}

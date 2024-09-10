@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1939,
+    "caption": "three yellow trash cans sitting next to each other",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "ground",
+        "plant",
+        "land vehicle",
+        "wheel",
+        "tire",
+        "vehicle",
+        "yellow",
+        "orange",
+        "sitting",
+        "parked"
+    ]
+}

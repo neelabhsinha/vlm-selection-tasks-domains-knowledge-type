@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5033,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Knowledge Base",
+        "Linguistics"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Geographical Knowledge"
+    ]
+}

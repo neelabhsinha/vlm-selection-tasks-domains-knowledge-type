@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3858,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3858.png",
+    "question": "Which country won the 2018 world cup?",
+    "label": [
+        "france",
+        "france",
+        "france",
+        "france",
+        "france",
+        "france",
+        "france",
+        "france",
+        "france",
+        "france"
+    ]
+}

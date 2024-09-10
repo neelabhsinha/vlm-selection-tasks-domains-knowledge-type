@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 49014,
+    "image_path": "./experimental_dataset/test/images/VQAv2_49014.png",
+    "question": "Do you think that kite is going to fly high?",
+    "label": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

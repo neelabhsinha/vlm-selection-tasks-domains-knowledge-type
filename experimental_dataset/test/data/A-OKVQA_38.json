@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 38,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_38.png",
+    "question": "What kind of terrain is it?",
+    "label": "['savanna', 'rugged', 'grassy hilly', 'sandy', 'plains', 'safari', 'jungle', 'savannas', 'plains', 'savanna']",
+    "choices": [
+        "beach",
+        "desert",
+        "savanna",
+        "valley"
+    ],
+    "correct_choice": "savanna"
+}

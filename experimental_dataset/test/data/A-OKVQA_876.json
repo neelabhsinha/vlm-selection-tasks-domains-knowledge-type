@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 876,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_876.png",
+    "question": "What brand is a competitor of the brand on the billboard?",
+    "label": "['dr. pepper', 'coca-cola', 'coke', 'coke', 'coca-cola', 'coke', 'pepsi', 'coke', 'coca cola', 'coca cola']",
+    "choices": [
+        "green giant",
+        "popeye's",
+        "mcdonald's",
+        "dr. pepper"
+    ],
+    "correct_choice": "dr. pepper"
+}

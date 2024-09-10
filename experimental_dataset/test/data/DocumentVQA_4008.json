@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4008,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4008.png",
+    "question": "In the image, what drink is sandwiched between the sandwiches?",
+    "label": [
+        "Soft drink",
+        "soft drink",
+        "soft",
+        "sparkling"
+    ]
+}

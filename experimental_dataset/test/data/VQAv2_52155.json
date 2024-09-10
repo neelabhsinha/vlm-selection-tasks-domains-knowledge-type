@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 52155,
+    "image_path": "./experimental_dataset/test/images/VQAv2_52155.png",
+    "question": "Is the boy taking a selfie?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

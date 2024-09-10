@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4613,
+    "caption": "a room full of people working on computers",
+    "object_tags": [
+        "indoor",
+        "person",
+        "clothing",
+        "furniture",
+        "chair",
+        "woman",
+        "people",
+        "desk",
+        "window",
+        "table",
+        "computer",
+        "office building",
+        "wall",
+        "laptop",
+        "group",
+        "sitting"
+    ]
+}

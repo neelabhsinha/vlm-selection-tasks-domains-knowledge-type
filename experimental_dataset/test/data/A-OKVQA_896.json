@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 896,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_896.png",
+    "question": "What type of boat is on the beach?",
+    "label": "['sailboat', 'sail boat', 'rowboat', 'sailboat', 'sail boat', 'sail boat', 'sailboat', 'sail', 'rowboat', 'sailboat']",
+    "choices": [
+        "barge",
+        "row",
+        "sail",
+        "canoe"
+    ],
+    "correct_choice": "sail"
+}

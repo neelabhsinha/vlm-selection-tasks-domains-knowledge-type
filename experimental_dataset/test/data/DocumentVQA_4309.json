@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4309,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4309.png",
+    "question": "What does the first diagram represent?",
+    "label": [
+        "vitamins",
+        "Vitamins"
+    ]
+}

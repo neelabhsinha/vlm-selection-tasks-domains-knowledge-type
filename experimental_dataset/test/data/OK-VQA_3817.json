@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3817,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3817.png",
+    "question": "What is the proper response when traveling in a vehicle and seeing a red traffic light?",
+    "label": [
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop",
+        "stop"
+    ]
+}

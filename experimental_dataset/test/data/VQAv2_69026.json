@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 69026,
+    "image_path": "./experimental_dataset/test/images/VQAv2_69026.png",
+    "question": "What is the big, black object in the middle of the picture called?",
+    "label": [
+        "train engine",
+        "train",
+        "train engine",
+        "train",
+        "train",
+        "train",
+        "train",
+        "train",
+        "train",
+        "engine"
+    ]
+}

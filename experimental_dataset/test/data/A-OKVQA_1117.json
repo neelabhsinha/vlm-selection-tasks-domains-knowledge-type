@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1117,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1117.png",
+    "question": "Which object at the table is most used with a flame?",
+    "label": "['dishes tables', 'corn', 'eating', 'cook', 'candle', 'candle', 'candle', 'dinning tablet', 'candle', 'candle']",
+    "choices": [
+        "candle holder",
+        "vase",
+        "candle",
+        "glass"
+    ],
+    "correct_choice": "candle"
+}

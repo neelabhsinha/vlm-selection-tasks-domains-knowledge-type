@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1670,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1670.png",
+    "question": "What is the first item in the index?",
+    "label": [
+        "Water from government drain ditch",
+        "1. Water from government drain ditch"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 151026,
+    "caption": "a person riding a bike on a city street",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "road",
+        "land vehicle",
+        "vehicle",
+        "bicycle wheel",
+        "tree",
+        "street",
+        "sky",
+        "person",
+        "riding",
+        "lane",
+        "sports equipment",
+        "cycling",
+        "transport",
+        "asphalt",
+        "bike",
+        "bicycle"
+    ]
+}

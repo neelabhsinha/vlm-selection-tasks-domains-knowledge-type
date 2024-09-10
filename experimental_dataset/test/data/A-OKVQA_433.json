@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 433,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_433.png",
+    "question": "What sports equipment is on the ground?",
+    "label": "['caps', 'baseball', 'baseball', 'baseball', 'baseball', 'gloves', 'gloves', 'baseball gloves', 'baseball', 'baseball equipment']",
+    "choices": [
+        "hockey",
+        "football",
+        "baseball",
+        "basketball"
+    ],
+    "correct_choice": "baseball"
+}

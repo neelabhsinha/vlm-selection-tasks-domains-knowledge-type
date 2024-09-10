@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 279,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_279.png",
+    "question": "What color phone does the woman in the blue outfit have?",
+    "label": "['yellow', 'yellow', 'yellow', 'yellow', 'black', 'yellow', 'yellow', 'yellow', 'yellow', 'black']",
+    "choices": [
+        "green",
+        "yellow",
+        "red",
+        "blue"
+    ],
+    "correct_choice": "yellow"
+}

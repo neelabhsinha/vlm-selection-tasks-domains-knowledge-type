@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 677,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_677.png",
+    "question": "What is this cooking process called?",
+    "label": "['saute', 'sautee', 'sautee', 'sautee', 'stir fry', 'stir fry', 'stir fry', 'frying', 'stir frying', 'stir fry']",
+    "choices": [
+        "boiling",
+        "sautee",
+        "stir frying",
+        "caramelizing"
+    ],
+    "correct_choice": "stir frying"
+}

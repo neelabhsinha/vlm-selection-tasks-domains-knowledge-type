@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 52,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_52.png",
+    "question": "What is the small white outdoor house like building called?",
+    "label": [
+        "gazebo",
+        "gazebo",
+        "gazebo",
+        "gazebo",
+        "gazebo",
+        "gazebo",
+        "shed",
+        "shed",
+        "casida",
+        "casida"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1582,
+    "caption": "a woman is talking on her cell phone",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "outdoor",
+        "jacket",
+        "building",
+        "street fashion",
+        "text",
+        "jeans",
+        "street",
+        "ground",
+        "sidewalk"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 270,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_270.png",
+    "question": "What time in approximately 31 minutes?",
+    "label": "['ten', 'ten', 'ten', '1000', 'ten', '9 oclock', '1000', 'ten', \"ten o'clock\", 'ten']",
+    "choices": [
+        "110",
+        "midnight",
+        "1000",
+        "midday"
+    ],
+    "correct_choice": "1000"
+}

@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 505,
+    "caption": "a man standing on top of a beach next to a boat",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "boat",
+        "ship",
+        "vehicle",
+        "boating",
+        "coastal and oceanic landforms",
+        "lake",
+        "beach",
+        "people",
+        "person",
+        "shore",
+        "watercraft",
+        "floating",
+        "ground",
+        "mountain",
+        "sea",
+        "ocean",
+        "summer"
+    ]
+}

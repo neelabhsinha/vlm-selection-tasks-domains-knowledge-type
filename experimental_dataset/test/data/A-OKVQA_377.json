@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 377,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_377.png",
+    "question": "Which skier is going fastest?",
+    "label": "['left most', 'left', 'left', 'far skier', 'left', 'farthest left', 'on left', 'on left', 'left one', 'downslope']",
+    "choices": [
+        "sitting",
+        "right",
+        "left",
+        "middle"
+    ],
+    "correct_choice": "left"
+}

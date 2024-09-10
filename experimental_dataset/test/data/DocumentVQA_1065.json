@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1065,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1065.png",
+    "question": "What is the percentage of women in 40-49 age group exceeding best weight by 20% or more?",
+    "label": [
+        "40%"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 462,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_462.png",
+    "question": "Why is the kid wearing a helmet?",
+    "label": "['safety', 'horseback riding', 'safety', 'riding horse', 'protection', 'safety', 'riding horse', 'safety', 'horse ride', 'head safety']",
+    "choices": [
+        "balance",
+        "speed",
+        "protection",
+        "agility"
+    ],
+    "correct_choice": "protection"
+}

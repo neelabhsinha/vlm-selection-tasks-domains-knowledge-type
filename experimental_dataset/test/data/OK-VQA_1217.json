@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1217,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1217.png",
+    "question": "Can you name an animal that lives in the same environment as those shown here?",
+    "label": [
+        "duck",
+        "duck",
+        "duck",
+        "duck",
+        "rhinoceros",
+        "rhinoceros",
+        "bird",
+        "bird",
+        "fox",
+        "fox"
+    ]
+}

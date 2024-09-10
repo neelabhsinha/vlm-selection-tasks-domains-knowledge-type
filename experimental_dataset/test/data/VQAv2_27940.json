@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 27940,
+    "image_path": "./experimental_dataset/test/images/VQAv2_27940.png",
+    "question": "Is the boy wearing skateboard gear?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "no"
+    ]
+}

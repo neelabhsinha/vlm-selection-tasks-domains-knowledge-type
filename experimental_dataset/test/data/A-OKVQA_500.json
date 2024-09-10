@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 500,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_500.png",
+    "question": "What is the man in the blue shirt attempting to do?",
+    "label": "['shop', 'cross road', 'cross street', 'cross street', 'cross street', 'cross street', 'cross street', 'cross street', 'cross street', 'cross']",
+    "choices": [
+        "eat",
+        "dance",
+        "ski",
+        "cross street"
+    ],
+    "correct_choice": "cross street"
+}

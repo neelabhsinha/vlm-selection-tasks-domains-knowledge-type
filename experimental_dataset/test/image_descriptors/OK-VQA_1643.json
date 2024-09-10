@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1643,
+    "caption": "a red and black train engine on the tracks",
+    "object_tags": [
+        "railroad",
+        "steam",
+        "outdoor",
+        "locomotive",
+        "railway",
+        "vehicle",
+        "rolling stock",
+        "transport",
+        "ground",
+        "train",
+        "steam engine",
+        "auto part",
+        "track",
+        "land vehicle",
+        "railroad car",
+        "rolling",
+        "engine",
+        "red"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4448,
+    "caption": "a seagull standing on top of a sandy beach",
+    "object_tags": [
+        "animal",
+        "bird",
+        "outdoor",
+        "aquatic bird",
+        "sea gull",
+        "water",
+        "sky",
+        "beak",
+        "beach",
+        "lake",
+        "ground",
+        "standing"
+    ]
+}

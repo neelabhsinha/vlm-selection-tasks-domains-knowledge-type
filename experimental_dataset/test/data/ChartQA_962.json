@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 962,
+    "image_path": "./experimental_dataset/test/images/ChartQA_962.png",
+    "question": "Which is the highest value in grey color?",
+    "label": [
+        "7.65"
+    ]
+}

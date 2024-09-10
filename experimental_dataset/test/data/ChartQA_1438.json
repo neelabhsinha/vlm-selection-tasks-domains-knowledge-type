@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1438,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1438.png",
+    "question": "What country's music was the most attractive in Latin America in 2019?",
+    "label": [
+        "Brazil"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2032,
+    "caption": "motorcycles are driving down the road",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "road",
+        "wheel",
+        "sky",
+        "tire",
+        "car",
+        "cloud",
+        "person",
+        "grass",
+        "riding",
+        "auto part",
+        "motorcycle helmet",
+        "motorsport",
+        "motorcycling",
+        "tarmac",
+        "lane",
+        "asphalt",
+        "street",
+        "driving",
+        "motorcycle",
+        "people"
+    ]
+}

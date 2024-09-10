@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2379,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2379.png",
+    "question": "How many Victoria's Secret stores were there as of January 30, 2021?",
+    "label": [
+        "846"
+    ]
+}

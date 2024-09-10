@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3674,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3674.png",
+    "question": "What does M stand for?",
+    "label": [
+        "Management"
+    ]
+}

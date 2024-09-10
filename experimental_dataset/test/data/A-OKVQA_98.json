@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 98,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_98.png",
+    "question": "What is prohibited near the round road sign with a red cross on a blue background?",
+    "label": "['passing', 'no idea', 'stop', 'parking', 'proceeding', 'crossing', 'parking', 'parking', 'driving', 'no idea']",
+    "choices": [
+        "parking",
+        "turning",
+        "speeding",
+        "waving"
+    ],
+    "correct_choice": "parking"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1784,
+    "caption": "a metal bench sitting in the middle of a park",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "plant",
+        "ground",
+        "outdoor bench",
+        "street furniture",
+        "park",
+        "metal",
+        "sitting",
+        "bench",
+        "steel"
+    ]
+}

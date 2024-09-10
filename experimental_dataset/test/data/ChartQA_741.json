@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 741,
+    "image_path": "./experimental_dataset/test/images/ChartQA_741.png",
+    "question": "How many more physicians did Texas have than Ohio?",
+    "label": [
+        "22738"
+    ]
+}

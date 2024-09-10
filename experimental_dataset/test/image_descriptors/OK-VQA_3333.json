@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3333,
+    "caption": "a microwave sitting on top of a curb next to a trash can",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "wheel",
+        "tire",
+        "car",
+        "box",
+        "waste container",
+        "auto part",
+        "microwave",
+        "sitting",
+        "sidewalk",
+        "street",
+        "curb",
+        "floor",
+        "oven"
+    ]
+}

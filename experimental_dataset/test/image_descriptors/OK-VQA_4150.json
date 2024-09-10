@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4150,
+    "caption": "three men in suits posing for a picture",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "grass",
+        "smile",
+        "tree",
+        "clothing",
+        "man",
+        "formal wear",
+        "posing",
+        "plant",
+        "gentleman",
+        "photograph",
+        "standing",
+        "bow tie",
+        "suit",
+        "field"
+    ]
+}

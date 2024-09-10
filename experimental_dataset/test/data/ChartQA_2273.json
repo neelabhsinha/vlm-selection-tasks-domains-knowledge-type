@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2273,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2273.png",
+    "question": "What was Japan's CDI score in 2012?",
+    "label": [
+        "0.35"
+    ]
+}

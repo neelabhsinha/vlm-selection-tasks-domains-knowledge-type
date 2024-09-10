@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 701,
+    "caption": "a traffic light on the corner of a street",
+    "object_tags": [
+        "outdoor",
+        "way",
+        "building",
+        "sky",
+        "scene",
+        "town",
+        "neighbourhood",
+        "road",
+        "traffic light",
+        "infrastructure",
+        "street light",
+        "electrical supply",
+        "house",
+        "signaling device",
+        "window",
+        "electricity",
+        "light",
+        "city",
+        "street"
+    ]
+}

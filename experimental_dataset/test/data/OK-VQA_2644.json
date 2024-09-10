@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2644,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2644.png",
+    "question": "What program can i used to make my photos look like this one?",
+    "label": [
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photo edit",
+        "photo edit"
+    ]
+}

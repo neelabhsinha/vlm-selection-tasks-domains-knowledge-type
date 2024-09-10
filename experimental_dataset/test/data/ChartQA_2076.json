@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2076,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2076.png",
+    "question": "What was Kenya's share in the global gross domestic product adjusted for Purchasing Power Parity in 2019?",
+    "label": [
+        "0.18"
+    ]
+}

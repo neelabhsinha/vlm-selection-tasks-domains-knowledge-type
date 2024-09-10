@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 996,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_996.png",
+    "question": "What kind of cuisine does this food from?",
+    "label": "['japanese', 'chinese', 'asian', 'chinese', 'asia', 'chinese', 'china', 'chinese', 'chinese food', 'asian']",
+    "choices": [
+        "japanese",
+        "italian",
+        "american",
+        "indian"
+    ],
+    "correct_choice": "japanese"
+}

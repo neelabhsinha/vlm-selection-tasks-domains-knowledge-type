@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 466,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_466.png",
+    "question": "What is the name of the person to whom address corrections are to be send?",
+    "label": [
+        "beth cooper",
+        "Beth Cooper"
+    ]
+}

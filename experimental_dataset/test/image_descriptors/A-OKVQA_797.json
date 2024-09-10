@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 797,
+    "caption": "cows standing on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "mammal",
+        "animal",
+        "cow",
+        "land vehicle",
+        "wheel",
+        "car",
+        "road",
+        "vehicle",
+        "tree",
+        "street",
+        "bovine",
+        "livestock",
+        "ox",
+        "text",
+        "dairy cow",
+        "standing",
+        "ground",
+        "bull",
+        "cattle"
+    ]
+}

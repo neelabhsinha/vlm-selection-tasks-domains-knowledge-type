@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2069,
+    "caption": "a pile of carrots on top of a table",
+    "object_tags": [
+        "vegetable",
+        "root vegetable",
+        "carrot",
+        "ingredient",
+        "produce",
+        "vegetarian food",
+        "vegan nutrition",
+        "arracacia xanthorrhiza",
+        "food",
+        "baby carrot",
+        "carrot stick",
+        "plant",
+        "indoor"
+    ]
+}

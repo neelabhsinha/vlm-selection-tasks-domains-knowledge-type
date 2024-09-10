@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4304,
+    "caption": "a hot dog and a drink on a table",
+    "object_tags": [
+        "food",
+        "sandwich",
+        "snack food",
+        "fast food",
+        "snack",
+        "american food",
+        "bread",
+        "cup",
+        "meal",
+        "hot dog bun",
+        "drinkware",
+        "banh ma",
+        "table",
+        "dog",
+        "indoor",
+        "drink",
+        "tomato",
+        "hotdog"
+    ]
+}

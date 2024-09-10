@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 74578,
+    "image_path": "./experimental_dataset/test/images/VQAv2_74578.png",
+    "question": "What is the cat doing?",
+    "label": [
+        "hiding",
+        "sitting on refrigerator",
+        "hiding",
+        "sitting",
+        "resting",
+        "sitting",
+        "sitting",
+        "laying on fridge",
+        "resting",
+        "laying"
+    ]
+}

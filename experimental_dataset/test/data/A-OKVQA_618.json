@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 618,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_618.png",
+    "question": "What is the room adjacent to the kitchen?",
+    "label": "['closet', 'entryway', 'dressing room', 'closet', 'closet', 'closet', 'closet', 'closet', 'closet', 'good']",
+    "choices": [
+        "bathroom",
+        "entryway",
+        "living room",
+        "bedroom"
+    ],
+    "correct_choice": "entryway"
+}

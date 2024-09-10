@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 398,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_398.png",
+    "question": "What is the progress Report number?",
+    "label": [
+        "33"
+    ]
+}

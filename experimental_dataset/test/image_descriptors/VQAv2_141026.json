@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 141026,
+    "caption": "a man riding a snowboard down a snow covered slope",
+    "object_tags": [
+        "transport",
+        "ski tow",
+        "building",
+        "wall",
+        "snow",
+        "outdoor",
+        "person",
+        "winter"
+    ]
+}

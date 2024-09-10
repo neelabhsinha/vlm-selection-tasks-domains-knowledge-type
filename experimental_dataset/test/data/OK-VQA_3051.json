@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3051,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3051.png",
+    "question": "What is this person's profession?",
+    "label": [
+        "chef",
+        "chef",
+        "chef",
+        "chef",
+        "chef",
+        "chef",
+        "cook",
+        "cook",
+        "baker",
+        "baker"
+    ]
+}

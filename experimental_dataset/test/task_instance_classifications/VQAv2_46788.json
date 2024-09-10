@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 46788,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Anthropology",
+        "Books",
+        "Linguistics"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

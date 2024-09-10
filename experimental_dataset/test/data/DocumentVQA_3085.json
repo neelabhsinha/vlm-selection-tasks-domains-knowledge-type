@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3085,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3085.png",
+    "question": "Who is the magazine published by?",
+    "label": [
+        "the new york state department of social services",
+        "New York State Department of Social Services"
+    ]
+}

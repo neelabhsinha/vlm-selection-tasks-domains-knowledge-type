@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2834,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2834.png",
+    "question": "What is the rightmost word in first line?",
+    "label": [
+        "Active"
+    ]
+}

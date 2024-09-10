@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2323,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2323.png",
+    "question": "What was the value of domestic chemical sales in the Asia-Pacific region in dollars in 2019?",
+    "label": [
+        "2057.6"
+    ]
+}

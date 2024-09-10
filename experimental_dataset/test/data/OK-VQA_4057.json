@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4057,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4057.png",
+    "question": "What is the maximum number of people that can participate in this game?",
+    "label": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "11",
+        "11"
+    ]
+}

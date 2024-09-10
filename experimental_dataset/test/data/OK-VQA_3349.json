@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3349,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3349.png",
+    "question": "What kind of jump can this boy do with this board?",
+    "label": [
+        "ollie",
+        "ollie",
+        "ollie",
+        "ollie",
+        "olly",
+        "olly",
+        "trick",
+        "trick",
+        "kick flip",
+        "kick flip"
+    ]
+}

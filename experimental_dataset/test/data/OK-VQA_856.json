@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 856,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_856.png",
+    "question": "In this image what believes soup is too hot too cold and just right?",
+    "label": [
+        "goldilocks",
+        "goldilocks",
+        "goldilocks",
+        "goldilocks",
+        "just right",
+        "just right",
+        "goldie lock",
+        "goldie lock",
+        "too cold",
+        "too cold"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 77116,
+    "caption": "a large building with a truck parked in front of it",
+    "object_tags": [
+        "building",
+        "wheel",
+        "outdoor",
+        "sky",
+        "vehicle",
+        "land vehicle",
+        "tire",
+        "road",
+        "truck",
+        "black and white",
+        "white",
+        "fashioned",
+        "parked",
+        "street"
+    ]
+}

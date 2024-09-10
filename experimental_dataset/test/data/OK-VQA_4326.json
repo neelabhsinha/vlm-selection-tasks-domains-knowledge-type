@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4326,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4326.png",
+    "question": "What breed of cat is this?",
+    "label": [
+        "calico",
+        "calico",
+        "calico",
+        "calico",
+        "housecat",
+        "housecat",
+        "american shorthair",
+        "american shorthair",
+        "domestic",
+        "domestic"
+    ]
+}

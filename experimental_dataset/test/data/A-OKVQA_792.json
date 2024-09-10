@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 792,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_792.png",
+    "question": "What kind is the 2 vehicles?",
+    "label": "['toyota', 'chevrolet', 'chevrolet', 'toyota', 'toyota', 'toyota', 'toyota', 'toyota', 'chevrolet', 'toyota']",
+    "choices": [
+        "ford",
+        "honda",
+        "chevy",
+        "toyota"
+    ],
+    "correct_choice": "toyota"
+}

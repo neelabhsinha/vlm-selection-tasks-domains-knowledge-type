@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3816,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Anthropology"
+    ],
+    "knowledge_type": [
+        "Scientific Knowledge",
+        "Cultural Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

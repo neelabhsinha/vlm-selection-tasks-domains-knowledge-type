@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2271,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2271.png",
+    "question": "Why might they be pushing this vehicle?",
+    "label": [
+        "dead battery",
+        "dead battery",
+        "dead battery",
+        "dead battery",
+        "broken",
+        "broken",
+        "out of gas",
+        "out of gas",
+        "broke down",
+        "broke down"
+    ]
+}

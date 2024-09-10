@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 158,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_158.png",
+    "question": "What is purpose of this wooden board?",
+    "label": "['advertisement', 'advertising', 'advertisement', 'advertisement', 'advertisement', 'advertisement', 'advertisement', 'advertise', 'advertisement', 'advertisement']",
+    "choices": [
+        "entertaining kids",
+        "decoration",
+        "street sign",
+        "advertisement"
+    ],
+    "correct_choice": "advertisement"
+}

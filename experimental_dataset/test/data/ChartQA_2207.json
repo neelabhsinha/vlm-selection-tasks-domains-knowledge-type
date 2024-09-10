@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2207,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2207.png",
+    "question": "What was the corruption perception index score in Indonesia in 2020?",
+    "label": [
+        "37"
+    ]
+}

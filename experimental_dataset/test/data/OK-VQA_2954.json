@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2954,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2954.png",
+    "question": "What company or organization does the logo on this racket represent?",
+    "label": [
+        "wilson",
+        "wilson",
+        "wilson",
+        "wilson",
+        "wilson",
+        "wilson",
+        "wilson",
+        "wilson",
+        "wilson",
+        "wilson"
+    ]
+}

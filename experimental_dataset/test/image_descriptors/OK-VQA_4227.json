@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4227,
+    "caption": "a teddy bear sitting on top of a chair in the middle of a desert",
+    "object_tags": [
+        "ground",
+        "outdoor",
+        "desert",
+        "soil",
+        "sitting",
+        "people"
+    ]
+}

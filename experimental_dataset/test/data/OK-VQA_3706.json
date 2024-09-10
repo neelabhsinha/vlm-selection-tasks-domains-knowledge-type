@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3706,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3706.png",
+    "question": "What types of clouds are forming in the sky?",
+    "label": [
+        "cumulus",
+        "cumulus",
+        "cumulus",
+        "cumulus",
+        "rain",
+        "rain",
+        "storm",
+        "storm",
+        "stratus",
+        "stratus"
+    ]
+}

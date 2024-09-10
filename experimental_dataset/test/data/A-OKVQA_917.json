@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 917,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_917.png",
+    "question": "What shape is the donut in?",
+    "label": "['robot', 'person', 'person', 'gingerbread man', 'gingerbread man', 'person', 'man', 'rectangle', 'lost arm', 'person']",
+    "choices": [
+        "bird",
+        "dog",
+        "cat",
+        "robot"
+    ],
+    "correct_choice": "robot"
+}

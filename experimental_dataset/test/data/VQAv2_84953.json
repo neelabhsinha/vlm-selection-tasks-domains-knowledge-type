@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 84953,
+    "image_path": "./experimental_dataset/test/images/VQAv2_84953.png",
+    "question": "What type of food is the man selling?",
+    "label": [
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 182729,
+    "image_path": "./experimental_dataset/test/images/VQAv2_182729.png",
+    "question": "Why is this not a common scene in an American big city?",
+    "label": [
+        "no roads for bikes",
+        "cars",
+        "not crowded",
+        "most people drive",
+        "cars",
+        "america has more cars",
+        "people use cars mores",
+        "we want to get places faster",
+        "cars drive on road",
+        "traffic"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 178147,
+    "image_path": "./experimental_dataset/test/images/VQAv2_178147.png",
+    "question": "What type of food is pictured?",
+    "label": [
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "pasta",
+        "pizza",
+        "pizza, peach and wine"
+    ]
+}

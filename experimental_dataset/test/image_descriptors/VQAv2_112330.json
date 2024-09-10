@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 112330,
+    "caption": "a flock of birds flying over a body of water",
+    "object_tags": [
+        "animal",
+        "aquatic bird",
+        "bird",
+        "outdoor",
+        "water",
+        "ground",
+        "sandpiper",
+        "beak"
+    ]
+}

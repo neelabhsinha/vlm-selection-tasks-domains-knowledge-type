@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 94954,
+    "caption": "a box filled with a variety of donuts",
+    "object_tags": [
+        "donut",
+        "snack",
+        "baked goods",
+        "dessert",
+        "doughnut",
+        "food",
+        "baking",
+        "ciambella",
+        "sweetness",
+        "bakery",
+        "pastry",
+        "glaze",
+        "indoor",
+        "confectionery",
+        "bagel",
+        "paczki",
+        "cider doughnut",
+        "variety"
+    ]
+}

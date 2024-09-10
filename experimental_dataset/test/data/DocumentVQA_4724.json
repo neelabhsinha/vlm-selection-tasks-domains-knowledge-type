@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4724,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4724.png",
+    "question": "What is the temperature of diluent?",
+    "label": [
+        "ambient",
+        "Ambient"
+    ]
+}

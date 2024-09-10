@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 826,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_826.png",
+    "question": "What does a messy desk like this say about a person?",
+    "label": [
+        "disorganized",
+        "disorganized",
+        "disorganized",
+        "disorganized",
+        "unorganized",
+        "unorganized",
+        "they are busy",
+        "they are busy",
+        "busy",
+        "busy"
+    ]
+}

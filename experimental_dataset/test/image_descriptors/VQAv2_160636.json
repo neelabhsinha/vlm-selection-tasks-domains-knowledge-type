@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 160636,
+    "caption": "a police car parked in front of a building",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "land vehicle",
+        "vehicle",
+        "sky",
+        "clock",
+        "wheel",
+        "car",
+        "road",
+        "tire",
+        "tower",
+        "parked",
+        "city",
+        "large",
+        "street"
+    ]
+}

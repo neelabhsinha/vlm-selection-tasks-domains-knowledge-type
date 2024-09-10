@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2713,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2713.png",
+    "question": "What is this person's regular brand?",
+    "label": [
+        "DORAL 100's"
+    ]
+}

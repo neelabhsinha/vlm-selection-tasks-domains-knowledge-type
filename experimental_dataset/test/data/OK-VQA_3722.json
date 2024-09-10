@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3722,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3722.png",
+    "question": "Where do these people work?",
+    "label": [
+        "kitchen",
+        "kitchen",
+        "kitchen",
+        "kitchen",
+        "restaurant",
+        "restaurant",
+        "restaurant",
+        "restaurant",
+        "kitchen restaurant",
+        "kitchen restaurant"
+    ]
+}

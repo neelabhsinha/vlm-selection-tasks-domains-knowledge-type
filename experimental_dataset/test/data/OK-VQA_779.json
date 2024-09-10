@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 779,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_779.png",
+    "question": "What month is this?",
+    "label": [
+        "march",
+        "march",
+        "march",
+        "march",
+        "november",
+        "november",
+        "october",
+        "october",
+        "january",
+        "january"
+    ]
+}

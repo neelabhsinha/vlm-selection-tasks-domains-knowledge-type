@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1160,
+    "caption": "a person sitting at a table under an umbrella",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "umbrella",
+        "person",
+        "clothing",
+        "table",
+        "furniture",
+        "people",
+        "city",
+        "street",
+        "chair",
+        "red",
+        "restaurant"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 125817,
+    "image_path": "./experimental_dataset/test/images/VQAv2_125817.png",
+    "question": "How many people are in this photo?",
+    "label": [
+        "3",
+        "3",
+        "3",
+        "4",
+        "3",
+        "5",
+        "7",
+        "3",
+        "3",
+        "3"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1974,
+    "caption": "people on the beach near the water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "tree",
+        "shore",
+        "cloud",
+        "waste container",
+        "water",
+        "ground",
+        "beach",
+        "coast",
+        "people",
+        "nature"
+    ]
+}

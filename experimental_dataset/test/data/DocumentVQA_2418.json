@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2418,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2418.png",
+    "question": "what is the # servings/ day of Saltines ?",
+    "label": [
+        "0.2"
+    ]
+}

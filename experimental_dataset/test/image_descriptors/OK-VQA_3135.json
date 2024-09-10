@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3135,
+    "caption": "a living room filled with furniture and a table",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "interior design",
+        "furniture",
+        "kitchen & dining room table",
+        "tableware",
+        "window",
+        "mirror",
+        "curtain",
+        "house",
+        "linens",
+        "plate",
+        "coffee table",
+        "tablecloth",
+        "vase",
+        "window treatment",
+        "room",
+        "dining",
+        "hotel",
+        "dining table",
+        "ceiling",
+        "chair",
+        "floor",
+        "dining room",
+        "table"
+    ]
+}

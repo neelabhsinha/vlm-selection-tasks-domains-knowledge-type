@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 206977,
+    "caption": "a fork and a piece of cake on a plate",
+    "object_tags": [
+        "kitchen utensil",
+        "flower",
+        "tableware",
+        "silverware",
+        "pink",
+        "fork"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 751,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_751.png",
+    "question": "How many farmers were empowered by ITC e-choupals?",
+    "label": [
+        "4 million",
+        "4 million farmers"
+    ]
+}

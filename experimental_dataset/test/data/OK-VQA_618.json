@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 618,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_618.png",
+    "question": "What is behind the plane?",
+    "label": [
+        "smoke",
+        "smoke",
+        "smoke",
+        "smoke",
+        "blue sky",
+        "blue sky",
+        "contrail",
+        "contrail",
+        "exhaust",
+        "exhaust"
+    ]
+}

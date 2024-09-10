@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 684,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_684.png",
+    "question": "Why style of beard does the man in the blue shirt have?",
+    "label": [
+        "goatee",
+        "goatee",
+        "goatee",
+        "goatee",
+        "goatee",
+        "goatee",
+        "no bread",
+        "no bread",
+        "gottee",
+        "gottee"
+    ]
+}

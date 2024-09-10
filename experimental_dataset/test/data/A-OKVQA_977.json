@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 977,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_977.png",
+    "question": "What likely made the markings in the open book?",
+    "label": "['human', 'owner', 'pen', 'manchine', 'pen', 'human', 'person', 'student', 'pen', 'pen']",
+    "choices": [
+        "crayon",
+        "printer",
+        "pen",
+        "paintbrush"
+    ],
+    "correct_choice": "pen"
+}

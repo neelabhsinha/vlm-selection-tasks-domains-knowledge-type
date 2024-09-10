@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4216,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4216.png",
+    "question": "When is the fax dated?",
+    "label": [
+        "5-20-98",
+        "5.20.98"
+    ]
+}

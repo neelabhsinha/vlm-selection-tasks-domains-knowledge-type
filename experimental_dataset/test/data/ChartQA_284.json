@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 284,
+    "image_path": "./experimental_dataset/test/images/ChartQA_284.png",
+    "question": "What is the value of Czechia??",
+    "label": [
+        "0.69"
+    ]
+}

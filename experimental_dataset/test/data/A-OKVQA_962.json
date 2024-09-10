@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 962,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_962.png",
+    "question": "The colors on the bus match the colors on what flag?",
+    "label": "['canada', 'ukraine', 'ukraine', 'ukraine', 'unknown', 'ukraine', 'ukraine', 'ukraine', 'sweden', 'lakers flag']",
+    "choices": [
+        "united states",
+        "mexico",
+        "sweden",
+        "italy"
+    ],
+    "correct_choice": "sweden"
+}

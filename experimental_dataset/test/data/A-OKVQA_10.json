@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 10,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_10.png",
+    "question": "What country do these planes belong to?",
+    "label": "['united states', 'united states', 'usa', 'united states', 'united states', 'ukraine', 'germany', 'germany', 'america', 'usa']",
+    "choices": [
+        "united states",
+        "germany",
+        "canada",
+        "mexico"
+    ],
+    "correct_choice": "united states"
+}

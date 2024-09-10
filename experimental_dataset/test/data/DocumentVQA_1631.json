@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1631,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1631.png",
+    "question": "What is the name of the person who has send the receipt?",
+    "label": [
+        "RHENDA H. STEELE",
+        "Rhenda H. Steele"
+    ]
+}

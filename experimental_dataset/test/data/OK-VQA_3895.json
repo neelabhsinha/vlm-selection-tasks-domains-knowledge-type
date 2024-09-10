@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3895,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3895.png",
+    "question": "Name the material from which this bat is made of?",
+    "label": [
+        "metal",
+        "metal",
+        "metal",
+        "metal",
+        "wood and nylon",
+        "wood and nylon",
+        "wood",
+        "wood",
+        "carbon fiber composite",
+        "carbon fiber composite"
+    ]
+}

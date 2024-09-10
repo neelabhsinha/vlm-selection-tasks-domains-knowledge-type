@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 441,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_441.png",
+    "question": "Where is this dog located?",
+    "label": "['bedroom', 'bed', 'home', 'on bed', 'bedroom', 'bed', 'bed', 'bed', 'floor', 'home']",
+    "choices": [
+        "park",
+        "office",
+        "home",
+        "vet"
+    ],
+    "correct_choice": "home"
+}

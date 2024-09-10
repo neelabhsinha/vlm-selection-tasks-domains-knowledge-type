@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3929,
+    "caption": "snowboarders standing on top of a snow covered slope",
+    "object_tags": [
+        "snow",
+        "person",
+        "footwear",
+        "clothing",
+        "outdoor",
+        "sport",
+        "snowshoe",
+        "skiing",
+        "ski",
+        "winter",
+        "snowboarding",
+        "sports equipment",
+        "winter sport",
+        "snowboard",
+        "freezing",
+        "ski equipment",
+        "people",
+        "group",
+        "sledding",
+        "standing"
+    ]
+}

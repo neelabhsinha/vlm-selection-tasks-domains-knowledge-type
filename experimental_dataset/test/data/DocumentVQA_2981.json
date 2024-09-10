@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2981,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2981.png",
+    "question": "What is value of Swanson Interests ?",
+    "label": [
+        "362.0"
+    ]
+}

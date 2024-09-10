@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2372,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2372.png",
+    "question": "What is the 'Name of Guest'  who comes from Ohio Power Organisation?",
+    "label": [
+        "J. ARTHUR LARSON",
+        "J. Arthur Larson"
+    ]
+}

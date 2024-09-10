@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 688,
+    "caption": "a man preparing food in a kitchen",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "food",
+        "food processing",
+        "cook",
+        "chef",
+        "countertop",
+        "meal",
+        "kitchen",
+        "fast food",
+        "kitchen appliance",
+        "preparing",
+        "chef's uniform",
+        "cookware and bakeware",
+        "wall",
+        "cooking",
+        "people"
+    ]
+}

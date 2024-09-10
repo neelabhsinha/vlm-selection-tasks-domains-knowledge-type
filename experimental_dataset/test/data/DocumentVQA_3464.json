@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3464,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3464.png",
+    "question": "What must this slip accompany?",
+    "label": [
+        "OFFICIAL INSTITUTIONAL PURCHASE ORDER",
+        "Official Institutional Purchase order"
+    ]
+}

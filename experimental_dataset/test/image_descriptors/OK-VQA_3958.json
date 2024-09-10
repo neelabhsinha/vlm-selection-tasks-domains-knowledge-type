@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3958,
+    "caption": "a hospital room with two nurses and a patient",
+    "object_tags": [
+        "room",
+        "indoor",
+        "clothing",
+        "person",
+        "hospital room",
+        "medical equipment",
+        "hospital",
+        "healthcare",
+        "medical",
+        "medical procedure",
+        "patient",
+        "health care provider",
+        "clinic",
+        "scrubs",
+        "service",
+        "nursing",
+        "wall"
+    ]
+}

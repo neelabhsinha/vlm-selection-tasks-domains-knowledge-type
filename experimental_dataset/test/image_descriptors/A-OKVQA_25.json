@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 25,
+    "caption": "a black and white cat drinking water from a white sink",
+    "object_tags": [
+        "bathroom",
+        "plumbing fixture",
+        "indoor",
+        "tap",
+        "bathroom accessory",
+        "plumbing",
+        "sink",
+        "wall",
+        "black",
+        "water basin",
+        "bathtub",
+        "cat"
+    ]
+}

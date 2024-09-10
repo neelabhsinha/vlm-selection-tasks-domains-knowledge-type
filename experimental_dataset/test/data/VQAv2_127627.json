@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 127627,
+    "image_path": "./experimental_dataset/test/images/VQAv2_127627.png",
+    "question": "Is this a hotel or bedroom?",
+    "label": [
+        "hotel",
+        "hotel",
+        "hotel",
+        "hotel",
+        "hotel",
+        "hotel",
+        "hotel room",
+        "hotel",
+        "hotel",
+        "hotel"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 662,
+    "caption": "a man sitting at a table with a plate of food",
+    "object_tags": [
+        "person",
+        "food",
+        "man",
+        "table",
+        "clothing",
+        "tableware",
+        "meal",
+        "fast food",
+        "brunch",
+        "sitting",
+        "window",
+        "indoor",
+        "breakfast",
+        "sandwich",
+        "drink"
+    ]
+}

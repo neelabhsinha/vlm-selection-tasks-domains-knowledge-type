@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1368,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1368.png",
+    "question": "What percentage of women between 25 and 34 years were smokers in England in 2019?",
+    "label": [
+        "22"
+    ]
+}

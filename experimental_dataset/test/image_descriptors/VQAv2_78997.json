@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 78997,
+    "caption": "a woman in a dress brushing her teeth in front of a bathroom mirror",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "sink",
+        "wall",
+        "woman",
+        "mirror",
+        "beauty salon",
+        "bathroom",
+        "hair",
+        "girl"
+    ]
+}

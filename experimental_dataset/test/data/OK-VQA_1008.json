@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1008,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1008.png",
+    "question": "What is the purpose of those umbrellas?",
+    "label": [
+        "block sun",
+        "block sun",
+        "block sun",
+        "block sun",
+        "rain",
+        "rain",
+        "shade",
+        "shade",
+        "shelter",
+        "shelter"
+    ]
+}

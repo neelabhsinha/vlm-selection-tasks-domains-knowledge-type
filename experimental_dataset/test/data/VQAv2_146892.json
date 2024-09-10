@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 146892,
+    "image_path": "./experimental_dataset/test/images/VQAv2_146892.png",
+    "question": "Are all these people drinking wine?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

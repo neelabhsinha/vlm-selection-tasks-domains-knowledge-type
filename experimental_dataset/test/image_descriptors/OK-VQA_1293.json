@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1293,
+    "caption": "a man in a suit and tie holding a glass of wine",
+    "object_tags": [
+        "person",
+        "clothing",
+        "suit",
+        "human face",
+        "formal wear",
+        "drink",
+        "flower",
+        "wine glass",
+        "man",
+        "tie",
+        "smile",
+        "wedding",
+        "indoor",
+        "blazer",
+        "fashion accessory",
+        "tuxedo",
+        "bow tie",
+        "wall",
+        "wearing"
+    ]
+}

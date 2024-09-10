@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 91039,
+    "caption": "a woman is sitting on a horse wearing a hat",
+    "object_tags": [
+        "person",
+        "mare",
+        "horse supplies",
+        "outdoor",
+        "stallion",
+        "mane",
+        "clothing",
+        "bridle",
+        "halter",
+        "rein",
+        "horse tack",
+        "fashion accessory",
+        "cowboy hat",
+        "horse",
+        "sorrel",
+        "sun hat",
+        "saddle",
+        "bit",
+        "equestrianism",
+        "grass",
+        "woman",
+        "girl",
+        "hat"
+    ]
+}

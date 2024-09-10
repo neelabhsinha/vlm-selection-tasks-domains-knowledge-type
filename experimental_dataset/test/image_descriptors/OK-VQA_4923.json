@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4923,
+    "caption": "two zebras standing next to each other in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "zebra",
+        "outdoor",
+        "grass",
+        "wildlife",
+        "terrestrial animal",
+        "painting",
+        "sky",
+        "standing",
+        "field"
+    ]
+}

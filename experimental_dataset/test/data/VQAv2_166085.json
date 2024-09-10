@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 166085,
+    "image_path": "./experimental_dataset/test/images/VQAv2_166085.png",
+    "question": "Where is the cow going?",
+    "label": [
+        "vertigo",
+        "to left",
+        "grazing",
+        "to eat",
+        "left",
+        "nowhere",
+        "home",
+        "barn",
+        "home",
+        "down sidewalk"
+    ]
+}

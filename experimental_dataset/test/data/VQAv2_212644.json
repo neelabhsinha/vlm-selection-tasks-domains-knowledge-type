@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 212644,
+    "image_path": "./experimental_dataset/test/images/VQAv2_212644.png",
+    "question": "How many buildings can be seen?",
+    "label": [
+        "several",
+        "5",
+        "6",
+        "7",
+        "6",
+        "7",
+        "6",
+        "several",
+        "7",
+        "6"
+    ]
+}

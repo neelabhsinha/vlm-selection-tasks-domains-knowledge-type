@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 159,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_159.png",
+    "question": "What video game system is the man playing?",
+    "label": "['nintendo wii', 'wii', 'wii', 'wii', 'wii', 'wii', 'wii', 'wii', 'wii', 'wii']",
+    "choices": [
+        "xbox one",
+        "playstation 5",
+        "nintendo wii",
+        "atari"
+    ],
+    "correct_choice": "nintendo wii"
+}

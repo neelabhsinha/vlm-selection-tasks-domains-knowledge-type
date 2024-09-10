@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 823,
+    "caption": "a black and white cat looking out of a window",
+    "object_tags": [
+        "window",
+        "small to medium-sized cats",
+        "indoor",
+        "pet",
+        "cat",
+        "domestic cat",
+        "felidae",
+        "mammal",
+        "animal",
+        "whiskers",
+        "white",
+        "sitting",
+        "black"
+    ]
+}

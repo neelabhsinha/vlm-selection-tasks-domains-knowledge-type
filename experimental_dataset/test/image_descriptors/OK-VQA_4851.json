@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4851,
+    "caption": "a variety of kitchen utensils hanging on a wall",
+    "object_tags": [
+        "indoor",
+        "tool",
+        "kitchen utensil",
+        "wall",
+        "sink",
+        "kitchenware",
+        "kitchen"
+    ]
+}

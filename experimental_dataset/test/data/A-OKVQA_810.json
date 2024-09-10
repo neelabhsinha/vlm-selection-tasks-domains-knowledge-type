@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 810,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_810.png",
+    "question": "What shape are the support beams that hold up the building?",
+    "label": "['rectangle', 'walls', 'standard', 'square', 'squared', 'square', 'building', 'square', 'ibeam', 'square']",
+    "choices": [
+        "circle",
+        "rectangle",
+        "square",
+        "oval"
+    ],
+    "correct_choice": "square"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 131902,
+    "image_path": "./experimental_dataset/test/images/VQAv2_131902.png",
+    "question": "How many eggs are on the plate?",
+    "label": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "3",
+        "2",
+        "2",
+        "2",
+        "2"
+    ]
+}

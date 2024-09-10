@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 896,
+    "caption": "a seagull flying over a beach next to the ocean",
+    "object_tags": [
+        "outdoor",
+        "sea gull",
+        "sky",
+        "cloud",
+        "gull",
+        "water",
+        "animal",
+        "beach",
+        "aquatic bird",
+        "bird",
+        "ground",
+        "ocean",
+        "sea"
+    ]
+}

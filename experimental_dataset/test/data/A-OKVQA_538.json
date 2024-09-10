@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 538,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_538.png",
+    "question": "What aboutthese kids makes it likely they go to school together?",
+    "label": "['play', 'clothes', 'uniform', 'same uniforms', 'clothing', 'same uniform', 'uniform', 'uniform', 'uniforms', 'friends']",
+    "choices": [
+        "same coach",
+        "same uniform",
+        "same parking",
+        "same house"
+    ],
+    "correct_choice": "same uniform"
+}

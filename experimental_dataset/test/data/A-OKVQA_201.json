@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 201,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_201.png",
+    "question": "What property does the blue and green fence have?",
+    "label": "['solid', 'thickness', 'vancouver olympics', 'tunnel', 'soft', 'olympics', 'snow', 'olympic logo', 'amusement park', 'probably impenetrable']",
+    "choices": [
+        "soft",
+        "hard",
+        "wet",
+        "hot"
+    ],
+    "correct_choice": "soft"
+}

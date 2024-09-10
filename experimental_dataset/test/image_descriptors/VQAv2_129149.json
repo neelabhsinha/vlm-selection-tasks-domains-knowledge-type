@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 129149,
+    "caption": "a baby sitting in a high chair eating a cake",
+    "object_tags": [
+        "human face",
+        "person",
+        "toddler",
+        "clothing",
+        "baby",
+        "indoor",
+        "food",
+        "chair",
+        "child",
+        "eating",
+        "young"
+    ]
+}

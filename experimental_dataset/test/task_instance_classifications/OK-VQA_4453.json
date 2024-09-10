@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4453,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Linguistics",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Other"
+    ]
+}

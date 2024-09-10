@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4114,
+    "caption": "a bicycle with a basket on top of it",
+    "object_tags": [
+        "wheel",
+        "umbrella",
+        "bicycle wheel",
+        "outdoor",
+        "tire",
+        "transport",
+        "land vehicle",
+        "vehicle",
+        "spoke",
+        "street",
+        "building",
+        "bicycle",
+        "bicycle tire",
+        "tricycle",
+        "ground",
+        "bike"
+    ]
+}

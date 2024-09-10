@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3958,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3958.png",
+    "question": "In south central region which county has the highest population?",
+    "label": [
+        "Franklin"
+    ]
+}

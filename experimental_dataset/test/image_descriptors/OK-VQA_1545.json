@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1545,
+    "caption": "a kitchen with a stove, microwave, and dishwasher",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "home appliance",
+        "cabinetry",
+        "kitchen appliance",
+        "countertop",
+        "sink",
+        "drawer",
+        "furniture",
+        "bed",
+        "chest of drawers",
+        "kitchen",
+        "microwave",
+        "appliance",
+        "room"
+    ]
+}

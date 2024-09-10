@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5282,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Social Media",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Social Knowledge",
+        "Cultural Knowledge"
+    ]
+}

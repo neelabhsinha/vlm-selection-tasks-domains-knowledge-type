@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 460,
+    "image_path": "./experimental_dataset/test/images/ChartQA_460.png",
+    "question": "What's the percentage of young people between 18 and 29 who know most of their neighbors?",
+    "label": [
+        "20"
+    ]
+}

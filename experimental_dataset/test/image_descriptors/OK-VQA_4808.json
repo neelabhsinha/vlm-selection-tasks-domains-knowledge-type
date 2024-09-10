@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4808,
+    "caption": "a box filled with different types of donuts",
+    "object_tags": [
+        "donut",
+        "snack",
+        "baked goods",
+        "dessert",
+        "doughnut",
+        "indoor",
+        "fast food",
+        "finger food",
+        "food"
+    ]
+}

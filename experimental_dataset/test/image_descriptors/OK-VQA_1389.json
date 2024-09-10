@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1389,
+    "caption": "a man riding a wave on top of a surfboard",
+    "object_tags": [
+        "wave",
+        "surf",
+        "outdoor",
+        "person",
+        "surfboard",
+        "riding",
+        "water",
+        "ocean",
+        "surfing",
+        "sport",
+        "boardsport",
+        "surfing equipment",
+        "wind wave",
+        "wakesurfing",
+        "surface water sports",
+        "skimboarding",
+        "nature"
+    ]
+}

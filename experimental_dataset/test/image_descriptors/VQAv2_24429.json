@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 24429,
+    "caption": "a man and woman eating pizza on a picnic table",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "sky",
+        "fast food",
+        "man",
+        "food",
+        "meal",
+        "people",
+        "woman",
+        "pizza",
+        "picnic",
+        "grass",
+        "table",
+        "group",
+        "family"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 840,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_840.png",
+    "question": "What has the man in the air used to wrap his hand?",
+    "label": "['tape', 'athletic tape', 'ace bandage', 'ace bandage', 'bandage tape', 'tape', 'tape', 'gauze', 'athletic tape', 'tape']",
+    "choices": [
+        "rubber",
+        "tape",
+        "chords",
+        "string"
+    ],
+    "correct_choice": "tape"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 160965,
+    "image_path": "./experimental_dataset/test/images/VQAv2_160965.png",
+    "question": "Is there a person standing there?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no"
+    ]
+}

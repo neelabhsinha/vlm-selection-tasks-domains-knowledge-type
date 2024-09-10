@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 837,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_837.png",
+    "question": "Is this surfer a beginner intermediate or advanced?",
+    "label": [
+        "advanced",
+        "advanced",
+        "advanced",
+        "advanced",
+        "advanced",
+        "advanced",
+        "beginner",
+        "beginner",
+        "intermediate",
+        "intermediate"
+    ]
+}

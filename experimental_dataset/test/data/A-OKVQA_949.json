@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 949,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_949.png",
+    "question": "What is the biggest risk of this sport?",
+    "label": "['falling', 'broken bone', 'scrapes', 'falling', 'death', 'broken bones', 'falling', 'falling', 'thrown away', 'broken bones']",
+    "choices": [
+        "obesity",
+        "stroke",
+        "heart attack",
+        "broken bones"
+    ],
+    "correct_choice": "broken bones"
+}

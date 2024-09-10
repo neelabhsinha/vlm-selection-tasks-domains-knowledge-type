@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4848,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4848.png",
+    "question": "In which year Old Age assistance program was established?",
+    "label": [
+        "1935"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 611,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_611.png",
+    "question": "What time is it in their kitchen?",
+    "label": "['1230', '1220', '1240', '1220', '119', 'one twenty', 'afternoon', '120', 'one twenty', 'twelve twenty']",
+    "choices": [
+        "350",
+        "800",
+        "1220",
+        "130"
+    ],
+    "correct_choice": "1220"
+}

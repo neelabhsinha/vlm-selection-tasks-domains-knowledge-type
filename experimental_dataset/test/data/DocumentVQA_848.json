@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 848,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_848.png",
+    "question": "What is the Net pounds Out?",
+    "label": [
+        "487"
+    ]
+}

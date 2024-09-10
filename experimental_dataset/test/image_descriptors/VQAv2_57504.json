@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 57504,
+    "caption": "people are riding in the back of a truck",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "clothing",
+        "person",
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "people",
+        "man",
+        "umbrella",
+        "transport",
+        "tire",
+        "road",
+        "ground",
+        "group",
+        "sitting",
+        "street",
+        "driving"
+    ]
+}

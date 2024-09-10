@@ -1,0 +1,16 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5036,
+    "caption": "an old photograph of a man with a flag",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "letter",
+        "paper",
+        "paper product",
+        "signature",
+        "envelope",
+        "document",
+        "black and white"
+    ]
+}

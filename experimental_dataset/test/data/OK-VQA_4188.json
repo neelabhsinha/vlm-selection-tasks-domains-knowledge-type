@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4188,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4188.png",
+    "question": "What type of laptop is this?",
+    "label": [
+        "dell",
+        "dell",
+        "dell",
+        "dell",
+        "dell",
+        "dell",
+        "lenovo",
+        "lenovo",
+        "mac",
+        "mac"
+    ]
+}

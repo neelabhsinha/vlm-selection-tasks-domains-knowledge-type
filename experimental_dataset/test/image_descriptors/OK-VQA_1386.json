@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1386,
+    "caption": "a toy fire truck with people riding on it",
+    "object_tags": [
+        "wheel",
+        "vehicle",
+        "building",
+        "land vehicle",
+        "outdoor",
+        "transport",
+        "tire",
+        "red",
+        "parked",
+        "street",
+        "car"
+    ]
+}

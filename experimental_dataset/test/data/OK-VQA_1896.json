@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1896,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1896.png",
+    "question": "Name the family to which this bird belongs to shown in this picture?",
+    "label": [
+        "woodpecker",
+        "woodpecker",
+        "woodpecker",
+        "woodpecker",
+        "crane",
+        "crane",
+        "mockingbird",
+        "mockingbird",
+        "pigeon",
+        "pigeon"
+    ]
+}

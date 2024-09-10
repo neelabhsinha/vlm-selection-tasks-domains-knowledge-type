@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 347,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_347.png",
+    "question": "What is the black object on the counter in the left corner called?",
+    "label": "['kettle', 'kettle', 'kettle', 'kettle', 'kettle', 'kettle', 'kettle', 'teapot', 'tea kettle', 'kettle']",
+    "choices": [
+        "teapot",
+        "mason jar",
+        "vase",
+        "microwave"
+    ],
+    "correct_choice": "teapot"
+}

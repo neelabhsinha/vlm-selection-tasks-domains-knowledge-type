@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1083,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1083.png",
+    "question": "What is the boy holding in his left hand?",
+    "label": "['remote control', 'remote', 'remote', 'remote', 'remote', 'remote', 'remote control', 'tv remote', 'remote control', 'remote']",
+    "choices": [
+        "phone",
+        "remote control",
+        "hat",
+        "pizza"
+    ],
+    "correct_choice": "remote control"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1042,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1042.png",
+    "question": "What is the first number on the motorcycle?",
+    "label": "['four', 'four', '4837280', 'four', 'four', 'four', 'four', 'four', 'four', 'four']",
+    "choices": [
+        "three",
+        "two",
+        "six",
+        "four"
+    ],
+    "correct_choice": "four"
+}

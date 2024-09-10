@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4469,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4469.png",
+    "question": "How was this phone case made?",
+    "label": [
+        "crochet",
+        "crochet",
+        "crochet",
+        "crochet",
+        "knit",
+        "knit",
+        "wool",
+        "wool",
+        "china",
+        "china"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 239,
+    "caption": "a man wearing a suit and tie",
+    "object_tags": [
+        "tie",
+        "clothing",
+        "person",
+        "necktie",
+        "collar",
+        "blazer",
+        "formal wear",
+        "dress shirt",
+        "wearing",
+        "button",
+        "outdoor",
+        "striped",
+        "suit",
+        "shirt"
+    ]
+}

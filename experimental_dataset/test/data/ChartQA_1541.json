@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1541,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1541.png",
+    "question": "What was the rate of mental health hospital admissions per 100,000 population in the Eastern Mediterranean region in 2017?",
+    "label": [
+        "42.3"
+    ]
+}

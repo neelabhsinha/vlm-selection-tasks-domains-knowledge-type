@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 82177,
+    "image_path": "./experimental_dataset/test/images/VQAv2_82177.png",
+    "question": "What color is the dog?",
+    "label": [
+        "white and brown",
+        "white",
+        "white and brown",
+        "white and brown",
+        "white",
+        "brown and white",
+        "white, brown",
+        "white and brown",
+        "white, brown",
+        "white"
+    ]
+}

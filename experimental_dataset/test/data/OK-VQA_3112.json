@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3112,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3112.png",
+    "question": "Does this look like the owner of the suitcase is packing or unpacking?",
+    "label": [
+        "pack",
+        "pack",
+        "pack",
+        "pack",
+        "pack",
+        "pack",
+        "pack",
+        "pack",
+        "unpack",
+        "unpack"
+    ]
+}

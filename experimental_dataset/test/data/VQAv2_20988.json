@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 20988,
+    "image_path": "./experimental_dataset/test/images/VQAv2_20988.png",
+    "question": "How many pictures?",
+    "label": [
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+    ]
+}

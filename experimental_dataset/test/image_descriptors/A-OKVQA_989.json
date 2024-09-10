@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 989,
+    "caption": "a man and a woman standing next to each other in a kitchen",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "indoor",
+        "man",
+        "wall",
+        "floor",
+        "people",
+        "furniture",
+        "group",
+        "woman",
+        "standing"
+    ]
+}

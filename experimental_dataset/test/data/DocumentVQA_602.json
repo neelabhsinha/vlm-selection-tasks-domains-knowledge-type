@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 602,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_602.png",
+    "question": "What is the total  annual compensation in dollars?",
+    "label": [
+        "$203,280"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 25154,
+    "caption": "a pizza sitting on top of a box in a box",
+    "object_tags": [
+        "pizza",
+        "food",
+        "dish",
+        "fast food",
+        "pizza cheese",
+        "italian food",
+        "california-style pizza",
+        "flatbread",
+        "sicilian pizza",
+        "baked goods",
+        "indoor",
+        "box",
+        "cheese"
+    ]
+}

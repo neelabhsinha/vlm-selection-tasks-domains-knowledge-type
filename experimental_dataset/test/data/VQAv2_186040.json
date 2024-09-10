@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 186040,
+    "image_path": "./experimental_dataset/test/images/VQAv2_186040.png",
+    "question": "What is the motorcycle carrying?",
+    "label": [
+        "people",
+        "people",
+        "people",
+        "man",
+        "person",
+        "human",
+        "human",
+        "people",
+        "people",
+        "person"
+    ]
+}

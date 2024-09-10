@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4939,
+    "caption": "a man riding a motorcycle down a road next to a fence",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "sky",
+        "tree",
+        "motorbike",
+        "tire",
+        "motorcycling",
+        "auto part",
+        "asphalt",
+        "motorcycle fairing",
+        "motorcycle helmet",
+        "tarmac",
+        "motorcycle",
+        "street",
+        "riding",
+        "ground"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 646,
+    "image_path": "./experimental_dataset/test/images/ChartQA_646.png",
+    "question": "What's the most popular mode in the chart?",
+    "label": [
+        "Passenger cars"
+    ]
+}

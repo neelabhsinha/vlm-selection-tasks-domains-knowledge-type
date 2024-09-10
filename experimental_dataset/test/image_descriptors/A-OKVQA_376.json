@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 376,
+    "caption": "a living room filled with furniture and a large window",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "floor",
+        "interior design",
+        "room",
+        "table",
+        "living room",
+        "den",
+        "coffee table",
+        "chair",
+        "couch",
+        "window",
+        "flooring",
+        "studio couch",
+        "house",
+        "ceiling",
+        "apartment",
+        "furniture",
+        "hotel",
+        "home"
+    ]
+}

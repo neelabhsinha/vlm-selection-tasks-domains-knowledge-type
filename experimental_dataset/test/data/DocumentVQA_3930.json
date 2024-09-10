@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3930,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3930.png",
+    "question": "For which department is research budget increrment highest in FY 75-77?",
+    "label": [
+        "Social Studies"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 653,
+    "image_path": "./experimental_dataset/test/images/ChartQA_653.png",
+    "question": "Was the risk index of 2015 and 2016 together larger than 2020?",
+    "label": [
+        "Yes"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 682,
+    "image_path": "./experimental_dataset/test/images/ChartQA_682.png",
+    "question": "What is the per capita real Gross Domestic Product of Montana in the year 2007 (in chained 2012 US dollars)?",
+    "label": [
+        "41856"
+    ]
+}

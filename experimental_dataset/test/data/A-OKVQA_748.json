@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 748,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_748.png",
+    "question": "What game is being played on the table?",
+    "label": "['scrabble', 'checkers', 'checkers', 'checkers', 'scrabble', 'checkers', 'draughts', 'scrabble', 'checkers', 'checkers']",
+    "choices": [
+        "draughts",
+        "monopoly",
+        "cards",
+        "chess"
+    ],
+    "correct_choice": "draughts"
+}

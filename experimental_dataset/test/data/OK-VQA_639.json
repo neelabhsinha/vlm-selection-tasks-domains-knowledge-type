@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 639,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_639.png",
+    "question": "Which popular digestive aid is the color of this table cloth?",
+    "label": [
+        "pepto bismol",
+        "pepto bismol",
+        "pepto bismol",
+        "pepto bismol",
+        "pepto bismal",
+        "pepto bismal",
+        "digest gold",
+        "digest gold",
+        "pepto",
+        "pepto"
+    ]
+}

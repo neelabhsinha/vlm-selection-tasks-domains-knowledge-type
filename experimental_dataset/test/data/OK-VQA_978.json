@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 978,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_978.png",
+    "question": "Who did this in the rain in the name of science?",
+    "label": [
+        "benjamin franklin",
+        "benjamin franklin",
+        "benjamin franklin",
+        "benjamin franklin",
+        "einstien",
+        "einstien",
+        "edison",
+        "edison",
+        "ben franklin",
+        "ben franklin"
+    ]
+}

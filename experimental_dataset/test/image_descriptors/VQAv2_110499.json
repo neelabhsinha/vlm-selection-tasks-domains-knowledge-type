@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 110499,
+    "caption": "a cat laying in a suitcase on top of a bed",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "cat",
+        "small to medium-sized cats",
+        "felidae",
+        "laying",
+        "bag",
+        "orange"
+    ]
+}

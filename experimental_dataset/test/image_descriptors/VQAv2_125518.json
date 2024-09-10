@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 125518,
+    "caption": "a large group of people sitting at a table",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "flower",
+        "wall",
+        "table",
+        "people",
+        "tableware",
+        "human face",
+        "smile",
+        "restaurant",
+        "group",
+        "man",
+        "bottle",
+        "woman",
+        "sitting",
+        "food",
+        "wedding"
+    ]
+}

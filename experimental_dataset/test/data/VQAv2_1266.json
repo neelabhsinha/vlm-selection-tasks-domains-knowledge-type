@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 1266,
+    "image_path": "./experimental_dataset/test/images/VQAv2_1266.png",
+    "question": "What activity is depicted here?",
+    "label": [
+        "falling while snowboarding",
+        "snowboarding",
+        "snowboarding",
+        "snowboarding",
+        "snowboarding",
+        "falling",
+        "snowboarding",
+        "crashing",
+        "snowboarding",
+        "snowboarding"
+    ]
+}

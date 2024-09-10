@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 80387,
+    "caption": "a man helping a little girl brush her teeth",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "human face",
+        "wall",
+        "toddler",
+        "boy",
+        "baby",
+        "comfort",
+        "window",
+        "child",
+        "floor"
+    ]
+}

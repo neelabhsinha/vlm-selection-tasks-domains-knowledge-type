@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 143878,
+    "caption": "a row of urinals are lined up against a wall",
+    "object_tags": [
+        "cylinder",
+        "indoor",
+        "lined",
+        "metal",
+        "public"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 892,
+    "image_path": "./experimental_dataset/test/images/ChartQA_892.png",
+    "question": "How many restaurants had many franchise in the year 2011?",
+    "label": [
+        "1592"
+    ]
+}

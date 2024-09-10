@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 506,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_506.png",
+    "question": "What is the number on his dress?",
+    "label": "['1369', '1369', 'thirteen sixtynine', '1369', '1369', 'thirteen sixtynine', '1369', '1369', 'thirteen sixtynine', '1369']",
+    "choices": [
+        "1399",
+        "1369",
+        "1389",
+        "1379"
+    ],
+    "correct_choice": "1369"
+}

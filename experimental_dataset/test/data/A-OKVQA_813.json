@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 813,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_813.png",
+    "question": "What activity has just ended?",
+    "label": "['tennis', 'tennis competition', 'tennis game', 'tennis', 'tennis game', 'tennis', 'tennis', 'tennis', 'tennis match', 'tennis']",
+    "choices": [
+        "tennis lesson",
+        "picnic",
+        "tennis competition",
+        "hiking"
+    ],
+    "correct_choice": "tennis competition"
+}

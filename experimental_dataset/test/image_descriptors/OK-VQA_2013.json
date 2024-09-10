@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2013,
+    "caption": "a large room with a large clock on the wall",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "aisle",
+        "chapel",
+        "cathedral",
+        "interior design",
+        "arcade",
+        "building",
+        "vault",
+        "wall",
+        "floor",
+        "church",
+        "room",
+        "window",
+        "large",
+        "ceiling"
+    ]
+}

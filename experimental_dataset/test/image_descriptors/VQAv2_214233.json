@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 214233,
+    "caption": "a train is going down the tracks under a bridge",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "public transport",
+        "transport",
+        "railway",
+        "track",
+        "rolling stock",
+        "transport hub",
+        "metropolitan area",
+        "train",
+        "railroad",
+        "person",
+        "passing",
+        "city",
+        "travel"
+    ]
+}

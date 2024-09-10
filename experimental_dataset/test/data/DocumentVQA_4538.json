@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4538,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4538.png",
+    "question": "What is the value of  Atole for \"Flourine\" during the time period October 1, 1971 to February 28,1977?",
+    "label": [
+        ".2"
+    ]
+}

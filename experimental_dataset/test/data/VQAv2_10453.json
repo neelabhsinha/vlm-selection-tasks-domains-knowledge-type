@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 10453,
+    "image_path": "./experimental_dataset/test/images/VQAv2_10453.png",
+    "question": "What color are the walls?",
+    "label": [
+        "white",
+        "beige",
+        "white",
+        "tan",
+        "tan",
+        "white",
+        "tan",
+        "white",
+        "yellow",
+        "tan"
+    ]
+}

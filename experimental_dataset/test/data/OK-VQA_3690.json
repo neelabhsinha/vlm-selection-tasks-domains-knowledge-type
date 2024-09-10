@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3690,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3690.png",
+    "question": "What other sport is popular on snowy mountains?",
+    "label": [
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "snowboard",
+        "sled",
+        "sled",
+        "ski",
+        "ski"
+    ]
+}

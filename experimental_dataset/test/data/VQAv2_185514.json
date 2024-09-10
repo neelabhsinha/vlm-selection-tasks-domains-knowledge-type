@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 185514,
+    "image_path": "./experimental_dataset/test/images/VQAv2_185514.png",
+    "question": "What is on the face above the scarves?",
+    "label": [
+        "glasses",
+        "eyeglasses",
+        "glasses",
+        "glasses",
+        "glasses",
+        "glasses",
+        "glasses",
+        "cap",
+        "glasses",
+        "glasses"
+    ]
+}

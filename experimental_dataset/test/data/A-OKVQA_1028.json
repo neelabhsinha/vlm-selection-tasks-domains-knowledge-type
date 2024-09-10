@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1028,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1028.png",
+    "question": "Where is this person watching television?",
+    "label": "['living room', 'living room', 'couch', 'living room', 'sofa', 'behind camera', 'living room', 'livingroom', 'home', 'at sofa']",
+    "choices": [
+        "bar",
+        "home",
+        "store",
+        "office"
+    ],
+    "correct_choice": "home"
+}

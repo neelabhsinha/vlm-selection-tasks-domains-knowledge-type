@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 17,
+    "caption": "a cat sitting on the floor next to a stove",
+    "object_tags": [
+        "cat",
+        "indoor",
+        "kitchen appliance",
+        "cabinet",
+        "small to medium-sized cats",
+        "home appliance",
+        "felidae",
+        "floor",
+        "appliance",
+        "kitchen",
+        "domestic cat",
+        "window",
+        "oven",
+        "animal"
+    ]
+}

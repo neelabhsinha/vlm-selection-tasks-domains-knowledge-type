@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3398,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3398.png",
+    "question": "What is the code written at the bottom right end?",
+    "label": [
+        "BMT-MM-DFS-00001942",
+        "DEMO-04159-00201"
+    ]
+}

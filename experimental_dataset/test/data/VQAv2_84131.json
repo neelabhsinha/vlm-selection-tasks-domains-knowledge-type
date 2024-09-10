@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 84131,
+    "image_path": "./experimental_dataset/test/images/VQAv2_84131.png",
+    "question": "What is the color of the surfboard?",
+    "label": [
+        "blue",
+        "blue",
+        "blue and white",
+        "white",
+        "blue",
+        "blue",
+        "blue, white",
+        "blue",
+        "blue",
+        "blue and white"
+    ]
+}

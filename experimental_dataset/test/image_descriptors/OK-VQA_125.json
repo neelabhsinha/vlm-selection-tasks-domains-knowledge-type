@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 125,
+    "caption": "a woman brushing her teeth in front of a man",
+    "object_tags": [
+        "person",
+        "wall",
+        "indoor",
+        "human face",
+        "clothing",
+        "mirror",
+        "people"
+    ]
+}

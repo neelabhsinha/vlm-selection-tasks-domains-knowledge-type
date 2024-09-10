@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1451,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1451.png",
+    "question": "What was the unemployment rate in New Hampshire in 2020?",
+    "label": [
+        "6.7"
+    ]
+}

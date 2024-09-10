@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 994,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_994.png",
+    "question": "What is this elephant about to do?",
+    "label": [
+        "poop",
+        "poop",
+        "poop",
+        "poop",
+        "defecate",
+        "defecate",
+        "walk",
+        "walk",
+        "deficate",
+        "deficate"
+    ]
+}

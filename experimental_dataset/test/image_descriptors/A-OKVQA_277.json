@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 277,
+    "caption": "a desk with a computer on top of it",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "floor",
+        "computer desk",
+        "interior design",
+        "office chair",
+        "computer monitor",
+        "computer",
+        "houseplant",
+        "office building",
+        "personal computer",
+        "table",
+        "office",
+        "desktop computer",
+        "writing desk",
+        "room",
+        "chair",
+        "desk",
+        "home"
+    ]
+}

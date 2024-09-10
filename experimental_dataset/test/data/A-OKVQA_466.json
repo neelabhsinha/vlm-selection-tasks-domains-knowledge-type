@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 466,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_466.png",
+    "question": "What is the red bag around the womans waist called?",
+    "label": "['purse', 'purse', 'purse', 'fanny pack', 'purse', 'fanny pack', 'purse', 'purse', 'purse', 'purse']",
+    "choices": [
+        "purse",
+        "wallet",
+        "pocketbook",
+        "makeup bag"
+    ],
+    "correct_choice": "purse"
+}

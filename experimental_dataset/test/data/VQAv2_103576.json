@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 103576,
+    "image_path": "./experimental_dataset/test/images/VQAv2_103576.png",
+    "question": "Is this animal less than one year old?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "0",
+        "more",
+        "no",
+        "no",
+        "no"
+    ]
+}

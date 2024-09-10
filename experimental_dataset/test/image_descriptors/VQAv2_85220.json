@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 85220,
+    "caption": "a large jetliner sitting on top of an airport tarmac",
+    "object_tags": [
+        "outdoor",
+        "plane",
+        "sky",
+        "aircraft",
+        "vehicle",
+        "airplane",
+        "air travel",
+        "airliner",
+        "transport",
+        "airline",
+        "aircraft engine",
+        "fence",
+        "aviation",
+        "jet engine",
+        "aerospace engineering",
+        "jet aircraft",
+        "flap",
+        "wing",
+        "airport",
+        "narrow-body aircraft",
+        "jet",
+        "air",
+        "runway",
+        "airbus"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 1961,
+    "caption": "a drawing of a penguin on a paper",
+    "object_tags": [
+        "text",
+        "plot",
+        "line",
+        "diagram",
+        "screenshot",
+        "number"
+    ]
+}

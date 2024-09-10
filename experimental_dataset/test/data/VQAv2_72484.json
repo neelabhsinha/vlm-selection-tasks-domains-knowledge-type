@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 72484,
+    "image_path": "./experimental_dataset/test/images/VQAv2_72484.png",
+    "question": "Do you think the girl is cute?",
+    "label": [
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes"
+    ]
+}

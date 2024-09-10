@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3537,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3537.png",
+    "question": "What kind of restaurant did that cup come from?",
+    "label": [
+        "fast food",
+        "fast food",
+        "fast food",
+        "fast food",
+        "starbucks",
+        "starbucks",
+        "sandwhich shop",
+        "sandwhich shop",
+        "deli",
+        "deli"
+    ]
+}

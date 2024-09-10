@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 6226,
+    "image_path": "./experimental_dataset/test/images/VQAv2_6226.png",
+    "question": "Does this boat have an engine?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

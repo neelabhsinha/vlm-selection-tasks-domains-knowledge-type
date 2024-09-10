@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4734,
+    "caption": "a baseball glove and a baseball on a table",
+    "object_tags": [
+        "baseball",
+        "sport",
+        "athletic game",
+        "sports equipment",
+        "ball",
+        "sports uniform",
+        "bat-and-ball games",
+        "baseball equipment",
+        "baseball uniform",
+        "baseball glove",
+        "ball game",
+        "baseball player",
+        "baseball protective gear",
+        "player",
+        "person",
+        "glove",
+        "indoor",
+        "ground",
+        "softball"
+    ]
+}

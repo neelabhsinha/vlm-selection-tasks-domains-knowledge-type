@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4345,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4345.png",
+    "question": "What time of day is it?",
+    "label": [
+        "afternoon",
+        "afternoon",
+        "afternoon",
+        "afternoon",
+        "afternoon",
+        "afternoon",
+        "morn",
+        "morn",
+        "morn",
+        "morn"
+    ]
+}

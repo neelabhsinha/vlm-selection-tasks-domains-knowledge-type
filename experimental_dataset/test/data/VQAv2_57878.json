@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 57878,
+    "image_path": "./experimental_dataset/test/images/VQAv2_57878.png",
+    "question": "What's taking off?",
+    "label": [
+        "plane",
+        "airplane",
+        "airplane",
+        "plane",
+        "airplane",
+        "plane",
+        "plane",
+        "airplane",
+        "plane",
+        "airplane"
+    ]
+}

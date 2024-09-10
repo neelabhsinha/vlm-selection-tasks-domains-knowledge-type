@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 254,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_254.png",
+    "question": "What grip does this woman have on this tennis racket?",
+    "label": [
+        "tight",
+        "tight",
+        "tight",
+        "tight",
+        "forehand",
+        "forehand",
+        "right",
+        "right",
+        "strong grip",
+        "strong grip"
+    ]
+}

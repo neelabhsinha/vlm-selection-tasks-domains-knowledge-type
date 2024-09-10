@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 355,
+    "caption": "a statue of a man sitting on a bench",
+    "object_tags": [
+        "statue",
+        "sculpture",
+        "man",
+        "footwear",
+        "bronze sculpture",
+        "clothing",
+        "art",
+        "monument",
+        "person",
+        "outdoor",
+        "ground",
+        "building",
+        "street"
+    ]
+}

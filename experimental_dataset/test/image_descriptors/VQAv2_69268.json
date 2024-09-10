@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 69268,
+    "caption": "a hot dog and french fries on a tray",
+    "object_tags": [
+        "food",
+        "fast food",
+        "snack",
+        "sausage",
+        "bread",
+        "knackwurst",
+        "fried food",
+        "meal",
+        "american food",
+        "bratwurst",
+        "breakfast sausage",
+        "indoor",
+        "dog",
+        "hotdog",
+        "container"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 185280,
+    "image_path": "./experimental_dataset/test/images/VQAv2_185280.png",
+    "question": "Does this boy bat left or right handed?",
+    "label": [
+        "right",
+        "left",
+        "left",
+        "left",
+        "right",
+        "left",
+        "left",
+        "left",
+        "left",
+        "left"
+    ]
+}

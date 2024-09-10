@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 158748,
+    "caption": "two slices of pepperoni pizza on a white plate",
+    "object_tags": [
+        "food",
+        "pizza",
+        "fast food",
+        "dish",
+        "italian food",
+        "cuisine",
+        "pizza cheese",
+        "flatbread",
+        "indoor",
+        "pepperoni",
+        "cheese"
+    ]
+}

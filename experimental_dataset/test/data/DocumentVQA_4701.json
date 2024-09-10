@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4701,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4701.png",
+    "question": "What is the applicant's \"duty\" in mayo clinic?",
+    "label": [
+        "research"
+    ]
+}

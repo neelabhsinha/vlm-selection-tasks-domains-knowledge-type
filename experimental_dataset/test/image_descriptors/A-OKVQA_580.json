@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 580,
+    "caption": "a street corner with a stop sign and people walking on the sidewalk",
+    "object_tags": [
+        "outdoor",
+        "footwear",
+        "building",
+        "clothing",
+        "car",
+        "man",
+        "sky",
+        "person",
+        "road",
+        "skyscraper",
+        "land vehicle",
+        "street",
+        "downtown",
+        "pedestrian",
+        "vehicle",
+        "urban area",
+        "metropolitan area",
+        "traffic sign",
+        "sidewalk",
+        "city",
+        "public space",
+        "ground",
+        "people",
+        "way",
+        "standing",
+        "sign"
+    ]
+}

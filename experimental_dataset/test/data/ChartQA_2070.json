@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2070,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2070.png",
+    "question": "What was the total number of registered cars by the end of 2018?",
+    "label": [
+        "322817"
+    ]
+}

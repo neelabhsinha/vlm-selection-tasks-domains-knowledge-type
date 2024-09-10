@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 994,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_994.png",
+    "question": "What is the value specified in 'M' column of Date of Exam ?",
+    "label": [
+        "07",
+        "7"
+    ]
+}

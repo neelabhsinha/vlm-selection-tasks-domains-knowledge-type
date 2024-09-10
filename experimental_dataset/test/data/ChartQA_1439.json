@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1439,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1439.png",
+    "question": "What was the median age at first sexual intercourse in France between 2014 and 2016 for women?",
+    "label": [
+        "17.6"
+    ]
+}

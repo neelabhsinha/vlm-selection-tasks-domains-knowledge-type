@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2700,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2700.png",
+    "question": "Who elects Board of Trustees based on heading \"Board of Members\"?",
+    "label": [
+        "Board of Members",
+        "The Board of Members"
+    ]
+}

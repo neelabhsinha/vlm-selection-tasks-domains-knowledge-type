@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1533,
+    "caption": "a woman taking a picture of herself in a mirror",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "motorcycle",
+        "human face",
+        "tree",
+        "clothing",
+        "bicycle",
+        "street",
+        "mirror"
+    ]
+}

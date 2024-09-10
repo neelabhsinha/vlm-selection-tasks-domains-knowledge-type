@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 900,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_900.png",
+    "question": "The last letter near the bowl is needed to spell what word?",
+    "label": "['carnation', 'tomato', 't words', 'true', 'nickel', 'turtle', 'foot', 'often', 't words', 'town']",
+    "choices": [
+        "town",
+        "blow",
+        "up",
+        "car"
+    ],
+    "correct_choice": "town"
+}

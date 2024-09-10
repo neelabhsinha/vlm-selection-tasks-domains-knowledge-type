@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5043,
+    "caption": "a series of photographs showing different types of mailboxes",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "number",
+        "document"
+    ]
+}

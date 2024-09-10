@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 652,
+    "image_path": "./experimental_dataset/test/images/ChartQA_652.png",
+    "question": "What was the risk index score of money laundering and terrorist financing in Jamaica in 2017?",
+    "label": [
+        "6.6"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1884,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1884.png",
+    "question": "In which state is it most common do this sport?",
+    "label": [
+        "hawaii",
+        "hawaii",
+        "hawaii",
+        "hawaii",
+        "hawaii",
+        "hawaii",
+        "california",
+        "california",
+        "california",
+        "california"
+    ]
+}

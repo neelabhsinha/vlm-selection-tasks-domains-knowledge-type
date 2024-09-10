@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 20,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Computer Science",
+        "Mathematics"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Cultural Knowledge",
+        "Social Knowledge"
+    ]
+}

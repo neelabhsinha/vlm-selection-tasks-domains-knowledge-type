@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 114094,
+    "image_path": "./experimental_dataset/test/images/VQAv2_114094.png",
+    "question": "How many spots on the giraffe?",
+    "label": [
+        "75",
+        "over 100",
+        "72",
+        "many",
+        "at least 50",
+        "100",
+        "100s",
+        "100",
+        "300",
+        "37"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4703,
+    "caption": "a man riding a skateboard up the side of a ramp",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "clothing",
+        "person",
+        "sport",
+        "footwear",
+        "man",
+        "ceiling",
+        "art"
+    ]
+}

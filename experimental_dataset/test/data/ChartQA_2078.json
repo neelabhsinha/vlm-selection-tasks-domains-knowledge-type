@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2078,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2078.png",
+    "question": "What was the producer price index of insulation materials in 2018?",
+    "label": [
+        "194.7"
+    ]
+}

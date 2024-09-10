@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 714,
+    "caption": "a man in a suit is walking down the street",
+    "object_tags": [
+        "person",
+        "clothing",
+        "man",
+        "outdoor",
+        "building",
+        "coat",
+        "street fashion",
+        "human face",
+        "snapshot",
+        "shirt",
+        "jacket",
+        "photograph",
+        "street",
+        "ground"
+    ]
+}

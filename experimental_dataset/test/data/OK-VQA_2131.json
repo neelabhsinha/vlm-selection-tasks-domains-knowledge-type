@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2131,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2131.png",
+    "question": "What color are the appliances?",
+    "label": [
+        "silver",
+        "silver",
+        "silver",
+        "silver",
+        "silver",
+        "silver",
+        "chrome",
+        "chrome",
+        "chrome",
+        "chrome"
+    ]
+}

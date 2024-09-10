@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 913,
+    "image_path": "./experimental_dataset/test/images/ChartQA_913.png",
+    "question": "What is the average of 2002 Salt Lake City and 2006 Torino revenue from National sponsoring?",
+    "label": [
+        "479.5"
+    ]
+}

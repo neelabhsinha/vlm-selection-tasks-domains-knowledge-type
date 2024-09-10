@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 436,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_436.png",
+    "question": "How many Subjects signed out the consent form?",
+    "label": [
+        "103",
+        "N=103"
+    ]
+}

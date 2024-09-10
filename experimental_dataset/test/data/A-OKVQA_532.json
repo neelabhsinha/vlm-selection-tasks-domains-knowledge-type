@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 532,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_532.png",
+    "question": "What is on top of the car?",
+    "label": "['snowboard', 'skateboard', 'skateboard', 'snowboard', 'skating board', 'luggage', 'snowboard', 'board', 'cargo carrier', 'ski board']",
+    "choices": [
+        "board",
+        "dog",
+        "rifle",
+        "cat"
+    ],
+    "correct_choice": "board"
+}

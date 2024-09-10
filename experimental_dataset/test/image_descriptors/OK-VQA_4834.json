@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4834,
+    "caption": "a large building with a clock tower on top of it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "cloud",
+        "waterway",
+        "ship",
+        "channel",
+        "lake",
+        "building",
+        "vehicle",
+        "spire",
+        "city",
+        "travel",
+        "tower",
+        "large",
+        "watercraft",
+        "river",
+        "parliament",
+        "boat",
+        "bridge"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 251,
+    "caption": "a man riding a water skis on top of a body of water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sport",
+        "tree",
+        "person",
+        "recreation",
+        "riding",
+        "surface water sports",
+        "outdoor recreation",
+        "boat",
+        "lake",
+        "water skiing"
+    ]
+}

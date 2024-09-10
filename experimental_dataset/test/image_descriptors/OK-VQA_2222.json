@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2222,
+    "caption": "a little girl holding a hot dog in her hand",
+    "object_tags": [
+        "clothing",
+        "person",
+        "shopping cart",
+        "toddler",
+        "human face",
+        "indoor",
+        "cart",
+        "floor",
+        "child",
+        "young",
+        "food"
+    ]
+}

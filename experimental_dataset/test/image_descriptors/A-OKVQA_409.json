@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 409,
+    "caption": "a man holding a cell phone while standing next to a group of people",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "jeans",
+        "footwear",
+        "human face",
+        "smile",
+        "man",
+        "woman",
+        "shirt",
+        "trousers",
+        "people",
+        "standing",
+        "interaction",
+        "street",
+        "group"
+    ]
+}

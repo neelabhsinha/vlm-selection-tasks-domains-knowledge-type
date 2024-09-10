@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1918,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1918.png",
+    "question": "How do we know this is a city view?",
+    "label": [
+        "build",
+        "build",
+        "build",
+        "build",
+        "there is large build in background",
+        "there is large build in background",
+        "block",
+        "block",
+        "high rise",
+        "high rise"
+    ]
+}

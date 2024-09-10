@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 893,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_893.png",
+    "question": "What kind of precipitation is at the top of the mountain?",
+    "label": "['snow', 'snow', 'snow', 'snow', 'snow', 'snow', 'snow', 'snow', 'snow', 'snow']",
+    "choices": [
+        "snow",
+        "rain",
+        "fog",
+        "hail"
+    ],
+    "correct_choice": "snow"
+}

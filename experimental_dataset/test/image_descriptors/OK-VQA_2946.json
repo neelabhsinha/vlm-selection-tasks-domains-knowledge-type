@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2946,
+    "caption": "a white plate topped with meat and vegetables",
+    "object_tags": [
+        "food",
+        "vegetable",
+        "plate",
+        "superfood",
+        "cruciferous vegetables",
+        "ingredient",
+        "leaf vegetable",
+        "produce",
+        "broccoli",
+        "indoor",
+        "meat"
+    ]
+}

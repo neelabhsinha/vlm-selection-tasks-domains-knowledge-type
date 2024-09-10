@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4504,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4504.png",
+    "question": "Where are study drugs stored based on sub-title \"Site specifics\" ?",
+    "label": [
+        "locked cabinet",
+        "Locked cabinet"
+    ]
+}

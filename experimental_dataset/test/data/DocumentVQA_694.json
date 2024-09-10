@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 694,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_694.png",
+    "question": "What is the department name?",
+    "label": [
+        "NEW PRODUCT TECHNOLOGIES",
+        "New product technologies"
+    ]
+}

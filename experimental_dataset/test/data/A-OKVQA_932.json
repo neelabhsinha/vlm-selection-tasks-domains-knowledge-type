@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 932,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_932.png",
+    "question": "What. is hanging on her shoulder?",
+    "label": "['purse', 'purse', 'purse', 'bag', 'back pack', 'purse', 'bag', 'purse', 'hand bag', 'purse']",
+    "choices": [
+        "child",
+        "shirt",
+        "bag",
+        "towel"
+    ],
+    "correct_choice": "bag"
+}

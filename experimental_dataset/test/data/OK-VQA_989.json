@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 989,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_989.png",
+    "question": "The box features the logo from which company?",
+    "label": [
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "up",
+        "up"
+    ]
+}

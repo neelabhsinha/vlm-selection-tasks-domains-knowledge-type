@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 675,
+    "caption": "a bus driving down a street next to a traffic light",
+    "object_tags": [
+        "text",
+        "land vehicle",
+        "vehicle",
+        "outdoor",
+        "vehicle registration plate",
+        "wheel",
+        "transport",
+        "car",
+        "road",
+        "bus",
+        "mode of transport",
+        "tree",
+        "automotive parking light",
+        "traffic",
+        "automotive tail & brake light",
+        "street",
+        "auto part",
+        "light",
+        "stopped",
+        "city"
+    ]
+}

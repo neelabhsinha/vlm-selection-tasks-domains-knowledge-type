@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4918,
+    "caption": "an aerial view of a computer generated image",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "sketch",
+        "line",
+        "parallel",
+        "black and white"
+    ]
+}

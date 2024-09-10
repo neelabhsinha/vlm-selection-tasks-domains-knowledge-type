@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 31553,
+    "image_path": "./experimental_dataset/test/images/VQAv2_31553.png",
+    "question": "What color is the bag of luggage on the left?",
+    "label": [
+        "black",
+        "black",
+        "black",
+        "black",
+        "green",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black"
+    ]
+}

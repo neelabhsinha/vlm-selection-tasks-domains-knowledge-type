@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 973,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_973.png",
+    "question": "What is keeping the person's hands clean from the food?",
+    "label": "['paper', 'paper plate', 'tray', 'plate', 'paper tray', 'paper plate', 'walled dish', 'paper plate', 'tray', 'paper container']",
+    "choices": [
+        "metal",
+        "glass",
+        "paper",
+        "tissue"
+    ],
+    "correct_choice": "paper"
+}

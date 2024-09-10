@@ -1,0 +1,32 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 939,
+    "caption": "a man in a suit and tie sitting at a table",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "tie",
+        "man",
+        "furniture",
+        "dress shirt",
+        "collar",
+        "formal wear",
+        "gentleman",
+        "smile",
+        "building",
+        "white-collar worker",
+        "blazer",
+        "businessperson",
+        "wearing",
+        "suit",
+        "indoor",
+        "sitting",
+        "office",
+        "business",
+        "outdoor",
+        "chair",
+        "necktie",
+        "shirt"
+    ]
+}

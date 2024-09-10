@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 799,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_799.png",
+    "question": "What type of bird is this?",
+    "label": [
+        "heron",
+        "heron",
+        "heron",
+        "heron",
+        "crain",
+        "crain",
+        "osprey",
+        "osprey",
+        "long legged bird",
+        "long legged bird"
+    ]
+}

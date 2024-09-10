@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 559,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_559.png",
+    "question": "What are the dates of the negotiation?",
+    "label": [
+        "July 17 and 18, 1996"
+    ]
+}

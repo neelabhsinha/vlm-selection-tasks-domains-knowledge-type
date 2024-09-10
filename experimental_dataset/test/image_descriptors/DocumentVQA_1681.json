@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1681,
+    "caption": "a white refrigerator freezer sitting next to a wall",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "black and white",
+        "letter",
+        "ink",
+        "document"
+    ]
+}

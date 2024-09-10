@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 184450,
+    "image_path": "./experimental_dataset/test/images/VQAv2_184450.png",
+    "question": "How many bricks are shown?",
+    "label": [
+        "76",
+        "50",
+        "12",
+        "50",
+        "about 36",
+        "13",
+        "lot",
+        "60",
+        "48",
+        "52"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 276,
+    "caption": "a man standing next to a street sign",
+    "object_tags": [
+        "outdoor",
+        "black and white",
+        "clothing",
+        "tree",
+        "man",
+        "sky",
+        "house",
+        "billboard",
+        "footwear",
+        "road",
+        "ground",
+        "sign",
+        "person",
+        "street",
+        "monochrome"
+    ]
+}

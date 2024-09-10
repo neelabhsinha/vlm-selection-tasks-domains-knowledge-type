@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1008,
+    "caption": "a stove with a bunch of pans on top of it",
+    "object_tags": [
+        "cookware and bakeware",
+        "indoor",
+        "stove",
+        "kitchen appliance",
+        "gas stove",
+        "frying pan",
+        "kitchenware",
+        "pan",
+        "appliance",
+        "pot",
+        "kitchen",
+        "cooking",
+        "food",
+        "oven"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3495,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3495.png",
+    "question": "What are the people doing?",
+    "label": [
+        "talk",
+        "talk",
+        "talk",
+        "talk",
+        "wait for people to transport",
+        "wait for people to transport",
+        "provide security",
+        "provide security",
+        "monitor exhibition",
+        "monitor exhibition"
+    ]
+}

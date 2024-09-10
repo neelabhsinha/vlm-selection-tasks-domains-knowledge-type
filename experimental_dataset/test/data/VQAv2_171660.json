@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 171660,
+    "image_path": "./experimental_dataset/test/images/VQAv2_171660.png",
+    "question": "What is the number on the door?",
+    "label": [
+        "407",
+        "407",
+        "402",
+        "407",
+        "407",
+        "407",
+        "407",
+        "407",
+        "407",
+        "407"
+    ]
+}

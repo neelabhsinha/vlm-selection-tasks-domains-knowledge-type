@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1429,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1429.png",
+    "question": "How many boys participated in high school sports in 2018/19?",
+    "label": [
+        "20616"
+    ]
+}

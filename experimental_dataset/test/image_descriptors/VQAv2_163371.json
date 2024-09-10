@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 163371,
+    "caption": "a hot dog on a bun on a plate",
+    "object_tags": [
+        "food",
+        "fast food",
+        "plate",
+        "cuisine",
+        "snack",
+        "dish",
+        "bread",
+        "meal",
+        "dog",
+        "indoor",
+        "bun",
+        "snack food",
+        "hotdog",
+        "sandwich"
+    ]
+}

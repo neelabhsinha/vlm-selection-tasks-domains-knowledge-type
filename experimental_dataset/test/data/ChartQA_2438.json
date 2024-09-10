@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2438,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2438.png",
+    "question": "How many kidnappings did Brazil have in 2018?",
+    "label": [
+        "659"
+    ]
+}

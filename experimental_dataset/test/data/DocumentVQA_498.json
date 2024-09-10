@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 498,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_498.png",
+    "question": "Which agency approval is required for product usage?",
+    "label": [
+        "Food and Drug Administration(FDA)"
+    ]
+}

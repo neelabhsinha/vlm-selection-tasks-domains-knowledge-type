@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 115,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_115.png",
+    "question": "What is the type of blade being used in this photo?",
+    "label": [
+        "serrated",
+        "serrated",
+        "serrated",
+        "serrated",
+        "bread blade",
+        "bread blade",
+        "microplane",
+        "microplane",
+        "carve knife",
+        "carve knife"
+    ]
+}

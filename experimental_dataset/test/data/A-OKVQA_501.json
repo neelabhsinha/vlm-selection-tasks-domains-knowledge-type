@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 501,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_501.png",
+    "question": "Which city is this sign in which contains the Heumarkt transit stop?",
+    "label": "['cologne', 'heumarkt', 'canton', 'china', 'cologne germany', 'canton', 'heumarkt', 'heumarkt', 'heumarkt', 'canton']",
+    "choices": [
+        "cologne germany",
+        "london",
+        "rome",
+        "vienna"
+    ],
+    "correct_choice": "cologne germany"
+}

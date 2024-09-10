@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2405,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2405.png",
+    "question": "How many Swedish kronor were invested in television ads?",
+    "label": [
+        "4431.94"
+    ]
+}

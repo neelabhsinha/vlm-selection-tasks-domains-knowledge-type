@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4613,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4613.png",
+    "question": "What are they all doing together?",
+    "label": [
+        "learn",
+        "learn",
+        "learn",
+        "learn",
+        "learn",
+        "learn",
+        "study",
+        "study",
+        "study",
+        "study"
+    ]
+}

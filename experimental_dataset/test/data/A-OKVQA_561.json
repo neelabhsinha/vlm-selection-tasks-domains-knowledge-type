@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 561,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_561.png",
+    "question": "What is under the mouse?",
+    "label": "['mouse pad', 'mouse pad', 'mousepad', 'mousepad', 'mousepad', 'mousepad', 'mouse pad', 'mouse pad', 'mousepad', 'mousepad']",
+    "choices": [
+        "mousepad",
+        "magazine",
+        "book",
+        "paper"
+    ],
+    "correct_choice": "mousepad"
+}

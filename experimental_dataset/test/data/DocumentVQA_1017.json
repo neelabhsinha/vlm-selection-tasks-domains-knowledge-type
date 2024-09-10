@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1017,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1017.png",
+    "question": "What is the corresponding author's name?",
+    "label": [
+        "Patricia Nance"
+    ]
+}

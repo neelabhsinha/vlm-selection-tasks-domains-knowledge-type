@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 216,
+    "caption": "a glass bowl filled with oranges and apples",
+    "object_tags": [
+        "orange",
+        "citrus",
+        "natural foods",
+        "indoor",
+        "produce",
+        "bowl",
+        "clementine",
+        "fruit",
+        "oranges",
+        "mandarin orange",
+        "tangerine",
+        "peel",
+        "valencia orange",
+        "grapefruit",
+        "rangpur",
+        "bitter orange",
+        "calamondin",
+        "table",
+        "food",
+        "person"
+    ]
+}

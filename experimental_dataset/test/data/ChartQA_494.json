@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 494,
+    "image_path": "./experimental_dataset/test/images/ChartQA_494.png",
+    "question": "How many Americans say society has not gone far enough to accept transgender people:",
+    "label": [
+        "39"
+    ]
+}

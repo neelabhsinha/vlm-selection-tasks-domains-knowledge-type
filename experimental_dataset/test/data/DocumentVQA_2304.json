@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2304,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2304.png",
+    "question": "what is the source for liver cell/tissue ?",
+    "label": [
+        "rat"
+    ]
+}

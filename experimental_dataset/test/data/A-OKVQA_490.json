@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 490,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_490.png",
+    "question": "What institution often performs the function represented by the word on the main level of the ship nearest the camera?",
+    "label": "['colleges', 'scientists universities', 'coastguard', 'educational', 'university', 'coast guard', 'research institution', 'coastguard', 'research', 'marina']",
+    "choices": [
+        "private enterprise",
+        "government",
+        "educational",
+        "commercial"
+    ],
+    "correct_choice": "educational"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3151,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3151.png",
+    "question": "Among the expenditures, as per the budgeted amounts, which item has the highest share?",
+    "label": [
+        "Personnel"
+    ]
+}

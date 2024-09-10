@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 556,
+    "caption": "a table with a bunch of numbers on it",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "number",
+        "line"
+    ]
+}

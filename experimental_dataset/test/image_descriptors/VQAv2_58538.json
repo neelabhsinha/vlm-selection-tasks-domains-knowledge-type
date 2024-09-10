@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 58538,
+    "caption": "a small boat in the middle of a body of water",
+    "object_tags": [
+        "water",
+        "outdoor",
+        "boat",
+        "transport",
+        "watercraft",
+        "vehicle",
+        "ship",
+        "lake",
+        "speedboat",
+        "naval architecture",
+        "boating",
+        "water transportation",
+        "powerboating",
+        "launch",
+        "sea"
+    ]
+}

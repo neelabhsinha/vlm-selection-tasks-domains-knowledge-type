@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 672,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_672.png",
+    "question": "What type of cat is this?",
+    "label": [
+        "domestic",
+        "domestic",
+        "domestic",
+        "domestic",
+        "calico",
+        "calico",
+        "orange tabby",
+        "orange tabby",
+        "burmese",
+        "burmese"
+    ]
+}

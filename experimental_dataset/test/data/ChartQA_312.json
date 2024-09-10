@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 312,
+    "image_path": "./experimental_dataset/test/images/ChartQA_312.png",
+    "question": "Which has the highest value in the bar graph?",
+    "label": [
+        "Malawi"
+    ]
+}

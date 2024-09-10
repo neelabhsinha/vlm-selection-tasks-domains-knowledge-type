@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4744,
+    "caption": "a man taking a picture of himself in the mirror",
+    "object_tags": [
+        "human face",
+        "wall",
+        "person",
+        "indoor",
+        "mirror",
+        "glasses",
+        "bathroom"
+    ]
+}

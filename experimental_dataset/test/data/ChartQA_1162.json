@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1162,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1162.png",
+    "question": "In what year did the middle income class have the largest population?",
+    "label": [
+        "2015"
+    ]
+}

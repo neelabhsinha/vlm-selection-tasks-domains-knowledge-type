@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 25,
+    "image_path": "./experimental_dataset/test/images/ChartQA_25.png",
+    "question": "Is the largest segment greater than sum of all the other segments?",
+    "label": [
+        "Yes"
+    ]
+}

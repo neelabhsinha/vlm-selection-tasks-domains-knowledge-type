@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1009,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1009.png",
+    "question": "What type of telephone is in the room?",
+    "label": "['mobile', 'home phone', 'old', 'portable', 'cordless', 'wireless', 'cordless', 'cordless', 'digital', 'landline']",
+    "choices": [
+        "dial",
+        "emergency",
+        "mobile",
+        "mobile"
+    ],
+    "correct_choice": "mobile"
+}

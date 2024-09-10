@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 136674,
+    "caption": "a train going down the tracks in a city",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "sky",
+        "track",
+        "train",
+        "vehicle",
+        "land vehicle",
+        "urban area",
+        "metropolitan area",
+        "metropolis",
+        "tower block",
+        "railroad",
+        "city"
+    ]
+}

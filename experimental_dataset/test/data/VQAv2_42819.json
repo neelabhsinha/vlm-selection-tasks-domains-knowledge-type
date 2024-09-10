@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 42819,
+    "image_path": "./experimental_dataset/test/images/VQAv2_42819.png",
+    "question": "Is the giraffe afraid?",
+    "label": [
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

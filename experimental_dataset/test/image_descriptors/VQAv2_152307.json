@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 152307,
+    "caption": "a man is throwing a frisbee to another man",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "tree",
+        "grass",
+        "man",
+        "footwear",
+        "frisbee",
+        "field",
+        "red"
+    ]
+}

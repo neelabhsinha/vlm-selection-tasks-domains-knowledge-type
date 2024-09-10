@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1812,
+    "caption": "a small elephant walking across a dirt field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "ground",
+        "terrestrial animal",
+        "elephants and mammoths",
+        "zoo",
+        "indian elephant",
+        "asian elephant",
+        "wildlife",
+        "african elephant",
+        "tusk",
+        "plant",
+        "dirt",
+        "safari",
+        "grass",
+        "standing"
+    ]
+}

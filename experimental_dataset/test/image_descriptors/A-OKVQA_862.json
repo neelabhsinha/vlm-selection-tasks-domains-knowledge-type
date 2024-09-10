@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 862,
+    "caption": "a person preparing food on a table",
+    "object_tags": [
+        "person",
+        "food",
+        "fast food",
+        "cuisine",
+        "meal",
+        "delicacy",
+        "indoor",
+        "cooking",
+        "pizza",
+        "grill",
+        "griddle"
+    ]
+}

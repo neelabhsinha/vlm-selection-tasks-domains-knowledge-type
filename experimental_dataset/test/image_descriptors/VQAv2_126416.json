@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 126416,
+    "caption": "a woman riding a wave on top of a surfboard",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "wave",
+        "person",
+        "surf",
+        "sport",
+        "surfboard",
+        "wind wave",
+        "ocean",
+        "wet suit",
+        "riding",
+        "tide",
+        "boardsport",
+        "recreation",
+        "surface water sports",
+        "surfing",
+        "rash guard",
+        "beach"
+    ]
+}

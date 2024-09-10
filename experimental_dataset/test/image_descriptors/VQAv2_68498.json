@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 68498,
+    "caption": "a city street at night with a clock tower",
+    "object_tags": [
+        "outdoor",
+        "street light",
+        "tree",
+        "night",
+        "sky",
+        "light",
+        "electricity",
+        "street",
+        "security lighting",
+        "building",
+        "light fixture",
+        "thoroughfare",
+        "road",
+        "city",
+        "way",
+        "winter",
+        "time",
+        "fog"
+    ]
+}

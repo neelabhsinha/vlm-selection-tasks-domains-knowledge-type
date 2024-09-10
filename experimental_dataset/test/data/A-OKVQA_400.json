@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 400,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_400.png",
+    "question": "What might the lying dogs likely have to do in a bit?",
+    "label": "['herd sheep', 'follow', 'guard sheep', 'herd', 'herd sheep', 'herd', 'herd sheep', 'herd sheep', 'move sheep', 'herd sheep']",
+    "choices": [
+        "herd sheep",
+        "catch ball",
+        "pull sleigh",
+        "eat steak"
+    ],
+    "correct_choice": "herd sheep"
+}

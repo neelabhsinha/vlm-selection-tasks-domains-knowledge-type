@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 250,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_250.png",
+    "question": "What city is this location?",
+    "label": "['tokyo', 'shanghai', 'town', 'hong kong', 'chinatown', 'osaka', 'samba', 'samba', 'samba', 'not clear']",
+    "choices": [
+        "taipei",
+        "osaka",
+        "gdansk",
+        "shanghai"
+    ],
+    "correct_choice": "osaka"
+}

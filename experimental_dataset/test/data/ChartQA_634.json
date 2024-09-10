@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 634,
+    "image_path": "./experimental_dataset/test/images/ChartQA_634.png",
+    "question": "How many different hotel amenities are shows on the graph?",
+    "label": [
+        "4"
+    ]
+}

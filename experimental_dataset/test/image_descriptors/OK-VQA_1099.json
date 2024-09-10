@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1099,
+    "caption": "a bowl filled with meat, rice and vegetables",
+    "object_tags": [
+        "food",
+        "cuisine",
+        "dish",
+        "okazu",
+        "meal",
+        "white rice",
+        "steamed rice",
+        "prepackaged meal",
+        "rice",
+        "ingredient",
+        "glutinous rice",
+        "lunch",
+        "indoor",
+        "vegetable",
+        "broccoli",
+        "bowl",
+        "meat"
+    ]
+}

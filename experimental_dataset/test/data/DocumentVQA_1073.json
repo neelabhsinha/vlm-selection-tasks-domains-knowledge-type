@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1073,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1073.png",
+    "question": "What is the name of the late queen?",
+    "label": [
+        "Queen Mary",
+        "queen mary",
+        "mary"
+    ]
+}

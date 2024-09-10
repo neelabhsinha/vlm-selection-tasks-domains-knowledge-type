@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 636,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_636.png",
+    "question": "What position is the man in the purple shirt riding the vehicle in?",
+    "label": "['standing', 'standing', 'standing', 'standing', 'standing', 'bike', 'standing', 'standing', 'standing', 'forward']",
+    "choices": [
+        "standing",
+        "crawling",
+        "sitting",
+        "laying"
+    ],
+    "correct_choice": "standing"
+}

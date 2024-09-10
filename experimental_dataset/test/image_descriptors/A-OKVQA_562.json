@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 562,
+    "caption": "a street sign on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "text",
+        "sky",
+        "cloud",
+        "car",
+        "sign",
+        "tree",
+        "traffic sign",
+        "land vehicle",
+        "signage",
+        "road",
+        "vehicle",
+        "street",
+        "wheel",
+        "street sign",
+        "vehicle registration plate",
+        "pole",
+        "stop"
+    ]
+}

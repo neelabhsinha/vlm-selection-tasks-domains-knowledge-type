@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 36193,
+    "caption": "a man sitting on a surfboard on the beach",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "person",
+        "sky",
+        "surfboard",
+        "wind wave",
+        "tide",
+        "beach",
+        "surfing",
+        "wave",
+        "ground",
+        "nature",
+        "shore",
+        "wet",
+        "ocean"
+    ]
+}

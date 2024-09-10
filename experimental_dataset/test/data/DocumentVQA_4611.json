@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4611,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4611.png",
+    "question": "What is represented using the dotted curve?",
+    "label": [
+        "corn-soy ration"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 480,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_480.png",
+    "question": "What part of the pizza is the person holding?",
+    "label": "['crust', 'crust', 'crust', 'crust', 'crust', 'crust', 'crust', 'crust', 'crust', 'crust']",
+    "choices": [
+        "middle",
+        "toppings",
+        "crust",
+        "top"
+    ],
+    "correct_choice": "crust"
+}

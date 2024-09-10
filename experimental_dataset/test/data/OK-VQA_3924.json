@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3924,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3924.png",
+    "question": "What is the outside temperature?",
+    "label": [
+        "70 degrees",
+        "70 degrees",
+        "70 degrees",
+        "70 degrees",
+        "80 degrees",
+        "80 degrees",
+        "warm",
+        "warm",
+        "85 degrees f",
+        "85 degrees f"
+    ]
+}

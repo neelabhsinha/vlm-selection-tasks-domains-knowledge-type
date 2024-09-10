@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3684,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Anthropology",
+        "History"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Visual Knowledge"
+    ]
+}

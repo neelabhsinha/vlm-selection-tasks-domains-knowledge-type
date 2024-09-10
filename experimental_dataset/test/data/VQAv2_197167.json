@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 197167,
+    "image_path": "./experimental_dataset/test/images/VQAv2_197167.png",
+    "question": "What color is the tile around the shower?",
+    "label": [
+        "green",
+        "green",
+        "brown",
+        "green",
+        "green",
+        "don't know",
+        "brown and white",
+        "teal",
+        "green",
+        "green"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 169675,
+    "caption": "a white toilet sitting next to a sink in a bathroom",
+    "object_tags": [
+        "bathroom",
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "bathroom accessory",
+        "restroom",
+        "plumbing",
+        "tap",
+        "human face",
+        "person",
+        "tile",
+        "toilet seat",
+        "sink",
+        "bidet",
+        "woman",
+        "water basin",
+        "mirror",
+        "toilet"
+    ]
+}

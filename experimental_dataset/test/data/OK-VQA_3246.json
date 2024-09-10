@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3246,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3246.png",
+    "question": "What is this person about to do?",
+    "label": [
+        "jump",
+        "jump",
+        "jump",
+        "jump",
+        "water ski",
+        "water ski",
+        "water ski",
+        "water ski",
+        "wakeboard",
+        "wakeboard"
+    ]
+}

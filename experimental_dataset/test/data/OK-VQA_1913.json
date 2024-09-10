@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1913,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1913.png",
+    "question": "What brand of glasses is the man wearing?",
+    "label": [
+        "oakley",
+        "oakley",
+        "oakley",
+        "oakley",
+        "transit",
+        "transit",
+        "foster grant",
+        "foster grant",
+        "dollar general",
+        "dollar general"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1043,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1043.png",
+    "question": "Which sector has the biggest gender difference in wage and salary?",
+    "label": [
+        "Natural resources, construction, and maintenance"
+    ]
+}

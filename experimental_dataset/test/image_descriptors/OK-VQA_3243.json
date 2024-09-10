@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3243,
+    "caption": "a room with a lot of stuff inside of it",
+    "object_tags": [
+        "waste container",
+        "outdoor",
+        "ground",
+        "trash",
+        "house"
+    ]
+}

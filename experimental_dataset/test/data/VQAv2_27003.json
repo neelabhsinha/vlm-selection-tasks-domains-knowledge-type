@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 27003,
+    "image_path": "./experimental_dataset/test/images/VQAv2_27003.png",
+    "question": "What is the building made of?",
+    "label": [
+        "wood",
+        "living",
+        "brick",
+        "brick",
+        "brick",
+        "brick",
+        "brick",
+        "wood",
+        "brick",
+        "brick"
+    ]
+}

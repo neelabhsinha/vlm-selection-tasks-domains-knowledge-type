@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 387,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_387.png",
+    "question": "Why is the black net set up behind the batter?",
+    "label": "['protection', 'to protect', 'safety', 'protect spectators', 'safety', 'protect fans', 'flying balls', 'spectator safety', 'safety', 'catch balls']",
+    "choices": [
+        "safety",
+        "to film",
+        "to climb",
+        "photo opportunities"
+    ],
+    "correct_choice": "safety"
+}

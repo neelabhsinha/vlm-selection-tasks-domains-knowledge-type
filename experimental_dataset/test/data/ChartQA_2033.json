@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2033,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2033.png",
+    "question": "What was the average daily rate for hotels in New Orleans in the United States in the first quarter of 2017?",
+    "label": [
+        "189"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 653,
+    "caption": "a woman sitting at a table in front of a laptop",
+    "object_tags": [
+        "black and white",
+        "person",
+        "human face",
+        "indoor",
+        "tableware",
+        "clothing",
+        "window",
+        "table",
+        "furniture",
+        "sitting",
+        "wall",
+        "monochrome",
+        "woman"
+    ]
+}

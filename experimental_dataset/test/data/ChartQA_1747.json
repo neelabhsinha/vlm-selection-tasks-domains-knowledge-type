@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1747,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1747.png",
+    "question": "What is the most popular game on Twitch?",
+    "label": [
+        "League of Legends"
+    ]
+}

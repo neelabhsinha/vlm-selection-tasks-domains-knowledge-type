@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 148712,
+    "caption": "a horse that is standing in the grass",
+    "object_tags": [
+        "fence",
+        "outdoor",
+        "winter",
+        "snow",
+        "horse",
+        "mammal",
+        "animal",
+        "livestock",
+        "split-rail fence",
+        "standing"
+    ]
+}

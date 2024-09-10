@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1370,
+    "caption": "a pile of luggage sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "luggage and bags",
+        "accessory",
+        "wheel",
+        "handbag",
+        "road",
+        "luggage",
+        "suitcase",
+        "person",
+        "clothing",
+        "footwear",
+        "street",
+        "ground",
+        "group",
+        "people",
+        "case",
+        "sign",
+        "bag",
+        "red"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 417,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_417.png",
+    "question": "What level or league of baseball are the players most likely playing in?",
+    "label": "['triple', 'pros', 'minor league', 'major league', 'major', 'high school', 'aa', 'college', 'college', 'rookie advanced']",
+    "choices": [
+        "minor",
+        "major",
+        "college",
+        "junior"
+    ],
+    "correct_choice": "college"
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 869,
+    "caption": "a man and a child riding on a motorcycle",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "land vehicle",
+        "vehicle",
+        "clothing",
+        "sports equipment",
+        "human face",
+        "car",
+        "motorcycle",
+        "wheel",
+        "personal protective equipment",
+        "road",
+        "riding",
+        "helmet",
+        "motorcycle helmet",
+        "bicycle helmet",
+        "street",
+        "young",
+        "city",
+        "girl",
+        "wearing"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1127,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1127.png",
+    "question": "Why is there a mat on the floor?",
+    "label": "['slip', 'spills', 'because kitchen', 'walking mat', 'mat floor', 'room', 'clean', 'prevent slipping', 'walking', 'room']",
+    "choices": [
+        "prevent slipping",
+        "prevent leaks",
+        "prevent cracking",
+        "prevent fire"
+    ],
+    "correct_choice": "prevent slipping"
+}

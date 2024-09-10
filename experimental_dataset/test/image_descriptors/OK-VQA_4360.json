@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4360,
+    "caption": "a small airplane flying through a clear blue sky",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "transport",
+        "aircraft",
+        "plane",
+        "flight",
+        "air travel",
+        "airplane",
+        "general aviation",
+        "wing",
+        "vehicle",
+        "air force",
+        "aviation",
+        "monoplane",
+        "air racing",
+        "airshow",
+        "military aircraft",
+        "propeller",
+        "propeller-driven aircraft",
+        "aerospace engineering",
+        "flap",
+        "air",
+        "blue",
+        "jet",
+        "high"
+    ]
+}

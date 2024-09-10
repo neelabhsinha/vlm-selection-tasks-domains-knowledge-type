@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4060,
+    "caption": "a crowd of people walking down a street with umbrellas",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "umbrella",
+        "person",
+        "sky",
+        "fashion accessory",
+        "clothing",
+        "woman",
+        "accessory",
+        "street",
+        "man",
+        "people",
+        "holding",
+        "crowd"
+    ]
+}

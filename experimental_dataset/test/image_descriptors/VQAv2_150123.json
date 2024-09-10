@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 150123,
+    "caption": "a woman flying a kite in a blue sky",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "kite",
+        "person",
+        "summer",
+        "tree",
+        "grass",
+        "woman",
+        "day",
+        "girl",
+        "nature"
+    ]
+}

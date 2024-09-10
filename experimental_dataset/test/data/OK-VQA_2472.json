@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2472,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2472.png",
+    "question": "Who rides this?",
+    "label": [
+        "passenger",
+        "passenger",
+        "passenger",
+        "passenger",
+        "passenger",
+        "passenger",
+        "anyone",
+        "anyone",
+        "public",
+        "public"
+    ]
+}

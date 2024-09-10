@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 841,
+    "image_path": "./experimental_dataset/test/images/ChartQA_841.png",
+    "question": "What is the difference in the industry share between the highest and the lowest year?",
+    "label": [
+        "16.59"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 611,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_611.png",
+    "question": "What kind of fuel does this toy use?",
+    "label": [
+        "gasoline",
+        "gasoline",
+        "gasoline",
+        "gasoline",
+        "battery",
+        "battery",
+        "gas",
+        "gas",
+        "energy",
+        "energy"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 166,
+    "image_path": "./experimental_dataset/test/images/ChartQA_166.png",
+    "question": "Is the color of DK segment gray?",
+    "label": [
+        "Yes"
+    ]
+}

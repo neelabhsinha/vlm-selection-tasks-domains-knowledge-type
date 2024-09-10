@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 506,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_506.png",
+    "question": "Who has signed the letter?",
+    "label": [
+        "Michael f. Jacobson, Ph.d.",
+        "Michael F. Jacobson, Ph.D.",
+        "Michael f. Jacobson"
+    ]
+}

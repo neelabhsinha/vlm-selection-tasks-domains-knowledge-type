@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2334,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2334.png",
+    "question": "What part of a car is used when obeying this sign?",
+    "label": [
+        "brake",
+        "brake",
+        "brake",
+        "brake",
+        "brake",
+        "brake",
+        "brake",
+        "brake",
+        "brake",
+        "brake"
+    ]
+}

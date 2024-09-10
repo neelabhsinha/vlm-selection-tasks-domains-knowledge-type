@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 19765,
+    "image_path": "./experimental_dataset/test/images/VQAv2_19765.png",
+    "question": "Are they in a classroom?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

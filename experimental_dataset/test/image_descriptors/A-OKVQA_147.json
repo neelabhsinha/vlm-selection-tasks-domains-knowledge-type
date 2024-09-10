@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 147,
+    "caption": "two girls in a kitchen preparing food on a plate",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "smile",
+        "indoor",
+        "wall",
+        "kitchen",
+        "window",
+        "young",
+        "woman",
+        "food",
+        "cooking",
+        "girl"
+    ]
+}

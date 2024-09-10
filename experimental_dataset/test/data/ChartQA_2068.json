@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2068,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2068.png",
+    "question": "What was the national debt of Malaysia in 2019?",
+    "label": [
+        "57.16"
+    ]
+}

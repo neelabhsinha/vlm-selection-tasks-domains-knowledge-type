@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1379,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1379.png",
+    "question": "What is this sandwich called on the east coast of the us?",
+    "label": [
+        "sub",
+        "sub",
+        "sub",
+        "sub",
+        "sub",
+        "sub",
+        "hoagie",
+        "hoagie",
+        "deli",
+        "deli"
+    ]
+}

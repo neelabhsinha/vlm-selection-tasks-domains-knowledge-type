@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 230,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_230.png",
+    "question": "What is the variable taken along the y axis ?",
+    "label": [
+        "diet consumed [mls]",
+        "Diet consumed [MLS]",
+        "Diet consumed"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2251,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2251.png",
+    "question": "What profession does this man have?",
+    "label": [
+        "surfer",
+        "surfer",
+        "surfer",
+        "surfer",
+        "professor",
+        "professor",
+        "lifegaurd",
+        "lifegaurd",
+        "surf instructor",
+        "surf instructor"
+    ]
+}

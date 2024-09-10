@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2184,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2184.png",
+    "question": "What is the date of approval by the manager?",
+    "label": [
+        "3/14/95"
+    ]
+}

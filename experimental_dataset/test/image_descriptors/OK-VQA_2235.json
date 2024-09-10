@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2235,
+    "caption": "two small birds are standing in the water",
+    "object_tags": [
+        "animal",
+        "aquatic bird",
+        "bird",
+        "outdoor",
+        "rallidae",
+        "beak",
+        "gallinule",
+        "water",
+        "common gallinule",
+        "water bird",
+        "black",
+        "wildlife",
+        "standing"
+    ]
+}

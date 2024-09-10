@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 27244,
+    "caption": "elephants walking around in an enclosure",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "zoo",
+        "tree",
+        "animal",
+        "sky",
+        "mammal",
+        "swine"
+    ]
+}

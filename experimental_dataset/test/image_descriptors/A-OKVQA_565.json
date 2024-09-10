@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 565,
+    "caption": "two baseball players standing next to each other",
+    "object_tags": [
+        "person",
+        "sport",
+        "athletic game",
+        "baseball",
+        "clothing",
+        "player",
+        "man",
+        "sports uniform",
+        "outdoor",
+        "baseball uniform",
+        "bat-and-ball games",
+        "hat",
+        "baseball player",
+        "baseball park",
+        "college baseball",
+        "standing",
+        "field"
+    ]
+}

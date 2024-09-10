@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1980,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1980.png",
+    "question": "What is the kind of water used for analysis ?",
+    "label": [
+        "water in boilers",
+        "Water in Boilers"
+    ]
+}

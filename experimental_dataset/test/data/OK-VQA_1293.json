@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1293,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1293.png",
+    "question": "What is the flower attacked to the jacket called?",
+    "label": [
+        "rose",
+        "rose",
+        "rose",
+        "rose",
+        "butonniere",
+        "butonniere",
+        "boutonniere",
+        "boutonniere",
+        "boutonnierre",
+        "boutonnierre"
+    ]
+}

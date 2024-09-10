@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2853,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2853.png",
+    "question": "What kind of plant is this?",
+    "label": [
+        "lavender",
+        "lavender",
+        "lavender",
+        "lavender",
+        "lavender",
+        "lavender",
+        "flower",
+        "flower",
+        "flower",
+        "flower"
+    ]
+}

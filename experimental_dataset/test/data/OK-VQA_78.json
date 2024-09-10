@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 78,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_78.png",
+    "question": "What unpleasant emotional state does this weather phenomenon often cause?",
+    "label": [
+        "depression",
+        "depression",
+        "depression",
+        "depression",
+        "shock",
+        "shock",
+        "fright",
+        "fright",
+        "fear",
+        "fear"
+    ]
+}

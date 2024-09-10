@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4625,
+    "caption": "a collage of photographs showing different types of scissors",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "diagram",
+        "parallel",
+        "line",
+        "rectangle"
+    ]
+}

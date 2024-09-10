@@ -1,0 +1,18 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2609,
+    "caption": "an old photo of a sign on a wall",
+    "object_tags": [
+        "text",
+        "parallel",
+        "diagram",
+        "black and white",
+        "handwriting",
+        "rectangle",
+        "plan",
+        "schematic",
+        "sketch",
+        "drawing",
+        "technical drawing"
+    ]
+}

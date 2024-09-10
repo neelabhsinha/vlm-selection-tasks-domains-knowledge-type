@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 2370,
+    "caption": "a collage of photos showing different types of cell phones",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "display",
+        "software",
+        "diagram",
+        "rectangle",
+        "number",
+        "design"
+    ]
+}

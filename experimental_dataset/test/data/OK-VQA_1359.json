@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1359,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1359.png",
+    "question": "What does this truck appear to be doing out in the open field?",
+    "label": [
+        "dump dirt",
+        "dump dirt",
+        "dump dirt",
+        "dump dirt",
+        "dump dirt",
+        "dump dirt",
+        "dump dirt",
+        "dump dirt",
+        "dump",
+        "dump"
+    ]
+}

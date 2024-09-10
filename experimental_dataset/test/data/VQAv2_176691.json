@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 176691,
+    "image_path": "./experimental_dataset/test/images/VQAv2_176691.png",
+    "question": "What type of person typically owns this animal?",
+    "label": [
+        "cat lover",
+        "can't tell",
+        "cat lover",
+        "crazy cat ladies",
+        "single",
+        "woman",
+        "cat lover",
+        "elderly lady",
+        "loving person",
+        "cat lovers"
+    ]
+}

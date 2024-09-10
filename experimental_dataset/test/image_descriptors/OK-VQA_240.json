@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 240,
+    "caption": "a parking meter sitting on the side of a sidewalk",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "street",
+        "ground",
+        "sign",
+        "flag",
+        "concrete"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 140536,
+    "image_path": "./experimental_dataset/test/images/VQAv2_140536.png",
+    "question": "What is the age of the person's birthday?",
+    "label": [
+        "6",
+        "5",
+        "7",
+        "6",
+        "4",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5"
+    ]
+}

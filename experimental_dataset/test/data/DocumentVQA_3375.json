@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3375,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3375.png",
+    "question": "What is the name of the State ?",
+    "label": [
+        "Virginia"
+    ]
+}

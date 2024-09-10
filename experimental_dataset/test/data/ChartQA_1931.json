@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1931,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1931.png",
+    "question": "What was the total investment volume in commercial property in Amsterdam in 2019?",
+    "label": [
+        "3582"
+    ]
+}

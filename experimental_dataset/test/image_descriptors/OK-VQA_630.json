@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 630,
+    "caption": "a woman holding a cell phone up to her face",
+    "object_tags": [
+        "person",
+        "selfie",
+        "human face",
+        "indoor",
+        "smile",
+        "mobile phone",
+        "skin",
+        "tooth",
+        "wall",
+        "forehead",
+        "phone",
+        "gadget",
+        "eyebrow",
+        "holding",
+        "cellphone"
+    ]
+}

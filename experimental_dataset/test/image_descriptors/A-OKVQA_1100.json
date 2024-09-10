@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1100,
+    "caption": "a herd of cattle standing on top of a dry grass field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "animal",
+        "mammal",
+        "livestock",
+        "field",
+        "herd",
+        "pasture",
+        "grazing",
+        "mountain",
+        "cow",
+        "herding",
+        "ranch",
+        "dairy cow",
+        "steppe",
+        "grassland",
+        "terrestrial animal",
+        "fodder",
+        "standing",
+        "bovine",
+        "landscape",
+        "cattle"
+    ]
+}

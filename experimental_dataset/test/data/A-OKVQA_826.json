@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 826,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_826.png",
+    "question": "What vehicle is the man riding?",
+    "label": "['bike', 'atv', 'tractor', 'atv', 'atv', '4-wheeler', 'tractor', 'tractor', 'tractor', 'four wheeler']",
+    "choices": [
+        "tractor",
+        "bike",
+        "plane",
+        "car"
+    ],
+    "correct_choice": "tractor"
+}

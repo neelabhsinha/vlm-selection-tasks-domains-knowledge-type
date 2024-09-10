@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 544,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Other"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

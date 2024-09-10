@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1594,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1594.png",
+    "question": "How many children died each day of abuse and neglect in the United States in 2019?",
+    "label": [
+        "5.04"
+    ]
+}

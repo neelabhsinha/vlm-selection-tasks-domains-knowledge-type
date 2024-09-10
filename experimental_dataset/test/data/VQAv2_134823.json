@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 134823,
+    "image_path": "./experimental_dataset/test/images/VQAv2_134823.png",
+    "question": "Is she going to serve or receive?",
+    "label": [
+        "receive",
+        "receive",
+        "receive",
+        "serve",
+        "received",
+        "receive",
+        "serve",
+        "receive",
+        "i don't know",
+        "received"
+    ]
+}

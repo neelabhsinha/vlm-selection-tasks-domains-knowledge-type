@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1328,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1328.png",
+    "question": "How much of the total investment received by Mexico was from the manufacturing industry as of September 2020?",
+    "label": [
+        "40.13"
+    ]
+}

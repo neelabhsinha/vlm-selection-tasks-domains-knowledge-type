@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 851,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_851.png",
+    "question": "How long does this animal usually live?",
+    "label": [
+        "16 years",
+        "16 years",
+        "16 years",
+        "16 years",
+        "fifteen year",
+        "fifteen year",
+        "12 years",
+        "12 years",
+        "10 15 years",
+        "10 15 years"
+    ]
+}

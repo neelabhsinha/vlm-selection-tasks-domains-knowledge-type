@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2580,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2580.png",
+    "question": "Where is this food served?",
+    "label": [
+        "food truck",
+        "food truck",
+        "food truck",
+        "food truck",
+        "food truck",
+        "food truck",
+        "food truck",
+        "food truck",
+        "streetcar",
+        "streetcar"
+    ]
+}

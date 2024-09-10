@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 727,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_727.png",
+    "question": "What color T-shirt he wears?",
+    "label": "['white', 'white car', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",
+    "choices": [
+        "blue color",
+        "red color",
+        "black color",
+        "white car"
+    ],
+    "correct_choice": "white car"
+}

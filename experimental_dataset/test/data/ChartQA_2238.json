@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2238,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2238.png",
+    "question": "Who is the career touchdown leader of the Pittsburgh Steelers?",
+    "label": [
+        "Franco Harris"
+    ]
+}

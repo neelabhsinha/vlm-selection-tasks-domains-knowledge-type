@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 194942,
+    "image_path": "./experimental_dataset/test/images/VQAv2_194942.png",
+    "question": "What toy is on the ground?",
+    "label": [
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee"
+    ]
+}

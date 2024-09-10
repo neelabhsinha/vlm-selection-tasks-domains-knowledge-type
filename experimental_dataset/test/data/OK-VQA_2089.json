@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2089,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2089.png",
+    "question": "What level would you classify this hill as eg beginner intermediate advanced?",
+    "label": [
+        "beginner",
+        "beginner",
+        "beginner",
+        "beginner",
+        "beginner",
+        "beginner",
+        "beginner",
+        "beginner",
+        "beginner",
+        "beginner"
+    ]
+}

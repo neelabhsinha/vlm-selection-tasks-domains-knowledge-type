@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 459,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_459.png",
+    "question": "What alcohol brand has a word that refers to the pattern of this animal?",
+    "label": "['stripe', 'red stripe', 'red stripe', 'zebra', 'reds stripe', 'stripping run', 'smirnoff', 'miller', 'red stripe', 'red stripe']",
+    "choices": [
+        "red stripe",
+        "michelob ultra",
+        "blue hawaiian",
+        "red ale"
+    ],
+    "correct_choice": "red stripe"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2541,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2541.png",
+    "question": "What is the amount of direct materials mentioned in the voucher ?",
+    "label": [
+        "32.87"
+    ]
+}

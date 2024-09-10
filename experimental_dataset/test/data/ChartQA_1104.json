@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1104,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1104.png",
+    "question": "What is the value in Hopeful category?",
+    "label": [
+        "49"
+    ]
+}

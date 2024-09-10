@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 895,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_895.png",
+    "question": "What group of people is the yellow area under the bus created for?",
+    "label": "['people waiting', 'passengers', 'loading', 'passnegers', 'passengers', 'bike way', 'blind', 'travel', 'passengers', 'passengers']",
+    "choices": [
+        "handicapped",
+        "elderly",
+        "pregnant women",
+        "blind"
+    ],
+    "correct_choice": "blind"
+}

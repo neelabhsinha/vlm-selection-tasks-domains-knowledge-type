@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 469,
+    "image_path": "./experimental_dataset/test/images/ChartQA_469.png",
+    "question": "What is the sum value of Not too much and Not at all in The news media?",
+    "label": [
+        "56"
+    ]
+}

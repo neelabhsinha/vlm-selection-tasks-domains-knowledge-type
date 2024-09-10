@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 710,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_710.png",
+    "question": "What are the baskets made of?",
+    "label": [
+        "wicker",
+        "wicker",
+        "wicker",
+        "wicker",
+        "wood",
+        "wood",
+        "bamboo",
+        "bamboo",
+        "reed",
+        "reed"
+    ]
+}

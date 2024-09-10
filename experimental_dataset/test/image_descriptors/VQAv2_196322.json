@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 196322,
+    "caption": "a man eating a hot dog in a parking lot",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "human face",
+        "car",
+        "fast food",
+        "eating",
+        "man",
+        "food"
+    ]
+}

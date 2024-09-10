@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2771,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2771.png",
+    "question": "What is the objective of the team dealing with consumer relations efficiency?",
+    "label": [
+        "Balance cost efficiency with quality customer service"
+    ]
+}

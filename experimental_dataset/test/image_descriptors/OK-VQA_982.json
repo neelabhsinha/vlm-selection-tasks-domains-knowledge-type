@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 982,
+    "caption": "a blue bowl sitting on top of a counter next to a microwave",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "waste container",
+        "bathroom",
+        "ceramic",
+        "home appliance",
+        "blue",
+        "kitchen",
+        "toilet"
+    ]
+}

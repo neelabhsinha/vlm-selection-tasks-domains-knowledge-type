@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 609,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_609.png",
+    "question": "Where is this man likely from?",
+    "label": "['china', 'vietnam', 'india', 'cambodia', 'asia', 'philippines', 'asia', 'tropical area', 'somewhere tropical', 'vietnam']",
+    "choices": [
+        "asia",
+        "africa",
+        "greenland",
+        "new zealand"
+    ],
+    "correct_choice": "asia"
+}

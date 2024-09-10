@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3393,
+    "caption": "a black and white cat laying on top of a bed",
+    "object_tags": [
+        "small to medium-sized cats",
+        "domestic cat",
+        "animal",
+        "indoor",
+        "cat",
+        "mammal",
+        "felidae",
+        "laying",
+        "bed",
+        "whiskers",
+        "nap",
+        "domestic short-haired cat",
+        "malayan cat",
+        "white",
+        "sleeping",
+        "lying",
+        "blanket"
+    ]
+}

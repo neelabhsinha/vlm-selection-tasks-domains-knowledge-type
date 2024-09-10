@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 664,
+    "caption": "people walking down a street with umbrellas",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "black and white",
+        "person",
+        "building",
+        "footwear",
+        "umbrella",
+        "fashion accessory",
+        "accessory",
+        "street",
+        "walking",
+        "monochrome",
+        "snapshot",
+        "man",
+        "people",
+        "ground",
+        "holding",
+        "sidewalk",
+        "woman"
+    ]
+}

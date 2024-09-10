@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 218,
+    "image_path": "./experimental_dataset/test/images/ChartQA_218.png",
+    "question": "What represents by smallest bar?",
+    "label": [
+        "Low bone mineral density"
+    ]
+}

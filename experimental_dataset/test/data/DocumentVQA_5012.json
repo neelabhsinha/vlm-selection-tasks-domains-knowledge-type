@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5012,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5012.png",
+    "question": "what are the expenses towards incidentals ,taxi ?",
+    "label": [
+        "1.60"
+    ]
+}

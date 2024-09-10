@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 124821,
+    "image_path": "./experimental_dataset/test/images/VQAv2_124821.png",
+    "question": "What is the boy in blue doing?",
+    "label": [
+        "squatting",
+        "catcher for baseball",
+        "catching",
+        "catching",
+        "squatting",
+        "catching",
+        "catching",
+        "catching",
+        "playing catcher",
+        "playing catcher"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 63876,
+    "caption": "a large elephant standing on top of a lush green field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "terrestrial animal",
+        "elephants and mammoths",
+        "indian elephant",
+        "asian elephant",
+        "plant",
+        "tree",
+        "african elephant",
+        "tusk",
+        "rock",
+        "wildlife",
+        "standing",
+        "enclosure",
+        "trunk",
+        "zoo"
+    ]
+}

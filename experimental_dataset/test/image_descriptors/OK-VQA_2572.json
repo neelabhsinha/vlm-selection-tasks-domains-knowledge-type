@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2572,
+    "caption": "horses standing on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "grass",
+        "tree",
+        "plant",
+        "road",
+        "mountain",
+        "horse",
+        "ground",
+        "rock",
+        "hill",
+        "mammal",
+        "cattle",
+        "animal"
+    ]
+}

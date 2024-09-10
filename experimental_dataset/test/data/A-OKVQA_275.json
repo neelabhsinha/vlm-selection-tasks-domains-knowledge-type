@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 275,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_275.png",
+    "question": "The yellow truck on the sidewalk is concerned with what activity?",
+    "label": "['making schnitzel', 'food', 'food', 'food', 'selling food', 'selling food', 'schnitzel', 'selling food', 'selling food', 'cooking']",
+    "choices": [
+        "packages",
+        "roads",
+        "food",
+        "fire"
+    ],
+    "correct_choice": "food"
+}

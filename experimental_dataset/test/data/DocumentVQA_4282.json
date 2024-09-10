@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4282,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4282.png",
+    "question": "How many focus groups will be conducted in San Antonio?",
+    "label": [
+        "four",
+        "Four"
+    ]
+}

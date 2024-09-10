@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 125817,
+    "caption": "a man in a red shirt and a woman in a blue shirt",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "fast food",
+        "bun",
+        "man",
+        "snack",
+        "dog",
+        "woman",
+        "hotdog",
+        "eating",
+        "food",
+        "people",
+        "outdoor",
+        "indoor"
+    ]
+}

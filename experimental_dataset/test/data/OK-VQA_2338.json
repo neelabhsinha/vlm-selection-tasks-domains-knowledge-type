@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2338,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2338.png",
+    "question": "What type of animal are known for loving the fruit hanging above the rest?",
+    "label": [
+        "monkey",
+        "monkey",
+        "monkey",
+        "monkey",
+        "monkey",
+        "monkey",
+        "monkey",
+        "monkey",
+        "monkey",
+        "monkey"
+    ]
+}

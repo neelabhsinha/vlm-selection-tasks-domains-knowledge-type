@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 22478,
+    "image_path": "./experimental_dataset/test/images/VQAv2_22478.png",
+    "question": "What is below the giraffe?",
+    "label": [
+        "grass",
+        "bag of food",
+        "grass",
+        "grass",
+        "grass",
+        "feeding trough",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+    ]
+}

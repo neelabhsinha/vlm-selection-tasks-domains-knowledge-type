@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4294,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4294.png",
+    "question": "What is the % of H+ recovered from patient M after administering Arginine-HCl?",
+    "label": [
+        "64"
+    ]
+}

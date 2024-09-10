@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4602,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4602.png",
+    "question": "What percentage of female respondents use sugar with foods other than beverages?",
+    "label": [
+        "72%",
+        "72"
+    ]
+}

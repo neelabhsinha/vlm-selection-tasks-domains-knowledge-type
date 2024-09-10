@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 170,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_170.png",
+    "question": "Who is the manufacturer of this laptop?",
+    "label": "['hp', 'hp', 'hp', 'hp', 'hewlett packard', 'hp', 'hewlett packard', 'hp', 'hewitt packard', 'hp']",
+    "choices": [
+        "apple",
+        "hp",
+        "dell",
+        "compaq"
+    ],
+    "correct_choice": "hp"
+}

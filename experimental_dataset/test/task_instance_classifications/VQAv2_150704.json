@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 150704,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Anthropology",
+        "Sports"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge"
+    ]
+}

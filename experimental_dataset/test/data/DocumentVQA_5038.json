@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5038,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5038.png",
+    "question": "What is the name of the resort?",
+    "label": [
+        "Bahia Mar"
+    ]
+}

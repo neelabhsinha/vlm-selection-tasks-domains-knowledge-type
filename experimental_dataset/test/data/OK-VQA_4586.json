@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4586,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4586.png",
+    "question": "What type of kitchen appliance is this?",
+    "label": [
+        "stove",
+        "stove",
+        "stove",
+        "stove",
+        "stove oven",
+        "stove oven",
+        "oven",
+        "oven",
+        "oven stove",
+        "oven stove"
+    ]
+}

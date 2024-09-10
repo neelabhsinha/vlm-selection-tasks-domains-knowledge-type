@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 118040,
+    "image_path": "./experimental_dataset/test/images/VQAv2_118040.png",
+    "question": "What continent are these buildings on?",
+    "label": [
+        "europe",
+        "europe",
+        "europe",
+        "asian",
+        "idk",
+        "europe",
+        "europe",
+        "europe",
+        "london",
+        "europe"
+    ]
+}

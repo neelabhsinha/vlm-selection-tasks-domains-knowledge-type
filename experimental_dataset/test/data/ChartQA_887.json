@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 887,
+    "image_path": "./experimental_dataset/test/images/ChartQA_887.png",
+    "question": "what is the difference between Argentina and Brazil is good?",
+    "label": [
+        "40"
+    ]
+}

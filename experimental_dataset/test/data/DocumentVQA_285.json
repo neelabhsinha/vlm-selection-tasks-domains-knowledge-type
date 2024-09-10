@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 285,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_285.png",
+    "question": "What is the phone number of pharmaceutical education associates?",
+    "label": [
+        "800-686-2276"
+    ]
+}

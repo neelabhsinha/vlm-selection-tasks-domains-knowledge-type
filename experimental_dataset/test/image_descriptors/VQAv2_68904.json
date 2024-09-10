@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 68904,
+    "caption": "a zebra grazing on grass in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "zebra",
+        "wildlife",
+        "grass",
+        "plant",
+        "terrestrial animal",
+        "standing",
+        "safari",
+        "field",
+        "grazing"
+    ]
+}

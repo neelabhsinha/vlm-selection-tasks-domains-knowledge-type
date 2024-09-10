@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 229,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_229.png",
+    "question": "What is needed to control the large object?",
+    "label": "['tail', 'string', 'string', 'string', 'threat', 'wind', 'wind', 'camp', 'kite', 'string']",
+    "choices": [
+        "computer",
+        "battery",
+        "string",
+        "remote"
+    ],
+    "correct_choice": "string"
+}

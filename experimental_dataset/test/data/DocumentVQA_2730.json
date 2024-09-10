@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2730,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2730.png",
+    "question": "What is the first heading on the left of the page?",
+    "label": [
+        "from high school to college",
+        "From High school to college"
+    ]
+}

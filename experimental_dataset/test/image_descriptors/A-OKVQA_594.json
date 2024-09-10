@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 594,
+    "caption": "a man standing next to a woman in a suit",
+    "object_tags": [
+        "person",
+        "clothing",
+        "man",
+        "smile",
+        "ceiling",
+        "formal wear",
+        "dress",
+        "ceremony",
+        "indoor",
+        "suit",
+        "standing",
+        "bow tie",
+        "people",
+        "wedding",
+        "woman"
+    ]
+}

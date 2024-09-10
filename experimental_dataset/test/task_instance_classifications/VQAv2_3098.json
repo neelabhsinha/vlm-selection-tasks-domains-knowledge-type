@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 3098,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Sports"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Technical Knowledge",
+        "Mathematical Knowledge"
+    ]
+}

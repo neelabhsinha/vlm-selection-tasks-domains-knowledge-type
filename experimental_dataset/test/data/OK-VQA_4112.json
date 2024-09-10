@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4112,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4112.png",
+    "question": "What type of dog is this?",
+    "label": [
+        "boston terrier",
+        "boston terrier",
+        "boston terrier",
+        "boston terrier",
+        "pug",
+        "pug",
+        "pitbull",
+        "pitbull",
+        "boxer",
+        "boxer"
+    ]
+}

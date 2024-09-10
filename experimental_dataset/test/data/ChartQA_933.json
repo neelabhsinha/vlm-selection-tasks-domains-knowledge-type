@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 933,
+    "image_path": "./experimental_dataset/test/images/ChartQA_933.png",
+    "question": "What is the difference between the highest percentage share by 0-14 age group and 15-64 age group?",
+    "label": [
+        "45.83"
+    ]
+}

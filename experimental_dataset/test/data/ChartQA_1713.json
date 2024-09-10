@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1713,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1713.png",
+    "question": "What percentage of SMEs viewed access to external finance as a minor obstacle?",
+    "label": [
+        "76"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 22,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_22.png",
+    "question": "Which animal usually occupies the position the cat is in right now?",
+    "label": "['human', 'human', 'human', 'person', 'human', 'human', 'human', 'person', 'human', 'human']",
+    "choices": [
+        "human",
+        "dinosaur",
+        "eagle",
+        "fish"
+    ],
+    "correct_choice": "human"
+}

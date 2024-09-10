@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3011,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3011.png",
+    "question": "What type of sandwich is this?",
+    "label": [
+        "hotdog",
+        "hotdog",
+        "hotdog",
+        "hotdog",
+        "hotdog",
+        "hotdog",
+        "asian",
+        "asian",
+        "hamburger",
+        "hamburger"
+    ]
+}

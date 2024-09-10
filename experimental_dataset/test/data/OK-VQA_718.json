@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 718,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_718.png",
+    "question": "What do you think the tv program the cat is watching is about?",
+    "label": [
+        "space",
+        "space",
+        "space",
+        "space",
+        "space",
+        "space",
+        "planet",
+        "planet",
+        "mice",
+        "mice"
+    ]
+}

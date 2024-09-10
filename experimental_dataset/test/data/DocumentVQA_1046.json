@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1046,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1046.png",
+    "question": "What is DEPB?",
+    "label": [
+        "Duty Entitlement Pass Book"
+    ]
+}

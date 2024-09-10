@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4803,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4803.png",
+    "question": "How much is the \"other\" estimated cost  under \"ESTIMATED COST\"?",
+    "label": [
+        "15.00"
+    ]
+}

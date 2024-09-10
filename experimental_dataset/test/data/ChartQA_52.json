@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 52,
+    "image_path": "./experimental_dataset/test/images/ChartQA_52.png",
+    "question": "Does the light blue bar have smallest value which is 22?",
+    "label": [
+        "Yes"
+    ]
+}

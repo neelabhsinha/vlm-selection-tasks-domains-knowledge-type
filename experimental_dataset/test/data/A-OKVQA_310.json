@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 310,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_310.png",
+    "question": "Which fruit can hurt your eyes if you peel it holding your face too close to it?",
+    "label": "['orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange', 'orange']",
+    "choices": [
+        "banana",
+        "pear",
+        "orange",
+        "mango"
+    ],
+    "correct_choice": "orange"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 58,
+    "image_path": "./experimental_dataset/test/images/ChartQA_58.png",
+    "question": "Which country is represented by brown color bar?",
+    "label": [
+        "Libya"
+    ]
+}

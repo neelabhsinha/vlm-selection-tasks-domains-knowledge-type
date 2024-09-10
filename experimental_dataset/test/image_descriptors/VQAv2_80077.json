@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 80077,
+    "caption": "a polar bear walking across a rock wall",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "bear",
+        "outdoor",
+        "polar",
+        "ground",
+        "terrestrial animal",
+        "polar bear",
+        "zoo",
+        "black bear",
+        "rock"
+    ]
+}

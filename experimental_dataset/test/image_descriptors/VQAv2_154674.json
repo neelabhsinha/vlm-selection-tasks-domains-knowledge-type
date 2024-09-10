@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 154674,
+    "caption": "a cutting board with carrots, celery, radishes and broccoli",
+    "object_tags": [
+        "vegetable",
+        "produce",
+        "vegan nutrition",
+        "natural foods",
+        "leaf vegetable",
+        "whole food",
+        "vegetarian food",
+        "staple food",
+        "local food",
+        "ingredient",
+        "superfood",
+        "diet food",
+        "cruciferous vegetables",
+        "root vegetable",
+        "food group",
+        "cutting board",
+        "indoor",
+        "kitchen knife",
+        "cabbage",
+        "knife",
+        "cutting",
+        "food",
+        "carrot",
+        "kohlrabi",
+        "plant"
+    ]
+}

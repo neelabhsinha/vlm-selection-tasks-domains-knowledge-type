@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1351,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1351.png",
+    "question": "How many students were enrolled in universities in Kenya in 2019/20?",
+    "label": [
+        "509473"
+    ]
+}

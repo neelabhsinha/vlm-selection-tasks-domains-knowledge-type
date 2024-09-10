@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4519,
+    "caption": "a man sitting at a table with a plate of food",
+    "object_tags": [
+        "person",
+        "tableware",
+        "drink",
+        "indoor",
+        "wine glass",
+        "meal",
+        "table",
+        "clothing",
+        "man",
+        "plate",
+        "wine",
+        "food",
+        "drinkware",
+        "snack",
+        "serveware",
+        "fast food",
+        "stemware",
+        "dish",
+        "wall",
+        "restaurant"
+    ]
+}

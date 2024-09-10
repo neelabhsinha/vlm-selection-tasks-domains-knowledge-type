@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 292,
+    "image_path": "./experimental_dataset/test/images/ChartQA_292.png",
+    "question": "Which place shows the value of  6.67 tonnes ?",
+    "label": [
+        "Philippines"
+    ]
+}

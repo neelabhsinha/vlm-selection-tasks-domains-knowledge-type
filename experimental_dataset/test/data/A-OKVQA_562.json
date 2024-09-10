@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 562,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_562.png",
+    "question": "What symbol is repeated on the sign?",
+    "label": "['do not', 'exclamation point', 'stop', 'exclamation point', 'exclamation', 'stop', 'exclamation point', '', 'no noise', 'exclamation point']",
+    "choices": [
+        "minus",
+        "period",
+        "exclamation",
+        "plus"
+    ],
+    "correct_choice": "exclamation"
+}

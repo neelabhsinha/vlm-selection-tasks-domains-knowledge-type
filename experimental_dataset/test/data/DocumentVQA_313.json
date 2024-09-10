@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 313,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_313.png",
+    "question": "What is the amount of exports (Rs.)?",
+    "label": [
+        "37,44,02,902"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1918,
+    "caption": "a train traveling down tracks next to a tall building",
+    "object_tags": [
+        "outdoor",
+        "track",
+        "sky",
+        "railroad",
+        "railway",
+        "tree",
+        "building",
+        "rolling stock",
+        "transport",
+        "railroad car",
+        "train",
+        "car",
+        "rail"
+    ]
+}

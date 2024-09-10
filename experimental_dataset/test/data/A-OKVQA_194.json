@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 194,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_194.png",
+    "question": "How many women are in the picture?",
+    "label": "['four', 'four', 'four', 'four', 'four', 'four', 'four', 'four', 'four', 'four']",
+    "choices": [
+        "three",
+        "two",
+        "four",
+        "eight"
+    ],
+    "correct_choice": "four"
+}

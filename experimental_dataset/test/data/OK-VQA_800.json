@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 800,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_800.png",
+    "question": "Where is this lady having lunch?",
+    "label": [
+        "outside",
+        "outside",
+        "outside",
+        "outside",
+        "patio",
+        "patio",
+        "restaurant",
+        "restaurant",
+        "tea",
+        "tea"
+    ]
+}

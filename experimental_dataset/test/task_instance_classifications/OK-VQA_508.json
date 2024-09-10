@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 508,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Government and Politics",
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Social Knowledge",
+        "Literary Knowledge"
+    ]
+}

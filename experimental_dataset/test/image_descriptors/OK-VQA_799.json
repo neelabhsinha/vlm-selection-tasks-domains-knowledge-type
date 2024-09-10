@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 799,
+    "caption": "a flock of birds standing on top of a grass covered field",
+    "object_tags": [
+        "animal",
+        "bird",
+        "outdoor",
+        "aquatic bird",
+        "grass",
+        "beak",
+        "water bird",
+        "water",
+        "plant",
+        "goose",
+        "feather",
+        "heron",
+        "wildlife",
+        "pond",
+        "lake",
+        "standing",
+        "rock"
+    ]
+}

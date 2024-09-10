@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2690,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Movies"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Visual Knowledge"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 861,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_861.png",
+    "question": "The children pictured are likely photographed as part of what same group?",
+    "label": "['school', 'school', 'class', 'school class', 'school', 'class', 'school', 'school class', 'school', 'school age']",
+    "choices": [
+        "family",
+        "class",
+        "sports",
+        "nationality"
+    ],
+    "correct_choice": "class"
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3842,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3842.png",
+    "question": "During previous year, how much is the \u2018Managerial remuneration to directors towards salaries\u2019?",
+    "label": [
+        "32,04,000",
+        "32,04,000 rupees"
+    ]
+}

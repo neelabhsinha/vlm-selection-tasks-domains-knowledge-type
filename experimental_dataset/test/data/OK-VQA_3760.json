@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3760,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3760.png",
+    "question": "What is this room used for?",
+    "label": [
+        "sleep",
+        "sleep",
+        "sleep",
+        "sleep",
+        "bedroom",
+        "bedroom",
+        "sleep",
+        "sleep",
+        "office",
+        "office"
+    ]
+}

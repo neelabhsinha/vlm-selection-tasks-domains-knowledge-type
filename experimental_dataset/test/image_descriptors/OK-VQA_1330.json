@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1330,
+    "caption": "a man with a beard is looking out a window",
+    "object_tags": [
+        "window blind",
+        "person",
+        "window",
+        "human face",
+        "building",
+        "clothing",
+        "man",
+        "grass",
+        "outdoor",
+        "indoor"
+    ]
+}

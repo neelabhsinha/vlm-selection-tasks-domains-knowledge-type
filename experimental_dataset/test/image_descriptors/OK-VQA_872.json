@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 872,
+    "caption": "a pizza in a box on a table",
+    "object_tags": [
+        "pizza",
+        "box",
+        "fast food",
+        "food",
+        "pizza cheese",
+        "italian food",
+        "baked goods",
+        "california-style pizza",
+        "indoor",
+        "floor",
+        "sitting",
+        "ground"
+    ]
+}

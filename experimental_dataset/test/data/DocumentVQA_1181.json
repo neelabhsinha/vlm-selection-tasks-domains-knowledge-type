@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1181,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1181.png",
+    "question": "What is the heading?",
+    "label": [
+        "Main Goal of VA Evaluation",
+        "Main goal of VA evaluation"
+    ]
+}

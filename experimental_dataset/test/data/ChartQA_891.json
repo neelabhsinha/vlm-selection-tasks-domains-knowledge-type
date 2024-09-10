@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 891,
+    "image_path": "./experimental_dataset/test/images/ChartQA_891.png",
+    "question": "what is the addition  of blacks and Asian who voted for Hillary Clinton?",
+    "label": [
+        "153"
+    ]
+}

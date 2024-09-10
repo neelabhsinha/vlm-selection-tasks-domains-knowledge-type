@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5013,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5013.png",
+    "question": "Of all the groups, which group has the highest degree of self esteem?",
+    "label": [
+        "Play-Boys"
+    ]
+}

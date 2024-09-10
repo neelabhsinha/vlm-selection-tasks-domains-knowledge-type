@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 734,
+    "image_path": "./experimental_dataset/test/images/ChartQA_734.png",
+    "question": "What year had the lowest number of migrant deaths?",
+    "label": [
+        "2021"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 123645,
+    "caption": "a man in a suit standing in front of a bus",
+    "object_tags": [
+        "person",
+        "land vehicle",
+        "vehicle",
+        "outdoor",
+        "clothing",
+        "bus",
+        "ground",
+        "suit",
+        "footwear",
+        "road",
+        "wheel",
+        "man",
+        "standing",
+        "street",
+        "parked"
+    ]
+}

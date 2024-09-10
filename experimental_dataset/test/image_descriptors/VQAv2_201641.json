@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 201641,
+    "caption": "a man wearing a tie sitting in a kitchen",
+    "object_tags": [
+        "person",
+        "wall",
+        "clothing",
+        "indoor",
+        "human face",
+        "man",
+        "black and white"
+    ]
+}

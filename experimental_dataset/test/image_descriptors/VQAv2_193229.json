@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 193229,
+    "caption": "a man standing next to a stone wall next to a pile of rocks",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "man",
+        "tree",
+        "sky",
+        "rock"
+    ]
+}

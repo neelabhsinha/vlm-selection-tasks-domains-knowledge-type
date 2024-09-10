@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3143,
+    "caption": "a bowl filled with vegetables and meat on top of a wooden table",
+    "object_tags": [
+        "food",
+        "ingredient",
+        "cruciferous vegetables",
+        "vegetable",
+        "vegetarian food",
+        "cuisine",
+        "produce",
+        "food group",
+        "staple food",
+        "indoor",
+        "vegan nutrition",
+        "table",
+        "carrot",
+        "leaf vegetable",
+        "prepackaged meal",
+        "natural foods",
+        "take-out food",
+        "superfood",
+        "broccoli",
+        "lunch",
+        "wooden"
+    ]
+}

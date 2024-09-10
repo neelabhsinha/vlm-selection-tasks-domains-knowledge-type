@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1876,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1876.png",
+    "question": "How many maple syrup farms were in New Brunswick in 2016?",
+    "label": [
+        "212"
+    ]
+}

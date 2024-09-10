@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 897,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_897.png",
+    "question": "What structure is contained beyond the large rippled metal door in the background in front of the black car?",
+    "label": "['garage', 'store', 'garage', 'garage', 'store', 'vending machine', 'brick', 'pole', 'tent', 'car']",
+    "choices": [
+        "garage",
+        "store",
+        "apartment",
+        "warehouse"
+    ],
+    "correct_choice": "garage"
+}

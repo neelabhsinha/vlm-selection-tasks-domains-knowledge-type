@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1006,
+    "caption": "a young boy riding a skateboard down a street",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "road",
+        "building",
+        "person",
+        "clothing",
+        "footwear",
+        "house",
+        "street",
+        "people",
+        "child",
+        "scooter"
+    ]
+}

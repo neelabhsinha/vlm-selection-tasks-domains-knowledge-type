@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1274,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1274.png",
+    "question": "What is the full form of EPA?",
+    "label": [
+        "Environmental Protection Agency"
+    ]
+}

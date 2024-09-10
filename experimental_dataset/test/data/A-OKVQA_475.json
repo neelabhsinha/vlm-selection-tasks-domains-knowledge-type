@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 475,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_475.png",
+    "question": "What is the round glass object?",
+    "label": "['camera lens', 'window', 'lens', 'lens', 'camera lens', 'lens', 'lens', 'port hole', 'window', 'lens']",
+    "choices": [
+        "window",
+        "microscope",
+        "camera lens",
+        "magnifying glass"
+    ],
+    "correct_choice": "camera lens"
+}

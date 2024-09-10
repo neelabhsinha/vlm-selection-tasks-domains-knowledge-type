@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 154415,
+    "image_path": "./experimental_dataset/test/images/VQAv2_154415.png",
+    "question": "What types of food are on the plate?",
+    "label": [
+        "tomato and cheese",
+        "bread, cheese, tomato",
+        "cheese and tomato",
+        "bread and cheese",
+        "bread butter tomato milk",
+        "bread, cheese, tomatoes and drinks",
+        "bread and cheese",
+        "bread, tomatoes, canned meat, cheeses",
+        "cheese and tomatoes",
+        "cheese tomato"
+    ]
+}

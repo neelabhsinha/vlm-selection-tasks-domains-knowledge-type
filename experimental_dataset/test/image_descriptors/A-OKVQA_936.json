@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 936,
+    "caption": "a man holding a frisbee next to a woman",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "frisbee",
+        "tree",
+        "smile",
+        "human face",
+        "boy",
+        "man",
+        "jeans",
+        "fun",
+        "woman",
+        "toddler",
+        "shorts",
+        "people",
+        "group",
+        "holding",
+        "family",
+        "standing",
+        "ground"
+    ]
+}

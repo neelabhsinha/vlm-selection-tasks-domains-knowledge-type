@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 93089,
+    "image_path": "./experimental_dataset/test/images/VQAv2_93089.png",
+    "question": "What country is this in?",
+    "label": [
+        "china",
+        "china",
+        "japan",
+        "japan",
+        "china",
+        "india",
+        "lebanon",
+        "japan",
+        "china",
+        "japan"
+    ]
+}

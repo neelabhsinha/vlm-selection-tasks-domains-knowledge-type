@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 209,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_209.png",
+    "question": "Which snowboarder will have a harder time standing up?",
+    "label": "['closer', 'on ground', 'back one', 'brown jacket', 'first', 'white board', 'brown jacket', 'in background', 'first one', 'first']",
+    "choices": [
+        "both",
+        "neither",
+        "red board",
+        "white board"
+    ],
+    "correct_choice": "white board"
+}

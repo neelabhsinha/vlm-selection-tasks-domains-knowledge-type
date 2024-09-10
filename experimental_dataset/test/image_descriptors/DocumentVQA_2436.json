@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2436,
+    "caption": "a poster with a picture of a penguin on it",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "circle",
+        "diagram",
+        "drawing",
+        "parallel"
+    ]
+}

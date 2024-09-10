@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3404,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3404.png",
+    "question": "What is the name of the \u2018author\u2019 whose submitted paper status is \u201cin progress\u201d?",
+    "label": [
+        "RAVEENDRANATH",
+        "Raveendranath"
+    ]
+}

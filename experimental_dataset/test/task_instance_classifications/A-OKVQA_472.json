@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 472,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Movies",
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Cultural Knowledge"
+    ]
+}

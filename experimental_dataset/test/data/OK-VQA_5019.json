@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5019,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5019.png",
+    "question": "What kind of building is this?",
+    "label": [
+        "market",
+        "market",
+        "market",
+        "market",
+        "bank",
+        "bank",
+        "fire department",
+        "fire department",
+        "grocery store",
+        "grocery store"
+    ]
+}

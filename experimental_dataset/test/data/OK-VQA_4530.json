@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4530,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4530.png",
+    "question": "What is the purpose of the silver strips on these peoples' vests?",
+    "label": [
+        "reflection",
+        "reflection",
+        "caution",
+        "caution",
+        "safety",
+        "safety",
+        "reflective",
+        "reflective",
+        "reflect light",
+        "reflect light"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 472,
+    "caption": "a teddy bear sitting on a bench in a park",
+    "object_tags": [
+        "outdoor",
+        "car",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "furniture",
+        "street furniture",
+        "footwear",
+        "ground",
+        "bench",
+        "statue",
+        "person",
+        "sidewalk",
+        "street",
+        "city"
+    ]
+}

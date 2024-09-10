@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 640,
+    "caption": "a woman walking down a street next to a tall building",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "street",
+        "road",
+        "text",
+        "people",
+        "person",
+        "city",
+        "sign"
+    ]
+}

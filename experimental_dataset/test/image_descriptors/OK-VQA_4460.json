@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4460,
+    "caption": "a cat is laying down on a couch",
+    "object_tags": [
+        "cat",
+        "small to medium-sized cats",
+        "domestic cat",
+        "felidae",
+        "indoor",
+        "laying",
+        "nap",
+        "whiskers",
+        "sleep",
+        "paw",
+        "comfort",
+        "sleeping",
+        "sofa",
+        "person",
+        "orange",
+        "kitten"
+    ]
+}

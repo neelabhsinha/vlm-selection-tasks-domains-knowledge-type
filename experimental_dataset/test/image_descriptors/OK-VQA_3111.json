@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3111,
+    "caption": "a bed that has a stuffed animal on it",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "pillow",
+        "bed",
+        "wall",
+        "linens",
+        "cushion",
+        "bedroom",
+        "bedding",
+        "bed sheet",
+        "throw pillow",
+        "interior design",
+        "text",
+        "duvet cover",
+        "mattress",
+        "carpet",
+        "textile",
+        "bedclothes",
+        "floor",
+        "room",
+        "blanket"
+    ]
+}

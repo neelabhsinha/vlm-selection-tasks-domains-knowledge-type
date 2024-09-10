@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1123,
+    "caption": "a pan filled with food on top of a stove",
+    "object_tags": [
+        "paste",
+        "batter",
+        "purae",
+        "indoor",
+        "food"
+    ]
+}

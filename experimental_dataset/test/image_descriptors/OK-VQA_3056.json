@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3056,
+    "caption": "a large green truck parked in a parking lot",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "transport",
+        "tire",
+        "outdoor",
+        "sky",
+        "truck",
+        "freight transport",
+        "auto part",
+        "commercial vehicle",
+        "trailer truck",
+        "cargo",
+        "motor vehicle",
+        "mode of transport",
+        "trailer",
+        "parked",
+        "ground",
+        "lorry"
+    ]
+}

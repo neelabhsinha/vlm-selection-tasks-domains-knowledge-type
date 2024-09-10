@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1102,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1102.png",
+    "question": "What are these two players doing?",
+    "label": "['handshake', 'shaking hands', 'discussing', 'talking', 'tennis players', 'congratulating', 'shake hand', 'cheer up', 'hand shaking', 'speak']",
+    "choices": [
+        "congratulating",
+        "arguing",
+        "tackling",
+        "fighting"
+    ],
+    "correct_choice": "congratulating"
+}

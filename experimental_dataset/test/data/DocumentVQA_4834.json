@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4834,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4834.png",
+    "question": "What is the \"ROUTE CODE\"?",
+    "label": [
+        "850014"
+    ]
+}

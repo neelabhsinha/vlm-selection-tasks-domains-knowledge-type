@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 243,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_243.png",
+    "question": "The guy on the beach towel is readying the item to do what with it most likely?",
+    "label": "['fly kite', 'fly it', 'fly', 'fly kite', 'dry off', 'fly', 'fly it', 'fly', 'fly kite', 'sell it']",
+    "choices": [
+        "wear",
+        "lie",
+        "fly",
+        "swim"
+    ],
+    "correct_choice": "fly"
+}

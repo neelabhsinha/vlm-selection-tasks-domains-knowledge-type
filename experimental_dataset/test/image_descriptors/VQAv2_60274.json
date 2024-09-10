@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 60274,
+    "caption": "a man standing in a living room next to a table",
+    "object_tags": [
+        "wall",
+        "vase",
+        "indoor",
+        "furniture",
+        "interior design",
+        "houseplant",
+        "blue",
+        "footwear",
+        "chair",
+        "flowerpot",
+        "floor",
+        "person",
+        "table",
+        "standing",
+        "room",
+        "flower"
+    ]
+}

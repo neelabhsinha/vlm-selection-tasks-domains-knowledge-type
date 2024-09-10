@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1427,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1427.png",
+    "question": "Since what year has the U.S. birth rate for twins risen significantly?",
+    "label": [
+        "1980"
+    ]
+}

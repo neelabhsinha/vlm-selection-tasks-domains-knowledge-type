@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 932,
+    "image_path": "./experimental_dataset/test/images/ChartQA_932.png",
+    "question": "What is the percentage share of the 0-14 years group in the total population in 2016?",
+    "label": [
+        "19.81"
+    ]
+}

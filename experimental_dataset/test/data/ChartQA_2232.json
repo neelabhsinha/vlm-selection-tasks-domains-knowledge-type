@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2232,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2232.png",
+    "question": "How many Indian bands did Ontario have in 2019?",
+    "label": [
+        "126"
+    ]
+}

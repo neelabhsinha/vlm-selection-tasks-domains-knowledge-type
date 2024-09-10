@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 4,
+    "caption": "a cell phone sitting on top of a desk next to a keyboard",
+    "object_tags": [
+        "electronics",
+        "electronic device",
+        "gadget",
+        "computer",
+        "laptop",
+        "communication device",
+        "portable communications device",
+        "input device",
+        "office equipment",
+        "peripheral",
+        "indoor",
+        "netbook",
+        "computer component",
+        "space bar",
+        "output device",
+        "mobile device",
+        "mobile phone",
+        "computer hardware",
+        "multimedia",
+        "touchpad",
+        "sitting",
+        "table",
+        "mac",
+        "smartphone"
+    ]
+}

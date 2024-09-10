@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1131,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1131.png",
+    "question": "What's the ratio between employees who have stress and those don't have?",
+    "label": [
+        "1.702702703"
+    ]
+}

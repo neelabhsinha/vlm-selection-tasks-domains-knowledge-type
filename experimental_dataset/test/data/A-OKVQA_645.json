@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 645,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_645.png",
+    "question": "Who is the most experienced rider in the photo?",
+    "label": "['man', 'man', 'elderly man', 'man', 'child', 'man', 'old man', 'old man', 'man', 'man']",
+    "choices": [
+        "little boy",
+        "elderly man",
+        "nobody",
+        "person sitting"
+    ],
+    "correct_choice": "elderly man"
+}

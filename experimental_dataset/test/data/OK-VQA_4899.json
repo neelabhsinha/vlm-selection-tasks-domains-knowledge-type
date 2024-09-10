@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4899,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4899.png",
+    "question": "Can you guess the material used to make the post shown in this picture?",
+    "label": [
+        "aluminum",
+        "aluminum",
+        "aluminum",
+        "aluminum",
+        "metal",
+        "metal",
+        "metal",
+        "metal",
+        "sheet metal",
+        "sheet metal"
+    ]
+}

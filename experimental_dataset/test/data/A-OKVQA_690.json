@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 690,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_690.png",
+    "question": "What is happening on the table?",
+    "label": "['cat napping', 'cat nap', 'cat sleeping', 'cat sleeping', 'paperwork', 'sleepy cat', 'man happening', 'napping', 'cat resting', 'cat resting']",
+    "choices": [
+        "eating",
+        "mixing",
+        "sorting",
+        "napping"
+    ],
+    "correct_choice": "napping"
+}

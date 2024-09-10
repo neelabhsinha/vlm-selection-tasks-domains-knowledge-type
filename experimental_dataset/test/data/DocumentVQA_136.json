@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 136,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_136.png",
+    "question": "What is the No. of the population in Henry county?",
+    "label": [
+        "19,000"
+    ]
+}

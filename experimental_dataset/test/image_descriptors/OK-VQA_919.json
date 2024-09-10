@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 919,
+    "caption": "a cat sitting on top of a tv screen",
+    "object_tags": [
+        "text",
+        "animal",
+        "cat",
+        "monitor",
+        "cartoon",
+        "television",
+        "display device",
+        "indoor"
+    ]
+}

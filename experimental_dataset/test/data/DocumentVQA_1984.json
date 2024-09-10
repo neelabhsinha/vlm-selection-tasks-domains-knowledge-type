@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1984,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1984.png",
+    "question": "What is the campaign average pH value ?",
+    "label": [
+        "11.6"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3606,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3606.png",
+    "question": "Do men or women use these?",
+    "label": [
+        "men",
+        "men",
+        "men",
+        "men",
+        "men",
+        "men",
+        "men",
+        "men",
+        "men",
+        "men"
+    ]
+}

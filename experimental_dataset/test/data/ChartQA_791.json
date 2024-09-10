@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 791,
+    "image_path": "./experimental_dataset/test/images/ChartQA_791.png",
+    "question": "How many points the line chart down from 2009  to 2020 ?",
+    "label": [
+        "12"
+    ]
+}

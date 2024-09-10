@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 194942,
+    "caption": "a frisbee is in the air near a tree",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "sky",
+        "tree",
+        "cloud",
+        "field",
+        "frisbee",
+        "lawn",
+        "playground",
+        "blue",
+        "grassy",
+        "person"
+    ]
+}

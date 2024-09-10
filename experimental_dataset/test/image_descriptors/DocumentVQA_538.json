@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 538,
+    "caption": "a collage of photographs showing different types of plants",
+    "object_tags": [
+        "text",
+        "font",
+        "screenshot",
+        "black and white",
+        "document"
+    ]
+}

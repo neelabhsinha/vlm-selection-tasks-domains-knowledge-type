@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 794,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_794.png",
+    "question": "How many markers are on the tray behind the man?",
+    "label": "['three', 'three', 'three', 'three', 'two', 'three', 'three', '3 markers', 'three', '3 markers']",
+    "choices": [
+        "one",
+        "three",
+        "two",
+        "five"
+    ],
+    "correct_choice": "three"
+}

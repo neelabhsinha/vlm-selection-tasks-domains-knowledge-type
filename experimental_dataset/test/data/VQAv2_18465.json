@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 18465,
+    "image_path": "./experimental_dataset/test/images/VQAv2_18465.png",
+    "question": "Is there an arc in the picture?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

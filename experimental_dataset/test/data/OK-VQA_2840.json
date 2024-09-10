@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2840,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2840.png",
+    "question": "What is this style of decorating called?",
+    "label": [
+        "traditional",
+        "traditional",
+        "traditional",
+        "traditional",
+        "classic",
+        "classic",
+        "king edward",
+        "king edward",
+        "formal",
+        "formal"
+    ]
+}

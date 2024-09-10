@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 665,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_665.png",
+    "question": "what is this seating plan for?",
+    "label": [
+        "assembly",
+        "Assembly"
+    ]
+}

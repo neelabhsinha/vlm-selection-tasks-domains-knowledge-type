@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3375,
+    "caption": "a large city with a large body of water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "aerial photography",
+        "sky",
+        "building",
+        "bird's-eye view",
+        "city",
+        "boat",
+        "aerial"
+    ]
+}

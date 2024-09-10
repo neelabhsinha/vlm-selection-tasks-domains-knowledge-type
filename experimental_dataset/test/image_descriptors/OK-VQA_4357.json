@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4357,
+    "caption": "a cat sitting on top of a wooden bench",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "felidae",
+        "small to medium-sized cats",
+        "mammal",
+        "domestic cat",
+        "animal",
+        "cat",
+        "ground",
+        "sitting",
+        "plant",
+        "looking"
+    ]
+}

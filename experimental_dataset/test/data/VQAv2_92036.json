@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 92036,
+    "image_path": "./experimental_dataset/test/images/VQAv2_92036.png",
+    "question": "How many roses are yellow?",
+    "label": [
+        "0",
+        "6",
+        "5",
+        "5",
+        "6",
+        "6",
+        "5",
+        "ibid",
+        "6",
+        "5"
+    ]
+}

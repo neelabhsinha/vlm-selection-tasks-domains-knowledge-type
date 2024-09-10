@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1692,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1692.png",
+    "question": "What is on the outside of these pastries?",
+    "label": [
+        "sugar",
+        "sugar",
+        "sugar",
+        "sugar",
+        "sugar",
+        "sugar",
+        "powdered sugar",
+        "powdered sugar",
+        "powdered sugar",
+        "powdered sugar"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1196,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1196.png",
+    "question": "What does the color red indicate?",
+    "label": [
+        "Asians"
+    ]
+}

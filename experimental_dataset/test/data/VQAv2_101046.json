@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 101046,
+    "image_path": "./experimental_dataset/test/images/VQAv2_101046.png",
+    "question": "Is the blonde woman smoking a cigarette?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

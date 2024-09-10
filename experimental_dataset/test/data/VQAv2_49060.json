@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 49060,
+    "image_path": "./experimental_dataset/test/images/VQAv2_49060.png",
+    "question": "What are the bowls made out of?",
+    "label": [
+        "glass",
+        "pyrex",
+        "plastic",
+        "plastic",
+        "glass",
+        "plastic",
+        "glass",
+        "glass",
+        "glass",
+        "glass"
+    ]
+}

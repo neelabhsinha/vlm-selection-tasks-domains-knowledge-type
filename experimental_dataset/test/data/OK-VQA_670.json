@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 670,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_670.png",
+    "question": "What vegetable is in the casserole dish?",
+    "label": [
+        "tomato",
+        "tomato",
+        "tomato",
+        "tomato",
+        "tomato",
+        "tomato",
+        "broccoli",
+        "broccoli",
+        "lettuce",
+        "lettuce"
+    ]
+}

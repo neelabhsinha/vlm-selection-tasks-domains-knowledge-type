@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4516,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4516.png",
+    "question": "What are the Machinery Repair and Maintenance costs for Research & Development in the current year?",
+    "label": [
+        "52118"
+    ]
+}

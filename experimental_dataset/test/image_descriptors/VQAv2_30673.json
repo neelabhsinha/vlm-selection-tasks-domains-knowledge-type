@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 30673,
+    "caption": "a plate with three different colored birds on it",
+    "object_tags": [
+        "platter",
+        "art",
+        "ceramic",
+        "earthenware",
+        "tableware",
+        "plate",
+        "indoor",
+        "ceramic ware"
+    ]
+}

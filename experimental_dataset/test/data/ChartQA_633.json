@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 633,
+    "image_path": "./experimental_dataset/test/images/ChartQA_633.png",
+    "question": "Documented, collected and recycled 20%, Not collected for recycling 80%, find the ratio between them?",
+    "label": [
+        "0.25"
+    ]
+}

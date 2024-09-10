@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 809,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_809.png",
+    "question": "What are the vehicles about to do?",
+    "label": "['stop', 'stop', 'stop', 'stop', 'stop', 'stop', 'stop', 'stop', 'go', 'stop']",
+    "choices": [
+        "park",
+        "back up",
+        "go",
+        "stop"
+    ],
+    "correct_choice": "go"
+}

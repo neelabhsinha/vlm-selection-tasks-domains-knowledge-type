@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 210318,
+    "image_path": "./experimental_dataset/test/images/VQAv2_210318.png",
+    "question": "What normally comes out of the large, tall thing?",
+    "label": [
+        "light",
+        "light",
+        "light",
+        "light",
+        "smoke",
+        "light pole",
+        "smoke",
+        "light",
+        "smoke",
+        "light"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1495,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1495.png",
+    "question": "What was the box office revenue for 2019 in the UK?",
+    "label": [
+        "1251.8"
+    ]
+}

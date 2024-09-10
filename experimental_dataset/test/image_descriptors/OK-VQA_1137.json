@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1137,
+    "caption": "a man riding skis down a snow covered slope",
+    "object_tags": [
+        "sport",
+        "footwear",
+        "snow",
+        "painting",
+        "person",
+        "snowboarding",
+        "outdoor",
+        "mountain",
+        "skiing"
+    ]
+}

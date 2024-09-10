@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4030,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4030.png",
+    "question": "What activity could be done in this room?",
+    "label": [
+        "watch tv",
+        "watch tv",
+        "watch tv",
+        "watch tv",
+        "watch tv",
+        "watch tv",
+        "read",
+        "read",
+        "video game",
+        "video game"
+    ]
+}

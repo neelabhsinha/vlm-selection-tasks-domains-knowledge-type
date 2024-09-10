@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1142,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1142.png",
+    "question": "Work out the ratio of the bigger segment to the smaller one?",
+    "label": [
+        "1.577"
+    ]
+}

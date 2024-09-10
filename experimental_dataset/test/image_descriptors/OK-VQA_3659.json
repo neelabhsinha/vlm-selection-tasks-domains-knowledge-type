@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3659,
+    "caption": "a crowd of people walking down a street with umbrellas",
+    "object_tags": [
+        "scene",
+        "building",
+        "tree",
+        "outdoor",
+        "christmas tree",
+        "public space",
+        "street",
+        "night",
+        "city",
+        "light",
+        "people",
+        "ground"
+    ]
+}

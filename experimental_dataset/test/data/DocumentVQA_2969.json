@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2969,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2969.png",
+    "question": "What time is the \u2018registration\u2019 according to the program?",
+    "label": [
+        "10:00 - 10:30 a.m."
+    ]
+}

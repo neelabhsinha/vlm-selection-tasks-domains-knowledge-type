@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1949,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1949.png",
+    "question": "Waht is the name of the person in the Information Sheet?",
+    "label": [
+        "George E. Wilber, Jr."
+    ]
+}

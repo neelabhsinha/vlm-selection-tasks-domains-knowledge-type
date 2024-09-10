@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3998,
+    "caption": "a living room filled with furniture and a tv",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "interior design",
+        "christmas tree",
+        "furniture",
+        "room",
+        "floor",
+        "house",
+        "couch",
+        "living room",
+        "den",
+        "home",
+        "christmas",
+        "ceiling"
+    ]
+}

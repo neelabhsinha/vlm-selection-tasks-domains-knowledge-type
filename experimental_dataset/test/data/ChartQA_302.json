@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 302,
+    "image_path": "./experimental_dataset/test/images/ChartQA_302.png",
+    "question": "Which bar shows the lowest Death of food deflict?",
+    "label": [
+        "Samoa"
+    ]
+}

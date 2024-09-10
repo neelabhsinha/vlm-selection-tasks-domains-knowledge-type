@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1482,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1482.png",
+    "question": "How much money did New York transfer to beneficiaries in 2020?",
+    "label": [
+        "3376.81"
+    ]
+}

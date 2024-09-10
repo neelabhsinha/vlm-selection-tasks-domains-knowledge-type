@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 132953,
+    "image_path": "./experimental_dataset/test/images/VQAv2_132953.png",
+    "question": "Are these two friends?",
+    "label": [
+        "yes",
+        "yes",
+        "maybe",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

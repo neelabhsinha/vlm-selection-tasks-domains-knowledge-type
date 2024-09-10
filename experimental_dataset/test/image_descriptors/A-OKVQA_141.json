@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 141,
+    "caption": "a person in a suit with luggage in a room",
+    "object_tags": [
+        "luggage",
+        "luggage and bags",
+        "clothing",
+        "indoor",
+        "footwear",
+        "floor",
+        "person",
+        "sitting",
+        "bag",
+        "car"
+    ]
+}

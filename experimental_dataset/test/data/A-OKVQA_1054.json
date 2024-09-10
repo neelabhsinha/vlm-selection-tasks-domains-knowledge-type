@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1054,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1054.png",
+    "question": "What type of event is happening?",
+    "label": "['birthday party', 'pizza party', 'birthday party', 'childrens', 'pizza party', 'birthday', 'pizza party', 'pizza party', 'birthday party', 'party']",
+    "choices": [
+        "pizza party",
+        "graduation",
+        "wedding",
+        "engagement"
+    ],
+    "correct_choice": "pizza party"
+}

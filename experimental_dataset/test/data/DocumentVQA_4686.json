@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4686,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4686.png",
+    "question": "Who is a freshman in the picture on top?",
+    "label": [
+        "Miss Kendra Ellis",
+        "miss kendra ellis",
+        "kendra ellis"
+    ]
+}

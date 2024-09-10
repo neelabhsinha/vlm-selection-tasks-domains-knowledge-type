@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 579,
+    "image_path": "./experimental_dataset/test/images/ChartQA_579.png",
+    "question": "In which year does the Israel and Australia intersect?",
+    "label": [
+        "2018"
+    ]
+}

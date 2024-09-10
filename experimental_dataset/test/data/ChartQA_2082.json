@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2082,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2082.png",
+    "question": "What was the highest monthly sales of cannabis in Canada in July of 2020?",
+    "label": [
+        "9.07"
+    ]
+}

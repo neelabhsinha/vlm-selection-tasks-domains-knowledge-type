@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 577,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_577.png",
+    "question": "The animals are walking towards the same object to do what?",
+    "label": "['drink', 'drink water', 'drink', 'drink', 'drink', 'drink', 'drink water', 'to drink', 'drink', 'drink water']",
+    "choices": [
+        "mate",
+        "sleep",
+        "drink water",
+        "eat"
+    ],
+    "correct_choice": "drink water"
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 25945,
+    "caption": "two parking meters on the side of a brick wall",
+    "object_tags": [
+        "outdoor",
+        "meter",
+        "grass",
+        "plant",
+        "parking",
+        "ground",
+        "parking meter",
+        "mailbox"
+    ]
+}

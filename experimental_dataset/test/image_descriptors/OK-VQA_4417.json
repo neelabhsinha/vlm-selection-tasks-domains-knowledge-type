@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4417,
+    "caption": "a black bear walking through a wooded area",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "bear",
+        "plant",
+        "animal",
+        "mammal",
+        "nature reserve",
+        "wilderness",
+        "black bear",
+        "walking",
+        "wildlife",
+        "black",
+        "grass",
+        "forest",
+        "rock",
+        "wood"
+    ]
+}

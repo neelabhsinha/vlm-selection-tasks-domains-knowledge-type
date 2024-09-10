@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 341,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_341.png",
+    "question": "What time of day is it likely right now?",
+    "label": "['day', 'morning maybe', 'afternoon', 'morning', 'late afternoon', 'morning', 'morning', 'midday', 'midday', 'daytime']",
+    "choices": [
+        "evening",
+        "morning",
+        "afternoon",
+        "night"
+    ],
+    "correct_choice": "morning"
+}

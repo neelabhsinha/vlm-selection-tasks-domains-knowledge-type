@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 366,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_366.png",
+    "question": "What are the eating utensils on the left called?",
+    "label": [
+        "chopstick",
+        "chopstick",
+        "chopstick",
+        "chopstick",
+        "chopstick",
+        "chopstick",
+        "chopstick",
+        "chopstick",
+        "chop stick",
+        "chop stick"
+    ]
+}

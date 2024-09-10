@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 533,
+    "caption": "a pile of yellow flowers sitting on top of a sidewalk",
+    "object_tags": [
+        "outdoor",
+        "waste container",
+        "street",
+        "city",
+        "ground",
+        "fire hydrant",
+        "building",
+        "sidewalk",
+        "sitting",
+        "yellow",
+        "winter"
+    ]
+}

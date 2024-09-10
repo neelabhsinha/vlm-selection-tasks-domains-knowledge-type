@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 84,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_84.png",
+    "question": "In what location is the motorcycle parked most likely?",
+    "label": "['hallway', 'home', 'bedroom', 'street', 'garage', 'garage', 'livingroom', 'garage', 'garage', 'garage']",
+    "choices": [
+        "store",
+        "sidewalk",
+        "home",
+        "expo"
+    ],
+    "correct_choice": "home"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 385,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_385.png",
+    "question": "What is the white appliance on the counter used to make?",
+    "label": "['coffee', 'food', 'coffee', 'coffee', 'coffee', 'coffee', 'coffee', 'using', 'food', 'coffee']",
+    "choices": [
+        "bagels",
+        "smoothies",
+        "toast",
+        "coffee"
+    ],
+    "correct_choice": "coffee"
+}

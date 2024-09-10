@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2220,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2220.png",
+    "question": "What social network did 78 percent of Uruguayans claim to be using?",
+    "label": [
+        "WhatsApp"
+    ]
+}

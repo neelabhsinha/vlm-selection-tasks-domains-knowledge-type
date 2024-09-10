@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2815,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2815.png",
+    "question": "What does this business sell?",
+    "label": [
+        "ice cream",
+        "ice cream",
+        "ice cream",
+        "ice cream",
+        "ice cream",
+        "ice cream",
+        "ice cream",
+        "ice cream",
+        "ice cream",
+        "ice cream"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4206,
+    "caption": "a display case filled with lots of donuts",
+    "object_tags": [
+        "snack",
+        "dessert",
+        "bakery",
+        "baked goods",
+        "donut",
+        "fast food",
+        "baking",
+        "person",
+        "indoor",
+        "doughnut",
+        "food",
+        "display",
+        "pastry",
+        "shop"
+    ]
+}

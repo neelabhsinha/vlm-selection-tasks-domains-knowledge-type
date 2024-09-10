@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1126,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1126.png",
+    "question": "What sort of spice will most likely be added to the fried vegetable here?",
+    "label": "['make', 'cream', 'vegetable sandwich', 'tomotto', 'eating breakfast', 'tomato', 'salt', 'salt', 'salt', 'salt']",
+    "choices": [
+        "rosemary",
+        "pickles",
+        "salt",
+        "cayenne"
+    ],
+    "correct_choice": "salt"
+}

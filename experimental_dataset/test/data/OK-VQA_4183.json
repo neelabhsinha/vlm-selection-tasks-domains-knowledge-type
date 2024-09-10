@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4183,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4183.png",
+    "question": "Their vests are made of what material?",
+    "label": [
+        "polyester",
+        "polyester",
+        "polyester",
+        "polyester",
+        "platic",
+        "platic",
+        "nylon",
+        "nylon",
+        "plastic",
+        "plastic"
+    ]
+}

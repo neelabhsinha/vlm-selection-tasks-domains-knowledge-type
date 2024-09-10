@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 421,
+    "image_path": "./experimental_dataset/test/images/ChartQA_421.png",
+    "question": "When the military expenditure reached a value higher than 0.8%?",
+    "label": [
+        "1978"
+    ]
+}

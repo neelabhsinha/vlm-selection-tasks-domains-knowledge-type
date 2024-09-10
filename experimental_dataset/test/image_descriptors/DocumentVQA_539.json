@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 539,
+    "caption": "a collage of photographs showing a street sign",
+    "object_tags": [
+        "text",
+        "diagram",
+        "font",
+        "screenshot",
+        "line",
+        "black and white",
+        "number",
+        "receipt"
+    ]
+}

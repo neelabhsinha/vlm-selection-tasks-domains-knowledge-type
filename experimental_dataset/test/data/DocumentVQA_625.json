@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 625,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_625.png",
+    "question": "What are the cash and cash equivalents (Notes 1 and 14) for 2008?",
+    "label": [
+        "$10,768"
+    ]
+}

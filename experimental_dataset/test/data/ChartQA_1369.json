@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1369,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1369.png",
+    "question": "What was the percentage of male smokers in England in 2019?",
+    "label": [
+        "23"
+    ]
+}

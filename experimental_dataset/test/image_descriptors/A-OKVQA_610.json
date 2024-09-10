@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 610,
+    "caption": "a cat sitting on top of a computer screen",
+    "object_tags": [
+        "indoor",
+        "cat",
+        "animal",
+        "wall",
+        "small to medium-sized cats",
+        "computer",
+        "felidae",
+        "monitor",
+        "computer monitor",
+        "output device",
+        "window",
+        "screen",
+        "television",
+        "sitting"
+    ]
+}

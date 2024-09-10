@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4387,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4387.png",
+    "question": "What type of restaurant cn you usually find this type of food?",
+    "label": [
+        "pizza",
+        "pizza",
+        "pizza",
+        "pizza",
+        "breakfast",
+        "breakfast",
+        "pizzaria",
+        "pizzaria",
+        "italian",
+        "italian"
+    ]
+}

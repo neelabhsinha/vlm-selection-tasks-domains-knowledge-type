@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 1527,
+    "caption": "a black and white photo of a remote control",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "rectangle",
+        "diagram",
+        "design"
+    ]
+}

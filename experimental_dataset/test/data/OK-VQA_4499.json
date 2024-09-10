@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4499,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4499.png",
+    "question": "How do you pay for parking here?",
+    "label": [
+        "quarter",
+        "quarter",
+        "quarter",
+        "quarter",
+        "meter",
+        "meter",
+        "you don't",
+        "you don't",
+        "booth",
+        "booth"
+    ]
+}

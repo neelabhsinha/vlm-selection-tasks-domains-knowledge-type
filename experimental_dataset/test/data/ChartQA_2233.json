@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2233,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2233.png",
+    "question": "What region had the highest number of Indian bands in Canada in 2019?",
+    "label": [
+        "British Columbia"
+    ]
+}

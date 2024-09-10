@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2138,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2138.png",
+    "question": "What was the average distance traveled by rail per person per year for business purposes in England in 2018?",
+    "label": [
+        "120"
+    ]
+}

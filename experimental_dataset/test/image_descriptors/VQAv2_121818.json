@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 121818,
+    "caption": "a woman sitting on a bench with a dog",
+    "object_tags": [
+        "person",
+        "sky",
+        "dog",
+        "clothing",
+        "outdoor",
+        "dog breed",
+        "sunglasses",
+        "man",
+        "jeans",
+        "woman"
+    ]
+}

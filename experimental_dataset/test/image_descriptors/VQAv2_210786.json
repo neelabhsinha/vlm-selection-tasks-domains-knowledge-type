@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 210786,
+    "caption": "a number of people riding horses on a track",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "horse",
+        "rein",
+        "bridle",
+        "stadium",
+        "horse supplies",
+        "stallion",
+        "horse tack",
+        "mare",
+        "building",
+        "halter",
+        "flat racing",
+        "jockey",
+        "animal sports",
+        "saddle",
+        "equestrianism",
+        "equestrian sport",
+        "mane",
+        "equitation",
+        "fence",
+        "riding",
+        "horse racing",
+        "racing",
+        "track",
+        "person"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 305,
+    "caption": "a woman sitting on a bench in front of a store",
+    "object_tags": [
+        "clothing",
+        "person",
+        "street",
+        "man",
+        "footwear",
+        "monochrome",
+        "building",
+        "human face",
+        "outdoor",
+        "black and white",
+        "ground",
+        "sidewalk",
+        "store"
+    ]
+}

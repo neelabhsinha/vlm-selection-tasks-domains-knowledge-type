@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1895,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1895.png",
+    "question": "How long do you cook the noodles for this?",
+    "label": [
+        "8 minutes",
+        "8 minutes",
+        "8 minutes",
+        "8 minutes",
+        "25 mins",
+        "25 mins",
+        "15 minutes",
+        "15 minutes",
+        "10 minutes",
+        "10 minutes"
+    ]
+}

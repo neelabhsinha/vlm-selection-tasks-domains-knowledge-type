@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5285,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5285.png",
+    "question": "What is the Response Code?",
+    "label": [
+        "w77",
+        "W77"
+    ]
+}

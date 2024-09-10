@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 879,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_879.png",
+    "question": "What type of numbers does the clock face show?",
+    "label": "['roman numerals', 'roman numerals', 'roman', 'roman', 'roman numerals', 'roman', 'roman', 'roman numerals', 'roman numerals', 'roman']",
+    "choices": [
+        "greek",
+        "chinese",
+        "tagalog",
+        "roman"
+    ],
+    "correct_choice": "roman"
+}

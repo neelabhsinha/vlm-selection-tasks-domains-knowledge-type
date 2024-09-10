@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1058,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1058.png",
+    "question": "What is excess  mortality rate for men who are  20% overweight?",
+    "label": [
+        "25%"
+    ]
+}

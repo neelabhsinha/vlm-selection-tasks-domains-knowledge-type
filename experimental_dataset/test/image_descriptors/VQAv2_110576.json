@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 110576,
+    "caption": "two young boys standing in a living room holding wii controllers",
+    "object_tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "human face",
+        "wall",
+        "toddler",
+        "furniture",
+        "floor",
+        "controller",
+        "game",
+        "playing",
+        "room",
+        "standing",
+        "boy",
+        "young",
+        "family"
+    ]
+}

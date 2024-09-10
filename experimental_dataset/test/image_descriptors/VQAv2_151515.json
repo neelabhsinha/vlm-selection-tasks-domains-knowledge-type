@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 151515,
+    "caption": "a man sitting in a chair using a cell phone",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "furniture",
+        "comfort",
+        "human face",
+        "sitting",
+        "wall",
+        "using",
+        "woman"
+    ]
+}

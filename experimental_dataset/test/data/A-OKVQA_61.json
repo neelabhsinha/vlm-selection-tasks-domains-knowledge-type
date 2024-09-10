@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 61,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_61.png",
+    "question": "What festive season are these fruits usually ingested?",
+    "label": "['fall', 'christmas', 'fall', 'christmas', 'summer', 'fall', 'summer', 'christmas', 'fall', 'christmas']",
+    "choices": [
+        "liberty day",
+        "christmas",
+        "victory day",
+        "memorial day"
+    ],
+    "correct_choice": "christmas"
+}

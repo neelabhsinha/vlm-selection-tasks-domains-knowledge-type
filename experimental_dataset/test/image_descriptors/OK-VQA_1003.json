@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1003,
+    "caption": "a little girl holding a cell phone in her hand",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "person",
+        "sky",
+        "human face",
+        "boy",
+        "summer",
+        "baby",
+        "holding",
+        "young",
+        "child",
+        "toddler"
+    ]
+}

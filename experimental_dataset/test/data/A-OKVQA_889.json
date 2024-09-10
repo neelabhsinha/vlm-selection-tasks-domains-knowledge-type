@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 889,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_889.png",
+    "question": "What goods does this man sell?",
+    "label": "['fruits', 'fruit', 'food', 'fruits vegetables', 'fruits vegetables', 'fruits', 'fruits vegetables', 'fruits', 'fruits', 'fruit']",
+    "choices": [
+        "shoes",
+        "food",
+        "electronics",
+        "animals"
+    ],
+    "correct_choice": "food"
+}

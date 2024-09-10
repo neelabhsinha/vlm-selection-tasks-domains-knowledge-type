@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 464,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_464.png",
+    "question": "What is one tournament that is associated with this sport?",
+    "label": "['wimbledon', 'tennis', 'tennis', 'wimbledon', 'wimbledon', 'tennis', 'tennis', 'wimbledon', 'wimbledon', 'wimbledon']",
+    "choices": [
+        "fa cup",
+        "wimbledon",
+        "world cup",
+        "ryder cup"
+    ],
+    "correct_choice": "wimbledon"
+}

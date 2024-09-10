@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 983,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_983.png",
+    "question": "How many people at least share this bathroom?",
+    "label": "['two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two']",
+    "choices": [
+        "ten",
+        "five",
+        "two",
+        "one"
+    ],
+    "correct_choice": "two"
+}

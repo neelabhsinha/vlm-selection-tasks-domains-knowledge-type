@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3344,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3344.png",
+    "question": "Who invented the object this dog caught?",
+    "label": [
+        "walter frederick morrison",
+        "walter frederick morrison",
+        "walter frederick morrison",
+        "walter frederick morrison",
+        "man",
+        "man",
+        "frederick morrison",
+        "frederick morrison",
+        "frisbee",
+        "frisbee"
+    ]
+}

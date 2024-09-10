@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 135830,
+    "caption": "a table topped with lots of different types of food",
+    "object_tags": [
+        "tableware",
+        "food",
+        "meal",
+        "platter",
+        "plate",
+        "dishware",
+        "centrepiece",
+        "floral design",
+        "bowl",
+        "indoor",
+        "brunch",
+        "vase",
+        "flower arranging",
+        "still life",
+        "serveware",
+        "rose",
+        "cut flowers",
+        "candle",
+        "bouquet",
+        "kitchen utensil",
+        "culinary art",
+        "flower",
+        "wooden",
+        "table",
+        "dining table",
+        "variety"
+    ]
+}

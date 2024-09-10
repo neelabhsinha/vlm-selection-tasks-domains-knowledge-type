@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 207790,
+    "image_path": "./experimental_dataset/test/images/VQAv2_207790.png",
+    "question": "Can you see the hands on the clock?",
+    "label": [
+        "no",
+        "yes",
+        "1",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

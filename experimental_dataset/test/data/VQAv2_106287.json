@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 106287,
+    "image_path": "./experimental_dataset/test/images/VQAv2_106287.png",
+    "question": "Did the batter get a hit?",
+    "label": [
+        "yes",
+        "yes",
+        "can't tell",
+        "yes",
+        "not yet",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

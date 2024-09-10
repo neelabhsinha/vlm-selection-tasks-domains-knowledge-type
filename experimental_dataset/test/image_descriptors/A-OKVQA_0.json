@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 0,
+    "caption": "a man riding a motorcycle next to a group of people",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "person",
+        "man",
+        "clothing",
+        "motorcycle",
+        "people",
+        "driving",
+        "street"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 195546,
+    "image_path": "./experimental_dataset/test/images/VQAv2_195546.png",
+    "question": "What is the name of the trading company?",
+    "label": [
+        "harbor trading company",
+        "harbor",
+        "harbor trading company",
+        "harbor",
+        "harbor",
+        "harbor",
+        "harbor",
+        "harbor trading company",
+        "harbor",
+        "harbor"
+    ]
+}

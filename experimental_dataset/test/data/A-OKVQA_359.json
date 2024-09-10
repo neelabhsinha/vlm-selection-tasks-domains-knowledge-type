@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 359,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_359.png",
+    "question": "What type of boat is in the water?",
+    "label": "['yacht', 'ship', 'yacht', 'cruise ship', 'cruise', 'cruiser', 'yacht', 'ferry', 'yatch', 'cruise']",
+    "choices": [
+        "oil tanker",
+        "sailing",
+        "cruise",
+        "fishing"
+    ],
+    "correct_choice": "cruise"
+}

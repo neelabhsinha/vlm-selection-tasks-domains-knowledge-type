@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2480,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2480.png",
+    "question": "How much did fresh foods and alcohol sales increase in the week ending March 8 of 2020?",
+    "label": [
+        "3.2"
+    ]
+}

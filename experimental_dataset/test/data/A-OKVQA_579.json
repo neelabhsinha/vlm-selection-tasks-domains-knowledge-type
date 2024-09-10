@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 579,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_579.png",
+    "question": "What dessert are the people eating?",
+    "label": "['donuts', 'donuts', 'doughnuts', 'donuts', 'donuts', 'donuts', 'donuts', 'donuts', 'doughnuts', 'doughnuts']",
+    "choices": [
+        "ice cream",
+        "donuts",
+        "cake",
+        "cookies"
+    ],
+    "correct_choice": "donuts"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 921,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_921.png",
+    "question": "The animals are feeding on the?",
+    "label": "['grass', 'grass', 'grass', 'grass', 'grass', 'grass', 'grass', 'field', 'grass', 'grass']",
+    "choices": [
+        "stool",
+        "table",
+        "chair",
+        "field"
+    ],
+    "correct_choice": "field"
+}

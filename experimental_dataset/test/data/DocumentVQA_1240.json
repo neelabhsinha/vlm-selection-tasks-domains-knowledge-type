@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1240,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1240.png",
+    "question": "What was the trend of the 'filter menthol from kaymich'?",
+    "label": [
+        "High"
+    ]
+}

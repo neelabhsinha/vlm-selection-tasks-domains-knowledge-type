@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2064,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2064.png",
+    "question": "Which official's name is second among the attendees?",
+    "label": [
+        "Mr. Charles A Blixt",
+        "Mr. Charles A. Blixt"
+    ]
+}

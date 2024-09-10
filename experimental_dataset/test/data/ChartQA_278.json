@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 278,
+    "image_path": "./experimental_dataset/test/images/ChartQA_278.png",
+    "question": "What is the value shown for Carbon Monoxide ??",
+    "label": [
+        "48.01"
+    ]
+}

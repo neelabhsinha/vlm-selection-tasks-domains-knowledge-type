@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 451,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_451.png",
+    "question": "What is the person being viewed through?",
+    "label": "['window', 'window', 'window', 'window', 'window', 'window', 'window', 'window', 'train window', 'window']",
+    "choices": [
+        "window",
+        "flat screen",
+        "web cam",
+        "mirror"
+    ],
+    "correct_choice": "window"
+}

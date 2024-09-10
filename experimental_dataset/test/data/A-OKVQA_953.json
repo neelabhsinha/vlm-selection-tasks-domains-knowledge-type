@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 953,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_953.png",
+    "question": "Why are the men wearing a hat?",
+    "label": "['unknown', 'conductor', 'signify role', 'uniform', 'design', 'cap', 'uniform requirement', 'train employees', 'uniform', 'uniform part']",
+    "choices": [
+        "for rain",
+        "uniform",
+        "for warmth",
+        "fashion"
+    ],
+    "correct_choice": "uniform"
+}

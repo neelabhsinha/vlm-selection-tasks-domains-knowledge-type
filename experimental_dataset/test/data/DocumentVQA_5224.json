@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5224,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5224.png",
+    "question": "What is the promotion?",
+    "label": [
+        "S. California beach 2 - pack lighter",
+        "S. California Beach 2- Pack Lighter"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2392,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2392.png",
+    "question": "What parts of the world also use this style of architecture?",
+    "label": [
+        "europe",
+        "europe",
+        "europe",
+        "europe",
+        "europe",
+        "europe",
+        "europe",
+        "europe",
+        "paris",
+        "paris"
+    ]
+}

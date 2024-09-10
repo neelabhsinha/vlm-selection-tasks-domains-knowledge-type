@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1106,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1106.png",
+    "question": "Which is the most popular video streaming service based on share of audience demand for digital originals in South Africa in the first quarter of 2019?",
+    "label": [
+        "Netflix"
+    ]
+}

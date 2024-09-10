@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 777,
+    "image_path": "./experimental_dataset/test/images/ChartQA_777.png",
+    "question": "What is the difference between the CPI between the months in which CPI was maximum and minimum?",
+    "label": [
+        "7.23"
+    ]
+}

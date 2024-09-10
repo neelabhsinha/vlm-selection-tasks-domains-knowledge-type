@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1083,
+    "caption": "a little boy laying on a couch playing with a wii controller",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "human face",
+        "toddler",
+        "comfort",
+        "child",
+        "sofa",
+        "baby",
+        "boy",
+        "remote",
+        "controller",
+        "sitting",
+        "control",
+        "young"
+    ]
+}

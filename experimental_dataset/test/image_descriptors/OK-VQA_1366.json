@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1366,
+    "caption": "a man holding a hot dog in a bun",
+    "object_tags": [
+        "person",
+        "man",
+        "clothing",
+        "human face",
+        "dog",
+        "food",
+        "fast food",
+        "sandwich",
+        "snack food",
+        "people",
+        "indoor",
+        "hotdog",
+        "eating",
+        "crowd"
+    ]
+}

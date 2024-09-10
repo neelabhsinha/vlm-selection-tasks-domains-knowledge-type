@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3342,
+    "caption": "a cat sitting on a table next to a plate of food",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "cat",
+        "small to medium-sized cats",
+        "felidae",
+        "black",
+        "sitting"
+    ]
+}

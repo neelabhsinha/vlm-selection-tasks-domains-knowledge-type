@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2766,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2766.png",
+    "question": "What organization do these people belong to?",
+    "label": [
+        "military",
+        "military",
+        "military",
+        "military",
+        "army",
+        "army",
+        "airforce",
+        "airforce",
+        "navy",
+        "navy"
+    ]
+}

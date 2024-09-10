@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 83305,
+    "caption": "people walking down a street with umbrellas",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "building",
+        "accessory",
+        "clothing",
+        "umbrella",
+        "street",
+        "rain",
+        "people",
+        "man",
+        "footwear",
+        "walking",
+        "road",
+        "group",
+        "holding",
+        "standing",
+        "night",
+        "rainy",
+        "ground",
+        "woman",
+        "city",
+        "sidewalk"
+    ]
+}

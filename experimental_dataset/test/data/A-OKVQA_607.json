@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 607,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_607.png",
+    "question": "What material are the woman's glasses frames?",
+    "label": "['plastic', 'plastic', 'plastic', 'plastic', 'plastic', 'plastic', 'plastic', 'plastic', 'plastic', 'plastic']",
+    "choices": [
+        "wood",
+        "plastic",
+        "titanium",
+        "aluminum"
+    ],
+    "correct_choice": "plastic"
+}

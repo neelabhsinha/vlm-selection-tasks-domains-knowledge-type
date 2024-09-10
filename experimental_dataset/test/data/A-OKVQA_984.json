@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 984,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_984.png",
+    "question": "The time of day suggests the man will do what soon?",
+    "label": "['wake up', 'awaken', 'awaken', 'awaken', 'wake up', 'awaken', 'wake up', 'wake up', 'wake up', 'wake up']",
+    "choices": [
+        "make dinner",
+        "fall asleep",
+        "close window",
+        "wake up"
+    ],
+    "correct_choice": "wake up"
+}

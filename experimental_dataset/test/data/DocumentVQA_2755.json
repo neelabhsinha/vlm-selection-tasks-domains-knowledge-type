@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2755,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2755.png",
+    "question": "What is the Fax number of \u2018Brookstown Inn\u2019?",
+    "label": [
+        "336-773-0147"
+    ]
+}

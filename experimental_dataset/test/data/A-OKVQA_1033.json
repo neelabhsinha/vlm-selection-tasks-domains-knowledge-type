@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1033,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1033.png",
+    "question": "What is the meat inside the yellow roll?",
+    "label": "['hot dog', 'hotdog', 'hot dog', 'hot dog', 'hotdog', 'sausage', 'sausage', 'pork hotdog', 'sausage', 'hot dog']",
+    "choices": [
+        "steak",
+        "turkey",
+        "ham",
+        "hot dog"
+    ],
+    "correct_choice": "hot dog"
+}

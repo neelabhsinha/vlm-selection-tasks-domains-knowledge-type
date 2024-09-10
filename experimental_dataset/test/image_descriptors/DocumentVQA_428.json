@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 428,
+    "caption": "a drawing of a white airplane on a black background",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "black and white",
+        "letter",
+        "handwriting",
+        "document"
+    ]
+}

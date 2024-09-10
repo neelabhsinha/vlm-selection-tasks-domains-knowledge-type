@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 965,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_965.png",
+    "question": "Where is the person while flying the kite?",
+    "label": "['on beach', 'beach', 'beach', 'beach', 'beach', 'beach', 'beach', 'sand', 'near sea', 'on beach']",
+    "choices": [
+        "in backyard",
+        "at park",
+        "at school",
+        "on beach"
+    ],
+    "correct_choice": "on beach"
+}

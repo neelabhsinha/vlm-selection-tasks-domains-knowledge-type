@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 857,
+    "caption": "a baseball player standing on top of a field",
+    "object_tags": [
+        "grass",
+        "person",
+        "athletic game",
+        "sport",
+        "outdoor",
+        "player",
+        "baseball",
+        "bat-and-ball games",
+        "sport venue",
+        "sports equipment",
+        "sports uniform",
+        "man",
+        "ball game",
+        "artificial turf",
+        "glove",
+        "field",
+        "cricket"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2227,
+    "caption": "a clock tower in the middle of a city",
+    "object_tags": [
+        "building",
+        "clock",
+        "outdoor",
+        "wall clock",
+        "night",
+        "winter",
+        "tower",
+        "light",
+        "time"
+    ]
+}

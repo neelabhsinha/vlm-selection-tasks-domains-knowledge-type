@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 601,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_601.png",
+    "question": "What season is it on the grassland where the elephants are grazing?",
+    "label": "['fall', 'summer', 'summer', 'summer', 'summer', 'summer', 'dry', 'fall', 'summer', 'fall']",
+    "choices": [
+        "rainy",
+        "winter",
+        "dry",
+        "fall"
+    ],
+    "correct_choice": "dry"
+}

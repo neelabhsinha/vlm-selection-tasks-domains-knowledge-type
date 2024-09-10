@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3954,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3954.png",
+    "question": "What is the man in red doing?",
+    "label": [
+        "salute",
+        "salute",
+        "salute",
+        "salute",
+        "salute",
+        "salute",
+        "salute",
+        "salute",
+        "stand gaurd",
+        "stand gaurd"
+    ]
+}

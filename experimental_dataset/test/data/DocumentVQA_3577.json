@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3577,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3577.png",
+    "question": "What is Neil C. Wortley's designation?",
+    "label": [
+        "Program Director"
+    ]
+}

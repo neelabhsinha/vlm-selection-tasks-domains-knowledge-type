@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 645,
+    "caption": "a man and a woman are petting a brown and white horse",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "building",
+        "man",
+        "horse",
+        "mare",
+        "mane",
+        "ground",
+        "equestrian"
+    ]
+}

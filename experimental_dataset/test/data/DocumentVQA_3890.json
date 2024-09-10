@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3890,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3890.png",
+    "question": "When was the first 'Board meeting' of the year?",
+    "label": [
+        "28th April, 2003"
+    ]
+}

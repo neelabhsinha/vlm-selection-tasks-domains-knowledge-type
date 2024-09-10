@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 138082,
+    "image_path": "./experimental_dataset/test/images/VQAv2_138082.png",
+    "question": "Are the two girls in the photo blondes?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

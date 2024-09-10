@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 838,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_838.png",
+    "question": "What type of vegetable is on this pizza?",
+    "label": [
+        "olives",
+        "olives",
+        "olives",
+        "olives",
+        "olives",
+        "olives",
+        "mushroom olives",
+        "mushroom olives",
+        "olive",
+        "olive"
+    ]
+}

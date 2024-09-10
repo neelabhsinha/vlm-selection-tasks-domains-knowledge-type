@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 58,
+    "caption": "motorcycles parked in front of a building",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "text",
+        "outdoor",
+        "vehicle",
+        "building",
+        "bicycle wheel",
+        "tire",
+        "flower",
+        "street",
+        "road",
+        "bicycle",
+        "person",
+        "sign",
+        "yellow",
+        "city",
+        "bike"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1068,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1068.png",
+    "question": "What is the name of the person winning on the scoreboard?",
+    "label": "['adrian', 'adrian', 'james ward', 'adrian', 'adrian', 'adrian', 'adrian', 'james ward', 'adrian', 'adrian']",
+    "choices": [
+        "adrian",
+        "egon",
+        "james",
+        "aegon"
+    ],
+    "correct_choice": "adrian"
+}

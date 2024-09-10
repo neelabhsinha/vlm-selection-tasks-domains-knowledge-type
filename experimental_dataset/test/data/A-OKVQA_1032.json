@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1032,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1032.png",
+    "question": "What famous sports star wore this number jersey?",
+    "label": "['derek jeter', 'mays', 'pavel datsyuk', 'wilt chamberlain', 'allan iverson', 'wilt chamberlain', 'no idea', 'dan marino', 'roberto clemente', 'dave concepcion']",
+    "choices": [
+        "cam bedrosian",
+        "pavel datsyuk",
+        "andruw jones",
+        "john smoltz"
+    ],
+    "correct_choice": "pavel datsyuk"
+}

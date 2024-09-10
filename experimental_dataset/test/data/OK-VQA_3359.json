@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3359,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3359.png",
+    "question": "Which country are these souvenirs from?",
+    "label": [
+        "germany",
+        "germany",
+        "germany",
+        "germany",
+        "germany",
+        "germany",
+        "germany",
+        "germany",
+        "germany",
+        "germany"
+    ]
+}

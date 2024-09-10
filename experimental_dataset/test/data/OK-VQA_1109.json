@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1109,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1109.png",
+    "question": "Based on her expression is the woman receving good or bad cell reception?",
+    "label": [
+        "bad",
+        "bad",
+        "bad",
+        "bad",
+        "bad",
+        "bad",
+        "bad",
+        "bad",
+        "good reception",
+        "good reception"
+    ]
+}

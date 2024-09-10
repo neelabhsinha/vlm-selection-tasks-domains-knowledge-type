@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 347,
+    "caption": "a book shelf with a vase of flowers on top of it",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "book",
+        "shelf",
+        "shelving",
+        "furniture"
+    ]
+}

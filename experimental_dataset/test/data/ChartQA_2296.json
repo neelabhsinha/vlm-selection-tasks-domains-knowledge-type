@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2296,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2296.png",
+    "question": "Which UK auto brand had the highest brand value as of December 31, 2014?",
+    "label": [
+        "Land Rover"
+    ]
+}

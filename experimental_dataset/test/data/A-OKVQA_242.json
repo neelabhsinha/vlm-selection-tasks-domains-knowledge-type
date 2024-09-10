@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 242,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_242.png",
+    "question": "This railcar is travelling at what position relative to the street-level?",
+    "label": "['elevated', 'south', 'straight', 'below', 'below', 'below', 'under', 'below', 'below', 'underground']",
+    "choices": [
+        "at streer-level",
+        "elevated",
+        "underground",
+        "under water"
+    ],
+    "correct_choice": "underground"
+}

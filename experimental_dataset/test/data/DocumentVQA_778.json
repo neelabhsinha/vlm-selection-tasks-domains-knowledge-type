@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 778,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_778.png",
+    "question": "What is the first treatment in the table?",
+    "label": [
+        "medium change",
+        "Medium change"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 63,
+    "image_path": "./experimental_dataset/test/images/ChartQA_63.png",
+    "question": "What is the average of last four countries data?",
+    "label": [
+        "50.25"
+    ]
+}

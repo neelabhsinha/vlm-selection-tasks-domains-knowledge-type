@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 753,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_753.png",
+    "question": "What country is this in?",
+    "label": "['india', 'mexico', 'india', 'turkey', 'india', 'india', 'indonesia', 'india', 'malaysia', 'india']",
+    "choices": [
+        "japan",
+        "united states",
+        "malaysia",
+        "germany"
+    ],
+    "correct_choice": "malaysia"
+}

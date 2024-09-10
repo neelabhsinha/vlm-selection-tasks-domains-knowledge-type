@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 412,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_412.png",
+    "question": "What is hanging from the woman's back pocket?",
+    "label": "['nothing', 'keys', 'keys', 'keys', 'nothing', 'keys', 'keys', 'keys', 'keys', 'keys']",
+    "choices": [
+        "phone charger",
+        "necklace",
+        "keys",
+        "handkerchief"
+    ],
+    "correct_choice": "keys"
+}

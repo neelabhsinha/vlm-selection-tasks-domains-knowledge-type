@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1087,
+    "caption": "two baseball players standing next to each other on a field",
+    "object_tags": [
+        "person",
+        "grass",
+        "athletic game",
+        "sport",
+        "outdoor",
+        "bat-and-ball games",
+        "sports uniform",
+        "player",
+        "baseball",
+        "baseball uniform",
+        "baseball player",
+        "baseball park",
+        "clothing",
+        "man",
+        "baseball field",
+        "field",
+        "baseball equipment",
+        "college baseball",
+        "glove",
+        "sport venue",
+        "sports equipment",
+        "stick and ball games",
+        "ball game",
+        "baseball positions",
+        "standing",
+        "holding"
+    ]
+}

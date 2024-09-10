@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 423,
+    "image_path": "./experimental_dataset/test/images/ChartQA_423.png",
+    "question": "Among all three bars which bar is at the peak in the year 2009?",
+    "label": [
+        "Ireland"
+    ]
+}

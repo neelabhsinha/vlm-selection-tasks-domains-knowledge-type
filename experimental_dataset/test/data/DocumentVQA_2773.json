@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2773,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2773.png",
+    "question": "What was the name of the person the letter written to?",
+    "label": [
+        "Manolo"
+    ]
+}

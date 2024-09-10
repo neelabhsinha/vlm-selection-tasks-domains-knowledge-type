@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5009,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5009.png",
+    "question": "What % of the GenX population form 'Play-Boys'?",
+    "label": [
+        "18%"
+    ]
+}

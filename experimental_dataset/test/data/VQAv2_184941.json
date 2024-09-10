@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 184941,
+    "image_path": "./experimental_dataset/test/images/VQAv2_184941.png",
+    "question": "What type of pants is this person wearing?",
+    "label": [
+        "three-quarter pants",
+        "khakis",
+        "capris",
+        "short",
+        "capris",
+        "shorts",
+        "capris",
+        "capris",
+        "shorts",
+        "shorts"
+    ]
+}

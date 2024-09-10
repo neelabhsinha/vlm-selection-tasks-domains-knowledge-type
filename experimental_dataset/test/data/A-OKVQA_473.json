@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 473,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_473.png",
+    "question": "What is the last letter on the license plate?",
+    "label": "['letter j', 'j', 'jay', 'j j', 'jay', 'letter j', 'letter j', 'letter j', 'letter j', 'letter j']",
+    "choices": [
+        "l",
+        "z",
+        "j",
+        "c"
+    ],
+    "correct_choice": "j"
+}

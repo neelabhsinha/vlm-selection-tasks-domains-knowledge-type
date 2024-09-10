@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 823,
+    "caption": "an aerial view of a building with a clock on it",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "black and white",
+        "diagram",
+        "typography",
+        "design"
+    ]
+}

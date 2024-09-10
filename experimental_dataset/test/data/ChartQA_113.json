@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 113,
+    "image_path": "./experimental_dataset/test/images/ChartQA_113.png",
+    "question": "Total population in Africa, North America and South America is more than Europe. Is this statement correct?",
+    "label": [
+        "No"
+    ]
+}

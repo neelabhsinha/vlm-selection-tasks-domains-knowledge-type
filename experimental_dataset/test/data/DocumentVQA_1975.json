@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1975,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1975.png",
+    "question": "To which department the letter should be sent ?",
+    "label": [
+        "sales department",
+        "Sales Department",
+        "sales"
+    ]
+}

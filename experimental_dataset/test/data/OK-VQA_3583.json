@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3583,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3583.png",
+    "question": "Name the material used to make this cap weared by the cat?",
+    "label": [
+        "foil",
+        "foil",
+        "foil",
+        "foil",
+        "foil",
+        "foil",
+        "aluminum",
+        "aluminum",
+        "metal foil",
+        "metal foil"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2421,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2421.png",
+    "question": "What is the phone number of \"Paul Harris\" ?",
+    "label": [
+        "513-268-6829",
+        "(513-268-6829)"
+    ]
+}

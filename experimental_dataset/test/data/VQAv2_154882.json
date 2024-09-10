@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 154882,
+    "image_path": "./experimental_dataset/test/images/VQAv2_154882.png",
+    "question": "What is on the youngest girls foot?",
+    "label": [
+        "slipper",
+        "cover",
+        "sock",
+        "pajamas",
+        "sleeper",
+        "footies",
+        "footies",
+        "foot pants",
+        "socks",
+        "pjs"
+    ]
+}

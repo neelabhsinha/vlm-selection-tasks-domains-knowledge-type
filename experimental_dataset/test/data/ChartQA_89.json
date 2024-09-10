@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 89,
+    "image_path": "./experimental_dataset/test/images/ChartQA_89.png",
+    "question": "What's the ratio(A:B) of yellow bar and blue bar for Ages 18-29?",
+    "label": [
+        "1.684722222"
+    ]
+}

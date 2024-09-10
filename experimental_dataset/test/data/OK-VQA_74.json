@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 74,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_74.png",
+    "question": "How tall do these animals get?",
+    "label": [
+        "20 feet",
+        "20 feet",
+        "20 feet",
+        "20 feet",
+        "8 feey",
+        "8 feey",
+        "10 feet",
+        "10 feet",
+        "12 ft",
+        "12 ft"
+    ]
+}

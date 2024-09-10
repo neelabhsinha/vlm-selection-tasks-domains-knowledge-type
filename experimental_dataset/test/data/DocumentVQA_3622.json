@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3622,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3622.png",
+    "question": "What is the maximum value at x axis?",
+    "label": [
+        "28"
+    ]
+}

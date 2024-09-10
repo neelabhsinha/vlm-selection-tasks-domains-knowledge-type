@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2080,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2080.png",
+    "question": "What was Brazil's population density per square kilometer in 2018?",
+    "label": [
+        "25.06"
+    ]
+}

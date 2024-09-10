@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 476,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_476.png",
+    "question": "This dish is suitable for which group of people?",
+    "label": "['vegetarian', 'vegetarians', 'vegetarians', 'family', 'vegetarians', 'vegetarian', 'vegan', 'vegetarians', 'vegetarians', 'italians']",
+    "choices": [
+        "pregnant women",
+        "kids",
+        "meat eaters",
+        "vegetarians"
+    ],
+    "correct_choice": "vegetarians"
+}

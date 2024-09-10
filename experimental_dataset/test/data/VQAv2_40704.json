@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 40704,
+    "image_path": "./experimental_dataset/test/images/VQAv2_40704.png",
+    "question": "What is behind the trees?",
+    "label": [
+        "more cows",
+        "more trees",
+        "more cows",
+        "cows",
+        "pasture",
+        "cows",
+        "cow",
+        "water",
+        "cow",
+        "grass"
+    ]
+}

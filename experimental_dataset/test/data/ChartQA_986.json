@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 986,
+    "image_path": "./experimental_dataset/test/images/ChartQA_986.png",
+    "question": "How many bars in the chart is above 30 %?",
+    "label": [
+        "5"
+    ]
+}

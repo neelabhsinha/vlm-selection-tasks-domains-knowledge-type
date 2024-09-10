@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 61814,
+    "image_path": "./experimental_dataset/test/images/VQAv2_61814.png",
+    "question": "What color is the man's shirt?",
+    "label": [
+        "gray",
+        "gray",
+        "gray",
+        "white",
+        "blue",
+        "gray",
+        "gray",
+        "white",
+        "gray",
+        "gray"
+    ]
+}

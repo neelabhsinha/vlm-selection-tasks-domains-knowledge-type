@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1729,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1729.png",
+    "question": "How much money did the US spend on space programs in 2020?",
+    "label": [
+        "82.5"
+    ]
+}

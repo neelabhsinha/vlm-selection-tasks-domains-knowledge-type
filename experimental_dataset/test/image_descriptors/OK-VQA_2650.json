@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2650,
+    "caption": "a man is looking at a bottle of wine",
+    "object_tags": [
+        "person",
+        "indoor",
+        "human face",
+        "bottle",
+        "clothing",
+        "glass bottle",
+        "man",
+        "wall",
+        "alcoholic beverage",
+        "refrigerator",
+        "beer",
+        "appliance",
+        "drink",
+        "alcohol",
+        "kitchen",
+        "glasses",
+        "food"
+    ]
+}

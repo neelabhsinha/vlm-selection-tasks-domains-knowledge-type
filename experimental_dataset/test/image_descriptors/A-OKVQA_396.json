@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 396,
+    "caption": "a small plane sitting on top of an airport tarmac",
+    "object_tags": [
+        "transport",
+        "outdoor",
+        "aircraft",
+        "sky",
+        "vehicle",
+        "tree",
+        "plane",
+        "grass",
+        "wheel",
+        "general aviation",
+        "air travel",
+        "propeller-driven aircraft",
+        "propeller",
+        "cloud",
+        "airplane",
+        "aviation",
+        "road",
+        "turboprop",
+        "light aircraft",
+        "aerospace manufacturer",
+        "parked",
+        "runway",
+        "ground",
+        "airshow",
+        "tarmac",
+        "airport"
+    ]
+}

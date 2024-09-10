@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3145,
+    "caption": "a woman taking a picture of herself in a mirror",
+    "object_tags": [
+        "wall",
+        "clothing",
+        "person",
+        "indoor",
+        "dress",
+        "bathroom",
+        "woman",
+        "mirror",
+        "standing",
+        "black and white",
+        "wedding"
+    ]
+}

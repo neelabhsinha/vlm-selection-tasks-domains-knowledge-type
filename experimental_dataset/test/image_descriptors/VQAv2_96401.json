@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 96401,
+    "caption": "a man sitting on the back of a small plane",
+    "object_tags": [
+        "airplane",
+        "transport",
+        "plane",
+        "aircraft",
+        "outdoor",
+        "propeller-driven aircraft",
+        "vehicle",
+        "propeller",
+        "sky",
+        "air travel",
+        "ground",
+        "general aviation",
+        "wheel",
+        "aviation",
+        "turboprop",
+        "aerospace manufacturer",
+        "light aircraft",
+        "monoplane",
+        "biplane",
+        "parked",
+        "black",
+        "people",
+        "standing",
+        "black and white",
+        "tarmac",
+        "runway"
+    ]
+}

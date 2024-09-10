@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 459,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_459.png",
+    "question": "How do you take care of the breed of cat in this photo?",
+    "label": [
+        "food and water",
+        "food and water",
+        "food and water",
+        "food and water",
+        "feed",
+        "feed",
+        "feed it",
+        "feed it",
+        "kindly",
+        "kindly"
+    ]
+}

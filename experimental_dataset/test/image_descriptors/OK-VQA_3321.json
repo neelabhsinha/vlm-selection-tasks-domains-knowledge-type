@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3321,
+    "caption": "a man riding a skateboard up the side of a ramp",
+    "object_tags": [
+        "person",
+        "skate",
+        "sport",
+        "footwear",
+        "clothing",
+        "sports equipment",
+        "skateboarding",
+        "skating",
+        "skateboarding equipment",
+        "wall",
+        "roller sport",
+        "man",
+        "skateboarder",
+        "street stunts",
+        "boardsport",
+        "floor",
+        "indoor",
+        "fisheye",
+        "skater",
+        "riding",
+        "boy",
+        "young",
+        "skateboard",
+        "ground"
+    ]
+}

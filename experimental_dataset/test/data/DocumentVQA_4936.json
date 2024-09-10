@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4936,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4936.png",
+    "question": "Which patient has lowest 17- Hydroxy steroids?",
+    "label": [
+        "1"
+    ]
+}

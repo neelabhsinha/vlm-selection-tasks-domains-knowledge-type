@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1779,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1779.png",
+    "question": "What was the youth unemployment rate in India in 2019?",
+    "label": [
+        "23.01"
+    ]
+}

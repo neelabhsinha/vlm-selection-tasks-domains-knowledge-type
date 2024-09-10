@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1504,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1504.png",
+    "question": "What was the mortgage debt in the United States in 2020?",
+    "label": [
+        "10.94"
+    ]
+}

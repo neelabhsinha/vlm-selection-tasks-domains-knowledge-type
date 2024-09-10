@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 30479,
+    "image_path": "./experimental_dataset/test/images/VQAv2_30479.png",
+    "question": "What kind of building is this most likely in?",
+    "label": [
+        "store",
+        "store",
+        "airport",
+        "airport",
+        "airport",
+        "airport",
+        "airport",
+        "airport",
+        "airport",
+        "airport"
+    ]
+}

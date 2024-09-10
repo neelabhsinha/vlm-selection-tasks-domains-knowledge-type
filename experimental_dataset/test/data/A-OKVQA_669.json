@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 669,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_669.png",
+    "question": "What color is the sign that is furthest to the right?",
+    "label": "['orange', 'orange', 'red', 'red', 'red', 'pink', 'orange', 'orange', 'red', 'orange']",
+    "choices": [
+        "green",
+        "gray",
+        "orange",
+        "blue"
+    ],
+    "correct_choice": "orange"
+}

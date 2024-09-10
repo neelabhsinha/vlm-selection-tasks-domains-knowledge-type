@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 16577,
+    "image_path": "./experimental_dataset/test/images/VQAv2_16577.png",
+    "question": "How many food items are ready to eat in this photo?",
+    "label": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "2",
+        "4",
+        "2",
+        "3"
+    ]
+}

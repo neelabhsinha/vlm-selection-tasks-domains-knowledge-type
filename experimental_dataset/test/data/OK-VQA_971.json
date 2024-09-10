@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 971,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_971.png",
+    "question": "What kind of building are these animals in?",
+    "label": [
+        "barn",
+        "barn",
+        "barn",
+        "barn",
+        "barn",
+        "barn",
+        "barn",
+        "barn",
+        "stable",
+        "stable"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 164264,
+    "image_path": "./experimental_dataset/test/images/VQAv2_164264.png",
+    "question": "Have the carrots been skinned?",
+    "label": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

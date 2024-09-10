@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 255,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_255.png",
+    "question": "What is the number mentioned in the t shirt of the girl who is playing?",
+    "label": "['21', 'twenty one', '21', 'twenty one', 'twenty one', 'twenty one', 'twenty one', 'twenty one', '21', '21']",
+    "choices": [
+        "21",
+        "13",
+        "31 and",
+        "51"
+    ],
+    "correct_choice": "21"
+}

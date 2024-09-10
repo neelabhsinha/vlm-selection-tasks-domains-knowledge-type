@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 994,
+    "caption": "a refrigerator with many magnets and pictures on it",
+    "object_tags": [
+        "indoor",
+        "kitchen appliance",
+        "wall",
+        "appliance",
+        "home appliance",
+        "refrigerator",
+        "shelf",
+        "kitchen"
+    ]
+}

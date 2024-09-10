@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 597,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_597.png",
+    "question": "What is the heading of the page?",
+    "label": [
+        "medical education and communications plan for the premarin product line",
+        "Medical Education and Communications Plan for the Premarin Product Line"
+    ]
+}

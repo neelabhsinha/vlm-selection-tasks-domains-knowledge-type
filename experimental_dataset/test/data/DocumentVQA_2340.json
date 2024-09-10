@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2340,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2340.png",
+    "question": "Who is the client?",
+    "label": [
+        "Dr. W. J. Darby"
+    ]
+}

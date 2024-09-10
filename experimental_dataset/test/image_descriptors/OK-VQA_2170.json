@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2170,
+    "caption": "a woman holding a donut in front of her face",
+    "object_tags": [
+        "person",
+        "doughnut",
+        "food",
+        "snack",
+        "human face",
+        "clothing",
+        "smile",
+        "woman",
+        "outdoor",
+        "donut"
+    ]
+}

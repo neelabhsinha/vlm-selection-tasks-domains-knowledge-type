@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 193,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_193.png",
+    "question": "The top shelf has many books of the same author of what genre?",
+    "label": "['mystery', 'thrillers', 'military', 'thriller fiction', 'thriller', 'non fiction', 'many books', 'thriller', 'triller', 'espionage']",
+    "choices": [
+        "romance",
+        "history",
+        "biography",
+        "thriller fiction"
+    ],
+    "correct_choice": "thriller fiction"
+}

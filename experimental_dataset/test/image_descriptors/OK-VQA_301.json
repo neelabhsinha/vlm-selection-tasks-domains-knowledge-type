@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 301,
+    "caption": "a man standing on a sidewalk with a bicycle",
+    "object_tags": [
+        "land vehicle",
+        "wheel",
+        "vehicle",
+        "person",
+        "bicycle wheel",
+        "outdoor",
+        "clothing",
+        "cycling",
+        "bicycle frame",
+        "tire",
+        "bicycle",
+        "bicycles--equipment and supplies",
+        "transport",
+        "bike",
+        "bicycle tire",
+        "bicycle handlebar",
+        "bicycle pedal",
+        "bicycle fork",
+        "road bicycle",
+        "sports equipment",
+        "cycle sport",
+        "riding",
+        "ground"
+    ]
+}

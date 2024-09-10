@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 104709,
+    "caption": "a cat laying on top of a laptop computer",
+    "object_tags": [
+        "indoor",
+        "computer",
+        "wall",
+        "cat",
+        "laptop",
+        "personal computer",
+        "animal",
+        "output device",
+        "desk",
+        "computer desk",
+        "computer monitor",
+        "computer hardware",
+        "sitting",
+        "mac"
+    ]
+}

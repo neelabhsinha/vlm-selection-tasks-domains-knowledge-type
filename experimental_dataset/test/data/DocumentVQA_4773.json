@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4773,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4773.png",
+    "question": "What does the symbol * indicate?",
+    "label": [
+        "control vs. test significantly different at the 80% confidence level.",
+        "Control vs. Test significantly different at the 80% confidence level."
+    ]
+}

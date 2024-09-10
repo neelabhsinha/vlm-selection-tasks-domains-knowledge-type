@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 670,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_670.png",
+    "question": "What might this be topped with traditionally?",
+    "label": "['jelly', 'jam', 'sprinkles', 'cheese', 'jelly', 'butter', 'salt', 'jelly', 'icing', 'icing']",
+    "choices": [
+        "grass",
+        "broccoli",
+        "cheese",
+        "sugar"
+    ],
+    "correct_choice": "cheese"
+}

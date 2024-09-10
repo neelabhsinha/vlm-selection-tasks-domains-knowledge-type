@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 9,
+    "caption": "a man standing in front of a mirror looking at his cell phone",
+    "object_tags": [
+        "clothing",
+        "person",
+        "building",
+        "man",
+        "jeans",
+        "wall",
+        "outdoor",
+        "standing",
+        "street"
+    ]
+}

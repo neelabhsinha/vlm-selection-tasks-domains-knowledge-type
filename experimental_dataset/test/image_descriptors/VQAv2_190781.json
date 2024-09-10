@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 190781,
+    "caption": "a man holding a nintendo wii game controller",
+    "object_tags": [
+        "clothing",
+        "person",
+        "wall",
+        "indoor",
+        "human face",
+        "game",
+        "playing",
+        "man",
+        "smile",
+        "controller",
+        "jeans",
+        "elbow",
+        "holding",
+        "room",
+        "remote",
+        "t-shirt",
+        "standing",
+        "shoulder",
+        "young",
+        "people",
+        "control"
+    ]
+}

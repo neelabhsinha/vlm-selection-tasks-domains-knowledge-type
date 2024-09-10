@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 184941,
+    "caption": "a woman sitting on a park bench looking at her cell phone",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "footwear",
+        "bench",
+        "fence",
+        "tree",
+        "plant",
+        "human face",
+        "grass",
+        "sitting",
+        "woman",
+        "ground",
+        "outdoor bench",
+        "fashion accessory",
+        "park",
+        "settle",
+        "wooden",
+        "wearing"
+    ]
+}

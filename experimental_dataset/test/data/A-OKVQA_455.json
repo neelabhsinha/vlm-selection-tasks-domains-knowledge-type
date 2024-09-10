@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 455,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_455.png",
+    "question": "What vehicle might the thing on the wall have come from?",
+    "label": "['horse wagon', 'wagon', 'wagon', 'horse wagon', 'wagon', 'wagon', 'cart', 'wagon', 'wagon', 'wagon']",
+    "choices": [
+        "motorbike",
+        "tractor",
+        "car",
+        "cart"
+    ],
+    "correct_choice": "cart"
+}

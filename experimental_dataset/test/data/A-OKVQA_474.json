@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 474,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_474.png",
+    "question": "What number is on the player that's fully visible?",
+    "label": "['twenty one', 'twenty-one', '15', 'twenty one', 'twenty-one', '21', 'twenty one', '21', 'number 21', 'twenty one']",
+    "choices": [
+        "11",
+        "five",
+        "21",
+        "22"
+    ],
+    "correct_choice": "21"
+}

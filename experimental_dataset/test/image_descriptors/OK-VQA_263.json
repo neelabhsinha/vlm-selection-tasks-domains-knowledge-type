@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 263,
+    "caption": "young men playing a game of frisbee",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "grass",
+        "footwear",
+        "sky",
+        "sport",
+        "field",
+        "playing",
+        "playground",
+        "soccer",
+        "team sport",
+        "tree",
+        "sports equipment",
+        "clothing",
+        "man",
+        "group",
+        "people",
+        "frisbee",
+        "young"
+    ]
+}

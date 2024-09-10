@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2444,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2444.png",
+    "question": "Apart from this toy which other item does these animal like to fetch?",
+    "label": [
+        "ball",
+        "ball",
+        "ball",
+        "ball",
+        "ball",
+        "ball",
+        "stick",
+        "stick",
+        "stick",
+        "stick"
+    ]
+}

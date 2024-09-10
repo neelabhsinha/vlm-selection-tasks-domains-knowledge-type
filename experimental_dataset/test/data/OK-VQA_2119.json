@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2119,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2119.png",
+    "question": "What kind of motor bike is this?",
+    "label": [
+        "dirt bike",
+        "dirt bike",
+        "dirt bike",
+        "dirt bike",
+        "dirtbike",
+        "dirtbike",
+        "motocross",
+        "motocross",
+        "bmw",
+        "bmw"
+    ]
+}

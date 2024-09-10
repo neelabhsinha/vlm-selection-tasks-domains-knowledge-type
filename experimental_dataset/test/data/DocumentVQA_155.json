@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 155,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_155.png",
+    "question": "What is the City and state for Point of Delivery?",
+    "label": [
+        "Hartsville , TN",
+        "Hartsville, TN",
+        "Hartsville , TN 37074"
+    ]
+}

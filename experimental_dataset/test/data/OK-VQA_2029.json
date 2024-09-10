@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2029,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2029.png",
+    "question": "Why is there a carriage in front of us?",
+    "label": [
+        "tour",
+        "tour",
+        "travel",
+        "travel",
+        "trail",
+        "trail",
+        "travel",
+        "travel",
+        "for travel",
+        "for travel"
+    ]
+}

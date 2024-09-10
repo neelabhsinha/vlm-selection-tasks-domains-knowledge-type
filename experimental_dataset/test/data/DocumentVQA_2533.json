@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2533,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2533.png",
+    "question": "Name of the company mentioned at the top right of the page?",
+    "label": [
+        "The National Sugar Refining Company",
+        "The National Sugar Refining company"
+    ]
+}

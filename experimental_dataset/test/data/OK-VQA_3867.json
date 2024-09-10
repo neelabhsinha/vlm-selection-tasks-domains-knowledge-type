@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3867,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3867.png",
+    "question": "What type of bird is this?",
+    "label": [
+        "finch",
+        "finch",
+        "finch",
+        "finch",
+        "starling",
+        "starling",
+        "grey",
+        "grey",
+        "canary",
+        "canary"
+    ]
+}

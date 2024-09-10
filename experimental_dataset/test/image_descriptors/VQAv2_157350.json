@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 157350,
+    "caption": "a tour bus parked on a grassy field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "transport",
+        "sky",
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "mode of transport",
+        "bus",
+        "auto part",
+        "parked",
+        "van",
+        "field",
+        "camper"
+    ]
+}

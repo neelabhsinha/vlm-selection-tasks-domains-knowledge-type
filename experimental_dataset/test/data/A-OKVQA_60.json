@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 60,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_60.png",
+    "question": "In what nation is this scene located?",
+    "label": "['paris', 'france', 'france', 'paris', 'france', 'france', 'france', 'france', 'france', 'france']",
+    "choices": [
+        "spain",
+        "china",
+        "italy",
+        "france"
+    ],
+    "correct_choice": "france"
+}

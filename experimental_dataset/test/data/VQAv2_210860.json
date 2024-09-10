@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 210860,
+    "image_path": "./experimental_dataset/test/images/VQAv2_210860.png",
+    "question": "Does this cat look grumpy?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

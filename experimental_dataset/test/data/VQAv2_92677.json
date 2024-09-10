@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 92677,
+    "image_path": "./experimental_dataset/test/images/VQAv2_92677.png",
+    "question": "What setting is the person driving through?",
+    "label": [
+        "maze",
+        "playground",
+        "fast",
+        "playground",
+        "play area",
+        "playground",
+        "obstacle course",
+        "playground",
+        "playground",
+        "obstacle course"
+    ]
+}

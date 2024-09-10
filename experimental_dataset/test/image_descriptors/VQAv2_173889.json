@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 173889,
+    "caption": "giraffes are standing in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "sky",
+        "giraffe",
+        "wildlife",
+        "tree",
+        "plant",
+        "terrestrial animal",
+        "grass",
+        "giraffidae",
+        "safari",
+        "savanna",
+        "standing",
+        "natural environment",
+        "cloud",
+        "vegetation",
+        "field"
+    ]
+}

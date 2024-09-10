@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 784,
+    "image_path": "./experimental_dataset/test/images/ChartQA_784.png",
+    "question": "What category does the red color indicate?",
+    "label": [
+        "Robku TV"
+    ]
+}

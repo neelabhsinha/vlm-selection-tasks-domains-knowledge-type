@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 141148,
+    "caption": "a cow standing on top of a lush green field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "livestock",
+        "cattle",
+        "pasture",
+        "mountain",
+        "dairy cow",
+        "cow",
+        "field",
+        "plant",
+        "grazing",
+        "ranch",
+        "mammal",
+        "grassland",
+        "animal",
+        "meadow",
+        "bovine",
+        "standing",
+        "green",
+        "landscape",
+        "farm"
+    ]
+}

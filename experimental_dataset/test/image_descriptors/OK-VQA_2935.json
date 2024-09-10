@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2935,
+    "caption": "a person with a pair of shoes standing on a brick wall",
+    "object_tags": [
+        "person",
+        "shoe",
+        "brick",
+        "clothing",
+        "shoes",
+        "feet",
+        "wall",
+        "footwear",
+        "legs",
+        "wearing",
+        "tile",
+        "foot",
+        "ground",
+        "sock"
+    ]
+}

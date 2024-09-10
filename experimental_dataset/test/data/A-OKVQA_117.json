@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 117,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_117.png",
+    "question": "What limits forward navigation?",
+    "label": "['stop light', 'brakes', 'red light', 'red light', 'traffic lights', 'traffic lights', 'stoplight', 'brakes', 'signage', 'traffic']",
+    "choices": [
+        "traffic warden",
+        "road accident",
+        "red light",
+        "bad weather"
+    ],
+    "correct_choice": "red light"
+}

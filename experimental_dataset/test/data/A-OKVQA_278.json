@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 278,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_278.png",
+    "question": "What are these types of candles called?",
+    "label": "['tea lights', 'votive', 'birthday candle', 'votive', 'tea lights', 'teacup', 'votive', 'votive', 'tea candles', 'votive']",
+    "choices": [
+        "beeswax",
+        "tea lights",
+        "birthday",
+        "rush lights"
+    ],
+    "correct_choice": "tea lights"
+}

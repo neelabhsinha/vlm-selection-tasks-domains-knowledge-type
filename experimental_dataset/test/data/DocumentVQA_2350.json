@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2350,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2350.png",
+    "question": "In which phase , rice samples are collected?",
+    "label": [
+        "phase I",
+        "Phase I"
+    ]
+}

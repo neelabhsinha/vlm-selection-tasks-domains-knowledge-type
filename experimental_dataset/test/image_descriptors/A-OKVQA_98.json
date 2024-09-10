@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 98,
+    "caption": "motorcycles are parked on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "vehicle",
+        "land vehicle",
+        "motorcycle",
+        "wheel",
+        "thoroughfare",
+        "street",
+        "people",
+        "scooter",
+        "person",
+        "plant",
+        "tree"
+    ]
+}

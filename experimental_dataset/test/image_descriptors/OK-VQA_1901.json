@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1901,
+    "caption": "a church steeple with a clock on it",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "sky",
+        "clock",
+        "steeple",
+        "medieval architecture",
+        "spire",
+        "turret",
+        "landmark",
+        "cathedral",
+        "architecture",
+        "chapel",
+        "clock tower",
+        "parish",
+        "facade",
+        "tower",
+        "gothic architecture",
+        "classical architecture",
+        "place of worship",
+        "large",
+        "church"
+    ]
+}

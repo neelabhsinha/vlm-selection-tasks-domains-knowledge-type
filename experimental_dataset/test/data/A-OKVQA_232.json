@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 232,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_232.png",
+    "question": "What indicates a baby is present?",
+    "label": "['pacifier', 'pacifier', 'pacifier', 'pacifier', 'pacifier', 'sippy cup', 'sippy cup', 'pacifier', 'soother', 'pacifier']",
+    "choices": [
+        "mother",
+        "pacifier",
+        "crib",
+        "cake"
+    ],
+    "correct_choice": "pacifier"
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 104577,
+    "caption": "a little boy standing in front of a tv playing a video game",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "living",
+        "floor",
+        "clothing",
+        "television",
+        "house",
+        "room",
+        "interior design",
+        "couch",
+        "person",
+        "living room",
+        "entertainment center",
+        "television set",
+        "flooring",
+        "den",
+        "text",
+        "window",
+        "child",
+        "standing",
+        "boy",
+        "home",
+        "screen"
+    ]
+}

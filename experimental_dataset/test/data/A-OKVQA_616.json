@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 616,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_616.png",
+    "question": "What profession is the man on the motorcycle?",
+    "label": "['police', 'police officer', 'police officer', 'law enforcement', 'police', 'police', 'police officer', 'police officer', 'police', 'police']",
+    "choices": [
+        "mail man",
+        "police officer",
+        "fire man",
+        "stunt driver"
+    ],
+    "correct_choice": "police officer"
+}

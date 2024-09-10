@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2073,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2073.png",
+    "question": "In what year did Bombardier's order backlog end?",
+    "label": [
+        "2015"
+    ]
+}

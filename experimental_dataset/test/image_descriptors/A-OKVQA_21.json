@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 21,
+    "caption": "a man and a dog are playing frisbee in a park",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "grass",
+        "person",
+        "football",
+        "frisbee",
+        "clothing",
+        "dog",
+        "ball",
+        "yellow",
+        "orange",
+        "field"
+    ]
+}

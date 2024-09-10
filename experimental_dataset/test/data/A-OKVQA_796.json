@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 796,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_796.png",
+    "question": "What is this food most likely made out of?",
+    "label": "['plastic', 'toy parts', 'plastic', 'plastic', 'plastic', 'pork', 'plastic', 'plastic', 'plastic', 'plastic']",
+    "choices": [
+        "plastic",
+        "grass",
+        "beans",
+        "lamb"
+    ],
+    "correct_choice": "plastic"
+}

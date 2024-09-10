@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2996,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2996.png",
+    "question": "Who is the study sponsor?",
+    "label": [
+        "Wyeth"
+    ]
+}

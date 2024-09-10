@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4099,
+    "caption": "a beach area with chairs and umbrellas",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "beach",
+        "sunlounger",
+        "water",
+        "umbrella",
+        "chair",
+        "caribbean",
+        "tropics",
+        "furniture",
+        "seaside resort",
+        "cloud",
+        "ground",
+        "resort",
+        "resort town",
+        "sitting",
+        "vacation",
+        "lawn",
+        "ocean"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4180,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4180.png",
+    "question": "How often should someone use this?",
+    "label": [
+        "daily",
+        "daily",
+        "daily",
+        "daily",
+        "daily",
+        "daily",
+        "3 times day",
+        "3 times day",
+        "twice daily",
+        "twice daily"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 65791,
+    "image_path": "./experimental_dataset/test/images/VQAv2_65791.png",
+    "question": "What make is the blue truck?",
+    "label": [
+        "dodge",
+        "dodge",
+        "dodge",
+        "dodge",
+        "dodge",
+        "dodge",
+        "dodge",
+        "dodge",
+        "dodge",
+        "dodge"
+    ]
+}

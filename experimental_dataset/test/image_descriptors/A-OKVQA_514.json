@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 514,
+    "caption": "a table topped with cakes and cupcakes",
+    "object_tags": [
+        "indoor",
+        "food",
+        "dairy",
+        "dessert",
+        "baked goods",
+        "baking",
+        "snack",
+        "cake",
+        "wall"
+    ]
+}

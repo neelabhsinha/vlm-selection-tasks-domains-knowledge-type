@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 586,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_586.png",
+    "question": "What type of vehicles are coming down the road?",
+    "label": "['bus', 'buses', 'bus', 'locomotive', 'busses', 'bus', 'busses', 'buses', 'bus', 'bus']",
+    "choices": [
+        "trains",
+        "cars",
+        "buses",
+        "taxis"
+    ],
+    "correct_choice": "buses"
+}

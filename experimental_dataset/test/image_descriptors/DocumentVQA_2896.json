@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2896,
+    "caption": "a series of photos showing different types of planes",
+    "object_tags": [
+        "text",
+        "sketch",
+        "drawing",
+        "origami"
+    ]
+}

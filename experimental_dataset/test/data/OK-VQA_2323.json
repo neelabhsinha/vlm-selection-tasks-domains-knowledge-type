@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2323,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2323.png",
+    "question": "What cutting device is shown?",
+    "label": [
+        "scissor",
+        "scissor",
+        "scissor",
+        "scissor",
+        "scissor",
+        "scissor",
+        "scissor",
+        "scissor",
+        "scissor",
+        "scissor"
+    ]
+}

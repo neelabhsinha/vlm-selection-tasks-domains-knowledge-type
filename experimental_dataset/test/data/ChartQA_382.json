@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 382,
+    "image_path": "./experimental_dataset/test/images/ChartQA_382.png",
+    "question": "In how many years, the Labor force participation rate of men was more than 70%?",
+    "label": [
+        "4"
+    ]
+}

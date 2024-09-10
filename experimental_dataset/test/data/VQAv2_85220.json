@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 85220,
+    "image_path": "./experimental_dataset/test/images/VQAv2_85220.png",
+    "question": "What country has a flag with the same colors as the plane?",
+    "label": [
+        "libya",
+        "i don't know",
+        "britain",
+        "none",
+        "canada",
+        "british",
+        "sweden",
+        "none",
+        "don't know",
+        "america"
+    ]
+}

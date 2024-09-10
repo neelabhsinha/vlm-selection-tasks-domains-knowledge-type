@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3372,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3372.png",
+    "question": "What type of vehicle is painted orange in this picture?",
+    "label": [
+        "truck",
+        "truck",
+        "truck",
+        "truck",
+        "semi",
+        "semi",
+        "wrecker tow truck",
+        "wrecker tow truck",
+        "semi tractor trailer",
+        "semi tractor trailer"
+    ]
+}

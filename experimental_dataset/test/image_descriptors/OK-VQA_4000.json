@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4000,
+    "caption": "a herd of sheep standing next to a fence",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "ground",
+        "livestock",
+        "goat",
+        "fence",
+        "outdoor",
+        "goats",
+        "sheep",
+        "zoo",
+        "snout",
+        "herd",
+        "standing",
+        "pen",
+        "enclosure",
+        "fenced"
+    ]
+}

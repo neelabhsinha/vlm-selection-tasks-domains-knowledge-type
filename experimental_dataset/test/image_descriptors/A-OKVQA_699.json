@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 699,
+    "caption": "a parking meter sitting on the side of a street",
+    "object_tags": [
+        "outdoor",
+        "text",
+        "waste container",
+        "building",
+        "car",
+        "land vehicle",
+        "vehicle",
+        "waste containment",
+        "vehicle registration plate",
+        "sky",
+        "wheel",
+        "street",
+        "road",
+        "sidewalk",
+        "container",
+        "ground",
+        "sign",
+        "parked",
+        "bin"
+    ]
+}

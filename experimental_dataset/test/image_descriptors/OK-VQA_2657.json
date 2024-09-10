@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2657,
+    "caption": "a herd of sheep standing on top of a wooden floor",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "sheep",
+        "livestock",
+        "indoor",
+        "standing",
+        "floor"
+    ]
+}

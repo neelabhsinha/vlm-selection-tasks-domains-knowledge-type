@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1080,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1080.png",
+    "question": "What brand are the batter's shoes?",
+    "label": "['under armour', 'under armour', 'under armour', 'under armor', 'under armor', 'under armour', 'under armour', 'nike', 'maybe nike', 'under armour']",
+    "choices": [
+        "under armor",
+        "adidas",
+        "new balance",
+        "nike"
+    ],
+    "correct_choice": "under armor"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 787,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_787.png",
+    "question": "What fruit is represented here?",
+    "label": "['grapes', 'grape', 'grapes', 'grapes', 'grapes', 'grape', 'grapes', 'grape', 'grape', 'grapes']",
+    "choices": [
+        "oranges",
+        "pears",
+        "grapes",
+        "apples"
+    ],
+    "correct_choice": "grapes"
+}

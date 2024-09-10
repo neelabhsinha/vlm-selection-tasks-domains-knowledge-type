@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 920,
+    "image_path": "./experimental_dataset/test/images/ChartQA_920.png",
+    "question": "Who had the highest very favorable rating?",
+    "label": [
+        "Jimmy Fallon"
+    ]
+}

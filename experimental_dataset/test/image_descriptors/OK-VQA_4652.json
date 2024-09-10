@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4652,
+    "caption": "a woman eating a slice of pizza",
+    "object_tags": [
+        "person",
+        "human face",
+        "fast food",
+        "clothing",
+        "snack",
+        "indoor",
+        "food",
+        "eating",
+        "pizza",
+        "woman",
+        "wall",
+        "bite",
+        "slice",
+        "girl"
+    ]
+}

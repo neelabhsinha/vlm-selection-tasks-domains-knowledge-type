@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 447,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_447.png",
+    "question": "Which part of the country would you find such?",
+    "label": [
+        "coast",
+        "coast",
+        "coast",
+        "coast",
+        "west",
+        "west",
+        "shore",
+        "shore",
+        "west coast",
+        "west coast"
+    ]
+}

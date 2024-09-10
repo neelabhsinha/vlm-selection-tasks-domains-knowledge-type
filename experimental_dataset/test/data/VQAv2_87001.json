@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 87001,
+    "image_path": "./experimental_dataset/test/images/VQAv2_87001.png",
+    "question": "What object is on top of the material?",
+    "label": [
+        "scissors",
+        "scissors",
+        "scissors",
+        "scissors",
+        "scissors",
+        "scissors",
+        "scissors",
+        "scissors",
+        "scissors",
+        "scissors"
+    ]
+}

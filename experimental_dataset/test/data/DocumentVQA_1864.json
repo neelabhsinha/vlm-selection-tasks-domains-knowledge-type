@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1864,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1864.png",
+    "question": "What is the title of the third table?",
+    "label": [
+        "Prosthesis met-met"
+    ]
+}

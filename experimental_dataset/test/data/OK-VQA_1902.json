@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1902,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1902.png",
+    "question": "What type of event do these ladies seem to be at?",
+    "label": [
+        "tea time",
+        "tea time",
+        "tea time",
+        "tea time",
+        "lunch",
+        "lunch",
+        "prayer",
+        "prayer",
+        "dinner",
+        "dinner"
+    ]
+}

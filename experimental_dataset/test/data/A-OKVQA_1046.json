@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1046,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1046.png",
+    "question": "What is the white appliance against the right wall used for?",
+    "label": "['sitting', 'drying hair', 'restroom', 'hair drying', 'hairdryer', 'drying hair', 'vaccuming', 'drying hair', 'hand washing', 'dry hair']",
+    "choices": [
+        "drying hair",
+        "massaging back",
+        "brushing teeth",
+        "making calls"
+    ],
+    "correct_choice": "drying hair"
+}

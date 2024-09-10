@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 747,
+    "caption": "two trains are stopped at a train station",
+    "object_tags": [
+        "transport",
+        "train",
+        "railroad",
+        "track",
+        "outdoor",
+        "vehicle",
+        "railway",
+        "land vehicle",
+        "public transport",
+        "train station",
+        "rolling stock",
+        "building",
+        "passenger car",
+        "transport hub",
+        "railroad car",
+        "platform",
+        "metro",
+        "electric locomotive",
+        "rolling",
+        "metro station",
+        "rail",
+        "yellow",
+        "ground",
+        "coast"
+    ]
+}

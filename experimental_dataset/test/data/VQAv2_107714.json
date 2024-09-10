@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 107714,
+    "image_path": "./experimental_dataset/test/images/VQAv2_107714.png",
+    "question": "What color is the laptop?",
+    "label": [
+        "white",
+        "gray",
+        "white",
+        "white",
+        "white",
+        "cream",
+        "white",
+        "beige",
+        "white",
+        "off white"
+    ]
+}

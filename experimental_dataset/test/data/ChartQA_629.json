@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 629,
+    "image_path": "./experimental_dataset/test/images/ChartQA_629.png",
+    "question": "How many blue bars exceed 520000 values?",
+    "label": [
+        "2"
+    ]
+}

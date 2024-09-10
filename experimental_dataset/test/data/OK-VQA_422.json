@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 422,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_422.png",
+    "question": "Where can i but nice looking suitcases like in this photo?",
+    "label": [
+        "kohl",
+        "kohl",
+        "kohl",
+        "kohl",
+        "you can find these in vintage store",
+        "you can find these in vintage store",
+        "internet",
+        "internet",
+        "amazon",
+        "amazon"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 53238,
+    "caption": "a motorcycle is parked on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "wheel",
+        "tree",
+        "tire",
+        "sky",
+        "vehicle",
+        "land vehicle",
+        "auto part",
+        "text",
+        "truck",
+        "ground",
+        "trailer",
+        "person",
+        "mountain",
+        "driving"
+    ]
+}

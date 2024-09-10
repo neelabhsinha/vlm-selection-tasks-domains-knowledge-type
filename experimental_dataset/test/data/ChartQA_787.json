@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 787,
+    "image_path": "./experimental_dataset/test/images/ChartQA_787.png",
+    "question": "What is the difference between the highest and lowest number of road traffic fatalities in Slovakia from 2006 to 2019?",
+    "label": [
+        "410"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3330,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3330.png",
+    "question": "Batman's main female villain surround herself with these?",
+    "label": [
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "catwoman",
+        "catwoman"
+    ]
+}

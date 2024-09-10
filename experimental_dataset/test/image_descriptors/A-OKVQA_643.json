@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 643,
+    "caption": "a large teddy bear sitting in front of a window",
+    "object_tags": [
+        "teddy",
+        "stuffed",
+        "indoor",
+        "toy",
+        "floor",
+        "window",
+        "ground"
+    ]
+}

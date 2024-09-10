@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 370,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_370.png",
+    "question": "What is coming out of her mouth?",
+    "label": "['smoke', 'smoke', 'smoke', 'smoke', 'smoke', 'smoke', 'cigarette smoke', 'smoke', 'smoke', 'smoke']",
+    "choices": [
+        "food",
+        "sweat",
+        "blood",
+        "smoke"
+    ],
+    "correct_choice": "smoke"
+}

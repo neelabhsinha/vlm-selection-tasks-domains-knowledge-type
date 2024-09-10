@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 308,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_308.png",
+    "question": "Who is the Originator?",
+    "label": [
+        "Amy Brown Watson"
+    ]
+}

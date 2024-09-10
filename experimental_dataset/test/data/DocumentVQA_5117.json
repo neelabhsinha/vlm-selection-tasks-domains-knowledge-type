@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5117,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5117.png",
+    "question": "has Shri R.R. Kumar attende AGM held on 24.09.2004?",
+    "label": [
+        "Yes",
+        "yes"
+    ]
+}

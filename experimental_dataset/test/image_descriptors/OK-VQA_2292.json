@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2292,
+    "caption": "motorcycles are parked in a parking lot",
+    "object_tags": [
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "tire",
+        "outdoor",
+        "road",
+        "motorcycle",
+        "auto part",
+        "sky",
+        "motor vehicle",
+        "parking",
+        "fender",
+        "automotive tire",
+        "car",
+        "parking lot",
+        "automotive exterior",
+        "mode of transport",
+        "parked",
+        "vehicle registration plate",
+        "automotive wheel system",
+        "street",
+        "motorbike"
+    ]
+}

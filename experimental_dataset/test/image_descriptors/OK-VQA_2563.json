@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2563,
+    "caption": "a bunk bed with a backpack on top of it",
+    "object_tags": [
+        "furniture",
+        "indoor",
+        "wall",
+        "bed",
+        "bag"
+    ]
+}

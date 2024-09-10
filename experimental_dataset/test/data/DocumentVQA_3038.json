@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3038,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3038.png",
+    "question": "Who is it developed and produced by?",
+    "label": [
+        "health learning systems inc.",
+        "Health Learning Systems Inc."
+    ]
+}

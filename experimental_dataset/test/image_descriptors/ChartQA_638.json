@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 638,
+    "caption": "a collage of images of a person holding a blue and white kite",
+    "object_tags": [
+        "text",
+        "diagram",
+        "line",
+        "plot",
+        "screenshot",
+        "number",
+        "parallel"
+    ]
+}

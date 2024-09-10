@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1939,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1939.png",
+    "question": "What is the title of the document ?",
+    "label": [
+        "JCW Notes"
+    ]
+}

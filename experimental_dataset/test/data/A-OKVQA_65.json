@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 65,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_65.png",
+    "question": "Which vegetable on the pizza would be risky for someone with a certain allergy?",
+    "label": "['mushrooms', 'cheese', 'mushroom', 'mushrooms', 'pepper', 'mushrooms', 'tomato', 'spice', 'mushroom', 'peppers']",
+    "choices": [
+        "pepperoni",
+        "mushrooms",
+        "banana peppers",
+        "red peppers"
+    ],
+    "correct_choice": "mushrooms"
+}

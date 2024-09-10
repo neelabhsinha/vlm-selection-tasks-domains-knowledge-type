@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 966,
+    "caption": "a dog laying on the floor next to a motorcycle",
+    "object_tags": [
+        "animal",
+        "tire",
+        "motorcycle",
+        "vehicle",
+        "wheel",
+        "pet",
+        "land vehicle",
+        "dog",
+        "floor",
+        "indoor",
+        "mammal",
+        "motorbike"
+    ]
+}

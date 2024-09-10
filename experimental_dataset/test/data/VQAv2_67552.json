@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 67552,
+    "image_path": "./experimental_dataset/test/images/VQAv2_67552.png",
+    "question": "The sheep are a mix of what two colors?",
+    "label": [
+        "black and white",
+        "white,black",
+        "black and white",
+        "black and white",
+        "white and black",
+        "black and white",
+        "black and white",
+        "white and black",
+        "black and white",
+        "black and tan"
+    ]
+}

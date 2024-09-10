@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 213435,
+    "image_path": "./experimental_dataset/test/images/VQAv2_213435.png",
+    "question": "What does the pitcher's shirt say?",
+    "label": [
+        "mariners",
+        "rowland",
+        "rowland 23",
+        "rowland",
+        "not sure",
+        "rowland",
+        "rowland",
+        "yankees",
+        "rowland 23",
+        "rowland"
+    ]
+}

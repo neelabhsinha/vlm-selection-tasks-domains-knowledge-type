@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2020,
+    "caption": "a red double decker bus driving down a street",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "text",
+        "transport",
+        "sky",
+        "road",
+        "mode of transport",
+        "double-decker bus",
+        "decker",
+        "wheel",
+        "red",
+        "tree",
+        "street",
+        "public transport",
+        "bus",
+        "driving",
+        "city"
+    ]
+}

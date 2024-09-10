@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2232,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2232.png",
+    "question": "Which is the first level of technical personnel mentioned?",
+    "label": [
+        "The degree level or possibly the graduate level"
+    ]
+}

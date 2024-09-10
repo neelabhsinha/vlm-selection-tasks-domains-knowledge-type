@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2945,
+    "caption": "colorful vases are displayed on a table",
+    "object_tags": [
+        "wall",
+        "vase",
+        "art",
+        "indoor",
+        "picture frame",
+        "decorated",
+        "painting",
+        "museum",
+        "exhibition"
+    ]
+}

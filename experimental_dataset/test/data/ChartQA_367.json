@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 367,
+    "image_path": "./experimental_dataset/test/images/ChartQA_367.png",
+    "question": "Is the combined total of the GDP per person employed in the year 2012 for Nepal and Costa Rica more than Lebanon?",
+    "label": [
+        "No"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 373,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_373.png",
+    "question": "What footwear is the person walking on?",
+    "label": "['boots', 'shoes', 'boots', 'shoes', 'boots', 'styled boots', 'boots', 'flats', 'shoes', 'boots']",
+    "choices": [
+        "heels",
+        "tennis shoes",
+        "sandals",
+        "flats"
+    ],
+    "correct_choice": "flats"
+}

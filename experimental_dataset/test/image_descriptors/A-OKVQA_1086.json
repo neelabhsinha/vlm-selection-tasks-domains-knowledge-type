@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1086,
+    "caption": "a plane is parked on the tarmac at an airport",
+    "object_tags": [
+        "plane",
+        "airport",
+        "airplane",
+        "ground",
+        "outdoor",
+        "airliner",
+        "airline",
+        "vehicle",
+        "jet bridge",
+        "air travel",
+        "airport apron",
+        "building",
+        "narrow-body aircraft",
+        "parked",
+        "aircraft",
+        "tarmac",
+        "sitting",
+        "gate",
+        "floor",
+        "runway"
+    ]
+}

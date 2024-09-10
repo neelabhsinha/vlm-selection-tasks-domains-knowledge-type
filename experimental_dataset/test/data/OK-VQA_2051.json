@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2051,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2051.png",
+    "question": "What is the purpode of the tower to the left?",
+    "label": [
+        "clock",
+        "clock",
+        "clock",
+        "clock",
+        "tell time",
+        "tell time",
+        "residential",
+        "residential",
+        "lighthouse",
+        "lighthouse"
+    ]
+}

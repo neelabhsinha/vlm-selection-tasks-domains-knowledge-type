@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1703,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1703.png",
+    "question": "How many deaths were due to rip currents in the United States in 2019?",
+    "label": [
+        "72"
+    ]
+}

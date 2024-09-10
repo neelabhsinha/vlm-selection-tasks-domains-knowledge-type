@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2626,
+    "caption": "a man riding a skateboard on top of a cement block",
+    "object_tags": [
+        "sport",
+        "person",
+        "sports equipment",
+        "footwear",
+        "skating",
+        "skateboarding equipment",
+        "skateboarder",
+        "individual sports",
+        "man",
+        "street stunts",
+        "boardsport",
+        "clothing",
+        "skateboarding",
+        "skate",
+        "stunt",
+        "kickflip",
+        "roller sport",
+        "skatepark",
+        "riding",
+        "outdoor",
+        "performing",
+        "skateboard",
+        "skater"
+    ]
+}

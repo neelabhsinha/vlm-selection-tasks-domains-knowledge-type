@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 57661,
+    "caption": "a man and a woman standing next to each other",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "outerwear",
+        "jacket",
+        "coat",
+        "sleeve",
+        "collar",
+        "top",
+        "man",
+        "pocket",
+        "portrait",
+        "wearing",
+        "fabric",
+        "dark",
+        "standing"
+    ]
+}

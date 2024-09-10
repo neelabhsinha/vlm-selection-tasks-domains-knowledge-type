@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 551,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_551.png",
+    "question": "It is a boat or ship or fishboat?",
+    "label": [
+        "ship",
+        "ship",
+        "ship",
+        "ship",
+        "ship",
+        "ship",
+        "ship",
+        "ship",
+        "fishboat",
+        "fishboat"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 721,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_721.png",
+    "question": "Where is Vanderbilt University located ?",
+    "label": [
+        "Nashville"
+    ]
+}

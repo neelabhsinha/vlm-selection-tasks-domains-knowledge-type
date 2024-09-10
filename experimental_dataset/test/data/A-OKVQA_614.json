@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 614,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_614.png",
+    "question": "What is the woman holding to her ear?",
+    "label": "['phone', 'phone', 'cellphone', 'phone', 'cellphone', 'phone', 'phone', 'cellphone', 'phone', 'cell phone']",
+    "choices": [
+        "beeper",
+        "cell phone",
+        "food",
+        "earrings"
+    ],
+    "correct_choice": "cell phone"
+}

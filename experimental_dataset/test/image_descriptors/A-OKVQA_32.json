@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 32,
+    "caption": "a young boy wearing a hat and holding a baseball bat",
+    "object_tags": [
+        "human face",
+        "toddler",
+        "indoor",
+        "person",
+        "clothing",
+        "boy",
+        "party hat",
+        "young",
+        "wall",
+        "child",
+        "hat",
+        "floor",
+        "girl"
+    ]
+}

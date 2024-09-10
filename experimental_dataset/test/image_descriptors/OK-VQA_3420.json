@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3420,
+    "caption": "a man sitting at a table with a glass of wine",
+    "object_tags": [
+        "drink",
+        "tableware",
+        "person",
+        "indoor",
+        "bottle",
+        "wine glass",
+        "drinkware",
+        "wall",
+        "table",
+        "wine",
+        "human face",
+        "barware",
+        "man",
+        "clothing",
+        "alcoholic beverage",
+        "stemware",
+        "champagne stemware",
+        "glass bottle",
+        "glasses",
+        "alcohol",
+        "sitting",
+        "restaurant",
+        "food"
+    ]
+}

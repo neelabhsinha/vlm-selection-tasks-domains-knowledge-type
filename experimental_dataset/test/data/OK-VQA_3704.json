@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3704,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3704.png",
+    "question": "What are these people wearing?",
+    "label": [
+        "wet suit",
+        "wet suit",
+        "wet suit",
+        "wet suit",
+        "scuba suit",
+        "scuba suit",
+        "scuba gear",
+        "scuba gear",
+        "bodysuit",
+        "bodysuit"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 118040,
+    "caption": "a bus is parked in front of a church",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sky",
+        "vehicle",
+        "land vehicle",
+        "road",
+        "car",
+        "church",
+        "street",
+        "spire",
+        "van",
+        "medieval architecture",
+        "town",
+        "steeple",
+        "building",
+        "place of worship",
+        "tower",
+        "cloudy",
+        "city",
+        "large",
+        "parked",
+        "cathedral",
+        "bus"
+    ]
+}

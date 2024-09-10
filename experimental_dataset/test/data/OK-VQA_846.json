@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 846,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_846.png",
+    "question": "What activity is this?",
+    "label": [
+        "hike",
+        "hike",
+        "hike",
+        "hike",
+        "hike",
+        "hike",
+        "hike",
+        "hike",
+        "hike",
+        "hike"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2019,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2019.png",
+    "question": "What is the Not number ?",
+    "label": [
+        "515",
+        "#515"
+    ]
+}

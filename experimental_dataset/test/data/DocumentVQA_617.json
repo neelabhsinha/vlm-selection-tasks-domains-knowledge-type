@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 617,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_617.png",
+    "question": "What is the chapter number ?",
+    "label": [
+        "chapter 1",
+        "1",
+        "Chapter 1"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 186,
+    "caption": "a parking meter sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "meter",
+        "parking",
+        "text",
+        "tree",
+        "plant",
+        "ground",
+        "parking meter",
+        "sidewalk",
+        "grass"
+    ]
+}

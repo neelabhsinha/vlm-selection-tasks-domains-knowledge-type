@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2728,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2728.png",
+    "question": "Who 'Forgot' to place the easel card for the Winston promotions?",
+    "label": [
+        "retailers",
+        "Retailers"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 369,
+    "caption": "a stack of suitcases stacked on top of each other",
+    "object_tags": [
+        "indoor",
+        "cabinet",
+        "filing cabinet",
+        "chest of drawers",
+        "cabinetry",
+        "wall",
+        "drawer",
+        "shelf",
+        "wooden"
+    ]
+}

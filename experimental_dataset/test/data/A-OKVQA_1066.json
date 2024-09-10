@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1066,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1066.png",
+    "question": "What body of water is this?",
+    "label": "['river', 'canal', 'canal', 'canal', 'river', 'canal', 'canal', 'river', 'canal', 'venice canal']",
+    "choices": [
+        "ocean",
+        "canal",
+        "river",
+        "lake"
+    ],
+    "correct_choice": "canal"
+}

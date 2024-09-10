@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 406,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_406.png",
+    "question": "What is the woman's job called?",
+    "label": "['horseback rider', 'equestrianism', 'jockey', 'horse rider', 'equestrian', 'equestrian', 'rider', 'equestrian', 'jockey', 'esquestrian']",
+    "choices": [
+        "jumper",
+        "jockey",
+        "rider",
+        "equestrianism"
+    ],
+    "correct_choice": "equestrianism"
+}

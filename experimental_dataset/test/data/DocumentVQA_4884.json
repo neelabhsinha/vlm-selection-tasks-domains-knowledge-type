@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4884,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4884.png",
+    "question": "what is the amount for Task Force Meetings, Domestic Travel?",
+    "label": [
+        "18,000.00",
+        "$18,000.00"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 208408,
+    "image_path": "./experimental_dataset/test/images/VQAv2_208408.png",
+    "question": "What do the players have on their heads?",
+    "label": [
+        "hats",
+        "helmet",
+        "caps",
+        "hats",
+        "hats",
+        "hat",
+        "hats",
+        "helmets and hats",
+        "helmets",
+        "hats"
+    ]
+}

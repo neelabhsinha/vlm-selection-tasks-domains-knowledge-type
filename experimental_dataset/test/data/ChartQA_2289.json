@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2289,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2289.png",
+    "question": "What was the rating of TV news programming in Guatemala on March 22, 2020?",
+    "label": [
+        "5.8"
+    ]
+}

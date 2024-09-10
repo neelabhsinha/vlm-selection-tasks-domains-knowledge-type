@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3406,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3406.png",
+    "question": "What kind of white clothing are they wearing?",
+    "label": [
+        "t shirt",
+        "t shirt",
+        "t shirt",
+        "t shirt",
+        "t shirt",
+        "t shirt",
+        "shirt",
+        "shirt",
+        "tshirts",
+        "tshirts"
+    ]
+}

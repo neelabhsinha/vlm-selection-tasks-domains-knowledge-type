@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 811,
+    "caption": "a poster with a picture of a man in a suit",
+    "object_tags": [
+        "text",
+        "human face",
+        "man",
+        "screenshot",
+        "black and white",
+        "illustration"
+    ]
+}

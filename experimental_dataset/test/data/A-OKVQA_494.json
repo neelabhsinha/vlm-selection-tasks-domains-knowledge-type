@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 494,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_494.png",
+    "question": "What are the men doing?",
+    "label": "['playing game', 'playing game', 'watching movie', 'laughing', 'movie night', 'watching', 'playing nintendo', 'playing', 'video games', 'playing wii']",
+    "choices": [
+        "hugging",
+        "laughing",
+        "kissing",
+        "crying"
+    ],
+    "correct_choice": "laughing"
+}

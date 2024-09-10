@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3906,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3906.png",
+    "question": "What type of furniture is the girl leaning against?",
+    "label": [
+        "couch",
+        "couch",
+        "couch",
+        "couch",
+        "couch",
+        "couch",
+        "sofa",
+        "sofa",
+        "leather",
+        "leather"
+    ]
+}

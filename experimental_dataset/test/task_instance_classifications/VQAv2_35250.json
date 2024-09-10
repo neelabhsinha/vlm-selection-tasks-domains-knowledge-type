@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 35250,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Social Media",
+        "Nature"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Geographical Knowledge",
+        "Social Knowledge"
+    ]
+}

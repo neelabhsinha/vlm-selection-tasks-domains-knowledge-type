@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1572,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1572.png",
+    "question": "Which of the two liquid receptacles on the desk would be better for holding a hot drink?",
+    "label": [
+        "cup",
+        "cup",
+        "cup",
+        "cup",
+        "cup",
+        "cup",
+        "mug",
+        "mug",
+        "coffee cup",
+        "coffee cup"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3358,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3358.png",
+    "question": "What Receipt is this?",
+    "label": [
+        "MAIL DEPOSIT RECEIPT",
+        "Mail Deposit Receipt"
+    ]
+}

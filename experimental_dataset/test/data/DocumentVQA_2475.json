@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2475,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2475.png",
+    "question": "Which shop advertises itself as \"A most unique gift shop\"?",
+    "label": [
+        "the station",
+        "The station"
+    ]
+}

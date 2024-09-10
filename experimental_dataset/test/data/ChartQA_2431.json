@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2431,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2431.png",
+    "question": "What is the market penetration rate of legal cannabis?",
+    "label": [
+        "20"
+    ]
+}

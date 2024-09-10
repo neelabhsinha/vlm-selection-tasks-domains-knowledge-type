@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 20575,
+    "caption": "a man in a blue shirt and tie sitting on a blue chair",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "smile",
+        "man",
+        "furniture",
+        "sitting",
+        "blue",
+        "indoor",
+        "ground",
+        "shirt",
+        "wearing",
+        "chair"
+    ]
+}

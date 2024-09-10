@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1031,
+    "caption": "a man with a hat and a woman with a scarf",
+    "object_tags": [
+        "human face",
+        "person",
+        "clothing",
+        "jacket",
+        "fur clothing",
+        "headgear",
+        "hood",
+        "hat",
+        "indoor",
+        "woman"
+    ]
+}

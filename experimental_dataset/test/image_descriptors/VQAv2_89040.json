@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 89040,
+    "caption": "a man jumping up to hit a tennis ball",
+    "object_tags": [
+        "sport",
+        "athletic game",
+        "person",
+        "tennis",
+        "court",
+        "player",
+        "footwear",
+        "clothing",
+        "racquet sport",
+        "tennis court",
+        "outdoor",
+        "tennis racket",
+        "sports equipment",
+        "soft tennis",
+        "racketlon",
+        "tennis player",
+        "sport venue",
+        "tennis equipment",
+        "sports",
+        "man",
+        "ground",
+        "racket",
+        "hitting"
+    ]
+}

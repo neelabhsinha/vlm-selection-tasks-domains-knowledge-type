@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 850,
+    "image_path": "./experimental_dataset/test/images/ChartQA_850.png",
+    "question": "which two year is compared in the chart?",
+    "label": [
+        "[2017, 2023]"
+    ]
+}

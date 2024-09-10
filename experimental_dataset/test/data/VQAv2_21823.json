@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 21823,
+    "image_path": "./experimental_dataset/test/images/VQAv2_21823.png",
+    "question": "Is that an iPhone 6S she's holding?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "no"
+    ]
+}

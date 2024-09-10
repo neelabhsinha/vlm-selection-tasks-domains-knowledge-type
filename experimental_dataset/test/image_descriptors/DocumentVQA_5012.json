@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5012,
+    "caption": "an aerial view of an airplane in the air",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "document",
+        "font"
+    ]
+}

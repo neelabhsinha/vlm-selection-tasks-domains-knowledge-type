@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 777,
+    "caption": "a lunch box filled with vegetables, rice, and meat",
+    "object_tags": [
+        "food",
+        "ingredient",
+        "cuisine",
+        "staple food",
+        "prepackaged meal",
+        "take-out food",
+        "meal",
+        "produce",
+        "vegetable",
+        "legume",
+        "food group",
+        "container",
+        "lunch",
+        "indoor"
+    ]
+}

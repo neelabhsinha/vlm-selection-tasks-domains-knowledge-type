@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 535,
+    "image_path": "./experimental_dataset/test/images/ChartQA_535.png",
+    "question": "Is the average number of nuclear power plants in Russia and U.S. greater than 60?",
+    "label": [
+        "Yes"
+    ]
+}

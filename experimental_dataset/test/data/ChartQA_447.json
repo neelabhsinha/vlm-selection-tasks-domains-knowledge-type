@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 447,
+    "image_path": "./experimental_dataset/test/images/ChartQA_447.png",
+    "question": "What's the ratio(A:B) of dark and light green bars for bottom category?",
+    "label": [
+        "1"
+    ]
+}

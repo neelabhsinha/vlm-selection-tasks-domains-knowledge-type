@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4731,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4731.png",
+    "question": "What is the recommended intake of calcium in women?",
+    "label": [
+        "500 MG",
+        "500 mg"
+    ]
+}

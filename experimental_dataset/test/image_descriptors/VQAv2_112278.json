@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 112278,
+    "caption": "a train on a train track at night",
+    "object_tags": [
+        "street light",
+        "vehicle",
+        "building",
+        "electricity",
+        "fog",
+        "land vehicle",
+        "outdoor",
+        "light",
+        "sky",
+        "signaling device",
+        "track",
+        "night",
+        "street",
+        "way",
+        "winter",
+        "city",
+        "train",
+        "railroad"
+    ]
+}

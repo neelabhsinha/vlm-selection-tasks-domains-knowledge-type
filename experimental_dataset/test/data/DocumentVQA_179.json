@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 179,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_179.png",
+    "question": "At what temperature should all ingredients be mixed?",
+    "label": [
+        "110-120 f",
+        "110-120 F"
+    ]
+}

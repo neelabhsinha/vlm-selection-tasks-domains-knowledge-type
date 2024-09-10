@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 99464,
+    "caption": "a cat sitting on a chair next to a plant",
+    "object_tags": [
+        "animal",
+        "houseplant",
+        "indoor",
+        "plant",
+        "small to medium-sized cats",
+        "flowerpot",
+        "black cat",
+        "felidae",
+        "furniture",
+        "wall",
+        "cat furniture",
+        "chair",
+        "sitting",
+        "black",
+        "window",
+        "domestic cat",
+        "cat",
+        "floor",
+        "kitten"
+    ]
+}

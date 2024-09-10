@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 565,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_565.png",
+    "question": "What actress has the first name that is seen on these jerseys?",
+    "label": "['jenner', 'kimberly katrall', 'kimberly', 'kimberly williams', 'kimberly elise', 'kimberly', 'kimberly actress', 'kimberly', 'kim basinger', 'kim nova']",
+    "choices": [
+        "joan crawford",
+        "kimberly elise",
+        "jenna elfman",
+        "jessica stroup"
+    ],
+    "correct_choice": "kimberly elise"
+}

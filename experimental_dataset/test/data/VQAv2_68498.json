@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 68498,
+    "image_path": "./experimental_dataset/test/images/VQAv2_68498.png",
+    "question": "Where is the clock?",
+    "label": [
+        "on tower",
+        "tower",
+        "in tower",
+        "background",
+        "on tower in background",
+        "on tower",
+        "tower",
+        "on tower",
+        "on building",
+        "tower"
+    ]
+}

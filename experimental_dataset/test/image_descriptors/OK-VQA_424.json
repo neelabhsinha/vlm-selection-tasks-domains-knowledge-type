@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 424,
+    "caption": "a small boat is docked in the water",
+    "object_tags": [
+        "outdoor",
+        "ship",
+        "water",
+        "vehicle",
+        "boating",
+        "naval architecture",
+        "watercraft",
+        "harbor",
+        "mast",
+        "sailboat",
+        "marina",
+        "sky",
+        "water transportation",
+        "sailing",
+        "picnic boat",
+        "yacht",
+        "lake",
+        "boat",
+        "ocean"
+    ]
+}

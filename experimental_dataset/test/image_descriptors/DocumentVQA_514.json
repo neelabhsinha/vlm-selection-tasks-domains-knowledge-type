@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 514,
+    "caption": "a collage of photographs of a newspaper advertisement",
+    "object_tags": [
+        "text",
+        "font",
+        "black and white",
+        "document"
+    ]
+}

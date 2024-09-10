@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2547,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2547.png",
+    "question": "The vegetables shown before you is good for which parts of the body?",
+    "label": [
+        "heart",
+        "heart",
+        "heart",
+        "heart",
+        "immunte system",
+        "immunte system",
+        "digestive",
+        "digestive",
+        "total body",
+        "total body"
+    ]
+}

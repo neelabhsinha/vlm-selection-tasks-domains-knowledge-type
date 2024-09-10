@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 720,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_720.png",
+    "question": "What is the first number on the license plate?",
+    "label": "['zero', 'zero', 'zero', 'one', 'zero', 'number 4', 'number 1', 'number 0', 'zero', 'zero']",
+    "choices": [
+        "zero",
+        "six",
+        "one",
+        "two"
+    ],
+    "correct_choice": "zero"
+}

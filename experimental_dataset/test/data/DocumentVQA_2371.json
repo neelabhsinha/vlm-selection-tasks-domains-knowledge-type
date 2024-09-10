@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2371,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2371.png",
+    "question": "What is the title of Richard Crawfis?",
+    "label": [
+        "Executive Director"
+    ]
+}

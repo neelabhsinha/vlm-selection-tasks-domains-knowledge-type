@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2008,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2008.png",
+    "question": "What part of a car is also part of this animal?",
+    "label": [
+        "trunk",
+        "trunk",
+        "trunk",
+        "trunk",
+        "trunk",
+        "trunk",
+        "trunk",
+        "trunk",
+        "trunk",
+        "trunk"
+    ]
+}

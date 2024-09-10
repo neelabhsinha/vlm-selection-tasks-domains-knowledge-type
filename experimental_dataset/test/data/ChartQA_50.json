@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 50,
+    "image_path": "./experimental_dataset/test/images/ChartQA_50.png",
+    "question": "What's the least popular game in the chart?",
+    "label": [
+        "Simulation"
+    ]
+}

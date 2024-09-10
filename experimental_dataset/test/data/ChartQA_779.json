@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 779,
+    "image_path": "./experimental_dataset/test/images/ChartQA_779.png",
+    "question": "Which pair of Russia vs. Australia and Germany vs. United States has a smaller difference in terms of lignite reserves in 2018?",
+    "label": [
+        "[Germany,United States]"
+    ]
+}

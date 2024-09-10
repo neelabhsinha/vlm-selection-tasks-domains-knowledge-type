@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4532,
+    "caption": "a beach umbrella sitting on top of a sandy beach",
+    "object_tags": [
+        "outdoor",
+        "umbrella",
+        "sky",
+        "water",
+        "beach",
+        "accessory",
+        "furniture",
+        "ground",
+        "sunlounger",
+        "chair",
+        "sand"
+    ]
+}

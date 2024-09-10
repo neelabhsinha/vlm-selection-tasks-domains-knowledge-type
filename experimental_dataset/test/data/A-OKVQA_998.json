@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 998,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_998.png",
+    "question": "What item of visible clothing is red?",
+    "label": "['shirt', 'sweater', 'sweater', 'shirt', 'shirt', 'shirt', 'shirt', 'shirt', 'sweater', 'shirt']",
+    "choices": [
+        "shirt",
+        "belt",
+        "pants",
+        "hat"
+    ],
+    "correct_choice": "shirt"
+}

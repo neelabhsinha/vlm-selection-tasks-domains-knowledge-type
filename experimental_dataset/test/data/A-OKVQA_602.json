@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 602,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_602.png",
+    "question": "Which type animals do at least one person here like?",
+    "label": "['dog', 'dogs', 'dog', 'dogs', 'dogs', 'dog', 'dogs', 'dogs', 'dogs', 'dog']",
+    "choices": [
+        "dogs",
+        "rats",
+        "cats",
+        "newts"
+    ],
+    "correct_choice": "dogs"
+}

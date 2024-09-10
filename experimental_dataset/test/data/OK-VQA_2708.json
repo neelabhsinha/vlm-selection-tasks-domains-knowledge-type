@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2708,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2708.png",
+    "question": "What service does this truck provide?",
+    "label": [
+        "move",
+        "move",
+        "move",
+        "move",
+        "move",
+        "move",
+        "move",
+        "move",
+        "de service",
+        "de service"
+    ]
+}

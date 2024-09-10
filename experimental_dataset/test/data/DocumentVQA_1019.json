@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1019,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1019.png",
+    "question": "What is written in the \"Phone\" field?",
+    "label": [
+        "412-624-2600",
+        "412 - 624 - 2600"
+    ]
+}

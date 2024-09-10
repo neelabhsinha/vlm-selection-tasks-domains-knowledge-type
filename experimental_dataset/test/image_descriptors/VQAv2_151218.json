@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 151218,
+    "caption": "a seagull standing on top of a wooden post",
+    "object_tags": [
+        "animal",
+        "bird",
+        "outdoor",
+        "beak",
+        "feather",
+        "falcon",
+        "sea gull"
+    ]
+}

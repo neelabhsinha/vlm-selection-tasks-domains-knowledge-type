@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4600,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4600.png",
+    "question": "What country are these dishes from?",
+    "label": [
+        "japan",
+        "japan",
+        "japan",
+        "japan",
+        "japan",
+        "japan",
+        "japan",
+        "japan",
+        "china",
+        "china"
+    ]
+}

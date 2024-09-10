@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 21,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_21.png",
+    "question": "What is the shape?",
+    "label": [
+        "circle",
+        "circle",
+        "circle",
+        "circle",
+        "circle",
+        "circle",
+        "round",
+        "round",
+        "round",
+        "round"
+    ]
+}

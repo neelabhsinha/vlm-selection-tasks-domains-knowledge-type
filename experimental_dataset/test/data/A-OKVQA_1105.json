@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1105,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1105.png",
+    "question": "What type of game he played?",
+    "label": "['skate board', 'jumping', 'skating', 'skateboarding', 'skating', 'road skiing', 'scatting', 'skating', 'skating', 'skateboarding']",
+    "choices": [
+        "tennis",
+        "volleyball",
+        "basket ball",
+        "skating"
+    ],
+    "correct_choice": "skating"
+}

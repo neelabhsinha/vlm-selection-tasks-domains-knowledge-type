@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 70116,
+    "caption": "a train traveling over a body of water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "water",
+        "lake",
+        "building",
+        "waterway",
+        "sea",
+        "boat",
+        "nature",
+        "travel"
+    ]
+}

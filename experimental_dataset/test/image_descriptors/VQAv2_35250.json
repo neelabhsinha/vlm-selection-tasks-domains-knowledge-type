@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 35250,
+    "caption": "a man sitting on a bench in a park",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "plant",
+        "person",
+        "tree",
+        "field",
+        "woman",
+        "standing",
+        "nature"
+    ]
+}

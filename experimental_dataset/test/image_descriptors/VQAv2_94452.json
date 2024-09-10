@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 94452,
+    "caption": "a birthday cake with a picture of a train on it",
+    "object_tags": [
+        "birthday cake",
+        "cake",
+        "cake decorating",
+        "birthday",
+        "sugar cake",
+        "dessert",
+        "cake decorating supply",
+        "icing",
+        "baked goods",
+        "sweetness",
+        "food",
+        "baking",
+        "buttercream",
+        "food coloring",
+        "royal icing",
+        "sugar paste",
+        "torte",
+        "cream",
+        "kuchen",
+        "white cake mix",
+        "fondant",
+        "cake board",
+        "torta",
+        "indoor"
+    ]
+}

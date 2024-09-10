@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1088,
+    "caption": "a young boy standing in front of a box of pizza",
+    "object_tags": [
+        "clothing",
+        "person",
+        "pizza",
+        "fast food",
+        "food",
+        "human face",
+        "snack",
+        "smile",
+        "wall",
+        "indoor",
+        "shop",
+        "young",
+        "standing",
+        "boy"
+    ]
+}

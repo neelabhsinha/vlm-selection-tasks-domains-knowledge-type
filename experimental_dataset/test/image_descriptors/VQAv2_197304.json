@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 197304,
+    "caption": "people standing on top of a dirt field",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "ground",
+        "clothing",
+        "shorts",
+        "summer",
+        "beach",
+        "swimwear",
+        "tree",
+        "vacation",
+        "man",
+        "people",
+        "trunks",
+        "recreation",
+        "board short",
+        "fun",
+        "standing",
+        "group"
+    ]
+}

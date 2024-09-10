@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 767,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Books",
+        "Movies",
+        "Fiction"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Geographical Knowledge",
+        "Social Knowledge",
+        "Literary Knowledge"
+    ]
+}

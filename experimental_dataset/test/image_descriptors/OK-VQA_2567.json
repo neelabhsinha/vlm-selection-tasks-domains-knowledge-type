@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2567,
+    "caption": "a broken refrigerator sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "wheel",
+        "ground",
+        "vehicle",
+        "auto part",
+        "tire",
+        "car",
+        "parked",
+        "appliance",
+        "trailer",
+        "dirty"
+    ]
+}

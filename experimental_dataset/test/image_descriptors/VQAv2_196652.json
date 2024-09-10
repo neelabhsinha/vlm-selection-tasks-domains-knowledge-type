@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 196652,
+    "caption": "a piece of fruit on a plate with a fork",
+    "object_tags": [
+        "dessert",
+        "food",
+        "fruit",
+        "plate",
+        "baked goods",
+        "sweetness",
+        "kitchen utensil",
+        "cake",
+        "snack",
+        "apple",
+        "pastry",
+        "dishware",
+        "baking",
+        "tableware",
+        "silverware",
+        "dairy",
+        "cuisine",
+        "culinary art",
+        "platter",
+        "gluten",
+        "staple food",
+        "fork",
+        "table",
+        "indoor",
+        "slice",
+        "eaten"
+    ]
+}

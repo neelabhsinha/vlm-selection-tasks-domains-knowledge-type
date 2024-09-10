@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4197,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4197.png",
+    "question": "What part of the body is this item used on?",
+    "label": [
+        "head",
+        "head",
+        "head",
+        "head",
+        "head",
+        "head",
+        "hair",
+        "hair",
+        "hair",
+        "hair"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3185,
+    "caption": "a row of tables with umbrellas and chairs",
+    "object_tags": [
+        "outdoor",
+        "umbrella",
+        "furniture",
+        "table",
+        "plant",
+        "ground",
+        "tree",
+        "grass",
+        "water",
+        "outdoor table",
+        "chair",
+        "sitting",
+        "wooden",
+        "rain"
+    ]
+}

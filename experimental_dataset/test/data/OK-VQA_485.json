@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 485,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_485.png",
+    "question": "Should you leave the toilet seat up like this photo or down?",
+    "label": [
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "down",
+        "leave it up",
+        "leave it up"
+    ]
+}

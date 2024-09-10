@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 94,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_94.png",
+    "question": "What are the people in the picture doing?",
+    "label": "['skiing', 'skating', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing']",
+    "choices": [
+        "skating",
+        "laughing",
+        "jogging",
+        "angry"
+    ],
+    "correct_choice": "skating"
+}

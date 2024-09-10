@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 900,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_900.png",
+    "question": "Who is the President ?",
+    "label": [
+        "Jack Heritage"
+    ]
+}

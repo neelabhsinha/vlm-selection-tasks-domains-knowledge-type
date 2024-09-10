@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 21586,
+    "image_path": "./experimental_dataset/test/images/VQAv2_21586.png",
+    "question": "Are there any people walking in the street?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes"
+    ]
+}

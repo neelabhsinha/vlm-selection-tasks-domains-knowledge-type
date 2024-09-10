@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2244,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2244.png",
+    "question": "What do these animals eat?",
+    "label": [
+        "cat food",
+        "cat food",
+        "cat food",
+        "cat food",
+        "cat food",
+        "cat food",
+        "cat food",
+        "cat food",
+        "catfood",
+        "catfood"
+    ]
+}

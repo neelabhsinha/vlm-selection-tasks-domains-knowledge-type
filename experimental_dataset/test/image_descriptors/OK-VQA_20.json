@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 20,
+    "caption": "a laptop computer sitting on top of a wooden table",
+    "object_tags": [
+        "laptop",
+        "computer",
+        "drink",
+        "indoor",
+        "candle",
+        "computer hardware",
+        "electronics",
+        "personal computer",
+        "electronic device",
+        "netbook",
+        "table"
+    ]
+}

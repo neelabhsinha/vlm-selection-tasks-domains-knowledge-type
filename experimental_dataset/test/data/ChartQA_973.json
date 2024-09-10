@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 973,
+    "image_path": "./experimental_dataset/test/images/ChartQA_973.png",
+    "question": "Which age category is lowest in male and female?",
+    "label": [
+        "9 years and younger"
+    ]
+}

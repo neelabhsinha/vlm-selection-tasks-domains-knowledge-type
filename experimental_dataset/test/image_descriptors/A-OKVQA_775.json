@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 775,
+    "caption": "two horses pulling a trailer full of hay",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "grass",
+        "animal",
+        "cart",
+        "horse",
+        "black",
+        "standing",
+        "black and white",
+        "field",
+        "farm machine"
+    ]
+}

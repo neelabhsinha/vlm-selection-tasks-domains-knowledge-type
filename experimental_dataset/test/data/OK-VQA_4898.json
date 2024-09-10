@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4898,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4898.png",
+    "question": "What gaming system are they playing?",
+    "label": [
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wee",
+        "wee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1023,
+    "caption": "a slice of pizza sitting on top of a white plate",
+    "object_tags": [
+        "food",
+        "pizza",
+        "fast food",
+        "dish",
+        "drink",
+        "table",
+        "italian food",
+        "pizza cheese",
+        "baked goods",
+        "plate",
+        "california-style pizza",
+        "cuisine",
+        "tableware",
+        "pepperoni",
+        "sitting",
+        "indoor",
+        "cheese",
+        "slice"
+    ]
+}

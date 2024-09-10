@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3057,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3057.png",
+    "question": "What is the name of the person at the top of the page?",
+    "label": [
+        "dr. robert shank",
+        "Dr. Robert Shank"
+    ]
+}

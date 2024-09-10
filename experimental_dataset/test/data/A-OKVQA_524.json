@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 524,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_524.png",
+    "question": "Where would you most likely find this advertisement?",
+    "label": "['magazine', 'magazine', 'magazine', 'magazine', 'magazine', 'magazine', 'magazine', 'sears', 'magazine', 'sears']",
+    "choices": [
+        "book",
+        "newspaper",
+        "library",
+        "magazine"
+    ],
+    "correct_choice": "magazine"
+}

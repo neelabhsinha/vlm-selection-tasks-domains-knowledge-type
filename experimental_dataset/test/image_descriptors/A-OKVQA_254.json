@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 254,
+    "caption": "a crowd of people sitting around a motorcycle",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "tire",
+        "vehicle",
+        "motorbike",
+        "clothing",
+        "auto part",
+        "person",
+        "man",
+        "outdoor",
+        "road",
+        "building",
+        "motorcycling",
+        "motorcycle",
+        "people",
+        "bike",
+        "street",
+        "sitting",
+        "parked"
+    ]
+}

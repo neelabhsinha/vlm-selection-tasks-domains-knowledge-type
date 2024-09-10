@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 932,
+    "caption": "a large clock on the side of a body of water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "Ferris wheel",
+        "ground",
+        "beach",
+        "landscape",
+        "wheel"
+    ]
+}

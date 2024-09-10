@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2197,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2197.png",
+    "question": "How many Ford cars were sold in Turkey in 2015?",
+    "label": [
+        "47158"
+    ]
+}

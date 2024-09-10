@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 111692,
+    "image_path": "./experimental_dataset/test/images/VQAv2_111692.png",
+    "question": "How many baby elephants are in the photo?",
+    "label": [
+        "0",
+        "0",
+        "2",
+        "2",
+        "1",
+        "0",
+        "0",
+        "1",
+        "0",
+        "2"
+    ]
+}

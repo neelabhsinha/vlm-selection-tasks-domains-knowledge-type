@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 670,
+    "caption": "a person preparing food on a table",
+    "object_tags": [
+        "food",
+        "plate",
+        "meal",
+        "tableware",
+        "cuisine",
+        "dish",
+        "fork",
+        "table",
+        "kitchen utensil",
+        "lunch",
+        "fast food",
+        "platter",
+        "person",
+        "leaf vegetable",
+        "supper",
+        "recipe",
+        "ingredient",
+        "brunch",
+        "bowl",
+        "indoor",
+        "vegetable",
+        "salad"
+    ]
+}

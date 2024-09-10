@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 666,
+    "image_path": "./experimental_dataset/test/images/ChartQA_666.png",
+    "question": "Which has percentage closer to 50%?",
+    "label": [
+        "Based on how much we can afford as a family"
+    ]
+}

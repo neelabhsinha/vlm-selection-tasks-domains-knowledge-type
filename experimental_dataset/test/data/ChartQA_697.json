@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 697,
+    "image_path": "./experimental_dataset/test/images/ChartQA_697.png",
+    "question": "What is the sum of other two except Michael kors?",
+    "label": [
+        "25.19"
+    ]
+}

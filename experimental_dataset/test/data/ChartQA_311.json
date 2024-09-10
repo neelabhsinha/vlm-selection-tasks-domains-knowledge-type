@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 311,
+    "image_path": "./experimental_dataset/test/images/ChartQA_311.png",
+    "question": "Is the total CO2 emissions value of Bus and National Rail greater than 140?",
+    "label": [
+        "Yes"
+    ]
+}

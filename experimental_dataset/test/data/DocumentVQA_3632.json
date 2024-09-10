@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3632,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3632.png",
+    "question": "What is the number of males in 21-A?",
+    "label": [
+        "2,485"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 381,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_381.png",
+    "question": "Where are they going?",
+    "label": [
+        "on trip",
+        "on trip",
+        "on trip",
+        "on trip",
+        "on trip",
+        "on trip",
+        "vacation",
+        "vacation",
+        "vacation",
+        "vacation"
+    ]
+}

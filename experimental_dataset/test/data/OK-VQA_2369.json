@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2369,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2369.png",
+    "question": "The hooligan in this photo is breaking a rule that might damage what part of the park?",
+    "label": [
+        "chain",
+        "chain",
+        "chain",
+        "chain",
+        "plant",
+        "plant",
+        "barrier",
+        "barrier",
+        "chain fence",
+        "chain fence"
+    ]
+}

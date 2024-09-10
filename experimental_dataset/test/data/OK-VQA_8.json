@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 8,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_8.png",
+    "question": "What does this grow from?",
+    "label": [
+        "ground",
+        "ground",
+        "ground",
+        "ground",
+        "plant",
+        "plant",
+        "hibiscus plant stem",
+        "hibiscus plant stem",
+        "root",
+        "root"
+    ]
+}

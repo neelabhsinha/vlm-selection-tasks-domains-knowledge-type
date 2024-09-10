@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2409,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2409.png",
+    "question": "What was Karstadt department store's sales revenue in 2013?",
+    "label": [
+        "2.7"
+    ]
+}

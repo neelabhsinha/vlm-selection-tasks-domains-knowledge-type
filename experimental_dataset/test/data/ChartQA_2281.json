@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2281,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2281.png",
+    "question": "How many metric tons of tomatoes were produced worldwide in 2019?",
+    "label": [
+        "180.77"
+    ]
+}

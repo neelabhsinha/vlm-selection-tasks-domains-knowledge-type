@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3503,
+    "caption": "a dog standing next to a group of sheep",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "tree",
+        "fence",
+        "person",
+        "dog",
+        "field",
+        "standing",
+        "sheep"
+    ]
+}

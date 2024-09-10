@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 33524,
+    "image_path": "./experimental_dataset/test/images/VQAv2_33524.png",
+    "question": "What are these animals?",
+    "label": [
+        "donkeys",
+        "farm",
+        "horses",
+        "horses",
+        "donkeys",
+        "horses",
+        "donkeys",
+        "donkey",
+        "donkeys",
+        "horses"
+    ]
+}

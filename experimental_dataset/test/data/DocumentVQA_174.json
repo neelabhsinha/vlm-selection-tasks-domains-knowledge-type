@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 174,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_174.png",
+    "question": "Which company's name is in the letterhead?",
+    "label": [
+        "brown & williamson tobacco corporation"
+    ]
+}

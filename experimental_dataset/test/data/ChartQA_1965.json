@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1965,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1965.png",
+    "question": "What is Netflix's global share?",
+    "label": [
+        "23"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1881,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1881.png",
+    "question": "Which location allows this activity?",
+    "label": [
+        "colorado",
+        "colorado",
+        "colorado",
+        "colorado",
+        "mountain",
+        "mountain",
+        "ski slope",
+        "ski slope",
+        "ski slope",
+        "ski slope"
+    ]
+}

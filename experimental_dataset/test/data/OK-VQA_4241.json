@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4241,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4241.png",
+    "question": "Which sport is similar to this one but done alone?",
+    "label": [
+        "kayak",
+        "kayak",
+        "kayak",
+        "kayak",
+        "kayak",
+        "kayak",
+        "kayak",
+        "kayak",
+        "row",
+        "row"
+    ]
+}

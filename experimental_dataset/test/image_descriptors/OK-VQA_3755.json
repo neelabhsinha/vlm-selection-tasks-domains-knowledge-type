@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3755,
+    "caption": "a computer keyboard and mouse on a desk",
+    "object_tags": [
+        "indoor",
+        "input device",
+        "office equipment",
+        "computer",
+        "electronic device",
+        "desk",
+        "peripheral",
+        "table",
+        "computer keyboard",
+        "office supplies",
+        "computer component",
+        "computer hardware",
+        "computer mouse",
+        "space bar",
+        "personal computer hardware",
+        "electronics",
+        "mouse",
+        "gadget",
+        "sitting",
+        "keyboard",
+        "desktop",
+        "mac"
+    ]
+}

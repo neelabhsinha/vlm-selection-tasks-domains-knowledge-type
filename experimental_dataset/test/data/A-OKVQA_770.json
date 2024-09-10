@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 770,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_770.png",
+    "question": "What is blocking the view of the buildings?",
+    "label": "['trees', 'trees', 'trees', 'trees', 'trees', 'trees', 'trees', 'trees', 'trees', 'trees']",
+    "choices": [
+        "clouds",
+        "books",
+        "trees",
+        "boats"
+    ],
+    "correct_choice": "trees"
+}

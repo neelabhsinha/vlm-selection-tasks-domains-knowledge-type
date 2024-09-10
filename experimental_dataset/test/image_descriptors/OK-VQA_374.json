@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 374,
+    "caption": "a living room filled with furniture and a laptop",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "table",
+        "interior design",
+        "desk",
+        "bookcase",
+        "book",
+        "chair",
+        "computer",
+        "room",
+        "house",
+        "lampshade",
+        "den",
+        "lamp",
+        "ceiling",
+        "floor",
+        "bedroom",
+        "shelf",
+        "home"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4821,
+    "caption": "a cup of coffee sitting next to a computer keyboard",
+    "object_tags": [
+        "keyboard",
+        "computer keyboard",
+        "indoor",
+        "input device",
+        "computer",
+        "peripheral",
+        "office equipment",
+        "coffee",
+        "electronic device",
+        "office supplies",
+        "cup",
+        "desk",
+        "table",
+        "mac"
+    ]
+}

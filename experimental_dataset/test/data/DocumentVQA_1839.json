@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1839,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1839.png",
+    "question": "Where will the presentation be at ?",
+    "label": [
+        "49th Tobacco Chemists Research Conference"
+    ]
+}

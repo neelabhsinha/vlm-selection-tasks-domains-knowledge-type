@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 987,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_987.png",
+    "question": "What is the child eating?",
+    "label": "['fried rice', 'fried rice', 'cereal', 'rice', 'rice', 'rice', 'pasta', 'rice', 'egg rice', 'rice']",
+    "choices": [
+        "rice",
+        "steak",
+        "spaghetti",
+        "peanut butter"
+    ],
+    "correct_choice": "rice"
+}

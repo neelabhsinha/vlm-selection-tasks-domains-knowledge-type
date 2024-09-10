@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 789,
+    "caption": "a person standing in front of a fountain holding an umbrella",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "tree",
+        "furniture",
+        "table",
+        "footwear",
+        "umbrella",
+        "person",
+        "ground",
+        "people",
+        "accessory"
+    ]
+}

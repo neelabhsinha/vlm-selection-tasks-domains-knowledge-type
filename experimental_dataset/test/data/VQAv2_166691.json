@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 166691,
+    "image_path": "./experimental_dataset/test/images/VQAv2_166691.png",
+    "question": "Are those rain clouds?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

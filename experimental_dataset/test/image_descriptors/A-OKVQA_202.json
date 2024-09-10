@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 202,
+    "caption": "a living room filled with stuffed animals and a christmas tree",
+    "object_tags": [
+        "indoor",
+        "toy",
+        "christmas tree",
+        "christmas decoration",
+        "christmas eve",
+        "wall",
+        "interior design",
+        "floor",
+        "christmas"
+    ]
+}

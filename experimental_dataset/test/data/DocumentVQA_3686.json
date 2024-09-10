@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3686,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3686.png",
+    "question": "What is the last subheading in the Agenda?",
+    "label": [
+        "Aerosol"
+    ]
+}

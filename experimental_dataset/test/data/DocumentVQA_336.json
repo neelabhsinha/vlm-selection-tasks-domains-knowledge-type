@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 336,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_336.png",
+    "question": "Where will the 'Plenary session on Menopause' be held?",
+    "label": [
+        "Prague"
+    ]
+}

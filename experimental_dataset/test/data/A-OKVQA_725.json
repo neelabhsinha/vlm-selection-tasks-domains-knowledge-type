@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 725,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_725.png",
+    "question": "What are the two people doing?",
+    "label": "['pizza making', 'cutting pizza', 'cooking pizza', 'making pizza', 'making pizza', 'making pizza', 'selling pizzas', 'cooking pizza', 'cooking pizza', 'cooking']",
+    "choices": [
+        "selling pizzas",
+        "holding party",
+        "making dinner",
+        "fighting"
+    ],
+    "correct_choice": "selling pizzas"
+}

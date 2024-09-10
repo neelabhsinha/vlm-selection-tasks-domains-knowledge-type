@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 56778,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Government and Politics",
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge",
+        "Visual Knowledge"
+    ]
+}

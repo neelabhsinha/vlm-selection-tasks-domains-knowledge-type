@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 486,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_486.png",
+    "question": "What brand of lemon lime beverage is most likely sold here?",
+    "label": "['sprite', 'sprite', 'sevenup', 'sprite', 'sprite', '7 up', 'sprite', 'sprite', 'lemonade', 'sprite']",
+    "choices": [
+        "fanta",
+        "big red",
+        "rc",
+        "sprite"
+    ],
+    "correct_choice": "sprite"
+}

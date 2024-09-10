@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2367,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2367.png",
+    "question": "For which dates are the reservations made for?",
+    "label": [
+        "1/30 - 2/1/69"
+    ]
+}

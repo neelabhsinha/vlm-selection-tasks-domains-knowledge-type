@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 314,
+    "caption": "a double decker bus parked on the side of a road",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "road",
+        "bus",
+        "transport",
+        "wheel",
+        "mode of transport",
+        "street",
+        "parked",
+        "van",
+        "ground",
+        "city",
+        "tour",
+        "people"
+    ]
+}

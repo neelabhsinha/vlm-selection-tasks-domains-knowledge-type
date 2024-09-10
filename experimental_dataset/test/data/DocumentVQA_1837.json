@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1837,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1837.png",
+    "question": "What was the lodging rate for a night ?",
+    "label": [
+        "$28.00",
+        "$28.00/night"
+    ]
+}

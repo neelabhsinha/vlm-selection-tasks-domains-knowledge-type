@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2837,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2837.png",
+    "question": "Who is the bike rider's employer?",
+    "label": [
+        "police",
+        "police",
+        "police",
+        "police",
+        "police",
+        "police",
+        "city utility",
+        "city utility",
+        "government",
+        "government"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4874,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4874.png",
+    "question": "Which category of old age persons are getting a maximum of $125 a month?",
+    "label": [
+        "for the person who is a patient in a licensed practical nursing home",
+        "For the person who is a patient in a licensed practical nursing home",
+        "the person who is a patient in a licensed practical nursing home",
+        "patient in a licensed practical nursing home",
+        "person who is a patient in a licensed practical nursing home"
+    ]
+}

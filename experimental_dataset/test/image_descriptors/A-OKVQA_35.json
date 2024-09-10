@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 35,
+    "caption": "a woman standing in front of a tv playing a video game",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "person",
+        "clothing",
+        "furniture",
+        "house",
+        "game",
+        "playing",
+        "couch",
+        "controller",
+        "remote",
+        "television",
+        "floor",
+        "standing",
+        "shelf",
+        "room"
+    ]
+}

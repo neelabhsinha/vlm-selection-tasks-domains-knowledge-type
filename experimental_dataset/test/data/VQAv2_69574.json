@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 69574,
+    "image_path": "./experimental_dataset/test/images/VQAv2_69574.png",
+    "question": "What is the object in the foreground?",
+    "label": [
+        "fire hydrant",
+        "hydrant",
+        "police car",
+        "hydrant",
+        "police car",
+        "fire hydrant",
+        "car",
+        "cop car",
+        "fire hydrant",
+        "fire hydrant"
+    ]
+}

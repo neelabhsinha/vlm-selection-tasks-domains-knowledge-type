@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 750,
+    "caption": "three skiers posing for a picture in the snow",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "snow",
+        "clothing",
+        "footwear",
+        "winter",
+        "ski pole",
+        "people",
+        "trekking pole",
+        "ski",
+        "skiing",
+        "sport",
+        "snowshoe",
+        "winter sport",
+        "tree",
+        "freezing",
+        "ski resort",
+        "cross-country skier",
+        "piste",
+        "ski equipment",
+        "skier",
+        "hiking equipment",
+        "outdoor recreation",
+        "group",
+        "slope",
+        "standing"
+    ]
+}

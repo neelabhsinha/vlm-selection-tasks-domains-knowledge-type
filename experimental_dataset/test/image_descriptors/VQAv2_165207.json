@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 165207,
+    "caption": "a woman sitting at a table with a plate of food",
+    "object_tags": [
+        "person",
+        "wall",
+        "human face",
+        "juice",
+        "soft drink",
+        "woman",
+        "cocktail",
+        "tableware",
+        "clothing",
+        "indoor",
+        "table",
+        "drinkware",
+        "restaurant",
+        "sitting",
+        "bar",
+        "food",
+        "drink",
+        "orange",
+        "girl"
+    ]
+}

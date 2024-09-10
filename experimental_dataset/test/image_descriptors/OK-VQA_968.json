@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 968,
+    "caption": "a dining room table and chairs in a room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "floor",
+        "house",
+        "interior design",
+        "table",
+        "kitchen & dining room table",
+        "dining room",
+        "home",
+        "cabinetry",
+        "wood flooring",
+        "den",
+        "laminate flooring",
+        "kitchen table",
+        "drawer",
+        "flooring",
+        "hardwood",
+        "dining table",
+        "chair",
+        "room",
+        "dining",
+        "kitchen",
+        "wooden"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 210740,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Social Media",
+        "Justice"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Cultural Knowledge"
+    ]
+}

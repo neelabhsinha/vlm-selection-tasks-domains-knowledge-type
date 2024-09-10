@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 224,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_224.png",
+    "question": "What type of container is near the benches?",
+    "label": "['garbage can', 'trash can', 'trash', 'trashcan', 'garbage', 'trash bin', 'trashcan', 'trash', 'trash bin', 'trash container']",
+    "choices": [
+        "ticket",
+        "trash",
+        "food",
+        "water"
+    ],
+    "correct_choice": "trash"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2382,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2382.png",
+    "question": "What was the turnover of the Eiffel Tower ticket sales in 2012?",
+    "label": [
+        "53.03"
+    ]
+}

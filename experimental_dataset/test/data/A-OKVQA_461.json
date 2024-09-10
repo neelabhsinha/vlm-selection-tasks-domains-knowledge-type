@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 461,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_461.png",
+    "question": "What word can be spelled by rearranging the brand letters on the bottom of the laptop screen?",
+    "label": "['race', 'race', 'race', 'race', 'race', 'race', 'race', 'race', 'race', 'race']",
+    "choices": [
+        "paper",
+        "race",
+        "great",
+        "goal"
+    ],
+    "correct_choice": "race"
+}

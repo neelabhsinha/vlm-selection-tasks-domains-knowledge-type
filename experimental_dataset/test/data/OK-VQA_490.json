@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 490,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_490.png",
+    "question": "This activity helps to ensure that what remains fresh?",
+    "label": [
+        "brush teeth",
+        "brush teeth",
+        "brush teeth",
+        "brush teeth",
+        "breath",
+        "breath",
+        "breath",
+        "breath",
+        "brush",
+        "brush"
+    ]
+}

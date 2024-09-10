@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4249,
+    "caption": "a sheep standing next to a man",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "sheep",
+        "dog",
+        "jeans",
+        "grass",
+        "standing",
+        "people",
+        "ground"
+    ]
+}

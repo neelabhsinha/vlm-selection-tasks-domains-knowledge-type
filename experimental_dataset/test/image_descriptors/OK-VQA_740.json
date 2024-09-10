@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 740,
+    "caption": "bicycles are parked in front of a store",
+    "object_tags": [
+        "sky",
+        "cloud",
+        "outdoor",
+        "text",
+        "bicycle",
+        "sign",
+        "people",
+        "shop"
+    ]
+}

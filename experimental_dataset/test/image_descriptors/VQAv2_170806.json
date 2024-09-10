@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 170806,
+    "caption": "two women in a kitchen preparing food in a commercial kitchen",
+    "object_tags": [
+        "indoor",
+        "cabinet",
+        "clothing",
+        "kitchen appliance",
+        "cabinetry",
+        "person",
+        "home appliance",
+        "countertop",
+        "kitchen",
+        "drawer",
+        "wall",
+        "ceiling",
+        "standing",
+        "floor",
+        "food"
+    ]
+}

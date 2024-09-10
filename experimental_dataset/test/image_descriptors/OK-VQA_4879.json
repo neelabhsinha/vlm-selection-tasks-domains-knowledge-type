@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4879,
+    "caption": "a man standing in front of a projector screen",
+    "object_tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "wall",
+        "suit",
+        "human face",
+        "man",
+        "text",
+        "businessperson",
+        "presentation",
+        "management",
+        "houseplant",
+        "employment",
+        "business",
+        "white-collar worker",
+        "lecture",
+        "job",
+        "media",
+        "screen"
+    ]
+}

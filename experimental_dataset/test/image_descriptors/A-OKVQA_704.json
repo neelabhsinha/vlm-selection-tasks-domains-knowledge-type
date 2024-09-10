@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 704,
+    "caption": "a row of kites flying in the sky",
+    "object_tags": [
+        "kite",
+        "outdoor",
+        "sky",
+        "grass",
+        "cloud",
+        "field",
+        "parachute"
+    ]
+}

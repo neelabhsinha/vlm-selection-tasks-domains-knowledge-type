@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 86957,
+    "caption": "a man riding on the back of a motorcycle",
+    "object_tags": [
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "tire",
+        "outdoor",
+        "clothing",
+        "motorbike",
+        "black and white",
+        "auto part",
+        "road",
+        "person",
+        "car",
+        "footwear",
+        "man",
+        "motor vehicle",
+        "automotive exterior",
+        "fender",
+        "riding",
+        "motorcycle",
+        "street",
+        "black",
+        "monochrome"
+    ]
+}

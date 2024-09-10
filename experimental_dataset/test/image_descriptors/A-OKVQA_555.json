@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 555,
+    "caption": "a large jetliner sitting on top of an airport tarmac",
+    "object_tags": [
+        "outdoor",
+        "plane",
+        "sky",
+        "transport",
+        "vehicle",
+        "aircraft",
+        "aviation",
+        "air travel",
+        "runway",
+        "grass",
+        "mountain",
+        "airplane",
+        "ground",
+        "airshow"
+    ]
+}

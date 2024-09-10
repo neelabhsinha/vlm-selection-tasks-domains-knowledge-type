@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 323,
+    "caption": "a refrigerator filled with lots of fruit and vegetables",
+    "object_tags": [
+        "banana",
+        "food",
+        "plastic",
+        "indoor",
+        "store",
+        "shelf"
+    ]
+}

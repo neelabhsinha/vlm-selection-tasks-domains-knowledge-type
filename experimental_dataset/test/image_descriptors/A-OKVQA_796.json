@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 796,
+    "caption": "a small child is eating a piece of cake",
+    "object_tags": [
+        "person",
+        "fast food",
+        "clothing",
+        "food",
+        "toy",
+        "indoor",
+        "child"
+    ]
+}

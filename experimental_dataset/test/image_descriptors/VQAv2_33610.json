@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 33610,
+    "caption": "a plate of vegetables on a table",
+    "object_tags": [
+        "plate",
+        "tableware",
+        "table",
+        "platter",
+        "food",
+        "dishware",
+        "indoor",
+        "ingredient",
+        "serveware",
+        "guacamole",
+        "restaurant",
+        "bowl",
+        "vegetable"
+    ]
+}

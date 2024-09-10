@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1570,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1570.png",
+    "question": "Business burglaries have been increasing since what year?",
+    "label": [
+        "2015"
+    ]
+}

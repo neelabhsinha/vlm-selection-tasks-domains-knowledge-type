@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1091,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1091.png",
+    "question": "What is the difference between the maximum of people shot to death in the White race in a single year and the black race?",
+    "label": [
+        "216"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1544,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1544.png",
+    "question": "What was the wholesale value of tea in the United States in 2020?",
+    "label": [
+        "13.12"
+    ]
+}

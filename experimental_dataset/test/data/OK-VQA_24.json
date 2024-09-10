@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 24,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_24.png",
+    "question": "What is the person in the photo wearing?",
+    "label": [
+        "wetsuit",
+        "wetsuit",
+        "wetsuit",
+        "wetsuit",
+        "suit",
+        "suit",
+        "wet suit",
+        "wet suit",
+        "trunk",
+        "trunk"
+    ]
+}

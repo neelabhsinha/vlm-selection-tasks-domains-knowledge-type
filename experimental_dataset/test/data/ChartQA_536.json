@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 536,
+    "image_path": "./experimental_dataset/test/images/ChartQA_536.png",
+    "question": "Which place had more poverty rate?",
+    "label": [
+        "United Kingdom"
+    ]
+}

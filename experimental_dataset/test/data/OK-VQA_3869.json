@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3869,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3869.png",
+    "question": "What is the name of the snowboarding posture pictured here?",
+    "label": [
+        "kneel",
+        "kneel",
+        "kneel",
+        "kneel",
+        "kneel",
+        "kneel",
+        "squat",
+        "squat",
+        "sit",
+        "sit"
+    ]
+}

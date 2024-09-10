@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1530,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1530.png",
+    "question": "who is the vice chairman in aviation medicine?",
+    "label": [
+        "otis o. benson jr., m.d.",
+        "Otis O. Benson, Jr., M.D.",
+        "otis o. benson",
+        "otis o. benson jr."
+    ]
+}

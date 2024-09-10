@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 676,
+    "caption": "a man in a suit talking to a woman in a suit",
+    "object_tags": [
+        "clothing",
+        "man",
+        "person",
+        "human face",
+        "indoor",
+        "woman",
+        "ceiling",
+        "formal wear",
+        "businessperson",
+        "business",
+        "smile",
+        "conversation",
+        "employment",
+        "people",
+        "event",
+        "wall",
+        "table",
+        "suit",
+        "standing"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2417,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2417.png",
+    "question": "What is written in column I, row 21  of the Excel sheet?",
+    "label": [
+        "WTD AVE. 34",
+        "Wtd ave. 34"
+    ]
+}

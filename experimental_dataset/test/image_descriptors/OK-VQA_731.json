@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 731,
+    "caption": "a fighter jet sitting on top of an airport tarmac",
+    "object_tags": [
+        "plane",
+        "sky",
+        "outdoor",
+        "aviation",
+        "transport",
+        "vehicle",
+        "air travel",
+        "military aircraft",
+        "air force",
+        "jet aircraft",
+        "aircraft",
+        "fighter aircraft",
+        "aerospace manufacturer",
+        "general aviation",
+        "aerospace engineering",
+        "monoplane",
+        "supersonic aircraft",
+        "ground",
+        "air",
+        "airplane",
+        "airshow",
+        "fighter",
+        "jet",
+        "military",
+        "parked",
+        "military vehicle"
+    ]
+}

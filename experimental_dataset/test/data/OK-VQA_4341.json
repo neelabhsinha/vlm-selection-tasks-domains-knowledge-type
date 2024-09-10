@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4341,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4341.png",
+    "question": "Why is the man wearing a heavy crown jacket?",
+    "label": [
+        "cold",
+        "cold",
+        "cold",
+        "cold",
+        "cold",
+        "cold",
+        "snow",
+        "snow",
+        "it cold",
+        "it cold"
+    ]
+}

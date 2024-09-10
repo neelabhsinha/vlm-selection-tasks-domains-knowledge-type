@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3082,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3082.png",
+    "question": "Gargoyles can often be found on these structures?",
+    "label": [
+        "cathedral",
+        "cathedral",
+        "cathedral",
+        "cathedral",
+        "church",
+        "church",
+        "church",
+        "church",
+        "cathedral",
+        "cathedral"
+    ]
+}

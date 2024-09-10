@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 151,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_151.png",
+    "question": "What is the green box near the red stapler on the desk used to hold?",
+    "label": "['tissues', 'tissue', 'tissues', 'tissues', 'tissues', 'tissue', 'tissue', 'tissues', 'tissue', 'tissues']",
+    "choices": [
+        "tissues",
+        "pins",
+        "pens",
+        "pencils"
+    ],
+    "correct_choice": "tissues"
+}

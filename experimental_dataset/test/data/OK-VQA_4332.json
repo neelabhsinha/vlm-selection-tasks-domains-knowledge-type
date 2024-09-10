@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4332,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4332.png",
+    "question": "Name the place shown in this picture where the bear is standing?",
+    "label": [
+        "wood",
+        "wood",
+        "wood",
+        "wood",
+        "wood",
+        "wood",
+        "forest",
+        "forest",
+        "forrest",
+        "forrest"
+    ]
+}

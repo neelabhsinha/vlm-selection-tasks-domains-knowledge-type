@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 880,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_880.png",
+    "question": "What type of skateboard move is the man doing?",
+    "label": "['grinding', 'grind', 'grind', 'jump', 'slide', 'grind', 'grind', 'grind', 'rail', 'grind']",
+    "choices": [
+        "kickflip",
+        "superman",
+        "ollie",
+        "grind"
+    ],
+    "correct_choice": "grind"
+}

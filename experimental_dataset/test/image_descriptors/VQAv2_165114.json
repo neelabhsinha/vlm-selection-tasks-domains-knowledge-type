@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 165114,
+    "caption": "a cat standing on top of a stove top oven",
+    "object_tags": [
+        "indoor",
+        "kitchen appliance",
+        "cabinet",
+        "wall",
+        "appliance",
+        "home appliance",
+        "kitchen",
+        "animal",
+        "cat",
+        "major appliance",
+        "gas stove",
+        "kitchen stove",
+        "oven",
+        "stove",
+        "refrigerator"
+    ]
+}

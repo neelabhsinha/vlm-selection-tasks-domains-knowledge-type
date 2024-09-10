@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1009,
+    "caption": "a cat sitting on top of a tv",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "monitor",
+        "display device",
+        "bottle",
+        "output device",
+        "television",
+        "red"
+    ]
+}

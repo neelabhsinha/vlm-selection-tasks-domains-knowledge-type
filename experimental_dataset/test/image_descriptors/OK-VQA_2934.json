@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2934,
+    "caption": "a man holding a pizza in his hands",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "wall",
+        "man",
+        "fast food",
+        "smile",
+        "food",
+        "human face",
+        "cook",
+        "table",
+        "chef's uniform",
+        "chef",
+        "furniture",
+        "meal",
+        "pizza",
+        "restaurant"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1099,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1099.png",
+    "question": "What type of soup will be made with this?",
+    "label": [
+        "vegetable",
+        "vegetable",
+        "vegetable",
+        "vegetable",
+        "pork",
+        "pork",
+        "beef stew",
+        "beef stew",
+        "beef",
+        "beef"
+    ]
+}

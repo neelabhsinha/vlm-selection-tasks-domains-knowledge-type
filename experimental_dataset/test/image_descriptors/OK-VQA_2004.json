@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2004,
+    "caption": "two elephants standing next to each other in a zoo enclosure",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "elephants and mammoths",
+        "tree",
+        "asian elephant",
+        "indian elephant",
+        "plant",
+        "rock",
+        "african elephant",
+        "terrestrial animal",
+        "tusk",
+        "standing",
+        "enclosure",
+        "zoo",
+        "stone"
+    ]
+}

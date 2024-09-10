@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 512,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_512.png",
+    "question": "What is this place?",
+    "label": "['market', 'vegetable stand', 'market', 'market', 'market', 'market', 'roadside stand', 'farmers market', 'market', 'market']",
+    "choices": [
+        "deli",
+        "farm",
+        "roadside stand",
+        "grocery store"
+    ],
+    "correct_choice": "roadside stand"
+}

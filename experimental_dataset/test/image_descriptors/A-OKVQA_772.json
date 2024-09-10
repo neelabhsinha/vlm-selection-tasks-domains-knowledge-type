@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 772,
+    "caption": "a man riding a skateboard down the side of a ramp",
+    "object_tags": [
+        "sport",
+        "person",
+        "road",
+        "outdoor",
+        "skating",
+        "skateboard",
+        "sports equipment",
+        "man",
+        "riding",
+        "skateboarding equipment",
+        "roller sport",
+        "skateboarder",
+        "street sports",
+        "skateboarding",
+        "longboarding",
+        "sports",
+        "individual sports",
+        "boardsport",
+        "longboard",
+        "skatepark",
+        "skate",
+        "night",
+        "street"
+    ]
+}

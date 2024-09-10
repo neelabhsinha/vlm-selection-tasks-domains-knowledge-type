@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 547,
+    "caption": "a man standing in front of a laptop computer",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "clothing",
+        "person",
+        "furniture",
+        "personal computer",
+        "office building",
+        "computer monitor",
+        "output device",
+        "man",
+        "computer desk",
+        "desktop computer",
+        "computer",
+        "electronic device",
+        "desk",
+        "laptop",
+        "table",
+        "floor",
+        "office",
+        "standing"
+    ]
+}

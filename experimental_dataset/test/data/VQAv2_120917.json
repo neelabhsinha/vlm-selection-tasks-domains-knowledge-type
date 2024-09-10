@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 120917,
+    "image_path": "./experimental_dataset/test/images/VQAv2_120917.png",
+    "question": "What is the name of the boat?",
+    "label": [
+        "greenmount ii",
+        "greenmount ii",
+        "greenmount ii",
+        "greenmount ii",
+        "greenmountii",
+        "greenmount ii",
+        "greenmount",
+        "greenmount ii",
+        "greenmount ii",
+        "greenmount ii"
+    ]
+}

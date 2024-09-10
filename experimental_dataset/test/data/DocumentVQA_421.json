@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 421,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_421.png",
+    "question": "What is the name of the company mentioned in logo?",
+    "label": [
+        "golden tobacco limited",
+        "Golden Tobacco Limited"
+    ]
+}

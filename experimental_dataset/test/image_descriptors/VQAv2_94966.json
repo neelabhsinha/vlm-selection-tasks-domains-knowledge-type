@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 94966,
+    "caption": "a hand holding a bunch of broccoli in a bowl",
+    "object_tags": [
+        "vegetable",
+        "broccoli",
+        "cruciferous vegetables",
+        "broccoflower",
+        "produce",
+        "plant",
+        "indoor",
+        "person"
+    ]
+}

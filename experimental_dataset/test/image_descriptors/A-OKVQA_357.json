@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 357,
+    "caption": "a man and a woman holding wine glasses",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "smile",
+        "drink",
+        "wine glass",
+        "indoor",
+        "man",
+        "wine",
+        "wall",
+        "drinkware",
+        "tableware",
+        "barware",
+        "stemware",
+        "alcoholic beverage",
+        "glasses",
+        "glass",
+        "people",
+        "woman",
+        "alcohol",
+        "food"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 27,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_27.png",
+    "question": "The company producing the device in her hand is from what country?",
+    "label": "['japan', 'sumsung', 'japan', 'japan', 'japan', 'china', 'japan', 'china', 'japan', 'japan']",
+    "choices": [
+        "usa",
+        "china",
+        "japan",
+        "spain"
+    ],
+    "correct_choice": "japan"
+}

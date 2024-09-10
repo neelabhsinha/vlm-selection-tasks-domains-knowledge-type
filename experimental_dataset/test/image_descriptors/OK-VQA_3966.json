@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3966,
+    "caption": "young children playing a game of soccer",
+    "object_tags": [
+        "person",
+        "grass",
+        "athletic game",
+        "sport",
+        "outdoor",
+        "football",
+        "footwear",
+        "sports equipment",
+        "playing",
+        "field",
+        "soccer player",
+        "soccer ball",
+        "ball",
+        "football player",
+        "ball game",
+        "team sport",
+        "forward",
+        "kick",
+        "soccer",
+        "playground",
+        "boy",
+        "soccer kick",
+        "game",
+        "young",
+        "player",
+        "team"
+    ]
+}

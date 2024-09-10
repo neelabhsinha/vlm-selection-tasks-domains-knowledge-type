@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 661,
+    "caption": "a large group of people on a city street",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "road",
+        "wheel",
+        "traffic",
+        "bus",
+        "street",
+        "mode of transport",
+        "people",
+        "car",
+        "transport",
+        "group",
+        "crowd",
+        "city",
+        "ground"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 911,
+    "caption": "a herd of cattle grazing on a lush green hillside",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "plant",
+        "field",
+        "cattle",
+        "pasture",
+        "livestock",
+        "ranch",
+        "herd",
+        "mammal",
+        "grazing",
+        "herding",
+        "mountain",
+        "animal",
+        "standing",
+        "landscape",
+        "hill",
+        "hillside",
+        "cow",
+        "nature"
+    ]
+}

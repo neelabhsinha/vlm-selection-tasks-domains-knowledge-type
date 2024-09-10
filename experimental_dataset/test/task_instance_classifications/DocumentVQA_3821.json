@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3821,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Books",
+        "News",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge",
+        "Commonsense Knowledge",
+        "Visual Knowledge"
+    ]
+}

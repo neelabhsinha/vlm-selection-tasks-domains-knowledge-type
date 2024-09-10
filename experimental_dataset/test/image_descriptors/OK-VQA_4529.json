@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4529,
+    "caption": "a man laying on a bed with his head on a pillow",
+    "object_tags": [
+        "indoor",
+        "person",
+        "wall",
+        "bed",
+        "room",
+        "lamp",
+        "human face",
+        "blanket",
+        "bed sheet",
+        "comfort",
+        "bedroom",
+        "laying",
+        "light",
+        "woman",
+        "lying",
+        "head"
+    ]
+}

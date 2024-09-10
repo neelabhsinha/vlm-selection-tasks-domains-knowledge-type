@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5102,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5102.png",
+    "question": "Who is the author of hypervitaminosis D?",
+    "label": [
+        "C. Woodruff"
+    ]
+}

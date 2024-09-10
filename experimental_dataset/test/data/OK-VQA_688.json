@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 688,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_688.png",
+    "question": "Why aren't the animals eating meat?",
+    "label": [
+        "they eat grass",
+        "they eat grass",
+        "they eat grass",
+        "they eat grass",
+        "they are grass fed cattle",
+        "they are grass fed cattle",
+        "they are cow",
+        "they are cow",
+        "they are herbivore",
+        "they are herbivore"
+    ]
+}

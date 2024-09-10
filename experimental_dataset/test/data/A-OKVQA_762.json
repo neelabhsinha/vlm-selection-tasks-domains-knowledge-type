@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 762,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_762.png",
+    "question": "What type of food is being served?",
+    "label": "['banana', 'banana', 'banana', 'banana', 'fruit', 'banana', 'banana', 'banana', 'banana', 'banana']",
+    "choices": [
+        "fruit",
+        "meat",
+        "cheese",
+        "vegetable"
+    ],
+    "correct_choice": "fruit"
+}

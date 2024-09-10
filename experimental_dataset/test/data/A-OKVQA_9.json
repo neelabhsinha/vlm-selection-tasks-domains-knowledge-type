@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 9,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_9.png",
+    "question": "What type of pants is the man on the right wearing?",
+    "label": "['jeans', 'blue jeans', 'jeans', 'denim', 'jeans', 'jeans', 'jeans', 'jeans', 'jeans', 'blue jeans']",
+    "choices": [
+        "linen",
+        "corduroy",
+        "silk",
+        "denim"
+    ],
+    "correct_choice": "denim"
+}

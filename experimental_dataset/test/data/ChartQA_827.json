@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 827,
+    "image_path": "./experimental_dataset/test/images/ChartQA_827.png",
+    "question": "What is the sum, we get if we add United states and Australia?",
+    "label": [
+        "36.1"
+    ]
+}

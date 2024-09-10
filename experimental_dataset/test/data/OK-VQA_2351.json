@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2351,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2351.png",
+    "question": "What language is that sign?",
+    "label": [
+        "french",
+        "french",
+        "french",
+        "french",
+        "french",
+        "french",
+        "italian",
+        "italian",
+        "spanish",
+        "spanish"
+    ]
+}

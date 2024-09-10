@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2302,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2302.png",
+    "question": "What is the person leaning on the wall called?",
+    "label": [
+        "ball girl",
+        "ball girl",
+        "ball girl",
+        "ball girl",
+        "ball girl",
+        "ball girl",
+        "ball girl",
+        "ball girl",
+        "spectator",
+        "spectator"
+    ]
+}

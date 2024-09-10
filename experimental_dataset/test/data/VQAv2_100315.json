@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 100315,
+    "image_path": "./experimental_dataset/test/images/VQAv2_100315.png",
+    "question": "What color is the sign?",
+    "label": [
+        "red",
+        "red and white",
+        "red and white",
+        "red and white",
+        "red",
+        "red/white",
+        "red and white",
+        "red white",
+        "red",
+        "red and white"
+    ]
+}

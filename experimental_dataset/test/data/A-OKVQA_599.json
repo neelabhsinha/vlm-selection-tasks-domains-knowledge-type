@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 599,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_599.png",
+    "question": "What is being done with the bangles or necklaces?",
+    "label": "['selling', 'sold', 'sold', 'for sale', 'selling', 'shinning', 'being sold', 'sale', 'being sold', 'being sold']",
+    "choices": [
+        "display only",
+        "stolen",
+        "purchased",
+        "sold"
+    ],
+    "correct_choice": "sold"
+}

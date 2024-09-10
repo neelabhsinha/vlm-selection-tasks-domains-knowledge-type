@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 82,
+    "caption": "a woman standing next to a pigeon on a sidewalk",
+    "object_tags": [
+        "outdoor",
+        "street",
+        "sky",
+        "monochrome",
+        "clothing",
+        "ground",
+        "black and white",
+        "person",
+        "bird",
+        "pigeon"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2364,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2364.png",
+    "question": "What is the brand of bear?",
+    "label": [
+        "gund",
+        "gund",
+        "gund",
+        "gund",
+        "build bear",
+        "build bear",
+        "hasbro",
+        "hasbro",
+        "teddy",
+        "teddy"
+    ]
+}

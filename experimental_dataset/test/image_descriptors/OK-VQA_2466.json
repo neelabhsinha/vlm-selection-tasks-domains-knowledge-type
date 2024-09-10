@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2466,
+    "caption": "stuffed animals sitting on a wooden bench",
+    "object_tags": [
+        "teddy",
+        "bear",
+        "toy",
+        "teddy bear",
+        "stuffed",
+        "stuffed toy",
+        "plush",
+        "furniture",
+        "wooden",
+        "sitting",
+        "fur",
+        "indoor",
+        "animal",
+        "chair",
+        "brown",
+        "outdoor"
+    ]
+}

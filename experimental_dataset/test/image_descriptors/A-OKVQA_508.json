@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 508,
+    "caption": "a woman sitting on a bench next to a man",
+    "object_tags": [
+        "person",
+        "clothing",
+        "building",
+        "outdoor",
+        "sky",
+        "laptop",
+        "plant",
+        "tree",
+        "furniture",
+        "sitting",
+        "woman",
+        "computer",
+        "people",
+        "girl",
+        "using"
+    ]
+}

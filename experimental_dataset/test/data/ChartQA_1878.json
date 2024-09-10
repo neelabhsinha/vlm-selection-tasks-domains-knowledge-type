@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1878,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1878.png",
+    "question": "When was the cap on text messages imposed by the European Commission?",
+    "label": [
+        "July 2014"
+    ]
+}

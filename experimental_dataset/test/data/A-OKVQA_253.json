@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 253,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_253.png",
+    "question": "How many guests have checked into this room?",
+    "label": "['zero', 'zero', 'one', 'unknown', 'none', 'indeterminate', 'one', 'zero', 'one', 'one']",
+    "choices": [
+        "four",
+        "none",
+        "none",
+        "six"
+    ],
+    "correct_choice": "none"
+}

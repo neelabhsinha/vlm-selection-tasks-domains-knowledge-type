@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 134555,
+    "caption": "guys that are posing for a picture",
+    "object_tags": [
+        "wall",
+        "human face",
+        "person",
+        "clothing",
+        "indoor",
+        "man",
+        "smile",
+        "fashion accessory",
+        "bottle",
+        "glasses",
+        "human beard",
+        "people",
+        "party",
+        "group",
+        "woman"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2411,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2411.png",
+    "question": "What was the weighted index of social justice in Germany in 2011?",
+    "label": [
+        "6.89"
+    ]
+}

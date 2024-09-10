@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 353,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_353.png",
+    "question": "What is this type of photography called?",
+    "label": "['time lapse', 'stop motion', 'night', 'long exposure', 'time lapse', 'unknown', 'time lapse', 'long exposure', 'stop motion', 'motion']",
+    "choices": [
+        "visual style",
+        "light emission",
+        "time lapse",
+        "infrared"
+    ],
+    "correct_choice": "time lapse"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 379,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_379.png",
+    "question": "What number is closest to the number of people that are pushing the bus?",
+    "label": "['eight', 'eight', 'eight', 'ten', 'twelve', 'nine', 'twenty', 'ten', 'nine', '15']",
+    "choices": [
+        "six",
+        "five",
+        "nine",
+        "two"
+    ],
+    "correct_choice": "nine"
+}

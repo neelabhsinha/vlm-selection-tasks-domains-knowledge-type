@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 16798,
+    "caption": "a boy sitting on a couch holding a wii remote",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "human face",
+        "toddler",
+        "wall",
+        "comfort",
+        "couch",
+        "boy",
+        "controller",
+        "game",
+        "sofa",
+        "young",
+        "sitting",
+        "remote",
+        "chair"
+    ]
+}

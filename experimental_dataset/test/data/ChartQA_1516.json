@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1516,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1516.png",
+    "question": "How much revenue did Dow Chemical's Agricultural Sciences segment generate in 2014?",
+    "label": [
+        "7290"
+    ]
+}

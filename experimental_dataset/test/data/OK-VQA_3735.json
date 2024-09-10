@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3735,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3735.png",
+    "question": "What kind of bus is that?",
+    "label": [
+        "school",
+        "school",
+        "school",
+        "school",
+        "rv",
+        "rv",
+        "amphibus",
+        "amphibus",
+        "duck boat",
+        "duck boat"
+    ]
+}

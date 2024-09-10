@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 245,
+    "caption": "a red double decker bus driving down a street",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "road",
+        "tree",
+        "bus",
+        "text",
+        "street",
+        "man",
+        "decker",
+        "person",
+        "mode of transport",
+        "people",
+        "driving",
+        "city",
+        "red"
+    ]
+}

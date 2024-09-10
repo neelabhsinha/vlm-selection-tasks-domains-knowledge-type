@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1960,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1960.png",
+    "question": "What is he doing?",
+    "label": [
+        "butcher",
+        "butcher",
+        "butcher",
+        "butcher",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cut fish",
+        "cut fish"
+    ]
+}

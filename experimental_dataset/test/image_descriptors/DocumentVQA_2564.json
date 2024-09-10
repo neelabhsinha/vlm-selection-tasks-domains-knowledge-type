@@ -1,0 +1,18 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2564,
+    "caption": "a collage of photographs of a newspaper advertisement",
+    "object_tags": [
+        "text",
+        "drawing",
+        "schematic",
+        "plan",
+        "diagram",
+        "parallel",
+        "technical drawing",
+        "handwriting",
+        "sketch",
+        "black and white",
+        "rectangle"
+    ]
+}

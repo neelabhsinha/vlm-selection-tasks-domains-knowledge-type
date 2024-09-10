@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4362,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4362.png",
+    "question": "What is the total number of shares transferred on 02/04/2004?",
+    "label": [
+        "5137"
+    ]
+}

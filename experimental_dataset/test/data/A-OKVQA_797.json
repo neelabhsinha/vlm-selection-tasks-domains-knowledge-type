@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 797,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_797.png",
+    "question": "Where are the white animals walking?",
+    "label": "['street', 'in road', 'in street', 'street', 'street', 'street', 'street', 'street', 'migrating', 'destination']",
+    "choices": [
+        "mountain",
+        "trail",
+        "street",
+        "school"
+    ],
+    "correct_choice": "street"
+}

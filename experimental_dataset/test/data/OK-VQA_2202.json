@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2202,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2202.png",
+    "question": "Why shouldn't this man do this?",
+    "label": [
+        "unhealthy",
+        "unhealthy",
+        "unhealthy",
+        "unhealthy",
+        "violent",
+        "violent",
+        "die",
+        "die",
+        "danger",
+        "danger"
+    ]
+}

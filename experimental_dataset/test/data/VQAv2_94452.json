@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 94452,
+    "image_path": "./experimental_dataset/test/images/VQAv2_94452.png",
+    "question": "What does the green frosting represent?",
+    "label": [
+        "words",
+        "writing",
+        "congratulations",
+        "congrats",
+        "writing",
+        "greeting",
+        "congratulations",
+        "message",
+        "nothing",
+        "words"
+    ]
+}

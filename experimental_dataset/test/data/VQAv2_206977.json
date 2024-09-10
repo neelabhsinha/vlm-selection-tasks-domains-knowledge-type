@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 206977,
+    "image_path": "./experimental_dataset/test/images/VQAv2_206977.png",
+    "question": "Does the cake have frosting on it?",
+    "label": [
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

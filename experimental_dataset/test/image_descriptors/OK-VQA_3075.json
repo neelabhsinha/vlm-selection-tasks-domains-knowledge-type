@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3075,
+    "caption": "two vases that are sitting on a counter",
+    "object_tags": [
+        "vase",
+        "pottery",
+        "art",
+        "earthenware",
+        "ceramic",
+        "indoor",
+        "urn",
+        "jar",
+        "wall",
+        "museum",
+        "ceramic ware"
+    ]
+}

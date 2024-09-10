@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 413,
+    "image_path": "./experimental_dataset/test/images/ChartQA_413.png",
+    "question": "In general, what country had the higher value in the yearly cost of closing the global poverty among the years?",
+    "label": [
+        "Chile"
+    ]
+}

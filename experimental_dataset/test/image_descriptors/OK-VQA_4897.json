@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4897,
+    "caption": "a vase filled with flowers sitting on top of a grass covered field",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "tree",
+        "flowerpot",
+        "grass",
+        "landscaping",
+        "garden",
+        "vase",
+        "jar",
+        "park",
+        "pot",
+        "flower",
+        "plant",
+        "ground"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1070,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1070.png",
+    "question": "How do these people know each other?",
+    "label": "['twins', 'brothers', 'twins', 'siblings', 'sisters', 'siblings', 'siblings', 'siblings', 'siblings', 'siblings']",
+    "choices": [
+        "neighbors",
+        "siblings",
+        "coworkers",
+        "spouses"
+    ],
+    "correct_choice": "siblings"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1222,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1222.png",
+    "question": "Are the leaves of the plant that produce this yellow fruit long or short?",
+    "label": [
+        "long",
+        "long",
+        "long",
+        "long",
+        "long",
+        "long",
+        "long",
+        "long",
+        "long",
+        "long"
+    ]
+}

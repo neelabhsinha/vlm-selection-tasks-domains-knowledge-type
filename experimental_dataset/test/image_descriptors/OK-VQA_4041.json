@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4041,
+    "caption": "a bed in a hotel room with a white bedspread",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "bed",
+        "furniture",
+        "interior design",
+        "hotel",
+        "pillow",
+        "bed sheet",
+        "bedding",
+        "linens",
+        "mattress",
+        "bed frame",
+        "duvet cover",
+        "bedroom",
+        "curtain",
+        "cushion",
+        "room",
+        "floor",
+        "ceiling"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 114,
+    "caption": "a red truck parked in a grassy field",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "outdoor",
+        "car",
+        "grass",
+        "transport",
+        "tire",
+        "pickup",
+        "tree",
+        "classic car",
+        "hardtop",
+        "bumper",
+        "pickup truck",
+        "truck",
+        "motor vehicle",
+        "coupe utility",
+        "auto part",
+        "grille",
+        "chevrolet task force",
+        "parked",
+        "red",
+        "field"
+    ]
+}

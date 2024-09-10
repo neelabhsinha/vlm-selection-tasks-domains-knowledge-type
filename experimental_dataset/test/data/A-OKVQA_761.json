@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 761,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_761.png",
+    "question": "What is the white object the man in the black shirt is holding?",
+    "label": "['posing', 'plate', 'plate', 'plate', 'plate', 'tray', 'plate', 'plate', 'plate', 'tray']",
+    "choices": [
+        "frisbee",
+        "towel",
+        "laptop",
+        "plate"
+    ],
+    "correct_choice": "plate"
+}

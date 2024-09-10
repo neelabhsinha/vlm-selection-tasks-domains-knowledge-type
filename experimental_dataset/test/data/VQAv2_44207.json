@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 44207,
+    "image_path": "./experimental_dataset/test/images/VQAv2_44207.png",
+    "question": "How many piano keys?",
+    "label": [
+        "3",
+        "25",
+        "20",
+        "many",
+        "88",
+        "75",
+        "50",
+        "200",
+        "64",
+        "15"
+    ]
+}

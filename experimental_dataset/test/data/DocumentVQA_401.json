@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 401,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_401.png",
+    "question": "What is the Due date of draft to DesignWrite by the writer?",
+    "label": [
+        "Wednesday, November 8, 2000",
+        "Wednesday, November 8, 2000."
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 68447,
+    "caption": "vegetables are in a pan on the stove",
+    "object_tags": [
+        "vegetable",
+        "indoor",
+        "food",
+        "root vegetable",
+        "produce",
+        "ingredient",
+        "food group",
+        "natural foods",
+        "staple food",
+        "whole food",
+        "local food",
+        "vegetarian food",
+        "potato",
+        "vegan nutrition",
+        "kitchen",
+        "stove"
+    ]
+}

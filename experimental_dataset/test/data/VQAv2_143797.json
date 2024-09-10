@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 143797,
+    "image_path": "./experimental_dataset/test/images/VQAv2_143797.png",
+    "question": "Is this basket arranged for a wedding?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no"
+    ]
+}

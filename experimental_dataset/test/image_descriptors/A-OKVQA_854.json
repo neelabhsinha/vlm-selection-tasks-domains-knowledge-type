@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 854,
+    "caption": "people are walking through an airport terminal",
+    "object_tags": [
+        "shopping mall",
+        "building",
+        "ceiling",
+        "clothing",
+        "shopping",
+        "indoor",
+        "lobby",
+        "retail",
+        "customer",
+        "person",
+        "people",
+        "standing",
+        "mall",
+        "floor",
+        "airport"
+    ]
+}

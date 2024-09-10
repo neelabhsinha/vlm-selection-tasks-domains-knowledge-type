@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 438,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_438.png",
+    "question": "What are the zebra's stripes for?",
+    "label": "['camouflage', 'camouflage', 'camouflage', 'thermoregulation', 'absorb heat', 'camouflage', 'camouflage', 'thermoregulation', 'heat protection', 'camophlage']",
+    "choices": [
+        "sight",
+        "fashion",
+        "camouflage",
+        "thermoregulation"
+    ],
+    "correct_choice": "camouflage"
+}

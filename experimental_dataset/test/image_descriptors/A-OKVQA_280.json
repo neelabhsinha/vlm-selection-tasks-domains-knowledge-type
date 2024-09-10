@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 280,
+    "caption": "a pan filled with vegetables on top of a stove",
+    "object_tags": [
+        "indoor",
+        "wok",
+        "frying pan",
+        "cookware and bakeware",
+        "pan",
+        "stir frying",
+        "food",
+        "cruciferous vegetables",
+        "leaf vegetable",
+        "broccoli",
+        "kitchenware",
+        "stove",
+        "vegetable",
+        "cooking"
+    ]
+}

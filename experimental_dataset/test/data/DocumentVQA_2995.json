@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2995,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2995.png",
+    "question": "What is the Protocol No.?",
+    "label": [
+        "0915A2-301-EU"
+    ]
+}

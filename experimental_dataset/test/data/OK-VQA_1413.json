@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1413,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1413.png",
+    "question": "What is the name of the position of the man in black?",
+    "label": [
+        "catcher",
+        "catcher",
+        "catcher",
+        "catcher",
+        "umpire",
+        "umpire",
+        "umpire",
+        "umpire",
+        "home plate umpire",
+        "home plate umpire"
+    ]
+}

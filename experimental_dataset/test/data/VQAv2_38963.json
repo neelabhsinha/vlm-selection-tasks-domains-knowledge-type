@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 38963,
+    "image_path": "./experimental_dataset/test/images/VQAv2_38963.png",
+    "question": "What color is bird?",
+    "label": [
+        "yellow black",
+        "yellow",
+        "yellow",
+        "yellow, black",
+        "yellow",
+        "yellow and black",
+        "yellow",
+        "yellow and black",
+        "yellow",
+        "yellow and brown"
+    ]
+}

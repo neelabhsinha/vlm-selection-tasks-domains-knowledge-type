@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1455,
+    "caption": "people walking down a street holding umbrellas",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "footwear",
+        "umbrella",
+        "building",
+        "people",
+        "fashion accessory",
+        "accessory",
+        "rain",
+        "holding",
+        "street",
+        "walking",
+        "woman",
+        "group",
+        "ground",
+        "city",
+        "flower",
+        "rainy",
+        "sidewalk"
+    ]
+}

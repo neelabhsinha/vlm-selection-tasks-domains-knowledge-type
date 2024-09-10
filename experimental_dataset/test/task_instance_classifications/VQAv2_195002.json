@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 195002,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Temporal Knowledge",
+        "Geographical Knowledge",
+        "Scientific Knowledge",
+        "Mathematical Knowledge",
+        "Technical Knowledge",
+        "Literary Knowledge"
+    ]
+}

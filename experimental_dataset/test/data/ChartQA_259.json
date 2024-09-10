@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 259,
+    "image_path": "./experimental_dataset/test/images/ChartQA_259.png",
+    "question": "Is the sum of Chad and Mauritania is greater then the value of Mongolia?",
+    "label": [
+        "Yes"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 541,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_541.png",
+    "question": "What is the item with the burners and knobs?",
+    "label": [
+        "stove",
+        "stove",
+        "stove",
+        "stove",
+        "stove",
+        "stove",
+        "stove",
+        "stove",
+        "stove",
+        "stove"
+    ]
+}

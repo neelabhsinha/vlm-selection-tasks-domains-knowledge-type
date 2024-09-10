@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2758,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2758.png",
+    "question": "How many organisations are currently in the carton sales business as well as pack?",
+    "label": [
+        "27"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 283,
+    "caption": "two young men standing in front of a pizza box",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "fast food",
+        "food",
+        "wall",
+        "food processing",
+        "human face",
+        "cook",
+        "pizza",
+        "shop",
+        "kitchen",
+        "people",
+        "woman",
+        "restaurant",
+        "cooking"
+    ]
+}

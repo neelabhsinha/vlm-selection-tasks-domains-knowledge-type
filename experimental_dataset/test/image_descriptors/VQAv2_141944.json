@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 141944,
+    "caption": "a woman standing next to a row of parked motorcycles",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "clothing",
+        "tire",
+        "person",
+        "tree",
+        "auto part",
+        "parked",
+        "road",
+        "woman",
+        "scooter",
+        "motorcycle",
+        "bike",
+        "motorbike",
+        "ground",
+        "standing",
+        "street"
+    ]
+}

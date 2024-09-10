@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2318,
+    "caption": "a double decker bus parked in a parking lot",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "transport",
+        "sky",
+        "wheel",
+        "mode of transport",
+        "double-decker bus",
+        "public transport",
+        "road",
+        "grass",
+        "decker",
+        "red",
+        "text",
+        "parked",
+        "bus"
+    ]
+}

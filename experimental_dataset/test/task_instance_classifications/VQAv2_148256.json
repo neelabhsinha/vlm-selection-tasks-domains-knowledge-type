@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 148256,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Books",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Literary Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

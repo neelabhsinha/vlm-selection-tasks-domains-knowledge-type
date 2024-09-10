@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3058,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3058.png",
+    "question": "When is the first talk on the first day?",
+    "label": [
+        "8 - 9 am."
+    ]
+}

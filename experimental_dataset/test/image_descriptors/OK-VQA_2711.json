@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2711,
+    "caption": "a horse standing in a field next to a barn",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "horse",
+        "sky",
+        "painting",
+        "tree",
+        "animal",
+        "building",
+        "rural area",
+        "livestock",
+        "farm",
+        "field",
+        "barn",
+        "house",
+        "landscape",
+        "cow"
+    ]
+}

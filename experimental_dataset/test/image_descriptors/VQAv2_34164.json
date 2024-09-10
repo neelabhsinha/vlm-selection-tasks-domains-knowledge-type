@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 34164,
+    "caption": "a man holding a cell phone in his hand",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "human face",
+        "grass",
+        "sky",
+        "tree",
+        "glasses",
+        "lake",
+        "smile",
+        "man",
+        "ground",
+        "field"
+    ]
+}

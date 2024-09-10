@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4064,
+    "caption": "a little boy sitting on top of a boat",
+    "object_tags": [
+        "sheep",
+        "clothing",
+        "person",
+        "outdoor",
+        "ship",
+        "mountain"
+    ]
+}

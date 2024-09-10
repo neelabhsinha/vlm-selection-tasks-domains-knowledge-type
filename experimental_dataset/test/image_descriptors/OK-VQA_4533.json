@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4533,
+    "caption": "a plate of food on a table",
+    "object_tags": [
+        "plate",
+        "food",
+        "tableware",
+        "table",
+        "wine glass",
+        "dish",
+        "cuisine",
+        "vegetable",
+        "meal",
+        "indoor",
+        "fork",
+        "wine",
+        "rice",
+        "white",
+        "dinner",
+        "restaurant",
+        "meat",
+        "broccoli",
+        "served",
+        "drink"
+    ]
+}

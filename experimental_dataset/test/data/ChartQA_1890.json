@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1890,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1890.png",
+    "question": "What percentage of Jamaica's GDP was spent on government expenditure in 2020?",
+    "label": [
+        "32.92"
+    ]
+}

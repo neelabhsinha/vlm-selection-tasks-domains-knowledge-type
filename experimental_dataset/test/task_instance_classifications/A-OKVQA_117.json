@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 117,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Formal logic"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Technical Knowledge"
+    ]
+}

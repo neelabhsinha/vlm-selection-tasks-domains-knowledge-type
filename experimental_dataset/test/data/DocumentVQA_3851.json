@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3851,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3851.png",
+    "question": "How much is the managerial remuneration to Director, \u2018Mr. Kewal K. Hitkari\u2019 as on 31/3/04?",
+    "label": [
+        "3.60"
+    ]
+}

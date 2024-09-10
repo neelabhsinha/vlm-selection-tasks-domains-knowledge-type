@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 80,
+    "caption": "luggage sitting on the floor in a room",
+    "object_tags": [
+        "luggage and bags",
+        "indoor",
+        "floor",
+        "accessory",
+        "furniture",
+        "luggage",
+        "suitcase",
+        "backpack",
+        "flooring",
+        "table",
+        "chair",
+        "hand luggage",
+        "case",
+        "wall",
+        "bag"
+    ]
+}

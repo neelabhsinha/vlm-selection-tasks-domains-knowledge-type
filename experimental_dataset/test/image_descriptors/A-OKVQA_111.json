@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 111,
+    "caption": "a box filled with different types of donuts",
+    "object_tags": [
+        "food",
+        "doughnut",
+        "snack",
+        "baked goods",
+        "donut",
+        "ciambella",
+        "bagel",
+        "dessert",
+        "glaze",
+        "cider doughnut",
+        "pretzel",
+        "confectionery",
+        "bakery",
+        "box",
+        "paczki",
+        "indoor"
+    ]
+}

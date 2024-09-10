@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2868,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2868.png",
+    "question": "What is the table number?",
+    "label": [
+        "3",
+        "table 3"
+    ]
+}

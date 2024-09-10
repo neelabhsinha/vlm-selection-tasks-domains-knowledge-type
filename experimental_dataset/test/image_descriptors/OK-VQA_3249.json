@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3249,
+    "caption": "a man holding up a donut with sprinkles",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "snack",
+        "fast food",
+        "indoor",
+        "smile",
+        "food",
+        "man",
+        "doughnut",
+        "donut"
+    ]
+}

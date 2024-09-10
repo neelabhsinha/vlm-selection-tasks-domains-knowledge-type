@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 162,
+    "caption": "a boy on a skateboard with a man on a skateboard",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "sports equipment",
+        "skateboard",
+        "skateboarding",
+        "skating",
+        "recreation",
+        "boy",
+        "outdoor",
+        "young",
+        "ground",
+        "child",
+        "helmet"
+    ]
+}

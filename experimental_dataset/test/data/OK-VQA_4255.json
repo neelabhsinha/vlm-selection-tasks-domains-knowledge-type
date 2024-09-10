@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4255,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4255.png",
+    "question": "What type of wood is used for making the bench shown in the picture?",
+    "label": [
+        "teak",
+        "teak",
+        "teak",
+        "teak",
+        "pine",
+        "pine",
+        "granite",
+        "granite",
+        "redwood",
+        "redwood"
+    ]
+}

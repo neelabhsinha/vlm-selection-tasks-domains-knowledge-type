@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1630,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1630.png",
+    "question": "Which region had the highest number of cases of COVID-19?",
+    "label": [
+        "Catalonia"
+    ]
+}

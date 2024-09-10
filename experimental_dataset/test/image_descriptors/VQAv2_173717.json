@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 173717,
+    "caption": "a plane flying in the sky with a sunset behind it",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "flight",
+        "plane",
+        "lens flare",
+        "airplane",
+        "wing",
+        "light",
+        "sun"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4619,
+    "caption": "people sitting at a table with laptops",
+    "object_tags": [
+        "indoor",
+        "clothing",
+        "person",
+        "wall",
+        "floor",
+        "laptop",
+        "sitting",
+        "computer",
+        "human face",
+        "window",
+        "people",
+        "table",
+        "room",
+        "group",
+        "ceiling"
+    ]
+}

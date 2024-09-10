@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 68,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_68.png",
+    "question": "Why are the men wearing yellow vests?",
+    "label": "['safety', 'safety', 'visibility', 'our culture', 'safety', 'safety', 'visibility', 'workers', 'working', 'safety']",
+    "choices": [
+        "visibility",
+        "fashion",
+        "warmth",
+        "costume"
+    ],
+    "correct_choice": "visibility"
+}

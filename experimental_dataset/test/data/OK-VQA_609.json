@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 609,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_609.png",
+    "question": "How much water can the bottles on the table hold?",
+    "label": [
+        "1 liter",
+        "1 liter",
+        "1 liter",
+        "1 liter",
+        "2 gallons",
+        "2 gallons",
+        "25 ounces",
+        "25 ounces",
+        "gallon",
+        "gallon"
+    ]
+}

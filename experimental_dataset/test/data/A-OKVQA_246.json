@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 246,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_246.png",
+    "question": "What type of region is this likely?",
+    "label": "['city', 'italy', 'kitchen', 'dinning table', 'judaism', 'kitchen', 'kitchen', 'small kitchen', 'united states', 'kitchen']",
+    "choices": [
+        "farm",
+        "coastal",
+        "deserted",
+        "city"
+    ],
+    "correct_choice": "city"
+}

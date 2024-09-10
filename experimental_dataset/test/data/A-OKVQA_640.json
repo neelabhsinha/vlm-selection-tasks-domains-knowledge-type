@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 640,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_640.png",
+    "question": "What type of display is hanging on the pole?",
+    "label": "['flag', 'banner', 'advertisement', 'signs', 'flag', 'cloth flag', 'bus stop', 'advertisement', 'stop', 'flag']",
+    "choices": [
+        "flag",
+        "banner",
+        "sign",
+        "poster"
+    ],
+    "correct_choice": "flag"
+}

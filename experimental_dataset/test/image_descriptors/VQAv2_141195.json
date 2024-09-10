@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 141195,
+    "caption": "a man on a boat with a dog on the back of it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "clothing",
+        "water",
+        "lake",
+        "people",
+        "person",
+        "man",
+        "road",
+        "ground",
+        "standing",
+        "track",
+        "pier"
+    ]
+}

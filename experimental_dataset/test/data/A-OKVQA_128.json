@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 128,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_128.png",
+    "question": "The temperature outside is likely what range?",
+    "label": "['cold', 'cold', 'cold', 'cool range', 'temperate', 'cold', 'cold', 'chilly', 'hot', 'chilly']",
+    "choices": [
+        "below freezing",
+        "hot",
+        "cool",
+        "very humid"
+    ],
+    "correct_choice": "hot"
+}

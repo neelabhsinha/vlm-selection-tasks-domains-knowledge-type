@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1836,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1836.png",
+    "question": "What is the name of the division ?",
+    "label": [
+        "Product Evaluation"
+    ]
+}

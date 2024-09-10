@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3073,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3073.png",
+    "question": "How is the fish in this dish prepared?",
+    "label": [
+        "smoked",
+        "smoked",
+        "smoked",
+        "smoked",
+        "cut up and cooked",
+        "cut up and cooked",
+        "raw",
+        "raw",
+        "baked",
+        "baked"
+    ]
+}

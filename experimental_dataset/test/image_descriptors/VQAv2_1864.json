@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 1864,
+    "caption": "a green and white street sign on a pole",
+    "object_tags": [
+        "outdoor",
+        "traffic sign",
+        "tree",
+        "sign",
+        "building",
+        "signage",
+        "street furniture",
+        "grass",
+        "street"
+    ]
+}

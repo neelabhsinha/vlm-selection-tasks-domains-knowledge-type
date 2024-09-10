@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 452,
+    "caption": "a white truck parked in front of a wooden bench",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "ground",
+        "tire",
+        "transport",
+        "auto part",
+        "text",
+        "tree",
+        "pickup truck",
+        "motor vehicle",
+        "light commercial vehicle",
+        "car",
+        "parked",
+        "trailer",
+        "truck",
+        "pickup"
+    ]
+}

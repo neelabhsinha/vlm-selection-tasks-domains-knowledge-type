@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 48200,
+    "caption": "a bathroom with two urinals and a sink",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "bathroom",
+        "plumbing fixture",
+        "bathroom accessory",
+        "plumbing",
+        "tile",
+        "restroom",
+        "tap",
+        "sink",
+        "shower",
+        "household supply",
+        "plumbing fitting",
+        "tiled",
+        "floor",
+        "toilet"
+    ]
+}

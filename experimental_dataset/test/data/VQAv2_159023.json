@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 159023,
+    "image_path": "./experimental_dataset/test/images/VQAv2_159023.png",
+    "question": "Where is the dog?",
+    "label": [
+        "backyard",
+        "on sidewalk",
+        "on ground",
+        "outside",
+        "ground",
+        "street",
+        "outside",
+        "outside",
+        "on concrete",
+        "ground"
+    ]
+}

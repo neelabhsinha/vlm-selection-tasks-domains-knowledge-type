@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 165,
+    "caption": "a little girl sitting in front of a bowl of cereal",
+    "object_tags": [
+        "toddler",
+        "person",
+        "human face",
+        "indoor",
+        "baby",
+        "mixing bowl",
+        "bowl",
+        "tableware",
+        "boy",
+        "dishware",
+        "child",
+        "table",
+        "food",
+        "eating",
+        "young",
+        "chair",
+        "spoon"
+    ]
+}

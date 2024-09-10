@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 190,
+    "caption": "a white bird standing on top of a car",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "car",
+        "land vehicle",
+        "animal",
+        "vehicle",
+        "bird",
+        "standing",
+        "roof",
+        "perched"
+    ]
+}

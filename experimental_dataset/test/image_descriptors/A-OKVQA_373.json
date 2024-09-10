@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 373,
+    "caption": "a man walking down the street with a suitcase",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "footwear",
+        "clothing",
+        "monochrome",
+        "snapshot",
+        "black and white",
+        "person",
+        "ground",
+        "street",
+        "sign"
+    ]
+}

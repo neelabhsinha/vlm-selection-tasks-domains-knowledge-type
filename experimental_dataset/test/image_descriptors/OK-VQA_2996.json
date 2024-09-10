@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2996,
+    "caption": "a woman sitting in a car looking at her cell phone",
+    "object_tags": [
+        "person",
+        "clothing",
+        "sky",
+        "car",
+        "human face",
+        "window",
+        "outdoor",
+        "mirror",
+        "land vehicle",
+        "holding",
+        "vehicle",
+        "vacation"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2120,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2120.png",
+    "question": "What dry food is usually put in soup?",
+    "label": [
+        "pea",
+        "pea",
+        "cracker",
+        "cracker",
+        "chicken",
+        "chicken",
+        "cracker",
+        "cracker",
+        "vegetable",
+        "vegetable"
+    ]
+}

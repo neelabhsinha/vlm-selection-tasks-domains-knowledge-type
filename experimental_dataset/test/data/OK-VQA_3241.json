@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3241,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3241.png",
+    "question": "What animal eats the orange vegetables?",
+    "label": [
+        "rabbit",
+        "rabbit",
+        "rabbit",
+        "rabbit",
+        "rabbit",
+        "rabbit",
+        "goat",
+        "goat",
+        "bunny",
+        "bunny"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 124746,
+    "image_path": "./experimental_dataset/test/images/VQAv2_124746.png",
+    "question": "Does this room have wallpaper?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

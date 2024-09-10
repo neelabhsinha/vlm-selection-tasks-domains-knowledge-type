@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 556,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_556.png",
+    "question": "What is the profession of the man standing near the net?",
+    "label": "['athlete', 'athlete', 'tennis player', 'tennis player', 'men tennis', 'tennis player', 'tennis player', 'tennis player', 'tennis player', 'tennis']",
+    "choices": [
+        "judge",
+        "athlete",
+        "doctor",
+        "coach"
+    ],
+    "correct_choice": "athlete"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 151218,
+    "image_path": "./experimental_dataset/test/images/VQAv2_151218.png",
+    "question": "How many birds are there?",
+    "label": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

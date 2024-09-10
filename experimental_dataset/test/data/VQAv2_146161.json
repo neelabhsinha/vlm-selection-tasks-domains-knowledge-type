@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 146161,
+    "image_path": "./experimental_dataset/test/images/VQAv2_146161.png",
+    "question": "Where is there a bridge?",
+    "label": [
+        "in park",
+        "over water",
+        "across river",
+        "across water",
+        "background",
+        "background",
+        "center right of photo",
+        "across pond",
+        "over pond",
+        "over water"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 43928,
+    "image_path": "./experimental_dataset/test/images/VQAv2_43928.png",
+    "question": "Is it nighttime?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

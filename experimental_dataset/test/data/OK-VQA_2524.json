@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2524,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2524.png",
+    "question": "In what country can you see this?",
+    "label": [
+        "vietnam",
+        "vietnam",
+        "vietnam",
+        "vietnam",
+        "thailand",
+        "thailand",
+        "egypt",
+        "egypt",
+        "spain",
+        "spain"
+    ]
+}

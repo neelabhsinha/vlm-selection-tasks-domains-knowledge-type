@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1997,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1997.png",
+    "question": "How many people were waiting for an intestine donation in the United States as of September 6, 2020?",
+    "label": [
+        "235"
+    ]
+}

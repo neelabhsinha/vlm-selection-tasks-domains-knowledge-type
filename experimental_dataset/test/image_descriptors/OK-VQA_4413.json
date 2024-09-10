@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4413,
+    "caption": "a small bird sitting on top of a coffee cup",
+    "object_tags": [
+        "bird",
+        "tableware",
+        "table",
+        "animal",
+        "sitting",
+        "indoor",
+        "perched",
+        "coffee"
+    ]
+}

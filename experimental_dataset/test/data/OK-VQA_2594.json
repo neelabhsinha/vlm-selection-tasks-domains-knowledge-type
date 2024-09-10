@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2594,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2594.png",
+    "question": "What kind of climate do you typically find these?",
+    "label": [
+        "desert",
+        "desert",
+        "desert",
+        "desert",
+        "hot",
+        "hot",
+        "arrid",
+        "arrid",
+        "hot arrid",
+        "hot arrid"
+    ]
+}

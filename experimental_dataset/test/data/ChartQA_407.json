@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 407,
+    "image_path": "./experimental_dataset/test/images/ChartQA_407.png",
+    "question": "Is the median of China in the graph greater than the median of the Angola graph?",
+    "label": [
+        "Yes"
+    ]
+}

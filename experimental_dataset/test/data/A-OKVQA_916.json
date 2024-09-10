@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 916,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_916.png",
+    "question": "The kite is flying in what direction?",
+    "label": "['left', 'north west', 'left', 'left', 'left', 'skyward', 'diagonal', 'right up', 'upwards', 'left']",
+    "choices": [
+        "circle",
+        "down",
+        "bend",
+        "diagonal"
+    ],
+    "correct_choice": "diagonal"
+}

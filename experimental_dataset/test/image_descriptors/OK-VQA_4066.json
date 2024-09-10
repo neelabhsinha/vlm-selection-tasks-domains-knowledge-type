@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4066,
+    "caption": "a large group of people walking down a street",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "road",
+        "street",
+        "tree",
+        "people",
+        "person",
+        "pedestrian",
+        "vehicle",
+        "car",
+        "traffic",
+        "land vehicle",
+        "parade",
+        "thoroughfare",
+        "city",
+        "group",
+        "crowd",
+        "way",
+        "police",
+        "officer"
+    ]
+}

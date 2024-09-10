@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 55255,
+    "caption": "a motorcycle is parked on the side of a hill",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "tire",
+        "motorcycle",
+        "fog",
+        "motorbike",
+        "black and white",
+        "bike",
+        "monochrome",
+        "silhouette"
+    ]
+}

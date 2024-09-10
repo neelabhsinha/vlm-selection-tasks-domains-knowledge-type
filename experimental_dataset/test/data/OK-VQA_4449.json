@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4449,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4449.png",
+    "question": "What are they riding on?",
+    "label": [
+        "ski lift",
+        "ski lift",
+        "ski lift",
+        "ski lift",
+        "liftq",
+        "liftq",
+        "lift",
+        "lift",
+        "funicular",
+        "funicular"
+    ]
+}

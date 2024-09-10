@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1058,
+    "caption": "a woman sitting at a table with a group of children",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "outdoor",
+        "human face",
+        "jeans",
+        "people",
+        "trousers",
+        "plant",
+        "ground",
+        "group",
+        "woman",
+        "sitting"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 722,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_722.png",
+    "question": "The room with the refrigerator in it appears to be a room of what type?",
+    "label": "['closet', 'hall', 'large closet', 'kitchen', 'closet', 'kitchen', 'kitchen', 'closet', 'storage', 'kitchen']",
+    "choices": [
+        "living room",
+        "large closet",
+        "kitchen",
+        "bedroom"
+    ],
+    "correct_choice": "large closet"
+}

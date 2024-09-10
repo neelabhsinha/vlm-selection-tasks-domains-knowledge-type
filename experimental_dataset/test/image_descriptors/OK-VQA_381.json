@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 381,
+    "caption": "a suitcase that is sitting on the ground",
+    "object_tags": [
+        "ground",
+        "accessory",
+        "luggage and bags",
+        "black and white",
+        "outdoor",
+        "luggage",
+        "bag",
+        "suitcase",
+        "hand luggage",
+        "monochrome",
+        "street",
+        "floor"
+    ]
+}

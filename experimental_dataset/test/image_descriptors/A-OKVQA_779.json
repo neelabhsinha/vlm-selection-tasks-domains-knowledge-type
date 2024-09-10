@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 779,
+    "caption": "a large vase sitting on top of a table",
+    "object_tags": [
+        "indoor",
+        "art",
+        "vase",
+        "museum",
+        "ceiling",
+        "glass",
+        "display"
+    ]
+}

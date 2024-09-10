@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5324,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5324.png",
+    "question": "Which company's letterhead is this?",
+    "label": [
+        "W.R.KEATING & COMPANY",
+        "w. r. keating & company"
+    ]
+}

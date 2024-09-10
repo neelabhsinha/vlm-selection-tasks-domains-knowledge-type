@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 544,
+    "caption": "a series of photographs showing a series of blue and white objects",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "rectangle",
+        "colorfulness",
+        "plot",
+        "design"
+    ]
+}

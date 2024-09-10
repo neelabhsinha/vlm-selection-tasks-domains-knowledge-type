@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 943,
+    "caption": "a collage of photographs showing a white and blue sky",
+    "object_tags": [
+        "text",
+        "font",
+        "black and white",
+        "handwriting",
+        "screenshot",
+        "document"
+    ]
+}

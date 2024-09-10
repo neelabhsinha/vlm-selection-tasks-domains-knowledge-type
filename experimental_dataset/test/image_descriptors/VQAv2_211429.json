@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 211429,
+    "caption": "a cat sitting on top of a blue suitcase",
+    "object_tags": [
+        "cat",
+        "luggage",
+        "luggage and bags",
+        "accessory",
+        "floor",
+        "animal",
+        "indoor",
+        "suitcase",
+        "hand luggage",
+        "small to medium-sized cats",
+        "felidae",
+        "bag",
+        "sitting"
+    ]
+}

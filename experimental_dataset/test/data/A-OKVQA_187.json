@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 187,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_187.png",
+    "question": "What appliance is shown?",
+    "label": "['toaster', 'toaster', 'toaster', 'toaster', 'toaster', 'putting utensil', 'toaster', 'toaster', 'toaster', 'toaster']",
+    "choices": [
+        "dryer",
+        "microwave",
+        "washer",
+        "toaster"
+    ],
+    "correct_choice": "toaster"
+}

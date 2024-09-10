@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1136,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1136.png",
+    "question": "Who is the vice president of the Chamber's environment, technology & regulatory affairs division?",
+    "label": [
+        "William Kovacs"
+    ]
+}

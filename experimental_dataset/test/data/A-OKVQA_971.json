@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 971,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_971.png",
+    "question": "What time of year was the picture likely taken?",
+    "label": "['fall', 'fall', 'autumn', 'fall', 'fall', 'fall', 'summer time', 'fall', 'fall', 'fall']",
+    "choices": [
+        "fall",
+        "summer",
+        "winter",
+        "spring"
+    ],
+    "correct_choice": "fall"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 50724,
+    "image_path": "./experimental_dataset/test/images/VQAv2_50724.png",
+    "question": "Is the giraffe in its natural habitat?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes"
+    ]
+}

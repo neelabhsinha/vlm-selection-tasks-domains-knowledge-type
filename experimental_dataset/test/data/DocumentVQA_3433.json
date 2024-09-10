@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3433,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3433.png",
+    "question": "Which company\u2019s annual report is shown?",
+    "label": [
+        "JOHNSON & JOHNSON",
+        "Johnson & Johnson",
+        "Johnson & Johnson 2012 annual report"
+    ]
+}

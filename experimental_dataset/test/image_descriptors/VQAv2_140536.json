@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 140536,
+    "caption": "a young girl blowing out candles on a birthday cake",
+    "object_tags": [
+        "person",
+        "clothing",
+        "birthday cake",
+        "cake",
+        "indoor",
+        "human face",
+        "dessert",
+        "cake decorating",
+        "food",
+        "baked goods",
+        "table",
+        "icing",
+        "wall",
+        "sugar cake",
+        "birthday",
+        "cake decorating supply",
+        "buttercream",
+        "candle",
+        "woman",
+        "torte",
+        "sweetness",
+        "sitting",
+        "girl",
+        "family"
+    ]
+}

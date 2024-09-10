@@ -1,0 +1,18 @@
+{
+    "dataset": "ChartQA",
+    "key": 905,
+    "caption": "a screen shot of a remote control on a table",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "display",
+        "software",
+        "number",
+        "computer icon",
+        "font",
+        "parallel",
+        "operating system",
+        "web page",
+        "office application software"
+    ]
+}

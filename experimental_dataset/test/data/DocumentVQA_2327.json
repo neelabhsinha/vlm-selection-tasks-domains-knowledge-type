@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2327,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2327.png",
+    "question": "Which group's report is it?",
+    "label": [
+        "Group No. One",
+        "Group no. One"
+    ]
+}

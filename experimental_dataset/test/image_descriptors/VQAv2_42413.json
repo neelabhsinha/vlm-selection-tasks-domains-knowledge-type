@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 42413,
+    "caption": "a black bear walking across a dirt road",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "bear",
+        "ground",
+        "hiking",
+        "brown bear",
+        "people",
+        "person",
+        "walking",
+        "forest",
+        "path",
+        "wood",
+        "mountain",
+        "trail"
+    ]
+}

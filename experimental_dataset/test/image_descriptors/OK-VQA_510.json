@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 510,
+    "caption": "a bedroom with a clock on the wall",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "bed",
+        "clock",
+        "pillow",
+        "bedding",
+        "bed sheet",
+        "linens",
+        "interior design",
+        "mattress",
+        "duvet cover",
+        "furniture",
+        "bed frame",
+        "cushion",
+        "room",
+        "hotel",
+        "bedroom"
+    ]
+}

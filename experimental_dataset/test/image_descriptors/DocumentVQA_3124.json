@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3124,
+    "caption": "a drawing of a wooden table with a picture of a woman on it",
+    "object_tags": [
+        "text",
+        "sketch",
+        "drawing",
+        "rectangle"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 449,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_449.png",
+    "question": "What are these people ready to do?",
+    "label": "['drink toast', 'drink', 'drink wine', 'drink wine', 'celebrate', 'drink', 'drink wine', 'drink', 'taste wine', 'drink wine']",
+    "choices": [
+        "swim",
+        "run",
+        "eat",
+        "drink"
+    ],
+    "correct_choice": "drink"
+}

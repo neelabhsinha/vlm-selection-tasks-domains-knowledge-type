@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5137,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5137.png",
+    "question": "Who is the Chairman?",
+    "label": [
+        "Frances Williamson",
+        "Frances Williamson, M.P.H."
+    ]
+}

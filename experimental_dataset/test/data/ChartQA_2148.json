@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2148,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2148.png",
+    "question": "When did the national debt of Fiji end?",
+    "label": [
+        "2020"
+    ]
+}

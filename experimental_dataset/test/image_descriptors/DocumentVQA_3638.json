@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3638,
+    "caption": "an aerial view of a snow covered landscape",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "diagram",
+        "parallel",
+        "crossword puzzle"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2455,
+    "caption": "a row of cell phones sitting on top of each other",
+    "object_tags": [
+        "electronics",
+        "mobile phone",
+        "telephone",
+        "phone",
+        "gadget",
+        "telephony",
+        "electronic device",
+        "communication device",
+        "portable communications device",
+        "mobile device",
+        "feature phone",
+        "everyday carry",
+        "indoor",
+        "cellphone"
+    ]
+}

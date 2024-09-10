@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 200,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_200.png",
+    "question": "What is the woman using the umbrella to protect herself from?",
+    "label": "['sun', 'sun', 'sun', 'sun', 'sun', 'sun', 'summer', 'sunshine', 'hot sun', 'sun']",
+    "choices": [
+        "rain",
+        "wind",
+        "sun",
+        "snow"
+    ],
+    "correct_choice": "sun"
+}

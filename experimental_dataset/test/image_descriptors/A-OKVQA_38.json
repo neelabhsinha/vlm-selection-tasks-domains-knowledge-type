@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 38,
+    "caption": "elephants are standing in the water",
+    "object_tags": [
+        "animal",
+        "outdoor",
+        "mammal",
+        "terrestrial animal",
+        "safari",
+        "wildlife",
+        "sky",
+        "ground",
+        "water",
+        "elephant",
+        "tree",
+        "herd",
+        "savanna",
+        "hole",
+        "grass",
+        "walking",
+        "standing",
+        "drinking",
+        "drink",
+        "river"
+    ]
+}

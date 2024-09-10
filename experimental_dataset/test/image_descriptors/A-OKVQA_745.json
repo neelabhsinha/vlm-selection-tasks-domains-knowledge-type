@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 745,
+    "caption": "a man playing tennis on a tennis court",
+    "object_tags": [
+        "outdoor",
+        "sport",
+        "athletic game",
+        "person",
+        "tree",
+        "car",
+        "footwear",
+        "racket",
+        "playing",
+        "court",
+        "grass",
+        "tennis",
+        "ground"
+    ]
+}

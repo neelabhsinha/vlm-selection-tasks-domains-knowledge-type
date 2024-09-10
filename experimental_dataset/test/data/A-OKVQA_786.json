@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 786,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_786.png",
+    "question": "What will someone stay away from consuming if they will be driving later?",
+    "label": "['alcohol', 'beer', 'beer', 'alcohol', 'beer', 'beer', 'alcohol', 'beer', 'beer', 'beer']",
+    "choices": [
+        "sandwich",
+        "fish",
+        "beer",
+        "sausage"
+    ],
+    "correct_choice": "beer"
+}

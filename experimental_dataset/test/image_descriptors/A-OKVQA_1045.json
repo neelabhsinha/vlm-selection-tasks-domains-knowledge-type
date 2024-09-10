@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1045,
+    "caption": "a city street with people walking down it",
+    "object_tags": [
+        "way",
+        "road",
+        "outdoor",
+        "vehicle",
+        "tram",
+        "land vehicle",
+        "cable car",
+        "train",
+        "sky",
+        "transport",
+        "mode of transport",
+        "public transport",
+        "street",
+        "black and white",
+        "tramway",
+        "city",
+        "streetcar"
+    ]
+}

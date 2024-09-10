@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1485,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1485.png",
+    "question": "As of 2020, how many enterprises had a turnover of more than five million British pounds?",
+    "label": [
+        "5"
+    ]
+}

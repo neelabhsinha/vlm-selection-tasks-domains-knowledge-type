@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2638,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2638.png",
+    "question": "What is the RDA of Vitamin A for a physically active man(IU)?",
+    "label": [
+        "5000"
+    ]
+}

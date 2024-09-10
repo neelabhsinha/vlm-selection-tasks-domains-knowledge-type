@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2406,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2406.png",
+    "question": "Who is the National foundation state representative of Connecticut?",
+    "label": [
+        "Mrs. Ruth Shiffrin"
+    ]
+}

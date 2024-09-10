@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 899,
+    "image_path": "./experimental_dataset/test/images/ChartQA_899.png",
+    "question": "What is the difference between maximum gross profit margin of ASOS and minimum gross profit margin of Zalando?",
+    "label": [
+        "5"
+    ]
+}

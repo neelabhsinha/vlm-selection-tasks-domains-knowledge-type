@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1254,
+    "caption": "a man and woman preparing food in a kitchen",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "bottle",
+        "wall",
+        "man",
+        "food",
+        "woman",
+        "shop",
+        "kitchen",
+        "people",
+        "standing",
+        "family",
+        "cooking",
+        "preparing"
+    ]
+}

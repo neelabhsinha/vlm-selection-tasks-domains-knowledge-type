@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1344,
+    "caption": "two zebras grazing in a fenced in area",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "zebra",
+        "outdoor",
+        "tree",
+        "fence",
+        "terrestrial animal",
+        "wildlife",
+        "plant",
+        "standing",
+        "grass",
+        "ground",
+        "zoo",
+        "park",
+        "enclosure"
+    ]
+}

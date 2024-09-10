@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 952,
+    "caption": "boats are docked in the water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "ship",
+        "boat",
+        "watercraft",
+        "marina",
+        "mast",
+        "water",
+        "vehicle",
+        "port",
+        "sailboat",
+        "boating",
+        "dock",
+        "lake",
+        "building",
+        "docked",
+        "harbor",
+        "cloudy",
+        "parked",
+        "landscape",
+        "sailing"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 20554,
+    "image_path": "./experimental_dataset/test/images/VQAv2_20554.png",
+    "question": "Is the man balancing?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

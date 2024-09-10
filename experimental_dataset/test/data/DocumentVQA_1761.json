@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1761,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1761.png",
+    "question": "What is \u2018post office box\u2019 number?",
+    "label": [
+        "5308"
+    ]
+}

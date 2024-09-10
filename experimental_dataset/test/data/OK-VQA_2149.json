@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2149,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2149.png",
+    "question": "Is the bed made or not made?",
+    "label": [
+        "not made",
+        "not made",
+        "not made",
+        "not made",
+        "not made",
+        "not made",
+        "not made",
+        "not made",
+        "not made",
+        "not made"
+    ]
+}

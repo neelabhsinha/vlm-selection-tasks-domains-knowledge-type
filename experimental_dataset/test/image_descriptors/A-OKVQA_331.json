@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 331,
+    "caption": "a city street filled with lots of tall buildings",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "tree",
+        "road",
+        "thoroughfare",
+        "street light",
+        "building",
+        "street",
+        "infrastructure",
+        "road surface",
+        "car",
+        "highway",
+        "lane",
+        "intersection",
+        "freeway",
+        "vehicle",
+        "traffic",
+        "travel",
+        "light",
+        "city",
+        "way"
+    ]
+}

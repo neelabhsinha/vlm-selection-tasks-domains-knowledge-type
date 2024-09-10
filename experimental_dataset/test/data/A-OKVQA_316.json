@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 316,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_316.png",
+    "question": "The most abundant cake has a topping with which color?",
+    "label": "['white', 'white', 'white', 'white', 'white', 'white', 'white', 'cream', 'white', 'white']",
+    "choices": [
+        "black",
+        "magenta",
+        "white",
+        "blue"
+    ],
+    "correct_choice": "white"
+}

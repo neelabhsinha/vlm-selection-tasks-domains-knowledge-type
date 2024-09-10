@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 195,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_195.png",
+    "question": "The couch is located where?",
+    "label": "['right corner', 'living room', 'living room', 'corner', 'living room', 'right', 'living room', 'corner', 'corner', 'living room']",
+    "choices": [
+        "under",
+        "nowhere",
+        "right",
+        "left"
+    ],
+    "correct_choice": "right"
+}

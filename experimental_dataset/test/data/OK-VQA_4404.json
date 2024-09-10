@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4404,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4404.png",
+    "question": "What is the giraffe drinking from?",
+    "label": [
+        "puddle",
+        "puddle",
+        "puddle",
+        "puddle",
+        "puddle",
+        "puddle",
+        "puddle",
+        "puddle",
+        "river",
+        "river"
+    ]
+}

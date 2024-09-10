@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 206741,
+    "image_path": "./experimental_dataset/test/images/VQAv2_206741.png",
+    "question": "Is this man wearing glasses?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

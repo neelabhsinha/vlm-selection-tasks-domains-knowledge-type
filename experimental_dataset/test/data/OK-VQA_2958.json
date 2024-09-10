@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2958,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2958.png",
+    "question": "How long will those flowers live in that vase?",
+    "label": [
+        "5 days",
+        "5 days",
+        "5 days",
+        "5 days",
+        "week",
+        "week",
+        "1 week",
+        "1 week",
+        "week",
+        "week"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 396,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_396.png",
+    "question": "What does the color of this sign represent in america?",
+    "label": [
+        "caution",
+        "caution",
+        "caution",
+        "caution",
+        "caution",
+        "caution",
+        "caution",
+        "caution",
+        "yellow",
+        "yellow"
+    ]
+}

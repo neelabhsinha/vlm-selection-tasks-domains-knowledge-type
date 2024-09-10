@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 785,
+    "image_path": "./experimental_dataset/test/images/ChartQA_785.png",
+    "question": "What is the difference between the Robku TV and Tizen?",
+    "label": [
+        "14"
+    ]
+}

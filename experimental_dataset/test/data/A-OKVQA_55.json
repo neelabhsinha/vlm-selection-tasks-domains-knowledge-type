@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 55,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_55.png",
+    "question": "What are the people driving?",
+    "label": "['motorcycle', 'motorcycles', 'dirt bikes', 'motorcycles', 'motorbikes', 'motorcycle', 'dirtbike', 'dirt bikes', 'motorcycles', 'dirt bikes']",
+    "choices": [
+        "dirt bikes",
+        "monster truck",
+        "train",
+        "bus"
+    ],
+    "correct_choice": "dirt bikes"
+}

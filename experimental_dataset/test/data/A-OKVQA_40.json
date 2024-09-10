@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 40,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_40.png",
+    "question": "What type of animal is on a leash on the sidewalk?",
+    "label": "['dog', 'horse', 'dog', 'horse', 'dog', 'dog', 'dog', 'dog', 'dog', 'dog']",
+    "choices": [
+        "dog",
+        "tiger",
+        "cat",
+        "lion"
+    ],
+    "correct_choice": "dog"
+}

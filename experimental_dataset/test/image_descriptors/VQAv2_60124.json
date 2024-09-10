@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 60124,
+    "caption": "a street sign on a sidewalk in front of a store",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "building",
+        "bicycle wheel",
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "bike",
+        "city",
+        "street",
+        "person",
+        "bicycle",
+        "sign",
+        "ground",
+        "shop"
+    ]
+}

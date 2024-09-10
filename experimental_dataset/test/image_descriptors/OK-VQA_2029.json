@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2029,
+    "caption": "people riding on the back of a horse drawn carriage",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "fall",
+        "autumn",
+        "plant",
+        "ground",
+        "forest",
+        "sitting",
+        "wood",
+        "person",
+        "people",
+        "woman"
+    ]
+}

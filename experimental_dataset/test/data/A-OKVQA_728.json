@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 728,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_728.png",
+    "question": "What did the child use to develop a fake game controller?",
+    "label": "['lego', 'lego', 'legos', 'legos', 'legos', 'lego', 'legos', 'legos', 'legos', 'legos']",
+    "choices": [
+        "legos",
+        "recycled plastics",
+        "building blocks",
+        "lincoln logs"
+    ],
+    "correct_choice": "legos"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2631,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2631.png",
+    "question": "What ingredients were used to make this food?",
+    "label": [
+        "vegetable",
+        "vegetable",
+        "vegetable",
+        "vegetable",
+        "lettuce",
+        "lettuce",
+        "kale",
+        "kale",
+        "natural",
+        "natural"
+    ]
+}

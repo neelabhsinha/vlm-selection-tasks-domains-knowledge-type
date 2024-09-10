@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2451,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2451.png",
+    "question": "How many state universities were there in Nigeria in 2020?",
+    "label": [
+        "48"
+    ]
+}

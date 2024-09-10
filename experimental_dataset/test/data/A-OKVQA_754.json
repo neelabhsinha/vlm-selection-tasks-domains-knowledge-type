@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 754,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_754.png",
+    "question": "How can we tell a building is under construction in this area?",
+    "label": "['crane', 'safety cones', 'crane', 'crane', 'crane', 'cranes', 'crane', 'crane', 'crane', 'crane']",
+    "choices": [
+        "crane",
+        "video",
+        "dump truck",
+        "signs"
+    ],
+    "correct_choice": "crane"
+}

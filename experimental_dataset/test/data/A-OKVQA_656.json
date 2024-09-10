@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 656,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_656.png",
+    "question": "What is the bus parked next to?",
+    "label": "['street side', 'sidewalk', 'sidewalk', 'vacant lot', 'pole', 'sidewalk', 'light pole', 'curb', 'pole', 'overpass']",
+    "choices": [
+        "office building",
+        "park",
+        "mansion",
+        "overpass"
+    ],
+    "correct_choice": "overpass"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 172863,
+    "image_path": "./experimental_dataset/test/images/VQAv2_172863.png",
+    "question": "What is on the left wall?",
+    "label": [
+        "window",
+        "window",
+        "picture",
+        "picture",
+        "picture",
+        "picture",
+        "window",
+        "curtain",
+        "picture",
+        "curtains"
+    ]
+}

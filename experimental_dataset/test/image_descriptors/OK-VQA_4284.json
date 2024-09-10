@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4284,
+    "caption": "elephants are walking through the water",
+    "object_tags": [
+        "mammal",
+        "outdoor",
+        "animal",
+        "elephant",
+        "water",
+        "terrestrial animal",
+        "wildlife",
+        "safari",
+        "grass",
+        "plant",
+        "tree",
+        "river",
+        "elephants and mammoths",
+        "indian elephant",
+        "asian elephant"
+    ]
+}

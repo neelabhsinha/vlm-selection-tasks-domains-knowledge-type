@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 6,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_6.png",
+    "question": "What is the appliance the woman is holding used for?",
+    "label": "['drying hair', 'combing hair', 'drying hair', 'blowing hair', 'hair drying', 'steamer', 'hair styling', 'dryer', 'hairdryer', 'hair drying']",
+    "choices": [
+        "cutting hair",
+        "brushing teeth",
+        "drying hair",
+        "painting nails"
+    ],
+    "correct_choice": "drying hair"
+}

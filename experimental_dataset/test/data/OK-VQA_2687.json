@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2687,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2687.png",
+    "question": "What type of vessel is in the background?",
+    "label": [
+        "yacht",
+        "yacht",
+        "yacht",
+        "yacht",
+        "sea fare vessel",
+        "sea fare vessel",
+        "ship",
+        "ship",
+        "cruise ship",
+        "cruise ship"
+    ]
+}

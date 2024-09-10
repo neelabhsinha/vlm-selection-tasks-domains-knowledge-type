@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3469,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3469.png",
+    "question": "The breed of dog in the photo is known for what?",
+    "label": [
+        "retrieve",
+        "retrieve",
+        "retrieve",
+        "retrieve",
+        "retrieve",
+        "retrieve",
+        "retriever",
+        "retriever",
+        "loyalty",
+        "loyalty"
+    ]
+}

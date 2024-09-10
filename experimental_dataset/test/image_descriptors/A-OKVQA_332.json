@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 332,
+    "caption": "a man riding a bike down a street next to a car",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "building",
+        "wheel",
+        "street",
+        "road",
+        "tree",
+        "vehicle registration plate",
+        "traffic",
+        "car",
+        "text",
+        "pedestrian",
+        "family car",
+        "man",
+        "city",
+        "bicycle",
+        "person",
+        "way",
+        "people"
+    ]
+}

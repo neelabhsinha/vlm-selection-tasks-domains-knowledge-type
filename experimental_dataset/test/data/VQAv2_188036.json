@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 188036,
+    "image_path": "./experimental_dataset/test/images/VQAv2_188036.png",
+    "question": "What animals are shown in the photo?",
+    "label": [
+        "cow",
+        "cows",
+        "cow",
+        "cows",
+        "cow",
+        "cows",
+        "cows",
+        "cows",
+        "cows",
+        "donkey"
+    ]
+}

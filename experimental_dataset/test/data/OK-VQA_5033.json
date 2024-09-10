@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5033,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5033.png",
+    "question": "The two colorful keyboard shaped objects are used for what?",
+    "label": [
+        "type",
+        "type",
+        "type",
+        "type",
+        "learn",
+        "learn",
+        "spell word",
+        "spell word",
+        "card",
+        "card"
+    ]
+}

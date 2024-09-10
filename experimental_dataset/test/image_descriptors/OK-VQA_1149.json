@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1149,
+    "caption": "a man and a woman playing a video game",
+    "object_tags": [
+        "clothing",
+        "person",
+        "wall",
+        "indoor",
+        "human face",
+        "man",
+        "picture frame",
+        "game",
+        "smile",
+        "standing",
+        "controller",
+        "people",
+        "room",
+        "holding",
+        "boy",
+        "art"
+    ]
+}

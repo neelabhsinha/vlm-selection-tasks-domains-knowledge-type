@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1421,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1421.png",
+    "question": "What is the title ?",
+    "label": [
+        "tools of implementation"
+    ]
+}

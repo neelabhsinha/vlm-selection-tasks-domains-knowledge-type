@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 328,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_328.png",
+    "question": "What action is the woman probably getting ready to perform with her phone?",
+    "label": "['selfie', 'photos', 'picture', 'picture', 'picture', 'take selfie', 'take selfie', 'photo', 'photograph', 'record']",
+    "choices": [
+        "browse",
+        "call",
+        "text",
+        "selfie"
+    ],
+    "correct_choice": "selfie"
+}

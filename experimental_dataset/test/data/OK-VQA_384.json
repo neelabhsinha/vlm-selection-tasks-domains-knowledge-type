@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 384,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_384.png",
+    "question": "What type of occasion would warrant this behavior?",
+    "label": [
+        "vacation",
+        "vacation",
+        "vacation",
+        "vacation",
+        "vacation",
+        "vacation",
+        "vacation",
+        "vacation",
+        "vacation",
+        "vacation"
+    ]
+}

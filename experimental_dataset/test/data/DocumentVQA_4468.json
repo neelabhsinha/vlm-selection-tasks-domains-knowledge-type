@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4468,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4468.png",
+    "question": "What is PO Number ?",
+    "label": [
+        "834062 50700-50799",
+        "834062"
+    ]
+}

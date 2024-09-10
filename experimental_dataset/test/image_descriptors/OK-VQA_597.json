@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 597,
+    "caption": "a man riding a motorcycle down a street",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "road",
+        "wheel",
+        "tree",
+        "motorcycle",
+        "sky",
+        "tire",
+        "street",
+        "asphalt",
+        "road surface",
+        "car",
+        "thoroughfare",
+        "lane",
+        "riding",
+        "tarmac",
+        "auto part",
+        "person",
+        "people",
+        "parked",
+        "bike"
+    ]
+}

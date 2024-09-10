@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2589,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2589.png",
+    "question": "How much amount was expended for 'Taxes' for second fiscal year?",
+    "label": [
+        "867.33"
+    ]
+}

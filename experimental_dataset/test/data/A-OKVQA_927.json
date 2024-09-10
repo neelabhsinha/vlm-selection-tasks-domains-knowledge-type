@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 927,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_927.png",
+    "question": "What kind of vehicle is in the opening?",
+    "label": "['truck', 'truck', 'truck', 'truck', 'truck', 'pick up', 'truck', 'truck', 'pick up', 'truck']",
+    "choices": [
+        "sedan",
+        "hatchback",
+        "horse carriage",
+        "truck"
+    ],
+    "correct_choice": "truck"
+}

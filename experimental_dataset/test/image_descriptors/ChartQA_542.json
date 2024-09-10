@@ -1,0 +1,16 @@
+{
+    "dataset": "ChartQA",
+    "key": 542,
+    "caption": "a series of photographs showing a blue and white pattern",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "software",
+        "diagram",
+        "rectangle",
+        "plot",
+        "parallel",
+        "computer icon",
+        "multimedia software"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 936,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_936.png",
+    "question": "What are the people holding in their hands?",
+    "label": "['frisbees', 'frisbee', 'frisbees', 'frisbee', 'frisbee', 'frisbee', 'frisbees', 'frisbee', 'frisbees', 'frisbees']",
+    "choices": [
+        "puck",
+        "frisbee",
+        "football",
+        "baseball"
+    ],
+    "correct_choice": "frisbee"
+}

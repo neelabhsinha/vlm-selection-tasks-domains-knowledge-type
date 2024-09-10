@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 65,
+    "caption": "a pizza on a white plate on a table",
+    "object_tags": [
+        "food",
+        "dish",
+        "pizza",
+        "italian food",
+        "fast food",
+        "pizza cheese",
+        "california-style pizza",
+        "cuisine",
+        "flatbread",
+        "indoor",
+        "table",
+        "person",
+        "toppings",
+        "red"
+    ]
+}

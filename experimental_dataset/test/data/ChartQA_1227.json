@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1227,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1227.png",
+    "question": "what is the difference between the two bar in 21- 24 years?",
+    "label": [
+        "0.6"
+    ]
+}

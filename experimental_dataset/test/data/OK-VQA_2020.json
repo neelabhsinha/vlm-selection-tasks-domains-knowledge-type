@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2020,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2020.png",
+    "question": "What is the proper name for this type of bus?",
+    "label": [
+        "double decker",
+        "double decker",
+        "double decker",
+        "double decker",
+        "double decker",
+        "double decker",
+        "bilevel",
+        "bilevel",
+        "red",
+        "red"
+    ]
+}

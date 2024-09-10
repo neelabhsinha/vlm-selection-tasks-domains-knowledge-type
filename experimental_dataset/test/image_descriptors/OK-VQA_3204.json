@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3204,
+    "caption": "a large white bus parked on the side of the road",
+    "object_tags": [
+        "ground",
+        "outdoor",
+        "vehicle",
+        "night",
+        "trailer"
+    ]
+}

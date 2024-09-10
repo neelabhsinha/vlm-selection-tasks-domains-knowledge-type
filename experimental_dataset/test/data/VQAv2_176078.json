@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 176078,
+    "image_path": "./experimental_dataset/test/images/VQAv2_176078.png",
+    "question": "Where is the kid standing?",
+    "label": [
+        "in driveway",
+        "driveway",
+        "driveway",
+        "driveway",
+        "on street",
+        "in park",
+        "on sidewalk",
+        "street",
+        "driveway",
+        "outside"
+    ]
+}

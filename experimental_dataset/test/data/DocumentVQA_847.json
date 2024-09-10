@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 847,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_847.png",
+    "question": "Who is the R&D customer for the 2nd project in the list?",
+    "label": [
+        "RHH"
+    ]
+}

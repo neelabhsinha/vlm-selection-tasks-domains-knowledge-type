@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 42,
+    "caption": "a table topped with lots of different types of food",
+    "object_tags": [
+        "candle",
+        "indoor",
+        "table",
+        "culinary art",
+        "garnish",
+        "cuisine",
+        "delicacy",
+        "food",
+        "floor",
+        "sushi"
+    ]
+}

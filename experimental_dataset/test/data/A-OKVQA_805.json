@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 805,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_805.png",
+    "question": "What is likely the mascot of the team whose website address appears in the background?",
+    "label": "['bears', 'bear', 'bear', 'bears', 'bears', 'bob cardigan', 'bear', 'bears', 'bear', 'bears']",
+    "choices": [
+        "fish",
+        "cat",
+        "bear",
+        "dog"
+    ],
+    "correct_choice": "bear"
+}

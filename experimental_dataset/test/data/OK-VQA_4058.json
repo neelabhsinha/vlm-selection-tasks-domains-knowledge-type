@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4058,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4058.png",
+    "question": "Which type of wood is used for the kitchen cupboard shown in this picture?",
+    "label": [
+        "oak",
+        "oak",
+        "oak",
+        "oak",
+        "poplar",
+        "poplar",
+        "pine",
+        "pine",
+        "cedar",
+        "cedar"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2190,
+    "caption": "a man is looking at a toilet in a bathroom",
+    "object_tags": [
+        "person",
+        "bathroom",
+        "indoor",
+        "toilet",
+        "dishware",
+        "tableware"
+    ]
+}

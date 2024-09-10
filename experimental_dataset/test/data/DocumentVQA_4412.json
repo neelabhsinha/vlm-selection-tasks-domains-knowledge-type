@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4412,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4412.png",
+    "question": "What is TID?",
+    "label": [
+        "THREE TIMES DAILY",
+        "Three times daily"
+    ]
+}

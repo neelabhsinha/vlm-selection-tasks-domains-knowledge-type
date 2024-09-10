@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4174,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4174.png",
+    "question": "Why does the cat look scared?",
+    "label": [
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "dog",
+        "cat look scared because it see dog",
+        "cat look scared because it see dog"
+    ]
+}

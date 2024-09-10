@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5004,
+    "caption": "a woman holding a baseball bat in a store",
+    "object_tags": [
+        "sport",
+        "person",
+        "bowling",
+        "clothing",
+        "indoor",
+        "floor",
+        "footwear",
+        "bowling equipment",
+        "sports equipment",
+        "ball",
+        "bowling ball",
+        "bowler",
+        "ten-pin bowling",
+        "wall",
+        "jeans",
+        "playing",
+        "ceiling"
+    ]
+}

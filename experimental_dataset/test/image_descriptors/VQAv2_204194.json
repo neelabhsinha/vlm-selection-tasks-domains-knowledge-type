@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 204194,
+    "caption": "a man and a woman playing a video game",
+    "object_tags": [
+        "clothing",
+        "person",
+        "wall",
+        "indoor",
+        "room",
+        "man",
+        "jeans",
+        "game",
+        "playing",
+        "standing",
+        "human face",
+        "microphone",
+        "controller",
+        "remote",
+        "people",
+        "music",
+        "floor",
+        "holding",
+        "ceiling"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 47195,
+    "image_path": "./experimental_dataset/test/images/VQAv2_47195.png",
+    "question": "Is this man cross country skiing?",
+    "label": [
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

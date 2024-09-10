@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 120775,
+    "image_path": "./experimental_dataset/test/images/VQAv2_120775.png",
+    "question": "What is in the boy's hand?",
+    "label": [
+        "toothbrush",
+        "toothbrush",
+        "toothbrush",
+        "toothbrush",
+        "flosser",
+        "toothbrush",
+        "toothbrush",
+        "toothbrush",
+        "toothbrush",
+        "toothbrush"
+    ]
+}

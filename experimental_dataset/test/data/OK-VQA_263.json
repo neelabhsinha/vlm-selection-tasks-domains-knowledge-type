@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 263,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_263.png",
+    "question": "How long has ultimate frisbee been an official sport?",
+    "label": [
+        "1968",
+        "1968",
+        "1968",
+        "1968",
+        "1 decade",
+        "1 decade",
+        "year",
+        "year",
+        "since 1968",
+        "since 1968"
+    ]
+}

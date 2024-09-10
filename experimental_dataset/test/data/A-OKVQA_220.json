@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 220,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_220.png",
+    "question": "Which vehicle is closest to the transport hub?",
+    "label": "['crane', 'truck', 'orange tractor', 'truck', 'bus', 'van', 'car', 'car', 'truck', 'crane']",
+    "choices": [
+        "red car",
+        "truck trailer",
+        "orange tractor",
+        "truck cab"
+    ],
+    "correct_choice": "orange tractor"
+}

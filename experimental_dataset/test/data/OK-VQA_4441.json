@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4441,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4441.png",
+    "question": "What type of boat is floating on the river?",
+    "label": [
+        "ferry",
+        "ferry",
+        "ferry",
+        "ferry",
+        "barge",
+        "barge",
+        "tourist",
+        "tourist",
+        "tug",
+        "tug"
+    ]
+}

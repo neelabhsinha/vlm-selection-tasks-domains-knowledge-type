@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 7489,
+    "caption": "a little girl and a little boy standing in a living room",
+    "object_tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "floor",
+        "wall",
+        "human face",
+        "toddler",
+        "girl",
+        "ceiling",
+        "couch",
+        "house",
+        "dress",
+        "flooring",
+        "woman",
+        "furniture",
+        "footwear",
+        "interior design",
+        "room",
+        "people",
+        "family",
+        "child"
+    ]
+}

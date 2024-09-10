@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4112,
+    "caption": "a black and white dog standing next to a brown and white dog",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "dog",
+        "dog breed",
+        "person",
+        "pet",
+        "bulldog",
+        "boston terrier",
+        "non-sporting group",
+        "french bulldog",
+        "field"
+    ]
+}

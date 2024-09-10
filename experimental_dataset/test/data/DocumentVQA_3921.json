@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3921,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3921.png",
+    "question": "To which department and University \"Esteban Soriano\" belongs to?",
+    "label": [
+        "Institute for Communication Research Stanford University"
+    ]
+}

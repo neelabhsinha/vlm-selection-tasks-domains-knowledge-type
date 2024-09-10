@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 101,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_101.png",
+    "question": "What type of event might this be?",
+    "label": "['contest', 'festival', 'parade', 'dentist event', 'toothpaste event', 'dental convention', 'art show', 'art show', 'festival', 'parade']",
+    "choices": [
+        "art show",
+        "car show",
+        "museum opening",
+        "race"
+    ],
+    "correct_choice": "art show"
+}

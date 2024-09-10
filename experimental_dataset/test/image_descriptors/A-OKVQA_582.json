@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 582,
+    "caption": "a table topped with plates of food and drinks",
+    "object_tags": [
+        "drink",
+        "table",
+        "food",
+        "meal",
+        "tableware",
+        "beer",
+        "fast food",
+        "brunch",
+        "juice",
+        "drinkware",
+        "pint",
+        "dish",
+        "indoor",
+        "cocktail",
+        "pint glass",
+        "snack",
+        "alcoholic beverage",
+        "beer glass",
+        "alcohol",
+        "baked goods",
+        "soft drink",
+        "barware",
+        "supper",
+        "cup",
+        "sitting",
+        "restaurant"
+    ]
+}

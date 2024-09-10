@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 31,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_31.png",
+    "question": "What is beside the person on the seat?",
+    "label": "['bag', 'bag', 'white bag', 'shopping bag', 'plastic bag', 'plastic bag', 'plastic bag', 'bag', 'bag', 'bag']",
+    "choices": [
+        "white bag",
+        "food",
+        "paper bag",
+        "pillow"
+    ],
+    "correct_choice": "white bag"
+}

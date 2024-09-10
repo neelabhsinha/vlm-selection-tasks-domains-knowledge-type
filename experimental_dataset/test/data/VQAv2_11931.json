@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 11931,
+    "image_path": "./experimental_dataset/test/images/VQAv2_11931.png",
+    "question": "Is the clock outside?",
+    "label": [
+        "yes",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

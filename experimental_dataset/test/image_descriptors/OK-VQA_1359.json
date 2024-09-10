@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1359,
+    "caption": "a dump truck is parked in a field",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "grass",
+        "tire",
+        "sky",
+        "ground",
+        "soil",
+        "tractor",
+        "off-road vehicle",
+        "off-roading",
+        "agricultural machinery",
+        "dirt",
+        "field",
+        "mud",
+        "truck",
+        "transport",
+        "farm machine",
+        "farm"
+    ]
+}

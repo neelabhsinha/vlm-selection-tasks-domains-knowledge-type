@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 312,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_312.png",
+    "question": "Where are the cats sitting on top of?",
+    "label": "['table', 'table', 'keyboard', 'keyboard', 'table', 'keyboard', 'keyboard', 'desk table', 'keyboard', 'keyboard']",
+    "choices": [
+        "newspaper",
+        "keyboard",
+        "lap",
+        "board game"
+    ],
+    "correct_choice": "keyboard"
+}

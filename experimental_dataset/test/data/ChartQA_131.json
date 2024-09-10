@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 131,
+    "image_path": "./experimental_dataset/test/images/ChartQA_131.png",
+    "question": "What is the color of the pie represented \"More\"?",
+    "label": [
+        "gray"
+    ]
+}

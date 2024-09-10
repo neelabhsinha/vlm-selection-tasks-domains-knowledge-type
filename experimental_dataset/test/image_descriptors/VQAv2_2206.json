@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 2206,
+    "caption": "a woman paddling a paddle board on top of a body of water",
+    "object_tags": [
+        "outdoor",
+        "sport",
+        "surfing",
+        "person",
+        "water",
+        "recreation",
+        "outdoor recreation",
+        "surfboard",
+        "sports equipment",
+        "surface water sports",
+        "stand up paddle surfing",
+        "paddle",
+        "boardsport",
+        "lake",
+        "surfing equipment",
+        "kayak"
+    ]
+}

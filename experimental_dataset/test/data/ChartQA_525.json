@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 525,
+    "image_path": "./experimental_dataset/test/images/ChartQA_525.png",
+    "question": "Is the value of Russia has the highest transport?",
+    "label": [
+        "Yes"
+    ]
+}

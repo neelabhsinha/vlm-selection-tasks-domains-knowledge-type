@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 994,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Fiction",
+        "Movies"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge"
+    ]
+}

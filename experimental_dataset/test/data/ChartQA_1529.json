@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1529,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1529.png",
+    "question": "What percentage of Venezuela's GDP did industry contribute in 2014?",
+    "label": [
+        "37.24"
+    ]
+}

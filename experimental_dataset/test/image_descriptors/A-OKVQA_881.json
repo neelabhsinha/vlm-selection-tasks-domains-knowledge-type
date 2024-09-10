@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 881,
+    "caption": "a herd of cattle walking down a road",
+    "object_tags": [
+        "outdoor",
+        "livestock",
+        "road",
+        "animal",
+        "bovine",
+        "mammal",
+        "herding",
+        "ox",
+        "cow",
+        "bull",
+        "dairy cow",
+        "herd",
+        "ground",
+        "grass",
+        "walking",
+        "cattle",
+        "mountain",
+        "group",
+        "street",
+        "standing"
+    ]
+}

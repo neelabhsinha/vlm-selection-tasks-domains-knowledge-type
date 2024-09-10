@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 248,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_248.png",
+    "question": "This person in this picture is likely to be a?",
+    "label": "['crossdresser', 'cross dresser', 'sex worker', 'man', 'sex worker', 'drag queen', 'male', 'transvestite', 'crossdresser', 'escort']",
+    "choices": [
+        "woman",
+        "little boy",
+        "man",
+        "little girl"
+    ],
+    "correct_choice": "man"
+}

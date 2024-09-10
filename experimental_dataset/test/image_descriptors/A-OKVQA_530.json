@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 530,
+    "caption": "a young boy riding on the back of a bus",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "outdoor",
+        "riding",
+        "street",
+        "vehicle"
+    ]
+}

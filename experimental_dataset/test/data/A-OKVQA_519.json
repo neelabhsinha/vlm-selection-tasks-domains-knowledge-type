@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 519,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_519.png",
+    "question": "What type of profession is the man in red in?",
+    "label": "['bartender', 'bartender', 'bartender', 'bar tending', 'bartender', 'bartending', 'bartender', 'bartender', 'bartending', 'bartending']",
+    "choices": [
+        "emt",
+        "chef",
+        "stocker",
+        "bartender"
+    ],
+    "correct_choice": "bartender"
+}

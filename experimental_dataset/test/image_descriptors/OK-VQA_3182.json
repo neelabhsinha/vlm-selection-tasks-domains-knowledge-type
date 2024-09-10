@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3182,
+    "caption": "two little boys in a bathtub with a white tub",
+    "object_tags": [
+        "human face",
+        "indoor",
+        "bathroom",
+        "person",
+        "wall",
+        "bathing",
+        "bathtub",
+        "clothing",
+        "washing",
+        "child",
+        "baby",
+        "young",
+        "tub",
+        "boy",
+        "toddler"
+    ]
+}

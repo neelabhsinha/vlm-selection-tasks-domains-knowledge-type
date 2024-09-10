@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 638,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_638.png",
+    "question": "Was the ball thrown overhand or underhand?",
+    "label": [
+        "underhand",
+        "underhand",
+        "underhand",
+        "underhand",
+        "underhand",
+        "underhand",
+        "underhand",
+        "underhand",
+        "overhand",
+        "overhand"
+    ]
+}

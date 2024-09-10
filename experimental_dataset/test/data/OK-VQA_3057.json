@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3057,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3057.png",
+    "question": "What kind of bakery is this?",
+    "label": [
+        "italian",
+        "italian",
+        "italian",
+        "italian",
+        "italian",
+        "italian",
+        "yummy",
+        "yummy",
+        "bakery",
+        "bakery"
+    ]
+}

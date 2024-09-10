@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 783,
+    "caption": "a marina filled with lots of cars and trucks",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "land vehicle",
+        "vehicle",
+        "text",
+        "transport",
+        "wheel",
+        "vehicle registration plate",
+        "billboard",
+        "tollbooth",
+        "people",
+        "car",
+        "parked",
+        "train"
+    ]
+}

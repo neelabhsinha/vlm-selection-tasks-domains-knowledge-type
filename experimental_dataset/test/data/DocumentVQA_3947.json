@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3947,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3947.png",
+    "question": "What is the heading of the first table?",
+    "label": [
+        "Annual Financial Statement 2011",
+        "Annual financial statement 2011"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4808,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4808.png",
+    "question": "What official public servants are known to favor these confections?",
+    "label": [
+        "police",
+        "police",
+        "police",
+        "police",
+        "police",
+        "police",
+        "police officer",
+        "police officer",
+        "cop",
+        "cop"
+    ]
+}

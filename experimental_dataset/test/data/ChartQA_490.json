@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 490,
+    "image_path": "./experimental_dataset/test/images/ChartQA_490.png",
+    "question": "What is the percentage of people who say Not too well/not well at all in the first bar?",
+    "label": [
+        "10"
+    ]
+}

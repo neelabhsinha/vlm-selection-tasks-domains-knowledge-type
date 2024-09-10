@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 271,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_271.png",
+    "question": "What is on the laps of each of the women?",
+    "label": "['handbag', 'bag', 'purses', 'bags', 'purses', 'bags', 'purse', 'bag', 'purses', 'purse']",
+    "choices": [
+        "paper",
+        "children",
+        "phones",
+        "bag"
+    ],
+    "correct_choice": "bag"
+}

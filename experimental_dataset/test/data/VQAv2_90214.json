@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 90214,
+    "image_path": "./experimental_dataset/test/images/VQAv2_90214.png",
+    "question": "What kind of dessert is played?",
+    "label": [
+        "cake",
+        "cake",
+        "cake",
+        "cake",
+        "cake",
+        "cake,brownie and rice krispy",
+        "what?",
+        "cake, rice krispy square, jelly beans",
+        "cake",
+        "cake, brownie, rice krispie square, candy"
+    ]
+}

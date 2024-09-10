@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3775,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3775.png",
+    "question": "What kind of truck is this?",
+    "label": [
+        "ford",
+        "ford",
+        "ford",
+        "ford",
+        "chevy",
+        "chevy",
+        "dodge",
+        "dodge",
+        "chevrolet",
+        "chevrolet"
+    ]
+}

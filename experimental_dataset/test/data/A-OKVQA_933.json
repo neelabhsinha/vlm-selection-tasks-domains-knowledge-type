@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 933,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_933.png",
+    "question": "What kind of vehicle is the one that says Deere?",
+    "label": "['backhoe', 'backhoe', 'bulldozer', 'backhoe', 'backhoe', 'backhoe', 'backhoe', 'backhoe', 'backhoe', 'backhoe']",
+    "choices": [
+        "car",
+        "bulldozer",
+        "train",
+        "fork lift"
+    ],
+    "correct_choice": "bulldozer"
+}

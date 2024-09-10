@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 369,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_369.png",
+    "question": "What is used to pick up the suitcases?",
+    "label": "['handle', 'handles', 'handle', 'handle', 'handle', 'handle', 'handle', 'handles', 'handles', 'handle']",
+    "choices": [
+        "rubber band",
+        "handle",
+        "tape",
+        "rope"
+    ],
+    "correct_choice": "handle"
+}

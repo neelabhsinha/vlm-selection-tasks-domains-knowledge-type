@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2000,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2000.png",
+    "question": "How much for the \u2018miscellaneous \u2018 in \u2018renovation expenses\u2019?",
+    "label": [
+        "9,145",
+        "$9,145"
+    ]
+}

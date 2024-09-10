@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3730,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3730.png",
+    "question": "The gray boat shown in this photo is made up of which category of wood?",
+    "label": [
+        "pine",
+        "pine",
+        "pine",
+        "pine",
+        "oak",
+        "oak",
+        "oak",
+        "oak",
+        "lumber",
+        "lumber"
+    ]
+}

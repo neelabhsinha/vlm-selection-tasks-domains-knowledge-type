@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4557,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4557.png",
+    "question": "What is the name of the puja aggarbatti launched by ITC?",
+    "label": [
+        "MANGALDEEP"
+    ]
+}

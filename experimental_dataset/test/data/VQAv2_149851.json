@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 149851,
+    "image_path": "./experimental_dataset/test/images/VQAv2_149851.png",
+    "question": "What color is the banana?",
+    "label": [
+        "no banana",
+        "yellow",
+        "no banana",
+        "yellow",
+        "red",
+        "none",
+        "brown",
+        "yellow",
+        "brown",
+        "brown"
+    ]
+}

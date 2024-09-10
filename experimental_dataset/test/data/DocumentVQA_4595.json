@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4595,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4595.png",
+    "question": "Which is the year under consideration?",
+    "label": [
+        "1992"
+    ]
+}

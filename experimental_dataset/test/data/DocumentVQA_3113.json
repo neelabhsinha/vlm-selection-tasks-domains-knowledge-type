@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3113,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3113.png",
+    "question": "Who shall open the Meeting on October 11?",
+    "label": [
+        "Jim Maguire"
+    ]
+}

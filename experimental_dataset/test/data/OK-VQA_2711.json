@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2711,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2711.png",
+    "question": "What profession is this an example of?",
+    "label": [
+        "farm",
+        "farm",
+        "farm",
+        "farm",
+        "farm",
+        "farm",
+        "farm",
+        "farm",
+        "farmer",
+        "farmer"
+    ]
+}

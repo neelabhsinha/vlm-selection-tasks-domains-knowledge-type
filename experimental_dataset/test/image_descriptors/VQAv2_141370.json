@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 141370,
+    "caption": "people sitting at a table in front of a projector screen",
+    "object_tags": [
+        "indoor",
+        "text",
+        "clothing",
+        "person",
+        "computer",
+        "wall",
+        "office building",
+        "desk",
+        "laptop",
+        "personal computer",
+        "output device",
+        "man",
+        "display device",
+        "multimedia",
+        "communication device",
+        "table",
+        "sitting",
+        "people"
+    ]
+}

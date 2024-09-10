@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3106,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3106.png",
+    "question": "What is the source of power for these boats?",
+    "label": [
+        "steam",
+        "steam",
+        "steam",
+        "steam",
+        "diesel",
+        "diesel",
+        "electricity",
+        "electricity",
+        "motor",
+        "motor"
+    ]
+}

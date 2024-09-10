@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 154821,
+    "caption": "a subway train is stopped at a train station",
+    "object_tags": [
+        "train",
+        "transport",
+        "public transport",
+        "metro station",
+        "metro",
+        "train station",
+        "passenger car",
+        "railway",
+        "transport hub",
+        "platform",
+        "rolling stock",
+        "passenger",
+        "vehicle",
+        "subway",
+        "railroad car",
+        "indoor",
+        "track",
+        "ceiling"
+    ]
+}

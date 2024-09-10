@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 158698,
+    "image_path": "./experimental_dataset/test/images/VQAv2_158698.png",
+    "question": "Is the mouse wireless?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

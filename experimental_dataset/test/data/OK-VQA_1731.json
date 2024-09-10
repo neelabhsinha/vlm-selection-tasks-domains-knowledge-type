@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1731,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1731.png",
+    "question": "What is this machine used for?",
+    "label": [
+        "toast bagel",
+        "toast bagel",
+        "toast bread",
+        "toast bread",
+        "cook",
+        "cook",
+        "toast",
+        "toast",
+        "toast",
+        "toast"
+    ]
+}

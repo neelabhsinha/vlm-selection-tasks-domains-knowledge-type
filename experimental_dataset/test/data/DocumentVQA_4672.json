@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4672,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4672.png",
+    "question": "What is the starting date of the travel?",
+    "label": [
+        "March 20, 1979"
+    ]
+}

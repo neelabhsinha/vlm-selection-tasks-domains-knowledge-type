@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 134883,
+    "image_path": "./experimental_dataset/test/images/VQAv2_134883.png",
+    "question": "Do you think the walls of this bathroom have just been painted?",
+    "label": [
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "yes"
+    ]
+}

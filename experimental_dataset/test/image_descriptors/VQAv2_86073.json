@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 86073,
+    "caption": "a cat laying on top of a car",
+    "object_tags": [
+        "car",
+        "small to medium-sized cats",
+        "mammal",
+        "felidae",
+        "whiskers",
+        "domestic cat",
+        "animal",
+        "outdoor",
+        "land vehicle",
+        "window",
+        "cat",
+        "vehicle"
+    ]
+}

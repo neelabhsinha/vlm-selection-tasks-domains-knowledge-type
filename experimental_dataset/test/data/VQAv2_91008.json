@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 91008,
+    "image_path": "./experimental_dataset/test/images/VQAv2_91008.png",
+    "question": "What are the yellow flowers in the grass called?",
+    "label": [
+        "daffodils",
+        "dandelions",
+        "dandelions",
+        "rose",
+        "dandelions",
+        "dandelions",
+        "dandelions",
+        "daisies",
+        "dandelions",
+        "dandelions"
+    ]
+}

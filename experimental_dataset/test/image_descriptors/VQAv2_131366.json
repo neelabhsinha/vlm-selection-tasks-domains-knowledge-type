@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 131366,
+    "caption": "cows that are standing in the street",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "ground",
+        "horn",
+        "bull",
+        "night",
+        "outdoor",
+        "elephant",
+        "street"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1033,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1033.png",
+    "question": "In the plot, what is the value of \"r\"?",
+    "label": [
+        "0.994"
+    ]
+}

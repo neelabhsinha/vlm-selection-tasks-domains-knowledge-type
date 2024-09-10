@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1478,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1478.png",
+    "question": "How many points are there in the notice?",
+    "label": [
+        "V",
+        "V."
+    ]
+}

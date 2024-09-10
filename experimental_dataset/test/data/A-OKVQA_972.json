@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 972,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_972.png",
+    "question": "Which arm is the tennis player wearing a band on?",
+    "label": "['right', 'right arm', 'right arm', 'right', 'right', 'right', 'left', 'right', 'right', 'right']",
+    "choices": [
+        "left",
+        "none",
+        "both",
+        "right"
+    ],
+    "correct_choice": "right"
+}

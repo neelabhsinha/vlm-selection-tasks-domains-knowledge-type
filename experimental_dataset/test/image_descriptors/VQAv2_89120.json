@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 89120,
+    "caption": "a bathroom with a toilet and a shower stall",
+    "object_tags": [
+        "bathroom",
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "restroom",
+        "plumbing",
+        "bathroom accessory",
+        "toilet seat",
+        "tile",
+        "bidet",
+        "toilet",
+        "house",
+        "window"
+    ]
+}

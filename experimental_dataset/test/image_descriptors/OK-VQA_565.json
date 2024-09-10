@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 565,
+    "caption": "a large clock on the side of a building",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "sky",
+        "human face",
+        "man",
+        "clock",
+        "billboard",
+        "sign",
+        "signage",
+        "person"
+    ]
+}

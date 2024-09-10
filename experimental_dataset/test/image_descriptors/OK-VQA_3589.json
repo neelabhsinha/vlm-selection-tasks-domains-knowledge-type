@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3589,
+    "caption": "a toy figure of a skateboard on the ground",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "fire hydrant",
+        "toy",
+        "road",
+        "red",
+        "street",
+        "shadow"
+    ]
+}

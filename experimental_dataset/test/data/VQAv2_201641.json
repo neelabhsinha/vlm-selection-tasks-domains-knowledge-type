@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 201641,
+    "image_path": "./experimental_dataset/test/images/VQAv2_201641.png",
+    "question": "Where is this man going?",
+    "label": [
+        "no idea",
+        "work",
+        "dinner",
+        "work",
+        "work",
+        "formal event",
+        "home",
+        "to party",
+        "wedding",
+        "wedding"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4262,
+    "caption": "a woman sitting on a couch with a laptop",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "human face",
+        "wall",
+        "furniture",
+        "couch",
+        "sitting",
+        "woman",
+        "lamp",
+        "family"
+    ]
+}

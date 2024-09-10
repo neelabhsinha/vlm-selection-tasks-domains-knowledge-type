@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 603,
+    "caption": "a man in a suit talking on a cell phone",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "footwear",
+        "indoor",
+        "shirt",
+        "ceiling",
+        "people",
+        "woman",
+        "trousers",
+        "standing",
+        "wall",
+        "floor",
+        "group"
+    ]
+}

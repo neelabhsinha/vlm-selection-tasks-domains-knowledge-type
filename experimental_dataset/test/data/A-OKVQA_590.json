@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 590,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_590.png",
+    "question": "What is the woman holding?",
+    "label": "['spatula', 'spatula', 'spatula', 'spatula', 'spatula', 'spatula', 'spatula', 'spatula', 'spatula', 'spatula']",
+    "choices": [
+        "spoon",
+        "flipper",
+        "wisk",
+        "spatula"
+    ],
+    "correct_choice": "spatula"
+}

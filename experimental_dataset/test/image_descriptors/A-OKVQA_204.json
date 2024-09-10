@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 204,
+    "caption": "a woman standing next to a man holding a knife",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "smile",
+        "wall",
+        "indoor",
+        "tableware",
+        "bowl",
+        "woman",
+        "standing",
+        "red"
+    ]
+}

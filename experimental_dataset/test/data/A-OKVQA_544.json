@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 544,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_544.png",
+    "question": "Trains approaching from the direction the photographer take this picture must do what?",
+    "label": "['stop', 'stop', 'stop', 'stop', 'stop', 'stop', 'stop', 'stop', 'stop', 'stop']",
+    "choices": [
+        "nothing",
+        "speed up",
+        "change tracks",
+        "stop"
+    ],
+    "correct_choice": "stop"
+}

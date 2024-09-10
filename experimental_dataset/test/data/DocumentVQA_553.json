@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 553,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_553.png",
+    "question": "Which facility has shower area for personnel ?",
+    "label": [
+        "animal facilities for small animals",
+        "Animal facilities for small animals",
+        "animal facilities for small animals (rodents)"
+    ]
+}

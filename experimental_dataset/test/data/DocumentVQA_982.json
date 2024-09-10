@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 982,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_982.png",
+    "question": "Who is closing the session at 11:20 - 12:00?",
+    "label": [
+        "Jan van Eys"
+    ]
+}

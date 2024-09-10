@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1595,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1595.png",
+    "question": "How many civilian casualties per incident were counted in the U.S. in 2013?",
+    "label": [
+        "68"
+    ]
+}

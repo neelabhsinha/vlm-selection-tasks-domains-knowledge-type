@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 493,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_493.png",
+    "question": "What type of cake are the donuts?",
+    "label": "['carrot', 'carrot cake', 'carrot cake', 'carrot cake', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot cake']",
+    "choices": [
+        "chocolate",
+        "red velvet",
+        "vanilla",
+        "carrot"
+    ],
+    "correct_choice": "carrot"
+}

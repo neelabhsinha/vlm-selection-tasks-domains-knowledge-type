@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3326,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3326.png",
+    "question": "How often do these people get together for a photo?",
+    "label": [
+        "yearly",
+        "yearly",
+        "yearly",
+        "yearly",
+        "annually",
+        "annually",
+        "once year",
+        "once year",
+        "daily for school",
+        "daily for school"
+    ]
+}

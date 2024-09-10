@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2669,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2669.png",
+    "question": "Is this the amazon or sahara?",
+    "label": [
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon"
+    ]
+}

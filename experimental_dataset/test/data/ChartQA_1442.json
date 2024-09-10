@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1442,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1442.png",
+    "question": "How many retail chains were in fashion and clothing in Slovakia in 2020?",
+    "label": [
+        "25"
+    ]
+}

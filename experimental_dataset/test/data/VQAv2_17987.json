@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 17987,
+    "image_path": "./experimental_dataset/test/images/VQAv2_17987.png",
+    "question": "Where is the fork?",
+    "label": [
+        "top of picture",
+        "bowl",
+        "plate",
+        "under broccoli",
+        "top right",
+        "bowl",
+        "back right corner",
+        "in dish",
+        "in food",
+        "top"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 170806,
+    "image_path": "./experimental_dataset/test/images/VQAv2_170806.png",
+    "question": "Is this commercial?",
+    "label": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

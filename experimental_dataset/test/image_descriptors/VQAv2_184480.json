@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 184480,
+    "caption": "a man standing in front of a tour bus",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "transport",
+        "man",
+        "outdoor",
+        "bus",
+        "suit",
+        "van",
+        "wheel",
+        "clothing",
+        "motor vehicle",
+        "person",
+        "standing",
+        "parked"
+    ]
+}

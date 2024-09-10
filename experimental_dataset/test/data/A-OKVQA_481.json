@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 481,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_481.png",
+    "question": "What is used to keep their balance?",
+    "label": "['ski poles', 'ski poles', 'ski poles', 'ski poles', 'poles', 'poles', 'poles', 'ski poles', 'ski poles', 'poles']",
+    "choices": [
+        "snow",
+        "swords",
+        "ski poles",
+        "knives"
+    ],
+    "correct_choice": "ski poles"
+}

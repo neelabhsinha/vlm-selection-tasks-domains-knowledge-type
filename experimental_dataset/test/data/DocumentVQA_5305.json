@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5305,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5305.png",
+    "question": "Who is the \u2018acting chairman\u2019?",
+    "label": [
+        "Mr. Arden E. Swisher"
+    ]
+}

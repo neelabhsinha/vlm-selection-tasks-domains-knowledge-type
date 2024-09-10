@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4723,
+    "caption": "a white van parked in a grassy area next to some trees",
+    "object_tags": [
+        "vehicle",
+        "transport",
+        "land vehicle",
+        "outdoor",
+        "wheel",
+        "camper",
+        "volkswagen type 2",
+        "van",
+        "minibus",
+        "mode of transport",
+        "bus",
+        "volkswagen type 2 (t3)",
+        "grass",
+        "parked",
+        "car"
+    ]
+}

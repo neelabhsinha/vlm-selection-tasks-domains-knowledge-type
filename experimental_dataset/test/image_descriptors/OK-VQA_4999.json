@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4999,
+    "caption": "a city street filled with lots of traffic",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "sky",
+        "vehicle registration plate",
+        "car",
+        "wheel",
+        "road",
+        "sign",
+        "building",
+        "family car",
+        "street",
+        "signage",
+        "billboard",
+        "traffic",
+        "automotive parking light",
+        "tree",
+        "mid-size car",
+        "city"
+    ]
+}

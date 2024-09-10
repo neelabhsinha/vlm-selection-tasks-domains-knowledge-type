@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 52,
+    "caption": "a park bench in the middle of a park",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "lawn",
+        "sky",
+        "playground",
+        "landscaping",
+        "park",
+        "plant"
+    ]
+}

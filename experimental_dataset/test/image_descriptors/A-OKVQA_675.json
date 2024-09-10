@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 675,
+    "caption": "a sign on a pole on a city street",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "sky",
+        "building",
+        "billboard",
+        "signage",
+        "sign",
+        "advertising",
+        "commercial building",
+        "street",
+        "city",
+        "people"
+    ]
+}

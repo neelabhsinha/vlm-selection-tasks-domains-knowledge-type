@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2457,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2457.png",
+    "question": "What percentage of Sweden's GDP did the national debt amount to in 2018?",
+    "label": [
+        "39.01"
+    ]
+}

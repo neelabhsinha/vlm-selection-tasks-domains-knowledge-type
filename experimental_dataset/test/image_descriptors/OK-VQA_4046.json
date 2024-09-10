@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4046,
+    "caption": "a herd of elephants walking across a body of water",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "tree",
+        "elephants and mammoths",
+        "water",
+        "asian elephant",
+        "indian elephant",
+        "wildlife",
+        "african elephant",
+        "tusk",
+        "safari",
+        "terrestrial animal",
+        "plant",
+        "river",
+        "standing",
+        "group"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 517,
+    "caption": "a series of images showing a person's hand holding a computer keyboard",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "colorfulness",
+        "rectangle",
+        "design"
+    ]
+}

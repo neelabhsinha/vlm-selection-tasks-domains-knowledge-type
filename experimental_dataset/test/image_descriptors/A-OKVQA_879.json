@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 879,
+    "caption": "a man standing next to a clock on a table",
+    "object_tags": [
+        "clothing",
+        "person",
+        "clock",
+        "man",
+        "indoor",
+        "standing",
+        "table",
+        "people"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1411,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1411.png",
+    "question": "What social network did 74 percent of adults with a social grade of C2, D or E go online?",
+    "label": [
+        "Facebook"
+    ]
+}

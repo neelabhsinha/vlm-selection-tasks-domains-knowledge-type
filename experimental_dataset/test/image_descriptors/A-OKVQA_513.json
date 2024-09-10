@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 513,
+    "caption": "a dog sitting on top of a pick up truck",
+    "object_tags": [
+        "vehicle",
+        "car",
+        "land vehicle",
+        "outdoor",
+        "text",
+        "dog",
+        "wheel",
+        "road",
+        "person",
+        "standing"
+    ]
+}

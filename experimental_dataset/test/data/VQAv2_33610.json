@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 33610,
+    "image_path": "./experimental_dataset/test/images/VQAv2_33610.png",
+    "question": "What kind of meat is shown?",
+    "label": [
+        "none",
+        "green",
+        "no meat is shown",
+        "guacamole",
+        "none",
+        "none",
+        "none",
+        "beef",
+        "none",
+        "no meat"
+    ]
+}

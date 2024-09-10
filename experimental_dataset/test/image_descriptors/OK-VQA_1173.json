@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1173,
+    "caption": "a vintage truck is parked in a showroom",
+    "object_tags": [
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "tire",
+        "auto part",
+        "motor vehicle",
+        "car",
+        "classic car",
+        "automotive tire",
+        "fender",
+        "antique car",
+        "automotive wheel system",
+        "vintage car",
+        "bumper",
+        "parked",
+        "truck",
+        "indoor"
+    ]
+}

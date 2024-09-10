@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 887,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Science",
+        "Nature"
+    ],
+    "knowledge_type": [
+        "Scientific Knowledge",
+        "Temporal Knowledge"
+    ]
+}

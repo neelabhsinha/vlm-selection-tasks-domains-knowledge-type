@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 150,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_150.png",
+    "question": "Which is the fruit?",
+    "label": "['oranges', 'orange', 'orange flowers', 'orange slices', 'cantaloupe', 'oranges', 'orange', 'orange slices', 'orange', 'oranges']",
+    "choices": [
+        "meat",
+        "chocolate",
+        "nuts",
+        "orange slices"
+    ],
+    "correct_choice": "orange slices"
+}

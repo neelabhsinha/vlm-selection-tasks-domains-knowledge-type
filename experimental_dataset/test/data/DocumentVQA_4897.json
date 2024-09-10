@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4897,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4897.png",
+    "question": "What percentage of deaths of indians in 1951-53 period were caused by heart diseases?",
+    "label": [
+        "14.2"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1867,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1867.png",
+    "question": "Who is the career points leader of the Phoenix Suns?",
+    "label": [
+        "Walter Davis"
+    ]
+}

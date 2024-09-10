@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 228,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_228.png",
+    "question": "What industry is this man likely working in?",
+    "label": "['cooking', 'chef', 'food service', 'food', 'restaurant', 'food', 'restaurant', 'food', 'food', 'chef']",
+    "choices": [
+        "travel",
+        "construction",
+        "medical",
+        "restaurant"
+    ],
+    "correct_choice": "restaurant"
+}

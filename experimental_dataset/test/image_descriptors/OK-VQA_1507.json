@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1507,
+    "caption": "a wooden bench sitting on top of a sidewalk",
+    "object_tags": [
+        "houseplant",
+        "furniture",
+        "flowerpot",
+        "ground",
+        "wooden",
+        "outdoor",
+        "outdoor bench",
+        "plant",
+        "bench",
+        "table",
+        "sitting",
+        "pot",
+        "garden",
+        "flower",
+        "stone",
+        "wood"
+    ]
+}

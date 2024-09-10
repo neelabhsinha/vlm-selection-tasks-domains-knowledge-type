@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1012,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1012.png",
+    "question": "What is the value of individual automotive loans of Used cars in 2016?",
+    "label": [
+        "3280"
+    ]
+}

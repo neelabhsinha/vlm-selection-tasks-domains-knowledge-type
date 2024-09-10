@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3674,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "History",
+        "Professions",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Technical Knowledge",
+        "Temporal Knowledge"
+    ]
+}

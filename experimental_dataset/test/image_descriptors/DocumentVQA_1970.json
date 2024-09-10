@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1970,
+    "caption": "a white sheet of paper on top of a white surface",
+    "object_tags": [
+        "text",
+        "letter",
+        "handwriting",
+        "paper",
+        "document"
+    ]
+}

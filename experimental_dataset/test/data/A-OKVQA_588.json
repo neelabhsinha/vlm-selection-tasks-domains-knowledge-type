@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 588,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_588.png",
+    "question": "The reddish-brown food in the further bowl is what type of food?",
+    "label": "['meat', 'stir fry', 'meat', 'meat', 'sausage', 'meat', 'sesame chicken', 'stew', 'salsa', 'meat']",
+    "choices": [
+        "dairy",
+        "legume",
+        "meat",
+        "vegetable"
+    ],
+    "correct_choice": "meat"
+}

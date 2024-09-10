@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 137729,
+    "image_path": "./experimental_dataset/test/images/VQAv2_137729.png",
+    "question": "What color are the batter's pants?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white"
+    ]
+}

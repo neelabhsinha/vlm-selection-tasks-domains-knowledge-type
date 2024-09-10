@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 706,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_706.png",
+    "question": "What highways is this?",
+    "label": [
+        "route 66",
+        "route 66",
+        "route 66",
+        "route 66",
+        "route 66",
+        "route 66",
+        "i40",
+        "i40",
+        "interstate",
+        "interstate"
+    ]
+}

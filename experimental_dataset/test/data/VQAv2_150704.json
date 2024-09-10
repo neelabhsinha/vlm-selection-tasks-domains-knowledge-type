@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 150704,
+    "image_path": "./experimental_dataset/test/images/VQAv2_150704.png",
+    "question": "Why do the bodysuits have patches at the knees?",
+    "label": [
+        "flexibility",
+        "yes",
+        "no",
+        "to protect knees",
+        "they were on ground",
+        "strength",
+        "from kneeling on surfboard",
+        "must have torn",
+        "to grip",
+        "safety"
+    ]
+}

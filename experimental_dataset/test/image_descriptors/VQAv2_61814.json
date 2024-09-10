@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 61814,
+    "caption": "a kite being flown on the beach",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "inflatable",
+        "hot air balloon",
+        "beach",
+        "air sports",
+        "kite",
+        "ground",
+        "people",
+        "balloon",
+        "parachute"
+    ]
+}

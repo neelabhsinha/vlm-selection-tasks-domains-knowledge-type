@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 538,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_538.png",
+    "question": "Which is the new journal?",
+    "label": [
+        "annals of family medicine",
+        "Annals of Family Medicine"
+    ]
+}

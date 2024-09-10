@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 199632,
+    "caption": "three people sitting on a snow covered slope",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "person",
+        "winter",
+        "clothing",
+        "sled",
+        "sledding",
+        "freezing",
+        "winter sport",
+        "snowshoe",
+        "recreation",
+        "snowmobile",
+        "sitting",
+        "snowboarding",
+        "people"
+    ]
+}

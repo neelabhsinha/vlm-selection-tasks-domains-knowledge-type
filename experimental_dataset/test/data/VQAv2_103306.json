@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 103306,
+    "image_path": "./experimental_dataset/test/images/VQAv2_103306.png",
+    "question": "Does it look warm out?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

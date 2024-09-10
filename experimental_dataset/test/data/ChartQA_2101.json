@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2101,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2101.png",
+    "question": "What percentage of households in South Africa were female-headed as of 2019?",
+    "label": [
+        "41.8"
+    ]
+}

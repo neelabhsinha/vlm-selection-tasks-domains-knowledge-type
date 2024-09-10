@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 40581,
+    "caption": "a small room with a bed and a desk",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "bed",
+        "interior design",
+        "furniture",
+        "linens",
+        "floor",
+        "room",
+        "house",
+        "curtain",
+        "mirror",
+        "bed sheet",
+        "bedding",
+        "door",
+        "cabinetry",
+        "drawer",
+        "flooring",
+        "nightstand",
+        "bed frame",
+        "window treatment",
+        "chest of drawers",
+        "mattress",
+        "bedroom",
+        "hotel",
+        "vacation"
+    ]
+}

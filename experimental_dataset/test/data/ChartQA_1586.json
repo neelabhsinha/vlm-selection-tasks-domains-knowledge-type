@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1586,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1586.png",
+    "question": "How many downloads did 'Crysis 2' get in 2011?",
+    "label": [
+        "3.92"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 154882,
+    "caption": "a man holding a baby while sitting on a couch",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "indoor",
+        "comfort",
+        "boy",
+        "baby",
+        "toddler",
+        "lap",
+        "sitting",
+        "wall"
+    ]
+}

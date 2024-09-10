@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 947,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_947.png",
+    "question": "What are the items on the right?",
+    "label": "['canoes', 'boats', 'boats', 'canoes', 'boat', 'boats', 'boat', 'boats', 'boats', 'fishing boats']",
+    "choices": [
+        "chairs",
+        "pallets",
+        "boat",
+        "boxes"
+    ],
+    "correct_choice": "boat"
+}

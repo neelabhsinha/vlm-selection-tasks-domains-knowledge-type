@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 7169,
+    "caption": "people riding surfboards on top of a body of water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "shore",
+        "sky",
+        "nature",
+        "coastal and oceanic landforms",
+        "ocean",
+        "sea",
+        "coast",
+        "horizon",
+        "sound",
+        "landscape",
+        "wave",
+        "beach",
+        "mountain"
+    ]
+}

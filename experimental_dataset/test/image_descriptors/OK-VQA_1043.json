@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1043,
+    "caption": "a man wearing a suit and tie",
+    "object_tags": [
+        "clothing",
+        "person",
+        "gentleman",
+        "human face",
+        "collar",
+        "fashion accessory",
+        "fedora",
+        "headgear",
+        "formal wear",
+        "man",
+        "blazer",
+        "outerwear",
+        "coat",
+        "wearing",
+        "bowler hat",
+        "cap",
+        "suit",
+        "hat",
+        "black",
+        "black and white",
+        "fashion"
+    ]
+}

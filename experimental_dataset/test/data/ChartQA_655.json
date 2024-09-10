@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 655,
+    "image_path": "./experimental_dataset/test/images/ChartQA_655.png",
+    "question": "In how many years, the value of wholesale Price Index exceeds 120?",
+    "label": [
+        "2"
+    ]
+}

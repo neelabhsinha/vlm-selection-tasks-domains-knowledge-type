@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 505,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_505.png",
+    "question": "What shape are the items that are tied together by the rope?",
+    "label": "['round', 'circle', 'sphere', 'round', 'sphere', 'spheres', 'circles', 'circle', 'sphere', 'sphere']",
+    "choices": [
+        "triangle",
+        "rectangle",
+        "sphere",
+        "square"
+    ],
+    "correct_choice": "sphere"
+}

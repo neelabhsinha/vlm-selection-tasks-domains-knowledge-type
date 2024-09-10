@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 330,
+    "caption": "two men standing next to a blue truck",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "tree",
+        "tire",
+        "man",
+        "land vehicle",
+        "car",
+        "auto part",
+        "wheel",
+        "shorts",
+        "standing",
+        "people",
+        "ground",
+        "parked",
+        "looking",
+        "vehicle",
+        "trunk"
+    ]
+}

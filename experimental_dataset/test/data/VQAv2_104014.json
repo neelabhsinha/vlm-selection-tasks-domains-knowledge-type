@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 104014,
+    "image_path": "./experimental_dataset/test/images/VQAv2_104014.png",
+    "question": "What color is the batter's shirt?",
+    "label": [
+        "orange and black",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange and black",
+        "orange"
+    ]
+}

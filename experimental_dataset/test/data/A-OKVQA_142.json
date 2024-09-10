@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 142,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_142.png",
+    "question": "Why are the wood platforms strapped to the elephants?",
+    "label": "['transportation', 'transport people', 'carry things', 'for riding', 'carry things', 'ride', 'carrying', 'for riding', 'to ride', 'seat passengers']",
+    "choices": [
+        "to punish",
+        "to plow",
+        "to groom",
+        "to ride"
+    ],
+    "correct_choice": "to ride"
+}

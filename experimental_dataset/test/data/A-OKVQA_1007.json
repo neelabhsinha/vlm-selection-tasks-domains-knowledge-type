@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1007,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1007.png",
+    "question": "What kind of gathering does this look like?",
+    "label": "['reunion', 'potluck', 'thanksgiving', 'family', 'family', 'family gathering', 'family', 'holiday meal', 'dinner', 'family']",
+    "choices": [
+        "business",
+        "social",
+        "family",
+        "religious"
+    ],
+    "correct_choice": "family"
+}

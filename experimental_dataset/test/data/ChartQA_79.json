@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 79,
+    "image_path": "./experimental_dataset/test/images/ChartQA_79.png",
+    "question": "Which country ranked second highest in the bar chart?",
+    "label": [
+        "UK"
+    ]
+}

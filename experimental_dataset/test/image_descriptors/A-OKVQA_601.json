@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 601,
+    "caption": "a herd of elephants walking through a grassy field",
+    "object_tags": [
+        "outdoor",
+        "mammal",
+        "animal",
+        "tree",
+        "grass",
+        "wildlife",
+        "safari",
+        "plant",
+        "terrestrial animal",
+        "savanna",
+        "herd",
+        "nature reserve",
+        "grazing",
+        "field",
+        "group",
+        "walking",
+        "standing",
+        "forest",
+        "area",
+        "elephant"
+    ]
+}

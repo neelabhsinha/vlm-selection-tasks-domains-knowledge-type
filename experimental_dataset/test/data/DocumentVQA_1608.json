@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1608,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1608.png",
+    "question": "What is the underlined text in the last line?",
+    "label": [
+        "Piricularia oryzae"
+    ]
+}

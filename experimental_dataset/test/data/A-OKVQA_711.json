@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 711,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_711.png",
+    "question": "What is the light source in the room?",
+    "label": "['laptop', 'laptop', 'laptop', 'screen', 'laptop', 'laptop', 'screen', 'laptop', 'screen', 'laptop screen']",
+    "choices": [
+        "lamp",
+        "window",
+        "flashlight",
+        "laptop screen"
+    ],
+    "correct_choice": "laptop screen"
+}

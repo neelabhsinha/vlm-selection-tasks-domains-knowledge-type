@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1240,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1240.png",
+    "question": "Which gender consists of least coaches?",
+    "label": [
+        "Female"
+    ]
+}

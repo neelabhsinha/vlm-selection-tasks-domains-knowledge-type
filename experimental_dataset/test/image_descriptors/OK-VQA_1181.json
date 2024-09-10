@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1181,
+    "caption": "a sandwich on a plate on a table",
+    "object_tags": [
+        "food",
+        "bread",
+        "baked goods",
+        "fast food",
+        "plate",
+        "gluten",
+        "snack",
+        "american food",
+        "table",
+        "dish",
+        "staple food",
+        "serveware",
+        "banh",
+        "cuisine",
+        "banh ma",
+        "finger food",
+        "bagel",
+        "snack food",
+        "indoor",
+        "white",
+        "breakfast",
+        "sandwich"
+    ]
+}

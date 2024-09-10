@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 147,
+    "image_path": "./experimental_dataset/test/images/ChartQA_147.png",
+    "question": "What is the average of 'more mudslinging'?",
+    "label": [
+        "62.43"
+    ]
+}

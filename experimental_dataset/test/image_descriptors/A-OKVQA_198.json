@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 198,
+    "caption": "a man standing next to a horse drawn carriage",
+    "object_tags": [
+        "outdoor",
+        "cart",
+        "horse and buggy",
+        "carriage",
+        "rein",
+        "horse supplies",
+        "horse harness",
+        "bridle",
+        "halter",
+        "pack animal",
+        "mule",
+        "mare",
+        "horse",
+        "horse tack",
+        "chariot",
+        "ground",
+        "animal",
+        "mammal"
+    ]
+}

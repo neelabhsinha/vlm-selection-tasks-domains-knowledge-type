@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 571,
+    "image_path": "./experimental_dataset/test/images/ChartQA_571.png",
+    "question": "What is the average of global mismanaged plastic South Asia and Latin America and Caribbean?",
+    "label": [
+        "9.1"
+    ]
+}

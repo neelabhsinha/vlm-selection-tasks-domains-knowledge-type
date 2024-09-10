@@ -1,0 +1,11 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 591,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Justice"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge"
+    ]
+}

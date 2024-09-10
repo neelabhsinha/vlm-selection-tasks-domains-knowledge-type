@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 209523,
+    "caption": "a plate of food on a table",
+    "object_tags": [
+        "food",
+        "cuisine",
+        "dish",
+        "plate",
+        "ingredient",
+        "fast food",
+        "breakfast",
+        "garnish",
+        "staple food",
+        "meal",
+        "a la carte food",
+        "sandwich",
+        "egg",
+        "vegetable",
+        "indoor",
+        "cheese",
+        "plant",
+        "bread"
+    ]
+}

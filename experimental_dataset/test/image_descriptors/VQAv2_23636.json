@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 23636,
+    "caption": "a blue and white bus parked at a bus stop",
+    "object_tags": [
+        "text",
+        "transport",
+        "vehicle",
+        "wheel",
+        "sky",
+        "land vehicle",
+        "outdoor",
+        "bus",
+        "commercial vehicle",
+        "mode of transport",
+        "tire",
+        "road",
+        "truck",
+        "van",
+        "blue",
+        "parked",
+        "sign"
+    ]
+}

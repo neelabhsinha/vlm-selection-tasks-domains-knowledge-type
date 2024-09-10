@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 75,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_75.png",
+    "question": "Who has the same color hair as this woman?",
+    "label": "['maria sharapova', 'paris hilton', 'sitting guy', 'skin', 'swedish persons', 'spectectors', 'no one', 'no one', 'blake lively', 'heidi klum']",
+    "choices": [
+        "phoebe tonkin",
+        "maria sharapova",
+        "serena williams",
+        "nina dobrev"
+    ],
+    "correct_choice": "maria sharapova"
+}

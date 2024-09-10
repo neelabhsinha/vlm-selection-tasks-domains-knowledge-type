@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 18046,
+    "caption": "a cat wearing a bow tie",
+    "object_tags": [
+        "cat",
+        "small to medium-sized cats",
+        "domestic cat",
+        "whiskers",
+        "felidae",
+        "indoor",
+        "person",
+        "orange"
+    ]
+}

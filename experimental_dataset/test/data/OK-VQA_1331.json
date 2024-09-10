@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1331,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1331.png",
+    "question": "How many people fit in this type of vehicle?",
+    "label": [
+        "250",
+        "250",
+        "250",
+        "250",
+        "200",
+        "200",
+        "200",
+        "200",
+        "231",
+        "231"
+    ]
+}

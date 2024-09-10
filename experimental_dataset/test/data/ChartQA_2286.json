@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2286,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2286.png",
+    "question": "What percentage of women with a family income of 75,000 U.S. dollars and more were childless in 2010?",
+    "label": [
+        "51.1"
+    ]
+}

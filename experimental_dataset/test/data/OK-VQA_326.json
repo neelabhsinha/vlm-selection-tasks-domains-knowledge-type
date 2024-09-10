@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 326,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_326.png",
+    "question": "Can you name the place where this bird is seen?",
+    "label": [
+        "river",
+        "river",
+        "river",
+        "river",
+        "lake",
+        "lake",
+        "lake",
+        "lake",
+        "pond",
+        "pond"
+    ]
+}

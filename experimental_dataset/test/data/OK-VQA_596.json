@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 596,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_596.png",
+    "question": "Where can i get a coffee table like this?",
+    "label": [
+        "furniture store",
+        "furniture store",
+        "furniture store",
+        "furniture store",
+        "store",
+        "store",
+        "walmart",
+        "walmart",
+        "goodwill",
+        "goodwill"
+    ]
+}

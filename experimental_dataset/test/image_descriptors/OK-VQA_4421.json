@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4421,
+    "caption": "a large pile of luggage sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "black and white",
+        "building",
+        "tree",
+        "sky",
+        "waste container",
+        "road",
+        "ground",
+        "hotel"
+    ]
+}

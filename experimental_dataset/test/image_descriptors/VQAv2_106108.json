@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 106108,
+    "caption": "a plate of fish and vegetables on a table",
+    "object_tags": [
+        "food",
+        "vegetable",
+        "broccoli",
+        "ingredient",
+        "plate",
+        "cruciferous vegetables",
+        "indoor",
+        "carrot"
+    ]
+}

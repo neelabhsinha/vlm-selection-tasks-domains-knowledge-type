@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3046,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3046.png",
+    "question": "What company makes the drink?",
+    "label": [
+        "pepsi",
+        "pepsi",
+        "pepsi",
+        "pepsi",
+        "pepsico",
+        "pepsico",
+        "us",
+        "us",
+        "coca cola",
+        "coca cola"
+    ]
+}

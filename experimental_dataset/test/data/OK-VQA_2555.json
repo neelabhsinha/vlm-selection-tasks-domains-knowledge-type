@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2555,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2555.png",
+    "question": "How long would it usually take to bake this kind of cake?",
+    "label": [
+        "2 hours",
+        "2 hours",
+        "2 hours",
+        "2 hours",
+        "2 3 hours",
+        "2 3 hours",
+        "50 minutes",
+        "50 minutes",
+        "1 hour",
+        "1 hour"
+    ]
+}

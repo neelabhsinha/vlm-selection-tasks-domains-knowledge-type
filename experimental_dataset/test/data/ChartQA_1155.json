@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1155,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1155.png",
+    "question": "What is the ratio of commercial to unknown?",
+    "label": [
+        "2.625"
+    ]
+}

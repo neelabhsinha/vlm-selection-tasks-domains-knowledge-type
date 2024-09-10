@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 844,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_844.png",
+    "question": "What is the age of this woman?",
+    "label": "['eighty-five', 'seventy-five', 'elderly', '68', 'old', '60', 'senior', '64 years', 'old', 'old']",
+    "choices": [
+        "75",
+        "70",
+        "65",
+        "60"
+    ],
+    "correct_choice": "60"
+}

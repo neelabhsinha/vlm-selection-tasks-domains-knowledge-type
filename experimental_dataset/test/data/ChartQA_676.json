@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 676,
+    "image_path": "./experimental_dataset/test/images/ChartQA_676.png",
+    "question": "What year is represented in this data?",
+    "label": [
+        "2011"
+    ]
+}

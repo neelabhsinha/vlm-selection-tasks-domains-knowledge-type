@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 932,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_932.png",
+    "question": "What is this structure?",
+    "label": [
+        "ferris wheel",
+        "ferris wheel",
+        "ferris wheel",
+        "ferris wheel",
+        "firework",
+        "firework",
+        "wheel structure",
+        "wheel structure",
+        "clock",
+        "clock"
+    ]
+}

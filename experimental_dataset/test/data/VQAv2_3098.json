@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 3098,
+    "image_path": "./experimental_dataset/test/images/VQAv2_3098.png",
+    "question": "How many spokes are on the motorcycle wheel?",
+    "label": [
+        "7",
+        "many",
+        "7",
+        "many",
+        "6",
+        "6",
+        "7",
+        "6",
+        "7",
+        "16"
+    ]
+}

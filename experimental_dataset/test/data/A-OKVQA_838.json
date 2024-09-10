@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 838,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_838.png",
+    "question": "What does the white cloud emitted by the train contain?",
+    "label": "['steam', 'smoke', 'steam', 'smoke', 'steam', 'smog', 'smoke', 'steam', 'smoke', 'steam']",
+    "choices": [
+        "steam",
+        "fuel exhaust",
+        "wood smoke",
+        "pesticide"
+    ],
+    "correct_choice": "steam"
+}

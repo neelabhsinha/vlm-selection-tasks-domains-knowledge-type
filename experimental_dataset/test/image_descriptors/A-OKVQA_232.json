@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 232,
+    "caption": "a man and a woman are blowing out candles on a birthday cake",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "birthday cake",
+        "wall",
+        "candle",
+        "birthday",
+        "human face",
+        "cake",
+        "man",
+        "table",
+        "ceiling",
+        "woman",
+        "standing"
+    ]
+}

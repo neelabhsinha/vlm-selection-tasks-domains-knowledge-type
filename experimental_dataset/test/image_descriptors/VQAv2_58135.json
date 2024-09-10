@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 58135,
+    "caption": "a laptop computer sitting on top of a table",
+    "object_tags": [
+        "indoor",
+        "computer",
+        "laptop",
+        "personal computer",
+        "output device",
+        "person",
+        "electronic device",
+        "clothing",
+        "display device",
+        "computer hardware",
+        "flat panel display",
+        "netbook",
+        "wall",
+        "multimedia",
+        "electronics",
+        "input device",
+        "led-backlit lcd display",
+        "touchpad",
+        "gadget",
+        "space bar",
+        "peripheral"
+    ]
+}

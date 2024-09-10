@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 910,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_910.png",
+    "question": "What food is the brown powder sprinkled on the drink?",
+    "label": "['cocoa', 'cocoa', 'cocoa powder', 'coffee', 'desert', 'chocolate', 'cinnamon', 'coffee', 'cocoa powder', 'cinnamon']",
+    "choices": [
+        "soybean powder",
+        "coffee grounds",
+        "cocoa",
+        "cleansing clay"
+    ],
+    "correct_choice": "cocoa"
+}

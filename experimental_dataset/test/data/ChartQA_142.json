@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 142,
+    "image_path": "./experimental_dataset/test/images/ChartQA_142.png",
+    "question": "Is the median of green graph from 2002 to 2006 greater than smallest value of orange graph?",
+    "label": [
+        "No"
+    ]
+}

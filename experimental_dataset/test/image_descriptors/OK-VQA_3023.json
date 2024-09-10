@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3023,
+    "caption": "a man sitting on the ground next to an elephant",
+    "object_tags": [
+        "elephant",
+        "outdoor",
+        "clothing",
+        "person",
+        "elephants and mammoths",
+        "footwear",
+        "indian elephant",
+        "asian elephant",
+        "man",
+        "statue",
+        "ground",
+        "people",
+        "street",
+        "city"
+    ]
+}

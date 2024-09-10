@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 210839,
+    "image_path": "./experimental_dataset/test/images/VQAv2_210839.png",
+    "question": "Is this on the ground floor?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

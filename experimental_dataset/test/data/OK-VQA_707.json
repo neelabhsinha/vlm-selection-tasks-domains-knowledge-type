@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 707,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_707.png",
+    "question": "Where are produce like these normally grown?",
+    "label": [
+        "tropic",
+        "tropic",
+        "tropic",
+        "tropic",
+        "tropical area",
+        "tropical area",
+        "farm",
+        "farm",
+        "tree",
+        "tree"
+    ]
+}

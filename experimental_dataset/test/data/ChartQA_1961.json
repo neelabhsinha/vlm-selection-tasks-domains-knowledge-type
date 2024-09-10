@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1961,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1961.png",
+    "question": "How many passenger-kilometers was passenger transport in Lithuania in 2018?",
+    "label": [
+        "32702"
+    ]
+}

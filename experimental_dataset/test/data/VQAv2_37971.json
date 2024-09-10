@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 37971,
+    "image_path": "./experimental_dataset/test/images/VQAv2_37971.png",
+    "question": "Is there a toaster oven?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "counter",
+        "yes",
+        "yes",
+        "counter",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

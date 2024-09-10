@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3680,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3680.png",
+    "question": "what is the DTS Date ?",
+    "label": [
+        "1/15/01"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 636,
+    "caption": "a man riding a bike on top of a dirt road",
+    "object_tags": [
+        "wheel",
+        "tire",
+        "bicycle wheel",
+        "land vehicle",
+        "sky",
+        "outdoor",
+        "clothing",
+        "person",
+        "transport",
+        "vehicle",
+        "ground",
+        "cycling",
+        "bicycle",
+        "bike",
+        "riding",
+        "biking"
+    ]
+}

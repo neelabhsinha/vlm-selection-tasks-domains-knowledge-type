@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3218,
+    "caption": "a large truck carrying logs on top of it",
+    "object_tags": [
+        "wheel",
+        "outdoor",
+        "vehicle",
+        "sky",
+        "land vehicle",
+        "transport",
+        "tire",
+        "truck",
+        "auto part",
+        "trailer truck",
+        "freight transport",
+        "commercial vehicle",
+        "cargo",
+        "road",
+        "trailer"
+    ]
+}

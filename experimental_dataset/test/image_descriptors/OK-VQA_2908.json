@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2908,
+    "caption": "a cat sitting on top of a table next to a glass of wine",
+    "object_tags": [
+        "cat",
+        "indoor",
+        "tableware",
+        "animal",
+        "drink",
+        "wine",
+        "table",
+        "small to medium-sized cats",
+        "wine glass",
+        "barware",
+        "felidae",
+        "drinkware",
+        "wall",
+        "glass",
+        "glasses",
+        "floor"
+    ]
+}

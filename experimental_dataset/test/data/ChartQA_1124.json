@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1124,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1124.png",
+    "question": "What is percentage share of all new investors in 2019",
+    "label": [
+        "7"
+    ]
+}

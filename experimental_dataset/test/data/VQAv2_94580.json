@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 94580,
+    "image_path": "./experimental_dataset/test/images/VQAv2_94580.png",
+    "question": "How many steps are shown?",
+    "label": [
+        "4",
+        "4",
+        "4",
+        "1",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+    ]
+}

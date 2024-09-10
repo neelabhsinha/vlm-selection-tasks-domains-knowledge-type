@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3816,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3816.png",
+    "question": "What type of research is conducted?",
+    "label": [
+        "Consumer Focus Groups"
+    ]
+}

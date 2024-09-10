@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 47541,
+    "image_path": "./experimental_dataset/test/images/VQAv2_47541.png",
+    "question": "Is the carpet pink?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

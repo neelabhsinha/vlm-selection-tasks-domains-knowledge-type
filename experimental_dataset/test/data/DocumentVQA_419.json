@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 419,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_419.png",
+    "question": "What type of report is this?",
+    "label": [
+        "Trimegestone - publication and Abstract tracking report",
+        "Trimegestone - Publication and abstract tracking report",
+        "publication and Abstract tracking report"
+    ]
+}

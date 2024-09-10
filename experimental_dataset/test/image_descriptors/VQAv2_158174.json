@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 158174,
+    "caption": "three children sitting at a table with plates of food",
+    "object_tags": [
+        "clothing",
+        "person",
+        "toddler",
+        "human face",
+        "boy",
+        "baby",
+        "girl",
+        "sharing",
+        "family",
+        "play",
+        "food",
+        "table",
+        "child",
+        "indoor",
+        "eating",
+        "pizza",
+        "party"
+    ]
+}

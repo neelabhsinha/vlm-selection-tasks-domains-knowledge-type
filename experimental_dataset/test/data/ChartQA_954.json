@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 954,
+    "image_path": "./experimental_dataset/test/images/ChartQA_954.png",
+    "question": "Who received the highest percentage of votes?",
+    "label": [
+        "80"
+    ]
+}

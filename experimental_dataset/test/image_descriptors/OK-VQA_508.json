@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 508,
+    "caption": "a man in a suit and tie speaking to a group of people",
+    "object_tags": [
+        "human face",
+        "clothing",
+        "suit",
+        "person",
+        "businessperson",
+        "tie",
+        "white-collar worker",
+        "spokesperson",
+        "management",
+        "job",
+        "business",
+        "official",
+        "employment",
+        "speech",
+        "man",
+        "microphone",
+        "company",
+        "blazer",
+        "formal wear",
+        "orator",
+        "public speaking",
+        "speaker",
+        "news conference",
+        "indoor"
+    ]
+}

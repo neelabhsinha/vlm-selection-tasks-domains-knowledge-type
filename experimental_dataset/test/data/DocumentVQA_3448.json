@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3448,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3448.png",
+    "question": "Who is the supplier?",
+    "label": [
+        "Affinnova"
+    ]
+}

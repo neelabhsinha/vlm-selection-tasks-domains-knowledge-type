@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 31013,
+    "caption": "a large propeller plane flying over a waterway",
+    "object_tags": [
+        "outdoor",
+        "plane",
+        "transport",
+        "sky",
+        "vehicle",
+        "aviation",
+        "air travel",
+        "airplane",
+        "aerospace engineering",
+        "aircraft",
+        "air",
+        "ship",
+        "airport"
+    ]
+}

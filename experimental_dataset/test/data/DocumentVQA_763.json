@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 763,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_763.png",
+    "question": "Who is the European Medical Director?",
+    "label": [
+        "Dr. C. Baum MD"
+    ]
+}

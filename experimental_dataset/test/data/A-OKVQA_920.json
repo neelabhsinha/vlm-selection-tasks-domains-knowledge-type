@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 920,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_920.png",
+    "question": "What is the man wearing the baseball cap and sunglasses doing on the mountain?",
+    "label": "['skiing', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing', 'skiing']",
+    "choices": [
+        "camping",
+        "skating",
+        "running",
+        "skiing"
+    ],
+    "correct_choice": "skiing"
+}

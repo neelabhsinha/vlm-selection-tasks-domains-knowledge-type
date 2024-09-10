@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 1956,
+    "caption": "a collage of photos of a building with a blue sky",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "parallel",
+        "rectangle",
+        "software",
+        "design"
+    ]
+}

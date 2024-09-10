@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1093,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1093.png",
+    "question": "What rank is the man on the right?",
+    "label": [
+        "captain",
+        "captain",
+        "captain",
+        "captain",
+        "captain",
+        "captain",
+        "corporal",
+        "corporal",
+        "admiral",
+        "admiral"
+    ]
+}

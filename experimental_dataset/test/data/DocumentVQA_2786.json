@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2786,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2786.png",
+    "question": "What is the number on the postage stamp pasted on the envelope ?",
+    "label": [
+        "50"
+    ]
+}

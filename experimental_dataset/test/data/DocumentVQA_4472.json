@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4472,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4472.png",
+    "question": "What is RJR Brand ?",
+    "label": [
+        "MULTI-BRAND"
+    ]
+}

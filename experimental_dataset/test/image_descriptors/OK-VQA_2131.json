@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2131,
+    "caption": "an industrial kitchen with stainless steel appliances",
+    "object_tags": [
+        "indoor",
+        "kitchen appliance",
+        "kitchen",
+        "steel",
+        "home appliance",
+        "wall",
+        "countertop",
+        "cabinetry",
+        "sink",
+        "oven",
+        "floor",
+        "metal",
+        "stove",
+        "silver",
+        "refrigerator"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 135398,
+    "image_path": "./experimental_dataset/test/images/VQAv2_135398.png",
+    "question": "What are the suitcases lined up against?",
+    "label": [
+        "wall",
+        "rack",
+        "cart",
+        "floor",
+        "wall",
+        "luggage carrier",
+        "baggage cart",
+        "each other",
+        "wall",
+        "wall"
+    ]
+}

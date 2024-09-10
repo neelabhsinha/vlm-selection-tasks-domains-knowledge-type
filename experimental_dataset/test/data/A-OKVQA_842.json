@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 842,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_842.png",
+    "question": "What country is represented on his t-shirt?",
+    "label": "['usa', 'usa', 'united states', 'usa', 'usa', 'usa', 'usa', 'usa', 'usa', 'usa']",
+    "choices": [
+        "mexico",
+        "france",
+        "canada",
+        "united states"
+    ],
+    "correct_choice": "united states"
+}

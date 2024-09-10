@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 51051,
+    "caption": "people standing next to a train",
+    "object_tags": [
+        "transport",
+        "person",
+        "clothing",
+        "outdoor",
+        "footwear",
+        "train",
+        "ground",
+        "standing",
+        "people",
+        "car",
+        "woman"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 935,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_935.png",
+    "question": "Who is in the most danger from cars?",
+    "label": "['horses', 'bicyclist', 'horses', 'cyclist', 'bike', 'horses', 'horses', 'horses', 'biker', 'horses']",
+    "choices": [
+        "woman",
+        "bugs",
+        "horses",
+        "trees"
+    ],
+    "correct_choice": "horses"
+}

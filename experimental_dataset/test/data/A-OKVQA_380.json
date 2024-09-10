@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 380,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_380.png",
+    "question": "What brand made the shoes the hatless man on the left has on?",
+    "label": "['adidas', 'adidas', 'sketchers', 'puma', 'nike', 'nike', 'nike', 'adidas', 'adidas', 'adidas']",
+    "choices": [
+        "nike",
+        "sketchers",
+        "fila",
+        "adidas"
+    ],
+    "correct_choice": "adidas"
+}

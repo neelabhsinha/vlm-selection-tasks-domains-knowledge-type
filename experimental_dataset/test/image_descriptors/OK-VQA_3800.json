@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3800,
+    "caption": "a man and woman sitting at a table with plates of food",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "person",
+        "clothing",
+        "human face",
+        "furniture",
+        "table",
+        "tableware",
+        "family",
+        "smile",
+        "house",
+        "dining table",
+        "meal",
+        "dining room",
+        "food",
+        "room",
+        "people",
+        "woman",
+        "dining"
+    ]
+}

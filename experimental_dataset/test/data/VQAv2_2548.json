@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 2548,
+    "image_path": "./experimental_dataset/test/images/VQAv2_2548.png",
+    "question": "Does this little boy like pirates?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

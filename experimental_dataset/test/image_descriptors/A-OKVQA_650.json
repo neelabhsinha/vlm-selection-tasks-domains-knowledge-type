@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 650,
+    "caption": "two men and a woman standing in front of a display of donuts",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "smile",
+        "food",
+        "man",
+        "bakery",
+        "snack",
+        "standing",
+        "indoor"
+    ]
+}

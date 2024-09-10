@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 689,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_689.png",
+    "question": "What is the pattern of the hair?",
+    "label": "['stripes', 'striped', 'line pattern', 'mohawk', 'stripes', 'striped', 'zebra pattern', 'mohawk', 'striped', 'striped']",
+    "choices": [
+        "dots",
+        "striped",
+        "polka dots",
+        "solid"
+    ],
+    "correct_choice": "striped"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 559,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_559.png",
+    "question": "What kind of zone is this bike parked in?",
+    "label": "['pedestrian zone', 'pedestrian', 'pedestrian', 'pedestrian', 'pedestrian', 'pedestrian', 'pedestrian', 'pedestrian zone', 'pedestrian', 'pedestrian']",
+    "choices": [
+        "temporary",
+        "pedestrian",
+        "no parking",
+        "handicap"
+    ],
+    "correct_choice": "pedestrian"
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 130,
+    "caption": "a woman standing in front of a tour bus",
+    "object_tags": [
+        "clothing",
+        "bus",
+        "vehicle",
+        "text",
+        "man",
+        "woman",
+        "person",
+        "outdoor",
+        "street"
+    ]
+}

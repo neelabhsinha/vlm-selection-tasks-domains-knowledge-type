@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 681,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_681.png",
+    "question": "Whose trucks are they?",
+    "label": "['airport', 'airport', 'airport', \"airport's\", 'airport', 'airport', 'airport', 'airports', 'airport', 'airports']",
+    "choices": [
+        "firefighters",
+        "airport",
+        "pilots",
+        "passengers"
+    ],
+    "correct_choice": "airport"
+}

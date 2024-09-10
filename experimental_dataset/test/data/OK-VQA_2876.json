@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2876,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2876.png",
+    "question": "Why does it blow white smoke?",
+    "label": [
+        "steam",
+        "steam",
+        "steam",
+        "steam",
+        "it is powered by steam",
+        "it is powered by steam",
+        "engine cool",
+        "engine cool",
+        "from steam it produce",
+        "from steam it produce"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4987,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4987.png",
+    "question": "Where would one find these animals?",
+    "label": [
+        "africa",
+        "africa",
+        "africa",
+        "africa",
+        "africa",
+        "africa",
+        "africa",
+        "africa",
+        "african safari",
+        "african safari"
+    ]
+}

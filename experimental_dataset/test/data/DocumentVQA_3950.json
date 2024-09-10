@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3950,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3950.png",
+    "question": "IN OZARK region , in which county is the participation in the food donation program the highest?",
+    "label": [
+        "Reynolds"
+    ]
+}

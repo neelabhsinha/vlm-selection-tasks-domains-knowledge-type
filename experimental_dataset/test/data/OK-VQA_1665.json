@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1665,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1665.png",
+    "question": "What is the blue furniture used for?",
+    "label": [
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "to sit",
+        "to sit",
+        "relax",
+        "relax"
+    ]
+}

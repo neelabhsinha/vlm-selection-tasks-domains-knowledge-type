@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4637,
+    "caption": "a man standing in front of a tv in a living room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "clothing",
+        "furniture",
+        "house",
+        "person",
+        "interior design",
+        "table",
+        "floor",
+        "picture frame",
+        "television",
+        "desk",
+        "chair",
+        "flooring",
+        "wood flooring",
+        "cabinetry",
+        "den",
+        "laminate flooring",
+        "coffee table",
+        "shelf",
+        "window",
+        "standing",
+        "home",
+        "room"
+    ]
+}

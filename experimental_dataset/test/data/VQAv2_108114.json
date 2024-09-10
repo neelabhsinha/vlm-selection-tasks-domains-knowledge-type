@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 108114,
+    "image_path": "./experimental_dataset/test/images/VQAv2_108114.png",
+    "question": "How many lanes is this road?",
+    "label": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1"
+    ]
+}

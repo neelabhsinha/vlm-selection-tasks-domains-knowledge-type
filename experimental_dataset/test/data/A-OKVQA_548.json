@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 548,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_548.png",
+    "question": "Where is this person playing?",
+    "label": "['frisbee', 'backyard', 'back yard', 'frisbee', 'park', 'backyard', 'grass', 'backyard', 'outdoors', 'backyard']",
+    "choices": [
+        "gym",
+        "stadium",
+        "pool",
+        "backyard"
+    ],
+    "correct_choice": "backyard"
+}

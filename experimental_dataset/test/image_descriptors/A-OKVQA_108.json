@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 108,
+    "caption": "people standing around a food truck",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "building",
+        "bicycle",
+        "clothing",
+        "person",
+        "bicycle wheel",
+        "street",
+        "bike",
+        "marketplace",
+        "people",
+        "standing",
+        "sign",
+        "market"
+    ]
+}

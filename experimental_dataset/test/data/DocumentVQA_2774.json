@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2774,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2774.png",
+    "question": "What percentage of consumer contacts to consumer relations are related to Product Issues?",
+    "label": [
+        "4 %",
+        "4%",
+        "4"
+    ]
+}

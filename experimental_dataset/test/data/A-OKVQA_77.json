@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 77,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_77.png",
+    "question": "What is being made by the man?",
+    "label": "['kite', 'kite', 'kite', 'kite', 'kite', 'kite', 'kite', 'kite', 'kite', 'kite']",
+    "choices": [
+        "bow",
+        "kite",
+        "flag",
+        "anchor"
+    ],
+    "correct_choice": "kite"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 249,
+    "image_path": "./experimental_dataset/test/images/ChartQA_249.png",
+    "question": "What is the sum value of Somalia and Togo?",
+    "label": [
+        "38"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1414,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1414.png",
+    "question": "What is the 10th item in the list?",
+    "label": [
+        "Media Convention Attendance"
+    ]
+}

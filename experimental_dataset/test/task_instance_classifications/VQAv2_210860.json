@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 210860,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Nature",
+        "Movies"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge"
+    ]
+}

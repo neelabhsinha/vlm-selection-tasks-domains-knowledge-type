@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 149464,
+    "caption": "a park bench sitting on the side of a road",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "playground",
+        "ground",
+        "rack",
+        "bench",
+        "striped",
+        "blanket"
+    ]
+}

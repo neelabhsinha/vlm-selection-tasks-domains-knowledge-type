@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2072,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2072.png",
+    "question": "What percentage of GDP was Australia's public debt in 2019?",
+    "label": [
+        "47.47"
+    ]
+}

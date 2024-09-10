@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4345,
+    "caption": "a black dog sitting on the hood of a car",
+    "object_tags": [
+        "car",
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "mammal",
+        "dog",
+        "black",
+        "animal"
+    ]
+}

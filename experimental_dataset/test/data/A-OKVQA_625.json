@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 625,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_625.png",
+    "question": "What animal is near the water?",
+    "label": "['swan', 'swan', 'goose', 'swan', 'swan', 'goose', 'stork', 'stork', 'goose', 'swan']",
+    "choices": [
+        "rat",
+        "goose",
+        "dog",
+        "cat"
+    ],
+    "correct_choice": "goose"
+}

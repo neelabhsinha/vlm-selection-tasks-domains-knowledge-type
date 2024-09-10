@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1002,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1002.png",
+    "question": "What is the man doing with the ropes in his hands?",
+    "label": "['driving', 'guiding horse', 'driving carriage', 'guiding horses', 'whipping', 'leading horses', 'reins', 'driving horses', 'riding', 'holding horses']",
+    "choices": [
+        "sleeping",
+        "driving",
+        "fixing",
+        "eating"
+    ],
+    "correct_choice": "driving"
+}

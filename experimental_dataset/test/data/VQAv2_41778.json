@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 41778,
+    "image_path": "./experimental_dataset/test/images/VQAv2_41778.png",
+    "question": "Is the man wearing shades?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

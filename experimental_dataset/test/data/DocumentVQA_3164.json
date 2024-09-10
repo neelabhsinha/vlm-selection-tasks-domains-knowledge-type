@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3164,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3164.png",
+    "question": "Grid will need to be filled with whose information?",
+    "label": [
+        "Jamie and Gail"
+    ]
+}

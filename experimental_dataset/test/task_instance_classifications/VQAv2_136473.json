@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 136473,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Books",
+        "Computer Science",
+        "Linguistics"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Technical Knowledge"
+    ]
+}

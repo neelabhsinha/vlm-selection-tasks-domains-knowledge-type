@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1871,
+    "caption": "a white plate topped with a banana and ice cream",
+    "object_tags": [
+        "food",
+        "plate",
+        "dish",
+        "cuisine",
+        "meal",
+        "table",
+        "platter",
+        "culinary art",
+        "a la carte food",
+        "fast food",
+        "breakfast",
+        "brunch",
+        "tableware",
+        "dishware",
+        "indoor",
+        "garnish",
+        "white",
+        "restaurant"
+    ]
+}

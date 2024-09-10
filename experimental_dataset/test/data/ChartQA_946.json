@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 946,
+    "image_path": "./experimental_dataset/test/images/ChartQA_946.png",
+    "question": "How much Apparels were sold in 2009 ?",
+    "label": [
+        "3.7"
+    ]
+}

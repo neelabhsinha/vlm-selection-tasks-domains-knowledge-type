@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55200,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55200.png",
+    "question": "What brand of bike is it?",
+    "label": [
+        "schwinn",
+        "yuma",
+        "don't know",
+        "huffy",
+        "pony track",
+        "hurley",
+        "can't tell",
+        "schwinn",
+        "van van",
+        "schwinn"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1477,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1477.png",
+    "question": "What was the total amount of nursing home expenditure in the United States in 2018?",
+    "label": [
+        "169.1"
+    ]
+}

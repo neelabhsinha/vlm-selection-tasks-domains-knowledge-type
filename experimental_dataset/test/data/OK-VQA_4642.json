@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4642,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4642.png",
+    "question": "What color filter was used on this photo to achieve an aged look?",
+    "label": [
+        "sepia",
+        "sepia",
+        "sepia",
+        "sepia",
+        "sepia",
+        "sepia",
+        "vintage",
+        "vintage",
+        "black and white",
+        "black and white"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 320,
+    "caption": "a skateboarder doing a trick at a skate park",
+    "object_tags": [
+        "sport",
+        "person",
+        "clothing",
+        "jumping",
+        "stunt",
+        "sports equipment",
+        "air",
+        "stunt performer",
+        "sports",
+        "man",
+        "performing",
+        "flip (acrobatic)",
+        "street stunts",
+        "skating",
+        "jump",
+        "indoor",
+        "crowd",
+        "skate",
+        "high",
+        "skateboard"
+    ]
+}

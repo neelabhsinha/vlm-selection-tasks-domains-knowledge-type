@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 142,
+    "caption": "a large elephant is walking through a forest",
+    "object_tags": [
+        "elephant",
+        "mammal",
+        "animal",
+        "outdoor",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "plant",
+        "tree",
+        "african elephant",
+        "tusk",
+        "zoo",
+        "mahout",
+        "ground",
+        "standing"
+    ]
+}

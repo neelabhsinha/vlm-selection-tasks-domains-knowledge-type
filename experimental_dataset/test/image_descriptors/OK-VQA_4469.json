@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4469,
+    "caption": "a person holding a cell phone in their hand",
+    "object_tags": [
+        "person",
+        "ground",
+        "clothing",
+        "fashion accessory",
+        "outdoor",
+        "nail",
+        "street fashion",
+        "ankle",
+        "blue",
+        "feet"
+    ]
+}

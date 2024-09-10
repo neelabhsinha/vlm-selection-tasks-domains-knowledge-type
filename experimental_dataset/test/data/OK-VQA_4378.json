@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4378,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4378.png",
+    "question": "How many pieces of fruit are in this picture?",
+    "label": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2"
+    ]
+}

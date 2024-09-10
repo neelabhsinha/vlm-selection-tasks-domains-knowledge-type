@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1107,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1107.png",
+    "question": "What can be divined from the thing hanging on the fridge?",
+    "label": "['date', 'table', 'things', 'dates', 'calcender', 'new innovation', 'kitchen', 'kitchen', 'date', 'calender']",
+    "choices": [
+        "date",
+        "family organization",
+        "todays homework",
+        "time"
+    ],
+    "correct_choice": "date"
+}

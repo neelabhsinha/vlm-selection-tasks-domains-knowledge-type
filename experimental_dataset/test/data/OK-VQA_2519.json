@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2519,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2519.png",
+    "question": "How do you know they are competing?",
+    "label": [
+        "number",
+        "number",
+        "number",
+        "number",
+        "nu ber",
+        "nu ber",
+        "race number",
+        "race number",
+        "they have number",
+        "they have number"
+    ]
+}

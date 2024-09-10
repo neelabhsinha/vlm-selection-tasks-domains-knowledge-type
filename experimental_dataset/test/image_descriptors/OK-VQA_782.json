@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 782,
+    "caption": "a large group of people flying kites in the air",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "airshow",
+        "plane",
+        "people",
+        "person",
+        "man",
+        "aircraft",
+        "tree",
+        "clothing",
+        "transport",
+        "group",
+        "air travel",
+        "vehicle",
+        "crowd",
+        "smoke",
+        "jet",
+        "large",
+        "air",
+        "airplane",
+        "standing",
+        "aviation"
+    ]
+}

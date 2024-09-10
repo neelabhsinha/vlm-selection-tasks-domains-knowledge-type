@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 188036,
+    "caption": "a herd of cows standing on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "car",
+        "land vehicle",
+        "vehicle",
+        "road",
+        "wheel",
+        "street",
+        "asphalt",
+        "road surface",
+        "waste container",
+        "public space",
+        "grass",
+        "ground",
+        "city"
+    ]
+}

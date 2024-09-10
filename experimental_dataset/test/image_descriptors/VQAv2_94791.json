@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 94791,
+    "caption": "a woman holding a cell phone in her hand",
+    "object_tags": [
+        "person",
+        "human face",
+        "smile",
+        "clothing",
+        "woman",
+        "sleeve",
+        "top",
+        "outerwear",
+        "dark",
+        "fashion",
+        "fashion accessory",
+        "holding",
+        "standing",
+        "night",
+        "posing",
+        "jacket",
+        "wearing",
+        "indoor",
+        "girl"
+    ]
+}

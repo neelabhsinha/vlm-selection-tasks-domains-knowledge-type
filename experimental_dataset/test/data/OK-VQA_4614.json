@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4614,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4614.png",
+    "question": "What game console is that man playing?",
+    "label": [
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "nintendo wii",
+        "nintendo wii"
+    ]
+}

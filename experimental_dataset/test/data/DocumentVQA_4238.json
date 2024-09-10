@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4238,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4238.png",
+    "question": "What has been the greatest concern for non-smokers in 1986?",
+    "label": [
+        "Maintaining right weight"
+    ]
+}

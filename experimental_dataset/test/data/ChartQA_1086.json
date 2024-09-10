@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1086,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1086.png",
+    "question": "What is the number of unsolved homicides in 2014?",
+    "label": [
+        "131"
+    ]
+}

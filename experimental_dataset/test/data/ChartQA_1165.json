@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1165,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1165.png",
+    "question": "What many countries have a value above 49%?",
+    "label": [
+        "3"
+    ]
+}

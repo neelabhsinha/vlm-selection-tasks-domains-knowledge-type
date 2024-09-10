@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1901,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1901.png",
+    "question": "What is the tallest of this type of building in the world?",
+    "label": [
+        "big ben",
+        "big ben",
+        "big ben",
+        "big ben",
+        "1972 feet high",
+        "1972 feet high",
+        "burj khalifa",
+        "burj khalifa",
+        "ulm minster",
+        "ulm minster"
+    ]
+}

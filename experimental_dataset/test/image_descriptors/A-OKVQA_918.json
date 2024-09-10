@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 918,
+    "caption": "a living room with a couch and a coffee table",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "couch",
+        "interior design",
+        "studio couch",
+        "sofa bed",
+        "den",
+        "loveseat",
+        "pillow",
+        "coffee table",
+        "room",
+        "house",
+        "cushion",
+        "floor",
+        "lampshade",
+        "armrest",
+        "sleeper chair",
+        "table",
+        "throw pillow",
+        "club chair",
+        "sofa",
+        "living room",
+        "furniture"
+    ]
+}

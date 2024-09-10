@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 114131,
+    "image_path": "./experimental_dataset/test/images/VQAv2_114131.png",
+    "question": "What is the symbol on the tail of the plane?",
+    "label": [
+        "cross",
+        "cross",
+        "+",
+        "cross",
+        "cross",
+        "medical",
+        "cross",
+        "cross",
+        "white cross",
+        "cross"
+    ]
+}

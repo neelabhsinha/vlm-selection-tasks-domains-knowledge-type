@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 194347,
+    "image_path": "./experimental_dataset/test/images/VQAv2_194347.png",
+    "question": "Where is the microwave?",
+    "label": [
+        "inside cabinet",
+        "above counter on right",
+        "up",
+        "wall",
+        "above oven",
+        "above counter",
+        "above shelf",
+        "right top cabinet",
+        "above counter",
+        "built into cabinet"
+    ]
+}

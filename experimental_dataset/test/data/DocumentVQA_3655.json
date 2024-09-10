@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3655,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3655.png",
+    "question": "What is the 'number of pages including cover sheet'?",
+    "label": [
+        "3"
+    ]
+}

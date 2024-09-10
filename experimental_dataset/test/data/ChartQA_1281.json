@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1281,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1281.png",
+    "question": "What was the percentage of immigrants in France in 2015?",
+    "label": [
+        "9.3"
+    ]
+}

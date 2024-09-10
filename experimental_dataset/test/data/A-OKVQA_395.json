@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 395,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_395.png",
+    "question": "What type of lens was used to give this particular photo the distorted look?",
+    "label": "['grayscale', 'fisheye', 'wide angle', 'fisheye', 'fisheye', 'wide angle', 'magnifying', 'fish eye', 'camera lens', 'fisheye']",
+    "choices": [
+        "hubble",
+        "old time",
+        "fish eye",
+        "cats eye"
+    ],
+    "correct_choice": "fish eye"
+}

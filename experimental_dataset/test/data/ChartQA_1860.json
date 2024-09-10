@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1860,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1860.png",
+    "question": "How much revenue did Caesars generate from its casinos and pari-mutuel commissions in 2020?",
+    "label": [
+        "2337"
+    ]
+}

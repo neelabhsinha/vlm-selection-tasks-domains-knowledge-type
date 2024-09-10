@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 991,
+    "caption": "a white truck driving down a city street",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "outdoor",
+        "sky",
+        "tire",
+        "transport",
+        "text",
+        "road",
+        "car",
+        "truck",
+        "auto part",
+        "mode of transport",
+        "motor vehicle",
+        "street",
+        "man",
+        "emergency service"
+    ]
+}

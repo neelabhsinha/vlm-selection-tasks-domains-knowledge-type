@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 775,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_775.png",
+    "question": "What causes auras around traffic lights when photos are taken at night?",
+    "label": [
+        "glare",
+        "glare",
+        "lens",
+        "lens",
+        "glare",
+        "glare",
+        "reflect",
+        "reflect",
+        "lens",
+        "lens"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1511,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1511.png",
+    "question": "Where can i buy clothes similar to hers online?",
+    "label": [
+        "amazon",
+        "amazon",
+        "amazon",
+        "amazon",
+        "gap",
+        "gap",
+        "kohl",
+        "kohl",
+        "old navy",
+        "old navy"
+    ]
+}

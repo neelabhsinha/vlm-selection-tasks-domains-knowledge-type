@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 17163,
+    "image_path": "./experimental_dataset/test/images/VQAv2_17163.png",
+    "question": "What is the girl doing?",
+    "label": [
+        "eating cake",
+        "eating cake",
+        "eating",
+        "putting fork in mouth",
+        "eating cake",
+        "eating",
+        "eating",
+        "eating",
+        "eating cake",
+        "eating"
+    ]
+}

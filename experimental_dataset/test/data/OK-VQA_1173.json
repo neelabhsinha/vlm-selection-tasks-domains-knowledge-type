@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1173,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1173.png",
+    "question": "How old is this vehicle?",
+    "label": [
+        "100 years",
+        "100 years",
+        "100 years",
+        "100 years",
+        "84 years old",
+        "84 years old",
+        "110 years",
+        "110 years",
+        "69",
+        "69"
+    ]
+}

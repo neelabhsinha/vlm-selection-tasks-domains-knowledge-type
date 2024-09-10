@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 682,
+    "caption": "a kitchen with a sink and a window",
+    "object_tags": [
+        "indoor",
+        "countertop",
+        "sink",
+        "ceiling",
+        "cabinetry",
+        "wall",
+        "floor",
+        "window",
+        "interior design",
+        "cupboard",
+        "tap",
+        "furniture",
+        "home appliance",
+        "room",
+        "drawer",
+        "kitchen appliance",
+        "kitchen",
+        "house",
+        "home",
+        "island"
+    ]
+}

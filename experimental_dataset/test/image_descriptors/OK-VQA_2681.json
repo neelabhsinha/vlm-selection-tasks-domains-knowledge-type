@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2681,
+    "caption": "two people cross country skiing in the snow",
+    "object_tags": [
+        "outdoor",
+        "footwear",
+        "winter",
+        "clothing",
+        "person",
+        "car",
+        "tree",
+        "freezing",
+        "vehicle",
+        "blizzard",
+        "winter storm",
+        "land vehicle",
+        "snow",
+        "street",
+        "residential"
+    ]
+}

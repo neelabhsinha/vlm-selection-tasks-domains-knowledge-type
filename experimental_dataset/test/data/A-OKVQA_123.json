@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 123,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_123.png",
+    "question": "What is placed on the ground that will eventually turn yellow?",
+    "label": "['banana', 'bananas', 'bananas', 'bananas', 'banana', 'bananas', 'bananas', 'banana', 'bananas', 'bananas']",
+    "choices": [
+        "bananas",
+        "pears",
+        "tomatoes",
+        "apples"
+    ],
+    "correct_choice": "bananas"
+}

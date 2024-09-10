@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 29,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_29.png",
+    "question": "What is closest to the tree trunk?",
+    "label": "['building', 'woman', 'woman', 'dirt', 'ground', 'closed doors', 'flower wreath', 'bike', 'woman', 'not applicable']",
+    "choices": [
+        "closed doors",
+        "walking person",
+        "sitting person",
+        "open doors"
+    ],
+    "correct_choice": "closed doors"
+}

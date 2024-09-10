@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 39,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_39.png",
+    "question": "What is the bin on the left made from?",
+    "label": "['metal', 'metal', 'metal', 'food tray', 'wood', 'steel', 'aluminum', 'metal', 'steel', 'metal']",
+    "choices": [
+        "plastic",
+        "ceramic",
+        "steel",
+        "glass"
+    ],
+    "correct_choice": "steel"
+}

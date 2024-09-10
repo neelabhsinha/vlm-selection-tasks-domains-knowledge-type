@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 627,
+    "image_path": "./experimental_dataset/test/images/ChartQA_627.png",
+    "question": "What's the percentage value of people that would spend time in Poland?",
+    "label": [
+        "73"
+    ]
+}

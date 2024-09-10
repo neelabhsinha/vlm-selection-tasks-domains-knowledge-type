@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 95,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_95.png",
+    "question": "What type of city district is this?",
+    "label": "['downtown', 'downtown', 'commercial', 'shopping', 'urban', 'urban', 'shopping', 'commercial', 'hipster commercial', 'shopping']",
+    "choices": [
+        "government",
+        "warehouse",
+        "commercial",
+        "residential"
+    ],
+    "correct_choice": "commercial"
+}

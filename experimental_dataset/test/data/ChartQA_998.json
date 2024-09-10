@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 998,
+    "image_path": "./experimental_dataset/test/images/ChartQA_998.png",
+    "question": "What color bar is the shortest?",
+    "label": [
+        "light blue"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 650,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_650.png",
+    "question": "What are the non iced baked items shown boiled in?",
+    "label": "['water', 'ice cubes', 'bagels', 'water', 'vegetable oil', 'cooking oil', 'oil', 'bagels', 'sprinkles', 'water']",
+    "choices": [
+        "icing",
+        "water",
+        "sesame oil",
+        "lard"
+    ],
+    "correct_choice": "water"
+}

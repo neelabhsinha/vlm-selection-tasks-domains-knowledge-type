@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4729,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Books",
+        "News",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Other"
+    ]
+}

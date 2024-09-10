@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1083,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1083.png",
+    "question": "What is the ratio between Product sales and service in 2020 ?",
+    "label": [
+        "5.546"
+    ]
+}

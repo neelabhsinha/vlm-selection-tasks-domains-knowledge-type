@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1562,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1562.png",
+    "question": "How much revenue is Instagram projected to generate in the fourth quarter of 2020?",
+    "label": [
+        "6.8"
+    ]
+}

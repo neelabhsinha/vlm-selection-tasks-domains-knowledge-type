@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2389,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2389.png",
+    "question": "What is the brand name of this place?",
+    "label": [
+        "hilton",
+        "hilton",
+        "hilton",
+        "hilton",
+        "hotel",
+        "hotel",
+        "hyatt",
+        "hyatt",
+        "w hotel",
+        "w hotel"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3466,
+    "caption": "a little girl standing on top of a bed",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "room",
+        "linens",
+        "bed sheet",
+        "toddler",
+        "bedroom",
+        "bedding",
+        "clothing",
+        "furniture",
+        "bed frame",
+        "girl",
+        "person",
+        "bed"
+    ]
+}

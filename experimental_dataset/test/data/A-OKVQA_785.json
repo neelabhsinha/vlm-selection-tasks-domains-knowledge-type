@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 785,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_785.png",
+    "question": "The airliner is in what position?",
+    "label": "['parked', 'in taxi', 'loading', 'loading', 'rest', 'passenger loading', 'landing', 'parked', 'parked', 'gate']",
+    "choices": [
+        "taking off",
+        "passenger loading",
+        "fuleing",
+        "landing"
+    ],
+    "correct_choice": "passenger loading"
+}

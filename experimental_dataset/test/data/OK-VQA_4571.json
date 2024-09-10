@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4571,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4571.png",
+    "question": "What meat comes from this animal?",
+    "label": [
+        "mutton",
+        "mutton",
+        "mutton",
+        "mutton",
+        "mutton",
+        "mutton",
+        "lamb chop",
+        "lamb chop",
+        "lamb",
+        "lamb"
+    ]
+}

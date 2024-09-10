@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3636,
+    "caption": "a man taking a picture of himself in a mirror",
+    "object_tags": [
+        "person",
+        "indoor",
+        "cameras & optics",
+        "circle",
+        "wall",
+        "mirror",
+        "camera",
+        "reflection"
+    ]
+}

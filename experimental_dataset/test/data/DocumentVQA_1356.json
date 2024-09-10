@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1356,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1356.png",
+    "question": "What is the y axis of first plot?",
+    "label": [
+        "VOLTAGE(mV VS Ag/AgCl",
+        "Voltage (mV vs Ag/AgCl)"
+    ]
+}

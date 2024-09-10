@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2134,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2134.png",
+    "question": "What was the crude birth rate in Yemen in 2018?",
+    "label": [
+        "30.45"
+    ]
+}

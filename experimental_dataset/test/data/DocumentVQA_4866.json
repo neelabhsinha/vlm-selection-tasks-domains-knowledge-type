@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4866,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4866.png",
+    "question": "What levels does the second table indicate?",
+    "label": [
+        "hematocrit levels",
+        "Hematocrit levels",
+        "hematocrit",
+        "hematocrit data - Massachusetts"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 148024,
+    "caption": "horses are walking along the beach",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "ground",
+        "horse",
+        "beach",
+        "water",
+        "landscape",
+        "people",
+        "nature",
+        "group",
+        "mountain"
+    ]
+}

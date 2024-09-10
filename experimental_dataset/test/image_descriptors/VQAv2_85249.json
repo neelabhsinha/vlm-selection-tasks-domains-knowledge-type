@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 85249,
+    "caption": "a green and yellow train traveling down train tracks",
+    "object_tags": [
+        "railroad",
+        "transport",
+        "outdoor",
+        "track",
+        "vehicle",
+        "train",
+        "sky",
+        "land vehicle",
+        "tree",
+        "locomotive",
+        "railway",
+        "rolling",
+        "rolling stock",
+        "freight transport",
+        "cargo",
+        "freight",
+        "railroad car",
+        "traveling",
+        "ground",
+        "yellow",
+        "rail"
+    ]
+}

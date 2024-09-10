@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 574,
+    "image_path": "./experimental_dataset/test/images/ChartQA_574.png",
+    "question": "What percentage of people in Malaysia think that University is more important for boys?",
+    "label": [
+        "43"
+    ]
+}

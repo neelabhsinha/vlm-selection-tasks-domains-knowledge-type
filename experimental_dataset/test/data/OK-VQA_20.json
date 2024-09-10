@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 20,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_20.png",
+    "question": "Why is this plugged in?",
+    "label": [
+        "charge",
+        "charge",
+        "charge",
+        "charge",
+        "to have power and work",
+        "to have power and work",
+        "power",
+        "power",
+        "outlet",
+        "outlet"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2830,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2830.png",
+    "question": "How much is  \"Pay Percent%\"?",
+    "label": [
+        "100%"
+    ]
+}

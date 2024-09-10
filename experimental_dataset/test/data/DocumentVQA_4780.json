@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4780,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4780.png",
+    "question": "What is the second base used for the statistical test?",
+    "label": [
+        "recall offer",
+        "Recall offer"
+    ]
+}

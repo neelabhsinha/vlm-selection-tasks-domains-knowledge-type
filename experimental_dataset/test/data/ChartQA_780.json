@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 780,
+    "image_path": "./experimental_dataset/test/images/ChartQA_780.png",
+    "question": "What is the retail share of Bed & Bathroom?",
+    "label": [
+        "22"
+    ]
+}

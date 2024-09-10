@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 717,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_717.png",
+    "question": "What object shown seems most unusual?",
+    "label": "['traffic light', 'traffic light', 'traffic lights', 'tilting light', 'leaning pole', 'light', 'traffic lights', 'traffic light', 'traffic light', 'pole']",
+    "choices": [
+        "pedestrians",
+        "ernest jones",
+        "traffic light",
+        "street"
+    ],
+    "correct_choice": "traffic light"
+}

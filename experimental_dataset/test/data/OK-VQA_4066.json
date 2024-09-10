@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4066,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4066.png",
+    "question": "Why are they in the middle of the street?",
+    "label": [
+        "walk",
+        "walk",
+        "walk",
+        "walk",
+        "travel",
+        "travel",
+        "cross",
+        "cross",
+        "cross street",
+        "cross street"
+    ]
+}

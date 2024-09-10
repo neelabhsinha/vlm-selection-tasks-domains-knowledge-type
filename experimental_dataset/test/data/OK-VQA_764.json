@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 764,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_764.png",
+    "question": "What is the name of the bird in this picture?",
+    "label": [
+        "eagle",
+        "eagle",
+        "eagle",
+        "eagle",
+        "eagle",
+        "eagle",
+        "eagle",
+        "eagle",
+        "hawk",
+        "hawk"
+    ]
+}

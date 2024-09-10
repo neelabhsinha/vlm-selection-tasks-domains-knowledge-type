@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 98311,
+    "image_path": "./experimental_dataset/test/images/VQAv2_98311.png",
+    "question": "What is behind the red bus?",
+    "label": [
+        "cars",
+        "pink car",
+        "cars",
+        "cars",
+        "motorcycles",
+        "red car",
+        "cars",
+        "car",
+        "cars",
+        "red car"
+    ]
+}

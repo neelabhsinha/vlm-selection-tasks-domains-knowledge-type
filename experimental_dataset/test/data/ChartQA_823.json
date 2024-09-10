@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 823,
+    "image_path": "./experimental_dataset/test/images/ChartQA_823.png",
+    "question": "The mode minus the average of the item expenditures equal to what?",
+    "label": [
+        "2.33"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4141,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4141.png",
+    "question": "what is the invoice number?",
+    "label": [
+        "879506"
+    ]
+}

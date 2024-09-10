@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2822,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2822.png",
+    "question": "Can you guess the place where these people are playing?",
+    "label": [
+        "tennis court",
+        "tennis court",
+        "tennis court",
+        "tennis court",
+        "tennis court",
+        "tennis court",
+        "tennis court",
+        "tennis court",
+        "court",
+        "court"
+    ]
+}

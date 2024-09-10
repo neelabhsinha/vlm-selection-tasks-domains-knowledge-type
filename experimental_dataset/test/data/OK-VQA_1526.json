@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1526,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1526.png",
+    "question": "What is the style of the room?",
+    "label": [
+        "victorian",
+        "victorian",
+        "victorian",
+        "victorian",
+        "antique",
+        "antique",
+        "antique",
+        "antique",
+        "colonial",
+        "colonial"
+    ]
+}

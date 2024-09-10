@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3735,
+    "caption": "a woman standing on the side of a road near a bus",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "mountain",
+        "black and white",
+        "water",
+        "ground",
+        "person",
+        "land vehicle",
+        "bus",
+        "transport",
+        "standing",
+        "grass",
+        "monochrome"
+    ]
+}

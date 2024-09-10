@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 404,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_404.png",
+    "question": "Which shape outer walls do the persons sit in for the best view of the airport?",
+    "label": "['rectangular', 'triangle', 'square', 'window seat', 'oval', 'circle', 'circular', 'round', 'triangle', 'rectangle']",
+    "choices": [
+        "square",
+        "triangle",
+        "rectangular",
+        "round"
+    ],
+    "correct_choice": "round"
+}

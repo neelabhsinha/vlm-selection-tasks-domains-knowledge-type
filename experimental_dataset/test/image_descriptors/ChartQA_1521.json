@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 1521,
+    "caption": "an aerial view of a computer generated image of a penguin",
+    "object_tags": [
+        "text",
+        "line",
+        "screenshot",
+        "plot",
+        "number",
+        "font",
+        "diagram",
+        "parallel"
+    ]
+}

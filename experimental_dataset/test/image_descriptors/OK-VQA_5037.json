@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5037,
+    "caption": "a table topped with plates of food and glasses of wine",
+    "object_tags": [
+        "food",
+        "meal",
+        "tableware",
+        "fast food",
+        "table",
+        "drink",
+        "supper",
+        "cuisine",
+        "plate",
+        "brunch",
+        "platter",
+        "indoor",
+        "wine glass",
+        "lunch",
+        "snack",
+        "dinner",
+        "delicacy",
+        "baked goods",
+        "wine",
+        "salad",
+        "tray",
+        "dish"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1825,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1825.png",
+    "question": "Which generation of Russians lost weight during the lockdown?",
+    "label": [
+        "Generation Z"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 53891,
+    "image_path": "./experimental_dataset/test/images/VQAv2_53891.png",
+    "question": "Name four colors on this pizza?",
+    "label": [
+        "yellow orange brown green",
+        "yellow, green, black, brown",
+        "yellow, green, black, brown",
+        "green, yellow, black, brown",
+        "green orange black and white",
+        "green, yellow, black, and white",
+        "yellow, green, black, brown",
+        "green, black, yellow, green",
+        "black, brown, green, red",
+        "black yellow green and white"
+    ]
+}

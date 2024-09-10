@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5035,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5035.png",
+    "question": "If you ask someone to put their name on a piece of paper for your personal pleasure you are asking for their what?",
+    "label": [
+        "autograph",
+        "autograph",
+        "autograph",
+        "autograph",
+        "autograph",
+        "autograph",
+        "autograph",
+        "autograph",
+        "signature",
+        "signature"
+    ]
+}

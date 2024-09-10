@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 38325,
+    "image_path": "./experimental_dataset/test/images/VQAv2_38325.png",
+    "question": "What season is it?",
+    "label": [
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter"
+    ]
+}

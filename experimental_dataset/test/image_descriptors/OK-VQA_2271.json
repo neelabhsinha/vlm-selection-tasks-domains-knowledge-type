@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2271,
+    "caption": "men standing next to a truck",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "person",
+        "clothing",
+        "man",
+        "bus",
+        "vehicle",
+        "footwear",
+        "land vehicle",
+        "group",
+        "people",
+        "standing",
+        "ground"
+    ]
+}

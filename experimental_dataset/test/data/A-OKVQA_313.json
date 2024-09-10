@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 313,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_313.png",
+    "question": "What type of dog is it?",
+    "label": "['german shepherd', 'german shepard', 'german shepherd', 'german shepard', 'german shepard', 'domestic pet', 'german shepard', 'german shepherd', 'german shepherd', 'german shepherd']",
+    "choices": [
+        "domestic pet",
+        "stray dog",
+        "service dog",
+        "police dog"
+    ],
+    "correct_choice": "domestic pet"
+}

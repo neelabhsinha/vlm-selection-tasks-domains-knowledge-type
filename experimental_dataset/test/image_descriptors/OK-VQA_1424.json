@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1424,
+    "caption": "a man standing next to a refrigerator in a kitchen",
+    "object_tags": [
+        "clothing",
+        "person",
+        "kitchen appliance",
+        "indoor",
+        "home appliance",
+        "appliance",
+        "man",
+        "shorts",
+        "wall",
+        "kitchen",
+        "standing",
+        "refrigerator",
+        "ceiling"
+    ]
+}

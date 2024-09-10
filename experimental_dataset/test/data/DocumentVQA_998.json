@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 998,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_998.png",
+    "question": "Has the registrant submitted electronically and posted on its website every Interactive data File required?",
+    "label": [
+        "YES",
+        "Yes"
+    ]
+}

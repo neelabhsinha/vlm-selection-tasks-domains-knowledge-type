@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 92,
+    "caption": "a number of vases sitting on top of a grass field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "sky",
+        "cloud",
+        "statue",
+        "field",
+        "person",
+        "standing"
+    ]
+}

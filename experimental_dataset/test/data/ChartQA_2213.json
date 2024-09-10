@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2213,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2213.png",
+    "question": "What was the sales volume of soy sauce in 2019?",
+    "label": [
+        "6536"
+    ]
+}

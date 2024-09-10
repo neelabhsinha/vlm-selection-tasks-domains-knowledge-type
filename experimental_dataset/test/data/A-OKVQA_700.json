@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 700,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_700.png",
+    "question": "What does the color of the stoplight mean?",
+    "label": "['go', 'go', 'go', 'go', 'go', 'go', 'go', 'go', 'go', 'go now']",
+    "choices": [
+        "go",
+        "stop",
+        "get out",
+        "caution"
+    ],
+    "correct_choice": "go"
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 496,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_496.png",
+    "question": "How many parts are there in Final report?",
+    "label": [
+        "two parts",
+        "Two parts",
+        "two"
+    ]
+}

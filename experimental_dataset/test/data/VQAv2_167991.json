@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 167991,
+    "image_path": "./experimental_dataset/test/images/VQAv2_167991.png",
+    "question": "Where do you play tennis?",
+    "label": [
+        "court",
+        "court",
+        "tennis court",
+        "not here",
+        "court",
+        "tennis court",
+        "tennis court",
+        "outside",
+        "field",
+        "on court"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 127365,
+    "caption": "giraffe standing next to each other on a dirt road",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "giraffe",
+        "terrestrial animal",
+        "wildlife",
+        "tree",
+        "sky",
+        "ground",
+        "safari",
+        "giraffidae",
+        "plant",
+        "standing",
+        "grass",
+        "zoo",
+        "field"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 635,
+    "caption": "a young girl laying on a bed reading a book",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "book",
+        "indoor",
+        "smile",
+        "woman",
+        "bed",
+        "wall",
+        "girl",
+        "sitting",
+        "red"
+    ]
+}

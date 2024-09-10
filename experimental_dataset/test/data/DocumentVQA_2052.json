@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2052,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2052.png",
+    "question": "How many categories of Individuals were requested to cover their own travel expenses to panel meetings?",
+    "label": [
+        "6"
+    ]
+}

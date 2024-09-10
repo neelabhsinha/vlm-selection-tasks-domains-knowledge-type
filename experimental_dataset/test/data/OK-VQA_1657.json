@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1657,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1657.png",
+    "question": "What pose are these women sitting in?",
+    "label": [
+        "indian style",
+        "indian style",
+        "indian style",
+        "indian style",
+        "lotus",
+        "lotus",
+        "sit",
+        "sit",
+        "cross",
+        "cross"
+    ]
+}

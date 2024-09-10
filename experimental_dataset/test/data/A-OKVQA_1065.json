@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1065,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1065.png",
+    "question": "What other surface is this game played on?",
+    "label": "['dirt', 'clay court', 'concrete', 'grass', 'grass', 'concrete', 'clay', 'grass', 'clay', 'tarmac']",
+    "choices": [
+        "pebbles",
+        "grass",
+        "concrete",
+        "sand"
+    ],
+    "correct_choice": "grass"
+}

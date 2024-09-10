@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 434,
+    "image_path": "./experimental_dataset/test/images/ChartQA_434.png",
+    "question": "Which country recorded the highest Air and GHG emissions over the years?",
+    "label": [
+        "Belgium"
+    ]
+}

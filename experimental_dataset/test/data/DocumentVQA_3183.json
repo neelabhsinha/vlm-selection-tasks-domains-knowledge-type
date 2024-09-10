@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3183,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3183.png",
+    "question": "Which city is Dr. Ernest E. Muirhead from?",
+    "label": [
+        "dallas",
+        "Dallas"
+    ]
+}

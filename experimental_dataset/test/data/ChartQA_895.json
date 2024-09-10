@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 895,
+    "image_path": "./experimental_dataset/test/images/ChartQA_895.png",
+    "question": "which year there is same number of stores in Western Europe and North America ?",
+    "label": [
+        "2020"
+    ]
+}

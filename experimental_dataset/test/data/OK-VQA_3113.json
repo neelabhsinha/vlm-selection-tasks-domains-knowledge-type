@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3113,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3113.png",
+    "question": "What are these four white items usually used for?",
+    "label": [
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "water flower",
+        "water flower"
+    ]
+}

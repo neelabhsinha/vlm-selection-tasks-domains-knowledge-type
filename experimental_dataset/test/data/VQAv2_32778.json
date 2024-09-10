@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 32778,
+    "image_path": "./experimental_dataset/test/images/VQAv2_32778.png",
+    "question": "Is the vase really full of flowers?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 498,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_498.png",
+    "question": "Why is there a bow on the car?",
+    "label": "['wedding', 'gift', 'gift', 'for newlyweds', 'present', 'gift', 'christmas gift', 'just married', 'gift', 'funeral']",
+    "choices": [
+        "sale",
+        "style",
+        "gift",
+        "looks"
+    ],
+    "correct_choice": "gift"
+}

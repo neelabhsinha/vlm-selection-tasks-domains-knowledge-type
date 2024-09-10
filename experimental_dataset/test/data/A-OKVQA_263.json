@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 263,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_263.png",
+    "question": "Which car hold the most people?",
+    "label": "['white suv', 'bus', 'van', 'white van', 'minivan center', 'van', 'van', 'van', 'all same', 'van']",
+    "choices": [
+        "black car",
+        "white van",
+        "blue car",
+        "silver car"
+    ],
+    "correct_choice": "white van"
+}

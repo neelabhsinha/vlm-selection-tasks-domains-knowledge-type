@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1302,
+    "caption": "a vase filled with flowers on top of a table",
+    "object_tags": [
+        "flower",
+        "outdoor",
+        "tree",
+        "plant",
+        "flowerpot",
+        "houseplant",
+        "vase",
+        "floral design",
+        "purple",
+        "table",
+        "garden",
+        "sitting"
+    ]
+}

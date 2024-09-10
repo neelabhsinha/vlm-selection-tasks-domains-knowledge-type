@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 395,
+    "caption": "motorcycles are parked on the street",
+    "object_tags": [
+        "black and white",
+        "wheel",
+        "bicycle wheel",
+        "land vehicle",
+        "outdoor",
+        "vehicle",
+        "umbrella",
+        "bicycle",
+        "tire",
+        "fisheye",
+        "ground",
+        "bike",
+        "street",
+        "monochrome"
+    ]
+}

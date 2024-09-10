@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2344,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2344.png",
+    "question": "What is the time period for which the survey is conducted?",
+    "label": [
+        "March - June 1960"
+    ]
+}

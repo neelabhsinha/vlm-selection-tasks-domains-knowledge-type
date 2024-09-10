@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4670,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4670.png",
+    "question": "Is this fun or boring?",
+    "label": [
+        "fun",
+        "fun",
+        "fun",
+        "fun",
+        "fun",
+        "fun",
+        "fun",
+        "fun",
+        "fun",
+        "fun"
+    ]
+}

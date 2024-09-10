@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 208303,
+    "image_path": "./experimental_dataset/test/images/VQAv2_208303.png",
+    "question": "What is the person doing?",
+    "label": [
+        "kayaking",
+        "kayaking",
+        "canoeing",
+        "canoeing",
+        "rafting",
+        "kayaking",
+        "boating",
+        "kayaking",
+        "canoeing",
+        "canoeing"
+    ]
+}

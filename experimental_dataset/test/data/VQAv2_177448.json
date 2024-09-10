@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 177448,
+    "image_path": "./experimental_dataset/test/images/VQAv2_177448.png",
+    "question": "What is in the girls hand?",
+    "label": [
+        "tennis racket",
+        "tennis racket",
+        "racquet",
+        "tennis racket",
+        "racquet",
+        "racquet",
+        "tennis racket",
+        "tennis racket",
+        "racket",
+        "tennis racket"
+    ]
+}

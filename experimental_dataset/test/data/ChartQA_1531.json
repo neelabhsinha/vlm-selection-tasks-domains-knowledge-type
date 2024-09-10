@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1531,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1531.png",
+    "question": "How many people checked in to New Delhi on Facebook between June and August 2017?",
+    "label": [
+        "2287881"
+    ]
+}

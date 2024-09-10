@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 833,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_833.png",
+    "question": "What is the woman in the back most likely pushing in the stroller?",
+    "label": "['baby', 'baby', 'baby', 'baby', 'baby', 'baby', 'baby', 'baby', 'baby', 'baby']",
+    "choices": [
+        "baby",
+        "dog",
+        "parrot",
+        "cat"
+    ],
+    "correct_choice": "baby"
+}

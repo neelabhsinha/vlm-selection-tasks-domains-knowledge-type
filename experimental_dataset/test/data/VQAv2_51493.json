@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 51493,
+    "image_path": "./experimental_dataset/test/images/VQAv2_51493.png",
+    "question": "What is the black seed?",
+    "label": [
+        "bird seed",
+        "sunflower",
+        "sunflower",
+        "bird food",
+        "sunflower",
+        "bird seed",
+        "bird",
+        "sunflower",
+        "sunflower",
+        "sunflower seeds"
+    ]
+}

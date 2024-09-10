@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 106389,
+    "image_path": "./experimental_dataset/test/images/VQAv2_106389.png",
+    "question": "Is the back giraffe's mouth open?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

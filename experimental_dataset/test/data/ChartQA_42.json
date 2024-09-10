@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 42,
+    "image_path": "./experimental_dataset/test/images/ChartQA_42.png",
+    "question": "What's the percentage of people choosing approve in Sep 2015?",
+    "label": [
+        "21"
+    ]
+}

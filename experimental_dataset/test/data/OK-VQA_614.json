@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 614,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_614.png",
+    "question": "Are these people goth or punk and what are some famous japanese and korean goth and punk fashions?",
+    "label": [
+        "goth",
+        "goth",
+        "goth",
+        "goth",
+        "goth",
+        "goth",
+        "goth harajuku fashion and tokyo rebel",
+        "goth harajuku fashion and tokyo rebel",
+        "goth harajuku",
+        "goth harajuku"
+    ]
+}

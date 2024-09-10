@@ -1,0 +1,32 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 901,
+    "caption": "a display case filled with cakes and pastries",
+    "object_tags": [
+        "baked goods",
+        "baking",
+        "pastry",
+        "snack",
+        "bakery",
+        "sweetness",
+        "patisserie",
+        "indoor",
+        "cake",
+        "person",
+        "fast food",
+        "dairy",
+        "culinary art",
+        "bake sale",
+        "food",
+        "cake decorating",
+        "petit four",
+        "delicacy",
+        "clothing",
+        "icing",
+        "table",
+        "shop",
+        "display",
+        "dessert",
+        "standing"
+    ]
+}

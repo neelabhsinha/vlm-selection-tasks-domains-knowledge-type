@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 410,
+    "caption": "a man standing next to a brown horse",
+    "object_tags": [
+        "clothing",
+        "horse",
+        "person",
+        "outdoor",
+        "sky",
+        "man",
+        "horse supplies",
+        "halter",
+        "bridle",
+        "stallion",
+        "mare",
+        "rein",
+        "smile",
+        "horse tack",
+        "cowboy hat",
+        "ground",
+        "mane",
+        "cowboy",
+        "hat",
+        "brown",
+        "wearing",
+        "resort"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 74578,
+    "caption": "a cat standing on top of a refrigerator",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "cabinet",
+        "cabinetry",
+        "cupboard",
+        "home appliance",
+        "cat",
+        "white",
+        "refrigerator",
+        "kitchen",
+        "appliance"
+    ]
+}

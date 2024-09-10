@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 125,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_125.png",
+    "question": "Who has accepted the assignment?",
+    "label": [
+        "Carol A. Tozzi, Ph.D.",
+        "Carol A. Tozzi"
+    ]
+}

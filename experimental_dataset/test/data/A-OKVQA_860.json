@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 860,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_860.png",
+    "question": "Which two words were said by both the person in black and the person in white here?",
+    "label": "['i do', 'i do', 'i do', 'i do', 'happy birthday', 'i do', 'happy birthday', 'i do', 'i do', 'i do']",
+    "choices": [
+        "i do",
+        "try again",
+        "nothing nothing",
+        "get out"
+    ],
+    "correct_choice": "i do"
+}

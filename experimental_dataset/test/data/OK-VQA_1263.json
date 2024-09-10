@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1263,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1263.png",
+    "question": "Is this man safe or unsafe?",
+    "label": [
+        "unsafe",
+        "unsafe",
+        "unsafe",
+        "unsafe",
+        "unsafe",
+        "unsafe",
+        "unsafe",
+        "unsafe",
+        "safe",
+        "safe"
+    ]
+}

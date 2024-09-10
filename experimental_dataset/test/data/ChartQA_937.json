@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 937,
+    "image_path": "./experimental_dataset/test/images/ChartQA_937.png",
+    "question": "How much points the blue line moved 2010 to  2019",
+    "label": [
+        "10"
+    ]
+}

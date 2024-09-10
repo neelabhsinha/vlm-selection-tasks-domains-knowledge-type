@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 94624,
+    "image_path": "./experimental_dataset/test/images/VQAv2_94624.png",
+    "question": "What type of door is the entryway?",
+    "label": [
+        "windowed",
+        "paned doorway",
+        "wood and glass",
+        "glass",
+        "windowed door",
+        "glass",
+        "french door",
+        "glass",
+        "glass",
+        "glass-paned, wooden"
+    ]
+}

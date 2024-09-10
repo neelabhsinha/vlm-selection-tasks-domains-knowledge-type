@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1022,
+    "caption": "a bus is stopped at a bus stop",
+    "object_tags": [
+        "transport",
+        "vehicle",
+        "land vehicle",
+        "public transport",
+        "passenger",
+        "mode of transport",
+        "outdoor",
+        "person",
+        "bus",
+        "transit"
+    ]
+}

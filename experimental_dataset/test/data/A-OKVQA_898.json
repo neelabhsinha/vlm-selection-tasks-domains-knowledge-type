@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 898,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_898.png",
+    "question": "Why are there so many bicycles here?",
+    "label": "['bike lane', 'work crew', 'commuting', 'travelling', 'transportation', 'bike lane', 'transportation', 'riding', 'race', 'cheaper transportation']",
+    "choices": [
+        "bike lane",
+        "mountain biking",
+        "olympics",
+        "marathon"
+    ],
+    "correct_choice": "bike lane"
+}

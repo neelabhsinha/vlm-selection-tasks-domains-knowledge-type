@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 598,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_598.png",
+    "question": "What type of board is being used?",
+    "label": "['cheese board', 'dining', 'charcuterie', 'wooden board', 'wood', 'cutting board', 'wood', 'cutting board', 'cutting board', 'cutting']",
+    "choices": [
+        "poster board",
+        "charcuterie",
+        "billboard",
+        "cardboard"
+    ],
+    "correct_choice": "charcuterie"
+}

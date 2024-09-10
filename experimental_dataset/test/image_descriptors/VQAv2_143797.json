@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 143797,
+    "caption": "a basket filled with lots of different kinds of fruit",
+    "object_tags": [
+        "flower arranging",
+        "floristry",
+        "cut flowers",
+        "floral design",
+        "flower",
+        "still life",
+        "plant",
+        "artificial flower",
+        "rose",
+        "still life photography",
+        "ikebana",
+        "vase",
+        "centrepiece",
+        "orange",
+        "bouquet",
+        "flower arrangement"
+    ]
+}

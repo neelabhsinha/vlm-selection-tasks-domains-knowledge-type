@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 65716,
+    "caption": "a man is playing tennis on a tennis court",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "athletic game",
+        "person",
+        "tennis",
+        "court",
+        "sports equipment",
+        "sport",
+        "ball game",
+        "grass",
+        "player",
+        "sky",
+        "ball",
+        "sport venue",
+        "man",
+        "playing",
+        "racket",
+        "hitting",
+        "city"
+    ]
+}

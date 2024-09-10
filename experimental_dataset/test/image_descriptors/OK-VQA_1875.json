@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1875,
+    "caption": "a computer keyboard sitting on top of a desk",
+    "object_tags": [
+        "electronics",
+        "computer",
+        "electronic device",
+        "indoor",
+        "text",
+        "computer hardware",
+        "input device",
+        "display device",
+        "personal computer",
+        "output device",
+        "multimedia",
+        "peripheral",
+        "personal computer hardware",
+        "computer component",
+        "electronic engineering",
+        "office equipment",
+        "gadget",
+        "table",
+        "desk",
+        "sitting",
+        "keyboard",
+        "mac"
+    ]
+}

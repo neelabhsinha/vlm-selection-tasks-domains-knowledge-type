@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 630,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_630.png",
+    "question": "What brand of phone is this?",
+    "label": [
+        "samsung",
+        "samsung",
+        "samsung",
+        "samsung",
+        "samsung",
+        "samsung",
+        "samsung",
+        "samsung",
+        "sasung",
+        "sasung"
+    ]
+}

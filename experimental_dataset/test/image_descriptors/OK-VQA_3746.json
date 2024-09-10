@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3746,
+    "caption": "a white refrigerator freezer sitting in a kitchen",
+    "object_tags": [
+        "indoor",
+        "cabinet",
+        "cabinetry",
+        "home appliance",
+        "wall",
+        "cupboard",
+        "drawer",
+        "major appliance",
+        "chest of drawers",
+        "countertop",
+        "kitchen appliance",
+        "appliance",
+        "freezer",
+        "refrigerator",
+        "kitchen",
+        "floor",
+        "microwave"
+    ]
+}

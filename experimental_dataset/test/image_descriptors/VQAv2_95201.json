@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 95201,
+    "caption": "a woman holding a tennis racquet on a tennis court",
+    "object_tags": [
+        "sport",
+        "athletic game",
+        "tennis",
+        "person",
+        "player",
+        "court",
+        "racket",
+        "outdoor",
+        "clothing",
+        "tennis racket",
+        "tennis equipment",
+        "racquet sport",
+        "tennis player",
+        "soft tennis",
+        "tennis court",
+        "sports equipment",
+        "racketlon",
+        "strings",
+        "sports",
+        "rackets",
+        "athlete",
+        "individual sports",
+        "holding",
+        "woman",
+        "female"
+    ]
+}

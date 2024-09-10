@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 631,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_631.png",
+    "question": "What type of birds can be seen in the water?",
+    "label": "['geese', 'goose', 'mallard ducks', 'canadian geese', 'ducks', 'geese', 'geese', 'ducks', 'ducks', 'canadian geese']",
+    "choices": [
+        "georgian hawks",
+        "canadian geese",
+        "ducks",
+        "alaskan swans"
+    ],
+    "correct_choice": "canadian geese"
+}

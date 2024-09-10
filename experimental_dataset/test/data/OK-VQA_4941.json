@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4941,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4941.png",
+    "question": "What is this chair made from?",
+    "label": [
+        "canvas",
+        "canvas",
+        "canvas",
+        "canvas",
+        "cotton",
+        "cotton",
+        "polyester",
+        "polyester",
+        "metal and fabric",
+        "metal and fabric"
+    ]
+}

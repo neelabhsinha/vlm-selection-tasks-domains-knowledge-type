@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2370,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2370.png",
+    "question": "What percentage of males were more likely to support private use of 3D printing technology?",
+    "label": [
+        "69"
+    ]
+}

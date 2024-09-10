@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 19028,
+    "caption": "a man riding a bike down the street with an umbrella",
+    "object_tags": [
+        "wheel",
+        "outdoor",
+        "land vehicle",
+        "sky",
+        "vehicle",
+        "building",
+        "bicycle wheel",
+        "tire",
+        "person",
+        "street",
+        "road",
+        "bicycle",
+        "rain",
+        "ground",
+        "city",
+        "travel"
+    ]
+}

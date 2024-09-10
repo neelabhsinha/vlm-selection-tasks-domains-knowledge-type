@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 493,
+    "caption": "a tray of doughnuts on a table",
+    "object_tags": [
+        "snack",
+        "food",
+        "baking",
+        "baked goods",
+        "dessert",
+        "indoor",
+        "bakery",
+        "pastry",
+        "table",
+        "doughnut",
+        "donut"
+    ]
+}

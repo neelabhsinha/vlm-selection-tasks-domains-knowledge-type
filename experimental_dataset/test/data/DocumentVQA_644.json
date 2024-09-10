@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 644,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_644.png",
+    "question": "What is written at the bottom right end of the \u2018page\u2019?",
+    "label": [
+        "Dwrite 066084",
+        "DWRITE 066084"
+    ]
+}

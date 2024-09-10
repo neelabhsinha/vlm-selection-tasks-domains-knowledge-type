@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1481,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1481.png",
+    "question": "How many cases of COVID-19 were confirmed across eight hospitals in Tokyo?",
+    "label": [
+        "375"
+    ]
+}

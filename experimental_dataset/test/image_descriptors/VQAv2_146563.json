@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 146563,
+    "caption": "a train that is parked in a train station",
+    "object_tags": [
+        "transport",
+        "train",
+        "public transport",
+        "railroad",
+        "railway",
+        "passenger car",
+        "rolling stock",
+        "train station",
+        "building",
+        "transport hub",
+        "railroad car",
+        "vehicle",
+        "track",
+        "platform",
+        "metro",
+        "outdoor",
+        "metro station",
+        "white",
+        "parked",
+        "waiting",
+        "red",
+        "stopped",
+        "rail"
+    ]
+}

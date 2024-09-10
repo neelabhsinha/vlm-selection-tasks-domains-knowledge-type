@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 411,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_411.png",
+    "question": "Which location here fries snacks on site?",
+    "label": "['coffee shop', 'left', 'market', 'dunkin coffee', 'left', 'dunkin coffee', 'dunkin coffee', \"dunk'n donut\", 'dunkin donut', 'right side']",
+    "choices": [
+        "dunkin coffee",
+        "pizza shop",
+        "party store",
+        "cheese monger"
+    ],
+    "correct_choice": "dunkin coffee"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 157159,
+    "caption": "a vase filled with flowers on top of a table",
+    "object_tags": [
+        "outdoor",
+        "plant",
+        "sky",
+        "tree",
+        "palm",
+        "flowerpot",
+        "arecales",
+        "houseplant",
+        "ground",
+        "landscape",
+        "garden"
+    ]
+}

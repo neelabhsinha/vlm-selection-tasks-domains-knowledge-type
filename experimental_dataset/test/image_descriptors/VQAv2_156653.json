@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 156653,
+    "caption": "a man standing in front of a tv playing a video game",
+    "object_tags": [
+        "indoor",
+        "person",
+        "wall",
+        "clothing",
+        "furniture",
+        "text",
+        "computer",
+        "computer monitor",
+        "room",
+        "game",
+        "shelf",
+        "clock",
+        "electronics",
+        "controller",
+        "table",
+        "desk",
+        "floor",
+        "standing",
+        "remote",
+        "television",
+        "holding"
+    ]
+}

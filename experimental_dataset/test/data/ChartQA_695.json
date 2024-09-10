@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 695,
+    "image_path": "./experimental_dataset/test/images/ChartQA_695.png",
+    "question": "What is the difference in value between Yes and No?",
+    "label": [
+        "3"
+    ]
+}

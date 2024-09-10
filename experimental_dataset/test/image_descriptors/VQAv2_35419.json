@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 35419,
+    "caption": "a sandwich on a tray on a table",
+    "object_tags": [
+        "food",
+        "fast food",
+        "bread",
+        "snack food",
+        "table",
+        "american food",
+        "sandwich",
+        "plate",
+        "soft drink",
+        "banh ma",
+        "cuisine",
+        "cup",
+        "indoor",
+        "drink",
+        "restaurant",
+        "half",
+        "lunch"
+    ]
+}

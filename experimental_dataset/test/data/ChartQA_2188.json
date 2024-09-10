@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2188,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2188.png",
+    "question": "Who has hit the most home runs in Atlanta Braves franchise history?",
+    "label": [
+        "Hank Aaron"
+    ]
+}

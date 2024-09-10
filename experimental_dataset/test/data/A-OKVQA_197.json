@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 197,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_197.png",
+    "question": "Where are the people laying?",
+    "label": "['beach towels', 'beach', 'beach towels', 'beach', 'beach', 'beach', 'beach', 'beach', 'beach', 'beach']",
+    "choices": [
+        "field",
+        "park",
+        "beach",
+        "bed"
+    ],
+    "correct_choice": "beach"
+}

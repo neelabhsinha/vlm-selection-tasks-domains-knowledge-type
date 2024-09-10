@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1980,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1980.png",
+    "question": "What percentage of respondents cited Cruise-Alaska as a popular domestic destination for U.S. travelers in 2016?",
+    "label": [
+        "35.3"
+    ]
+}

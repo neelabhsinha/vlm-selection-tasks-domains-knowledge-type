@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 1546,
+    "caption": "a man riding a snowboard down a snow covered slope",
+    "object_tags": [
+        "footwear",
+        "ice skating",
+        "clothing",
+        "person",
+        "snow",
+        "rink",
+        "winter",
+        "ceiling",
+        "wall",
+        "ground",
+        "indoor",
+        "people",
+        "ice skate"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 268,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_268.png",
+    "question": "What comic book hero is sitting on top of the TV?",
+    "label": "['spiderman', 'spiderman', 'spiderman', 'spiderman', 'spiderman', 'spiderman', 'spider man', 'spiderman', 'spiderman', 'spiderman']",
+    "choices": [
+        "spiderman",
+        "wonder woman",
+        "batman",
+        "superman"
+    ],
+    "correct_choice": "spiderman"
+}

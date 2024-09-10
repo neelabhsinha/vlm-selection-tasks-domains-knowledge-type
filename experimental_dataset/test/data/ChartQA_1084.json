@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1084,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1084.png",
+    "question": "Is there any difference between the male and female values?",
+    "label": [
+        "No"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 810,
+    "caption": "a refrigerator sitting in the middle of a parking lot",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "wheel",
+        "tire",
+        "waste container",
+        "house",
+        "ground",
+        "tree",
+        "door",
+        "remodel",
+        "refrigerator",
+        "fire"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 497,
+    "image_path": "./experimental_dataset/test/images/ChartQA_497.png",
+    "question": "What's the ratio of the largest green bar and first green bar from the top?",
+    "label": [
+        "1.111111111"
+    ]
+}

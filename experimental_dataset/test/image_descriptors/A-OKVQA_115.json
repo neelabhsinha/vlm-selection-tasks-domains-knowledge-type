@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 115,
+    "caption": "a white plate topped with meat and vegetables",
+    "object_tags": [
+        "food",
+        "cuisine",
+        "dish",
+        "plate",
+        "pork steak",
+        "steak",
+        "delmonico steak",
+        "carne asada",
+        "indoor",
+        "meat",
+        "vegetable",
+        "potato"
+    ]
+}

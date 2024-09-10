@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 133904,
+    "caption": "a woman standing next to a red suitcase",
+    "object_tags": [
+        "accessory",
+        "indoor",
+        "luggage and bags",
+        "luggage",
+        "handbag",
+        "building",
+        "wall",
+        "suitcase",
+        "window",
+        "fashion accessory",
+        "bag",
+        "person",
+        "case",
+        "chair",
+        "fashion",
+        "abandoned",
+        "red"
+    ]
+}

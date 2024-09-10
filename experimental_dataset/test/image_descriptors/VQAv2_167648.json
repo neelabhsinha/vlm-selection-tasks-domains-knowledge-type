@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 167648,
+    "caption": "a person holding a cell phone in their hand",
+    "object_tags": [
+        "gadget",
+        "electronic device",
+        "portable communications device",
+        "mobile phone",
+        "communication device",
+        "mobile device",
+        "telephony",
+        "person",
+        "smartphone",
+        "feature phone",
+        "phone",
+        "multimedia",
+        "telephone",
+        "cellphone"
+    ]
+}

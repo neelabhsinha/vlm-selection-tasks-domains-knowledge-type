@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 57985,
+    "caption": "a man riding a bike next to a park bench",
+    "object_tags": [
+        "outdoor",
+        "bicycle wheel",
+        "wheel",
+        "black and white",
+        "land vehicle",
+        "street",
+        "building",
+        "vehicle",
+        "tree",
+        "sports equipment",
+        "cycling",
+        "bicycle frame",
+        "bicycles--equipment and supplies",
+        "road",
+        "bike",
+        "person",
+        "ground",
+        "bicycle",
+        "monochrome"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4394,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4394.png",
+    "question": "When would i eat this?",
+    "label": [
+        "dinner",
+        "dinner",
+        "dinner",
+        "dinner",
+        "dinner",
+        "dinner",
+        "dinner",
+        "dinner",
+        "breakfast",
+        "breakfast"
+    ]
+}

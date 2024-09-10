@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1118,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1118.png",
+    "question": "What auction company is accessible only via the item featured in this photo?",
+    "label": [
+        "ebay",
+        "ebay",
+        "ebay",
+        "ebay",
+        "ebay",
+        "ebay",
+        "ebay",
+        "ebay",
+        "ebay",
+        "ebay"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 113,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_113.png",
+    "question": "What genus of animal is visible here?",
+    "label": "['feline', 'cat', 'leopard', 'feline', 'panthera', 'cat', 'panthera', 'panthera', 'panthera', 'leopard']",
+    "choices": [
+        "canine",
+        "porcine",
+        "feline",
+        "rodent"
+    ],
+    "correct_choice": "feline"
+}

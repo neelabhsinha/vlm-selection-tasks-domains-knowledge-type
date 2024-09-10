@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 371,
+    "image_path": "./experimental_dataset/test/images/ChartQA_371.png",
+    "question": "When is the average value of all four gaps highest?",
+    "label": [
+        "1990"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2371,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2371.png",
+    "question": "What nationality is affiliated with this type of bread?",
+    "label": [
+        "english",
+        "english",
+        "english",
+        "english",
+        "english",
+        "english",
+        "english",
+        "english",
+        "england",
+        "england"
+    ]
+}

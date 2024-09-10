@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4519,
+    "caption": "a collage of photographs of a solar system",
+    "object_tags": [
+        "text",
+        "diagram",
+        "number",
+        "parallel",
+        "font",
+        "black and white",
+        "document",
+        "receipt"
+    ]
+}

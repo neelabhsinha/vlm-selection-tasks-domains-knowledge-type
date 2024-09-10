@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1347,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1347.png",
+    "question": "What is the Yield for Mono-Hy D2 and average nitrogen rate?",
+    "label": [
+        "19.3"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 606,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_606.png",
+    "question": "Why are the people lining up?",
+    "label": "['embark airplane', 'board plane', 'board plane', 'to board', 'to board', 'flight', 'board plane', 'board plane', 'board plane', 'boarding']",
+    "choices": [
+        "boarding",
+        "landing",
+        "partying",
+        "spectating"
+    ],
+    "correct_choice": "boarding"
+}

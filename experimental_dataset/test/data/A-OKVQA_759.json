@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 759,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_759.png",
+    "question": "What is the skateboard being cut into most likely constructed from?",
+    "label": "['cake', 'cake', 'cake', 'cake', 'cake', 'cake', 'metal', 'cake', 'cake', 'metal']",
+    "choices": [
+        "acrylic",
+        "cake",
+        "plastic",
+        "wood"
+    ],
+    "correct_choice": "cake"
+}

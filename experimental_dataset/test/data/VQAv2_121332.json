@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 121332,
+    "image_path": "./experimental_dataset/test/images/VQAv2_121332.png",
+    "question": "How many animals are here?",
+    "label": [
+        "15",
+        "12",
+        "12",
+        "10",
+        "10",
+        "many",
+        "24",
+        "16",
+        "lot",
+        "4"
+    ]
+}

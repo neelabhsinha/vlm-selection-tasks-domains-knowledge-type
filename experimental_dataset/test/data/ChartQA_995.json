@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 995,
+    "image_path": "./experimental_dataset/test/images/ChartQA_995.png",
+    "question": "What is the total percentage for Internet TV?",
+    "label": [
+        "28"
+    ]
+}

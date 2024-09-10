@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1806,
+    "caption": "a cat eating a donut on a plate",
+    "object_tags": [
+        "cat",
+        "snack",
+        "dessert",
+        "baked goods",
+        "felidae",
+        "pastry",
+        "small to medium-sized cats",
+        "indoor",
+        "donut",
+        "food"
+    ]
+}

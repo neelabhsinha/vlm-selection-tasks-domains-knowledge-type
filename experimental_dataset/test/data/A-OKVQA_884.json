@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 884,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_884.png",
+    "question": "What type of television is the person watching?",
+    "label": "['tube', 'crt', 'crt television', 'big screen', 'tube', 'console', 'old', 'console', 'black white', 'old']",
+    "choices": [
+        "hd",
+        "portable",
+        "flat screen",
+        "console"
+    ],
+    "correct_choice": "console"
+}

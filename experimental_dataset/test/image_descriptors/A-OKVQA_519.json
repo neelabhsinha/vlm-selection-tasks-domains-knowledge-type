@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 519,
+    "caption": "a man holding a glass of wine in front of a bar",
+    "object_tags": [
+        "person",
+        "indoor",
+        "drink",
+        "bottle",
+        "human face",
+        "clothing",
+        "man",
+        "alcoholic beverage",
+        "barware",
+        "wall",
+        "wine glass",
+        "wine",
+        "distilled beverage",
+        "table",
+        "tableware",
+        "alcohol",
+        "glasses",
+        "floor",
+        "ceiling"
+    ]
+}

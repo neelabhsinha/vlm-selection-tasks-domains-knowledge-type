@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 422,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_422.png",
+    "question": "The white object in the right window is used most often during what season?",
+    "label": "['summer', 'summer', 'summer', 'sofa', 'summer', 'summer', 'summer season', 'summer', 'summer', 'summer']",
+    "choices": [
+        "fall",
+        "spring",
+        "winter",
+        "summer"
+    ],
+    "correct_choice": "summer"
+}

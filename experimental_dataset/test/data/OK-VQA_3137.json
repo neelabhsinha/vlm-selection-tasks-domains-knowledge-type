@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3137,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3137.png",
+    "question": "What kind of smartphone is this?",
+    "label": [
+        "iphone",
+        "iphone",
+        "iphone",
+        "iphone",
+        "android",
+        "android",
+        "blackberry",
+        "blackberry",
+        "samsung",
+        "samsung"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1607,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1607.png",
+    "question": "How is this food cooked?",
+    "label": [
+        "grilled",
+        "grilled",
+        "grilled",
+        "grilled",
+        "grilled",
+        "grilled",
+        "toasted",
+        "toasted",
+        "baked",
+        "baked"
+    ]
+}

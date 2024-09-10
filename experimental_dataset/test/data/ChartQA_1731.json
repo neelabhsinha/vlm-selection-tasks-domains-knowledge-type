@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1731,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1731.png",
+    "question": "What was the average ticket price for Nashville Predators games in 2005/06?",
+    "label": [
+        "40.78"
+    ]
+}

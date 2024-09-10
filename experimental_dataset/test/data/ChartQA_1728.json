@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1728,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1728.png",
+    "question": "What year was the peak year for passengers on Titan Airways?",
+    "label": [
+        "2017"
+    ]
+}

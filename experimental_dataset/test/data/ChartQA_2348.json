@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2348,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2348.png",
+    "question": "What is the projected unemployment rate in Italy in 2021?",
+    "label": [
+        "10.3"
+    ]
+}

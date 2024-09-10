@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3518,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3518.png",
+    "question": "What is the name of the shape of this street sign?",
+    "label": [
+        "octagon",
+        "octagon",
+        "octagon",
+        "octagon",
+        "octagon",
+        "octagon",
+        "octagon",
+        "octagon",
+        "octagon",
+        "octagon"
+    ]
+}

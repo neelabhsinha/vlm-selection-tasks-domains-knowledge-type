@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4631,
+    "caption": "a person riding a bike down a street",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "bicycle",
+        "road",
+        "grass",
+        "rain",
+        "person",
+        "riding",
+        "blurry",
+        "street",
+        "path",
+        "running"
+    ]
+}

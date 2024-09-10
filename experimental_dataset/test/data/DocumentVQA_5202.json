@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5202,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5202.png",
+    "question": "What is the venue for the meeting?",
+    "label": [
+        "AMBASSADOR HOTEL",
+        "Ambassador Hotel"
+    ]
+}

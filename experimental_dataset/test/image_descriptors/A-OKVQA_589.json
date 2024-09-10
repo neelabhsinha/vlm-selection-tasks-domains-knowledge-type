@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 589,
+    "caption": "a kitchen filled with lots of food and drinks",
+    "object_tags": [
+        "waste container",
+        "person",
+        "kitchen appliance",
+        "outdoor",
+        "food",
+        "preparing",
+        "cooking"
+    ]
+}

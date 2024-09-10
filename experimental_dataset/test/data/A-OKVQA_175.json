@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 175,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_175.png",
+    "question": "What left the blue marks on the ground near the fire hydrant?",
+    "label": "['paint', 'dripping paint', 'paint', 'paint', 'paint', 'paint', 'dripping paint', 'dripping paint', 'paint', 'paint']",
+    "choices": [
+        "paint",
+        "wind",
+        "fruit",
+        "animals"
+    ],
+    "correct_choice": "paint"
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4816,
+    "caption": "a train with graffiti on the side of it",
+    "object_tags": [
+        "transport",
+        "outdoor",
+        "graffiti",
+        "vehicle",
+        "land vehicle",
+        "track",
+        "railway",
+        "railroad car",
+        "rolling stock",
+        "train",
+        "railroad",
+        "car",
+        "painted",
+        "ground",
+        "art"
+    ]
+}

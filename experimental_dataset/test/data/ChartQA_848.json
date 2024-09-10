@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 848,
+    "image_path": "./experimental_dataset/test/images/ChartQA_848.png",
+    "question": "What instant messaging app has the most use in Finland?",
+    "label": [
+        "WhatsApp"
+    ]
+}

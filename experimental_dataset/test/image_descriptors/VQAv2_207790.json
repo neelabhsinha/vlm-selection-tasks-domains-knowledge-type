@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 207790,
+    "caption": "a flock of birds sitting on top of a power line",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "electrical supply",
+        "bird",
+        "electricity",
+        "flock"
+    ]
+}

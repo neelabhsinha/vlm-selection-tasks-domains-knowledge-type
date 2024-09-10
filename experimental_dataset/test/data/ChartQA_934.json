@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 934,
+    "image_path": "./experimental_dataset/test/images/ChartQA_934.png",
+    "question": "What is the highest number of companies in the domestic market?",
+    "label": [
+        "30"
+    ]
+}

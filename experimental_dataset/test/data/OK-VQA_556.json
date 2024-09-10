@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 556,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_556.png",
+    "question": "Where can i buy a bear similar to this one?",
+    "label": [
+        "toy store",
+        "toy store",
+        "toy store",
+        "toy store",
+        "target",
+        "target",
+        "gundt",
+        "gundt",
+        "walmart",
+        "walmart"
+    ]
+}

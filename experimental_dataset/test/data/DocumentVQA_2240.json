@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2240,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2240.png",
+    "question": "Whats is the year on the table?",
+    "label": [
+        "1958"
+    ]
+}

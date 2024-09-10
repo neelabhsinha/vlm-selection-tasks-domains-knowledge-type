@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3684,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3684.png",
+    "question": "What is the pattern of the table cloth called?",
+    "label": [
+        "checkered",
+        "checkered",
+        "checkered",
+        "checkered",
+        "gingham",
+        "gingham",
+        "plaid",
+        "plaid",
+        "checker",
+        "checker"
+    ]
+}

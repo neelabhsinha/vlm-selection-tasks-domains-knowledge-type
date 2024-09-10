@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 923,
+    "image_path": "./experimental_dataset/test/images/ChartQA_923.png",
+    "question": "What is the difference between the number of male participants in US high school lacrosse in 2018/19 and 2010/11",
+    "label": [
+        "18019"
+    ]
+}

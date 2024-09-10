@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1015,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1015.png",
+    "question": "How many products have a expenditure of 40% and above?",
+    "label": [
+        "2"
+    ]
+}

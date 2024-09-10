@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 403,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_403.png",
+    "question": "What does the letter on the racket represent?",
+    "label": "['brand name', 'brand', 'brand name', 'wilson', 'corporation', 'maker', 'wilson', 'wilson company', 'wilson', 'wilson']",
+    "choices": [
+        "school",
+        "family",
+        "corporation",
+        "town"
+    ],
+    "correct_choice": "corporation"
+}

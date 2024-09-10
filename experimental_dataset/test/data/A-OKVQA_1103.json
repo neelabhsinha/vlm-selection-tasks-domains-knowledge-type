@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1103,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1103.png",
+    "question": "What does the Ice cream truck say to watch out for?",
+    "label": "['chicken', 'children', 'children', 'children', 'moving', 'running', 'ice bus', 'slow', 'children', 'customers']",
+    "choices": [
+        "birds",
+        "melted ice cream",
+        "dogs",
+        "children"
+    ],
+    "correct_choice": "children"
+}

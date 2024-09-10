@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3601,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3601.png",
+    "question": "What is the amount of Leased Pounds mentioned?",
+    "label": [
+        "66,755"
+    ]
+}

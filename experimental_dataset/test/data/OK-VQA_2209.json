@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2209,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2209.png",
+    "question": "What model is this car?",
+    "label": [
+        "nissan",
+        "nissan",
+        "nissan",
+        "nissan",
+        "nissan",
+        "nissan",
+        "mercedes",
+        "mercedes",
+        "ford focus",
+        "ford focus"
+    ]
+}

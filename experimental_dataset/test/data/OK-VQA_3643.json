@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3643,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3643.png",
+    "question": "When was that white equipment invented?",
+    "label": [
+        "1800s",
+        "1800s",
+        "1800s",
+        "1800s",
+        "1900",
+        "1900",
+        "1596",
+        "1596",
+        "1600s",
+        "1600s"
+    ]
+}

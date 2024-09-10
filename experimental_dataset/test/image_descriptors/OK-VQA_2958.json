@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2958,
+    "caption": "a cat sitting in a vase with flowers",
+    "object_tags": [
+        "vase",
+        "flower",
+        "rose",
+        "flowerpot",
+        "houseplant",
+        "floral design",
+        "floristry",
+        "plant",
+        "flower arranging",
+        "cut flowers",
+        "outdoor",
+        "window",
+        "glass",
+        "indoor",
+        "red"
+    ]
+}

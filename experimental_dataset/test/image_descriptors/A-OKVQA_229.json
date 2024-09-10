@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 229,
+    "caption": "a woman is flying a kite in a park",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "kite",
+        "person",
+        "field",
+        "recreation",
+        "people",
+        "playground",
+        "grassy",
+        "park"
+    ]
+}

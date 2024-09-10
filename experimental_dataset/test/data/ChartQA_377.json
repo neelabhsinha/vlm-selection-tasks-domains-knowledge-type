@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 377,
+    "image_path": "./experimental_dataset/test/images/ChartQA_377.png",
+    "question": "Which three countries are being compared in the given graph?",
+    "label": [
+        "[Germany, Bolivia, Dominican Republic]"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "VQAv2",
+    "key": 44207,
+    "caption": "a collage of photos showing a variety of items",
+    "object_tags": [
+        "text",
+        "newspaper",
+        "paper product"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 170,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_170.png",
+    "question": "What was the final event ?",
+    "label": [
+        "questions and answers",
+        "Questions and Answers"
+    ]
+}

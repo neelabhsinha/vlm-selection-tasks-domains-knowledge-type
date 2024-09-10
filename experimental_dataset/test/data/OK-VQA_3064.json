@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3064,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3064.png",
+    "question": "What kind of sandwich is this cat eating?",
+    "label": [
+        "tuna",
+        "tuna",
+        "tuna",
+        "tuna",
+        "cheese",
+        "cheese",
+        "pb and j",
+        "pb and j",
+        "peanut butter and jelly",
+        "peanut butter and jelly"
+    ]
+}

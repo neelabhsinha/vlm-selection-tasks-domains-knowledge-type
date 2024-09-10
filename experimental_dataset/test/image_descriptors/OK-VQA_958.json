@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 958,
+    "caption": "a bathroom with a toilet, sink, and tub",
+    "object_tags": [
+        "black and white",
+        "wall",
+        "indoor",
+        "bathroom",
+        "toilet",
+        "plumbing fixture",
+        "sink",
+        "monochrome",
+        "bathroom accessory",
+        "white",
+        "restroom"
+    ]
+}

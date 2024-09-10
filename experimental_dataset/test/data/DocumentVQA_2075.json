@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2075,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2075.png",
+    "question": "On which day does he go from Sao Paulo to Lima?",
+    "label": [
+        "28 Friday",
+        "Friday"
+    ]
+}

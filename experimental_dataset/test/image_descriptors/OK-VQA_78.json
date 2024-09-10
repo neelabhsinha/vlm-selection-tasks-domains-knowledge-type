@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 78,
+    "caption": "a tall clock tower with a sky background",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "cloud",
+        "street light",
+        "clock",
+        "lightning",
+        "light",
+        "night"
+    ]
+}

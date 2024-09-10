@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 154056,
+    "image_path": "./experimental_dataset/test/images/VQAv2_154056.png",
+    "question": "Is bike riding a good idea for this man?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

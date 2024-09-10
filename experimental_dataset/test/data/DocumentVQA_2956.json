@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2956,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2956.png",
+    "question": "What is building #90?",
+    "label": [
+        "WOMEN'S GYM",
+        "Women's gym"
+    ]
+}

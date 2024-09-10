@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 188818,
+    "caption": "a white toilet sitting next to a shower in a bathroom",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "bathroom accessory",
+        "restroom",
+        "plumbing",
+        "toilet",
+        "toilet seat",
+        "bidet",
+        "tap",
+        "white",
+        "tile",
+        "floor",
+        "tiled",
+        "bathroom",
+        "shower"
+    ]
+}

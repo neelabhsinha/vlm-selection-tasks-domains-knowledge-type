@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 971,
+    "caption": "cows are laying down in a pen",
+    "object_tags": [
+        "barn",
+        "livestock",
+        "building",
+        "horse",
+        "stable",
+        "cow",
+        "cattle",
+        "person",
+        "indoor",
+        "ground",
+        "farm",
+        "pen",
+        "group"
+    ]
+}

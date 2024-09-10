@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 192696,
+    "image_path": "./experimental_dataset/test/images/VQAv2_192696.png",
+    "question": "Is this a steam locomotive?",
+    "label": [
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 863,
+    "image_path": "./experimental_dataset/test/images/ChartQA_863.png",
+    "question": "What is the average of general population data ?",
+    "label": [
+        "5.76"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 111692,
+    "caption": "elephants standing in a grassy area",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "elephant",
+        "zoo",
+        "grass",
+        "terrestrial animal",
+        "elephants and mammoths",
+        "asian elephant",
+        "tree",
+        "indian elephant",
+        "plant",
+        "ground",
+        "wildlife",
+        "tusk",
+        "african elephant",
+        "standing",
+        "enclosure",
+        "field"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 153,
+    "image_path": "./experimental_dataset/test/images/ChartQA_153.png",
+    "question": "When does the gap between support and against legalization reach the peak?",
+    "label": [
+        "1969"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1001,
+    "caption": "a public transit bus on a city street",
+    "object_tags": [
+        "land vehicle",
+        "outdoor",
+        "vehicle",
+        "building",
+        "text",
+        "road",
+        "transport",
+        "mode of transport",
+        "street",
+        "sky",
+        "city",
+        "public transport",
+        "bus"
+    ]
+}

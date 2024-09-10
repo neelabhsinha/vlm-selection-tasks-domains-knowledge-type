@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 194948,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Public Places",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Geographical Knowledge"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3473,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Law",
+        "Government and Politics",
+        "History"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

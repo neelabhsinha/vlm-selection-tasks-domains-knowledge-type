@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 145,
+    "caption": "an aerial view of a clock on a tv screen",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "line",
+        "font",
+        "plot",
+        "number",
+        "parallel"
+    ]
+}

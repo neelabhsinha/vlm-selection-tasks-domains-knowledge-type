@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 357,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_357.png",
+    "question": "What is the proposed end date for Action #1?",
+    "label": [
+        "4/26/04"
+    ]
+}

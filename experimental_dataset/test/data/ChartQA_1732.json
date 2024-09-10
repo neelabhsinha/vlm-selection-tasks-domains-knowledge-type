@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1732,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1732.png",
+    "question": "What percentage of the top 100 hospitals had between 100 and 249 patient beds in 2012?",
+    "label": [
+        "22"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 994,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_994.png",
+    "question": "What appliance is next to an appliance that is highly decorated?",
+    "label": "['stove/oven', 'stove', 'range', 'stove', 'oven', 'stove', 'oven', 'stove', 'stove', 'oven']",
+    "choices": [
+        "mixer",
+        "stove/oven",
+        "refrigerator",
+        "microwave"
+    ],
+    "correct_choice": "stove/oven"
+}

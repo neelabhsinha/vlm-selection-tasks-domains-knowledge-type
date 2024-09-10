@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3013,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3013.png",
+    "question": "What is the Regimen D \"n\" value for Days 7.6-11?",
+    "label": [
+        "2"
+    ]
+}

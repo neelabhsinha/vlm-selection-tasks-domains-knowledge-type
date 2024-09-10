@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 146,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_146.png",
+    "question": "What city is mentioned on the front of the bus?",
+    "label": "['seattle', 'westlake', 'seattle', 'westlake', 'seattle', 'seattle', 'seattle', 'westlake', 'seattle', 'seattle']",
+    "choices": [
+        "new york",
+        "los angeles",
+        "chicago",
+        "seattle"
+    ],
+    "correct_choice": "seattle"
+}

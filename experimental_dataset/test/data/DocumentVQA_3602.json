@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3602,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3602.png",
+    "question": "What is the name of the city mentioned?",
+    "label": [
+        "Florence"
+    ]
+}

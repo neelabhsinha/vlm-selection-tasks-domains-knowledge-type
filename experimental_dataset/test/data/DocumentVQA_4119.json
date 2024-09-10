@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4119,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4119.png",
+    "question": "What is the estimated WOH costs for Africa in 1969?",
+    "label": [
+        "80,000",
+        "(2) 80,000"
+    ]
+}

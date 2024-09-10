@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 172827,
+    "image_path": "./experimental_dataset/test/images/VQAv2_172827.png",
+    "question": "What color is the sign?",
+    "label": [
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow"
+    ]
+}

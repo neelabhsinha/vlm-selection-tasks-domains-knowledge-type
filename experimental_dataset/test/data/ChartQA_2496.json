@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2496,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2496.png",
+    "question": "How much did Brazil's population increase in 2019?",
+    "label": [
+        "0.75"
+    ]
+}

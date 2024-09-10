@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 788,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_788.png",
+    "question": "What country is the plane in the back from?",
+    "label": "['egypt', 'egypt', 'egypt', 'egypt', 'egypt', 'egypt', 'egypt', 'egypt', 'egypt', 'egypt']",
+    "choices": [
+        "tokyo",
+        "china",
+        "kenya",
+        "egypt"
+    ],
+    "correct_choice": "egypt"
+}

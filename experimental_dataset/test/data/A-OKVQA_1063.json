@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1063,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1063.png",
+    "question": "What weather event has caused the girl to use the umbrella?",
+    "label": "['rain', 'rainy day', 'rainy day', 'rainy day', 'rain', 'rain', 'rain', 'rain', 'rain', 'rain']",
+    "choices": [
+        "rain",
+        "wind",
+        "snow",
+        "hail"
+    ],
+    "correct_choice": "rain"
+}

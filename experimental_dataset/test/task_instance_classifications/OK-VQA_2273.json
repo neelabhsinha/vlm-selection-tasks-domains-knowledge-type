@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2273,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Movies",
+        "Nature"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Cultural Knowledge",
+        "Social Knowledge",
+        "Literary Knowledge"
+    ]
+}

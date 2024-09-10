@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 167848,
+    "caption": "a cat is looking at a duck in the water",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "small to medium-sized cats",
+        "felidae",
+        "animal",
+        "domestic cat",
+        "whiskers",
+        "tail",
+        "cat",
+        "kitten",
+        "mammal"
+    ]
+}

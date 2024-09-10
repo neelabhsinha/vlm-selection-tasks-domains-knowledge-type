@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 202,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_202.png",
+    "question": "What occasion are the bears probably sitting at the table enjoying?",
+    "label": "['christmas', 'christmas', 'christmas', 'christmas dinner', 'dinner', 'christmas', 'christmas dinner', 'christmas', 'christmas dinner', 'holiday dinner']",
+    "choices": [
+        "birthday",
+        "tea party",
+        "holiday dinner",
+        "wedding"
+    ],
+    "correct_choice": "holiday dinner"
+}

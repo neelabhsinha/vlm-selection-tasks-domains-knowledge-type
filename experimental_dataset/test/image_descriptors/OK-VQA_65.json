@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 65,
+    "caption": "two men working on an airplane in the snow",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "plane",
+        "vehicle",
+        "airliner",
+        "transport",
+        "airline",
+        "cloud",
+        "air travel",
+        "ground",
+        "airport",
+        "airplane",
+        "service",
+        "narrow-body aircraft",
+        "aviation",
+        "aircraft",
+        "runway",
+        "grass",
+        "jet",
+        "person"
+    ]
+}

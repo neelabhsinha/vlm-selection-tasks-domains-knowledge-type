@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2229,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2229.png",
+    "question": "How many cartons of Camels should the gift package contain?",
+    "label": [
+        "4",
+        "4 cartons"
+    ]
+}

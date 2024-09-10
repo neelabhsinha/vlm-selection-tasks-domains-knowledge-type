@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 129149,
+    "image_path": "./experimental_dataset/test/images/VQAv2_129149.png",
+    "question": "Is the boy's hair wet?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

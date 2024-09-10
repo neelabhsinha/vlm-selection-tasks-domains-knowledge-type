@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 541,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_541.png",
+    "question": "What is the table the purple flower in the vase is placed on made of?",
+    "label": "['glass', 'glass', 'jar', 'horn', 'table', 'ceramic', 'glass', 'glass', 'glass', 'glass']",
+    "choices": [
+        "bamboo",
+        "glass",
+        "steel",
+        "wood"
+    ],
+    "correct_choice": "glass"
+}

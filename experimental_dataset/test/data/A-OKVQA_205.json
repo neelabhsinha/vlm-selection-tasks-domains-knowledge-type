@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 205,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_205.png",
+    "question": "What is the man with the black glove about to do?",
+    "label": "['throw pitch', 'throw ball', 'pitch', 'throw ball', 'throw ball', 'throw ball', 'throw ball', 'pitch', 'throw ball', 'pitch']",
+    "choices": [
+        "push ups",
+        "sit ups",
+        "throw ball",
+        "dive"
+    ],
+    "correct_choice": "throw ball"
+}

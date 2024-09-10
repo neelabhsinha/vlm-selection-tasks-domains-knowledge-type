@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 808,
+    "caption": "a black and white cat is looking at a computer screen",
+    "object_tags": [
+        "indoor",
+        "cat",
+        "computer",
+        "laptop",
+        "mammal",
+        "wall",
+        "animal",
+        "furniture"
+    ]
+}

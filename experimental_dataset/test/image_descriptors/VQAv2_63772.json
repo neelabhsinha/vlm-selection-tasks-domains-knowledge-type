@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 63772,
+    "caption": "a white plate topped with a bunch of green leafy greens",
+    "object_tags": [
+        "dairy",
+        "indoor",
+        "food",
+        "table",
+        "white"
+    ]
+}

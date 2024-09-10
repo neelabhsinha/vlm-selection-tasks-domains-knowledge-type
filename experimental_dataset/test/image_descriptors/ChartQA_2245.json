@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 2245,
+    "caption": "a series of photos showing different types of computer equipment",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "software",
+        "computer icon",
+        "diagram",
+        "operating system",
+        "design"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 711,
+    "caption": "a laptop computer sitting on top of a bed",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "lamp",
+        "furniture",
+        "bed sheet",
+        "bedding",
+        "computer",
+        "lampshade",
+        "pillow",
+        "mattress",
+        "bedroom",
+        "bed",
+        "room",
+        "dark",
+        "ceiling",
+        "night",
+        "light"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 775,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_775.png",
+    "question": "What country is this in?",
+    "label": "['usa', 'england', 'united kingdom', 'england', 'united states', 'america', 'england', 'england', 'usa', 'usa']",
+    "choices": [
+        "england",
+        "germany",
+        "united states",
+        "china"
+    ],
+    "correct_choice": "england"
+}

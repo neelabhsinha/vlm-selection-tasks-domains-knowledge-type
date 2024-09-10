@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2419,
+    "caption": "a snow covered field with a mountain range",
+    "object_tags": [
+        "outdoor",
+        "nature",
+        "cloud",
+        "sky",
+        "snow",
+        "landscape",
+        "tree",
+        "winter",
+        "freezing",
+        "mountain"
+    ]
+}

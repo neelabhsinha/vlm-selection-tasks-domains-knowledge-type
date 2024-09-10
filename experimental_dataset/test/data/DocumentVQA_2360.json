@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2360,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2360.png",
+    "question": "what is the % not eating for kool aid?",
+    "label": [
+        "34",
+        "34%"
+    ]
+}

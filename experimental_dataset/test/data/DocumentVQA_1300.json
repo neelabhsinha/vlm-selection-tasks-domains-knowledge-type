@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1300,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1300.png",
+    "question": "What was Wallace Ironside's first job in University of Rochester,New York?",
+    "label": [
+        "visiting professor"
+    ]
+}

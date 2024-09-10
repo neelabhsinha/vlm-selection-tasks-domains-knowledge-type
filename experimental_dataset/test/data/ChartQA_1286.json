@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1286,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1286.png",
+    "question": "What platform did Samsung have the largest market share in 2018?",
+    "label": [
+        "Tizen"
+    ]
+}

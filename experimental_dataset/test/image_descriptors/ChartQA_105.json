@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 105,
+    "caption": "a collage of photos showing a clock and a sign",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "diagram",
+        "line",
+        "number",
+        "plot"
+    ]
+}

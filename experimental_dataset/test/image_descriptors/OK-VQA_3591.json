@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3591,
+    "caption": "a train on a track near a building",
+    "object_tags": [
+        "outdoor",
+        "electrical supply",
+        "electricity",
+        "sky",
+        "vehicle",
+        "transport",
+        "overhead power line",
+        "building",
+        "land vehicle",
+        "public transport",
+        "tree",
+        "public utility",
+        "railway",
+        "electric locomotive",
+        "track",
+        "tram",
+        "railroad",
+        "tramway",
+        "train"
+    ]
+}

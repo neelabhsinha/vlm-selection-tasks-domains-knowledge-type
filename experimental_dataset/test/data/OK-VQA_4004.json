@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4004,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4004.png",
+    "question": "What kind of cake is the woman cutting into?",
+    "label": [
+        "wed",
+        "wed",
+        "wed",
+        "wed",
+        "wed",
+        "wed",
+        "wed",
+        "wed",
+        "wed cake",
+        "wed cake"
+    ]
+}

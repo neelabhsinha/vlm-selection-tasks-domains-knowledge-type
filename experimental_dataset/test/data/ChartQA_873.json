@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 873,
+    "image_path": "./experimental_dataset/test/images/ChartQA_873.png",
+    "question": "Which year has a ratio of 1:1 for Insured all year, under insured and Insured now, had a coverage gap?",
+    "label": [
+        "2005"
+    ]
+}

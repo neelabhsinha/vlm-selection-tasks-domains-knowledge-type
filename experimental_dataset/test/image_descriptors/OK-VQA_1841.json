@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1841,
+    "caption": "a dog sitting on the floor in a living room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "couch",
+        "furniture",
+        "floor",
+        "interior design",
+        "house",
+        "animal",
+        "den",
+        "sofa bed",
+        "dog",
+        "room",
+        "living room",
+        "fireplace"
+    ]
+}

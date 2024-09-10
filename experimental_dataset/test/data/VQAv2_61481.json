@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 61481,
+    "image_path": "./experimental_dataset/test/images/VQAv2_61481.png",
+    "question": "Does the suitcase reflect a trip through Asia?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

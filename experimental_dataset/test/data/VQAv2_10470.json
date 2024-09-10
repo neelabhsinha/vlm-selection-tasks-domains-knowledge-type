@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 10470,
+    "image_path": "./experimental_dataset/test/images/VQAv2_10470.png",
+    "question": "What are these animals called?",
+    "label": [
+        "elephants",
+        "elephants",
+        "elephants",
+        "elephants",
+        "elephants",
+        "elephants",
+        "elephant",
+        "elephants",
+        "elephant",
+        "elephants"
+    ]
+}

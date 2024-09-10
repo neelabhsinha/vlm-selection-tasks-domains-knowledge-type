@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3182,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3182.png",
+    "question": "How often should children do what is shown in this photo?",
+    "label": [
+        "daily",
+        "daily",
+        "daily",
+        "daily",
+        "everyday",
+        "everyday",
+        "every other day",
+        "every other day",
+        "3 times per week",
+        "3 times per week"
+    ]
+}

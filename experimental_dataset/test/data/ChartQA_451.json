@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 451,
+    "image_path": "./experimental_dataset/test/images/ChartQA_451.png",
+    "question": "What is the average of all those who responded 'too little'?",
+    "label": [
+        "62.6"
+    ]
+}

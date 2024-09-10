@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1236,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1236.png",
+    "question": "Can you identify what is the percentage value of foreign visitor in 2017?",
+    "label": [
+        "20"
+    ]
+}

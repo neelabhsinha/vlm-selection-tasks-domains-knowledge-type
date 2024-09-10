@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 690,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_690.png",
+    "question": "What team has won the most world series?",
+    "label": [
+        "yankees",
+        "yankees",
+        "yankees",
+        "yankees",
+        "baseball",
+        "baseball",
+        "brave",
+        "brave",
+        "houston astros",
+        "houston astros"
+    ]
+}

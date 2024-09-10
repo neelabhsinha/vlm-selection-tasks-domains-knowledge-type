@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 161152,
+    "image_path": "./experimental_dataset/test/images/VQAv2_161152.png",
+    "question": "What is that tennis player name?",
+    "label": [
+        "anna",
+        "sheila",
+        "williams",
+        "maria sharapova",
+        "n/a",
+        "anna kournikova",
+        "don't know",
+        "anna kournikova",
+        "name not given",
+        "sally"
+    ]
+}

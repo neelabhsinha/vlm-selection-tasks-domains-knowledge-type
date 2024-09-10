@@ -1,0 +1,17 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3348,
+    "caption": "a collage of photographs showing various types of mail",
+    "object_tags": [
+        "text",
+        "font",
+        "black and white",
+        "parallel",
+        "number",
+        "screenshot",
+        "diagram",
+        "line",
+        "receipt",
+        "document"
+    ]
+}

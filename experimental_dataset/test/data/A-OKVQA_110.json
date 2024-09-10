@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 110,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_110.png",
+    "question": "In what shape is the quiche cut?",
+    "label": "['triangle', 'triangle', 'triangle', 'triangles', 'triangle', 'triangles', 'triangles', 'triangles', 'triangle', 'triangle']",
+    "choices": [
+        "triangles",
+        "stars",
+        "circles",
+        "rectangles"
+    ],
+    "correct_choice": "triangles"
+}

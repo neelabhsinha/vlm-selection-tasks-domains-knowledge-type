@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1682,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1682.png",
+    "question": "What is the silverware made from?",
+    "label": [
+        "stainless steel",
+        "stainless steel",
+        "stainless steel",
+        "stainless steel",
+        "stainless steel",
+        "stainless steel",
+        "steel",
+        "steel",
+        "metal",
+        "metal"
+    ]
+}

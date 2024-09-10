@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1217,
+    "caption": "a flock of birds sitting on top of a rock",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "lake",
+        "cloud",
+        "water",
+        "tree",
+        "beach",
+        "nature",
+        "animal",
+        "mountain",
+        "landscape",
+        "ground",
+        "island",
+        "river"
+    ]
+}

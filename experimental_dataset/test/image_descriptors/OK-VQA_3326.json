@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3326,
+    "caption": "a large group of students posing for a picture",
+    "object_tags": [
+        "clothing",
+        "person",
+        "smile",
+        "human face",
+        "posing",
+        "group",
+        "building",
+        "man",
+        "team",
+        "outdoor",
+        "social group",
+        "people",
+        "child",
+        "boy",
+        "standing",
+        "school"
+    ]
+}

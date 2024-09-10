@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1935,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1935.png",
+    "question": "What is the title of the plot on the right of the page?",
+    "label": [
+        "CO2 Emission - Fossil Fuels",
+        "CO2 emission - fossil fuels"
+    ]
+}

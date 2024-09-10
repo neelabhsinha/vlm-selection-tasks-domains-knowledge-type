@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 995,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_995.png",
+    "question": "What is the long bar of the bicycle?",
+    "label": "['top tube', 'frame', 'handlebar', 'handle', 'frame', 'black', 'stearing', 'frame', 'bike lock', 'handle']",
+    "choices": [
+        "kick stand",
+        "bike lock",
+        "water bottle",
+        "phone"
+    ],
+    "correct_choice": "bike lock"
+}

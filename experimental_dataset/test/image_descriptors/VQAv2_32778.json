@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 32778,
+    "caption": "a vase filled with flowers sitting on top of a table",
+    "object_tags": [
+        "flower",
+        "vase",
+        "plant",
+        "petal",
+        "table",
+        "indoor",
+        "glass",
+        "blue",
+        "sitting"
+    ]
+}

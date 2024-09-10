@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1379,
+    "caption": "a sandwich cut in half on a paper plate",
+    "object_tags": [
+        "food",
+        "fast food",
+        "bread",
+        "sandwich",
+        "american food",
+        "bun",
+        "snack food",
+        "banh ma",
+        "breakfast sandwich",
+        "banh",
+        "runza food",
+        "breakfast roll",
+        "bocadillo",
+        "submarine sandwich",
+        "gluten",
+        "indoor",
+        "meat"
+    ]
+}

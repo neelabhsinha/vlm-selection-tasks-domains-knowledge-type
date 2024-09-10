@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 106203,
+    "caption": "a cat that is sitting on a window sill",
+    "object_tags": [
+        "animal",
+        "small to medium-sized cats",
+        "mammal",
+        "felidae",
+        "cat",
+        "domestic cat",
+        "whiskers",
+        "indoor",
+        "domestic short-haired cat",
+        "malayan cat",
+        "striped"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 857,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_857.png",
+    "question": "What is the man holding in his hands?",
+    "label": "['bat', 'bat', 'baseball bat', 'bat', 'baseball bat', 'bat', 'baseball bat', 'baseball bat', 'bat', 'bat']",
+    "choices": [
+        "hockey puck",
+        "baseball bat",
+        "football",
+        "basketball"
+    ],
+    "correct_choice": "baseball bat"
+}

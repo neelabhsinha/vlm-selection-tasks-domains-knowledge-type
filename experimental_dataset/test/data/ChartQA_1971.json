@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1971,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1971.png",
+    "question": "What was the direct effect of the meetings industry on the U.S. economy in 2009?",
+    "label": [
+        "263.44"
+    ]
+}

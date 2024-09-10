@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 280,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_280.png",
+    "question": "What is this dish being cooked in?",
+    "label": "['wok', 'wok', 'wok', 'wok', 'wok', 'wok', 'stir fry', 'pan', 'wok', 'saucer pan']",
+    "choices": [
+        "wok",
+        "stock pot",
+        "frying pan",
+        "teapot"
+    ],
+    "correct_choice": "wok"
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "ChartQA",
+    "key": 1306,
+    "caption": "a collage of photos of a person holding a blue and white disk",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "colorfulness",
+        "diagram"
+    ]
+}

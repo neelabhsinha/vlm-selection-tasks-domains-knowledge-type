@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1418,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1418.png",
+    "question": "What is the 9th item on the list?",
+    "label": [
+        "media seminars"
+    ]
+}

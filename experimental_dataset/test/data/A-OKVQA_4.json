@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 4,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_4.png",
+    "question": "What type of device is sitting next to the laptop?",
+    "label": "['cell phone', 'vodafone', 'phone', 'phone', 'phone', 'phone', 'cell phone', 'phone', 'phone', 'mobile phone']",
+    "choices": [
+        "mouse",
+        "mobile phone",
+        "pen",
+        "keyboard"
+    ],
+    "correct_choice": "mobile phone"
+}

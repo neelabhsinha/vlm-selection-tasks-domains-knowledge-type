@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2416,
+    "caption": "a black cat sitting on top of a purse",
+    "object_tags": [
+        "animal",
+        "cat",
+        "indoor",
+        "small to medium-sized cats",
+        "felidae",
+        "black",
+        "black cat",
+        "laying",
+        "sitting",
+        "chair",
+        "kitten"
+    ]
+}

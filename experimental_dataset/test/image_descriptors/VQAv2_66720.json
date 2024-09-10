@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 66720,
+    "caption": "a box of donuts sitting on top of a table",
+    "object_tags": [
+        "baked goods",
+        "food",
+        "snack",
+        "plate",
+        "indoor",
+        "bread",
+        "dish",
+        "gluten",
+        "pastry",
+        "dessert",
+        "bagel",
+        "baking",
+        "meal",
+        "platter",
+        "cuisine",
+        "dishware",
+        "tableware",
+        "table",
+        "ciambella",
+        "bakery",
+        "doughnut",
+        "donut"
+    ]
+}

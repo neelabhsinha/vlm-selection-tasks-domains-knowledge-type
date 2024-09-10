@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 660,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_660.png",
+    "question": "What is the name given to this type of game?",
+    "label": "['baseball', 'baseball', 'baseball', 'baseball', 'baseball', 'baseball', 'baseball', 'cricket', 'baseball', 'baseball']",
+    "choices": [
+        "volleyball",
+        "handball",
+        "football",
+        "cricket"
+    ],
+    "correct_choice": "cricket"
+}

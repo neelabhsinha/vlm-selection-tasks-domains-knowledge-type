@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 665,
+    "caption": "people are standing in a field",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "person",
+        "grass",
+        "sky",
+        "field",
+        "people",
+        "ground",
+        "group"
+    ]
+}

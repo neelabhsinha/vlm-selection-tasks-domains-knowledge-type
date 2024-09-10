@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 629,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_629.png",
+    "question": "The blue tape on the wall is in the shape of a letter that is needed to spell what word?",
+    "label": "['box', 'cross', 'xylophone', 'box', 'extra', 'eye', 'ax', 'exact', 'x', 'xylophone']",
+    "choices": [
+        "goal",
+        "ax",
+        "mead",
+        "moon"
+    ],
+    "correct_choice": "ax"
+}

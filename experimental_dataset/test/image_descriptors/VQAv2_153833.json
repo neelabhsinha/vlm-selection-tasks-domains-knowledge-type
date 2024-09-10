@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 153833,
+    "caption": "a white toilet sitting on top of a cement block",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "sky",
+        "ground",
+        "waste container",
+        "composite material",
+        "toilet",
+        "construction",
+        "sidewalk"
+    ]
+}

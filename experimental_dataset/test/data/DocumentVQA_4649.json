@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4649,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4649.png",
+    "question": "Which group is represented by the solid line curve?",
+    "label": [
+        "GROUP A",
+        "GROUP A 42% POWDER"
+    ]
+}

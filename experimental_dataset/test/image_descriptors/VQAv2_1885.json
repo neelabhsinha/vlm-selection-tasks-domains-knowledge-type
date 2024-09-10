@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 1885,
+    "caption": "a cat wearing a bow tie sitting on a bed",
+    "object_tags": [
+        "indoor",
+        "small to medium-sized cats",
+        "domestic cat",
+        "felidae",
+        "cat",
+        "whiskers",
+        "wall",
+        "animal",
+        "mammal",
+        "domestic short-haired cat",
+        "wearing"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 496,
+    "caption": "a man holding a cell phone in his hand",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "wall",
+        "human face",
+        "man",
+        "standing",
+        "elevator"
+    ]
+}

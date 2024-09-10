@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3728,
+    "caption": "a book and a cup of coffee on a table",
+    "object_tags": [
+        "coffee cup",
+        "serveware",
+        "saucer",
+        "text",
+        "tableware",
+        "teacup",
+        "tea",
+        "drinkware",
+        "mug",
+        "dishware",
+        "cup",
+        "table",
+        "coffee",
+        "book"
+    ]
+}

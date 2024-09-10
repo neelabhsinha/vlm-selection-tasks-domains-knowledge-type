@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1180,
+    "caption": "a collage of photographs showing a computer and a clock",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "parallel",
+        "document",
+        "number",
+        "font",
+        "rectangle",
+        "receipt"
+    ]
+}

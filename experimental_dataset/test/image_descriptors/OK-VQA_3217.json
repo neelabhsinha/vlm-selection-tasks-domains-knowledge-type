@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3217,
+    "caption": "a lamp that is on in a room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "lampshade",
+        "cabinetry",
+        "interior design",
+        "furniture",
+        "drawer",
+        "television",
+        "chest of drawers",
+        "hardwood",
+        "room",
+        "lamp",
+        "wooden",
+        "floor",
+        "wood"
+    ]
+}

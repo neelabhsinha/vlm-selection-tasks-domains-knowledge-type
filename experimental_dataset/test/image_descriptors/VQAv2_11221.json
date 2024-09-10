@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 11221,
+    "caption": "a man flying through the air while riding a snowboard",
+    "object_tags": [
+        "sky",
+        "cloud",
+        "outdoor",
+        "sport",
+        "black and white",
+        "jumping",
+        "person",
+        "air",
+        "skiing",
+        "high",
+        "cloudy",
+        "jump",
+        "performing"
+    ]
+}

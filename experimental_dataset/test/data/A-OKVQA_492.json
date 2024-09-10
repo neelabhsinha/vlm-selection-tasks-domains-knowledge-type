@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 492,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_492.png",
+    "question": "Where is this person located?",
+    "label": "['living room', 'living room', 'on chair', 'living room', 'living room', 'living room', 'on chair', 'home', 'living room', 'living room']",
+    "choices": [
+        "restaurant",
+        "home",
+        "library",
+        "office"
+    ],
+    "correct_choice": "home"
+}

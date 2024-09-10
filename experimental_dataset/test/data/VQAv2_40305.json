@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 40305,
+    "image_path": "./experimental_dataset/test/images/VQAv2_40305.png",
+    "question": "What sport is the boy dressed for?",
+    "label": [
+        "skateboarding",
+        "skating",
+        "skateboarding",
+        "skateboarding",
+        "skateboarding",
+        "skateboarding",
+        "skating",
+        "skateboarding",
+        "skateboarding",
+        "skateboarding"
+    ]
+}

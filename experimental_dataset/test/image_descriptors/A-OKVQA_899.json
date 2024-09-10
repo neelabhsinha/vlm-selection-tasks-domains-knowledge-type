@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 899,
+    "caption": "a pizza sitting on top of a table next to a bottle of beer",
+    "object_tags": [
+        "food",
+        "fast food",
+        "pizza",
+        "drink",
+        "table",
+        "person",
+        "meal",
+        "pizza cheese",
+        "tableware",
+        "italian food",
+        "bottle",
+        "california-style pizza",
+        "indoor",
+        "sitting",
+        "shop",
+        "restaurant"
+    ]
+}

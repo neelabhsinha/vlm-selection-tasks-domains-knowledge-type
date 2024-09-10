@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1102,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1102.png",
+    "question": "In United states , what is the highest bar value?",
+    "label": [
+        "59.66"
+    ]
+}

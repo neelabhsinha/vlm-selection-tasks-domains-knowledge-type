@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 202413,
+    "caption": "a truck driving down a street filled with people",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "transport",
+        "tire",
+        "truck",
+        "road",
+        "auto part",
+        "clothing",
+        "military vehicle",
+        "person",
+        "street",
+        "riding",
+        "people",
+        "driving"
+    ]
+}

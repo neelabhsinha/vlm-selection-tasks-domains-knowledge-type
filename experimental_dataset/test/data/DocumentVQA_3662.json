@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3662,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3662.png",
+    "question": "What does MB denote?",
+    "label": [
+        "Send to Mailbox"
+    ]
+}

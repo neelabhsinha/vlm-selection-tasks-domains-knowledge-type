@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 701,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_701.png",
+    "question": "What greatly reduces serious risks to your health,according to SURGEON GENERAL\u2019S WARNING?",
+    "label": [
+        "Quitting Smoking",
+        "Quitting smoking"
+    ]
+}

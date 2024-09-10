@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 30,
+    "caption": "a man in a hat is working on a cart filled with vegetables",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "man",
+        "marketplace",
+        "people",
+        "market",
+        "hawker",
+        "trade",
+        "selling",
+        "woman",
+        "flea market",
+        "melon",
+        "fruit",
+        "watermelon",
+        "food",
+        "street"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 114,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_114.png",
+    "question": "Which brand does the sub brand 'fresh' belong to?",
+    "label": [
+        "mint-o"
+    ]
+}

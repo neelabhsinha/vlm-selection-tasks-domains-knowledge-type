@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1645,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1645.png",
+    "question": "What was the total income from ticketing of all 22 clubs in the 2011/12 season?",
+    "label": [
+        "46.5"
+    ]
+}

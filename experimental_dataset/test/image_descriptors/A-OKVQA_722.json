@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 722,
+    "caption": "a white refrigerator sitting next to a wall",
+    "object_tags": [
+        "kitchen appliance",
+        "appliance",
+        "indoor",
+        "home appliance",
+        "major appliance",
+        "floor",
+        "refrigerator",
+        "kitchen",
+        "sitting"
+    ]
+}

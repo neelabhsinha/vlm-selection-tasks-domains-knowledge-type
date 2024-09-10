@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 420,
+    "caption": "a train pulling into a train station next to a loading platform",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "transport",
+        "vehicle",
+        "railroad",
+        "wheel",
+        "sky",
+        "rolling",
+        "railway",
+        "rolling stock",
+        "road",
+        "grass",
+        "track",
+        "train",
+        "parked",
+        "locomotive",
+        "ground"
+    ]
+}

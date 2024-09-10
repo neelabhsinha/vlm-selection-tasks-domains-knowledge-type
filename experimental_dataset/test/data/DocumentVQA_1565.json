@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1565,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1565.png",
+    "question": "What does FUM denote?",
+    "label": [
+        "Fumigant"
+    ]
+}

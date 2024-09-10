@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4396,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4396.png",
+    "question": "what is the second event in Symposium 3?",
+    "label": [
+        "689. deploying rust resistance. parlevliet, j.e. (netherlands)",
+        "689. Deploying Rust Resistance. Parlevliet, J.E. (Netherlands)",
+        "0915 689. deploying rust resistance. parlevliet, j.e. (netherlands)"
+    ]
+}

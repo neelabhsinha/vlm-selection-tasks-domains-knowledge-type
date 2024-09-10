@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 952,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_952.png",
+    "question": "What type of boat this is called as?",
+    "label": "['sailboats', 'sailboat', 'sailboat', 'sailing vessel', 'sailboat', 'sail', 'sail', 'sailboat', 'fishing', 'sailboat']",
+    "choices": [
+        "bass boat",
+        "sailing vessel",
+        "trimaran",
+        "fishing vessel"
+    ],
+    "correct_choice": "sailing vessel"
+}

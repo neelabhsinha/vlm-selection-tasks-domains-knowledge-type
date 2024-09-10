@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2620,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2620.png",
+    "question": "Does this look more like chuckie or the characters from the dark crystal?",
+    "label": [
+        "dark crystal",
+        "dark crystal",
+        "dark crystal",
+        "dark crystal",
+        "dark crystal",
+        "dark crystal",
+        "chuckie",
+        "chuckie",
+        "chuckie",
+        "chuckie"
+    ]
+}

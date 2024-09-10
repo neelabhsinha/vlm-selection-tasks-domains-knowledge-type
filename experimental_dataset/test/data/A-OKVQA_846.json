@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 846,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_846.png",
+    "question": "What is the boy using his phone to do?",
+    "label": "['photograph', 'record', 'record', 'pictures', 'record', 'take picture', 'record', 'photo', 'take picture', 'take pictures']",
+    "choices": [
+        "text",
+        "browse internet",
+        "play games",
+        "take picture"
+    ],
+    "correct_choice": "take picture"
+}

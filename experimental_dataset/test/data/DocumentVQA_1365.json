@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1365,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1365.png",
+    "question": "What was his first designation, when he joined Kelco?",
+    "label": [
+        "Sales Representative and Technical Advisor for Canada",
+        "Sales Representative and Technical Advisor"
+    ]
+}

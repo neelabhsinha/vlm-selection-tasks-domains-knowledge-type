@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 206,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_206.png",
+    "question": "Why is his arm up in the air?",
+    "label": "['returning serve', 'serving', 'swinging', 'hitting ball', 'hit ball', 'serving', 'tennis swing', 'playing tennis', 'hitting', 'reach']",
+    "choices": [
+        "signal",
+        "balance",
+        "wave",
+        "reach"
+    ],
+    "correct_choice": "reach"
+}

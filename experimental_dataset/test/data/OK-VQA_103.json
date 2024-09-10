@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 103,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_103.png",
+    "question": "How heavy is this object?",
+    "label": [
+        "100 lbs",
+        "100 lbs",
+        "100 lbs",
+        "100 lbs",
+        "very heavy",
+        "very heavy",
+        "20 pounds",
+        "20 pounds",
+        "500 lbs",
+        "500 lbs"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4457,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4457.png",
+    "question": "when is the local IRB meeting scheduled?",
+    "label": [
+        "Every month",
+        "every month",
+        "Every Months"
+    ]
+}

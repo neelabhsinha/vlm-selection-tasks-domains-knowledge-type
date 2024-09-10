@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 702,
+    "caption": "a car filled with lots of skis and snowboards",
+    "object_tags": [
+        "vehicle",
+        "luggage compartment",
+        "land vehicle",
+        "car",
+        "transport",
+        "vehicle door",
+        "automotive tail & brake light",
+        "outdoor",
+        "trunk",
+        "full",
+        "automotive"
+    ]
+}

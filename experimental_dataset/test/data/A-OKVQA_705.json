@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 705,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_705.png",
+    "question": "Which part of the animals is/are precious?",
+    "label": "['ears', 'tusks', 'tusks', 'tusk', 'tusks', 'tusks brains', 'tusks', 'tusks', 'tusks', 'tusks']",
+    "choices": [
+        "ears",
+        "eyes",
+        "nose",
+        "tusks"
+    ],
+    "correct_choice": "tusks"
+}

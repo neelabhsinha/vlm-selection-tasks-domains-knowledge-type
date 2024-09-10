@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4495,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4495.png",
+    "question": "Which alchohol use group has \"Mean no. hospitalizations\" the highest?",
+    "label": [
+        "9+ drinks daily"
+    ]
+}

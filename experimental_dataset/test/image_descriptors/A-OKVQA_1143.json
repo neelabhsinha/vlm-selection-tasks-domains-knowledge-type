@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1143,
+    "caption": "a woman holding an umbrella standing in front of a building",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "building",
+        "car",
+        "person",
+        "land vehicle",
+        "ground",
+        "vehicle",
+        "sky",
+        "umbrella",
+        "footwear",
+        "fashion accessory",
+        "woman",
+        "jeans",
+        "rain",
+        "street",
+        "walking",
+        "holding",
+        "accessory",
+        "rainy",
+        "standing",
+        "sidewalk"
+    ]
+}

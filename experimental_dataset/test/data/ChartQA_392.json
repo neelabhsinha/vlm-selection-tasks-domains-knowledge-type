@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 392,
+    "image_path": "./experimental_dataset/test/images/ChartQA_392.png",
+    "question": "What country has the highest level of consumption of ozone-depleting substances?",
+    "label": [
+        "Gabon"
+    ]
+}

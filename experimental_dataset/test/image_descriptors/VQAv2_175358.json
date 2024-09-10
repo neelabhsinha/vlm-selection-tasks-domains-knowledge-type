@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 175358,
+    "caption": "a vase of flowers sitting on a table next to a television",
+    "object_tags": [
+        "indoor",
+        "vase",
+        "houseplant",
+        "flowerpot",
+        "furniture",
+        "wall",
+        "table",
+        "television",
+        "mug",
+        "pitcher",
+        "tableware",
+        "flower",
+        "coffee cup",
+        "jug",
+        "floral design",
+        "ceramic",
+        "coffee",
+        "plant",
+        "shelf",
+        "cup",
+        "floor"
+    ]
+}

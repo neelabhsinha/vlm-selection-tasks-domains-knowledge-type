@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 123645,
+    "image_path": "./experimental_dataset/test/images/VQAv2_123645.png",
+    "question": "Is the man looking for someone?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

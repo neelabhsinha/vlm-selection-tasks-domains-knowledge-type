@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2533,
+    "caption": "a close up picture of a motorcycle",
+    "object_tags": [
+        "motorcycle",
+        "motorbike",
+        "auto part",
+        "tire",
+        "wheel",
+        "vehicle",
+        "engine",
+        "land vehicle",
+        "fuel tank",
+        "vehicle brake",
+        "suspension",
+        "brake",
+        "parked",
+        "bike"
+    ]
+}

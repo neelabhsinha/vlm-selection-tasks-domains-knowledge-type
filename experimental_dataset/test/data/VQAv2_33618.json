@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 33618,
+    "image_path": "./experimental_dataset/test/images/VQAv2_33618.png",
+    "question": "What's is on the plate?",
+    "label": [
+        "food",
+        "burger, fries, tomato, lettuce, lemon, condiments, pickle",
+        "food",
+        "sandwich",
+        "burger fixins",
+        "burger and fries",
+        "burger and fries",
+        "sandwich",
+        "food",
+        "burger fried and condiments"
+    ]
+}

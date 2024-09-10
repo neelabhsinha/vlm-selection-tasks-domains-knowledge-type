@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5134,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5134.png",
+    "question": "what is the time period?",
+    "label": [
+        "98",
+        "1/03/98 thru 06/12/98"
+    ]
+}

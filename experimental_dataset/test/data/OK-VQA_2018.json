@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2018,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2018.png",
+    "question": "Should we go or stop?",
+    "label": [
+        "go",
+        "go",
+        "go",
+        "go",
+        "go",
+        "go",
+        "go",
+        "go",
+        "go",
+        "go"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5287,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5287.png",
+    "question": "Is age verification needed?",
+    "label": [
+        "yes",
+        "Yes"
+    ]
+}

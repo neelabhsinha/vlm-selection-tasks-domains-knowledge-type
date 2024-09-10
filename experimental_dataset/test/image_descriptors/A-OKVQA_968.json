@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 968,
+    "caption": "a woman standing in a bathroom next to a door",
+    "object_tags": [
+        "wall",
+        "footwear",
+        "clothing",
+        "indoor",
+        "door",
+        "trousers",
+        "mirror",
+        "person",
+        "standing",
+        "floor",
+        "fashion"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 795,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_795.png",
+    "question": "What is the title of the pie chart?",
+    "label": [
+        "chemical compounds found in cigarettes (first response)",
+        "Chemical compounds found in cigarettes (First response)"
+    ]
+}

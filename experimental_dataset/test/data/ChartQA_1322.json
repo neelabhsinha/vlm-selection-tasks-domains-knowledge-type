@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1322,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1322.png",
+    "question": "What was Belgium's GDP in 2020?",
+    "label": [
+        "451176.9"
+    ]
+}

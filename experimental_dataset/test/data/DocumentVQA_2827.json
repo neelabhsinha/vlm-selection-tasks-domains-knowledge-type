@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2827,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2827.png",
+    "question": "Where did he do M.D?",
+    "label": [
+        "Washington university",
+        "Washington University"
+    ]
+}

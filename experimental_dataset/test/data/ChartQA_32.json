@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 32,
+    "image_path": "./experimental_dataset/test/images/ChartQA_32.png",
+    "question": "How many are Somewhat confident that Donald Trump can Mange the executive branch effectively?",
+    "label": [
+        "24"
+    ]
+}

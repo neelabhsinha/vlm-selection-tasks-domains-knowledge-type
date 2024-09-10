@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 56778,
+    "caption": "a large building with a clock on the side of it",
+    "object_tags": [
+        "sky",
+        "building",
+        "night",
+        "outdoor",
+        "lighting",
+        "street light",
+        "security lighting",
+        "light",
+        "city"
+    ]
+}

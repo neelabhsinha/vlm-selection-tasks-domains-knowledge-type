@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1986,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1986.png",
+    "question": "What was the official bank base rate cut to on the 19th of March 2020?",
+    "label": [
+        "0.1"
+    ]
+}

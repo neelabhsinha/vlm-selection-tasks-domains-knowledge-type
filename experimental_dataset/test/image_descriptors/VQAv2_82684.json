@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 82684,
+    "caption": "a man and a woman standing in front of a bar",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "bottle",
+        "wall",
+        "man",
+        "human face",
+        "drink",
+        "smile",
+        "wine",
+        "wine glass",
+        "standing",
+        "window",
+        "woman",
+        "alcohol"
+    ]
+}

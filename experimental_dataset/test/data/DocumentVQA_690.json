@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 690,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_690.png",
+    "question": "Which company is mentioned in the letter head?",
+    "label": [
+        "SCOTT RADIOLOGICAL GROUP, INC."
+    ]
+}

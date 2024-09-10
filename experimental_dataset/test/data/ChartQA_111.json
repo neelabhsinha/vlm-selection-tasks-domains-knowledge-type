@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 111,
+    "image_path": "./experimental_dataset/test/images/ChartQA_111.png",
+    "question": "Deduct the minimum opinion from the median one?",
+    "label": [
+        "8"
+    ]
+}

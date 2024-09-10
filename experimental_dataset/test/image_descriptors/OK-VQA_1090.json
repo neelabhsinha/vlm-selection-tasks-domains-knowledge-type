@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1090,
+    "caption": "a dog laying on a couch with a blanket",
+    "object_tags": [
+        "indoor",
+        "couch",
+        "furniture",
+        "dog breed",
+        "pet",
+        "comfort",
+        "dog bed",
+        "sofa bed",
+        "wall",
+        "dog",
+        "brown",
+        "mammal",
+        "animal",
+        "sofa",
+        "puppy"
+    ]
+}

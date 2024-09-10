@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1001,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1001.png",
+    "question": "Who is from Vanderbilt University?",
+    "label": [
+        "Frank Chytil"
+    ]
+}

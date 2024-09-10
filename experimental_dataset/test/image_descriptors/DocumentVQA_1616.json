@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1616,
+    "caption": "a book with a picture of a horse on it",
+    "object_tags": [
+        "text",
+        "black and white",
+        "sketch",
+        "art",
+        "monochrome"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 267,
+    "caption": "a motorcycle is parked on the side of the road",
+    "object_tags": [
+        "land vehicle",
+        "wheel",
+        "vehicle",
+        "bicycle wheel",
+        "outdoor",
+        "tire",
+        "sky",
+        "bicycle tire",
+        "bicycle frame",
+        "bike",
+        "cycling",
+        "ground",
+        "bicycle fork",
+        "bicycle handlebar",
+        "bicycles--equipment and supplies",
+        "road bicycle",
+        "cycle sport",
+        "bicycle",
+        "road",
+        "parked",
+        "sidewalk",
+        "street"
+    ]
+}

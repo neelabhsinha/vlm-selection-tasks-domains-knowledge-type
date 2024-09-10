@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 142467,
+    "caption": "stuffed animals on display at a carnival",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "mascot",
+        "toy",
+        "chinese new year",
+        "decorated",
+        "animal",
+        "street",
+        "parade"
+    ]
+}

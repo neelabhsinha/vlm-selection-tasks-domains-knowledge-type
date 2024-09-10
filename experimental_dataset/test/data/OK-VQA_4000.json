@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4000,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4000.png",
+    "question": "What food does this animal eat?",
+    "label": [
+        "grain",
+        "grain",
+        "grain",
+        "grain",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "hay",
+        "hay"
+    ]
+}

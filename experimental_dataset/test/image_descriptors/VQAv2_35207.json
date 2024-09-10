@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 35207,
+    "caption": "two dogs sleeping on a bed with pillows",
+    "object_tags": [
+        "indoor",
+        "pet",
+        "bed",
+        "dog breed",
+        "laying",
+        "animal",
+        "sleeping",
+        "brown",
+        "pillow",
+        "blanket",
+        "mammal",
+        "dog"
+    ]
+}

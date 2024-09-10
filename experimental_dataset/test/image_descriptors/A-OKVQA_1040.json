@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1040,
+    "caption": "a cat laying on top of a table next to a mouse",
+    "object_tags": [
+        "small to medium-sized cats",
+        "indoor",
+        "felidae",
+        "mammal",
+        "animal",
+        "domestic cat",
+        "whiskers",
+        "cat",
+        "domestic short-haired cat",
+        "laying",
+        "remote",
+        "kitten",
+        "controller"
+    ]
+}

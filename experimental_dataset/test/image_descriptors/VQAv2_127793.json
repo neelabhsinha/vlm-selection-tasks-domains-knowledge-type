@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 127793,
+    "caption": "a clock tower with a flag on top of it",
+    "object_tags": [
+        "clock",
+        "outdoor",
+        "clock tower",
+        "wall clock",
+        "sky",
+        "facade",
+        "building",
+        "flag",
+        "large",
+        "tower",
+        "city",
+        "government building"
+    ]
+}

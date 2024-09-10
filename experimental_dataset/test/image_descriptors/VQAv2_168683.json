@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 168683,
+    "caption": "a city street filled with cars and traffic lights",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "building",
+        "tree",
+        "sky",
+        "wheel",
+        "road",
+        "street",
+        "traffic light",
+        "city",
+        "van",
+        "traffic",
+        "vehicle registration plate",
+        "signaling device",
+        "car",
+        "mountain",
+        "light",
+        "winter"
+    ]
+}

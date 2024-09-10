@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 354,
+    "caption": "a herd of sheep grazing on a lush green hillside",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "animal",
+        "field",
+        "mammal",
+        "pasture",
+        "sheep",
+        "plant",
+        "grassland",
+        "grazing",
+        "meadow",
+        "fodder",
+        "herd",
+        "herding",
+        "livestock",
+        "green",
+        "hill",
+        "hillside",
+        "lush",
+        "landscape"
+    ]
+}

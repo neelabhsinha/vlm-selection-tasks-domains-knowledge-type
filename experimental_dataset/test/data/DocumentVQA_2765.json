@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2765,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2765.png",
+    "question": "What is the issue at the bottom of the pyramid?",
+    "label": [
+        "Product Quality/Liability Issues"
+    ]
+}

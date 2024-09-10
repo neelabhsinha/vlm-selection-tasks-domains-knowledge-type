@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1635,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1635.png",
+    "question": "How much was the 1988 estimated expenditure committed for System buy-out-Sovran Bank in the VANTAGE GOLF OPERATIONS?",
+    "label": [
+        "150",
+        "$150",
+        "(000\u2019s)"
+    ]
+}

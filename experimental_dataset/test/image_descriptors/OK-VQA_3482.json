@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3482,
+    "caption": "a man standing next to an elephant in a zoo enclosure",
+    "object_tags": [
+        "elephant",
+        "outdoor",
+        "tree",
+        "zoo",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "terrestrial animal",
+        "ground",
+        "tusk",
+        "african elephant",
+        "plant",
+        "standing",
+        "person",
+        "rock",
+        "trunk",
+        "enclosure"
+    ]
+}

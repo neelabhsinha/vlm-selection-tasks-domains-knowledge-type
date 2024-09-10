@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 646,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_646.png",
+    "question": "How was this food cooked?",
+    "label": "['toasted', 'grill', 'sandwich press', 'grilled', 'pan cooked', 'grilled', 'grilled', 'oven', 'baked', 'grilled']",
+    "choices": [
+        "toasted",
+        "fried",
+        "grilled",
+        "baked"
+    ],
+    "correct_choice": "grilled"
+}

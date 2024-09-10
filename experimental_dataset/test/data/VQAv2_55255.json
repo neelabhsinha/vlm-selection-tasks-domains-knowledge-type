@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55255,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55255.png",
+    "question": "What color is the sky?",
+    "label": [
+        "gray-green",
+        "green",
+        "gray",
+        "gray",
+        "yellow",
+        "gray",
+        "grayish",
+        "gray",
+        "gray",
+        "white"
+    ]
+}

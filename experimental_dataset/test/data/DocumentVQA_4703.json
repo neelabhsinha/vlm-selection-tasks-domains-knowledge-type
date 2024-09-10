@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4703,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4703.png",
+    "question": "Did John have had any graduate level course in statistics?",
+    "label": [
+        "yes"
+    ]
+}

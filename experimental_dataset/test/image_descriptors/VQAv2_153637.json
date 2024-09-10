@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 153637,
+    "caption": "people standing on top of a beach next to a body of water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "watercraft",
+        "transport",
+        "vehicle",
+        "boating",
+        "lake",
+        "beach",
+        "canoe",
+        "ship",
+        "ground",
+        "boat",
+        "shore",
+        "people",
+        "group",
+        "landscape",
+        "ocean",
+        "sand",
+        "sea"
+    ]
+}

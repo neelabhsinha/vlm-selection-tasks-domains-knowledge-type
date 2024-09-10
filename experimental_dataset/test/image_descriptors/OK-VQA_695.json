@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 695,
+    "caption": "a coffee cup sitting on top of a wooden table",
+    "object_tags": [
+        "text",
+        "table",
+        "indoor",
+        "baked goods",
+        "coffee cup",
+        "mug",
+        "tableware",
+        "snack",
+        "dessert",
+        "coffee",
+        "floor",
+        "food",
+        "wooden"
+    ]
+}

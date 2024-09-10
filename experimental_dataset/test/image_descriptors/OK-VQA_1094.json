@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1094,
+    "caption": "a person holding a plate of food with a fork",
+    "object_tags": [
+        "food",
+        "indoor",
+        "meal",
+        "fork",
+        "plate",
+        "tableware",
+        "kitchen utensil",
+        "vegetable",
+        "person",
+        "table",
+        "fast food",
+        "holding"
+    ]
+}

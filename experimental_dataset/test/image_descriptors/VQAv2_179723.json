@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 179723,
+    "caption": "a pink and white flower arrangement in a garden",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "grass",
+        "spring",
+        "blossom",
+        "waste container",
+        "cherry blossom",
+        "tree",
+        "garden",
+        "plant",
+        "pink",
+        "flower",
+        "park"
+    ]
+}

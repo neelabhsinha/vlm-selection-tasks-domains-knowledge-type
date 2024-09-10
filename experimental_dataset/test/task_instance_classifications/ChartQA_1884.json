@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 1884,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Government and Politics",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Scientific Knowledge"
+    ]
+}

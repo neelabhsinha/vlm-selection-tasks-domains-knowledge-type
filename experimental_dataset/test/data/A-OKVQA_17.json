@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 17,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_17.png",
+    "question": "What activity does the cat appear most likely to do?",
+    "label": "['jump', 'jump', 'watching television', 'jump', 'eat food', 'jump', 'jump', 'jump', 'beg', 'eat']",
+    "choices": [
+        "drink",
+        "jump",
+        "eat",
+        "sleep"
+    ],
+    "correct_choice": "jump"
+}

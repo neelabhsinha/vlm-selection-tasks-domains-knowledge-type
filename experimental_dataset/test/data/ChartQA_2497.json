@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2497,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2497.png",
+    "question": "What was the agricultural sector's contribution to Brazil's GDP in 2016?",
+    "label": [
+        "4.89"
+    ]
+}

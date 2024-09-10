@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1291,
+    "caption": "a train that is parked in a train station",
+    "object_tags": [
+        "train",
+        "transport",
+        "railroad",
+        "railway",
+        "vehicle",
+        "train station",
+        "building",
+        "track",
+        "public transport",
+        "rolling stock",
+        "land vehicle",
+        "transport hub",
+        "passenger car",
+        "platform",
+        "railroad car",
+        "metro station",
+        "locomotive",
+        "high-speed rail",
+        "metro",
+        "electric locomotive",
+        "rolling",
+        "bullet train",
+        "outdoor",
+        "yellow",
+        "rail",
+        "parked"
+    ]
+}

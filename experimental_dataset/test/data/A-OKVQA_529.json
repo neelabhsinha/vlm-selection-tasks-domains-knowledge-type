@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 529,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_529.png",
+    "question": "How many skaters have both feet on the board?",
+    "label": "['three', 'two', 'one', 'three', 'one', 'three', 'one', 'three', 'one', 'three']",
+    "choices": [
+        "two",
+        "seven",
+        "three",
+        "one"
+    ],
+    "correct_choice": "two"
+}

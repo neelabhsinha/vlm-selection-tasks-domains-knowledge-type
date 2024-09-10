@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3114,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3114.png",
+    "question": "What is the value of stamp written in Cents?",
+    "label": [
+        "TWO",
+        "TWO CENTS"
+    ]
+}

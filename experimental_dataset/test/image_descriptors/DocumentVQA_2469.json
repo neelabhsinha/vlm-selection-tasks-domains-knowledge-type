@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2469,
+    "caption": "a collage of photographs showing various types of writing",
+    "object_tags": [
+        "text",
+        "letter",
+        "font",
+        "paper",
+        "handwriting",
+        "document"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 73167,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "History"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Technical Knowledge",
+        "Scientific Knowledge"
+    ]
+}

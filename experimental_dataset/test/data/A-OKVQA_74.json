@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 74,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_74.png",
+    "question": "The green object on the smaller boat is used as what?",
+    "label": "['flotation', 'bathroom', 'restroom', 'restroom', 'bathroom', 'portapotty', 'toilet', 'outhouse', 'potty', 'shelter']",
+    "choices": [
+        "cabin",
+        "restroom",
+        "dining",
+        "kitchen"
+    ],
+    "correct_choice": "restroom"
+}

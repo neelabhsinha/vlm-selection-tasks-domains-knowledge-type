@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 789,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_789.png",
+    "question": "What is on the side of the bus?",
+    "label": "['advertisement', 'advertisements', 'advertisement', 'actress', 'advertisement', 'cindy sherman', 'poster', 'exhibit advertisement', 'advertisement', 'poster']",
+    "choices": [
+        "digital signs",
+        "destination",
+        "advertisement",
+        "railings"
+    ],
+    "correct_choice": "advertisement"
+}

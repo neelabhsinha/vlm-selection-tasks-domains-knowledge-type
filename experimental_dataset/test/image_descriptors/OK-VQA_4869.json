@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4869,
+    "caption": "a bed in a room with a blue wall",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "window",
+        "interior design",
+        "window covering",
+        "pillow",
+        "window blind",
+        "bedding",
+        "bed sheet",
+        "bed",
+        "room",
+        "window treatment",
+        "furniture",
+        "linens",
+        "duvet cover",
+        "mattress",
+        "house",
+        "bed frame",
+        "cushion",
+        "bedroom",
+        "lampshade",
+        "ceiling"
+    ]
+}

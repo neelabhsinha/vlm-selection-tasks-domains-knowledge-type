@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 91,
+    "caption": "a large boat traveling across a body of water",
+    "object_tags": [
+        "transport",
+        "watercraft",
+        "outdoor",
+        "boat",
+        "ship",
+        "water",
+        "cloud",
+        "sky",
+        "vehicle",
+        "naval architecture",
+        "lake",
+        "water transportation",
+        "motor ship",
+        "waterway",
+        "skyscraper",
+        "marine architecture",
+        "channel",
+        "river",
+        "ferry",
+        "large",
+        "city",
+        "floating",
+        "bridge"
+    ]
+}

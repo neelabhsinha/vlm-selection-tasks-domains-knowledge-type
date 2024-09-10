@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2682,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2682.png",
+    "question": "What is the full form of I.P. ?",
+    "label": [
+        "intraperitoneal injection",
+        "Intraperitoneal injection"
+    ]
+}

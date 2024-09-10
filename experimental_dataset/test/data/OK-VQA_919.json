@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 919,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_919.png",
+    "question": "What type of cat is in the cartoon?",
+    "label": [
+        "tuxedo",
+        "tuxedo",
+        "tuxedo",
+        "tuxedo",
+        "housecat",
+        "housecat",
+        "house cat",
+        "house cat",
+        "black",
+        "black"
+    ]
+}

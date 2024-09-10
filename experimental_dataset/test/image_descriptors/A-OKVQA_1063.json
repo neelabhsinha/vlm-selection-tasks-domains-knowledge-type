@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1063,
+    "caption": "a little girl holding an umbrella in the rain",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "person",
+        "plant",
+        "umbrella",
+        "footwear",
+        "toddler",
+        "rain",
+        "accessory",
+        "sky",
+        "tree",
+        "holding",
+        "ground",
+        "grass",
+        "girl",
+        "woman"
+    ]
+}

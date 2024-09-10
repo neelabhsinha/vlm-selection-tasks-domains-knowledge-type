@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1145,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1145.png",
+    "question": "Approximately what time do you think this photo was taken?",
+    "label": [
+        "9 pm",
+        "9 pm",
+        "9 pm",
+        "9 pm",
+        "8pm",
+        "8pm",
+        "night",
+        "night",
+        "9pm",
+        "9pm"
+    ]
+}

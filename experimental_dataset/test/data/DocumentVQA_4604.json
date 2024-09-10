@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4604,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4604.png",
+    "question": "What percentage of male respondents use sugar only with beverages?",
+    "label": [
+        "47"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5036,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5036.png",
+    "question": "Which department does Dr. Robert work for?",
+    "label": [
+        "Department of Preventive Medicine & Public Health",
+        "Department of preventive medicine &Public Health",
+        "Preventive Medicine & Public Health"
+    ]
+}

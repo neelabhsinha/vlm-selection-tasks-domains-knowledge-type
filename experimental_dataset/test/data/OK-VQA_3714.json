@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3714,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3714.png",
+    "question": "What kind of bags are they using?",
+    "label": [
+        "suitcase",
+        "suitcase",
+        "suitcase",
+        "suitcase",
+        "luggage",
+        "luggage",
+        "luggage",
+        "luggage",
+        "roll luggage",
+        "roll luggage"
+    ]
+}

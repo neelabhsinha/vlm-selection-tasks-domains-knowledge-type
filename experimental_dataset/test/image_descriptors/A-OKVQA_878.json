@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 878,
+    "caption": "a crowd of people riding bikes down a street",
+    "object_tags": [
+        "land vehicle",
+        "outdoor",
+        "bicycle wheel",
+        "person",
+        "vehicle",
+        "wheel",
+        "clothing",
+        "cycling",
+        "bicycle frame",
+        "tree",
+        "transport",
+        "bicycle",
+        "man",
+        "bicycle tire",
+        "bicycles--equipment and supplies",
+        "bicycle pedal",
+        "road bicycle",
+        "bicycle handlebar",
+        "bicycle fork",
+        "bike",
+        "cycle sport",
+        "hybrid bicycle",
+        "people",
+        "road",
+        "street",
+        "group"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 637,
+    "image_path": "./experimental_dataset/test/images/ChartQA_637.png",
+    "question": "What is the difference of number of pupils receiving lesson in Gaelic medium education and Gaelic learner classes?",
+    "label": [
+        "828"
+    ]
+}

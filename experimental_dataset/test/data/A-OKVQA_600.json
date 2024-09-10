@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 600,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_600.png",
+    "question": "What colour is the lead player's shirt?",
+    "label": "['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']",
+    "choices": [
+        "red",
+        "yellow",
+        "green",
+        "white"
+    ],
+    "correct_choice": "white"
+}

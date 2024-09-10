@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 654,
+    "image_path": "./experimental_dataset/test/images/ChartQA_654.png",
+    "question": "What's the value of wholesale Price Index in FY 2019?",
+    "label": [
+        "123.3"
+    ]
+}

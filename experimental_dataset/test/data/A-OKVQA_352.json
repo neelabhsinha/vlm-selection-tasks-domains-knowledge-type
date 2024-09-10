@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 352,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_352.png",
+    "question": "What is sitting on top of the bed?",
+    "label": "['shoes', 'light', 'shoes', 'shoes', 'sneakers', 'shoes', 'sneakers', 'sneakers', 'shoes', 'shoes']",
+    "choices": [
+        "sneakers",
+        "dog",
+        "sports equipment",
+        "cat"
+    ],
+    "correct_choice": "sneakers"
+}

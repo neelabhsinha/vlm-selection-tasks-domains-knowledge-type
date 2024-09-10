@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 82107,
+    "image_path": "./experimental_dataset/test/images/VQAv2_82107.png",
+    "question": "Are the players wearing safety equipment?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

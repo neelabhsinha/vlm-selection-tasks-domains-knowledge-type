@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4784,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4784.png",
+    "question": "What's in the middle of that sweet?",
+    "label": [
+        "creme",
+        "creme",
+        "creme",
+        "creme",
+        "earth",
+        "earth",
+        "fruit",
+        "fruit",
+        "strawberry",
+        "strawberry"
+    ]
+}

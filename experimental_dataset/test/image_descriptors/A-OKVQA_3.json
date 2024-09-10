@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 3,
+    "caption": "a cupcake with sprinkles on top of it",
+    "object_tags": [
+        "dessert",
+        "baked goods",
+        "food",
+        "baking",
+        "muffin",
+        "snack",
+        "sweetness",
+        "pastry",
+        "person",
+        "indoor"
+    ]
+}

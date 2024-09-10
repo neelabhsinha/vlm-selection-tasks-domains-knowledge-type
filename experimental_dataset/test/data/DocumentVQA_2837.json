@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2837,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2837.png",
+    "question": "Which is the industry for which the wage order is set at a minimum of 40 cents per hour?",
+    "label": [
+        "SUGAR AND RELATED PRODUCTS INDUSTRY",
+        "Sugar and related products industry",
+        "\"Sugar and related products industry\""
+    ]
+}

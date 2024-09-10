@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 84953,
+    "caption": "a crowd of people standing around a pile of garbage",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "man",
+        "building",
+        "jeans",
+        "people",
+        "outdoor",
+        "group",
+        "ground",
+        "street",
+        "winter"
+    ]
+}

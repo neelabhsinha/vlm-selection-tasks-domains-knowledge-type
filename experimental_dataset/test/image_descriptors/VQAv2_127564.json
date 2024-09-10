@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 127564,
+    "caption": "a sandwich and french fries on a table",
+    "object_tags": [
+        "food",
+        "bread",
+        "fast food",
+        "snack food",
+        "table",
+        "baked goods",
+        "american food",
+        "cup",
+        "dish",
+        "meal",
+        "plate",
+        "snack",
+        "sandwich",
+        "tableware",
+        "drinkware",
+        "brunch",
+        "indoor",
+        "fried food",
+        "beer",
+        "restaurant",
+        "drink",
+        "half"
+    ]
+}

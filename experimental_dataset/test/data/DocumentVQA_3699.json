@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3699,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3699.png",
+    "question": "what does ()* indicate ?",
+    "label": [
+        "with microcaliculi"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 128,
+    "caption": "a man riding on the back of a brown horse",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "field",
+        "horse",
+        "ranch",
+        "pasture",
+        "livestock",
+        "grassland",
+        "riding",
+        "person"
+    ]
+}

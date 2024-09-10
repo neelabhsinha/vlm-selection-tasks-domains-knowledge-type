@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5270,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5270.png",
+    "question": "What is the name of the second column of the table?",
+    "label": [
+        "CLASSIFICATION",
+        "classification"
+    ]
+}

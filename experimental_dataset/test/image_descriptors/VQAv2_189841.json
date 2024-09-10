@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 189841,
+    "caption": "a little girl holding a hot dog in her hand",
+    "object_tags": [
+        "fast food",
+        "food",
+        "snack food",
+        "person",
+        "ground",
+        "dog",
+        "sandwich",
+        "snack",
+        "outdoor",
+        "clothing",
+        "hot dog bun",
+        "toddler",
+        "dodger dog",
+        "american food",
+        "bread",
+        "hotdog",
+        "bun",
+        "paper"
+    ]
+}

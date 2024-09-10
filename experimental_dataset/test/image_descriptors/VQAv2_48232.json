@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 48232,
+    "caption": "a man standing next to a bunch of bananas",
+    "object_tags": [
+        "banana",
+        "fruit",
+        "saba banana",
+        "local food",
+        "cooking plantain",
+        "person",
+        "natural foods",
+        "matoke",
+        "produce",
+        "whole food",
+        "outdoor",
+        "food",
+        "greengrocer",
+        "clothing",
+        "standing",
+        "street",
+        "plant",
+        "market"
+    ]
+}

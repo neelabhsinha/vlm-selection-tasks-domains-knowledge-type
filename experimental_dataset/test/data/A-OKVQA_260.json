@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 260,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_260.png",
+    "question": "What treat can be made with this fruit and ice cream?",
+    "label": "['banana split', 'banana split', 'banana split', 'sundae', 'banana split', 'banana split', 'banana slit', 'banana split', 'ice cream', 'banana split']",
+    "choices": [
+        "cone",
+        "banana split",
+        "macaroon",
+        "macadamia cookies"
+    ],
+    "correct_choice": "banana split"
+}

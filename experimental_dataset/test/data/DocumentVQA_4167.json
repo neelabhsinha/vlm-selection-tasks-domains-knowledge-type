@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4167,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4167.png",
+    "question": "How much is the total Daily intake of slices bacon?",
+    "label": [
+        "2 OR MORE",
+        "2 or more",
+        "2 or more slices bacon"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 570,
+    "caption": "a table topped with a bowl of soup next to a bottle of wine",
+    "object_tags": [
+        "food",
+        "fast food",
+        "meal",
+        "dish",
+        "tableware",
+        "plate",
+        "table",
+        "indoor",
+        "cuisine",
+        "dishware",
+        "bread",
+        "serveware",
+        "brunch",
+        "ingredient",
+        "kitchenware",
+        "american food",
+        "baked goods",
+        "recipe",
+        "kitchen utensil",
+        "salad",
+        "sitting",
+        "bowl",
+        "soup",
+        "lunch",
+        "restaurant"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 389,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_389.png",
+    "question": "How are these balloons floating?",
+    "label": "['helium', 'helium', 'helium', 'helium', 'helium', 'helium', 'helium', 'helium', 'on air', 'helium']",
+    "choices": [
+        "fan",
+        "wind",
+        "remote",
+        "helium"
+    ],
+    "correct_choice": "helium"
+}

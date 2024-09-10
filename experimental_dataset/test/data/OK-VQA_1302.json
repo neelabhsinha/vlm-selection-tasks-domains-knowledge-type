@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1302,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1302.png",
+    "question": "What type of flowers are pictured?",
+    "label": [
+        "wisteria",
+        "wisteria",
+        "hyacinth",
+        "hyacinth",
+        "lilac",
+        "lilac",
+        "lilac",
+        "lilac",
+        "purple",
+        "purple"
+    ]
+}

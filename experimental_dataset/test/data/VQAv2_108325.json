@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 108325,
+    "image_path": "./experimental_dataset/test/images/VQAv2_108325.png",
+    "question": "What type of pan is the pizza sitting on?",
+    "label": [
+        "round pan",
+        "round plate",
+        "plate",
+        "plate",
+        "plate",
+        "plate",
+        "pizza stone",
+        "cheese",
+        "white",
+        "plate"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1219,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1219.png",
+    "question": "What's the sum of responses that change the number of downloaded apps?",
+    "label": [
+        "46"
+    ]
+}

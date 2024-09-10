@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 434,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_434.png",
+    "question": "The dishes appear to be sitting on what?",
+    "label": "['sitting insects', 'leaves', 'wood chips', 'ground', 'ground', 'wood chips', 'wooden mat', 'food', 'mulch', 'leaves']",
+    "choices": [
+        "table",
+        "ground",
+        "couch",
+        "stove"
+    ],
+    "correct_choice": "ground"
+}

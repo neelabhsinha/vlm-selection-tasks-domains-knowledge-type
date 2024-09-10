@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3365,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3365.png",
+    "question": "Who reviewed Bone paper?",
+    "label": [
+        "JAMA",
+        "Jama"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 769,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_769.png",
+    "question": "What does the sign on the stop light say to not block?",
+    "label": "['intersection', 'lane', 'intersection', 'intersection', 'intersection', 'u turn', 'intersection', 'cars', 'road', 'intersection']",
+    "choices": [
+        "hotel",
+        "school",
+        "intersection",
+        "sidewalk"
+    ],
+    "correct_choice": "intersection"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 186,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_186.png",
+    "question": "What is placed inside this meter?",
+    "label": "['coins', 'change', 'change', 'money', 'change', 'coins', 'coins', 'money', 'coins', 'coins']",
+    "choices": [
+        "paper",
+        "paint",
+        "water",
+        "money"
+    ],
+    "correct_choice": "money"
+}

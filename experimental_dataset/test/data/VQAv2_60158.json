@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 60158,
+    "image_path": "./experimental_dataset/test/images/VQAv2_60158.png",
+    "question": "Where is the keyboard?",
+    "label": [
+        "desk",
+        "on desk",
+        "in front of monitor",
+        "on desk",
+        "on desk",
+        "in front of computer",
+        "top of table",
+        "on desk",
+        "on desk",
+        "desk"
+    ]
+}

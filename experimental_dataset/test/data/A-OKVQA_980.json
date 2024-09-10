@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 980,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_980.png",
+    "question": "What is pan made of?",
+    "label": "['metal', 'metal', 'aluminum', 'porcelain', 'metal', 'metal', 'aluminum', 'metal', 'metal', 'metal']",
+    "choices": [
+        "wood",
+        "plastic",
+        "glass",
+        "metal"
+    ],
+    "correct_choice": "metal"
+}

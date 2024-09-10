@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2818,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2818.png",
+    "question": "What is this bowl used for?",
+    "label": [
+        "wash",
+        "wash",
+        "wash",
+        "wash",
+        "pee",
+        "pee",
+        "wash hand",
+        "wash hand",
+        "to use bathroom",
+        "to use bathroom"
+    ]
+}

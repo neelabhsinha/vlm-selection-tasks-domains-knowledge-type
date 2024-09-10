@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1462,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1462.png",
+    "question": "What shape are these pizzas?",
+    "label": [
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "rectangle",
+        "square",
+        "square",
+        "square",
+        "square"
+    ]
+}

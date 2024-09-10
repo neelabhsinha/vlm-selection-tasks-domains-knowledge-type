@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4691,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4691.png",
+    "question": "What style of train is in the station?",
+    "label": [
+        "commuter",
+        "commuter",
+        "commuter",
+        "commuter",
+        "high speed train",
+        "high speed train",
+        "transportation",
+        "transportation",
+        "passenger",
+        "passenger"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2466,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2466.png",
+    "question": "What do these usually provide for children?",
+    "label": [
+        "comfort",
+        "comfort",
+        "comfort",
+        "comfort",
+        "comfort",
+        "comfort",
+        "comfort",
+        "comfort",
+        "security",
+        "security"
+    ]
+}

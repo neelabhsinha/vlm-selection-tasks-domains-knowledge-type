@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 122,
+    "caption": "a white plate topped with meat and vegetables",
+    "object_tags": [
+        "plate",
+        "food",
+        "dish",
+        "cuisine",
+        "meal",
+        "vegetable",
+        "table",
+        "potato",
+        "ingredient",
+        "indoor",
+        "meat",
+        "carrot",
+        "stew",
+        "dinner"
+    ]
+}

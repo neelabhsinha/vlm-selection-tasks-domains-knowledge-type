@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2914,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2914.png",
+    "question": "What kind of suitcase is this?",
+    "label": [
+        "roll",
+        "roll",
+        "roll",
+        "roll",
+        "nylon",
+        "nylon",
+        "luggage",
+        "luggage",
+        "wheeled",
+        "wheeled"
+    ]
+}

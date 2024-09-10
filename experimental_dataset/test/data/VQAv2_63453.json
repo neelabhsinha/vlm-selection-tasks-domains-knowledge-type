@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 63453,
+    "image_path": "./experimental_dataset/test/images/VQAv2_63453.png",
+    "question": "Which way is the arrow pointing?",
+    "label": [
+        "ahead to right",
+        "right",
+        "straight right",
+        "straight-right",
+        "up",
+        "straight",
+        "up",
+        "right and up",
+        "up",
+        "right and forward"
+    ]
+}

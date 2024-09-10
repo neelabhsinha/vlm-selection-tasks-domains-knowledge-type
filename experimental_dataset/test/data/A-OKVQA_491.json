@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 491,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_491.png",
+    "question": "What are the riders about to do now?",
+    "label": "['straighten out', 'tricks', 'flip over', 'skate', 'fall down', 'fall down', 'land', 'tricks', 'flip', 'tip over']",
+    "choices": [
+        "accelerate",
+        "compete",
+        "win",
+        "flip"
+    ],
+    "correct_choice": "flip"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2781,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2781.png",
+    "question": "To whom the letter was sent earlier?",
+    "label": [
+        "Colonos Association"
+    ]
+}

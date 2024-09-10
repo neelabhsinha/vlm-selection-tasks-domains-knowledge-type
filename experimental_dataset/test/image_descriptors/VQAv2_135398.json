@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 135398,
+    "caption": "people standing around a baggage claim area",
+    "object_tags": [
+        "clothing",
+        "person",
+        "luggage and bags",
+        "footwear",
+        "man",
+        "luggage",
+        "indoor",
+        "ceiling",
+        "airport",
+        "people",
+        "cleanliness",
+        "woman",
+        "wall",
+        "backpack",
+        "baggage claim",
+        "group",
+        "floor",
+        "standing"
+    ]
+}

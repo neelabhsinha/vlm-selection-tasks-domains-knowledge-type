@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 60290,
+    "caption": "a woman standing in a kitchen preparing food",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "kitchen appliance",
+        "countertop",
+        "wall",
+        "kitchen",
+        "cabinet",
+        "home appliance",
+        "cookware and bakeware",
+        "cabinetry",
+        "woman",
+        "food processing",
+        "snack",
+        "gas stove",
+        "stove",
+        "cooking",
+        "food",
+        "standing",
+        "oven",
+        "floor",
+        "preparing"
+    ]
+}

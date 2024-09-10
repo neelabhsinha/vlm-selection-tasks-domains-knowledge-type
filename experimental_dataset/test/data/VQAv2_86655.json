@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 86655,
+    "image_path": "./experimental_dataset/test/images/VQAv2_86655.png",
+    "question": "Is the man riding a bicycle?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

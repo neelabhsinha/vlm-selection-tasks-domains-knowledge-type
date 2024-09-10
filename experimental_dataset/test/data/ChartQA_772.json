@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 772,
+    "image_path": "./experimental_dataset/test/images/ChartQA_772.png",
+    "question": "Which company has the least market share?",
+    "label": [
+        "Moderna"
+    ]
+}

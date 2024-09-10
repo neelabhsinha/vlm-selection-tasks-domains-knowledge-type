@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 165,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_165.png",
+    "question": "What is the little girl doing?",
+    "label": "['eating', 'eating', 'eating', 'eating', 'eating', 'eating', 'eating', 'eating', 'eating', 'eating']",
+    "choices": [
+        "drinking",
+        "yelling",
+        "eating",
+        "singing"
+    ],
+    "correct_choice": "eating"
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 10950,
+    "caption": "a person flying a kite in a grassy field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "kite",
+        "tree",
+        "sky",
+        "field",
+        "lawn",
+        "playground",
+        "person",
+        "land lot",
+        "park",
+        "people",
+        "parachute",
+        "lush"
+    ]
+}

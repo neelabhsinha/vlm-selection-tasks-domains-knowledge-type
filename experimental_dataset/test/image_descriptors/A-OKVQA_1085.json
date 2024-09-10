@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1085,
+    "caption": "a dog laying on the back of a truck",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "transport",
+        "tree",
+        "grass",
+        "wheel",
+        "sitting",
+        "person",
+        "woman"
+    ]
+}

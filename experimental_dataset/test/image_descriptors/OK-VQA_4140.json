@@ -1,0 +1,11 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4140,
+    "caption": "a clock that is on top of a wall",
+    "object_tags": [
+        "clock",
+        "wall clock",
+        "quartz clock",
+        "wall"
+    ]
+}

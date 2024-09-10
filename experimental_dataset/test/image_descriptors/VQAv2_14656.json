@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 14656,
+    "caption": "a train on a train track near a building",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "sky",
+        "railroad",
+        "train",
+        "track",
+        "railway",
+        "vehicle",
+        "land vehicle",
+        "public transport",
+        "rolling stock",
+        "building",
+        "passenger car",
+        "train station",
+        "railroad car",
+        "transport hub",
+        "electric locomotive",
+        "electricity",
+        "platform",
+        "ground",
+        "rail"
+    ]
+}

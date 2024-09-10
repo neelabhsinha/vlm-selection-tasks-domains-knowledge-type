@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 203462,
+    "caption": "a statue in front of a building with a clock on it",
+    "object_tags": [
+        "fisheye",
+        "sky",
+        "building",
+        "outdoor",
+        "fisheye lens",
+        "window",
+        "street",
+        "city"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2006,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2006.png",
+    "question": "What is the volume and number of the bulletin?",
+    "label": [
+        "VOLUME 3, Number 3"
+    ]
+}

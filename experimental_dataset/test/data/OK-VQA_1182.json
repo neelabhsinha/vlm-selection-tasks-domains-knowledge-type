@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1182,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1182.png",
+    "question": "What kind of retail environment would one typically find this in?",
+    "label": [
+        "grocery store",
+        "grocery store",
+        "grocery store",
+        "grocery store",
+        "grocery store",
+        "grocery store",
+        "mall",
+        "mall",
+        "market",
+        "market"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 55,
+    "image_path": "./experimental_dataset/test/images/ChartQA_55.png",
+    "question": "What's the ratio of smallest segment and second largest segment?",
+    "label": [
+        "0.33333333"
+    ]
+}

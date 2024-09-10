@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3389,
+    "caption": "a woman holding a cell phone in her hand",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "wrist",
+        "finger",
+        "thumb",
+        "woman",
+        "controller",
+        "indoor",
+        "remote"
+    ]
+}

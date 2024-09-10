@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2061,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2061.png",
+    "question": "What type of concept is the floor plan?",
+    "label": [
+        "open",
+        "open",
+        "open",
+        "open",
+        "open",
+        "open",
+        "modern",
+        "modern",
+        "studio",
+        "studio"
+    ]
+}

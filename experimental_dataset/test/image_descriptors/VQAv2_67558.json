@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 67558,
+    "caption": "a green bus driving down a street next to trees",
+    "object_tags": [
+        "outdoor",
+        "bus",
+        "vehicle",
+        "land vehicle",
+        "tree",
+        "transport",
+        "road",
+        "text",
+        "mode of transport",
+        "vehicle registration plate",
+        "commercial vehicle",
+        "street",
+        "driving"
+    ]
+}

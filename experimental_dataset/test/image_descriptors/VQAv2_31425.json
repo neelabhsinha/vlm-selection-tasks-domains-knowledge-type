@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 31425,
+    "caption": "a woman riding skis down a snow covered slope",
+    "object_tags": [
+        "person",
+        "footwear",
+        "sport",
+        "outdoor",
+        "clothing",
+        "sports equipment",
+        "ground",
+        "ice skating",
+        "riding",
+        "boardsport"
+    ]
+}

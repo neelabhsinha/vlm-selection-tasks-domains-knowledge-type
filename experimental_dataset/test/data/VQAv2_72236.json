@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 72236,
+    "image_path": "./experimental_dataset/test/images/VQAv2_72236.png",
+    "question": "Is there a bridge in the picture?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

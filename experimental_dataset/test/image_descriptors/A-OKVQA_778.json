@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 778,
+    "caption": "a wooden bench sitting in front of a garden",
+    "object_tags": [
+        "houseplant",
+        "plant",
+        "flowerpot",
+        "bench",
+        "furniture",
+        "outdoor",
+        "garden",
+        "sitting",
+        "window",
+        "flower"
+    ]
+}

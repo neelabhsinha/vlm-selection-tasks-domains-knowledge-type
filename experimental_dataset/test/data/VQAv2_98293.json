@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 98293,
+    "image_path": "./experimental_dataset/test/images/VQAv2_98293.png",
+    "question": "What color is the collar?",
+    "label": [
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red"
+    ]
+}

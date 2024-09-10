@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 16,
+    "caption": "a tall building with a clock on the side of it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "building",
+        "clock",
+        "tower",
+        "window",
+        "brick",
+        "turret",
+        "medieval architecture",
+        "church",
+        "stone",
+        "large",
+        "ground"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2002,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2002.png",
+    "question": "What is the purpose of the white structure on the right side of the photo?",
+    "label": [
+        "lighthouse",
+        "lighthouse",
+        "lighthouse",
+        "lighthouse",
+        "lighthouse",
+        "lighthouse",
+        "light for boat at sea",
+        "light for boat at sea",
+        "signal",
+        "signal"
+    ]
+}

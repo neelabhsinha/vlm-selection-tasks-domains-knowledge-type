@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3144,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3144.png",
+    "question": "Who makes that bike?",
+    "label": [
+        "manufacturer",
+        "manufacturer",
+        "manufacturer",
+        "manufacturer",
+        "schwinn",
+        "schwinn",
+        "schwinn",
+        "schwinn",
+        "trek",
+        "trek"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 145908,
+    "image_path": "./experimental_dataset/test/images/VQAv2_145908.png",
+    "question": "What game is being played?",
+    "label": [
+        "yes",
+        "soccer",
+        "soccer",
+        "soccer",
+        "soccer",
+        "soccer",
+        "soccer",
+        "soccer",
+        "soccer",
+        "soccer"
+    ]
+}

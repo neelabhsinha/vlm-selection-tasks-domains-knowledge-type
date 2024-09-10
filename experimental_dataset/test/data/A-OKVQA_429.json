@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 429,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_429.png",
+    "question": "What are the zebras swinging?",
+    "label": "['tails', 'insects', 'tail', 'tails', 'tails', 'tails', 'tails', 'tail', 'their tails', 'their tails']",
+    "choices": [
+        "butt",
+        "tail",
+        "head",
+        "feet"
+    ],
+    "correct_choice": "tail"
+}

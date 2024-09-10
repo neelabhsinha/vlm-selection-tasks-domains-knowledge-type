@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 461,
+    "caption": "a cat laying on top of a laptop computer",
+    "object_tags": [
+        "indoor",
+        "computer",
+        "animal",
+        "cat",
+        "personal computer",
+        "output device",
+        "computer hardware",
+        "laptop",
+        "input device",
+        "electronic device",
+        "space bar",
+        "peripheral",
+        "computer keyboard",
+        "flat panel display",
+        "computer component",
+        "office equipment",
+        "personal computer hardware",
+        "display device",
+        "computer desk",
+        "desk",
+        "sitting",
+        "keyboard",
+        "mac",
+        "floor"
+    ]
+}

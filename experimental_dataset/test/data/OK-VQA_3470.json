@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3470,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3470.png",
+    "question": "What type of weather is needed for this activity to occur?",
+    "label": [
+        "snow",
+        "snow",
+        "snow",
+        "snow",
+        "snow",
+        "snow",
+        "winter",
+        "winter",
+        "snowy",
+        "snowy"
+    ]
+}

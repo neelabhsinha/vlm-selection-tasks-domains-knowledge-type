@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 15063,
+    "image_path": "./experimental_dataset/test/images/VQAv2_15063.png",
+    "question": "What is the dog doing?",
+    "label": [
+        "wearing hat",
+        "posing",
+        "wearing hat",
+        "nothing",
+        "wearing hat",
+        "looking",
+        "wearing hat",
+        "relaxing",
+        "looking at camera",
+        "frowning"
+    ]
+}

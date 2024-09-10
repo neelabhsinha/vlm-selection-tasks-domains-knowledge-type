@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 27243,
+    "caption": "a man taking a picture of himself in a mirror",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "bathroom",
+        "interior design",
+        "tap",
+        "mirror",
+        "plumbing fixture",
+        "sink",
+        "person",
+        "design"
+    ]
+}

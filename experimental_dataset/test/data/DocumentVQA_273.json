@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 273,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_273.png",
+    "question": "What is the rate of Quitting Losses in 1995",
+    "label": [
+        "6.1%"
+    ]
+}

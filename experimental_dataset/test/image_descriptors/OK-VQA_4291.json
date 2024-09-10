@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4291,
+    "caption": "a young man holding a tennis racquet on a tennis court",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "sport",
+        "athletic game",
+        "fence",
+        "man",
+        "tree",
+        "clothing",
+        "player",
+        "net",
+        "tennis",
+        "racket",
+        "sports equipment",
+        "ball game",
+        "grass",
+        "court",
+        "blue"
+    ]
+}

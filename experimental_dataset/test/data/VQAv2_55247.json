@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55247,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55247.png",
+    "question": "What drink is in the jar?",
+    "label": [
+        "milk",
+        "milk",
+        "milk",
+        "milk",
+        "milk",
+        "milk",
+        "juice",
+        "milk",
+        "milk",
+        "milk"
+    ]
+}

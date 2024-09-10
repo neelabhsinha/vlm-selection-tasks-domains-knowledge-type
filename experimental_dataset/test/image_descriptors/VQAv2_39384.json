@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 39384,
+    "caption": "a woman standing on top of an elephant",
+    "object_tags": [
+        "outdoor",
+        "elephant",
+        "fence",
+        "person",
+        "clothing",
+        "tree",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "plant",
+        "african elephant",
+        "mahout",
+        "zoo",
+        "standing",
+        "grass",
+        "woman"
+    ]
+}

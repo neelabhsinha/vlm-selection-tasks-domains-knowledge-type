@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 929,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_929.png",
+    "question": "What have the pastries on the table been covered with?",
+    "label": "['frosting', 'icing', 'frosting', 'frosting', 'frosting', 'icing', 'frosting', 'icing', 'frosting', 'icing']",
+    "choices": [
+        "ice cream",
+        "icing",
+        "mayo",
+        "butter"
+    ],
+    "correct_choice": "icing"
+}

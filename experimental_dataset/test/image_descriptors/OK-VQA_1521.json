@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1521,
+    "caption": "a young boy riding a skateboard down a sidewalk",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "wheel",
+        "footwear",
+        "bicycle",
+        "ground",
+        "monochrome",
+        "tire",
+        "bicycle wheel",
+        "black and white",
+        "snapshot",
+        "land vehicle",
+        "road",
+        "street",
+        "sidewalk"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1477,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1477.png",
+    "question": "What is the \u2018heading\u2019?",
+    "label": [
+        "NOTICE TO EMPLOYEE",
+        "Notice to employee"
+    ]
+}

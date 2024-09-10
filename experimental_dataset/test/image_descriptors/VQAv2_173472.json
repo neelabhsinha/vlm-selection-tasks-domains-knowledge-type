@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 173472,
+    "caption": "a herd of giraffe standing on top of a dry grass field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "sky",
+        "wildlife",
+        "tree",
+        "terrestrial animal",
+        "savanna",
+        "safari",
+        "plant",
+        "ground",
+        "field",
+        "standing",
+        "grass",
+        "giraffe",
+        "zebra",
+        "landscape"
+    ]
+}

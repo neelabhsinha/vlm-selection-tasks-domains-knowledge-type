@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1173,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1173.png",
+    "question": "What is the name of the second creditor listed in the table under \"Liabilities\"?",
+    "label": [
+        "U.S. BANK, LUCAS, OHIO",
+        "U.S. Bank, Lucas, Ohio",
+        "U.S. Bank"
+    ]
+}

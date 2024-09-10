@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4184,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4184.png",
+    "question": "What kind of hat is this?",
+    "label": [
+        "bowler",
+        "bowler",
+        "bowler",
+        "bowler",
+        "trilby or fedora",
+        "trilby or fedora",
+        "top",
+        "top",
+        "fedora",
+        "fedora"
+    ]
+}

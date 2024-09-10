@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3439,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3439.png",
+    "question": "What airline do you see on the plane closest in the photo?",
+    "label": [
+        "kuwait airway",
+        "kuwait airway",
+        "kuwait airway",
+        "kuwait airway",
+        "arab emir",
+        "arab emir",
+        "american",
+        "american",
+        "french",
+        "french"
+    ]
+}

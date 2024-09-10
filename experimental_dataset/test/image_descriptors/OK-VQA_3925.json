@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3925,
+    "caption": "a red and white bus is parked on the side of the road",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "wheel",
+        "transport",
+        "bus",
+        "umbrella",
+        "mode of transport",
+        "rain",
+        "ground",
+        "people",
+        "street",
+        "red",
+        "wet",
+        "parked",
+        "rainy"
+    ]
+}

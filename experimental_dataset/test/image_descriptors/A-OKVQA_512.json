@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 512,
+    "caption": "a man standing next to a pile of carrots",
+    "object_tags": [
+        "market",
+        "land vehicle",
+        "outdoor",
+        "person",
+        "vegetable",
+        "vehicle",
+        "man",
+        "food",
+        "car",
+        "street",
+        "red",
+        "hot pepper"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 119,
+    "caption": "a woman riding a bicycle down a street",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "person",
+        "sky",
+        "bicycle wheel",
+        "tree",
+        "clothing",
+        "cycling",
+        "land vehicle",
+        "vehicle",
+        "footwear",
+        "riding",
+        "bicycles--equipment and supplies",
+        "road",
+        "transport",
+        "sports equipment",
+        "bicycle frame",
+        "bicycle tire",
+        "bicycle pedal",
+        "bicycle handlebar",
+        "cycle sport",
+        "helmet",
+        "bicycle helmet",
+        "road bicycle",
+        "bicycle",
+        "bike"
+    ]
+}

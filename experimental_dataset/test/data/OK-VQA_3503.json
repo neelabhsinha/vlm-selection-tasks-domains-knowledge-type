@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3503,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3503.png",
+    "question": "What is the dog doing?",
+    "label": [
+        "herd",
+        "herd",
+        "herd",
+        "herd",
+        "run",
+        "run",
+        "run",
+        "run",
+        "heard sheep",
+        "heard sheep"
+    ]
+}

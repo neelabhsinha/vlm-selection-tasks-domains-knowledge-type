@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 294,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_294.png",
+    "question": "What brand of soda is the can in the car?",
+    "label": "['pepsi', 'pepsi', 'pepsi', 'pepsi', 'pepsi', 'pepsi', 'pepsi cola', 'pepsi', 'pepsi', 'pepsi']",
+    "choices": [
+        "sprite",
+        "coca cola",
+        "pepsi",
+        "mountain dew"
+    ],
+    "correct_choice": "pepsi"
+}

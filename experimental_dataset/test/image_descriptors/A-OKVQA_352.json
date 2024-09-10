@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 352,
+    "caption": "two pairs of blue shoes on a bed",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "linens",
+        "clothing",
+        "bed",
+        "bed sheet",
+        "bedding",
+        "shoe",
+        "duvet cover",
+        "pillow",
+        "textile",
+        "shoes",
+        "bedroom",
+        "green",
+        "footwear",
+        "room"
+    ]
+}

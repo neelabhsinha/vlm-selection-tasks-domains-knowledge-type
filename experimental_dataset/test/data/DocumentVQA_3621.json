@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3621,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3621.png",
+    "question": "What is the Y axis of the \u2018plot\u2019?",
+    "label": [
+        "% incorporated"
+    ]
+}

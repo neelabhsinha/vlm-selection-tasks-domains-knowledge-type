@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2311,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2311.png",
+    "question": "Where did seven percent of the global emissions originate from?",
+    "label": [
+        "India"
+    ]
+}

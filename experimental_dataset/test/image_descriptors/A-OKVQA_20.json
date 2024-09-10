@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 20,
+    "caption": "a table topped with plates of food and drinks",
+    "object_tags": [
+        "food",
+        "person",
+        "meal",
+        "tableware",
+        "table",
+        "snack",
+        "fast food",
+        "indoor",
+        "clothing",
+        "culinary art",
+        "plate",
+        "platter",
+        "delicacy",
+        "food processing",
+        "baked goods",
+        "shop",
+        "chef"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 499,
+    "caption": "a red and white kite sitting on top of a grass covered field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "transport",
+        "footwear",
+        "person",
+        "aircraft",
+        "model aircraft",
+        "monoplane",
+        "radio-controlled aircraft",
+        "airplane",
+        "people",
+        "ground",
+        "field",
+        "drone",
+        "plane",
+        "red"
+    ]
+}

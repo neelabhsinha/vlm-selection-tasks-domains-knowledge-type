@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 210926,
+    "caption": "a young man holding a basketball in his hand",
+    "object_tags": [
+        "sport",
+        "athletic game",
+        "basketball",
+        "person",
+        "sports equipment",
+        "sports uniform",
+        "basketball player",
+        "basketball moves",
+        "basketball court",
+        "sportswear",
+        "ball game",
+        "indoor",
+        "ball",
+        "wall"
+    ]
+}

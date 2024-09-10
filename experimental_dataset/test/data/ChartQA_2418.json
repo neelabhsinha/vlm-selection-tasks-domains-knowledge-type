@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2418,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2418.png",
+    "question": "How many deaths were there due to tornadoes in the United States in 2019?",
+    "label": [
+        "42"
+    ]
+}

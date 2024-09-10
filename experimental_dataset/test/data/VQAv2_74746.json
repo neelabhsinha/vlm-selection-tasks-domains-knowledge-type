@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 74746,
+    "image_path": "./experimental_dataset/test/images/VQAv2_74746.png",
+    "question": "How many players are visible?",
+    "label": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

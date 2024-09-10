@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 583,
+    "caption": "a cat sitting on top of a couch next to a laptop",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "animal",
+        "couch",
+        "cat",
+        "wall",
+        "room",
+        "sofa",
+        "floor"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 50465,
+    "caption": "three girls and a boy holding tennis racquets",
+    "object_tags": [
+        "person",
+        "clothing",
+        "sport",
+        "footwear",
+        "sports equipment",
+        "tennis",
+        "woman",
+        "girl",
+        "indoor",
+        "court",
+        "people",
+        "standing",
+        "holding",
+        "group",
+        "floor",
+        "racket"
+    ]
+}

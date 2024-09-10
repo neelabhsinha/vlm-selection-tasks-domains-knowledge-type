@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2448,
+    "caption": "a row of boats parked in a field near a fence",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "boat",
+        "ship",
+        "fence",
+        "wire fencing",
+        "vehicle",
+        "watercraft"
+    ]
+}

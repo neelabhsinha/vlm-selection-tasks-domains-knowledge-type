@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 570,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_570.png",
+    "question": "Where does this person appear to be dining?",
+    "label": "['airplane', 'plane', 'train', 'dinning room', 'plane', 'plane', 'breakfast', 'airplane', 'burger', 'cafeteria']",
+    "choices": [
+        "outdoors",
+        "plane",
+        "restaurant",
+        "kitchen"
+    ],
+    "correct_choice": "plane"
+}

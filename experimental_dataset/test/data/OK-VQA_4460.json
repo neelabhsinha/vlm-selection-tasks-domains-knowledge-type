@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4460,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4460.png",
+    "question": "What is the name for this creatures offspring?",
+    "label": [
+        "kitten",
+        "kitten",
+        "kitten",
+        "kitten",
+        "kitten",
+        "kitten",
+        "kitten",
+        "kitten",
+        "cat",
+        "cat"
+    ]
+}

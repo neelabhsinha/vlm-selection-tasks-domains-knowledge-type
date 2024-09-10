@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 75,
+    "image_path": "./experimental_dataset/test/images/ChartQA_75.png",
+    "question": "What is the sum of the smallest three bars?",
+    "label": [
+        "0.1922"
+    ]
+}

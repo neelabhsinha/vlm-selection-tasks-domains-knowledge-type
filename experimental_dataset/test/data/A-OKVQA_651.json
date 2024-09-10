@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 651,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_651.png",
+    "question": "Why is the phone wrapped in a pink enclosure?",
+    "label": "['protection', 'protection', 'protection', 'protection', 'protection', 'protection', 'protect it', 'protection', 'protection', 'protection']",
+    "choices": [
+        "protect it",
+        "encrypt it",
+        "prevent stains",
+        "decoration"
+    ],
+    "correct_choice": "protect it"
+}

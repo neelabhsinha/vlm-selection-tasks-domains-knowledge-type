@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 145508,
+    "caption": "a boat that is parked on the side of a river",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "boat",
+        "ship",
+        "vehicle",
+        "water",
+        "lake",
+        "watercraft",
+        "tree",
+        "canal",
+        "barge",
+        "waterway",
+        "channel",
+        "river",
+        "grass",
+        "docked"
+    ]
+}

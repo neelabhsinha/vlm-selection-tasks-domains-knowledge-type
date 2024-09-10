@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 360,
+    "image_path": "./experimental_dataset/test/images/ChartQA_360.png",
+    "question": "How many country is included in the chart?",
+    "label": [
+        "1"
+    ]
+}

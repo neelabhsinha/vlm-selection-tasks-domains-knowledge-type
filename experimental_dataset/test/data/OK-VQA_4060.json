@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4060,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4060.png",
+    "question": "Name the material used to make this umbrella shown in this picture?",
+    "label": [
+        "nylon",
+        "nylon",
+        "nylon",
+        "nylon",
+        "nylon",
+        "nylon",
+        "plastic",
+        "plastic",
+        "polyurethane",
+        "polyurethane"
+    ]
+}

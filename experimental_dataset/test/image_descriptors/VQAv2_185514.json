@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 185514,
+    "caption": "a person holding a knife and fork in front of a stove",
+    "object_tags": [
+        "indoor",
+        "person",
+        "wall",
+        "kitchen appliance",
+        "kitchen",
+        "food"
+    ]
+}

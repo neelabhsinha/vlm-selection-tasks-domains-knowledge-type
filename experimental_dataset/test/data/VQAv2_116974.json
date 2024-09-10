@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 116974,
+    "image_path": "./experimental_dataset/test/images/VQAv2_116974.png",
+    "question": "What are the giraffes standing on?",
+    "label": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+    ]
+}

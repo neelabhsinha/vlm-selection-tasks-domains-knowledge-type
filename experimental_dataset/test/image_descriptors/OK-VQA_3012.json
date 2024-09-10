@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3012,
+    "caption": "a laptop computer sitting on top of a wooden table",
+    "object_tags": [
+        "text",
+        "indoor",
+        "furniture",
+        "computer monitor",
+        "computer",
+        "television set",
+        "display device",
+        "flat panel display",
+        "output device",
+        "electronics",
+        "media",
+        "led-backlit lcd display",
+        "wall",
+        "electronic device",
+        "lcd tv",
+        "monitor",
+        "television",
+        "shelf",
+        "entertainment center",
+        "room",
+        "screen"
+    ]
+}

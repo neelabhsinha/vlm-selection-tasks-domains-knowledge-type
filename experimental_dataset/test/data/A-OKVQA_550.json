@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 550,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_550.png",
+    "question": "Which mode of transport could traverse toward the horizon?",
+    "label": "['boats', 'boat', 'bicycle', 'bike', 'boat', 'boat', 'bike', 'boat', 'boat', 'bike']",
+    "choices": [
+        "car",
+        "pedestrian",
+        "boat",
+        "bicycle"
+    ],
+    "correct_choice": "bicycle"
+}

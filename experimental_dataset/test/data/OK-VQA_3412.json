@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3412,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3412.png",
+    "question": "What issues would someone have bringing this suitcase on a plane?",
+    "label": [
+        "cat",
+        "cat",
+        "cat",
+        "cat",
+        "inhumane and noisy",
+        "inhumane and noisy",
+        "there is cat in it",
+        "there is cat in it",
+        "cat in bag",
+        "cat in bag"
+    ]
+}

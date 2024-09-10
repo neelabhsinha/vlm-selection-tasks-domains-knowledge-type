@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 127832,
+    "caption": "a man swinging a tennis racquet on a tennis court",
+    "object_tags": [
+        "sport",
+        "person",
+        "ground",
+        "outdoor",
+        "athletic game",
+        "footwear",
+        "clothing",
+        "tennis",
+        "player",
+        "sports equipment",
+        "racket",
+        "ball",
+        "court",
+        "swinging",
+        "hitting"
+    ]
+}

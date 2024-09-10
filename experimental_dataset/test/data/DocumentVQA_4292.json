@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4292,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4292.png",
+    "question": "What is the % of H+ recovered from patient Z after administering HCl?",
+    "label": [
+        "83"
+    ]
+}

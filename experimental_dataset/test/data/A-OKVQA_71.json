@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 71,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_71.png",
+    "question": "What is the gray street made up of?",
+    "label": "['bricks', 'cobble stone', 'hexagons', 'brick', 'hexagons', 'stones', 'stone', 'cobblestone', 'bikes', 'stone']",
+    "choices": [
+        "asphalt",
+        "sand",
+        "stone",
+        "wood"
+    ],
+    "correct_choice": "stone"
+}

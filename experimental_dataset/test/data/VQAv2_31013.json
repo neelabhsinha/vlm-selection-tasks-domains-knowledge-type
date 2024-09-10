@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 31013,
+    "image_path": "./experimental_dataset/test/images/VQAv2_31013.png",
+    "question": "What is on the tail of the plane?",
+    "label": [
+        "bir",
+        "bird",
+        "bird",
+        "bird",
+        "bird",
+        "bird",
+        "dove",
+        "bird",
+        "bird",
+        "bird"
+    ]
+}

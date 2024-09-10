@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4073,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4073.png",
+    "question": "What county is this?",
+    "label": [
+        "china",
+        "china",
+        "china",
+        "china",
+        "cuyahoga",
+        "cuyahoga",
+        "england",
+        "england",
+        "us",
+        "us"
+    ]
+}

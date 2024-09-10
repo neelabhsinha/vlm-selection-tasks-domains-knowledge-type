@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 133809,
+    "image_path": "./experimental_dataset/test/images/VQAv2_133809.png",
+    "question": "What kind of dog is that?",
+    "label": [
+        "shepard",
+        "labrador",
+        "old",
+        "german shepherd",
+        "rottweiler",
+        "lab",
+        "mutt",
+        "mutt",
+        "bernese mountain",
+        "lab"
+    ]
+}

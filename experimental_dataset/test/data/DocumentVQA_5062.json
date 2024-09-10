@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5062,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5062.png",
+    "question": "What is the direct salaries?",
+    "label": [
+        "$ 292.00",
+        "292.00"
+    ]
+}

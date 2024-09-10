@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2935,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2935.png",
+    "question": "What is the floor made of?",
+    "label": [
+        "brick",
+        "brick",
+        "brick",
+        "brick",
+        "concrete",
+        "concrete",
+        "brick",
+        "brick",
+        "tile",
+        "tile"
+    ]
+}

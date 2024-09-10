@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 961,
+    "caption": "a plate of food on a table",
+    "object_tags": [
+        "food",
+        "table",
+        "cuisine",
+        "dish",
+        "plate",
+        "indoor",
+        "meal",
+        "steamed rice",
+        "jasmine rice",
+        "white rice",
+        "tableware",
+        "supper",
+        "basmati",
+        "nasi uduk",
+        "lunch",
+        "glutinous rice",
+        "side dish",
+        "rice",
+        "sri lankan cuisine",
+        "restaurant",
+        "wooden",
+        "vegetable"
+    ]
+}

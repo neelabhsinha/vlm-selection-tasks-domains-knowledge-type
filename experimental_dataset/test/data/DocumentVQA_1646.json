@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1646,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1646.png",
+    "question": "What is the \u2018pH\u2019?",
+    "label": [
+        "7.5"
+    ]
+}

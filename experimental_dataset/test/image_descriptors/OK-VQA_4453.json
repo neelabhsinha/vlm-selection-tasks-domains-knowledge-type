@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4453,
+    "caption": "a man and a woman holding an umbrella",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "accessory",
+        "boy",
+        "wall",
+        "umbrella",
+        "man",
+        "smile",
+        "holding",
+        "indoor",
+        "child"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 130966,
+    "image_path": "./experimental_dataset/test/images/VQAv2_130966.png",
+    "question": "Is this food fried?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

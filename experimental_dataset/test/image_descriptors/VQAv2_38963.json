@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 38963,
+    "caption": "a yellow bird perched on top of a yellow bird feeder",
+    "object_tags": [
+        "bird",
+        "animal",
+        "oscine",
+        "bird feeder",
+        "bird food",
+        "outdoor",
+        "perching bird",
+        "yellow",
+        "canary",
+        "finch",
+        "songbird",
+        "perched",
+        "sitting"
+    ]
+}

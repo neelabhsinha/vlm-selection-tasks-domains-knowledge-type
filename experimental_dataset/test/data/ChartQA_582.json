@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 582,
+    "image_path": "./experimental_dataset/test/images/ChartQA_582.png",
+    "question": "Which two countries are compared in the given graph?",
+    "label": [
+        "[Slovenia, Turkey]"
+    ]
+}

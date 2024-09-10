@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1672,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1672.png",
+    "question": "How many HCVs were in Krasnodar Krai in May 2020?",
+    "label": [
+        "116"
+    ]
+}

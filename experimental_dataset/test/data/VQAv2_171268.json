@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 171268,
+    "image_path": "./experimental_dataset/test/images/VQAv2_171268.png",
+    "question": "Are both giraffes looking at each other?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

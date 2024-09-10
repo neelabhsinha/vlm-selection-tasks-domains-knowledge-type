@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 119212,
+    "image_path": "./experimental_dataset/test/images/VQAv2_119212.png",
+    "question": "What time of day is it?",
+    "label": [
+        "night",
+        "5pm",
+        "night",
+        "night",
+        "night time",
+        "night",
+        "night",
+        "night",
+        "evening",
+        "night"
+    ]
+}

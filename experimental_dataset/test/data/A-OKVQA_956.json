@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 956,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_956.png",
+    "question": "What type of computer is the woman sitting in front of?",
+    "label": "['imac', 'imac', 'apple', 'mac', 'imac', 'desktop', 'imac', 'imac', 'apple computer', 'apple']",
+    "choices": [
+        "dell",
+        "hp",
+        "imac",
+        "chromebook"
+    ],
+    "correct_choice": "imac"
+}

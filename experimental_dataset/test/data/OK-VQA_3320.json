@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3320,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3320.png",
+    "question": "What is the main purpose of the item hanging on the wall?",
+    "label": [
+        "decoration",
+        "decoration",
+        "decoration",
+        "decoration",
+        "look at yourself",
+        "look at yourself",
+        "mirror",
+        "mirror",
+        "mirror",
+        "mirror"
+    ]
+}

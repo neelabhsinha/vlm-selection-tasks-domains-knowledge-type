@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1989,
+    "caption": "a sandwich cut in half sitting on top of a white plate",
+    "object_tags": [
+        "food",
+        "snack food",
+        "sandwich",
+        "bread",
+        "fast food",
+        "american food",
+        "table",
+        "tableware",
+        "meal",
+        "brunch",
+        "indoor",
+        "breakfast sandwich",
+        "tomato"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 164346,
+    "caption": "a stove top oven with a cake on top of it",
+    "object_tags": [
+        "outdoor",
+        "lighting",
+        "candle",
+        "car",
+        "night",
+        "light",
+        "christmas",
+        "ground",
+        "decorated"
+    ]
+}

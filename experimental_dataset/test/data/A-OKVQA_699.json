@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 699,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_699.png",
+    "question": "What is prohibited when driving on the street?",
+    "label": "['parking', 'no idea', 'speeding', 'speeding', 'speeding', 'driving fast', 'speeding', 'speeding', 'parking', 'exceeding twentymph']",
+    "choices": [
+        "signaling",
+        "braking",
+        "speeding",
+        "parking"
+    ],
+    "correct_choice": "speeding"
+}

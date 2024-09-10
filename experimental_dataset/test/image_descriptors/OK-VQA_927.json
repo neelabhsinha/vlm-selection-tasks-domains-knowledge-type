@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 927,
+    "caption": "a large truck is driving down the road",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "land vehicle",
+        "text",
+        "wheel",
+        "road",
+        "traffic",
+        "truck",
+        "transport",
+        "public utility",
+        "signaling device",
+        "street",
+        "highway",
+        "infrastructure",
+        "road surface",
+        "auto part",
+        "mode of transport",
+        "vehicle registration plate",
+        "traffic sign",
+        "light",
+        "traffic light",
+        "signal",
+        "sign",
+        "driving",
+        "vehicle",
+        "construction"
+    ]
+}

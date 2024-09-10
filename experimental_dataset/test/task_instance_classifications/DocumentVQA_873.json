@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 873,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Books",
+        "Knowledge Base",
+        "Reviews"
+    ],
+    "knowledge_type": [
+        "Technical Knowledge"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3330,
+    "caption": "a cat laying on top of a couch next to a red couch",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "cat",
+        "mammal",
+        "sofa"
+    ]
+}

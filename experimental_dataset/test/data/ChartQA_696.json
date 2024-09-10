@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 696,
+    "image_path": "./experimental_dataset/test/images/ChartQA_696.png",
+    "question": "Whose revenue share is the highest?",
+    "label": [
+        "Michael Kors"
+    ]
+}

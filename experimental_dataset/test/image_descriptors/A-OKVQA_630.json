@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 630,
+    "caption": "a man taking a picture of himself in a bathroom mirror",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "bathroom",
+        "plumbing fixture",
+        "tap",
+        "bathroom accessory",
+        "plumbing",
+        "bathtub",
+        "mirror",
+        "restroom",
+        "shower",
+        "sink",
+        "hotel",
+        "toilet",
+        "room",
+        "person"
+    ]
+}

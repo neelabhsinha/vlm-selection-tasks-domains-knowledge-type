@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1882,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1882.png",
+    "question": "Why might we suspect that there are a great many commuters living here?",
+    "label": [
+        "traffic",
+        "traffic",
+        "traffic",
+        "traffic",
+        "high rise build",
+        "high rise build",
+        "heavy traffic",
+        "heavy traffic",
+        "smog",
+        "smog"
+    ]
+}

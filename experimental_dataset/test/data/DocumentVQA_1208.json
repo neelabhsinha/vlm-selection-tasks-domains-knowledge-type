@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1208,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1208.png",
+    "question": "What does ATS stand for?",
+    "label": [
+        "THE ACADEMY OF TOXICOLOGICAL SCIENCE",
+        "Academy of Toxicological Science"
+    ]
+}

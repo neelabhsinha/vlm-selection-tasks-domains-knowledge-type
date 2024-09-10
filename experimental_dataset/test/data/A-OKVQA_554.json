@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 554,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_554.png",
+    "question": "What is the blue kite in the lower right corner shaped like?",
+    "label": "['squid', 'octopus', 'octopus', 'octopus', 'octopus', 'octopus', 'octopus', 'octopus', 'octopus', 'octopus']",
+    "choices": [
+        "ferret",
+        "cat",
+        "cloud",
+        "octopus"
+    ],
+    "correct_choice": "octopus"
+}

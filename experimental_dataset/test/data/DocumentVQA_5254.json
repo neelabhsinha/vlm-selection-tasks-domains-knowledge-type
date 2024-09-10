@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5254,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5254.png",
+    "question": "What is the name of the country studied here?",
+    "label": [
+        "pakistan",
+        "Pakistan"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 531,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_531.png",
+    "question": "How many refused to continue in the study?",
+    "label": [
+        "19"
+    ]
+}

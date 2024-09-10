@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 509,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_509.png",
+    "question": "What does the end of the fork point toward?",
+    "label": "['broccoli', 'broccoli', 'broccoli', 'broccoli', 'towards vegetable', 'broccoli', 'brocolli', 'broccoli', 'broccoli', 'broccoli']",
+    "choices": [
+        "broccoli",
+        "fish",
+        "water",
+        "knife"
+    ],
+    "correct_choice": "broccoli"
+}

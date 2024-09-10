@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4892,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4892.png",
+    "question": "What is the percentage of deaths of Indians in 1951-53 period, caused by accidents?",
+    "label": [
+        "14.1"
+    ]
+}

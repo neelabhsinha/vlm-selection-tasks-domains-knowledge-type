@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2792,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2792.png",
+    "question": "What is the allocated amount for fieldwork for Camel?",
+    "label": [
+        "14,500",
+        "14500"
+    ]
+}

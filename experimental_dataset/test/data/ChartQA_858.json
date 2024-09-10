@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 858,
+    "image_path": "./experimental_dataset/test/images/ChartQA_858.png",
+    "question": "Which year segment did 'principal diagnosis' have the highest number of hospitalizations?",
+    "label": [
+        "2007-2008"
+    ]
+}

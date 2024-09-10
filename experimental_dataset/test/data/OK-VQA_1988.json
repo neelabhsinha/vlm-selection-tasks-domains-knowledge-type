@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1988,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1988.png",
+    "question": "Who operates this kind of transporation?",
+    "label": [
+        "pilot",
+        "pilot",
+        "pilot",
+        "pilot",
+        "pilot",
+        "pilot",
+        "piliot",
+        "piliot",
+        "people",
+        "people"
+    ]
+}

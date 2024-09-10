@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2461,
+    "caption": "a woman using a cell phone while sitting at a table",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "man",
+        "food",
+        "chef",
+        "restaurant",
+        "shop",
+        "woman",
+        "preparing",
+        "wearing"
+    ]
+}

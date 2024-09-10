@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 753,
+    "caption": "a blue truck with a blue roof is parked on the side of the road",
+    "object_tags": [
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "road",
+        "text",
+        "tire",
+        "building",
+        "mode of transport",
+        "truck",
+        "auto part",
+        "street",
+        "ground",
+        "parked",
+        "city",
+        "travel"
+    ]
+}

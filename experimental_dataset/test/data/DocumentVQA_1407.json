@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1407,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1407.png",
+    "question": "What is the laser mark ID for ultamet insert?",
+    "label": [
+        "121887350"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 768,
+    "image_path": "./experimental_dataset/test/images/ChartQA_768.png",
+    "question": "How many countries have the same net sales?",
+    "label": [
+        "2"
+    ]
+}

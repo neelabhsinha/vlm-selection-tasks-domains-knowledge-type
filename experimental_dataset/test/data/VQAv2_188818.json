@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 188818,
+    "image_path": "./experimental_dataset/test/images/VQAv2_188818.png",
+    "question": "What is used as a door?",
+    "label": [
+        "shower",
+        "wood",
+        "wall",
+        "glass",
+        "glass",
+        "sliding glass",
+        "glass",
+        "glass",
+        "door on shower",
+        "shower door"
+    ]
+}

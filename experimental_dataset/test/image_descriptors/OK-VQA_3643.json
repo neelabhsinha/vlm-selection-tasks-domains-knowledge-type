@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3643,
+    "caption": "a man drinking water out of a toilet",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "ground",
+        "water",
+        "man",
+        "toilet"
+    ]
+}

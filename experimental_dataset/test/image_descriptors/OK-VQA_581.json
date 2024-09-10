@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 581,
+    "caption": "a cat standing on the side of a street next to a car",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "ground",
+        "car",
+        "tire",
+        "outdoor",
+        "rain",
+        "parked"
+    ]
+}

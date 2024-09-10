@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 120383,
+    "caption": "a man sitting on a boat in the middle of a river",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "tree",
+        "man",
+        "vehicle",
+        "water",
+        "boat",
+        "watercraft",
+        "vacation",
+        "river"
+    ]
+}

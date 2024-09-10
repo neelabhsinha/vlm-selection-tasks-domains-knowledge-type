@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 715,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_715.png",
+    "question": "What type of fencing is used?",
+    "label": "['barbed wire', 'wire fence', 'barb wire', 'bricks', 'wire', 'wire', 'smooth wire', 'wired', 'wire', 'wire']",
+    "choices": [
+        "wire",
+        "vinyl",
+        "pic",
+        "wood"
+    ],
+    "correct_choice": "wire"
+}

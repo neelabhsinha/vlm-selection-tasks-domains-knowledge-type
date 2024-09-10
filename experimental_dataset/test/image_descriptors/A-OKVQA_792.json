@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 792,
+    "caption": "a car parked on the side of a road next to a parking meter",
+    "object_tags": [
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "tire",
+        "outdoor",
+        "sky",
+        "bumper",
+        "car",
+        "sport utility vehicle",
+        "ground",
+        "auto part",
+        "family car",
+        "vehicle registration plate",
+        "parked",
+        "motor vehicle",
+        "automotive exterior",
+        "compact sport utility vehicle",
+        "grille",
+        "automotive carrying rack",
+        "crossover suv",
+        "parking lot",
+        "automotive parking light",
+        "road",
+        "parking",
+        "sidewalk",
+        "suv"
+    ]
+}

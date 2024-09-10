@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 234,
+    "caption": "a pizza sitting on top of a stove top",
+    "object_tags": [
+        "dish",
+        "pizza",
+        "food",
+        "fast food",
+        "italian food",
+        "pizza cheese",
+        "indoor",
+        "california-style pizza",
+        "flatbread",
+        "sicilian pizza",
+        "baked goods",
+        "pepperoni",
+        "tomato pie",
+        "recipe",
+        "table",
+        "toppings"
+    ]
+}

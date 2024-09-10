@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 175724,
+    "caption": "a woman sitting at a table with a cake",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "birthday cake",
+        "dessert",
+        "cake",
+        "table",
+        "birthday",
+        "food",
+        "wall",
+        "cake decorating",
+        "cream",
+        "dairy",
+        "icing",
+        "baked goods",
+        "woman",
+        "sweetness",
+        "buttercream",
+        "sugar cake",
+        "human face",
+        "baking",
+        "torte",
+        "red",
+        "kitchen",
+        "cutting"
+    ]
+}

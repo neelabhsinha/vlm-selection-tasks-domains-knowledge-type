@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 155280,
+    "caption": "a brown and white bird sitting on a wooden bench",
+    "object_tags": [
+        "bird",
+        "animal",
+        "outdoor",
+        "perched",
+        "wooden",
+        "beak",
+        "fence",
+        "sitting",
+        "wildlife",
+        "wood",
+        "branch"
+    ]
+}

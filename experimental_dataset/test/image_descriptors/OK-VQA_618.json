@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 618,
+    "caption": "a jet flying through the air with smoke coming out of it",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "smoke",
+        "airplane",
+        "flight",
+        "plane",
+        "airshow",
+        "air",
+        "transport",
+        "air travel",
+        "air racing",
+        "general aviation",
+        "jet",
+        "aircraft"
+    ]
+}

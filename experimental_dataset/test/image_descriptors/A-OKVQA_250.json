@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 250,
+    "caption": "a person walking down the street with an umbrella",
+    "object_tags": [
+        "text",
+        "building",
+        "outdoor",
+        "footwear",
+        "clothing",
+        "billboard",
+        "person",
+        "street",
+        "sign",
+        "city",
+        "sidewalk"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 185,
+    "caption": "a little girl on a skateboard in a room",
+    "object_tags": [
+        "person",
+        "clothing",
+        "floor",
+        "indoor",
+        "footwear",
+        "sports equipment",
+        "human face",
+        "bicycle helmet",
+        "boy",
+        "wall",
+        "helmet",
+        "young",
+        "wearing",
+        "controller"
+    ]
+}

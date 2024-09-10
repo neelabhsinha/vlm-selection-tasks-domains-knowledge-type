@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 171585,
+    "image_path": "./experimental_dataset/test/images/VQAv2_171585.png",
+    "question": "What season is this scene from?",
+    "label": [
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "fall",
+        "autumn"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2323,
+    "caption": "a man holding a pair of scissors in his right hand",
+    "object_tags": [
+        "person",
+        "indoor",
+        "wall",
+        "clothing",
+        "human face",
+        "man",
+        "holding",
+        "red",
+        "scissors"
+    ]
+}

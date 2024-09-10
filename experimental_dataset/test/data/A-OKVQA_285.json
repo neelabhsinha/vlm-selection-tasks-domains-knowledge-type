@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 285,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_285.png",
+    "question": "Is the man going to the mountain in the background?",
+    "label": "['no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'absolutely no', 'no']",
+    "choices": [
+        "absolutely no",
+        "yes",
+        "absolutely yes",
+        "probably yes"
+    ],
+    "correct_choice": "absolutely no"
+}

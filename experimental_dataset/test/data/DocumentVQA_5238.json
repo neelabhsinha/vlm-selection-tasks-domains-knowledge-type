@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5238,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5238.png",
+    "question": "What is plotted along the y axis ?",
+    "label": [
+        "age at menarche",
+        "Age at menarche"
+    ]
+}

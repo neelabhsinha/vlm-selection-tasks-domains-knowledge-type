@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 746,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_746.png",
+    "question": "What are the traditional long printed skirts worn by the women called?",
+    "label": "['sarong/sarung', 'dresses', 'cleaning', 'skirts', 'sarong', 'long wrap', 'sarong', 'sari', 'saris', 'sarong']",
+    "choices": [
+        "broomstick skirt",
+        "sarong",
+        "prairie skirt",
+        "accordion skirt"
+    ],
+    "correct_choice": "sarong"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 870,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_870.png",
+    "question": "What is the white appliance the people are looking in being used to store?",
+    "label": "['fridge', 'food', 'fridge', 'eggs', 'fridge', 'food', 'fridge', 'food', 'vegetables looking', 'refrigerator']",
+    "choices": [
+        "fish",
+        "animals",
+        "food",
+        "books"
+    ],
+    "correct_choice": "food"
+}

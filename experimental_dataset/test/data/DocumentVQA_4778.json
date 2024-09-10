@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4778,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4778.png",
+    "question": "From the 'total respondents' in the control cell, what % of them 'recall receiving the offer'?",
+    "label": [
+        "81"
+    ]
+}

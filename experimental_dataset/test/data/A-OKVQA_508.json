@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 508,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_508.png",
+    "question": "What behavior of the people is prohibited indoor?",
+    "label": "['annoyed', 'annoyed', 'smoking', 'smoking', 'annoyed', 'smoking', 'smoking', 'smoking', 'smoking', 'smoking']",
+    "choices": [
+        "smoking",
+        "drinking",
+        "wearing glasses",
+        "using laptop"
+    ],
+    "correct_choice": "smoking"
+}

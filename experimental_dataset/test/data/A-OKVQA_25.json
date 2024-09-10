@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 25,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_25.png",
+    "question": "The cat is looking in what direction?",
+    "label": "['down', 'down', 'down', 'down', 'down', 'down', 'ahead', 'ahead', 'down', 'down']",
+    "choices": [
+        "left",
+        "right",
+        "down",
+        "up"
+    ],
+    "correct_choice": "down"
+}

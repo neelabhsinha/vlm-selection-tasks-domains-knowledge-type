@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 989,
+    "caption": "a man sitting at a desk working on a laptop",
+    "object_tags": [
+        "indoor",
+        "clothing",
+        "person",
+        "desk",
+        "furniture",
+        "office building",
+        "laptop",
+        "chair",
+        "computer",
+        "personal computer",
+        "job",
+        "wall",
+        "table",
+        "learning",
+        "office chair",
+        "people",
+        "floor"
+    ]
+}

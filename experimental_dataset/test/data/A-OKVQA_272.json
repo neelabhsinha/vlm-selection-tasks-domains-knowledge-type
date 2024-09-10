@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 272,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_272.png",
+    "question": "What do people gain when they eat too many of these?",
+    "label": "['weight', 'weight', 'weight', 'weight', 'weight', 'weight', 'weight', 'weight', 'weight', 'weight']",
+    "choices": [
+        "hair",
+        "kindness",
+        "weight",
+        "intelligence"
+    ],
+    "correct_choice": "weight"
+}

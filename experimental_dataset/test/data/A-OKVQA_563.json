@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 563,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_563.png",
+    "question": "When actively playing what physical position will this player be in?",
+    "label": "['crouch', 'crouched', 'crouched', 'catcher', 'catcher', 'catcher', 'catcher', 'pitcher', 'squat', 'crouch']",
+    "choices": [
+        "upside down",
+        "crouch",
+        "lying down",
+        "stand"
+    ],
+    "correct_choice": "crouch"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 190834,
+    "image_path": "./experimental_dataset/test/images/VQAv2_190834.png",
+    "question": "How many cars are painted green and yellow?",
+    "label": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+    ]
+}

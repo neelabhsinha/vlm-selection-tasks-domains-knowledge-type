@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 99145,
+    "image_path": "./experimental_dataset/test/images/VQAv2_99145.png",
+    "question": "What is hanging from the ceiling?",
+    "label": [
+        "painting",
+        "chandeliers",
+        "chandelier",
+        "chandeliers",
+        "chandeliers",
+        "chandeliers",
+        "chandelier",
+        "chandeliers",
+        "chandelier",
+        "lights"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3857,
+    "caption": "stuffed animals sitting on top of each other",
+    "object_tags": [
+        "teddy",
+        "toy",
+        "stuffed",
+        "stuffed toy",
+        "plush",
+        "teddy bear",
+        "cartoon",
+        "baby toys",
+        "indoor",
+        "bear",
+        "hat",
+        "halloween",
+        "fabric",
+        "doll"
+    ]
+}

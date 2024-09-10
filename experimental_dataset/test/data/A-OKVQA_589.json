@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 589,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_589.png",
+    "question": "What is the blue and white item?",
+    "label": "['beverage dispenser', 'water jug', 'tank', 'insulated-beverage container', 'cooler', 'cooler', 'cooler', 'beverage cooler', 'cooler', 'water cooler']",
+    "choices": [
+        "cup",
+        "table",
+        "cooler",
+        "bottle"
+    ],
+    "correct_choice": "cooler"
+}

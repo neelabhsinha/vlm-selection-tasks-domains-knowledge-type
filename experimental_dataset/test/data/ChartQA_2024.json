@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2024,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2024.png",
+    "question": "How many home runs has George Brett hit?",
+    "label": [
+        "317"
+    ]
+}

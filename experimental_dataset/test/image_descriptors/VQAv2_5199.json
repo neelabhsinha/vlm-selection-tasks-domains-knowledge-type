@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 5199,
+    "caption": "a pepperoni pizza sitting on top of a tray",
+    "object_tags": [
+        "food",
+        "fast food",
+        "dish",
+        "pizza",
+        "indoor",
+        "pizza cheese",
+        "cuisine",
+        "italian food",
+        "baked goods",
+        "tray",
+        "pan",
+        "pepperoni"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2123,
+    "caption": "a herd of sheep standing on top of a lush green field",
+    "object_tags": [
+        "grass",
+        "sheep",
+        "mammal",
+        "animal",
+        "outdoor",
+        "herding",
+        "field",
+        "herd",
+        "fodder",
+        "livestock",
+        "pasture",
+        "grassland",
+        "grazing",
+        "group",
+        "standing",
+        "flock",
+        "farm"
+    ]
+}

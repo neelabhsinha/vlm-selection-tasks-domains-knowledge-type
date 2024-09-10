@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5250,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5250.png",
+    "question": "What is the \u2018nature of duties\u2019 on March 7, 1975?",
+    "label": [
+        "Program in nutrition & clinica medicine",
+        "program in nutrition & clinical medicine"
+    ]
+}

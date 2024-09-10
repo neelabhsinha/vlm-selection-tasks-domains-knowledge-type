@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4560,
+    "caption": "a man holding a tennis racquet on top of a tennis court",
+    "object_tags": [
+        "sport",
+        "person",
+        "athletic game",
+        "player",
+        "man",
+        "outdoor",
+        "tennis"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 911,
+    "image_path": "./experimental_dataset/test/images/ChartQA_911.png",
+    "question": "Which year saw the sharpest increase in the male percent?",
+    "label": [
+        "2020"
+    ]
+}

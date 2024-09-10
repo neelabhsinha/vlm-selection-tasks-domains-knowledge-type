@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 171183,
+    "image_path": "./experimental_dataset/test/images/VQAv2_171183.png",
+    "question": "Is there a turn arrow?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

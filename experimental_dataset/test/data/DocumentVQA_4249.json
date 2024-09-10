@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4249,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4249.png",
+    "question": "What is the ext. no. to get in touch with Arvid wretlind ?",
+    "label": [
+        "2166",
+        "Ext. 2166"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 139845,
+    "caption": "a man holding a doughnut up to his face",
+    "object_tags": [
+        "person",
+        "human face",
+        "man",
+        "clothing",
+        "mouth",
+        "food",
+        "donut",
+        "human beard",
+        "biting",
+        "doughnut",
+        "eating",
+        "holding",
+        "indoor",
+        "bite",
+        "portrait"
+    ]
+}

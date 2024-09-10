@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1473,
+    "caption": "a white surfboard sitting on top of a sandy beach",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "beach",
+        "water",
+        "surfing",
+        "winter",
+        "person",
+        "ground",
+        "nature"
+    ]
+}

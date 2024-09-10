@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 313,
+    "caption": "a white and black dog standing on top of a white boat",
+    "object_tags": [
+        "transport",
+        "watercraft",
+        "outdoor",
+        "ship",
+        "boat",
+        "sky",
+        "sailboat",
+        "cloud",
+        "mast",
+        "sail",
+        "vehicle",
+        "sailing",
+        "boating",
+        "water",
+        "sailing vessel",
+        "lake",
+        "naval architecture",
+        "sloop",
+        "scow"
+    ]
+}

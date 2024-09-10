@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1925,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1925.png",
+    "question": "What was the highest percentage of social network use in the UK in 2018?",
+    "label": [
+        "68.4"
+    ]
+}

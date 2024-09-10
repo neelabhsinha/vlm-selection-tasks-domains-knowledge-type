@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 48996,
+    "image_path": "./experimental_dataset/test/images/VQAv2_48996.png",
+    "question": "What color is the flower pot?",
+    "label": [
+        "gray",
+        "gray",
+        "gray",
+        "silver",
+        "gray",
+        "white",
+        "gray",
+        "gray",
+        "gray",
+        "gray"
+    ]
+}

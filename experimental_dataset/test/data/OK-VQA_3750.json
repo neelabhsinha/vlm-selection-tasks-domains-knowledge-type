@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3750,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3750.png",
+    "question": "What type of battery is used for this remote?",
+    "label": [
+        "aa",
+        "aa",
+        "aa",
+        "aa",
+        "rechargable",
+        "rechargable",
+        "1x aa",
+        "1x aa",
+        "aaa",
+        "aaa"
+    ]
+}

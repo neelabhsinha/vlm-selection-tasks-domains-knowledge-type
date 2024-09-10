@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 561,
+    "image_path": "./experimental_dataset/test/images/ChartQA_561.png",
+    "question": "What is the difference between the sum shares of Indonesia and Ireland and share of Mauritania?",
+    "label": [
+        "1.06"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1811,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1811.png",
+    "question": "How many dollars did the NBA generate from overseas rights in 2019?",
+    "label": [
+        "0.45"
+    ]
+}

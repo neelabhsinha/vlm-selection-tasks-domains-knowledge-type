@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4864,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4864.png",
+    "question": "What might the card say?",
+    "label": [
+        "welcom",
+        "welcom",
+        "welcome",
+        "welcome",
+        "happy anniversary",
+        "happy anniversary",
+        "get well soon",
+        "get well soon",
+        "happy birthday",
+        "happy birthday"
+    ]
+}

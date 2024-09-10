@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 235,
+    "image_path": "./experimental_dataset/test/images/ChartQA_235.png",
+    "question": "Find the two smallest values in the given chart and add them?",
+    "label": [
+        "3.2"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 693,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_693.png",
+    "question": "How tall is the average newborn giraffe?",
+    "label": "['six feet', '6 feet', '4 feet', '6 feet', 'six feet', '6 feet', '6 feet', 'several feet', 'five feet', 'six feet']",
+    "choices": [
+        "5 feet",
+        "3 feet",
+        "4 feet",
+        "6 feet"
+    ],
+    "correct_choice": "6 feet"
+}

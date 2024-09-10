@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1912,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1912.png",
+    "question": "What was the youth unemployment rate in Trinidad and Tobago in 2020?",
+    "label": [
+        "6.5"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2333,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2333.png",
+    "question": "What was Alphabet's earnings before income taxes in 2019?",
+    "label": [
+        "39625"
+    ]
+}

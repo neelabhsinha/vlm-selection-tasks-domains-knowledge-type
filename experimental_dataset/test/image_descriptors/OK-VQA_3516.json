@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3516,
+    "caption": "a room with a refrigerator and a shelf filled with food",
+    "object_tags": [
+        "indoor",
+        "door",
+        "shelf",
+        "bottle",
+        "fire extinguisher",
+        "wall",
+        "floor",
+        "refrigerator",
+        "kitchen",
+        "ceiling",
+        "abandoned",
+        "basement",
+        "decay",
+        "exploration"
+    ]
+}

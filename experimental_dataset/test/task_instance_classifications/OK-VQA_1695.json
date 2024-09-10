@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1695,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "History",
+        "Public Places",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 743,
+    "caption": "a woman sitting in a chair using a cell phone",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "christmas tree",
+        "laptop",
+        "computer",
+        "electronic device",
+        "wall",
+        "holding",
+        "woman"
+    ]
+}

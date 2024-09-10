@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3343,
+    "caption": "a photo taken from inside of an airplane",
+    "object_tags": [
+        "text",
+        "font",
+        "screenshot",
+        "handwriting",
+        "black and white",
+        "number",
+        "document"
+    ]
+}

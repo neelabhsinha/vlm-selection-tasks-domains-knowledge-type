@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 340,
+    "caption": "a dog laying on top of a pair of shoes",
+    "object_tags": [
+        "footwear",
+        "dog",
+        "pet",
+        "animal",
+        "shoes",
+        "indoor",
+        "floor"
+    ]
+}

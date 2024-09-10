@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 74256,
+    "image_path": "./experimental_dataset/test/images/VQAv2_74256.png",
+    "question": "What is he wearing?",
+    "label": [
+        "tie",
+        "tie",
+        "shirt and tie",
+        "tie",
+        "shirt and tie",
+        "tie",
+        "tie",
+        "tie",
+        "tie",
+        "polka dot necktie"
+    ]
+}

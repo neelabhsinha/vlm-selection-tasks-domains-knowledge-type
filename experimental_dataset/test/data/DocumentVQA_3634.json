@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3634,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3634.png",
+    "question": "In question 9, what % of respondents say its a'very serious risk'?",
+    "label": [
+        "17"
+    ]
+}

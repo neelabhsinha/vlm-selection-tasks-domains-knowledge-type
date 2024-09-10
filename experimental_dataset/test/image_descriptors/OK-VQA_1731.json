@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1731,
+    "caption": "a microwave oven sitting on top of a counter",
+    "object_tags": [
+        "home appliance",
+        "kitchen appliance",
+        "appliance",
+        "indoor",
+        "small appliance",
+        "microwave oven",
+        "wall",
+        "kitchen",
+        "oven",
+        "microwave",
+        "stove"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 923,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_923.png",
+    "question": "What is in the lead?",
+    "label": "['horse', 'motorcycles', 'horse', 'horse', 'horse', 'motorcycle', 'horse', 'horse rider', 'horses', 'horse']",
+    "choices": [
+        "motorcycle",
+        "horse",
+        "man",
+        "car"
+    ],
+    "correct_choice": "horse"
+}

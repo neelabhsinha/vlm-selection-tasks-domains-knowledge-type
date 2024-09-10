@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3349,
+    "caption": "a man riding a skateboard on top of a sidewalk",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "tire",
+        "land vehicle",
+        "ground",
+        "person",
+        "vehicle",
+        "footwear",
+        "auto part",
+        "road",
+        "tree",
+        "jeans",
+        "street",
+        "boy"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 203094,
+    "caption": "two yellow surfboards sitting next to a body of water",
+    "object_tags": [
+        "outdoor",
+        "kayak",
+        "watercraft",
+        "boat",
+        "canoe",
+        "water",
+        "kayaking",
+        "transport",
+        "ground",
+        "sea kayak",
+        "boating",
+        "canoeing",
+        "yellow",
+        "beach"
+    ]
+}

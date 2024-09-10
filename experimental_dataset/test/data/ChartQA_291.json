@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 291,
+    "image_path": "./experimental_dataset/test/images/ChartQA_291.png",
+    "question": "What is the total value of the last two bars??",
+    "label": [
+        "60"
+    ]
+}

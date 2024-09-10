@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4744,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4744.png",
+    "question": "What is the term used to describe the picture style?",
+    "label": [
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie",
+        "selfie"
+    ]
+}

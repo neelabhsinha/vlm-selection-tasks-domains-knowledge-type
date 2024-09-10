@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4039,
+    "caption": "a large elephant standing in a grassy field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "elephant",
+        "grass",
+        "terrestrial animal",
+        "wildlife",
+        "plant",
+        "safari",
+        "elephants and mammoths",
+        "indian elephant",
+        "asian elephant",
+        "tree",
+        "african elephant",
+        "tusk",
+        "standing",
+        "field",
+        "ground",
+        "hole",
+        "mountain"
+    ]
+}

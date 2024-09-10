@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 800,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_800.png",
+    "question": "What is the zebra in the center doing?",
+    "label": "['eating', 'fighting', 'big', 'running', 'running', 'fighting', 'turning', 'running', 'running', 'running']",
+    "choices": [
+        "eating",
+        "drinking",
+        "sleeping",
+        "running"
+    ],
+    "correct_choice": "running"
+}

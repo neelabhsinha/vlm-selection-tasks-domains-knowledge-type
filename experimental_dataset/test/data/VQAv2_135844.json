@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 135844,
+    "image_path": "./experimental_dataset/test/images/VQAv2_135844.png",
+    "question": "Is the chair checked or solid?",
+    "label": [
+        "checked",
+        "solid",
+        "checked",
+        "checked",
+        "checked",
+        "checked",
+        "checkered",
+        "checked",
+        "checked",
+        "checked"
+    ]
+}

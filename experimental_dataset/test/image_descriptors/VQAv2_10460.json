@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 10460,
+    "caption": "a laptop computer sitting on top of a wooden desk",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "computer",
+        "laptop",
+        "personal computer",
+        "table",
+        "furniture",
+        "desk",
+        "sitting",
+        "wooden",
+        "shelf",
+        "mac"
+    ]
+}

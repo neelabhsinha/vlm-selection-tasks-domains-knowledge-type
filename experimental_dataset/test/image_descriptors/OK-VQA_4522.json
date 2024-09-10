@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4522,
+    "caption": "a woman and a man are smiling at the camera",
+    "object_tags": [
+        "person",
+        "human face",
+        "smile",
+        "clothing",
+        "wine glass",
+        "indoor",
+        "wine",
+        "drink",
+        "woman",
+        "wall",
+        "tableware",
+        "glasses",
+        "people",
+        "glass",
+        "bar"
+    ]
+}

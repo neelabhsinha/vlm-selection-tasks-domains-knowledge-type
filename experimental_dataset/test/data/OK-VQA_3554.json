@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3554,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3554.png",
+    "question": "What holiday is being celebrated?",
+    "label": [
+        "christmas",
+        "christmas",
+        "christmas",
+        "christmas",
+        "breakfast",
+        "breakfast",
+        "valentine's",
+        "valentine's",
+        "chistmas",
+        "chistmas"
+    ]
+}

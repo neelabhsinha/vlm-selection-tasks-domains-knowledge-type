@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2966,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2966.png",
+    "question": "What is the Cost range for Parthenon Paper Number P3(5)?",
+    "label": [
+        "$25,000"
+    ]
+}

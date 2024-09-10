@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 945,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_945.png",
+    "question": "Which of these people is very warm?",
+    "label": "['open mouth', 'wearing coat', 'both', 'both', 'cake holder', 'cake holder', 'both', 'closest woman', 'women', 'left one']",
+    "choices": [
+        "right person",
+        "neither",
+        "left person",
+        "both"
+    ],
+    "correct_choice": "both"
+}

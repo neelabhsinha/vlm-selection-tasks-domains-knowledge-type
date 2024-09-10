@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2560,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2560.png",
+    "question": "How much usage is for 'AREA 10.' in 1955?",
+    "label": [
+        "7,521,100"
+    ]
+}

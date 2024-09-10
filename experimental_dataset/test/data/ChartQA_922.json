@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 922,
+    "image_path": "./experimental_dataset/test/images/ChartQA_922.png",
+    "question": "How many girls participated in US high school lacrosse in the year 2018/19?",
+    "label": [
+        "99750"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1145,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1145.png",
+    "question": "What is the text that appears immediately after the arrow?",
+    "label": [
+        "Label claim"
+    ]
+}

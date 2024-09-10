@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2022,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2022.png",
+    "question": "What percentage of emergency department visits were from female patients in 2014?",
+    "label": [
+        "55.5"
+    ]
+}

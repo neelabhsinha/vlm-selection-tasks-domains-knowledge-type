@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2370,
+    "caption": "a black and white dog and a black and white horse in a field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "mammal",
+        "tree",
+        "animal",
+        "horse",
+        "sky",
+        "field",
+        "pasture",
+        "plant",
+        "ranch",
+        "meadow",
+        "grazing",
+        "grassland",
+        "black",
+        "standing",
+        "dog"
+    ]
+}

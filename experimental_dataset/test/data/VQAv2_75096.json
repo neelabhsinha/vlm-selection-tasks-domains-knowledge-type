@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 75096,
+    "image_path": "./experimental_dataset/test/images/VQAv2_75096.png",
+    "question": "What is the writing called?",
+    "label": [
+        "print",
+        "arabic",
+        "japanese",
+        "arabic",
+        "symbols",
+        "arabic",
+        "arabic",
+        "arabic",
+        "directions",
+        "directions"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2252,
+    "caption": "a beach scene with boats and people on the water",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "water",
+        "ship",
+        "sky",
+        "black and white",
+        "boat",
+        "watercraft",
+        "mast",
+        "vehicle",
+        "sailboat",
+        "beach",
+        "sailing vessel",
+        "transport",
+        "sailing",
+        "sail",
+        "group",
+        "sea",
+        "people",
+        "monochrome",
+        "landscape",
+        "ocean"
+    ]
+}

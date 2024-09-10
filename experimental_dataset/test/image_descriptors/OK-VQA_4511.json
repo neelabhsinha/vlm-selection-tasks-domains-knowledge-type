@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4511,
+    "caption": "a woman standing in front of a suitcase on a bed",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "person",
+        "clothing",
+        "curtain",
+        "interior design",
+        "bed",
+        "lampshade",
+        "woman",
+        "carpet",
+        "floor",
+        "room",
+        "lamp",
+        "standing",
+        "young",
+        "girl"
+    ]
+}

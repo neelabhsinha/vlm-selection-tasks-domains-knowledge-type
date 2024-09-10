@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 107176,
+    "image_path": "./experimental_dataset/test/images/VQAv2_107176.png",
+    "question": "What types of clouds are in the sky?",
+    "label": [
+        "white",
+        "cirrus",
+        "nimbostratus",
+        "stratus",
+        "fluffy",
+        "cirrus",
+        "cumulus",
+        "gray and altostratus",
+        "cumulus",
+        "nimbus"
+    ]
+}

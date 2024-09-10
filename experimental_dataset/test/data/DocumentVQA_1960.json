@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1960,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1960.png",
+    "question": "What is the quantity of Vitamin A per serving size (IU)?",
+    "label": [
+        "1009"
+    ]
+}

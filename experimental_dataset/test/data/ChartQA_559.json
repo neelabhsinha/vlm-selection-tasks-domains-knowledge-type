@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 559,
+    "image_path": "./experimental_dataset/test/images/ChartQA_559.png",
+    "question": "Is the sum value of Very secure and somewhat secure of using a landline greater then Calling on your cell phone?",
+    "label": [
+        "Yes"
+    ]
+}

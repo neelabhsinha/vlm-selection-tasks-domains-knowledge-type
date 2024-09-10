@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1931,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1931.png",
+    "question": "To whom the \u2018letter\u2019 is written ?",
+    "label": [
+        "Ms. Julia Child",
+        "\u201cThe French chef\u201d"
+    ]
+}

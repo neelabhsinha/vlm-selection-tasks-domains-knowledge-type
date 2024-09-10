@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 580,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_580.png",
+    "question": "What is the tallest thing in this area?",
+    "label": "['skyscrapers', 'building', 'buildings', 'skyscraper', 'building', 'skyscrapers', 'building', 'street sign', 'road', 'building']",
+    "choices": [
+        "people",
+        "people",
+        "cars",
+        "buildings"
+    ],
+    "correct_choice": "buildings"
+}

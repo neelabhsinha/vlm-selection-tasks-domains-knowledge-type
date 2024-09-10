@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 414,
+    "caption": "a man holding a baseball bat on top of a green field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "person",
+        "footwear",
+        "clothing",
+        "sport",
+        "plant",
+        "lawn game",
+        "playground",
+        "baseball",
+        "lawn",
+        "golf",
+        "ground",
+        "field"
+    ]
+}

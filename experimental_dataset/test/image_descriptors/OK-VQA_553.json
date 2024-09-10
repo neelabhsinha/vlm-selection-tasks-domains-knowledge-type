@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 553,
+    "caption": "a ram eating some hay from a trough",
+    "object_tags": [
+        "outdoor",
+        "mammal",
+        "animal",
+        "grass",
+        "terrestrial animal",
+        "sheep",
+        "goat",
+        "snout",
+        "livestock",
+        "goats",
+        "eating",
+        "hay",
+        "wooden",
+        "ground",
+        "standing"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1126,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1126.png",
+    "question": "What is this person using in this game?",
+    "label": [
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "umpire",
+        "umpire"
+    ]
+}

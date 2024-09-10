@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2258,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2258.png",
+    "question": "How many Muslims lived in India in 2010?",
+    "label": [
+        "176.19"
+    ]
+}

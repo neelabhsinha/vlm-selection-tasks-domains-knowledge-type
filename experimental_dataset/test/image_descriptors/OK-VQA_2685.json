@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2685,
+    "caption": "a woman on a horse with a crowd watching",
+    "object_tags": [
+        "person",
+        "grass",
+        "outdoor",
+        "flag",
+        "man",
+        "horse",
+        "fan",
+        "field",
+        "stadium",
+        "crowd"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 750,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_750.png",
+    "question": "Why is the man on the left wearing the goggles?",
+    "label": "['skiing', 'eye protection', 'eye protection', 'protection', 'protection', 'snow', 'eye protection', 'eye protection', 'eye protection', 'eye protection']",
+    "choices": [
+        "fashion",
+        "dress code",
+        "eye protection",
+        "cosplay"
+    ],
+    "correct_choice": "eye protection"
+}

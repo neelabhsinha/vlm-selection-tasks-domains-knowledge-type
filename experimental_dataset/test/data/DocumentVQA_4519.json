@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4519,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4519.png",
+    "question": "Is Satellite Symposia permitted in AAMP?",
+    "label": [
+        "No"
+    ]
+}

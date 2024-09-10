@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5281,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5281.png",
+    "question": "What is the name of the competitor mentioned?",
+    "label": [
+        "taco bell",
+        "Taco Bell"
+    ]
+}

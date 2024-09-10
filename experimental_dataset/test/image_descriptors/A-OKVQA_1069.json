@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1069,
+    "caption": "a man standing in front of a herd of cattle",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "livestock",
+        "ground",
+        "herd",
+        "herding",
+        "herder",
+        "animal",
+        "cattle",
+        "mountain",
+        "group",
+        "mammal",
+        "standing",
+        "desert",
+        "cowboy"
+    ]
+}

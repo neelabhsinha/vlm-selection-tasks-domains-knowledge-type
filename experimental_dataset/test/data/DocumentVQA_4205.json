@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4205,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4205.png",
+    "question": "What is the proposed time for the meeting?",
+    "label": [
+        "10.00 a.m. - 4:00 p.m.",
+        "10:00 a.m. - 4:00 p.m."
+    ]
+}

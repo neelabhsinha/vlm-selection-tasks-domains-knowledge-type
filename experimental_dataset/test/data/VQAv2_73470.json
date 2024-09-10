@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 73470,
+    "image_path": "./experimental_dataset/test/images/VQAv2_73470.png",
+    "question": "What is pink?",
+    "label": [
+        "sticker",
+        "sticker",
+        "sticker",
+        "circle sticker",
+        "sticker with c",
+        "c sticker",
+        "c",
+        "c",
+        "sticker",
+        "sticker"
+    ]
+}

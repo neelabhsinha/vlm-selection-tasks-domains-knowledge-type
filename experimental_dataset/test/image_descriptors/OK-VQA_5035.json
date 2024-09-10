@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5035,
+    "caption": "two men in suits talking to each other",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "formal wear",
+        "man",
+        "bow tie",
+        "tie",
+        "blazer",
+        "gentleman",
+        "white-collar worker",
+        "suit",
+        "tuxedo",
+        "businessperson",
+        "dress shirt",
+        "wall",
+        "black and white",
+        "indoor",
+        "wedding"
+    ]
+}

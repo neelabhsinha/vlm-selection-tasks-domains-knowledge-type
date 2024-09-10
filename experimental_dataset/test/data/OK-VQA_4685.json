@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4685,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4685.png",
+    "question": "What types of fabric are used to make window curtains?",
+    "label": [
+        "cotton",
+        "cotton",
+        "cotton",
+        "cotton",
+        "taffeta",
+        "taffeta",
+        "chanile",
+        "chanile",
+        "tough",
+        "tough"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 560,
+    "caption": "elephants that are standing in the grass",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "tree",
+        "terrestrial animal",
+        "zoo",
+        "plant",
+        "wildlife",
+        "african elephant",
+        "tusk",
+        "safari",
+        "ground",
+        "standing",
+        "trunk"
+    ]
+}

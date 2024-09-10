@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 165114,
+    "image_path": "./experimental_dataset/test/images/VQAv2_165114.png",
+    "question": "What is the cat sitting on?",
+    "label": [
+        "oven hood",
+        "exhaust fan",
+        "hood fan",
+        "stove vent",
+        "extractor hood",
+        "vent",
+        "hood",
+        "blower",
+        "hood",
+        "stove hood"
+    ]
+}

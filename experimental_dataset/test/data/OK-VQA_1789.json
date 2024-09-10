@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1789,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1789.png",
+    "question": "Name the place where the vechicle is shown in this picture?",
+    "label": [
+        "queen",
+        "queen",
+        "queen",
+        "queen",
+        "queen",
+        "queen",
+        "australia",
+        "australia",
+        "new york",
+        "new york"
+    ]
+}

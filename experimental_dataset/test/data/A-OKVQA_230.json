@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 230,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_230.png",
+    "question": "What kind of fruit is used for decorating?",
+    "label": "['oranges', 'orange', 'orange', 'orange', 'oranges', 'oranges', 'orange', 'orange', 'orangemango', 'oranges']",
+    "choices": [
+        "mangoes",
+        "apples",
+        "bananas",
+        "oranges"
+    ],
+    "correct_choice": "oranges"
+}

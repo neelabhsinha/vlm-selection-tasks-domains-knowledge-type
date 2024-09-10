@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 541,
+    "image_path": "./experimental_dataset/test/images/ChartQA_541.png",
+    "question": "Is the median value of all the bars greater than the average of leftmost and rightmost bars?",
+    "label": [
+        "Yes"
+    ]
+}

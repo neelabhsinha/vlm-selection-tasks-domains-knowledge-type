@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 31781,
+    "image_path": "./experimental_dataset/test/images/VQAv2_31781.png",
+    "question": "What type of plant is to the far right?",
+    "label": [
+        "fern",
+        "potted",
+        "fern",
+        "fern",
+        "live one",
+        "wispy",
+        "fern",
+        "fern",
+        "indoor plant",
+        "bamboo"
+    ]
+}

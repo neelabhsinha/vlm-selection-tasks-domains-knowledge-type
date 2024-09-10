@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3043,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3043.png",
+    "question": "What is the name of the company providing the grants?",
+    "label": [
+        "mead johnson & company",
+        "Mead Johnson & Company",
+        "mead johnson & company (u.s.)",
+        "meadjohnson"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 168,
+    "caption": "a plate of food with vegetables and meat",
+    "object_tags": [
+        "food",
+        "meal",
+        "plate",
+        "dish",
+        "cuisine",
+        "ingredient",
+        "fast food",
+        "indoor",
+        "fork",
+        "platter",
+        "broccoli",
+        "salad",
+        "staple food",
+        "cruciferous vegetables",
+        "kitchen utensil",
+        "tableware",
+        "lunch",
+        "table",
+        "vegetable",
+        "potato",
+        "containing",
+        "dinner"
+    ]
+}

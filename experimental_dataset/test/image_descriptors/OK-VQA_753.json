@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 753,
+    "caption": "a view through a window of a cloudy sky",
+    "object_tags": [
+        "outdoor",
+        "window",
+        "daytime",
+        "sun",
+        "clouds",
+        "cloudy",
+        "plane",
+        "sky",
+        "cloud"
+    ]
+}

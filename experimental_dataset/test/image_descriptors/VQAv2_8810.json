@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 8810,
+    "caption": "an airplane is flying through the blue sky",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "transport",
+        "flight",
+        "aircraft",
+        "vehicle",
+        "plane",
+        "air travel",
+        "wing",
+        "aviation",
+        "airshow",
+        "blue",
+        "general aviation",
+        "air force",
+        "aerospace engineering",
+        "jet",
+        "airplane",
+        "high"
+    ]
+}

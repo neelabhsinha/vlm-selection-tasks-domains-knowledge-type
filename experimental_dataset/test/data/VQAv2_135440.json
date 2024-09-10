@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 135440,
+    "image_path": "./experimental_dataset/test/images/VQAv2_135440.png",
+    "question": "Which giraffe is taller?",
+    "label": [
+        "left",
+        "left one",
+        "left",
+        "one on left",
+        "left",
+        "giraffe on left",
+        "left one",
+        "left",
+        "left",
+        "giraffe on left"
+    ]
+}

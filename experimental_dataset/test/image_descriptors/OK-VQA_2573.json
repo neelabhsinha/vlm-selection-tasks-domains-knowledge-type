@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2573,
+    "caption": "a dirt bike parked in a grassy field",
+    "object_tags": [
+        "wheel",
+        "vehicle",
+        "tire",
+        "land vehicle",
+        "motorbike",
+        "grass",
+        "outdoor",
+        "motorcycle",
+        "fuel tank",
+        "transport",
+        "auto part",
+        "brake",
+        "vehicle brake",
+        "fender",
+        "suspension",
+        "engine",
+        "rim",
+        "spoke",
+        "automotive tire",
+        "tread",
+        "exhaust system",
+        "automotive exhaust",
+        "parked",
+        "muffler",
+        "field",
+        "bike"
+    ]
+}

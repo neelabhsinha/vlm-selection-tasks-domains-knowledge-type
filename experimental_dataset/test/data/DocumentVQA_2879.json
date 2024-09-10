@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2879,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2879.png",
+    "question": "In which month is the promotion planned?",
+    "label": [
+        "november",
+        "November"
+    ]
+}

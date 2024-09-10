@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 154872,
+    "caption": "a seagull flying over a sandy beach",
+    "object_tags": [
+        "animal",
+        "bird",
+        "outdoor",
+        "sea gull",
+        "aquatic bird",
+        "wing",
+        "beach",
+        "tern",
+        "nature"
+    ]
+}

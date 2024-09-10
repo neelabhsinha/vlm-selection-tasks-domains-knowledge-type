@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 150966,
+    "caption": "a herd of cattle standing next to a stone wall",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "terrestrial animal",
+        "zoo",
+        "goat",
+        "goats",
+        "livestock",
+        "horn",
+        "goat-antelope",
+        "rock",
+        "feral goat",
+        "herd",
+        "wildlife",
+        "ground",
+        "standing"
+    ]
+}

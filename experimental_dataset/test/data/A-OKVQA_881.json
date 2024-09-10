@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 881,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_881.png",
+    "question": "What is this type of maintenance of the animal group called?",
+    "label": "['cow', 'herding', 'cow', 'herding', 'herding', 'herding', 'ranching', 'heading', 'herd', 'cowherding']",
+    "choices": [
+        "grifting",
+        "flocking",
+        "grazing",
+        "herding"
+    ],
+    "correct_choice": "herding"
+}

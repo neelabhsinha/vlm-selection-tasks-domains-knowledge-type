@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 614,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_614.png",
+    "question": "What is the expiration date?",
+    "label": [
+        "10/31/96"
+    ]
+}

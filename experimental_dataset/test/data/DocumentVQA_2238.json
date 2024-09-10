@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2238,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2238.png",
+    "question": "Who is presiding over the second session on dec 8?",
+    "label": [
+        "DR. DARBY",
+        "Dr. Darby"
+    ]
+}

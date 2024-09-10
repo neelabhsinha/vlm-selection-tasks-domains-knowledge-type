@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 914,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_914.png",
+    "question": "The appearance of the long grass in the foreground indicates what ambient effect?",
+    "label": "['lush', 'wind', 'wind', 'rainfall effect', 'cleaning land', 'brightened colors', 'rain', 'feather', 'windy', 'breeze']",
+    "choices": [
+        "wind",
+        "rain",
+        "drought",
+        "still wind"
+    ],
+    "correct_choice": "wind"
+}

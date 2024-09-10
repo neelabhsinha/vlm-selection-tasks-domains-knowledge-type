@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5063,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5063.png",
+    "question": "What does 1 stand for?",
+    "label": [
+        "Lowest pentile"
+    ]
+}

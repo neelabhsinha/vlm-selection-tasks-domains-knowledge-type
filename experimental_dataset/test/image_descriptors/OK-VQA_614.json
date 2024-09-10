@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 614,
+    "caption": "women walking down a street with luggage",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "tree",
+        "footwear",
+        "road",
+        "woman",
+        "luggage and bags",
+        "jacket",
+        "people",
+        "group",
+        "street"
+    ]
+}

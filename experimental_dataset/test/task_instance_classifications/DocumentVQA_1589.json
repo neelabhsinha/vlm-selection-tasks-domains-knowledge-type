@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1589,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Anthropology",
+        "History",
+        "Law"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge"
+    ]
+}

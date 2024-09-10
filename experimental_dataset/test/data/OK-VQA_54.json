@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 54,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_54.png",
+    "question": "Is this boy a professional player or still in high school?",
+    "label": [
+        "high school",
+        "high school",
+        "high school",
+        "high school",
+        "high school",
+        "high school",
+        "high school",
+        "high school",
+        "school",
+        "school"
+    ]
+}

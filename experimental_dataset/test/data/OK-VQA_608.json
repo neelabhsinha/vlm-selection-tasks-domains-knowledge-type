@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 608,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_608.png",
+    "question": "What occupation might he have?",
+    "label": [
+        "forklift driver",
+        "forklift driver",
+        "forklift driver",
+        "forklift driver",
+        "forklift driver",
+        "forklift driver",
+        "warehouse worker",
+        "warehouse worker",
+        "fork lift driver",
+        "fork lift driver"
+    ]
+}

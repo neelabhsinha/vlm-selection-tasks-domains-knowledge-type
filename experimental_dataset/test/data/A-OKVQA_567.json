@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 567,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_567.png",
+    "question": "What is the woman wearing pink helping the child do?",
+    "label": "['eat', 'eat', 'eat', 'eat', 'eating', 'eat', 'eating', 'eat', 'eat', 'eat']",
+    "choices": [
+        "play",
+        "dress",
+        "drink",
+        "eat"
+    ],
+    "correct_choice": "eat"
+}

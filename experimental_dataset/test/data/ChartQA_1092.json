@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1092,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1092.png",
+    "question": "Are the blue bar values decreasing over the years?",
+    "label": [
+        "Yes"
+    ]
+}

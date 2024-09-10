@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3743,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3743.png",
+    "question": "What is \u2018percentage of equity shares held up by government\u2019 from\u201901/04/2012 to 31/03/2013\u2019?",
+    "label": [
+        "0.00%"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 674,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_674.png",
+    "question": "Which continent are these planes from?",
+    "label": "['europe', 'europe', 'europe', 'europe', 'europe', 'europe', 'europe', 'europe', 'europe', 'europe']",
+    "choices": [
+        "north america",
+        "africa",
+        "europe",
+        "south america"
+    ],
+    "correct_choice": "europe"
+}

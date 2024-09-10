@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4433,
+    "caption": "a train on a train track near a building",
+    "object_tags": [
+        "railroad",
+        "outdoor",
+        "track",
+        "transport",
+        "railway",
+        "vehicle",
+        "sky",
+        "train",
+        "rolling stock",
+        "land vehicle",
+        "railroad car",
+        "rail",
+        "tree",
+        "public transport",
+        "passenger car",
+        "locomotive",
+        "ground",
+        "yellow"
+    ]
+}

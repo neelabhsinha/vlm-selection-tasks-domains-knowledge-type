@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 81,
+    "caption": "a collage of photographs showing a person wearing a neck tie",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "number",
+        "parallel",
+        "design"
+    ]
+}

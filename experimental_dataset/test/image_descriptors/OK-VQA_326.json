@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 326,
+    "caption": "a large white bird standing on top of a body of water",
+    "object_tags": [
+        "bird",
+        "animal",
+        "aquatic bird",
+        "water",
+        "outdoor",
+        "water bird",
+        "pelican",
+        "beak",
+        "brown pelican",
+        "pelecaniformes",
+        "lake",
+        "wildlife",
+        "swimming"
+    ]
+}

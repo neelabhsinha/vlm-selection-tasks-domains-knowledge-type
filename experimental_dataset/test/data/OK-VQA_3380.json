@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3380,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3380.png",
+    "question": "What type of sandwich is this man eating?",
+    "label": [
+        "sub",
+        "sub",
+        "sub",
+        "sub",
+        "sub",
+        "sub",
+        "tuna",
+        "tuna",
+        "sub sandwich",
+        "sub sandwich"
+    ]
+}

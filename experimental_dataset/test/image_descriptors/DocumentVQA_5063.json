@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5063,
+    "caption": "a table topped with lots of different types of electronic equipment",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "parallel",
+        "rectangle",
+        "number",
+        "document",
+        "diagram"
+    ]
+}

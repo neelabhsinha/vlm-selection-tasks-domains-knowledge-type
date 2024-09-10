@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 198497,
+    "image_path": "./experimental_dataset/test/images/VQAv2_198497.png",
+    "question": "Where is the clock?",
+    "label": [
+        "wall",
+        "on wall",
+        "on wall",
+        "near ceiling",
+        "on wall",
+        "near ceiling",
+        "wall",
+        "game room",
+        "on wall",
+        "wall"
+    ]
+}

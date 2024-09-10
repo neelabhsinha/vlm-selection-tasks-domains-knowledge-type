@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3742,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3742.png",
+    "question": "What is the name the style of painting on the truck?",
+    "label": [
+        "graffiti",
+        "graffiti",
+        "graffiti",
+        "graffiti",
+        "graffiti",
+        "graffiti",
+        "graffiti art",
+        "graffiti art",
+        "grafitti",
+        "grafitti"
+    ]
+}

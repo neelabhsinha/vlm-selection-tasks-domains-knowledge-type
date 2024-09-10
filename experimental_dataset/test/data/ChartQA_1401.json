@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1401,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1401.png",
+    "question": "How much money did Brazil spend on military in the United States in 2020?",
+    "label": [
+        "25101"
+    ]
+}

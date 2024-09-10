@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 773,
+    "caption": "people standing on top of a sandy beach",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "person",
+        "beach",
+        "ground",
+        "people",
+        "sky",
+        "clothing",
+        "recreation",
+        "surfboard",
+        "surfing",
+        "group",
+        "standing",
+        "sand"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4295,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4295.png",
+    "question": "What company introduced the toy this man is playing with?",
+    "label": [
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "frisbee",
+        "hasbro",
+        "hasbro",
+        "nerf",
+        "nerf",
+        "wham o",
+        "wham o"
+    ]
+}

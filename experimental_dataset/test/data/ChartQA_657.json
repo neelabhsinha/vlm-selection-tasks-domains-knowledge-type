@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 657,
+    "image_path": "./experimental_dataset/test/images/ChartQA_657.png",
+    "question": "What is the sum of 2002, 2003 and 2004?",
+    "label": [
+        "70.4"
+    ]
+}

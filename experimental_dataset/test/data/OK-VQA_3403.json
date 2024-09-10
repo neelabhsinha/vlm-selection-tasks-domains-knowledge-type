@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3403,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3403.png",
+    "question": "What objects are in this type of room usually?",
+    "label": [
+        "furniture",
+        "furniture",
+        "furniture",
+        "furniture",
+        "sofa",
+        "sofa",
+        "television",
+        "television",
+        "live room",
+        "live room"
+    ]
+}

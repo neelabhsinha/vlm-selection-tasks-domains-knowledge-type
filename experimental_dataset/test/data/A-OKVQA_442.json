@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 442,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_442.png",
+    "question": "How are the skiers getting up the hill?",
+    "label": "['ski lift', 'ski lift', 'chairlift', 'chairlift', 'lift', 'ski lift', 'ski lift', 'ride', 'chairlift', 'ski lift']",
+    "choices": [
+        "gondola",
+        "skiing",
+        "conveyer belt",
+        "chairlift"
+    ],
+    "correct_choice": "chairlift"
+}

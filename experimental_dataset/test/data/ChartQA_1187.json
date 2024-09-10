@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1187,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1187.png",
+    "question": "What is the difference of percentage of social and communication between 2016 and 2019?",
+    "label": [
+        "6"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3966,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3966.png",
+    "question": "In this sport the person meant to protect the goal area is called a what?",
+    "label": [
+        "goalie",
+        "goalie",
+        "goalie",
+        "goalie",
+        "goalie",
+        "goalie",
+        "goalie",
+        "goalie",
+        "goalkeeper",
+        "goalkeeper"
+    ]
+}

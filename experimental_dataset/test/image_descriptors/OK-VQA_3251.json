@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3251,
+    "caption": "a cat sitting on top of a couch next to a bottle",
+    "object_tags": [
+        "animal",
+        "indoor",
+        "cat",
+        "small to medium-sized cats",
+        "felidae",
+        "mammal",
+        "pet",
+        "domestic short-haired cat",
+        "black",
+        "kitten"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1110,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1110.png",
+    "question": "What does the sticker advise you to stop eating?",
+    "label": "['animals', 'stop signal', 'animals', 'animals', 'animals', 'eating animals', 'stop', 'animas', 'animals', 'animals']",
+    "choices": [
+        "sugar",
+        "animals",
+        "beets",
+        "popcorn"
+    ],
+    "correct_choice": "animals"
+}

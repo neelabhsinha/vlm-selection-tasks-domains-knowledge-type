@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3978,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3978.png",
+    "question": "What is the amount authorised per account for Frances?",
+    "label": [
+        "465.00"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 158174,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Fiction",
+        "Nature",
+        "Nutrition and Food",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

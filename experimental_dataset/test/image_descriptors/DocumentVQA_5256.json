@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5256,
+    "caption": "a drawing of a clock on a piece of paper",
+    "object_tags": [
+        "text",
+        "diagram",
+        "parallel",
+        "line",
+        "technical drawing",
+        "rectangle",
+        "plan",
+        "schematic"
+    ]
+}

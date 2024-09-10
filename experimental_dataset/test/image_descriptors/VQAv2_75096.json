@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 75096,
+    "caption": "a street sign on the side of a building",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "sky",
+        "land vehicle",
+        "building",
+        "vehicle",
+        "wheel",
+        "car",
+        "advertising",
+        "sign",
+        "street",
+        "city"
+    ]
+}

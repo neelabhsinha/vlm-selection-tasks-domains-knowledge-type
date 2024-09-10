@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4565,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4565.png",
+    "question": "What kind of dress material the boy is wearing in this picture?",
+    "label": [
+        "cotton",
+        "cotton",
+        "cotton",
+        "cotton",
+        "cotton t shirt",
+        "cotton t shirt",
+        "polyester",
+        "polyester",
+        "nylon mesh",
+        "nylon mesh"
+    ]
+}

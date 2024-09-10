@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1469,
+    "caption": "a woman holding a piece of cake on a plate",
+    "object_tags": [
+        "person",
+        "human face",
+        "fast food",
+        "baked goods",
+        "outdoor",
+        "bread",
+        "snack",
+        "food",
+        "dessert",
+        "sandwich",
+        "snack food",
+        "slice",
+        "half"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4651,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4651.png",
+    "question": "What is stopping the horse from following the cat?",
+    "label": [
+        "chain",
+        "chain",
+        "chain",
+        "chain",
+        "chain",
+        "chain",
+        "chain",
+        "chain",
+        "chain",
+        "chain"
+    ]
+}

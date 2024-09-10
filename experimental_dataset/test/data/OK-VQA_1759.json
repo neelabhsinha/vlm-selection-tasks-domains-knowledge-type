@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1759,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1759.png",
+    "question": "Would you use a broom or a mop to clean this room?",
+    "label": [
+        "mop",
+        "mop",
+        "mop",
+        "mop",
+        "mop",
+        "mop",
+        "mop",
+        "mop",
+        "mop",
+        "mop"
+    ]
+}

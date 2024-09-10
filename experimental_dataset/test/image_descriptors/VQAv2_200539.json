@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 200539,
+    "caption": "a white refrigerator freezer sitting in a kitchen next to a sink",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "home appliance",
+        "cabinetry",
+        "floor",
+        "countertop",
+        "major appliance",
+        "cupboard",
+        "cabinet",
+        "kitchen appliance",
+        "interior design",
+        "furniture",
+        "sink",
+        "drawer",
+        "house",
+        "home",
+        "appliance",
+        "kitchen stove",
+        "freezer",
+        "kitchen",
+        "oven",
+        "refrigerator",
+        "room",
+        "white",
+        "ceiling",
+        "apartment"
+    ]
+}

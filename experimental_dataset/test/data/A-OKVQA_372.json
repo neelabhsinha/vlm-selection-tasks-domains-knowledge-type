@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 372,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_372.png",
+    "question": "Where are these students?",
+    "label": "['school', 'classroom', 'classroom', 'classroom', 'school', 'classroom', 'computer lab', 'classroom', 'conference room', 'school']",
+    "choices": [
+        "conference room",
+        "auditorium",
+        "gym",
+        "cafeteria"
+    ],
+    "correct_choice": "conference room"
+}

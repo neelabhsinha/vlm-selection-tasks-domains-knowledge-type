@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 93,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_93.png",
+    "question": "What state was the licence plate issues?",
+    "label": "['new york', 'new york', 'new york', 'new york', 'new york', 'new york', 'new york', 'new york', 'new york', 'new york']",
+    "choices": [
+        "connecticut",
+        "rhode island",
+        "new jersey",
+        "new york"
+    ],
+    "correct_choice": "new york"
+}

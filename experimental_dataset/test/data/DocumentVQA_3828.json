@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3828,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3828.png",
+    "question": "What is the second heading?",
+    "label": [
+        "COMMUNITY INTERVENTION",
+        "Community Intervention"
+    ]
+}

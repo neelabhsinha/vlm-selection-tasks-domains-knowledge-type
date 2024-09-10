@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 345,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_345.png",
+    "question": "What color can be seen in the middle of the upper floor?",
+    "label": "['white', 'red', 'green', 'green', 'red', 'red', 'green', 'green', 'white', 'green']",
+    "choices": [
+        "green",
+        "black",
+        "teal",
+        "yellow"
+    ],
+    "correct_choice": "green"
+}

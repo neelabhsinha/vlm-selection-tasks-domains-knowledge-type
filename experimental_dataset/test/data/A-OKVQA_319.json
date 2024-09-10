@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 319,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_319.png",
+    "question": "What family member in a household would this room most likely belong to?",
+    "label": "['child', 'son', 'son', 'son', 'child', 'son', 'child', 'child', 'son', 'son']",
+    "choices": [
+        "son",
+        "daughter",
+        "infant",
+        "grandparent"
+    ],
+    "correct_choice": "son"
+}

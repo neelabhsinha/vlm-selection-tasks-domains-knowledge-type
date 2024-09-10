@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4586,
+    "caption": "a stove top oven sitting inside of a kitchen",
+    "object_tags": [
+        "appliance",
+        "kitchen appliance",
+        "home appliance",
+        "cabinet",
+        "major appliance",
+        "indoor",
+        "gas stove",
+        "kitchen stove",
+        "kitchen",
+        "cooktop",
+        "stove",
+        "countertop",
+        "small appliance",
+        "microwave oven",
+        "cabinetry",
+        "cookware and bakeware",
+        "toaster oven",
+        "exhaust hood",
+        "oven",
+        "black",
+        "pot"
+    ]
+}

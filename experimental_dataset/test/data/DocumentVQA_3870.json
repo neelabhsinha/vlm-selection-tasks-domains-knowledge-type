@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3870,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3870.png",
+    "question": "What is the percentage of Potato required by the Army at location Muzaffarabad?",
+    "label": [
+        "34.4"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1779,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Knowledge Base",
+        "Formal logic",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Scientific Knowledge",
+        "Technical Knowledge"
+    ]
+}

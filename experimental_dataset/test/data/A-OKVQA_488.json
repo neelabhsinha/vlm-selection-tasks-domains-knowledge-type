@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 488,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_488.png",
+    "question": "What are the people on the sidewalk likely to be?",
+    "label": "['married', 'tourists', 'tourists', 'married', 'tourists', 'tourists', 'tourists', 'tourists', 'tourists', 'tourists']",
+    "choices": [
+        "police officers",
+        "tourists",
+        "royal people",
+        "horse riders"
+    ],
+    "correct_choice": "tourists"
+}

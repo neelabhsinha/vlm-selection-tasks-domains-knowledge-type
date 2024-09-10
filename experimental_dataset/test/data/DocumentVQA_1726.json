@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1726,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1726.png",
+    "question": "What is the name of the laboratories ?",
+    "label": [
+        "Bethesda Laboratories",
+        "BETHESDA LABORATORIES",
+        "Bethesda"
+    ]
+}

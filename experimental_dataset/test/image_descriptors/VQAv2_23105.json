@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 23105,
+    "caption": "a man sitting at a table with a laptop",
+    "object_tags": [
+        "person",
+        "indoor",
+        "computer",
+        "laptop",
+        "man",
+        "transparent material",
+        "wall",
+        "glasses"
+    ]
+}

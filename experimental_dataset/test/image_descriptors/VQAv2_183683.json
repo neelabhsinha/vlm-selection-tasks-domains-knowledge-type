@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 183683,
+    "caption": "a dog laying on a blanket on a bed",
+    "object_tags": [
+        "indoor",
+        "bed",
+        "comfort",
+        "nap",
+        "cushion",
+        "mammal",
+        "animal",
+        "sleep",
+        "linens",
+        "bed sheet",
+        "pillow",
+        "blanket",
+        "laying",
+        "sofa",
+        "sleeping",
+        "bedclothes",
+        "dog"
+    ]
+}

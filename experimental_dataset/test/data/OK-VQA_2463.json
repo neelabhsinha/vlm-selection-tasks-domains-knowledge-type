@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2463,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2463.png",
+    "question": "What's the purpose of the cubes in the picture?",
+    "label": [
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "art",
+        "art",
+        "to form line",
+        "to form line"
+    ]
+}

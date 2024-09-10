@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 447,
+    "caption": "a man riding a bike next to a wall",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "bicycle wheel",
+        "black and white",
+        "wheel",
+        "ground",
+        "cycling",
+        "street",
+        "bicycle frame",
+        "land vehicle",
+        "footwear",
+        "vehicle",
+        "woman",
+        "bicycle",
+        "people"
+    ]
+}

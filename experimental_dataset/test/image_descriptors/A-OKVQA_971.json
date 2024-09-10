@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 971,
+    "caption": "a boy riding a skateboard on top of a parking lot",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "tire",
+        "outdoor",
+        "ground",
+        "footwear",
+        "clothing",
+        "bicycle",
+        "person",
+        "bicycle wheel",
+        "toddler",
+        "auto part",
+        "car",
+        "road",
+        "young",
+        "boy",
+        "child",
+        "street"
+    ]
+}

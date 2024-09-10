@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 672,
+    "caption": "a cat is sitting on a blue chair",
+    "object_tags": [
+        "small to medium-sized cats",
+        "felidae",
+        "whiskers",
+        "cat furniture",
+        "domestic cat",
+        "cat",
+        "blue",
+        "sitting",
+        "indoor",
+        "chair",
+        "mammal",
+        "animal"
+    ]
+}

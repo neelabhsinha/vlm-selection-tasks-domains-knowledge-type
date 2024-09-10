@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4571,
+    "caption": "two sheep standing next to each other in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "sheep",
+        "tree",
+        "livestock",
+        "terrestrial animal",
+        "herd",
+        "wildlife",
+        "herding",
+        "standing",
+        "winter",
+        "grass",
+        "field"
+    ]
+}

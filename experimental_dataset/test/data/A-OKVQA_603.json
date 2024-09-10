@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 603,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_603.png",
+    "question": "What is the color of the tie?",
+    "label": "['purple', 'gray', 'blue', 'blue white', 'black', 'black', 'blue', 'grey', 'black', 'black']",
+    "choices": [
+        "green",
+        "black",
+        "white",
+        "red"
+    ],
+    "correct_choice": "black"
+}

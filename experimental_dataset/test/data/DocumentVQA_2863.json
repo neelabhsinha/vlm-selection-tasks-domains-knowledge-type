@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2863,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2863.png",
+    "question": "What is the promo no.?",
+    "label": [
+        "601758"
+    ]
+}

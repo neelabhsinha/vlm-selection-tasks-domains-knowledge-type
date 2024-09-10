@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2566,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2566.png",
+    "question": "What reason might one have for sitting here?",
+    "label": [
+        "bored",
+        "bored",
+        "relax",
+        "relax",
+        "to rest",
+        "to rest",
+        "rest",
+        "rest",
+        "relax",
+        "relax"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 26226,
+    "caption": "a woman is petting a horse in a stall",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "woman",
+        "horse",
+        "indoor",
+        "girl"
+    ]
+}

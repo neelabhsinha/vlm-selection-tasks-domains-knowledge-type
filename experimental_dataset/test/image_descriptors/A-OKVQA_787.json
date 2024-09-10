@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 787,
+    "caption": "a person holding a glass filled with wine",
+    "object_tags": [
+        "container",
+        "wine glass",
+        "person",
+        "drink",
+        "glass",
+        "drinkware",
+        "barware",
+        "alcoholic beverage",
+        "stemware",
+        "wine",
+        "tableware",
+        "champagne stemware",
+        "transparent material",
+        "red wine",
+        "snifter",
+        "distilled beverage",
+        "dessert wine",
+        "holding",
+        "glasses",
+        "outdoor",
+        "alcohol"
+    ]
+}

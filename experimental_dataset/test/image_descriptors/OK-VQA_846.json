@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 846,
+    "caption": "people walking on a trail with a dog",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "dog",
+        "hiking equipment",
+        "hiking",
+        "backpacking",
+        "mountain",
+        "adventure",
+        "person",
+        "outdoor recreation",
+        "clothing",
+        "people"
+    ]
+}

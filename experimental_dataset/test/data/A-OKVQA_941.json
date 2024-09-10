@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 941,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_941.png",
+    "question": "What is the favorite color of the person who lives here?",
+    "label": "['purple', 'purple', 'purple', 'brown', 'purple', 'purple', 'brown', 'purple', 'purple', 'purple']",
+    "choices": [
+        "purple",
+        "blue",
+        "red",
+        "green"
+    ],
+    "correct_choice": "purple"
+}

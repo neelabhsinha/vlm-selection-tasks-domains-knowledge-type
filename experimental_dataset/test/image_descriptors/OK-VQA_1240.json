@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1240,
+    "caption": "a beautiful young woman laying on a bed",
+    "object_tags": [
+        "person",
+        "indoor",
+        "human face",
+        "bed",
+        "clothing",
+        "wall",
+        "woman",
+        "skin",
+        "photo shoot",
+        "long hair",
+        "eyelash",
+        "lip",
+        "girl",
+        "young",
+        "bedclothes"
+    ]
+}

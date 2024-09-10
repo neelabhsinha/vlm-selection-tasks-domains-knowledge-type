@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2744,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2744.png",
+    "question": "What language is written on the signs?",
+    "label": [
+        "german",
+        "german",
+        "german",
+        "german",
+        "german",
+        "german",
+        "russian",
+        "russian",
+        "french",
+        "french"
+    ]
+}

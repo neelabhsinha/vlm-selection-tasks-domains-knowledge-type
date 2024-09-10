@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 659,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_659.png",
+    "question": "What is the vehicle traveling on?",
+    "label": "['tracks', 'track', 'rails', 'train', 'track', 'track', 'track', 'tracks', 'tracks', 'tracks']",
+    "choices": [
+        "air",
+        "water",
+        "track",
+        "road"
+    ],
+    "correct_choice": "track"
+}

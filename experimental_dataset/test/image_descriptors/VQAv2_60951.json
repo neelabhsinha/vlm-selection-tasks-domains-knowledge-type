@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 60951,
+    "caption": "a small dog sitting in front of a television",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "television",
+        "floor",
+        "television set",
+        "animal",
+        "entertainment center",
+        "room",
+        "dog",
+        "display device",
+        "flat panel display",
+        "mammal",
+        "monitor",
+        "standing",
+        "black",
+        "screen"
+    ]
+}

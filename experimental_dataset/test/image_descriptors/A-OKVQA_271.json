@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 271,
+    "caption": "women sitting on a bus",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "footwear",
+        "smile",
+        "woman",
+        "indoor",
+        "sitting",
+        "people",
+        "girl",
+        "comfort",
+        "wall",
+        "window",
+        "group",
+        "subway"
+    ]
+}

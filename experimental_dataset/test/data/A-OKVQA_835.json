@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 835,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_835.png",
+    "question": "What direction is this man going?",
+    "label": "['downhill', 'down', 'downwards', 'downward', 'down', 'down hill', 'downhill', 'down', 'downhill', 'down']",
+    "choices": [
+        "downhill",
+        "left",
+        "uphill",
+        "right"
+    ],
+    "correct_choice": "downhill"
+}

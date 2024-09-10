@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 321,
+    "image_path": "./experimental_dataset/test/images/ChartQA_321.png",
+    "question": "What is the total sum of smallest two bar ?",
+    "label": [
+        "10.2"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 131720,
+    "image_path": "./experimental_dataset/test/images/VQAv2_131720.png",
+    "question": "Is this overlooking a forest?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "sea",
+        "no",
+        "no",
+        "no"
+    ]
+}

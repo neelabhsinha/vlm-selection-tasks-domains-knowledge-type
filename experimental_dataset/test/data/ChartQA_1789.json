@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1789,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1789.png",
+    "question": "What was the fertility rate in Jordan in 2018?",
+    "label": [
+        "2.76"
+    ]
+}

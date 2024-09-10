@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 28,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_28.png",
+    "question": "What flavor is this pastry?",
+    "label": [
+        "blueberry",
+        "blueberry",
+        "blueberry",
+        "blueberry",
+        "cream cheese",
+        "cream cheese",
+        "chocolate",
+        "chocolate",
+        "strawberry",
+        "strawberry"
+    ]
+}

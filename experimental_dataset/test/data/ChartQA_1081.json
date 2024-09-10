@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1081,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1081.png",
+    "question": "What is the total population in 2010?",
+    "label": [
+        "100"
+    ]
+}

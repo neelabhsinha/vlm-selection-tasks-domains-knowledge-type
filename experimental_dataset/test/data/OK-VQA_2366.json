@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2366,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2366.png",
+    "question": "How do you clean this?",
+    "label": [
+        "vacuum",
+        "vacuum",
+        "vacuum",
+        "vacuum",
+        "vacuum",
+        "vacuum",
+        "vaccum",
+        "vaccum",
+        "vacuum and dust",
+        "vacuum and dust"
+    ]
+}

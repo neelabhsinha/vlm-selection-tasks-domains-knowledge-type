@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1809,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1809.png",
+    "question": "What is this green leafy vegetable?",
+    "label": [
+        "kale",
+        "kale",
+        "kale",
+        "kale",
+        "kale",
+        "kale",
+        "kale",
+        "kale",
+        "lettuc",
+        "lettuc"
+    ]
+}

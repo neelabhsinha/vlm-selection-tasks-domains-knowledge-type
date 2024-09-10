@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1818,
+    "caption": "a collage of photos of a man on a skateboard",
+    "object_tags": [
+        "text",
+        "footwear"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1291,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1291.png",
+    "question": "What sort of infrastructure is required to support this method of transportation?",
+    "label": [
+        "rail",
+        "rail",
+        "rail",
+        "rail",
+        "railway",
+        "railway",
+        "track",
+        "track",
+        "train track",
+        "train track"
+    ]
+}

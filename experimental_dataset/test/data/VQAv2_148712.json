@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 148712,
+    "image_path": "./experimental_dataset/test/images/VQAv2_148712.png",
+    "question": "What is the horse leaning over?",
+    "label": [
+        "fence",
+        "fence",
+        "fence",
+        "fence",
+        "fence",
+        "fence",
+        "fence",
+        "fence",
+        "fence",
+        "fence"
+    ]
+}

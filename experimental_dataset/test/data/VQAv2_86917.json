@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 86917,
+    "image_path": "./experimental_dataset/test/images/VQAv2_86917.png",
+    "question": "What is the building in background?",
+    "label": [
+        "train station",
+        "school",
+        "school",
+        "school",
+        "college",
+        "school",
+        "office",
+        "school",
+        "school",
+        "library"
+    ]
+}

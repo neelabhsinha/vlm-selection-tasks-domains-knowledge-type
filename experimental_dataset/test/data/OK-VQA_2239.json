@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2239,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2239.png",
+    "question": "Often used as a side dish?",
+    "label": [
+        "french fry",
+        "french fry",
+        "french fry",
+        "french fry",
+        "fry",
+        "fry",
+        "fry",
+        "fry",
+        "carrot",
+        "carrot"
+    ]
+}

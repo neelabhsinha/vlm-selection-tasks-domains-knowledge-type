@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4499,
+    "caption": "a park bench sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "furniture",
+        "bench",
+        "ground",
+        "outdoor bench",
+        "street furniture",
+        "plant",
+        "grass",
+        "sitting",
+        "park",
+        "wooden",
+        "street",
+        "winter"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 106108,
+    "image_path": "./experimental_dataset/test/images/VQAv2_106108.png",
+    "question": "Has this food been cooked?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

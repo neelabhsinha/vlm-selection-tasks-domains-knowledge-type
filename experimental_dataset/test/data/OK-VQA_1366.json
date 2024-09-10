@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1366,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1366.png",
+    "question": "What is the current record for eating this type of food?",
+    "label": [
+        "69",
+        "69",
+        "69",
+        "69",
+        "74 hotdogs",
+        "74 hotdogs",
+        "2 in minute",
+        "2 in minute",
+        "30",
+        "30"
+    ]
+}

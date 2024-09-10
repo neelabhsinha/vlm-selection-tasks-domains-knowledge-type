@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1466,
+    "caption": "a young woman holding a frisbee in front of a lake",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "grass",
+        "clothing",
+        "smile",
+        "water",
+        "lake",
+        "human face",
+        "boy",
+        "holding",
+        "frisbee",
+        "river"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 853,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_853.png",
+    "question": "The cows are located in what type of area?",
+    "label": "['rural', 'field', 'pasture', 'farming', 'field', 'field', 'pasture', 'fields', 'pasture', 'farm']",
+    "choices": [
+        "park",
+        "zoo",
+        "farm",
+        "nature reserve"
+    ],
+    "correct_choice": "farm"
+}

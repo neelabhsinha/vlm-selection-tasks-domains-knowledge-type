@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2670,
+    "caption": "a man holding up a sign that reads \"don't be afraid.\"",
+    "object_tags": [
+        "clothing",
+        "person",
+        "handwriting",
+        "human face",
+        "outdoor",
+        "fashion accessory",
+        "sign",
+        "woman"
+    ]
+}

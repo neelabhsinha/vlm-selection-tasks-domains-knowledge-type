@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 605,
+    "caption": "a crowd of people standing around a tour bus",
+    "object_tags": [
+        "sky",
+        "clothing",
+        "vehicle",
+        "person",
+        "transport",
+        "footwear",
+        "land vehicle",
+        "outdoor",
+        "mode of transport",
+        "people",
+        "public transport",
+        "passenger",
+        "travel",
+        "road",
+        "standing",
+        "group",
+        "ground",
+        "parked",
+        "woman",
+        "bus"
+    ]
+}

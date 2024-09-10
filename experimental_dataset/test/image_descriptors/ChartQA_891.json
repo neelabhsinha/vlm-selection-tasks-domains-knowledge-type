@@ -1,0 +1,16 @@
+{
+    "dataset": "ChartQA",
+    "key": 891,
+    "caption": "a series of photos showing different types of electronic devices",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "parallel",
+        "number",
+        "software",
+        "plot",
+        "rectangle",
+        "design"
+    ]
+}

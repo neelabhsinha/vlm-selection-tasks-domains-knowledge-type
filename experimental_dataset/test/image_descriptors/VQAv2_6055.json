@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 6055,
+    "caption": "a boy is doing a trick on a skateboard",
+    "object_tags": [
+        "person",
+        "footwear",
+        "clothing",
+        "sport",
+        "skateboarding equipment",
+        "boardsport",
+        "street stunts",
+        "skateboarder",
+        "skateboarding",
+        "man",
+        "skate",
+        "kickflip",
+        "skating",
+        "outdoor",
+        "street sports",
+        "balance",
+        "stunt",
+        "skateboard",
+        "ground",
+        "young",
+        "boy"
+    ]
+}

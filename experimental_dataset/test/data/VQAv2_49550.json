@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 49550,
+    "image_path": "./experimental_dataset/test/images/VQAv2_49550.png",
+    "question": "What type of phone is this?",
+    "label": [
+        "motorola",
+        "flip phone",
+        "cell",
+        "flip",
+        "flip phone",
+        "motorola",
+        "motorola",
+        "cell",
+        "flip phone",
+        "flip"
+    ]
+}

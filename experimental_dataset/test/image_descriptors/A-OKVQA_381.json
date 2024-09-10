@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 381,
+    "caption": "a man standing in front of an open oven",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "sky",
+        "man",
+        "tree"
+    ]
+}

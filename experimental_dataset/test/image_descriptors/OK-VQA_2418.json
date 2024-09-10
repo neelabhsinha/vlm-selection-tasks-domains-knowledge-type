@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2418,
+    "caption": "tennis players are playing a game of tennis",
+    "object_tags": [
+        "athletic game",
+        "sport",
+        "court",
+        "player",
+        "person",
+        "racquet sport",
+        "tennis",
+        "racket",
+        "sports equipment",
+        "sport venue",
+        "racketlon",
+        "ball game",
+        "sports",
+        "soft tennis",
+        "tennis court",
+        "tennis racket",
+        "tennis player",
+        "tennis equipment",
+        "net sports",
+        "rackets",
+        "match",
+        "indoor"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 172,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_172.png",
+    "question": "What are the white rocks for?",
+    "label": "['prevent fire', 'guidance', 'barrier', 'border', 'walking on', 'train tracks', 'barrier', 'usa', 'decoration', 'border']",
+    "choices": [
+        "breaking",
+        "prevent fire",
+        "water retainment",
+        "decoration"
+    ],
+    "correct_choice": "prevent fire"
+}

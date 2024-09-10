@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 842,
+    "caption": "a chef preparing food in a kitchen",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "food processing",
+        "cook",
+        "chef",
+        "cookware and bakeware",
+        "kitchen",
+        "food",
+        "chef's uniform",
+        "man",
+        "kitchen appliance",
+        "cooking",
+        "preparing",
+        "ceiling"
+    ]
+}

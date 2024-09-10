@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 190208,
+    "image_path": "./experimental_dataset/test/images/VQAv2_190208.png",
+    "question": "Given the type of animal in this scene, is this a picture of a farm or a National Park?",
+    "label": [
+        "farm",
+        "national park",
+        "national park",
+        "national park",
+        "national park",
+        "national park",
+        "national park",
+        "park",
+        "park",
+        "national park"
+    ]
+}

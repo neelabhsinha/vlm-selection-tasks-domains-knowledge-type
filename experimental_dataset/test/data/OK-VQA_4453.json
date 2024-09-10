@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4453,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4453.png",
+    "question": "What is the pattern called that is printed on the umbrella?",
+    "label": [
+        "stripe",
+        "stripe",
+        "stripe",
+        "stripe",
+        "stripe",
+        "stripe",
+        "stripe",
+        "stripe",
+        "striped",
+        "striped"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 959,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_959.png",
+    "question": "How ripe is the banana?",
+    "label": "['medium', 'very', 'very', 'halfway', 'green', 'very', 'pull peel', 'very', 'very ripe', 'moderately ripe']",
+    "choices": [
+        "completely brown",
+        "yellow",
+        "brown spots",
+        "green"
+    ],
+    "correct_choice": "green"
+}

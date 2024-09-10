@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1665,
+    "caption": "a row of wooden benches sitting on top of a beach",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sky",
+        "ground",
+        "beach",
+        "water",
+        "shade",
+        "furniture",
+        "chair",
+        "sitting",
+        "sand",
+        "ocean",
+        "landscape"
+    ]
+}

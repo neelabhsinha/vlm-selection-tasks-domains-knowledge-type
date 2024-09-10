@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3504,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3504.png",
+    "question": "What kind of couch is that?",
+    "label": [
+        "sofa",
+        "sofa",
+        "sofa",
+        "sofa",
+        "curved back",
+        "curved back",
+        "full size",
+        "full size",
+        "antique",
+        "antique"
+    ]
+}

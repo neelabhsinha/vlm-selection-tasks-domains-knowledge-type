@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 647,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_647.png",
+    "question": "How long does the average giraffe live?",
+    "label": "['twenty years', 'thirty years', '25 years', '25 years', '30 years', 'decades', 'twentyfive years', '25 years', '20-30 years', 'twenty years']",
+    "choices": [
+        "50 years",
+        "15 years",
+        "20-30 years",
+        "40 years"
+    ],
+    "correct_choice": "20-30 years"
+}

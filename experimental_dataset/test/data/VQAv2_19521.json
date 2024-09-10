@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 19521,
+    "image_path": "./experimental_dataset/test/images/VQAv2_19521.png",
+    "question": "What is the pitcher doing?",
+    "label": [
+        "adjusting",
+        "waiting",
+        "readjusting",
+        "grabbing",
+        "standing",
+        "adjusting his pants",
+        "scratching",
+        "no comment",
+        "signaling catcher",
+        "signaling"
+    ]
+}

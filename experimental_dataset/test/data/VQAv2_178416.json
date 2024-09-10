@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 178416,
+    "image_path": "./experimental_dataset/test/images/VQAv2_178416.png",
+    "question": "Are there lots of trees in the distance?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

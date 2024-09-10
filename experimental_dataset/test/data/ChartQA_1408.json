@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1408,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1408.png",
+    "question": "How many H&M stores were open in the United States in 2020?",
+    "label": [
+        "582"
+    ]
+}

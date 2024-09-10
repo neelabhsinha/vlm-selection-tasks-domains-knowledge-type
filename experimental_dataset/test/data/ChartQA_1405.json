@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1405,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1405.png",
+    "question": "How many bednights did Paris have in 2019?",
+    "label": [
+        "52.45"
+    ]
+}

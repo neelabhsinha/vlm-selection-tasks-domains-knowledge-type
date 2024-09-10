@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2400,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2400.png",
+    "question": "What was Austria's youth unemployment rate in 2019?",
+    "label": [
+        "8.51"
+    ]
+}

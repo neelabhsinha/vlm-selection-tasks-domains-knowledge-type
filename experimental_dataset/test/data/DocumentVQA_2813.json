@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2813,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2813.png",
+    "question": "What is the year shown inside the right side box",
+    "label": [
+        "1955",
+        "December 1955"
+    ]
+}

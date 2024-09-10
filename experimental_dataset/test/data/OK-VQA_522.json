@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 522,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_522.png",
+    "question": "What types of birds are those present?",
+    "label": [
+        "pelican",
+        "pelican",
+        "pelican",
+        "pelican",
+        "pelican",
+        "pelican",
+        "seagull",
+        "seagull",
+        "seagull",
+        "seagull"
+    ]
+}

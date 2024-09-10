@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4004,
+    "caption": "a woman cutting a cake with a knife",
+    "object_tags": [
+        "person",
+        "wedding cake",
+        "bride",
+        "cake",
+        "wall",
+        "dress",
+        "birthday cake",
+        "dessert",
+        "wedding dress",
+        "cake decorating",
+        "baked goods",
+        "food",
+        "sugar cake",
+        "clothing",
+        "woman",
+        "icing",
+        "indoor",
+        "wedding",
+        "cutting",
+        "knife",
+        "cut"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2088,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2088.png",
+    "question": "What is hotel bill?",
+    "label": [
+        "$ 57.24"
+    ]
+}

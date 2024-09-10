@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1688,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1688.png",
+    "question": "What was the highest number of Saab cars sold in Sweden in 2008?",
+    "label": [
+        "19871"
+    ]
+}

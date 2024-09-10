@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4168,
+    "caption": "a woman riding a wave on top of a surfboard",
+    "object_tags": [
+        "water",
+        "sport",
+        "outdoor",
+        "wave",
+        "swimming",
+        "person",
+        "surfboard",
+        "ocean",
+        "wind wave",
+        "boardsport",
+        "riding",
+        "surfing",
+        "beach",
+        "surf"
+    ]
+}

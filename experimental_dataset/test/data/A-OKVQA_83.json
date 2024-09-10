@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 83,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_83.png",
+    "question": "Where are these animals located?",
+    "label": "['africa', 'african', 'wild', 'africa', 'field', 'forest', 'africa', 'jungle', 'savanna', 'africa']",
+    "choices": [
+        "museum",
+        "zoo",
+        "vet",
+        "wild"
+    ],
+    "correct_choice": "wild"
+}

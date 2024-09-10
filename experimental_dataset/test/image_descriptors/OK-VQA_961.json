@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 961,
+    "caption": "a display case filled with lots of different types of desserts",
+    "object_tags": [
+        "baked goods",
+        "snack",
+        "sweetness",
+        "bakery",
+        "baking",
+        "patisserie",
+        "delicacy",
+        "bake sale",
+        "dairy",
+        "confectionery",
+        "petit four",
+        "chocolate",
+        "fast food",
+        "indoor",
+        "cake",
+        "pastry",
+        "food",
+        "dessert",
+        "display",
+        "shop",
+        "variety",
+        "various"
+    ]
+}

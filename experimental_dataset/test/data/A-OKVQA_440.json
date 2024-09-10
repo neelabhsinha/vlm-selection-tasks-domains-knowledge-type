@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 440,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_440.png",
+    "question": "What color is the background of the large clock?",
+    "label": "['orange', 'white', 'white', 'white', 'orange', 'white', 'orange', 'orange blue', 'white', 'white']",
+    "choices": [
+        "green",
+        "black",
+        "white",
+        "red"
+    ],
+    "correct_choice": "white"
+}

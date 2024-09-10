@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 141,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "History",
+        "Mathematics"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Mathematical Knowledge"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3766,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3766.png",
+    "question": "Who is the secretary of \u2018ITC Limited\u2019?",
+    "label": [
+        "B. B. CHATTERJEE",
+        "B B CHATTERJEE"
+    ]
+}

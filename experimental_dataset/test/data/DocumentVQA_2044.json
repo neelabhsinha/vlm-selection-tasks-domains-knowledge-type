@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2044,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2044.png",
+    "question": "What is point number 11 in the document?",
+    "label": [
+        "Coronary heart disease"
+    ]
+}

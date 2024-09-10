@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 812,
+    "caption": "a crowd of people standing in the street holding umbrellas",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "balloon",
+        "clothing",
+        "human face",
+        "woman",
+        "man",
+        "fashion accessory",
+        "party supply",
+        "festival",
+        "crowd",
+        "umbrella",
+        "people",
+        "parade",
+        "street"
+    ]
+}

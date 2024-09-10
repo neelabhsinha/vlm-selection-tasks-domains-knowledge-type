@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2480,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2480.png",
+    "question": "What is the recipe by Kona coffee?",
+    "label": [
+        "COFFEE CHIFFON CAKE",
+        "Coffee chiffon cake"
+    ]
+}

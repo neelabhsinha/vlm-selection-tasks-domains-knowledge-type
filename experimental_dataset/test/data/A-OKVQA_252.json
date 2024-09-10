@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 252,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_252.png",
+    "question": "What is the shape on top of the cake?",
+    "label": "['flower', 'flower', 'circle', 'flower', 'circle', 'flower', 'flower', 'flower', 'flower', 'flower']",
+    "choices": [
+        "dirt",
+        "peanut",
+        "flower",
+        "mm"
+    ],
+    "correct_choice": "flower"
+}

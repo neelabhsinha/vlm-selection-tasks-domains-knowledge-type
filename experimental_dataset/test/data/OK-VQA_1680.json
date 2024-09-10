@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1680,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1680.png",
+    "question": "What kind of breading was used?",
+    "label": [
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "dough",
+        "yeast",
+        "yeast",
+        "flour",
+        "flour"
+    ]
+}

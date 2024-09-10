@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 894,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_894.png",
+    "question": "What is the Title of the document ?",
+    "label": [
+        "TOBACCO & CANDY DISTRIBUTORS ASSOCIATION OF NEW JERSEY"
+    ]
+}

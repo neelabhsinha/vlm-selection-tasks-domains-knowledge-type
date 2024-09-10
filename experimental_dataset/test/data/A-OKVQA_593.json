@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 593,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_593.png",
+    "question": "What is reflected in the ball?",
+    "label": "['human', 'window', 'photographer', 'person', 'human', 'person', 'person', 'person', 'person', 'photographer']",
+    "choices": [
+        "goat",
+        "person",
+        "car",
+        "airplane"
+    ],
+    "correct_choice": "person"
+}

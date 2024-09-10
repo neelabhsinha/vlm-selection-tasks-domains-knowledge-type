@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 56218,
+    "caption": "a man and a woman playing frisbee in a park",
+    "object_tags": [
+        "person",
+        "tree",
+        "clothing",
+        "grass",
+        "outdoor",
+        "plant",
+        "shorts",
+        "frisbee",
+        "trunk",
+        "man",
+        "footwear",
+        "summer",
+        "standing",
+        "field",
+        "park",
+        "people"
+    ]
+}

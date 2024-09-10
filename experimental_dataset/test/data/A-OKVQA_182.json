@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 182,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_182.png",
+    "question": "What might you mix with the alcoholic drink named?",
+    "label": "['tonic water', 'vodka', 'coke', 'coke', 'vodka', 'juice', 'orange juice', 'orange juice', 'coke', 'orange juice']",
+    "choices": [
+        "milk",
+        "coke",
+        "beer",
+        "gin"
+    ],
+    "correct_choice": "coke"
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 193938,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Anthropology",
+        "History"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Geographical Knowledge"
+    ]
+}

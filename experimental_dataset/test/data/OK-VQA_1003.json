@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1003,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1003.png",
+    "question": "What piece of technology is the child playing with?",
+    "label": [
+        "cell phone",
+        "cell phone",
+        "cell phone",
+        "cell phone",
+        "cell",
+        "cell",
+        "ipod",
+        "ipod",
+        "cellphone",
+        "cellphone"
+    ]
+}

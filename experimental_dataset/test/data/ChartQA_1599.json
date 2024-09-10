@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1599,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1599.png",
+    "question": "How many children were enrolled in the Medicaid health care program in 2018?",
+    "label": [
+        "28.1"
+    ]
+}

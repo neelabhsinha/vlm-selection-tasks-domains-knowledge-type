@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 507,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_507.png",
+    "question": "What is on her forehead?",
+    "label": "['wrinkles', 'hair', 'wrinkles', 'wrinkles', 'wrinkles', 'wrinkles', 'wrinkles', 'hair', 'some wrinkles', 'wrinkles']",
+    "choices": [
+        "pimples",
+        "snakes",
+        "wrinkles",
+        "dirt"
+    ],
+    "correct_choice": "wrinkles"
+}

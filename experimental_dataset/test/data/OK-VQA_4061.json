@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4061,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4061.png",
+    "question": "Why are more of these arctic mammals swimming for longer distances to find food?",
+    "label": [
+        "global warm",
+        "global warm",
+        "global warm",
+        "global warm",
+        "warm",
+        "warm",
+        "polution",
+        "polution",
+        "migrate",
+        "migrate"
+    ]
+}

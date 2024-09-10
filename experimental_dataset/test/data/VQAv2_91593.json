@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 91593,
+    "image_path": "./experimental_dataset/test/images/VQAv2_91593.png",
+    "question": "Is this person cold?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

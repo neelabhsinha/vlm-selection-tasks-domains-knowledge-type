@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1380,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1380.png",
+    "question": "What was the value of semiconductor demand in the computing sector in dollars in 2014?",
+    "label": [
+        "105.4"
+    ]
+}

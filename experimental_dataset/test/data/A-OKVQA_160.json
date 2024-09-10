@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 160,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_160.png",
+    "question": "Where are the buses with blue trim probably assembled?",
+    "label": "['factory', 'asia', 'plant manufacturer', 'asia', 'japan', 'bus station', 'detroit', 'unknown', 'china', 'terminal']",
+    "choices": [
+        "stadium",
+        "lot",
+        "lane",
+        "terminal"
+    ],
+    "correct_choice": "terminal"
+}

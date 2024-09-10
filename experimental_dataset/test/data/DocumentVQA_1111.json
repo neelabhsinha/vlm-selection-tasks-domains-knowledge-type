@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1111,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1111.png",
+    "question": "What is the Telex/Telecopy Number?",
+    "label": [
+        "973-564-5292"
+    ]
+}

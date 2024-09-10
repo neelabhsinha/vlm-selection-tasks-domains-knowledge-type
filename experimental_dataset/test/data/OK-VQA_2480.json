@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2480,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2480.png",
+    "question": "What word that starts with p might these elephants also be called?",
+    "label": [
+        "pachyderm",
+        "pachyderm",
+        "pachyderm",
+        "pachyderm",
+        "pachyderm",
+        "pachyderm",
+        "parent",
+        "parent",
+        "proboscis",
+        "proboscis"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 146441,
+    "caption": "a woman holding a surfboard on top of a wave in the ocean",
+    "object_tags": [
+        "outdoor",
+        "surf",
+        "water",
+        "surfboard",
+        "person",
+        "wave",
+        "surfing",
+        "ocean",
+        "wind wave",
+        "tide",
+        "surfing equipment",
+        "boardsport",
+        "surface water sports",
+        "wet suit",
+        "beach",
+        "wakesurfing",
+        "sports equipment",
+        "woman"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 160636,
+    "image_path": "./experimental_dataset/test/images/VQAv2_160636.png",
+    "question": "What does the text right above the entrance say?",
+    "label": [
+        "waiting room",
+        "waiting room",
+        "waiting room",
+        "waiting room",
+        "waiting room",
+        "waiting room",
+        "waiting room",
+        "waiting room",
+        "waiting room",
+        "waiting room"
+    ]
+}

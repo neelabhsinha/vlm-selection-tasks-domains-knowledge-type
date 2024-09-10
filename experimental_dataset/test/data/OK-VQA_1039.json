@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1039,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1039.png",
+    "question": "What sort of clouds are these?",
+    "label": [
+        "storm",
+        "storm",
+        "storm",
+        "storm",
+        "storm",
+        "storm",
+        "cumulus",
+        "cumulus",
+        "strato cumulus",
+        "strato cumulus"
+    ]
+}

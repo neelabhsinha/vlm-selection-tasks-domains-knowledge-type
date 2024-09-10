@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1093,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1093.png",
+    "question": "In how many years the percentage of workforce in the Agriculture sector exceeded 45%?",
+    "label": [
+        "7"
+    ]
+}

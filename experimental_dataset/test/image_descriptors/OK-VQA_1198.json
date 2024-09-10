@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1198,
+    "caption": "a small boat in the middle of the ocean",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "boat",
+        "watercraft",
+        "transport",
+        "cloud",
+        "ship",
+        "vehicle",
+        "boating",
+        "tropics",
+        "beach",
+        "caribbean",
+        "ocean",
+        "ground",
+        "island"
+    ]
+}

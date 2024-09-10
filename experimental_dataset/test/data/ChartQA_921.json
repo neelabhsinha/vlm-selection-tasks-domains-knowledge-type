@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 921,
+    "image_path": "./experimental_dataset/test/images/ChartQA_921.png",
+    "question": "What was the difference in very favorable and very unfavorable ratings for Jimmy Kimmel?",
+    "label": [
+        "19"
+    ]
+}

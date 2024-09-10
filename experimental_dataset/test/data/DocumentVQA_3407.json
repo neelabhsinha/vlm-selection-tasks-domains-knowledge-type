@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3407,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3407.png",
+    "question": "What is the title of the paper submitted by \u2018Deecher\u2019?",
+    "label": [
+        "CHARACTERIZATION OF A MEMBRANE-ASSOCIATED ESTROGEN RECEPTOR IN A RAT HYPOTHALAMIC CELL LINE",
+        "Characterization of a membrane-associated estrogen receptor in a rat hypothalamic cell line"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 1713,
+    "caption": "a collage of photos of a person wearing a blue and white striped shirt",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "software",
+        "plot",
+        "rectangle",
+        "parallel",
+        "colorfulness"
+    ]
+}

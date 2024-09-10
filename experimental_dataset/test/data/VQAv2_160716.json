@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 160716,
+    "image_path": "./experimental_dataset/test/images/VQAv2_160716.png",
+    "question": "How many different modes of transportation are pictured?",
+    "label": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 554,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Nature",
+        "Sports"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 753,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_753.png",
+    "question": "What type of building is this?",
+    "label": [
+        "skyscraper",
+        "skyscraper",
+        "skyscraper",
+        "skyscraper",
+        "skyscraper",
+        "skyscraper",
+        "skyscraper",
+        "skyscraper",
+        "skyscraper",
+        "skyscraper"
+    ]
+}

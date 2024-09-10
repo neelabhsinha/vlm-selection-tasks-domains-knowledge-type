@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 169772,
+    "caption": "a woman and a baby sitting in a kitchen",
+    "object_tags": [
+        "indoor",
+        "clothing",
+        "person",
+        "cabinet",
+        "wall",
+        "cabinetry",
+        "toddler",
+        "human face",
+        "boy",
+        "countertop",
+        "dog",
+        "kitchen",
+        "floor",
+        "woman",
+        "girl"
+    ]
+}

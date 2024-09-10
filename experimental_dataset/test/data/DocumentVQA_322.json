@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 322,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_322.png",
+    "question": "Which country's share analysis is given?",
+    "label": [
+        "UNITED STATES"
+    ]
+}

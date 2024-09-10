@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 817,
+    "image_path": "./experimental_dataset/test/images/ChartQA_817.png",
+    "question": "Which year saw the sharpest drop in Estimated revenue ?",
+    "label": [
+        "2009"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 177547,
+    "caption": "a wooden bench with a toy train on top of it",
+    "object_tags": [
+        "playground",
+        "wheel",
+        "outdoor",
+        "green",
+        "table"
+    ]
+}

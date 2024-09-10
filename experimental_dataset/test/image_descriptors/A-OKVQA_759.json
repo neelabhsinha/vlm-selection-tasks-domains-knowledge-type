@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 759,
+    "caption": "a boy cutting a cake with a knife",
+    "object_tags": [
+        "person",
+        "indoor",
+        "table",
+        "clothing",
+        "human face",
+        "birthday cake",
+        "boy",
+        "wall",
+        "food",
+        "young",
+        "cutting"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 549,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_549.png",
+    "question": "What was the medication given in the first treatment?",
+    "label": [
+        "mpa",
+        "MPA"
+    ]
+}

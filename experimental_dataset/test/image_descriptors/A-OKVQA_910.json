@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 910,
+    "caption": "a tray of food on a table",
+    "object_tags": [
+        "food",
+        "fast food",
+        "snack",
+        "baked goods",
+        "meal",
+        "indoor",
+        "dish",
+        "table",
+        "bread",
+        "cuisine",
+        "floor",
+        "sitting",
+        "breakfast"
+    ]
+}

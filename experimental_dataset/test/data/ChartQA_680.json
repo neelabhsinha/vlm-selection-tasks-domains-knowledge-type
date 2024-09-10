@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 680,
+    "image_path": "./experimental_dataset/test/images/ChartQA_680.png",
+    "question": "What company has the highest annual income from sponsorship deals?",
+    "label": [
+        "Kit (Nike)"
+    ]
+}

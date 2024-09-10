@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3176,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3176.png",
+    "question": "What brand of tv is this?",
+    "label": [
+        "toshiba",
+        "toshiba",
+        "toshiba",
+        "toshiba",
+        "sony",
+        "sony",
+        "sony",
+        "sony",
+        "panasonic",
+        "panasonic"
+    ]
+}

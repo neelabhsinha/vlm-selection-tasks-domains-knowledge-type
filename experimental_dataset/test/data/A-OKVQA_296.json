@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 296,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_296.png",
+    "question": "What is the stuffed animal touching instead of the tennis player?",
+    "label": "['television', 'television screen', 'screen', 'racket', 'tennis racket', 'tennis racket', 'television', 'television screen', 'tv', 'screen']",
+    "choices": [
+        "racquet",
+        "remote",
+        "screen",
+        "tennis ball"
+    ],
+    "correct_choice": "screen"
+}

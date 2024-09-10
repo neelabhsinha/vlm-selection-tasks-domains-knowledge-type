@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 633,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_633.png",
+    "question": "What is the mug below the computer monitor being used for?",
+    "label": "['writing utensils', 'pens', 'holding pencils', 'storage', 'coffee', 'pens', 'pencil holder', 'holding pencils', 'pencil holder', 'coffee']",
+    "choices": [
+        "drinking coffee",
+        "storing marshmallows",
+        "holding pins",
+        "holding pencils"
+    ],
+    "correct_choice": "holding pencils"
+}

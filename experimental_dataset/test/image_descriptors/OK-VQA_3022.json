@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3022,
+    "caption": "a row of parked motorcycles on a city street",
+    "object_tags": [
+        "motorcycle",
+        "land vehicle",
+        "black and white",
+        "vehicle",
+        "wheel",
+        "building",
+        "tire",
+        "outdoor",
+        "bike",
+        "parked",
+        "bicycle",
+        "auto part",
+        "street",
+        "person",
+        "monochrome",
+        "city",
+        "motorbike",
+        "scooter"
+    ]
+}

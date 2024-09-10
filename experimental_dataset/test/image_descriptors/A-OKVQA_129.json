@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 129,
+    "caption": "a large jetliner sitting on top of an airport tarmac",
+    "object_tags": [
+        "aircraft",
+        "plane",
+        "airplane",
+        "vehicle",
+        "transport",
+        "air travel",
+        "outdoor",
+        "aviation",
+        "airport",
+        "airport apron",
+        "sky",
+        "airliner",
+        "ground",
+        "aerospace manufacturer",
+        "aerospace engineering",
+        "airline",
+        "aircraft engine",
+        "runway",
+        "jet aircraft",
+        "night",
+        "tarmac",
+        "sitting",
+        "parked"
+    ]
+}

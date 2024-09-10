@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 264,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_264.png",
+    "question": "Can you guess the aircraft model shown in this picture?",
+    "label": [
+        "cessna",
+        "cessna",
+        "cessna",
+        "cessna",
+        "g flyer",
+        "g flyer",
+        "g 5",
+        "g 5",
+        "northrop t 38 falcon",
+        "northrop t 38 falcon"
+    ]
+}

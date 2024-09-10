@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 72335,
+    "image_path": "./experimental_dataset/test/images/VQAv2_72335.png",
+    "question": "Is there a lattice design on this ornament?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

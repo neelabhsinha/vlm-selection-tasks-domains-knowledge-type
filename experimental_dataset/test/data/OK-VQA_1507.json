@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1507,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1507.png",
+    "question": "Is it a table or a bench?",
+    "label": [
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench"
+    ]
+}

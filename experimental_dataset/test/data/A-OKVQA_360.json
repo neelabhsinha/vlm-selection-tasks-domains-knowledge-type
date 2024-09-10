@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 360,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_360.png",
+    "question": "What animals are in the field?",
+    "label": "['cows', 'cow', 'cow', 'cows', 'cows', 'cows', 'cows', 'cows', 'cows', 'cow']",
+    "choices": [
+        "chicken",
+        "sheep",
+        "cow",
+        "goat"
+    ],
+    "correct_choice": "cow"
+}

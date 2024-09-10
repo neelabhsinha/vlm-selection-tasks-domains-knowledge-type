@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 241,
+    "image_path": "./experimental_dataset/test/images/ChartQA_241.png",
+    "question": "Is the value of Ghana more then Vietnam in Tuberculosis cases?",
+    "label": [
+        "Yes"
+    ]
+}

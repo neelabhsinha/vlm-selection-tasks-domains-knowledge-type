@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3863,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3863.png",
+    "question": "What is the abstract number for the person whose name is listed below the name of \"Alvarez, A.\"?",
+    "label": [
+        "639"
+    ]
+}

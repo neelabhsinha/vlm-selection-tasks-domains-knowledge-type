@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2041,
+    "caption": "a black cat sitting on top of a computer keyboard",
+    "object_tags": [
+        "indoor",
+        "cat",
+        "animal",
+        "black",
+        "pet",
+        "mammal",
+        "small to medium-sized cats",
+        "floor",
+        "remote",
+        "control",
+        "chair",
+        "keyboard",
+        "controller"
+    ]
+}

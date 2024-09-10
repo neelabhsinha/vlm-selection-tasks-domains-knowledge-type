@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2885,
+    "caption": "a man holding a nintendo wii game controller",
+    "object_tags": [
+        "indoor",
+        "text",
+        "person",
+        "clothing",
+        "wall",
+        "furniture",
+        "computer monitor",
+        "table",
+        "desk",
+        "computer",
+        "man",
+        "output device",
+        "display device",
+        "television set",
+        "flat panel display",
+        "desktop computer",
+        "window",
+        "room",
+        "standing",
+        "television",
+        "controller",
+        "floor",
+        "remote",
+        "screen"
+    ]
+}

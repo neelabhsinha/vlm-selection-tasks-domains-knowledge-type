@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 348,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_348.png",
+    "question": "Where are the sheep located?",
+    "label": "['mountain', 'road', 'mountain', 'mountain', 'road', 'road', 'street', 'road', 'road', 'road']",
+    "choices": [
+        "farm",
+        "street",
+        "mountain",
+        "park"
+    ],
+    "correct_choice": "street"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1719,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1719.png",
+    "question": "What is one possible trick that this skateboard could have done?",
+    "label": [
+        "grind",
+        "grind",
+        "grind",
+        "grind",
+        "ollie",
+        "ollie",
+        "olley",
+        "olley",
+        "half pipe",
+        "half pipe"
+    ]
+}

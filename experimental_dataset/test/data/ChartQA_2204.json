@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2204,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2204.png",
+    "question": "How many immigrants arrived by sea in Italy?",
+    "label": [
+        "32665"
+    ]
+}

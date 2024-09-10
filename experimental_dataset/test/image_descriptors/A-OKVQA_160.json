@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 160,
+    "caption": "a city street filled with lots of buses",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "vehicle",
+        "bus",
+        "building",
+        "land vehicle",
+        "road",
+        "tree",
+        "metropolitan area",
+        "urban area",
+        "intersection",
+        "traffic",
+        "metropolis",
+        "mixed-use",
+        "junction",
+        "city",
+        "street",
+        "way"
+    ]
+}

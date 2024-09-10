@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1761,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Government and Politics",
+        "Public Places",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Visual Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

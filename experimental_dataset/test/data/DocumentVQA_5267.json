@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5267,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5267.png",
+    "question": "What is the new technology implemented by ITC in ECF pulp & paper?",
+    "label": [
+        "Ozone bleaching",
+        "'Ozone bleaching'technology",
+        "'Ozone bleaching'",
+        "\"Ozone bleaching\" technology"
+    ]
+}

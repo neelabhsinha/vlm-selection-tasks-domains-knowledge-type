@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1031,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1031.png",
+    "question": "Why does the person have their mouth open?",
+    "label": "['eat', 'eating pizza', 'eating', 'eat food', 'eating', 'to eat', 'eating', 'pizza', 'pizza eating', 'licking']",
+    "choices": [
+        "to talk",
+        "to eat",
+        "to kiss",
+        "to smoke"
+    ],
+    "correct_choice": "to eat"
+}

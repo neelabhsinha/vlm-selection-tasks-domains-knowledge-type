@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1882,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Government and Politics"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge"
+    ]
+}

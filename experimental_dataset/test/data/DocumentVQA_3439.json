@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3439,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3439.png",
+    "question": "Who conducted study for Department of Energy in March 1998?",
+    "label": [
+        "Energy Information Administration"
+    ]
+}

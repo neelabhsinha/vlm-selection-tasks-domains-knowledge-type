@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 179842,
+    "caption": "a man on a boat in the water",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "watercraft",
+        "ship",
+        "water",
+        "sea",
+        "vehicle",
+        "sky",
+        "boat",
+        "lake",
+        "boating",
+        "naval architecture",
+        "beach",
+        "mountain",
+        "travel",
+        "ocean",
+        "landscape"
+    ]
+}

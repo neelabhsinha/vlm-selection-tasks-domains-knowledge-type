@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 139776,
+    "caption": "a man sitting on a bus with a bicycle",
+    "object_tags": [
+        "land vehicle",
+        "wheel",
+        "transport",
+        "vehicle",
+        "bicycle wheel",
+        "person",
+        "bicycle",
+        "bike",
+        "bicycle tire",
+        "bicycle frame",
+        "bicycles--equipment and supplies",
+        "cycling",
+        "tire",
+        "bicycle fork",
+        "road bicycle"
+    ]
+}

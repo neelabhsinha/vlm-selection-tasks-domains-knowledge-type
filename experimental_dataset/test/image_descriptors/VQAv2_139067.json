@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 139067,
+    "caption": "three women are sitting at a table with laptops",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "laptop",
+        "indoor",
+        "woman",
+        "computer",
+        "girl",
+        "people",
+        "orange"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 4028,
+    "caption": "the contents of a purse are laid out on the floor",
+    "object_tags": [
+        "everyday carry",
+        "accessory",
+        "luggage and bags",
+        "text",
+        "items",
+        "bag",
+        "indoor",
+        "case"
+    ]
+}

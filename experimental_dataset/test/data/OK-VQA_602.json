@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 602,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_602.png",
+    "question": "What kind of airplane is this?",
+    "label": [
+        "biplane",
+        "biplane",
+        "biplane",
+        "biplane",
+        "bi wing",
+        "bi wing",
+        "jet",
+        "jet",
+        "old",
+        "old"
+    ]
+}

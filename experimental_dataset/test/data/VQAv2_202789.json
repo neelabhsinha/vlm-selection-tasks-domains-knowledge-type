@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 202789,
+    "image_path": "./experimental_dataset/test/images/VQAv2_202789.png",
+    "question": "What color is the photo?",
+    "label": [
+        "black and white",
+        "color of photo is black and white",
+        "black and white",
+        "black and white",
+        "black and white",
+        "black and white",
+        "black and white",
+        "no",
+        "black and white",
+        "black and white"
+    ]
+}

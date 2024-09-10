@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4607,
+    "caption": "a train on a train track",
+    "object_tags": [
+        "railroad",
+        "sky",
+        "outdoor",
+        "vehicle",
+        "track",
+        "transport",
+        "land vehicle",
+        "train",
+        "locomotive",
+        "railway",
+        "rolling stock",
+        "railroad car",
+        "rolling",
+        "ground"
+    ]
+}

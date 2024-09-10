@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 620,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_620.png",
+    "question": "What sport do the people have equipment for?",
+    "label": "['skiing snowboarding', 'snow boarding', 'snowboarding skiing', 'snowboarding', 'snowboarding', 'snowboarding', 'snowboarding', 'snowboarding', 'ski poles', 'winter sports']",
+    "choices": [
+        "swimming",
+        "snow boarding",
+        "ice fishing",
+        "snow shoes"
+    ],
+    "correct_choice": "snow boarding"
+}

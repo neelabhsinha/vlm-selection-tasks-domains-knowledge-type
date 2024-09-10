@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 101736,
+    "caption": "a dog laying on a couch in a living room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "couch",
+        "room",
+        "interior design",
+        "floor",
+        "sofa",
+        "house",
+        "animal",
+        "furniture",
+        "living room",
+        "studio couch",
+        "sofa bed",
+        "pillow",
+        "loveseat",
+        "den",
+        "cushion",
+        "dog"
+    ]
+}

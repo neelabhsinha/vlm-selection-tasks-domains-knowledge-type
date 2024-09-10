@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1987,
+    "caption": "a sandwich on a plate on a table",
+    "object_tags": [
+        "fast food",
+        "food",
+        "plate",
+        "american food",
+        "meal",
+        "cuisine",
+        "hamburger",
+        "bread",
+        "dish",
+        "meat",
+        "sandwich",
+        "bun",
+        "table",
+        "snack food",
+        "indoor",
+        "burger",
+        "restaurant"
+    ]
+}

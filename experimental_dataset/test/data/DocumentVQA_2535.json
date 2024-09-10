@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2535,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2535.png",
+    "question": "What is the cost of living in Baltimore?",
+    "label": [
+        "$1,384",
+        "$1,384."
+    ]
+}

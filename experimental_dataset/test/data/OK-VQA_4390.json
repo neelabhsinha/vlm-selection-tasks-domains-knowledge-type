@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4390,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4390.png",
+    "question": "How many stomachs does this animal have?",
+    "label": [
+        "3",
+        "3",
+        "3",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4",
+        "1",
+        "1"
+    ]
+}

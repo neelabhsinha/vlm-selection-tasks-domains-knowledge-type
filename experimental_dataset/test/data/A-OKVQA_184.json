@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 184,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_184.png",
+    "question": "What material are the white cups?",
+    "label": "['paper', 'paper', 'paper', 'paper', 'plastic', 'paper', 'plastic', 'plastic', 'paper', 'paper']",
+    "choices": [
+        "wood",
+        "glass",
+        "paper",
+        "plastic"
+    ],
+    "correct_choice": "paper"
+}

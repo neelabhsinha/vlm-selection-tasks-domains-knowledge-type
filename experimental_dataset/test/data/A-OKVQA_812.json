@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 812,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_812.png",
+    "question": "This social demographic or social movement is represented by this gathering?",
+    "label": "['lgbtq', 'pride', 'parade', 'pride', 'lgbtq', 'lgbt', 'lgbtq', 'pride', 'lgbtq', 'lgbt']",
+    "choices": [
+        "blm",
+        "firefighters",
+        "lgbt",
+        "antifa"
+    ],
+    "correct_choice": "lgbt"
+}

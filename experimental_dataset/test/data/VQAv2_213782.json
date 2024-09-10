@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 213782,
+    "image_path": "./experimental_dataset/test/images/VQAv2_213782.png",
+    "question": "What are the letters below the sign meant to look like?",
+    "label": [
+        "ransom",
+        "block",
+        "sentence",
+        "cutouts",
+        "cut out of magazine",
+        "magazine cutout",
+        "magazine letters",
+        "ransom note",
+        "sign",
+        "ransom note"
+    ]
+}

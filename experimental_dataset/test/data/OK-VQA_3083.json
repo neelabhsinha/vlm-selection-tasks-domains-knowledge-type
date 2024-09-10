@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3083,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3083.png",
+    "question": "What can you do in this room?",
+    "label": [
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook"
+    ]
+}

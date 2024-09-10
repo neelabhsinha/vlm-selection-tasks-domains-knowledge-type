@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 98311,
+    "caption": "a city street filled with lots of traffic at night",
+    "object_tags": [
+        "building",
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "car",
+        "night",
+        "road",
+        "bus",
+        "street",
+        "traffic",
+        "light",
+        "electronic signage",
+        "billboard",
+        "electricity",
+        "city"
+    ]
+}

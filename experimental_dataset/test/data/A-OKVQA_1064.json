@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1064,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1064.png",
+    "question": "What type of trick is the man in black doing?",
+    "label": "['skating', 'handstand', 'handstand', 'handplant', 'flip', 'handplant', 'handstand kickflip', 'skateboard trick', 'handstand', 'handstand']",
+    "choices": [
+        "waxing",
+        "flip trick",
+        "grind",
+        "handplant"
+    ],
+    "correct_choice": "handplant"
+}

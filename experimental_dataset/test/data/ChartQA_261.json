@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 261,
+    "image_path": "./experimental_dataset/test/images/ChartQA_261.png",
+    "question": "Is the sum of smallest two bar is greater then the largest bar?",
+    "label": [
+        "No"
+    ]
+}

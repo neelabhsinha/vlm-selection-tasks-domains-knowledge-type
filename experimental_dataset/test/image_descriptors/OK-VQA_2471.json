@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2471,
+    "caption": "people are waiting in line at an airport",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "woman",
+        "luggage and bags",
+        "luggage",
+        "man",
+        "customer",
+        "people",
+        "shopping",
+        "indoor",
+        "airport",
+        "suitcase",
+        "group",
+        "floor",
+        "store",
+        "shop",
+        "standing",
+        "waiting",
+        "ceiling"
+    ]
+}

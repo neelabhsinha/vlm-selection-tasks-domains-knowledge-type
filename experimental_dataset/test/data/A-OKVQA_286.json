@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 286,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_286.png",
+    "question": "What type of animals are on the grass?",
+    "label": "['zebras', 'zebras', 'zebras', 'zebras', 'zebras', 'zebras', 'zebra', 'zebra', \"zebra's\", 'zebra']",
+    "choices": [
+        "zebra",
+        "lion",
+        "bear",
+        "tiger"
+    ],
+    "correct_choice": "zebra"
+}

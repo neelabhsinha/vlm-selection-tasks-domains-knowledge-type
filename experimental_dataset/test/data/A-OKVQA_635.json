@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 635,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_635.png",
+    "question": "What is the top word on the book that the woman is holding?",
+    "label": "['fun', 'fun', 'fun', 'fun', 'fun', \"can't see\", 'fun', 'fun', 'fun', 'fun']",
+    "choices": [
+        "fun",
+        "sad",
+        "glad",
+        "mad"
+    ],
+    "correct_choice": "fun"
+}

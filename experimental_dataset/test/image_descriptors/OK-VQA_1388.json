@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1388,
+    "caption": "a bird that is standing on top of a person",
+    "object_tags": [
+        "bird",
+        "parrot",
+        "person",
+        "blue",
+        "parakeet",
+        "beak",
+        "macaw",
+        "feather",
+        "outdoor",
+        "purple"
+    ]
+}

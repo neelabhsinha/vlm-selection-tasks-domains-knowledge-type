@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 174,
+    "image_path": "./experimental_dataset/test/images/ChartQA_174.png",
+    "question": "What is the percentage of people who do not go online?",
+    "label": [
+        "41"
+    ]
+}

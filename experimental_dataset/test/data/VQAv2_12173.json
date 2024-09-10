@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 12173,
+    "image_path": "./experimental_dataset/test/images/VQAv2_12173.png",
+    "question": "Is spiderman in the picture?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "y"
+    ]
+}

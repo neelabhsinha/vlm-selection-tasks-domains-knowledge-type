@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 677,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_677.png",
+    "question": "What season is it outside?",
+    "label": [
+        "autumn",
+        "autumn",
+        "autumn",
+        "autumn",
+        "spring",
+        "spring",
+        "spring",
+        "spring",
+        "fall",
+        "fall"
+    ]
+}

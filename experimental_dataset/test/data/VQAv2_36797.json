@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 36797,
+    "image_path": "./experimental_dataset/test/images/VQAv2_36797.png",
+    "question": "Where is the man?",
+    "label": [
+        "on motorbike",
+        "on motorcycle",
+        "motorcycle",
+        "on motorcycle",
+        "motorcycle",
+        "on bike",
+        "on motorbike",
+        "on motorcycle",
+        "on motorcycle",
+        "on bike"
+    ]
+}

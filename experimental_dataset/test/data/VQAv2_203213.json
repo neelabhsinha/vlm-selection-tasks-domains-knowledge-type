@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 203213,
+    "image_path": "./experimental_dataset/test/images/VQAv2_203213.png",
+    "question": "Does this dog have short hair?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

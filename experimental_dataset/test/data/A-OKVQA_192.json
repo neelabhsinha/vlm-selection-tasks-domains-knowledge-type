@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 192,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_192.png",
+    "question": "What area of the house is this in?",
+    "label": "['basement', 'basement', 'crawlspace', 'basement', 'attic', 'basement', 'bathroom', 'basement', 'attic', 'store']",
+    "choices": [
+        "kitchen",
+        "bathroom",
+        "basement",
+        "bedroom"
+    ],
+    "correct_choice": "basement"
+}

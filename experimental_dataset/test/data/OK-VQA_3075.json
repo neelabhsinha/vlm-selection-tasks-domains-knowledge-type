@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3075,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3075.png",
+    "question": "Are these copies and fakes or are they real?",
+    "label": [
+        "real",
+        "real",
+        "real",
+        "real",
+        "real",
+        "real",
+        "fake",
+        "fake",
+        "copy",
+        "copy"
+    ]
+}

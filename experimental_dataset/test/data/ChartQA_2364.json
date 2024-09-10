@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2364,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2364.png",
+    "question": "What percentage of voters in Belarus cast their ballots for Alexander Lukashenko?",
+    "label": [
+        "80.1"
+    ]
+}

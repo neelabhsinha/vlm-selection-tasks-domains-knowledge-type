@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1273,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1273.png",
+    "question": "What does the white sign with the arrow mean?",
+    "label": [
+        "no left turn",
+        "no left turn",
+        "no left turn",
+        "no left turn",
+        "no left turn",
+        "no left turn",
+        "no left turn",
+        "no left turn",
+        "direction",
+        "direction"
+    ]
+}

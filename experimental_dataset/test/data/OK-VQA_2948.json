@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2948,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2948.png",
+    "question": "Who invented the object to the right of this photograph?",
+    "label": [
+        "carl mage",
+        "carl mage",
+        "carl mage",
+        "carl mage",
+        "police",
+        "police",
+        "carl c mage",
+        "carl c mage",
+        "bill park meter",
+        "bill park meter"
+    ]
+}

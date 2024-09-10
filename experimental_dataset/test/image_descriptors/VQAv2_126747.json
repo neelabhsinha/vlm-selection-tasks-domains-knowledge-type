@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 126747,
+    "caption": "a man wearing a tie standing next to a wall",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "wall",
+        "indoor",
+        "fashion accessory",
+        "man",
+        "shoulder",
+        "holding",
+        "standing",
+        "wearing"
+    ]
+}

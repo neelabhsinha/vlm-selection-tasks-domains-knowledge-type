@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1486,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1486.png",
+    "question": "What is written in big bold letters?",
+    "label": [
+        "Magic Moments",
+        "Magic moments"
+    ]
+}

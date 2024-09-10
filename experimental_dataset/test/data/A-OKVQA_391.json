@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 391,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_391.png",
+    "question": "Why is the man in the green shirt holding his arms out?",
+    "label": "['maintain balance', 'balance', 'balance', 'playing', 'balance', 'balance', 'balance', 'to balance', 'balance', 'balance']",
+    "choices": [
+        "to exercise",
+        "to balance",
+        "to wave",
+        "to signal"
+    ],
+    "correct_choice": "to balance"
+}

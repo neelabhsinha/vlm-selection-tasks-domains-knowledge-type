@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4360,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4360.png",
+    "question": "What is the number against the event '685. Breeding for Multicrop Systems. Boerma, H.R.(USA)'",
+    "label": [
+        "1030"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 30073,
+    "image_path": "./experimental_dataset/test/images/VQAv2_30073.png",
+    "question": "How many picture frames are there?",
+    "label": [
+        "0",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "0",
+        "1"
+    ]
+}

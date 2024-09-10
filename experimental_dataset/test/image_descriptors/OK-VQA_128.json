@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 128,
+    "caption": "a yellow taxi is parked on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "tree",
+        "sky",
+        "yellow",
+        "road",
+        "wheel",
+        "taxi",
+        "vehicle registration plate",
+        "street",
+        "person",
+        "parked",
+        "people",
+        "car"
+    ]
+}

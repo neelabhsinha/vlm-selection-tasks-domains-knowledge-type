@@ -1,0 +1,16 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2248,
+    "caption": "a drawing of a person on a piece of paper",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "letter",
+        "paper",
+        "paper product",
+        "signature",
+        "calligraphy",
+        "stationary",
+        "envelope"
+    ]
+}

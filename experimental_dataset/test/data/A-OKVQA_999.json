@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 999,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_999.png",
+    "question": "What is going on top of the red sauce?",
+    "label": "['cheese', 'marination', 'tomato', 'tomatoes', 'tomato', 'tomato', 'fruit', 'tomato', 'tomato paste', 'tomato']",
+    "choices": [
+        "tomato",
+        "pepperoni",
+        "pepper",
+        "steak"
+    ],
+    "correct_choice": "tomato"
+}

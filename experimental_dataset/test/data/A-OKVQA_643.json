@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 643,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_643.png",
+    "question": "What is the bear doin?",
+    "label": "['sitting', 'sleeping', 'chilling', 'sitting', 'resting', 'sitting', 'chillin', 'sitted', 'sitting', 'waiving']",
+    "choices": [
+        "sitting",
+        "running",
+        "walking",
+        "standing"
+    ],
+    "correct_choice": "sitting"
+}

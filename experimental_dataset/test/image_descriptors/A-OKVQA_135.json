@@ -1,0 +1,32 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 135,
+    "caption": "two teams of soccer players playing a game of soccer",
+    "object_tags": [
+        "person",
+        "athletic game",
+        "sport",
+        "grass",
+        "soccer",
+        "football",
+        "soccer player",
+        "sports equipment",
+        "outdoor",
+        "footwear",
+        "football player",
+        "soccer ball",
+        "field",
+        "forward",
+        "ball game",
+        "ball",
+        "team sport",
+        "playing",
+        "kick",
+        "player",
+        "soccer kick",
+        "soccer-specific stadium",
+        "tournament",
+        "game",
+        "team"
+    ]
+}

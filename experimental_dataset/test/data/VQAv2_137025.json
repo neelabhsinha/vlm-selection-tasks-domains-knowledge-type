@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 137025,
+    "image_path": "./experimental_dataset/test/images/VQAv2_137025.png",
+    "question": "What is the boy playing?",
+    "label": [
+        "yes",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis"
+    ]
+}

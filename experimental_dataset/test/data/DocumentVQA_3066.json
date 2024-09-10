@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3066,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3066.png",
+    "question": "What is the Venue Code?",
+    "label": [
+        "3677"
+    ]
+}

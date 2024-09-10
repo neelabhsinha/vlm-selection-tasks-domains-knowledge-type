@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 50,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_50.png",
+    "question": "What type of sinks are shown?",
+    "label": "['bathroom', 'bathroom', 'bathroom', 'bathroom', 'bathroom sinks', 'bathroom sinks', 'bathroom sinks', 'bathroom', 'ceramic', 'bathroom']",
+    "choices": [
+        "bathroom",
+        "workstation",
+        "kitchen",
+        "laundry"
+    ],
+    "correct_choice": "bathroom"
+}

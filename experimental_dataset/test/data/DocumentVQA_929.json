@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 929,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_929.png",
+    "question": "What is the amount of Total Assets?",
+    "label": [
+        "$34,395",
+        "$ 34,395"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3252,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3252.png",
+    "question": "Which number is written on the top centre of the page ?",
+    "label": [
+        "4",
+        "-4-"
+    ]
+}

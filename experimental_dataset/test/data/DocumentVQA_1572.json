@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1572,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1572.png",
+    "question": "How many numbered points are there under the subheading 'expenditures' ?",
+    "label": [
+        "2)",
+        "2"
+    ]
+}

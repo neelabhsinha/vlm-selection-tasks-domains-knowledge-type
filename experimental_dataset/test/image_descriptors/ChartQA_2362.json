@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 2362,
+    "caption": "a collage of images of a person holding a remote",
+    "object_tags": [
+        "text",
+        "line",
+        "plot",
+        "diagram",
+        "screenshot",
+        "parallel",
+        "number"
+    ]
+}

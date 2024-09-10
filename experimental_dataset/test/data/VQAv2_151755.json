@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 151755,
+    "image_path": "./experimental_dataset/test/images/VQAv2_151755.png",
+    "question": "Is the left or right shoe shown in this picture?",
+    "label": [
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "left",
+        "right",
+        "both",
+        "right"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 205529,
+    "image_path": "./experimental_dataset/test/images/VQAv2_205529.png",
+    "question": "What is holding the camera?",
+    "label": [
+        "no idea",
+        "owner",
+        "pod",
+        "table",
+        "no camera",
+        "photographer",
+        "person",
+        "desk",
+        "monitor",
+        "computer screen"
+    ]
+}

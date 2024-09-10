@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 178954,
+    "caption": "a cat that is laying down on a rug",
+    "object_tags": [
+        "small to medium-sized cats",
+        "indoor",
+        "felidae",
+        "animal",
+        "whiskers",
+        "fur",
+        "mammal",
+        "hat",
+        "domestic cat",
+        "cat",
+        "wearing"
+    ]
+}

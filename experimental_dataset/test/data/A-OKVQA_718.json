@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 718,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_718.png",
+    "question": "What are the objects made of?",
+    "label": "['acrylic', 'glass', 'glass', 'glass', 'glass', 'glass', 'glass', 'cloth', 'decrote', 'made flowers']",
+    "choices": [
+        "plastic",
+        "wood",
+        "metal",
+        "acrylic"
+    ],
+    "correct_choice": "acrylic"
+}

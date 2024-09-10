@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3727,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3727.png",
+    "question": "What is this electronic device called?",
+    "label": [
+        "computer",
+        "computer",
+        "computer",
+        "computer",
+        "computer",
+        "computer",
+        "computer",
+        "computer",
+        "personal computer",
+        "personal computer"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 827,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_827.png",
+    "question": "If air is exchanged in this room at which location is a fan most likely to be found and installed?",
+    "label": "['back wall', 'ceiling', 'ceiling', 'ceiling', 'ceiling', 'ceiling', 'ceiling', 'back wall', 'back wall', 'ceiling']",
+    "choices": [
+        "door",
+        "floor",
+        "toilet",
+        "ceiling"
+    ],
+    "correct_choice": "ceiling"
+}

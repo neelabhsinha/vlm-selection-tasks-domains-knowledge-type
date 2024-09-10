@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 605,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_605.png",
+    "question": "What is written within the smallest rectangle?",
+    "label": [
+        "80-1"
+    ]
+}

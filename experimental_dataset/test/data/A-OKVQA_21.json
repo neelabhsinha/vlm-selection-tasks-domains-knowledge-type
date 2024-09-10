@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 21,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_21.png",
+    "question": "What is the dog trying to catch?",
+    "label": "['frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee']",
+    "choices": [
+        "person",
+        "frisbee",
+        "kite",
+        "ball"
+    ],
+    "correct_choice": "frisbee"
+}

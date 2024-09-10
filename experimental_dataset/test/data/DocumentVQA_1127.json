@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1127,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1127.png",
+    "question": "What is the underlined heading ?",
+    "label": [
+        "ACTOS FDA TASK FORCE: ACTION PLAN",
+        "Actos FDA task force: Action Plan"
+    ]
+}

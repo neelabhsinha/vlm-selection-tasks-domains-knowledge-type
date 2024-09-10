@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 69342,
+    "caption": "a traffic light on a city street at night",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "sky",
+        "street",
+        "street light",
+        "tree",
+        "car",
+        "traffic light",
+        "road",
+        "vehicle",
+        "land vehicle",
+        "signaling device",
+        "way",
+        "fog",
+        "light",
+        "town",
+        "thoroughfare",
+        "rain",
+        "city",
+        "ground",
+        "wet",
+        "stop"
+    ]
+}

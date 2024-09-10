@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 338,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_338.png",
+    "question": "How many colours of floor tiles are there?",
+    "label": "['two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two']",
+    "choices": [
+        "three",
+        "two",
+        "one",
+        "four"
+    ],
+    "correct_choice": "two"
+}

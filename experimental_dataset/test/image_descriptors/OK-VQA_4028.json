@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4028,
+    "caption": "a man riding skis on top of a water skier",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "water skiing",
+        "person",
+        "sport",
+        "surfing",
+        "riding",
+        "recreation",
+        "outdoor recreation",
+        "wakeboarding",
+        "boardsport",
+        "towed water sport",
+        "surface water sports",
+        "boat"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 123578,
+    "image_path": "./experimental_dataset/test/images/VQAv2_123578.png",
+    "question": "What is the man wearing?",
+    "label": [
+        "sweatshirt",
+        "shirt pants",
+        "pants",
+        "sweatshirt and jeans",
+        "blue jeans",
+        "sweater",
+        "sweater",
+        "pants",
+        "sweatshirt",
+        "jeans and sweatshirt"
+    ]
+}

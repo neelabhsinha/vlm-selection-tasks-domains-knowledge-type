@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 199632,
+    "image_path": "./experimental_dataset/test/images/VQAv2_199632.png",
+    "question": "How many sports are being played here?",
+    "label": [
+        "snowboarding",
+        "1",
+        "2",
+        "2",
+        "2",
+        "1",
+        "1",
+        "2",
+        "snowboarding skiing",
+        "2"
+    ]
+}

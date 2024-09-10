@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 277,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_277.png",
+    "question": "What normally can be seen crossing this?",
+    "label": [
+        "vehicle",
+        "vehicle",
+        "vehicle",
+        "vehicle",
+        "car",
+        "car",
+        "car",
+        "car",
+        "water",
+        "water"
+    ]
+}

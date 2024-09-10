@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 828,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_828.png",
+    "question": "What is the Cost of \"Budget History\" Report based on the table column heading \"PRICE QUOTATION\"?",
+    "label": [
+        "25.00"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 946,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_946.png",
+    "question": "What is not allowed in this area of the sidewalk?",
+    "label": "['parking', 'parking', 'parking', 'parking', 'parking', 'vehicles', 'parking', 'parking', 'vehicles', 'vehicles']",
+    "choices": [
+        "walking",
+        "eating",
+        "parking",
+        "sitting"
+    ],
+    "correct_choice": "parking"
+}

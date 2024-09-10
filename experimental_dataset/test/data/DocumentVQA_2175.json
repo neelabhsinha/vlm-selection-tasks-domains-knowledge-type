@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2175,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2175.png",
+    "question": "What is the due date for 'Taste'?",
+    "label": [
+        "6/15/68"
+    ]
+}

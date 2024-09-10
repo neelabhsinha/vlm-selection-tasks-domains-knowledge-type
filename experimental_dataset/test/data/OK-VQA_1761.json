@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1761,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1761.png",
+    "question": "Who made this?",
+    "label": [
+        "baker",
+        "baker",
+        "baker",
+        "baker",
+        "baker",
+        "baker",
+        "baker",
+        "baker",
+        "bakery",
+        "bakery"
+    ]
+}

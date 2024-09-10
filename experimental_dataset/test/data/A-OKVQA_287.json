@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 287,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_287.png",
+    "question": "What does the cat have his paw up against?",
+    "label": "['desk', 'desk', 'desk', 'desk', 'desk', 'desk', 'desk', 'desk', 'desk', 'desk']",
+    "choices": [
+        "book",
+        "mouse",
+        "toilet",
+        "desk"
+    ],
+    "correct_choice": "desk"
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 554,
+    "caption": "people are flying kites in a field",
+    "object_tags": [
+        "outdoor",
+        "kite",
+        "grass",
+        "sky",
+        "cloud",
+        "people",
+        "parachute",
+        "summer",
+        "person",
+        "group",
+        "beach",
+        "field",
+        "park",
+        "crowd",
+        "standing"
+    ]
+}

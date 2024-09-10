@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 875,
+    "image_path": "./experimental_dataset/test/images/ChartQA_875.png",
+    "question": "The highest percent of Not sure minus the smallest percent of Mostly trust gives what",
+    "label": [
+        "53"
+    ]
+}

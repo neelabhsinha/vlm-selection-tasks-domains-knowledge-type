@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 521,
+    "caption": "two pizzas sitting on top of a counter top",
+    "object_tags": [
+        "dish",
+        "food",
+        "fast food",
+        "indoor",
+        "pizza",
+        "italian food",
+        "pan",
+        "cuisine",
+        "cookware and bakeware",
+        "recipe",
+        "pizza cheese",
+        "stove"
+    ]
+}

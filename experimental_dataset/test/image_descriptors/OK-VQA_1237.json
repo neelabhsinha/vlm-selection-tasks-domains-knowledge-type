@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1237,
+    "caption": "a wooden bench sitting in the middle of a street",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "drawing",
+        "skateboard",
+        "graffiti",
+        "street",
+        "art",
+        "outdoor",
+        "ground"
+    ]
+}

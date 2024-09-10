@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 67701,
+    "caption": "a man standing next to a train at a train station",
+    "object_tags": [
+        "person",
+        "clothing",
+        "sky",
+        "outdoor",
+        "transport",
+        "man",
+        "track",
+        "building",
+        "railway",
+        "railroad",
+        "train",
+        "vehicle",
+        "people",
+        "ground",
+        "standing",
+        "locomotive"
+    ]
+}

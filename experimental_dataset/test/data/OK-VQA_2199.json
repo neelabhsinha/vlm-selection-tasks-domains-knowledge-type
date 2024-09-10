@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2199,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2199.png",
+    "question": "What type of train is this?",
+    "label": [
+        "subway",
+        "subway",
+        "subway",
+        "subway",
+        "passenger",
+        "passenger",
+        "passenger",
+        "passenger",
+        "high speed",
+        "high speed"
+    ]
+}

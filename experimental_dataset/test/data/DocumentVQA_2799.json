@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2799,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2799.png",
+    "question": "To whom the \u2018letter\u2019 is written ?",
+    "label": [
+        "George Moulton"
+    ]
+}

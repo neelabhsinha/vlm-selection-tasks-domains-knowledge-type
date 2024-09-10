@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 97049,
+    "caption": "young children playing a game of soccer",
+    "object_tags": [
+        "grass",
+        "person",
+        "outdoor",
+        "football",
+        "footwear",
+        "tree",
+        "playing",
+        "soccer ball",
+        "playground",
+        "sports equipment",
+        "play",
+        "ball",
+        "ball game",
+        "field",
+        "soccer",
+        "soccer player",
+        "young",
+        "football player",
+        "child",
+        "boy"
+    ]
+}

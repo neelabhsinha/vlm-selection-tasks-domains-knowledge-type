@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1084,
+    "caption": "a man standing next to a woman on a sidewalk",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "outdoor",
+        "building",
+        "man",
+        "street",
+        "ground",
+        "people"
+    ]
+}

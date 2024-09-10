@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4403,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4403.png",
+    "question": "What is PPI?",
+    "label": [
+        "PRESENT PAIN INTENSITY",
+        "Present pain intensity"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 53154,
+    "caption": "giraffes and zebras in a grassy field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "grass",
+        "wildlife",
+        "terrestrial animal",
+        "savanna",
+        "safari",
+        "field",
+        "tree",
+        "mountain",
+        "herd",
+        "shrubland",
+        "plant",
+        "pasture",
+        "zebra",
+        "steppe",
+        "antelope",
+        "grassland",
+        "plant community",
+        "giraffe",
+        "standing",
+        "group",
+        "grazing"
+    ]
+}

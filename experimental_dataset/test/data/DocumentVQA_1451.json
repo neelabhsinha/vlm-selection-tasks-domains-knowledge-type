@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1451,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1451.png",
+    "question": "Which agency's Nutrition survey is this?",
+    "label": [
+        "the hashemite kingdom of jordan",
+        "The Hashemite Kingdom of Jordan"
+    ]
+}

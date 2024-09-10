@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3496,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3496.png",
+    "question": "Who is the supplier?",
+    "label": [
+        "LRW"
+    ]
+}

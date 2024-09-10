@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2567,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2567.png",
+    "question": "What is the reason for piling these appliances up in the parking lot?",
+    "label": [
+        "trash",
+        "trash",
+        "trash",
+        "trash",
+        "remodel",
+        "remodel",
+        "disposal",
+        "disposal",
+        "for sanitation to pick them up",
+        "for sanitation to pick them up"
+    ]
+}

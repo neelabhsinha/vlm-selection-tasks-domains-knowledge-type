@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 398,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_398.png",
+    "question": "Giraffes have spots to provide what kind of defense?",
+    "label": [
+        "camouflage",
+        "camouflage",
+        "camouflage",
+        "camouflage",
+        "cammouflage",
+        "cammouflage",
+        "camoflauge",
+        "camoflauge",
+        "visual",
+        "visual"
+    ]
+}

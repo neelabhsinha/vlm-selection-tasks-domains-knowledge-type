@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 192696,
+    "caption": "a train traveling down train tracks next to a platform",
+    "object_tags": [
+        "transport",
+        "train",
+        "railroad",
+        "track",
+        "vehicle",
+        "railway",
+        "outdoor",
+        "land vehicle",
+        "public transport",
+        "rolling stock",
+        "train station",
+        "railroad car",
+        "building",
+        "passenger car",
+        "electric locomotive",
+        "transport hub",
+        "locomotive",
+        "rolling",
+        "rail",
+        "ground",
+        "yellow"
+    ]
+}

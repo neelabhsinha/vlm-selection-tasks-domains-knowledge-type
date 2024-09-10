@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4223,
+    "caption": "a plane is parked on the grass near a railroad crossing",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "grass",
+        "airplane",
+        "vehicle",
+        "plane",
+        "aircraft",
+        "airport",
+        "transport",
+        "field",
+        "runway",
+        "ground",
+        "parked"
+    ]
+}

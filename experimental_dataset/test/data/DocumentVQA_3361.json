@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3361,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3361.png",
+    "question": "What date should be entered in the voucher?",
+    "label": [
+        "Today's date"
+    ]
+}

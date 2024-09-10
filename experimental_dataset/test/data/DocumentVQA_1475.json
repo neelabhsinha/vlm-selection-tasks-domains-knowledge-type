@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1475,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1475.png",
+    "question": "'Are any modifications to study design needed to address new/changed business needs' ?",
+    "label": [
+        "Yes",
+        "yes"
+    ]
+}

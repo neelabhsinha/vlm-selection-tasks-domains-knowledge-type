@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 66,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_66.png",
+    "question": "Which food has the least carbs?",
+    "label": "['vegetable', 'soup', 'soup', 'soup', 'spinach', 'salad', 'lettuce', 'soup', 'drinks', 'vegetables']",
+    "choices": [
+        "soup",
+        "water",
+        "sandwich",
+        "buns"
+    ],
+    "correct_choice": "soup"
+}

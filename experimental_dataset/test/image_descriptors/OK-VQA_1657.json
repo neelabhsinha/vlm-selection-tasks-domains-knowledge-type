@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1657,
+    "caption": "people sitting on the floor with stuffed animals",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "family",
+        "lap",
+        "indoor",
+        "girl",
+        "footwear",
+        "toddler",
+        "boy",
+        "woman",
+        "baby",
+        "sitting",
+        "people",
+        "group",
+        "child",
+        "floor"
+    ]
+}

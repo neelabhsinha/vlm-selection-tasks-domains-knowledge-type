@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 975,
+    "caption": "a man jumping to catch a frisbee in a gym",
+    "object_tags": [
+        "athletic game",
+        "sport",
+        "person",
+        "sports equipment",
+        "sports",
+        "footwear",
+        "court",
+        "team sport",
+        "ball game",
+        "sportswear",
+        "physical fitness",
+        "ball",
+        "volleyball",
+        "frisbee",
+        "handball",
+        "indoor",
+        "player",
+        "floor",
+        "ground"
+    ]
+}

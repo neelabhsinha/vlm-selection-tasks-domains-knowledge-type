@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 598,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_598.png",
+    "question": "What kind of pants is this woman wearing?",
+    "label": [
+        "yoga",
+        "yoga",
+        "jog",
+        "jog",
+        "capri pant",
+        "capri pant",
+        "capri",
+        "capri",
+        "capris",
+        "capris"
+    ]
+}

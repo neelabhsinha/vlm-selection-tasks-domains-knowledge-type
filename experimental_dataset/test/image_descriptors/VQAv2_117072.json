@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 117072,
+    "caption": "a cat sleeping on top of a wii controller",
+    "object_tags": [
+        "indoor",
+        "cat",
+        "felidae",
+        "small to medium-sized cats",
+        "person",
+        "remote",
+        "controller",
+        "mouse"
+    ]
+}

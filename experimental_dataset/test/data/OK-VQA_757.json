@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 757,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_757.png",
+    "question": "What sort of animal is represented by the toy figure in this photo?",
+    "label": [
+        "bear",
+        "bear",
+        "bear",
+        "bear",
+        "bear",
+        "bear",
+        "bear",
+        "bear",
+        "bear",
+        "bear"
+    ]
+}

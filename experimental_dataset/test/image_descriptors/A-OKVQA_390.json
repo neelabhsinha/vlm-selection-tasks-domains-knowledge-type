@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 390,
+    "caption": "a man wearing a tie and a green shirt",
+    "object_tags": [
+        "clothing",
+        "person",
+        "sky",
+        "outdoor",
+        "human face",
+        "smile",
+        "necktie",
+        "man",
+        "grass",
+        "tie",
+        "dress shirt",
+        "shirt",
+        "wearing",
+        "posing",
+        "standing"
+    ]
+}

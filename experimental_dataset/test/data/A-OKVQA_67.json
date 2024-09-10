@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 67,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_67.png",
+    "question": "What vehicle is closest to the security guard?",
+    "label": "['scooter', 'silver', 'silver car', 'segway', 'two-wheeler', 'segway', 'scooter', 'gray car', 'scooter', 'segway']",
+    "choices": [
+        "silver car",
+        "two-wheeler",
+        "bluecar",
+        "dark car"
+    ],
+    "correct_choice": "two-wheeler"
+}

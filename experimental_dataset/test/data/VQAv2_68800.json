@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 68800,
+    "image_path": "./experimental_dataset/test/images/VQAv2_68800.png",
+    "question": "What color is the light on the left?",
+    "label": [
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red"
+    ]
+}

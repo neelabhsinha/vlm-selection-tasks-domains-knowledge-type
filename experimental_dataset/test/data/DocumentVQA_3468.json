@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3468,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3468.png",
+    "question": "A single pouch can last up to how many hours?",
+    "label": [
+        "one",
+        "one hour"
+    ]
+}

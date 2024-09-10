@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 95897,
+    "image_path": "./experimental_dataset/test/images/VQAv2_95897.png",
+    "question": "What make is the black car in front?",
+    "label": [
+        "toyota corolla",
+        "toyota",
+        "toyota",
+        "hyundai",
+        "unknown",
+        "toyota",
+        "toyota",
+        "toyota",
+        "toyota",
+        "toyota"
+    ]
+}

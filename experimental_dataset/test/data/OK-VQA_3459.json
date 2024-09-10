@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3459,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3459.png",
+    "question": "What type of net is used to play this?",
+    "label": [
+        "tennis net",
+        "tennis net",
+        "tennis net",
+        "tennis net",
+        "cloth net",
+        "cloth net",
+        "tennis",
+        "tennis",
+        "cloth",
+        "cloth"
+    ]
+}

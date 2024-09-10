@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 921,
+    "caption": "a herd of zebra grazing in a grassy field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "mammal",
+        "sky",
+        "animal",
+        "cloud",
+        "herd",
+        "pasture",
+        "plant",
+        "field",
+        "ranch",
+        "zoo",
+        "terrestrial animal",
+        "grazing",
+        "group",
+        "standing",
+        "rock",
+        "nature"
+    ]
+}

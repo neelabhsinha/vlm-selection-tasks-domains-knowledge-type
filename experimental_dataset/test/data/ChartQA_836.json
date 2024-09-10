@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 836,
+    "image_path": "./experimental_dataset/test/images/ChartQA_836.png",
+    "question": "What's the percentage of people answering don't know?",
+    "label": [
+        "25"
+    ]
+}

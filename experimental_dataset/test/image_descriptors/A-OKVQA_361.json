@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 361,
+    "caption": "a man holding a nintendo wii game controller",
+    "object_tags": [
+        "clothing",
+        "person",
+        "wall",
+        "indoor",
+        "human face",
+        "man",
+        "game",
+        "controller",
+        "people",
+        "playing",
+        "smile",
+        "elbow",
+        "ceiling",
+        "room",
+        "mechanical fan",
+        "holding",
+        "group",
+        "remote",
+        "standing"
+    ]
+}

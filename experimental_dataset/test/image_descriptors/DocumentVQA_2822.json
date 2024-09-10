@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2822,
+    "caption": "an old photograph of a man in a suit",
+    "object_tags": [
+        "text",
+        "human face",
+        "man",
+        "person",
+        "screenshot",
+        "portrait",
+        "black and white"
+    ]
+}

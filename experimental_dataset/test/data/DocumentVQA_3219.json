@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3219,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3219.png",
+    "question": "what is the name of university ?",
+    "label": [
+        "University of Belgrade"
+    ]
+}

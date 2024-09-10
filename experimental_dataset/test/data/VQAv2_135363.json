@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 135363,
+    "image_path": "./experimental_dataset/test/images/VQAv2_135363.png",
+    "question": "How many objects are on the wings of the plane pictured right?",
+    "label": [
+        "1",
+        "0",
+        "0",
+        "0",
+        "1",
+        "0",
+        "2",
+        "0",
+        "0",
+        "0"
+    ]
+}

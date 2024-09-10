@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 210860,
+    "caption": "a white cat standing in front of a house",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "domestic cat",
+        "cat",
+        "outdoor",
+        "small to medium-sized cats",
+        "whiskers",
+        "grass",
+        "felidae",
+        "domestic long-haired cat",
+        "white"
+    ]
+}

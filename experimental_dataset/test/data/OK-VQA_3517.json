@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3517,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3517.png",
+    "question": "What is a famous cartoon animal of this type?",
+    "label": [
+        "garfield",
+        "garfield",
+        "garfield",
+        "garfield",
+        "garfield",
+        "garfield",
+        "garfield",
+        "garfield",
+        "garfield",
+        "garfield"
+    ]
+}

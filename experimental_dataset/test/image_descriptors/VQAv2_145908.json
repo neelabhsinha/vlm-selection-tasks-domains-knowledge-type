@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 145908,
+    "caption": "a crowd of people watching a soccer game on a field",
+    "object_tags": [
+        "person",
+        "building",
+        "sport venue",
+        "soccer",
+        "arena",
+        "player",
+        "grass",
+        "man",
+        "stadium",
+        "ball game",
+        "artificial turf",
+        "soccer-specific stadium",
+        "outdoor",
+        "team sport",
+        "football player",
+        "sports equipment",
+        "field",
+        "game"
+    ]
+}

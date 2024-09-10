@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 145466,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Knowledge Base",
+        "Science",
+        "Mathematics"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge"
+    ]
+}

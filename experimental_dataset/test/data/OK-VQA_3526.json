@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3526,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3526.png",
+    "question": "Which kind of cows are shown in this picture?",
+    "label": [
+        "texas longhorn",
+        "texas longhorn",
+        "bull",
+        "bull",
+        "longhorn",
+        "longhorn",
+        "longhorn",
+        "longhorn",
+        "brahma",
+        "brahma"
+    ]
+}

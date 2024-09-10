@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1334,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1334.png",
+    "question": "What was the unemployment rate in Uganda in 2020?",
+    "label": [
+        "1.92"
+    ]
+}

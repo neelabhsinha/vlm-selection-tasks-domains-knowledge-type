@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 157350,
+    "image_path": "./experimental_dataset/test/images/VQAv2_157350.png",
+    "question": "Is there a bus driver to drive the bus?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 988,
+    "caption": "a woman sitting at a table with a laptop",
+    "object_tags": [
+        "indoor",
+        "clothing",
+        "person",
+        "display device",
+        "text",
+        "computer",
+        "television",
+        "computer monitor",
+        "flat panel display",
+        "ceiling",
+        "media",
+        "led-backlit lcd display",
+        "electronics",
+        "output device",
+        "human face",
+        "multimedia",
+        "broadcasting",
+        "video",
+        "television set",
+        "personal computer",
+        "monitor",
+        "wall",
+        "screen"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 76,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_76.png",
+    "question": "What was the cholesterol by the 4th wk for #1 rats?",
+    "label": [
+        "103"
+    ]
+}

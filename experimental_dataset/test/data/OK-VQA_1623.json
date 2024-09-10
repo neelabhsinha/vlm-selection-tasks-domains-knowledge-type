@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1623,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1623.png",
+    "question": "What video game was made with the name of arguably the most famous athlete in this sport?",
+    "label": [
+        "tony hawk",
+        "tony hawk",
+        "tony hawk",
+        "tony hawk",
+        "tony hawk",
+        "tony hawk",
+        "tony hawk",
+        "tony hawk",
+        "shaun white",
+        "shaun white"
+    ]
+}

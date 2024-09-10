@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 195757,
+    "image_path": "./experimental_dataset/test/images/VQAv2_195757.png",
+    "question": "Which pizza is directly over the flame?",
+    "label": [
+        "right",
+        "one with more veggies",
+        "right",
+        "one on right",
+        "right",
+        "right",
+        "veggie",
+        "veggie",
+        "left one",
+        "right"
+    ]
+}

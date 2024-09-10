@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 435,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_435.png",
+    "question": "Why is the man holding the fork?",
+    "label": "['eating', 'pizza', 'eating', 'cutting food', 'eat pizza', 'eating', 'to eat', 'hot food', 'eating', 'eating pizza']",
+    "choices": [
+        "showing off",
+        "organizing",
+        "cutting food",
+        "weapon"
+    ],
+    "correct_choice": "cutting food"
+}

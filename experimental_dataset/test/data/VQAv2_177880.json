@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 177880,
+    "image_path": "./experimental_dataset/test/images/VQAv2_177880.png",
+    "question": "What is the gender of the person behind the counter?",
+    "label": [
+        "male",
+        "male",
+        "male",
+        "male",
+        "man",
+        "male",
+        "male",
+        "male",
+        "male",
+        "male"
+    ]
+}

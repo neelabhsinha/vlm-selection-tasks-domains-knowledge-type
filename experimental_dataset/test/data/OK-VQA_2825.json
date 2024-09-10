@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2825,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2825.png",
+    "question": "What is the wallpaper in this picture showing?",
+    "label": [
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "flower",
+        "textile",
+        "textile"
+    ]
+}

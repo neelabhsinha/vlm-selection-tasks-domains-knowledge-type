@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 178954,
+    "image_path": "./experimental_dataset/test/images/VQAv2_178954.png",
+    "question": "What is the cat drinking?",
+    "label": [
+        "nothing",
+        "nothing",
+        "nothing",
+        "water",
+        "it's not drinking",
+        "nothing",
+        "nothing",
+        "nothing",
+        "water",
+        "nothing"
+    ]
+}

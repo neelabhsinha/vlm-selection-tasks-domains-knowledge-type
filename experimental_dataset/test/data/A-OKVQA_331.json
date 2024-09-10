@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 331,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_331.png",
+    "question": "What is the purpose of the two tallest structures?",
+    "label": "['construct buildings', 'construction', 'crains', 'construction', 'building', 'building', 'build', 'for reception', 'construction', 'cranes']",
+    "choices": [
+        "for advertisement",
+        "for weather",
+        "for reception",
+        "for visibility"
+    ],
+    "correct_choice": "for reception"
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 151,
+    "caption": "a desk with two computers and a laptop on it",
+    "object_tags": [
+        "furniture",
+        "computer monitor",
+        "indoor",
+        "computer",
+        "personal computer",
+        "computer desk",
+        "office chair",
+        "desk",
+        "desktop computer",
+        "office building",
+        "output device",
+        "text",
+        "computer keyboard",
+        "computer hardware",
+        "computer terminal",
+        "office equipment",
+        "floor",
+        "office supplies",
+        "computer network",
+        "chair",
+        "office",
+        "table",
+        "desktop",
+        "work"
+    ]
+}

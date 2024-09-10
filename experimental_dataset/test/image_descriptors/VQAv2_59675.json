@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 59675,
+    "caption": "a herd of sheep standing on top of a lush green field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "animal",
+        "mammal",
+        "field",
+        "tree",
+        "herding",
+        "herd",
+        "pasture",
+        "livestock",
+        "plant",
+        "landscape",
+        "savanna",
+        "nature",
+        "grassland",
+        "fog",
+        "cattle",
+        "ranch",
+        "mountain",
+        "terrestrial animal",
+        "grazing",
+        "standing",
+        "wildlife",
+        "sunrise"
+    ]
+}

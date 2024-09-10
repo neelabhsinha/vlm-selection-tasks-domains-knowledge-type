@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 43,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_43.png",
+    "question": "How many 'energetic and popular brands' has ITC created?",
+    "label": [
+        "50"
+    ]
+}

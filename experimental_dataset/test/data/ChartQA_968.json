@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 968,
+    "image_path": "./experimental_dataset/test/images/ChartQA_968.png",
+    "question": "What is the maximum percentage shown on navy blue bar?",
+    "label": [
+        "49"
+    ]
+}

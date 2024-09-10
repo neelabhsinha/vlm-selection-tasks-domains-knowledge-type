@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2657,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2657.png",
+    "question": "What warm clothing may be made from this animal?",
+    "label": [
+        "sweater",
+        "sweater",
+        "sweater",
+        "sweater",
+        "sweater",
+        "sweater",
+        "wool",
+        "wool",
+        "sweater",
+        "sweater"
+    ]
+}

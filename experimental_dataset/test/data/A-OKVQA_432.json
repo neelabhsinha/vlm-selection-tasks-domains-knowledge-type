@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 432,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_432.png",
+    "question": "What region of the world is this?",
+    "label": "['middle east', 'south', 'eastern', 'asia', 'china', 'africa', 'maybe africa', 'asia', 'africa', 'south america']",
+    "choices": [
+        "africa",
+        "north america",
+        "europe",
+        "asia"
+    ],
+    "correct_choice": "africa"
+}

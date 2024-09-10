@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 37343,
+    "caption": "a red and white train traveling down train tracks",
+    "object_tags": [
+        "transport",
+        "train",
+        "track",
+        "railway",
+        "public transport",
+        "train station",
+        "vehicle",
+        "outdoor",
+        "rolling stock",
+        "high-speed rail",
+        "passenger car",
+        "land vehicle",
+        "railroad",
+        "bullet train",
+        "transport hub",
+        "railroad car",
+        "metro",
+        "metro station",
+        "electric locomotive",
+        "sky",
+        "platform",
+        "red",
+        "rail"
+    ]
+}

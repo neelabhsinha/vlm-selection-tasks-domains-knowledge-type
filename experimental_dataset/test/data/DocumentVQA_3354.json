@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3354,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3354.png",
+    "question": "What is the number written at the bottom right end?",
+    "label": [
+        "52647 6102"
+    ]
+}

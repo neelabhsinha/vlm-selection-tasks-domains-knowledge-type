@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 83,
+    "caption": "giraffes are standing in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "giraffe",
+        "sky",
+        "wildlife",
+        "terrestrial animal",
+        "tree",
+        "cloud",
+        "giraffidae",
+        "plant",
+        "grass",
+        "safari",
+        "standing",
+        "field"
+    ]
+}

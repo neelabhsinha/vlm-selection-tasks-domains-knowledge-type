@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 143058,
+    "image_path": "./experimental_dataset/test/images/VQAv2_143058.png",
+    "question": "Is the bald man wearing plaid pants?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

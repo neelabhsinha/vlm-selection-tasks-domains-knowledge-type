@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1877,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1877.png",
+    "question": "Who is the career rushing leader of the Pittsburgh Steelers?",
+    "label": [
+        "Franco Harris"
+    ]
+}

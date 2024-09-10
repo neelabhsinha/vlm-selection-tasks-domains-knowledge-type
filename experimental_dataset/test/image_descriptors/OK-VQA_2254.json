@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2254,
+    "caption": "a large group of people sitting at a table",
+    "object_tags": [
+        "clothing",
+        "person",
+        "table",
+        "tableware",
+        "man",
+        "indoor",
+        "drink",
+        "people",
+        "woman",
+        "furniture",
+        "ceiling",
+        "tablecloth",
+        "function hall",
+        "banquet",
+        "chair",
+        "drinkware",
+        "rehearsal dinner",
+        "bottle",
+        "sitting",
+        "restaurant",
+        "group",
+        "food",
+        "dining",
+        "dinner",
+        "event"
+    ]
+}

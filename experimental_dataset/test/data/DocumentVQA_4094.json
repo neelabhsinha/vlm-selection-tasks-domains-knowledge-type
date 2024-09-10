@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4094,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4094.png",
+    "question": "On what subject are the critical reviews on?",
+    "label": [
+        "food technology",
+        "Food technology",
+        "in food technology",
+        "critical reviews in food technology"
+    ]
+}

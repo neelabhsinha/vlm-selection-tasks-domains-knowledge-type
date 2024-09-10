@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 624,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_624.png",
+    "question": "What type of task is being done?",
+    "label": "['carwash', 'car wash', 'washing motorcycles', 'washing motorcycle', 'washing motorcycles', 'bath', 'washing motorcycle', 'wash', 'wash motorcycle', 'washing motorcycle']",
+    "choices": [
+        "car repair",
+        "lemonade stand",
+        "car wash",
+        "food drive"
+    ],
+    "correct_choice": "car wash"
+}

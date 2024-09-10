@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1356,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1356.png",
+    "question": "How much of the total passenger transportation in Europe did railways account for in 2018?",
+    "label": [
+        "6.9"
+    ]
+}

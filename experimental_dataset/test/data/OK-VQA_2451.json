@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2451,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2451.png",
+    "question": "What type of beer is that?",
+    "label": [
+        "craft",
+        "craft",
+        "craft",
+        "craft",
+        "stella artois",
+        "stella artois",
+        "stout",
+        "stout",
+        "beer",
+        "beer"
+    ]
+}

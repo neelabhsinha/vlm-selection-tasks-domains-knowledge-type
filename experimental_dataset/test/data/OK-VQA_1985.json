@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1985,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1985.png",
+    "question": "What kind of kite holds the person?",
+    "label": [
+        "windsurf",
+        "windsurf",
+        "sail",
+        "sail",
+        "surf kite",
+        "surf kite",
+        "surf kite",
+        "surf kite",
+        "strong kite",
+        "strong kite"
+    ]
+}

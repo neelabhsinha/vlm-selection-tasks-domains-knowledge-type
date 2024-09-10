@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4865,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4865.png",
+    "question": "Name the brand or model of the refrigerator shown in this picture?",
+    "label": [
+        "frigidaire",
+        "frigidaire",
+        "frigidaire",
+        "frigidaire",
+        "whirlpool",
+        "whirlpool",
+        "whirlpool",
+        "whirlpool",
+        "rubbermaid",
+        "rubbermaid"
+    ]
+}

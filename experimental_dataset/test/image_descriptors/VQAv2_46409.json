@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 46409,
+    "caption": "a man holding a tennis racquet on a tennis court",
+    "object_tags": [
+        "athletic game",
+        "sport",
+        "tennis",
+        "outdoor",
+        "person",
+        "court",
+        "fence",
+        "sports equipment",
+        "player",
+        "tennis court",
+        "ball game",
+        "racquet sport",
+        "soft tennis",
+        "racket",
+        "tennis racket",
+        "footwear",
+        "tennis player",
+        "tennis equipment",
+        "sport venue",
+        "sports",
+        "net",
+        "racketlon"
+    ]
+}

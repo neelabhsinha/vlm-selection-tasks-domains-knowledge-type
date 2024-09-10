@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 207476,
+    "image_path": "./experimental_dataset/test/images/VQAv2_207476.png",
+    "question": "Is the oven open or closed?",
+    "label": [
+        "closed",
+        "closed",
+        "closed",
+        "closed",
+        "closed",
+        "closed",
+        "closed",
+        "closed",
+        "closed",
+        "closed"
+    ]
+}

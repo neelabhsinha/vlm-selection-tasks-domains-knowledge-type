@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4607,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "History",
+        "Government and Politics",
+        "Fiction"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge"
+    ]
+}

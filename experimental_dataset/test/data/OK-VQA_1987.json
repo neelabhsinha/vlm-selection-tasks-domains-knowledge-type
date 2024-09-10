@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1987,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1987.png",
+    "question": "What is this dish called?",
+    "label": [
+        "sandwich",
+        "sandwich",
+        "sandwich",
+        "sandwich",
+        "po boy",
+        "po boy",
+        "burger",
+        "burger",
+        "pulled chicken sandwich",
+        "pulled chicken sandwich"
+    ]
+}

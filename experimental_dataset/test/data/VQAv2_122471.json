@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 122471,
+    "image_path": "./experimental_dataset/test/images/VQAv2_122471.png",
+    "question": "What is he playing?",
+    "label": [
+        "video game",
+        "wii",
+        "wii",
+        "video game",
+        "wii",
+        "wii",
+        "wii control",
+        "wii",
+        "wii",
+        "wii"
+    ]
+}

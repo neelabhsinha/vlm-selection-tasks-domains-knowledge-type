@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 390,
+    "image_path": "./experimental_dataset/test/images/ChartQA_390.png",
+    "question": "Which year recorded the lowest use of pesticides by United Kingdom?",
+    "label": [
+        "2004"
+    ]
+}

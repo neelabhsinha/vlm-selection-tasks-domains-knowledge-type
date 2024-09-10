@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 594,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_594.png",
+    "question": "Who is the man in white?",
+    "label": "['groom', 'groom', 'groom', 'husband', 'groom', 'groom', 'groom', 'groom', 'groom', 'husband']",
+    "choices": [
+        "manager",
+        "bride",
+        "groom",
+        "waiter"
+    ],
+    "correct_choice": "groom"
+}

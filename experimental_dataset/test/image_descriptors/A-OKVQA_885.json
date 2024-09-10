@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 885,
+    "caption": "a man walking down a street next to a tall building",
+    "object_tags": [
+        "clothing",
+        "person",
+        "building",
+        "outdoor",
+        "footwear",
+        "trousers",
+        "man",
+        "snapshot",
+        "street",
+        "pedestrian",
+        "walking",
+        "ground",
+        "people",
+        "standing",
+        "sidewalk",
+        "head covering"
+    ]
+}

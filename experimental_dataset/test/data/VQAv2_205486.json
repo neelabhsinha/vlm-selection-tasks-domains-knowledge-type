@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 205486,
+    "image_path": "./experimental_dataset/test/images/VQAv2_205486.png",
+    "question": "Is it late night on the computer?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "yes"
+    ]
+}

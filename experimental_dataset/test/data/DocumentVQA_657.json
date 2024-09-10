@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 657,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_657.png",
+    "question": "What is the heading enclosed within the box ?",
+    "label": [
+        "this side of card is for address",
+        "This side of card is for address"
+    ]
+}

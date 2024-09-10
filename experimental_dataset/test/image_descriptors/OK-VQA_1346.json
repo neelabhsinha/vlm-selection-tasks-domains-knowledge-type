@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1346,
+    "caption": "a pile of luggage sitting on top of a shelf",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "box",
+        "office supplies",
+        "book",
+        "items",
+        "case"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 180,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_180.png",
+    "question": "What does the taller bottle contain?",
+    "label": "['water', 'water', 'water', 'water', 'water', 'water', 'water', 'water', 'water', 'water']",
+    "choices": [
+        "beer",
+        "juice",
+        "champagne",
+        "water"
+    ],
+    "correct_choice": "water"
+}

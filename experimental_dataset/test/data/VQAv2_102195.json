@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 102195,
+    "image_path": "./experimental_dataset/test/images/VQAv2_102195.png",
+    "question": "Is the photographer's body in the photograph?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes"
+    ]
+}

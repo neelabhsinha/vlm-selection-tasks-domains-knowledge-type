@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 376,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_376.png",
+    "question": "How many rooms/areas in the house are immediately visible in the photo?",
+    "label": "['two', 'two', 'two', 'four', 'two', 'two', 'three', 'one', 'one', 'one']",
+    "choices": [
+        "three",
+        "four",
+        "one",
+        "two"
+    ],
+    "correct_choice": "two"
+}

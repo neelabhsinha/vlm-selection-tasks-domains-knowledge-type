@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2377,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2377.png",
+    "question": "What is the heading numbered 12.5 ?",
+    "label": [
+        "Diseases treated with unicompartmental knee prosthesis"
+    ]
+}

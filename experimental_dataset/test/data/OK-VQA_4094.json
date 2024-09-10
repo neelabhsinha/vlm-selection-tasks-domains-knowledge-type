@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4094,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4094.png",
+    "question": "How does this animal nourish her young?",
+    "label": [
+        "milk",
+        "milk",
+        "milk",
+        "milk",
+        "milk",
+        "milk",
+        "milk from udder",
+        "milk from udder",
+        "nursing",
+        "nursing"
+    ]
+}

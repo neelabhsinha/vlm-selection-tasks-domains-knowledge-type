@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4951,
+    "caption": "a man standing next to a train at a train station",
+    "object_tags": [
+        "transport",
+        "train",
+        "vehicle",
+        "person",
+        "track",
+        "railway",
+        "land vehicle",
+        "public transport",
+        "train station",
+        "platform",
+        "rolling stock",
+        "transport hub",
+        "passenger car",
+        "clothing",
+        "high-speed rail",
+        "metro station",
+        "railroad",
+        "blue",
+        "outdoor",
+        "indoor",
+        "locomotive"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 170192,
+    "image_path": "./experimental_dataset/test/images/VQAv2_170192.png",
+    "question": "What is the weather like?",
+    "label": [
+        "cloudy",
+        "overcast",
+        "overcast",
+        "cloudy",
+        "cloudy",
+        "gray",
+        "cloudy",
+        "cloudy",
+        "overcast",
+        "cloudy"
+    ]
+}

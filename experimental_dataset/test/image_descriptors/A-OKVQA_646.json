@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 646,
+    "caption": "a sandwich on a plate on a table",
+    "object_tags": [
+        "food",
+        "drink",
+        "dish",
+        "meal",
+        "table",
+        "tableware",
+        "fast food",
+        "cuisine",
+        "bread",
+        "baked goods",
+        "brunch",
+        "plate",
+        "serveware",
+        "breakfast",
+        "indoor",
+        "sandwich",
+        "cup",
+        "restaurant",
+        "yellow"
+    ]
+}

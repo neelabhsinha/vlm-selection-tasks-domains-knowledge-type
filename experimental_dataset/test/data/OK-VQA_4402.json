@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4402,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4402.png",
+    "question": "At what time of day might you eat this kind of food?",
+    "label": [
+        "even",
+        "even",
+        "even",
+        "even",
+        "noon",
+        "noon",
+        "night",
+        "night",
+        "dinner",
+        "dinner"
+    ]
+}

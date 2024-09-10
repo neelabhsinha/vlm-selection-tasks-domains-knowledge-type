@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 482,
+    "caption": "a park bench sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "street furniture",
+        "road",
+        "car",
+        "tire",
+        "outdoor bench",
+        "fence",
+        "vehicle registration plate",
+        "grass",
+        "ground",
+        "park",
+        "bench",
+        "street"
+    ]
+}

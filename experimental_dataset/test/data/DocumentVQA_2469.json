@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2469,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2469.png",
+    "question": "Which date is printed on this mail?",
+    "label": [
+        "AUGUST 1ST, 1945",
+        "August 1st, 1945"
+    ]
+}

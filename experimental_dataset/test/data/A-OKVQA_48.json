@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 48,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_48.png",
+    "question": "Why are the men's vests orange?",
+    "label": "['safety', 'safety', 'safety reflection', 'safety', 'visibility', 'safety', 'workers', 'visibility', 'visibility', 'safety reflection']",
+    "choices": [
+        "fashion",
+        "camouflage",
+        "visibility",
+        "dress code"
+    ],
+    "correct_choice": "visibility"
+}

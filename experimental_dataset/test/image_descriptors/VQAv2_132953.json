@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 132953,
+    "caption": "two giraffes standing next to each other in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "giraffe",
+        "outdoor",
+        "tree",
+        "terrestrial animal",
+        "wildlife",
+        "giraffidae",
+        "sky",
+        "plant",
+        "safari",
+        "grass",
+        "standing",
+        "mountain",
+        "field"
+    ]
+}

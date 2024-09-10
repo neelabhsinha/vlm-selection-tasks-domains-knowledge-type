@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 591,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_591.png",
+    "question": "What is hiding the bridge?",
+    "label": "['fog', 'fog', 'fog', 'clouds', 'clouds', 'fog', 'water', 'fog', 'river', 'suspension cables']",
+    "choices": [
+        "clouds",
+        "boat",
+        "water",
+        "people"
+    ],
+    "correct_choice": "clouds"
+}

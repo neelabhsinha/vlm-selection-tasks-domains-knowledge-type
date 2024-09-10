@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 80387,
+    "image_path": "./experimental_dataset/test/images/VQAv2_80387.png",
+    "question": "What is he doing?",
+    "label": [
+        "brushing hair",
+        "brushing hair",
+        "brushing her hair",
+        "brushing her hair",
+        "brushing",
+        "brushing her hair",
+        "brushing her hair",
+        "brushing girl's hair",
+        "brushing her hair",
+        "combing hair"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1270,
+    "caption": "a woman blow drying a boy's hair with a blow dryer",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "wall",
+        "human face",
+        "toddler",
+        "clock",
+        "floor",
+        "chair",
+        "child",
+        "machine"
+    ]
+}

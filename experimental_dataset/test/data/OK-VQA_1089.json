@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1089,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1089.png",
+    "question": "Is this animal more closely related to a phrase bart simpson had or lou dobbs had?",
+    "label": [
+        "bart simpson",
+        "bart simpson",
+        "bart simpson",
+        "bart simpson",
+        "bart simpson",
+        "bart simpson",
+        "bart simpson",
+        "bart simpson",
+        "lou dobbs",
+        "lou dobbs"
+    ]
+}

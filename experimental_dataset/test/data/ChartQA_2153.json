@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2153,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2153.png",
+    "question": "Who has played the most games in Colorado Rockies franchise history?",
+    "label": [
+        "Todd Helton"
+    ]
+}

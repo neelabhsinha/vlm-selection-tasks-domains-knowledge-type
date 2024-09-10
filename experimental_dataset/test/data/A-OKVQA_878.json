@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 878,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_878.png",
+    "question": "What is the man in the green sweatshirt holding?",
+    "label": "['teddy bear', 'teddy bear', 'bear', 'teddy bear', 'teddy bear', 'teddy bear', 'teddy bear', 'bear', 'teddy bear', 'bear']",
+    "choices": [
+        "teddy bear",
+        "pillow",
+        "backpack",
+        "kite"
+    ],
+    "correct_choice": "teddy bear"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 917,
+    "image_path": "./experimental_dataset/test/images/ChartQA_917.png",
+    "question": "What is the difference between the Quarterly average  for Q4 2017 and 2010?",
+    "label": [
+        "15"
+    ]
+}

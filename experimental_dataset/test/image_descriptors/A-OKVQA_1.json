@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1,
+    "caption": "a teddy bear sitting on top of a wooden table",
+    "object_tags": [
+        "tableware",
+        "table",
+        "person",
+        "indoor",
+        "art"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4977,
+    "caption": "a red and white train is on the tracks",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "transport",
+        "public transport",
+        "vehicle",
+        "rolling stock",
+        "land vehicle",
+        "track",
+        "passenger car",
+        "mode of transport",
+        "railway",
+        "railroad car",
+        "railroad",
+        "train",
+        "red",
+        "rail",
+        "parked"
+    ]
+}

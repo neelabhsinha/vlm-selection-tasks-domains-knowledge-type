@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1063,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1063.png",
+    "question": "What is the percentage of men in 20-29 age group exceeding best weight by 20% or more?",
+    "label": [
+        "12%"
+    ]
+}

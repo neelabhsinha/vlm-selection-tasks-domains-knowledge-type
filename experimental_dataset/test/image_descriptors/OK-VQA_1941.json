@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1941,
+    "caption": "a herd of elephants standing on top of a lush green field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "elephants and mammoths",
+        "indian elephant",
+        "asian elephant",
+        "plant",
+        "grass",
+        "wildlife",
+        "water",
+        "safari",
+        "african elephant",
+        "tree",
+        "terrestrial animal",
+        "tusk",
+        "standing",
+        "group",
+        "river",
+        "hole"
+    ]
+}

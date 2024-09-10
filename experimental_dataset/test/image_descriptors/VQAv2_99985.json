@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 99985,
+    "caption": "cows standing on top of a lush green hillside",
+    "object_tags": [
+        "outdoor",
+        "mountain",
+        "sky",
+        "dog",
+        "grass",
+        "cloud",
+        "fell",
+        "chaparral",
+        "cattle",
+        "wilderness",
+        "landscape",
+        "animal",
+        "ground",
+        "hill",
+        "field",
+        "mammal",
+        "nature",
+        "highland",
+        "cow"
+    ]
+}

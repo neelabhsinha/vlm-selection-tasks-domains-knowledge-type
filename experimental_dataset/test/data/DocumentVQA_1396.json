@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1396,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1396.png",
+    "question": "What is the name of the firm mentioned at the top in Bold letters?",
+    "label": [
+        "merrill lynch pierce fenner & smith inc.",
+        "Merrill Lynch Pierce Fenner & Smith Inc."
+    ]
+}

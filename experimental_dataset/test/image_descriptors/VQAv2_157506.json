@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 157506,
+    "caption": "a large green truck parked in front of a building",
+    "object_tags": [
+        "sky",
+        "vehicle",
+        "outdoor",
+        "land vehicle",
+        "wheel",
+        "transport",
+        "tire",
+        "motor vehicle",
+        "auto part",
+        "building",
+        "truck",
+        "road",
+        "automotive tire",
+        "commercial vehicle",
+        "parked"
+    ]
+}

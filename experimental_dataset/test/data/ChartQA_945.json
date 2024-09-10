@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 945,
+    "image_path": "./experimental_dataset/test/images/ChartQA_945.png",
+    "question": "What is the difference between highest and lowest respondents below 100 SEK?",
+    "label": [
+        "47"
+    ]
+}

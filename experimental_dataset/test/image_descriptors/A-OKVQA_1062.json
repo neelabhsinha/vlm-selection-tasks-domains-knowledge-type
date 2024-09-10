@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1062,
+    "caption": "a blender sitting on top of a counter next to a toothbrush",
+    "object_tags": [
+        "indoor",
+        "kitchen appliance",
+        "home appliance",
+        "appliance",
+        "small appliance",
+        "mixer",
+        "wall",
+        "coffee maker",
+        "food",
+        "blender",
+        "cup",
+        "food processor",
+        "kitchen"
+    ]
+}

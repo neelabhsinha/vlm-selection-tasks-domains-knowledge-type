@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3490,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3490.png",
+    "question": "What is the no:2 item listed in the \u2018agenda\u2019?",
+    "label": [
+        "Henderson matter"
+    ]
+}

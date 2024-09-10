@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2152,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2152.png",
+    "question": "What food in the photo has a lot of c vitamin?",
+    "label": [
+        "tomato",
+        "tomato",
+        "tomato",
+        "tomato",
+        "tomato",
+        "tomato",
+        "tomato",
+        "tomato",
+        "peanut butter",
+        "peanut butter"
+    ]
+}

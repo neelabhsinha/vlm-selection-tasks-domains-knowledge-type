@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 427,
+    "caption": "a refrigerator with a lot of food inside of it",
+    "object_tags": [
+        "appliance",
+        "kitchen appliance",
+        "refrigerator",
+        "indoor",
+        "home appliance",
+        "freezer",
+        "major appliance",
+        "shelf",
+        "bottle",
+        "food storage",
+        "food",
+        "open",
+        "door",
+        "drink"
+    ]
+}

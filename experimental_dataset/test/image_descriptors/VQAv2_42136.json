@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 42136,
+    "caption": "a city bus driving down a city street",
+    "object_tags": [
+        "vehicle",
+        "outdoor",
+        "land vehicle",
+        "road",
+        "text",
+        "street",
+        "mode of transport",
+        "transport",
+        "city",
+        "bus",
+        "building",
+        "public transport",
+        "traffic",
+        "lane",
+        "driving",
+        "transit",
+        "light",
+        "trolley"
+    ]
+}

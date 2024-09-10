@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4771,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4771.png",
+    "question": "What fruit is pictured from south america?",
+    "label": [
+        "banana",
+        "banana",
+        "banana",
+        "banana",
+        "banana",
+        "banana",
+        "bannana",
+        "bannana",
+        "bannana",
+        "bannana"
+    ]
+}

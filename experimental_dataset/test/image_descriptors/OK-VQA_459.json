@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 459,
+    "caption": "a cat eating out of a bowl on a table",
+    "object_tags": [
+        "small to medium-sized cats",
+        "felidae",
+        "mammal",
+        "bowl",
+        "indoor",
+        "whiskers",
+        "black cat",
+        "tableware",
+        "black",
+        "cat",
+        "animal",
+        "dishware"
+    ]
+}

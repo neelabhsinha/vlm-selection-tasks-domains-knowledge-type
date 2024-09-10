@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 10233,
+    "image_path": "./experimental_dataset/test/images/VQAv2_10233.png",
+    "question": "What brand is the camera?",
+    "label": [
+        "nokia",
+        "nikon",
+        "nikon",
+        "sony",
+        "nikon",
+        "can't tell",
+        "nokia",
+        "panasonic",
+        "don't see camera",
+        "nikon"
+    ]
+}

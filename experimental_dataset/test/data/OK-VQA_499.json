@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 499,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_499.png",
+    "question": "What tools are needed to construct this toy?",
+    "label": [
+        "screwdriver",
+        "screwdriver",
+        "screwdriver",
+        "screwdriver",
+        "needle",
+        "needle",
+        "screwdriver",
+        "screwdriver",
+        "knife and saw",
+        "knife and saw"
+    ]
+}

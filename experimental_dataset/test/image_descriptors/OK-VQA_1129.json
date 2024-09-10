@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1129,
+    "caption": "a clock is hanging from the ceiling of a building",
+    "object_tags": [
+        "building",
+        "window",
+        "daylighting",
+        "fixture",
+        "roof lantern",
+        "indoor",
+        "ceiling"
+    ]
+}

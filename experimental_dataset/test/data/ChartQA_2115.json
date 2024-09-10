@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2115,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2115.png",
+    "question": "How many tourists stayed in short-stay accommodation in Belgium in 2019?",
+    "label": [
+        "18.1"
+    ]
+}

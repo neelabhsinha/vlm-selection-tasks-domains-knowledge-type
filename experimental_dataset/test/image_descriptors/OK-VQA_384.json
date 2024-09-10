@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 384,
+    "caption": "a boy in the water on a surfboard",
+    "object_tags": [
+        "sport",
+        "water",
+        "person",
+        "outdoor",
+        "human face",
+        "wave",
+        "swimming",
+        "riding",
+        "blue"
+    ]
+}

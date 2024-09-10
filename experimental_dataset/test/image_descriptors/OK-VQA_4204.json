@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4204,
+    "caption": "a desk with a laptop, printer, and other items on it",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "table",
+        "window",
+        "book",
+        "office supplies",
+        "wall",
+        "desk",
+        "worktable",
+        "office"
+    ]
+}

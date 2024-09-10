@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 397,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_397.png",
+    "question": "How many of this animal are estimated to be kept as pets worldwide?",
+    "label": [
+        "75 million",
+        "75 million",
+        "75 million",
+        "75 million",
+        "3 billion",
+        "3 billion",
+        "526452",
+        "526452",
+        "75000000",
+        "75000000"
+    ]
+}

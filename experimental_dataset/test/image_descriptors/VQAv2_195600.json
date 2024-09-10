@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 195600,
+    "caption": "a giraffe standing in a fenced in area next to a fence",
+    "object_tags": [
+        "tree",
+        "outdoor",
+        "fence",
+        "plant",
+        "grass",
+        "backyard",
+        "building",
+        "wooden",
+        "yard",
+        "lumber",
+        "wood",
+        "ground",
+        "deck",
+        "garden",
+        "park"
+    ]
+}

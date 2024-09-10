@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3764,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3764.png",
+    "question": "What is the City mentioned in this document?",
+    "label": [
+        "Raw Lings"
+    ]
+}

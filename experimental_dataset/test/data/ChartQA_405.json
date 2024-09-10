@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 405,
+    "image_path": "./experimental_dataset/test/images/ChartQA_405.png",
+    "question": "In how many years, N2O concentration was more than 280 ppb?",
+    "label": [
+        "75"
+    ]
+}

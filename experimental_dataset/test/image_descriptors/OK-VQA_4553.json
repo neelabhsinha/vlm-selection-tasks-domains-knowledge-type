@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4553,
+    "caption": "a red and white train traveling down train tracks",
+    "object_tags": [
+        "train",
+        "transport",
+        "outdoor",
+        "sky",
+        "public transport",
+        "railway",
+        "track",
+        "vehicle",
+        "railroad",
+        "train station",
+        "rolling stock",
+        "land vehicle",
+        "transport hub",
+        "passenger car",
+        "railroad car",
+        "metro",
+        "high-speed rail",
+        "building",
+        "metro station",
+        "red",
+        "electric locomotive",
+        "platform",
+        "bullet train",
+        "traveling",
+        "rail"
+    ]
+}

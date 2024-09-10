@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 190834,
+    "caption": "a train on a train track near a mountain",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "tree",
+        "track",
+        "snow",
+        "water",
+        "winter",
+        "train",
+        "railroad",
+        "traveling"
+    ]
+}

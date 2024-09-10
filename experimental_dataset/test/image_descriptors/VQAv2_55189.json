@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 55189,
+    "caption": "people are flying kites on the beach",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "kite",
+        "water",
+        "beach",
+        "kite sports",
+        "people",
+        "person",
+        "windsports",
+        "ground",
+        "parachute",
+        "group",
+        "kiteboarding"
+    ]
+}

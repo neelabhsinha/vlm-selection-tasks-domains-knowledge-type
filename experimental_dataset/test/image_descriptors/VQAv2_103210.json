@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 103210,
+    "caption": "a black and white cat and a dog laying on a couch",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "pet",
+        "dog",
+        "dog breed",
+        "indoor",
+        "laying",
+        "black",
+        "snout",
+        "white",
+        "puppy"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 834,
+    "caption": "a hot dog on a bun on a table",
+    "object_tags": [
+        "person",
+        "fast food",
+        "snack",
+        "soft drink",
+        "table",
+        "drink",
+        "meal",
+        "food",
+        "indoor",
+        "outdoor"
+    ]
+}

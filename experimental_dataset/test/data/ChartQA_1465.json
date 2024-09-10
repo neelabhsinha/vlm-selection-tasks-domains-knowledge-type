@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1465,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1465.png",
+    "question": "Which football team sold the most expensive pie in the UK in 2017/18?",
+    "label": [
+        "Fulham"
+    ]
+}

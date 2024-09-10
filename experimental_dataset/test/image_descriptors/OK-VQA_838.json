@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 838,
+    "caption": "a slice of pizza sitting on top of a pizza pan",
+    "object_tags": [
+        "pizza",
+        "food",
+        "dish",
+        "fast food",
+        "pizza cheese",
+        "italian food",
+        "california-style pizza",
+        "flatbread",
+        "sicilian pizza",
+        "recipe",
+        "manakish",
+        "baked goods",
+        "indoor",
+        "slice",
+        "cheese",
+        "toppings"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2687,
+    "caption": "a large white boat floating in the water",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "water",
+        "watercraft",
+        "sky",
+        "vehicle",
+        "naval architecture",
+        "ship",
+        "sea",
+        "lake",
+        "motor ship",
+        "water transportation",
+        "boat",
+        "ocean",
+        "large",
+        "ferry",
+        "floating"
+    ]
+}

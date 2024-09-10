@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 12173,
+    "caption": "a dog is looking at a television screen",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "dog",
+        "wall",
+        "television",
+        "window",
+        "wooden",
+        "shelf"
+    ]
+}

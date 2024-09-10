@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1633,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1633.png",
+    "question": "This was used to keep the house warm before central air?",
+    "label": [
+        "fireplace",
+        "fireplace",
+        "fireplace",
+        "fireplace",
+        "fireplace",
+        "fireplace",
+        "fire",
+        "fire",
+        "fireplace",
+        "fireplace"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2597,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2597.png",
+    "question": "which year shows a higher 'diluted average shares outstanding' when compared to 2009?",
+    "label": [
+        "2008"
+    ]
+}

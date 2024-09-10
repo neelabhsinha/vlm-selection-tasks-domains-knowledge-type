@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 638,
+    "caption": "a large group of people sitting around a table",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "wall",
+        "tableware",
+        "man",
+        "woman",
+        "people",
+        "furniture",
+        "human face",
+        "drink",
+        "sitting",
+        "group",
+        "diner",
+        "eating",
+        "food",
+        "table",
+        "dinner",
+        "meal",
+        "restaurant",
+        "room",
+        "ceiling"
+    ]
+}

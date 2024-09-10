@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 329,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_329.png",
+    "question": "What kind of car is it?",
+    "label": "['sports car', 'corvette', 'sports car', 'sports car', 'sports car', 'sport', 'corvette', 'sports car', 'sports', 'sports']",
+    "choices": [
+        "suv",
+        "sedan",
+        "sports car",
+        "mini van"
+    ],
+    "correct_choice": "sports car"
+}

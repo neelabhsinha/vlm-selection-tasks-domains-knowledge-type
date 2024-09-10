@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 502,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_502.png",
+    "question": "What are the riders on the horses called?",
+    "label": "['jockey', 'jockey', 'jockeys', 'jockeys', 'jockey', 'jockeys', 'jockeys', 'jockeys', 'jockeys', 'jockey']",
+    "choices": [
+        "vollies",
+        "jimmys",
+        "jockeys",
+        "jolleys"
+    ],
+    "correct_choice": "jockeys"
+}

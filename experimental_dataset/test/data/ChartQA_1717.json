@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1717,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1717.png",
+    "question": "When will the number of breast cancer incidences in Mexico reach 37 thousand?",
+    "label": [
+        "2035"
+    ]
+}

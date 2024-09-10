@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 707,
+    "caption": "a man in a suit and tie looking at a television screen",
+    "object_tags": [
+        "human face",
+        "person",
+        "clothing",
+        "man",
+        "glasses",
+        "screenshot",
+        "video",
+        "forehead",
+        "screen",
+        "indoor"
+    ]
+}

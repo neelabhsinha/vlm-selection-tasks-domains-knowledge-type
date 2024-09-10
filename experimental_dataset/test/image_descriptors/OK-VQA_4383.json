@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4383,
+    "caption": "a plate of food with a variety of vegetables on it",
+    "object_tags": [
+        "food",
+        "strawberry",
+        "meal",
+        "berry",
+        "plate",
+        "cuisine",
+        "fruit salad",
+        "dish",
+        "strawberries",
+        "frutti di bosco",
+        "dessert",
+        "fruit cup",
+        "ingredient",
+        "superfood",
+        "staple food",
+        "culinary art",
+        "garnish",
+        "fruit",
+        "indoor",
+        "salad"
+    ]
+}

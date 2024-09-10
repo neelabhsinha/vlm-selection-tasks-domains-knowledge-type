@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2364,
+    "caption": "a brown teddy bear sitting on top of a couch",
+    "object_tags": [
+        "teddy",
+        "toy",
+        "stuffed",
+        "stuffed toy",
+        "plush",
+        "teddy bear",
+        "indoor",
+        "wall",
+        "puppet",
+        "fur",
+        "textile",
+        "brown",
+        "sofa",
+        "sitting",
+        "red",
+        "fabric",
+        "animal",
+        "bear",
+        "wearing"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1579,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1579.png",
+    "question": "How many chromosomes do these creatures have?",
+    "label": [
+        "46",
+        "46",
+        "46",
+        "46",
+        "46",
+        "46",
+        "46",
+        "46",
+        "32",
+        "32"
+    ]
+}

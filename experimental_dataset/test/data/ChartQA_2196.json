@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2196,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2196.png",
+    "question": "How many cars did Ford sell in Turkey in 2019?",
+    "label": [
+        "15702"
+    ]
+}

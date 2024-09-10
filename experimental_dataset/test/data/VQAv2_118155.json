@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 118155,
+    "image_path": "./experimental_dataset/test/images/VQAv2_118155.png",
+    "question": "What is inside the bowl?",
+    "label": [
+        "soup",
+        "fruit",
+        "creme brulee",
+        "coffee",
+        "coffee",
+        "coffee and cream",
+        "soup",
+        "coffee",
+        "soup",
+        "soup"
+    ]
+}

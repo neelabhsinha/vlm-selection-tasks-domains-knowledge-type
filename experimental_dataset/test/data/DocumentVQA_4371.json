@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4371,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4371.png",
+    "question": "What is the title?",
+    "label": [
+        "SUPPLEMENTATION OF HUMAN DIETS WITH VITAMIN E",
+        "Supplementation of Human Diets with Vitamin E"
+    ]
+}

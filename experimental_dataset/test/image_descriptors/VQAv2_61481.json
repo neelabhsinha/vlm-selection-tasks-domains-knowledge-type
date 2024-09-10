@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 61481,
+    "caption": "a man standing next to a pile of luggage",
+    "object_tags": [
+        "clothing",
+        "luggage and bags",
+        "outdoor",
+        "text",
+        "man",
+        "footwear",
+        "building",
+        "suitcase",
+        "accessory",
+        "jeans",
+        "jacket",
+        "person",
+        "sign",
+        "street",
+        "bag",
+        "standing",
+        "sidewalk"
+    ]
+}

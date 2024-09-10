@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 40574,
+    "caption": "two trains are on the tracks in a city",
+    "object_tags": [
+        "transport",
+        "railroad",
+        "track",
+        "outdoor",
+        "train",
+        "building",
+        "railway",
+        "vehicle",
+        "rolling stock",
+        "land vehicle",
+        "railroad car",
+        "locomotive",
+        "public transport",
+        "passenger car",
+        "rolling",
+        "transport hub",
+        "ground",
+        "city",
+        "rail",
+        "traveling",
+        "silver",
+        "car"
+    ]
+}

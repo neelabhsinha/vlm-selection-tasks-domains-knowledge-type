@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 828,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_828.png",
+    "question": "What might you build with the stuff on the ground?",
+    "label": "['snowman', 'snowman', 'snowman', 'snowman', 'snowman', 'snowman', 'snowman', 'snowman', 'snowman', 'snowman']",
+    "choices": [
+        "snowman",
+        "statues",
+        "compost heaps",
+        "sandcastles"
+    ],
+    "correct_choice": "snowman"
+}

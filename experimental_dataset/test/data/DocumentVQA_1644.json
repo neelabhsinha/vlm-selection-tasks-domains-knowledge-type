@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1644,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1644.png",
+    "question": "Who is the letter from?",
+    "label": [
+        "William J. Darby",
+        "William J. Darby, M.D., Ph.D."
+    ]
+}

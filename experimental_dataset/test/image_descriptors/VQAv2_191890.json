@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 191890,
+    "caption": "a large group of people standing on a pier looking at boats in the water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "transport",
+        "watercraft",
+        "vehicle",
+        "person",
+        "water",
+        "clothing",
+        "ship",
+        "standing",
+        "boat",
+        "pier"
+    ]
+}

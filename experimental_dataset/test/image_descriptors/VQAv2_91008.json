@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 91008,
+    "caption": "a woman throwing a frisbee in a field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "person",
+        "field",
+        "meadow",
+        "footwear",
+        "clothing",
+        "lawn",
+        "yellow",
+        "plant",
+        "park",
+        "summer",
+        "frisbee"
+    ]
+}

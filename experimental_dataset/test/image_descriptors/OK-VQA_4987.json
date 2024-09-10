@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4987,
+    "caption": "a baby zebra standing next to a adult zebra in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "grass",
+        "outdoor",
+        "zebra",
+        "field",
+        "wildlife",
+        "terrestrial animal",
+        "plant",
+        "safari",
+        "standing",
+        "savanna",
+        "pasture",
+        "grassland",
+        "grazing",
+        "prairie",
+        "grassy",
+        "mountain"
+    ]
+}

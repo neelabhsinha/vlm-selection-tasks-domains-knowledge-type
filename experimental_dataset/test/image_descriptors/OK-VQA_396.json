@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 396,
+    "caption": "a sign that says \"no parking\" on it",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "sky",
+        "ground",
+        "billboard",
+        "screenshot",
+        "vehicle",
+        "land vehicle",
+        "beach",
+        "sign"
+    ]
+}

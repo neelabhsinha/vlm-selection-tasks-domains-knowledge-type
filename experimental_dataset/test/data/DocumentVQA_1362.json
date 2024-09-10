@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1362,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1362.png",
+    "question": "What is the current designation of Mr. McDermott with Kelco company?",
+    "label": [
+        "Vice President",
+        "Vice President - Marketing and Sales"
+    ]
+}

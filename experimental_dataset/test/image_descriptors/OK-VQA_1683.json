@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1683,
+    "caption": "a grill that has a bunch of hot dogs on it",
+    "object_tags": [
+        "fire",
+        "ash",
+        "flame",
+        "cooking",
+        "charcoal",
+        "meat",
+        "outdoor grill rack & topper",
+        "heat",
+        "barbecue grill",
+        "grilling",
+        "grill",
+        "barbecue",
+        "food",
+        "hotdog",
+        "outdoor",
+        "ground",
+        "person"
+    ]
+}

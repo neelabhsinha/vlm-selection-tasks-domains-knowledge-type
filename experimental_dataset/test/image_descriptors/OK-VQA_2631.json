@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2631,
+    "caption": "a plate of vegetables on a table",
+    "object_tags": [
+        "leaf vegetable",
+        "dish",
+        "food",
+        "salad",
+        "cuisine",
+        "spinach",
+        "garden salad",
+        "ingredient",
+        "plate",
+        "spinach salad",
+        "cruciferous vegetables",
+        "lettuce",
+        "recipe",
+        "arugula",
+        "garnish",
+        "vegetable",
+        "indoor"
+    ]
+}

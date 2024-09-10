@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 952,
+    "caption": "a person holding a donut in front of a store",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "building",
+        "fast food",
+        "snack",
+        "person",
+        "baked goods",
+        "donut",
+        "food",
+        "shop",
+        "sign",
+        "doughnut",
+        "store"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1025,
+    "caption": "an old photo of a drawing of a man on a typewriter",
+    "object_tags": [
+        "text",
+        "drawing",
+        "sketch",
+        "diagram",
+        "plan",
+        "black and white",
+        "rectangle",
+        "schematic",
+        "parallel",
+        "handwriting",
+        "technical drawing"
+    ]
+}

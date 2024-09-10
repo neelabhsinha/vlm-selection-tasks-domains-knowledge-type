@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 99895,
+    "image_path": "./experimental_dataset/test/images/VQAv2_99895.png",
+    "question": "Is this a sold out crowd?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3776,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3776.png",
+    "question": "What type of weather do these clouds signify?",
+    "label": [
+        "rain",
+        "rain",
+        "rain",
+        "rain",
+        "rain",
+        "rain",
+        "rain",
+        "rain",
+        "rainstorm",
+        "rainstorm"
+    ]
+}

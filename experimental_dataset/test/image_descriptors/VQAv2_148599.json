@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 148599,
+    "caption": "a brown bear walking through a grassy field",
+    "object_tags": [
+        "outdoor",
+        "animal",
+        "mammal",
+        "grass",
+        "tree",
+        "brown bear",
+        "terrestrial animal",
+        "plant",
+        "bear",
+        "wildlife",
+        "grizzly bear",
+        "nature reserve",
+        "kodiak bear",
+        "brown",
+        "field",
+        "walking",
+        "forest",
+        "standing",
+        "grizzly"
+    ]
+}

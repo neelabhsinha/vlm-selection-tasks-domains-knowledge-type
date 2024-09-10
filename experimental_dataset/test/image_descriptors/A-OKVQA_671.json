@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 671,
+    "caption": "a woman walking down a street next to a parked truck",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "car",
+        "wheel",
+        "building",
+        "tire",
+        "vehicle registration plate",
+        "auto part",
+        "person",
+        "rain",
+        "street",
+        "ground",
+        "group",
+        "vehicle",
+        "people",
+        "parked",
+        "city"
+    ]
+}

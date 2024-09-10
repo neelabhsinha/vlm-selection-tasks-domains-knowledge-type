@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 278,
+    "caption": "a birthday cake with a train on top of it",
+    "object_tags": [
+        "indoor",
+        "candle",
+        "wall",
+        "birthday cake",
+        "cake",
+        "table"
+    ]
+}

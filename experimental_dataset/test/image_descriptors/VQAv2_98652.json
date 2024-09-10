@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 98652,
+    "caption": "a bathroom with a sink, toilet and mirror",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "plumbing fixture",
+        "tap",
+        "bathroom accessory",
+        "room",
+        "tile",
+        "interior design",
+        "floor",
+        "cabinetry",
+        "bathroom cabinet",
+        "countertop",
+        "plumbing",
+        "drawer",
+        "restroom",
+        "plaster",
+        "sink",
+        "house",
+        "shower",
+        "bathtub",
+        "white",
+        "mirror",
+        "bathroom",
+        "ceiling",
+        "toilet",
+        "hotel"
+    ]
+}

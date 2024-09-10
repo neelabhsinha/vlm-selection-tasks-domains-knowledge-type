@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1088,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1088.png",
+    "question": "How does the boy feel about the box he is holding?",
+    "label": "['happy', 'happy', 'happy proud', 'happy', 'happy', 'proud', 'happy', 'excited', 'happy', 'happy']",
+    "choices": [
+        "proud",
+        "angry",
+        "nervous",
+        "sad"
+    ],
+    "correct_choice": "proud"
+}

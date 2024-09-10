@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 336,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_336.png",
+    "question": "The weather element occurring is also the constituent of what object in the background?",
+    "label": "['water', 'rain', 'ocean', 'ocean', 'wind', 'ocean', 'water', 'rain', 'rain', 'rain']",
+    "choices": [
+        "river",
+        "waterfall",
+        "aqueduct",
+        "ocean"
+    ],
+    "correct_choice": "ocean"
+}

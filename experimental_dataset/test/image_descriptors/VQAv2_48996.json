@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 48996,
+    "caption": "a woman sitting on a brick sidewalk talking on a cell phone",
+    "object_tags": [
+        "clothing",
+        "building",
+        "person",
+        "footwear",
+        "outdoor",
+        "phone",
+        "street",
+        "street fashion",
+        "ground",
+        "coat",
+        "plant",
+        "flowerpot",
+        "houseplant",
+        "cellphone",
+        "flower",
+        "brick",
+        "woman",
+        "sidewalk"
+    ]
+}

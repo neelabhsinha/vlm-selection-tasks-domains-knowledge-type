@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3970,
+    "caption": "a sandwich sitting on top of a table next to a bottle of beer",
+    "object_tags": [
+        "food",
+        "fast food",
+        "bread",
+        "sandwich",
+        "snack food",
+        "american food",
+        "drink",
+        "bun",
+        "banh ma",
+        "baked goods",
+        "snack",
+        "indoor",
+        "runza food",
+        "submarine sandwich",
+        "bocadillo",
+        "breakfast sandwich",
+        "meal",
+        "breakfast roll",
+        "table",
+        "bottle",
+        "beer"
+    ]
+}

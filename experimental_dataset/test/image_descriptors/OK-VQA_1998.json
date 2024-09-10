@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1998,
+    "caption": "a glass of milk and a donut on a table",
+    "object_tags": [
+        "food",
+        "snack",
+        "doughnut",
+        "bagel",
+        "ciambella",
+        "indoor",
+        "cup",
+        "donut",
+        "breakfast"
+    ]
+}

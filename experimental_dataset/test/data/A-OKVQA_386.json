@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 386,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_386.png",
+    "question": "The child holding the controller has what design on their shirt?",
+    "label": "['heart', 'heart', 'heart', 'heart', 'heart', 'heart', 'heart', 'heart', 'heart', 'heart']",
+    "choices": [
+        "clown",
+        "cat",
+        "cow",
+        "heart"
+    ],
+    "correct_choice": "heart"
+}

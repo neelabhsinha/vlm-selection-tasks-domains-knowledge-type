@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 298,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_298.png",
+    "question": "What type of road structure is near?",
+    "label": "['cracked', 'intersection', 'highway', 'stop sign', 'stop sign', 'sign', 'four way', 'intersection', 'intersection', 'intersection']",
+    "choices": [
+        "toll booth",
+        "tunnel",
+        "bridge",
+        "intersection"
+    ],
+    "correct_choice": "intersection"
+}

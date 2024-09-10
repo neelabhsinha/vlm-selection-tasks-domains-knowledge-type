@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 112448,
+    "image_path": "./experimental_dataset/test/images/VQAv2_112448.png",
+    "question": "Has the girl used the skis yet?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 958,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_958.png",
+    "question": "Where are these elephants located?",
+    "label": "['savannah', 'desert', 'field', 'africa', 'background', 'africa', 'outside', 'wild', 'field', 'savanna']",
+    "choices": [
+        "circus",
+        "wild",
+        "zoo",
+        "museum"
+    ],
+    "correct_choice": "wild"
+}

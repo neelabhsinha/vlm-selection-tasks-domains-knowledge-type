@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1248,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1248.png",
+    "question": "What source of heat is the pot using?",
+    "label": [
+        "gas",
+        "gas",
+        "gas",
+        "gas",
+        "gas",
+        "gas",
+        "electric",
+        "electric",
+        "flame or gas",
+        "flame or gas"
+    ]
+}

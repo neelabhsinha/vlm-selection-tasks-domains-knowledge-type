@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 104,
+    "caption": "a man and woman sitting on a park bench",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "footwear",
+        "tree",
+        "fence",
+        "park",
+        "ground",
+        "plant",
+        "sitting",
+        "grass",
+        "outdoor bench",
+        "bench",
+        "woman",
+        "people",
+        "settle"
+    ]
+}

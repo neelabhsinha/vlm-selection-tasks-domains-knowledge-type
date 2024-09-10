@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 146298,
+    "caption": "a bird flying in the sky over a tree",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "tree",
+        "flight",
+        "cloudy",
+        "animal",
+        "high",
+        "nature",
+        "bird",
+        "eagle"
+    ]
+}

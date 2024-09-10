@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 178,
+    "caption": "a street sign on the corner of a street",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "building",
+        "road",
+        "way",
+        "street light",
+        "tree",
+        "sign",
+        "road surface",
+        "sidewalk",
+        "neighbourhood",
+        "city",
+        "street",
+        "ground",
+        "town",
+        "travel"
+    ]
+}

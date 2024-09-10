@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 937,
+    "caption": "a man and woman walking down the street with an umbrella",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "vehicle",
+        "land vehicle",
+        "bus",
+        "text",
+        "umbrella",
+        "wheel",
+        "street",
+        "road",
+        "woman",
+        "ground",
+        "girl"
+    ]
+}

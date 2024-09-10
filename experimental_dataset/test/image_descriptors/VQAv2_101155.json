@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 101155,
+    "caption": "a young man riding a skateboard on top of a wooden bench",
+    "object_tags": [
+        "footwear",
+        "person",
+        "outdoor",
+        "tree",
+        "sport",
+        "clothing",
+        "man",
+        "street stunts",
+        "skateboarding equipment",
+        "ground",
+        "skateboarder",
+        "bench",
+        "jumping",
+        "street sports",
+        "individual sports",
+        "kickflip",
+        "skateboarding",
+        "park",
+        "street",
+        "boy",
+        "skateboard",
+        "skatepark"
+    ]
+}

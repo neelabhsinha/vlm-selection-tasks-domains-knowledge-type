@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 786,
+    "image_path": "./experimental_dataset/test/images/ChartQA_786.png",
+    "question": "Which year has the highest number?",
+    "label": [
+        "2007"
+    ]
+}

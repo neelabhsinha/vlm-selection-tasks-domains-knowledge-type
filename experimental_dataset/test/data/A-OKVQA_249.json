@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 249,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_249.png",
+    "question": "Which flavor most closely describes the bright yellow stuff?",
+    "label": "['mustard', 'mustard', 'tangy', 'mustard', 'tangy', 'mustard', 'sweet', 'mustard', 'mustard', 'mustard']",
+    "choices": [
+        "bland",
+        "meaty",
+        "sweet",
+        "cheesy"
+    ],
+    "correct_choice": "sweet"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2003,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2003.png",
+    "question": "What was the value of shipments of tortillas in the United States in 2019?",
+    "label": [
+        "4.53"
+    ]
+}

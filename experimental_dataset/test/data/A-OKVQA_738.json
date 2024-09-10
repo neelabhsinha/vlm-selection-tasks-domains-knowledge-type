@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 738,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_738.png",
+    "question": "What type of climate is it?",
+    "label": "['tropical', 'dry', 'warm', 'mediterranean', 'coastal', 'tropical', 'island', 'wet', 'warm sunny', 'tropical']",
+    "choices": [
+        "tropical",
+        "tundra",
+        "arctic",
+        "wetlands"
+    ],
+    "correct_choice": "tropical"
+}

@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 394,
+    "caption": "bikes parked on the side of a street",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "tire",
+        "bike",
+        "motorcycle",
+        "auto part",
+        "parked",
+        "building",
+        "bicycle",
+        "bicycle wheel",
+        "spoke",
+        "ground",
+        "street",
+        "bicycle rack",
+        "sidewalk",
+        "city",
+        "motorbike"
+    ]
+}

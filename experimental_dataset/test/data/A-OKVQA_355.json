@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 355,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_355.png",
+    "question": "What is sitting on the bench?",
+    "label": "['statue', 'statues', 'statues', 'statues', 'statue', 'statues', 'statues', 'statues', 'statues', 'statue']",
+    "choices": [
+        "toys",
+        "animals",
+        "statues",
+        "furniture"
+    ],
+    "correct_choice": "statues"
+}

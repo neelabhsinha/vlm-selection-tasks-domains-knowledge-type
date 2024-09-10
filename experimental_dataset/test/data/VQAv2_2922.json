@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 2922,
+    "image_path": "./experimental_dataset/test/images/VQAv2_2922.png",
+    "question": "What is the giraffe looking at?",
+    "label": [
+        "ground",
+        "tree",
+        "tree",
+        "bush",
+        "tree",
+        "trees",
+        "tree",
+        "away from camera",
+        "tree",
+        "bush"
+    ]
+}

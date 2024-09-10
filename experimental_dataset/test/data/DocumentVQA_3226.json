@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3226,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3226.png",
+    "question": "What is the lower limit for pressure called?",
+    "label": [
+        "Diastolic"
+    ]
+}

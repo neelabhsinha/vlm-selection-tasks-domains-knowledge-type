@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2416,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2416.png",
+    "question": "Who is the designer of the purse this kitten is inside of?",
+    "label": [
+        "louis vuitton",
+        "louis vuitton",
+        "louis vuitton",
+        "louis vuitton",
+        "louis vitton",
+        "louis vitton",
+        "channel",
+        "channel",
+        "vitton",
+        "vitton"
+    ]
+}

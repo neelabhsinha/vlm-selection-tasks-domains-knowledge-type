@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 876,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_876.png",
+    "question": "What is a famous example of the item in the middle of the picture?",
+    "label": [
+        "big ben",
+        "big ben",
+        "big ben",
+        "big ben",
+        "big ben",
+        "big ben",
+        "tell time",
+        "tell time",
+        "clock",
+        "clock"
+    ]
+}

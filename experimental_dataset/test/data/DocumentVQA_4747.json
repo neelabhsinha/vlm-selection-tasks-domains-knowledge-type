@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4747,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4747.png",
+    "question": "What is the title of the flowchart?",
+    "label": [
+        "organizational structure for the Smokers Express group of companies",
+        "Organizational structure for the SMOKERS EXPRESS Group of Companies"
+    ]
+}

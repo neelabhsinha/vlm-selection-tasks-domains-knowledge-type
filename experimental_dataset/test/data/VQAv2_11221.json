@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 11221,
+    "image_path": "./experimental_dataset/test/images/VQAv2_11221.png",
+    "question": "Would this flight result from a ski jump?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "upwards",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 124,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_124.png",
+    "question": "What is in the bottles?",
+    "label": "['liquor', 'baileys', 'liqueur', 'alcohol', 'coffee liquor', 'salt pepper', 'alcohol', 'alcohol', \"bailey's liqueur\", 'liquer']",
+    "choices": [
+        "beer",
+        "liquer",
+        "water",
+        "juice"
+    ],
+    "correct_choice": "liquer"
+}

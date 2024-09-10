@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 558,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_558.png",
+    "question": "What player has an all time record in this sport?",
+    "label": "['pete rose', 'lou gerri', 'cal ripen', 'batter', 'barry bonds', 'babe ruth', 'cy young', 'babe ruth', 'barry bonds', 'barry bonds']",
+    "choices": [
+        "tiger woods",
+        "john stockton",
+        "chris paul",
+        "pete rose"
+    ],
+    "correct_choice": "pete rose"
+}

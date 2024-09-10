@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4885,
+    "caption": "a display of cakes and pastries on a table",
+    "object_tags": [
+        "snack",
+        "dessert",
+        "indoor",
+        "fast food",
+        "dairy",
+        "baked goods",
+        "food",
+        "cake"
+    ]
+}

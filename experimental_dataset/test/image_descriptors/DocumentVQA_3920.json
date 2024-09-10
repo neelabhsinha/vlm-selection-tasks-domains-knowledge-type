@@ -1,0 +1,16 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3920,
+    "caption": "an old fashioned picture of an old fashioned tv show",
+    "object_tags": [
+        "text",
+        "menu",
+        "document",
+        "number",
+        "parallel",
+        "printing",
+        "font",
+        "black and white",
+        "screenshot"
+    ]
+}

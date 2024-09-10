@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 430,
+    "caption": "a white toilet sitting next to a sink in a bathroom",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "bathroom accessory",
+        "tap",
+        "plumbing",
+        "restroom",
+        "tile",
+        "sink",
+        "shower",
+        "bidet",
+        "toilet seat",
+        "bathroom cabinet",
+        "bathroom",
+        "mirror",
+        "toilet",
+        "white",
+        "room",
+        "water basin",
+        "hotel"
+    ]
+}

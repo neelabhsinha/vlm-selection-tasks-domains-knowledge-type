@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 179,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_179.png",
+    "question": "How many drinkers are sucking down their beverages?",
+    "label": "['four', 'one', 'one', 'four', 'four', 'three', 'three', 'one', 'three', 'four']",
+    "choices": [
+        "three",
+        "two",
+        "none",
+        "one"
+    ],
+    "correct_choice": "three"
+}

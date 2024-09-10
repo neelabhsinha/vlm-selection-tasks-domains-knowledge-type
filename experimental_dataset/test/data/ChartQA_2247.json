@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2247,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2247.png",
+    "question": "Who was the leader of the disk and optical drive market in the first quarter of 2018?",
+    "label": [
+        "Western Digital"
+    ]
+}

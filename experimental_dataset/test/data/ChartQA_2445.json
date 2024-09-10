@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2445,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2445.png",
+    "question": "How much luxury tax did the Yankees pay for the 2020 season?",
+    "label": [
+        "25.29"
+    ]
+}

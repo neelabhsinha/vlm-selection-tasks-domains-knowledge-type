@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3369,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3369.png",
+    "question": "What airline does the plane in the background belong to?",
+    "label": [
+        "virgin",
+        "virgin",
+        "virgin",
+        "virgin",
+        "virgin",
+        "virgin",
+        "delta",
+        "delta",
+        "american airline",
+        "american airline"
+    ]
+}

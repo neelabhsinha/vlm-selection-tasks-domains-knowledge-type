@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4058,
+    "caption": "a cat sitting on top of a microwave",
+    "object_tags": [
+        "small to medium-sized cats",
+        "indoor",
+        "felidae",
+        "home appliance",
+        "whiskers",
+        "kitchen appliance",
+        "microwave",
+        "kitchen",
+        "domestic cat",
+        "cat",
+        "oven",
+        "animal"
+    ]
+}

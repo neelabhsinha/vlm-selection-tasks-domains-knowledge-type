@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4074,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4074.png",
+    "question": "Who is the sender?",
+    "label": [
+        "D. J. Hollingsworth"
+    ]
+}

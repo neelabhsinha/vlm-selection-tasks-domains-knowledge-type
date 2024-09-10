@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 905,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Law",
+        "Government and Politics",
+        "Justice"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge"
+    ]
+}

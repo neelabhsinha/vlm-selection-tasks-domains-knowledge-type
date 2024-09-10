@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 819,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_819.png",
+    "question": "What type of appliance is open here?",
+    "label": "['kitchen', 'refrigerator', 'refrigerator', 'refrigerator', 'fridge', 'refrigerator', 'fridge', 'fridge', 'fridge', 'refrigerator']",
+    "choices": [
+        "laundry",
+        "kitchen",
+        "power",
+        "handheld"
+    ],
+    "correct_choice": "kitchen"
+}

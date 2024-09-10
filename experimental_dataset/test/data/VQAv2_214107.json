@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 214107,
+    "image_path": "./experimental_dataset/test/images/VQAv2_214107.png",
+    "question": "How much does the sandwich cost?",
+    "label": [
+        "5.00",
+        "5.00 euro",
+        "5 dollars",
+        "$5",
+        "6.00",
+        "$5.00",
+        "5.00",
+        "5.00",
+        "5.00",
+        "5.00"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 69,
+    "caption": "people walking down a street with a clock tower",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "person",
+        "tree",
+        "clock",
+        "town square",
+        "clothing",
+        "jeans",
+        "footwear",
+        "public space",
+        "people",
+        "man",
+        "pedestrian",
+        "tourism",
+        "palace",
+        "ground",
+        "street",
+        "large",
+        "standing",
+        "square",
+        "city"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 22101,
+    "image_path": "./experimental_dataset/test/images/VQAv2_22101.png",
+    "question": "Where is the light at?",
+    "label": [
+        "on right side",
+        "on streetlamp",
+        "by brick building",
+        "light post",
+        "building",
+        "sky",
+        "front of building",
+        "right",
+        "on bottom right",
+        "sky"
+    ]
+}

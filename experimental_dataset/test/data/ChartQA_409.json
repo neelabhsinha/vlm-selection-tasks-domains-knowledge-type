@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 409,
+    "image_path": "./experimental_dataset/test/images/ChartQA_409.png",
+    "question": "Which of the given countries has the lowest access to electricity over the years?",
+    "label": [
+        "South Sudan"
+    ]
+}

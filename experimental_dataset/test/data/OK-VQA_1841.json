@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1841,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1841.png",
+    "question": "Which command is the dog in the photo carrying out?",
+    "label": [
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit",
+        "sit"
+    ]
+}

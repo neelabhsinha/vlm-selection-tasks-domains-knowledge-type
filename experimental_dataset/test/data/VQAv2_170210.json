@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 170210,
+    "image_path": "./experimental_dataset/test/images/VQAv2_170210.png",
+    "question": "What does the coffee taste like?",
+    "label": [
+        "bitter",
+        "vanilla",
+        "i don't know",
+        "hot",
+        "strong",
+        "sweet",
+        "coffee",
+        "sweet",
+        "coffee",
+        "coffee"
+    ]
+}

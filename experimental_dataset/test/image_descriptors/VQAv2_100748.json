@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 100748,
+    "caption": "two people riding skis on top of a snow covered slope",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "person",
+        "snow",
+        "clothing",
+        "winter",
+        "skiing",
+        "water",
+        "standing",
+        "sun",
+        "ground",
+        "sunset",
+        "people",
+        "woman"
+    ]
+}

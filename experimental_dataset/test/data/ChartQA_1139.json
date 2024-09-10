@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1139,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1139.png",
+    "question": "Which option has a difference of 5%, compared with yes?",
+    "label": [
+        "No, but I plan to soon"
+    ]
+}

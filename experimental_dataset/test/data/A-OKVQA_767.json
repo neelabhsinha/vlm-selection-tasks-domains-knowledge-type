@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 767,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_767.png",
+    "question": "What is the boy reaching up to grab?",
+    "label": "['apples', 'apple', 'apple', 'apple', 'taking apple', 'apple', 'apple', 'apples', 'apple', 'apple']",
+    "choices": [
+        "orange",
+        "potato",
+        "apple",
+        "tomato"
+    ],
+    "correct_choice": "apple"
+}

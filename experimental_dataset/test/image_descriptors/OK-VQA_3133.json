@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3133,
+    "caption": "a large group of people sitting on the ground with a stuffed animal",
+    "object_tags": [
+        "sky",
+        "clothing",
+        "outdoor",
+        "person",
+        "man",
+        "jeans",
+        "footwear",
+        "people",
+        "dog",
+        "ground"
+    ]
+}

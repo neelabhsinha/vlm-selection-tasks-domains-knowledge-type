@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 115,
+    "caption": "a person cutting a piece of cake with a knife",
+    "object_tags": [
+        "person",
+        "clothing",
+        "suit",
+        "wedding cake",
+        "outdoor",
+        "knife",
+        "wedding",
+        "cutting",
+        "cut",
+        "woman"
+    ]
+}

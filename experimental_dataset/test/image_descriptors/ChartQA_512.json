@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 512,
+    "caption": "a series of photos showing a blue and red fire hydrant",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "rectangle",
+        "plot",
+        "colorfulness",
+        "design"
+    ]
+}

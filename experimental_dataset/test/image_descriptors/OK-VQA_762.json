@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 762,
+    "caption": "a parking lot filled with lots of parking meters",
+    "object_tags": [
+        "outdoor",
+        "street light",
+        "night",
+        "sky",
+        "road",
+        "building",
+        "light",
+        "ground",
+        "street",
+        "city",
+        "parking",
+        "time"
+    ]
+}

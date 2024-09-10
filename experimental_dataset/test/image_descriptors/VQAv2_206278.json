@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 206278,
+    "caption": "a dog running with a frisbee in its mouth",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "sky",
+        "dog breed",
+        "field",
+        "pet",
+        "dog",
+        "mammal",
+        "animal",
+        "mouth",
+        "frisbee"
+    ]
+}

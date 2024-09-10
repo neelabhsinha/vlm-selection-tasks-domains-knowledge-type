@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2001,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2001.png",
+    "question": "Which party won the most seats in 2010?",
+    "label": [
+        "Conservative"
+    ]
+}

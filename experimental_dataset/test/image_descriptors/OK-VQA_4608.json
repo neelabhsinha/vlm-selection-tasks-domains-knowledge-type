@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4608,
+    "caption": "a woman sitting at a desk with two children",
+    "object_tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "table",
+        "handwriting",
+        "learning",
+        "human face",
+        "education",
+        "furniture",
+        "office supplies",
+        "whiteboard",
+        "wall",
+        "course",
+        "desk",
+        "classroom",
+        "woman",
+        "text"
+    ]
+}

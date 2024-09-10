@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1006,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1006.png",
+    "question": "What service is offered for free behind the woman in red?",
+    "label": "['parking', 'parking', 'trash', 'parking', 'parking', 'parking', 'transportation', 'parking', 'parking', 'parking']",
+    "choices": [
+        "parking",
+        "dancing",
+        "car washing",
+        "dry cleaning"
+    ],
+    "correct_choice": "parking"
+}

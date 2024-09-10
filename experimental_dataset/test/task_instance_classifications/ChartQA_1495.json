@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 1495,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Movies",
+        "Reviews"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Cultural Knowledge"
+    ]
+}

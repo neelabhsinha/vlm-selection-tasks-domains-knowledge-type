@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 57771,
+    "caption": "a man and a woman holding a birthday cake",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "wall",
+        "birthday cake",
+        "candle",
+        "television",
+        "cake",
+        "window",
+        "birthday",
+        "family",
+        "standing",
+        "woman",
+        "girl"
+    ]
+}

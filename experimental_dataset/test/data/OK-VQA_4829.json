@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4829,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4829.png",
+    "question": "Is the stove electric or gas?",
+    "label": [
+        "electric",
+        "electric",
+        "electric",
+        "electric",
+        "electric",
+        "electric",
+        "electric",
+        "electric",
+        "electric",
+        "electric"
+    ]
+}

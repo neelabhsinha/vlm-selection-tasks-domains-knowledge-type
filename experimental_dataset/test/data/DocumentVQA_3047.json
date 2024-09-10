@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3047,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3047.png",
+    "question": "In which state is Health Learning Systems located?",
+    "label": [
+        "new jersey",
+        "New Jersey"
+    ]
+}

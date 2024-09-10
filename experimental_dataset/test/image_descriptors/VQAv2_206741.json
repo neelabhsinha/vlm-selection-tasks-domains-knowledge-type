@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 206741,
+    "caption": "a man in a suit and tie smiling",
+    "object_tags": [
+        "person",
+        "human face",
+        "smile",
+        "clothing",
+        "formal wear",
+        "necktie",
+        "tie",
+        "man",
+        "shirt",
+        "collar",
+        "gentleman",
+        "suit",
+        "dress shirt",
+        "blazer",
+        "male person",
+        "wearing",
+        "white-collar worker",
+        "forehead",
+        "businessperson",
+        "portrait",
+        "chin",
+        "outdoor",
+        "indoor",
+        "glasses"
+    ]
+}

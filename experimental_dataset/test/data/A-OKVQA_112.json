@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 112,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_112.png",
+    "question": "Which century was the item the woman is holding up invented in?",
+    "label": "['twentieth', '20th', '1900s', 'twenty-first', 'twentieth century', '20th century', 'twenty first', '19', 'twentieth', 'twentieth']",
+    "choices": [
+        "twentieth",
+        "twenty first",
+        "tenth",
+        "eighteenth"
+    ],
+    "correct_choice": "twentieth"
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 845,
+    "caption": "pizzas sitting on top of a counter",
+    "object_tags": [
+        "fast food",
+        "indoor",
+        "snack",
+        "food",
+        "bakery",
+        "pizza",
+        "floor",
+        "shop"
+    ]
+}

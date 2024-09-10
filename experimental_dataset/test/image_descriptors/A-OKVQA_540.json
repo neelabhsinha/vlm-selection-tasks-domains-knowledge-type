@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 540,
+    "caption": "people sitting at a table with umbrellas",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "people",
+        "furniture",
+        "drink",
+        "outdoor",
+        "street",
+        "table"
+    ]
+}

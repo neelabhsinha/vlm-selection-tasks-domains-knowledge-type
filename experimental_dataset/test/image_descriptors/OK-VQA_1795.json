@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1795,
+    "caption": "a red stop sign sitting on top of a metal pole",
+    "object_tags": [
+        "sign",
+        "traffic sign",
+        "stop sign",
+        "stop",
+        "signage",
+        "outdoor",
+        "red"
+    ]
+}

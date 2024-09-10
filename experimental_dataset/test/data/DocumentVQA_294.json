@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 294,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_294.png",
+    "question": "What is the TOTAL Rent paid in 2014 (Rs.cr)?",
+    "label": [
+        "12.19"
+    ]
+}

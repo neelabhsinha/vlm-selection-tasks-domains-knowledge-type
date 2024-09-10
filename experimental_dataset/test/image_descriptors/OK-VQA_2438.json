@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2438,
+    "caption": "two giraffes standing next to each other in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "terrestrial animal",
+        "wildlife",
+        "plant",
+        "giraffe",
+        "giraffidae",
+        "mountain",
+        "safari",
+        "tree",
+        "sky",
+        "shrubland",
+        "grass",
+        "standing",
+        "wilderness",
+        "savanna",
+        "national park",
+        "plant community",
+        "field"
+    ]
+}

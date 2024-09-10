@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2850,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2850.png",
+    "question": "What appliance is in the background of this picture?",
+    "label": [
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "toaster oven",
+        "toaster oven"
+    ]
+}

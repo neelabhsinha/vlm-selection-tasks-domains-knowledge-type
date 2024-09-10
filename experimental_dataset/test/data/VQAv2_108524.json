@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 108524,
+    "image_path": "./experimental_dataset/test/images/VQAv2_108524.png",
+    "question": "What pattern is the rug on the right?",
+    "label": [
+        "stripes",
+        "striped",
+        "stripes",
+        "stripes",
+        "stripes",
+        "striped",
+        "stripes",
+        "stripes",
+        "mosaic",
+        "stripes"
+    ]
+}

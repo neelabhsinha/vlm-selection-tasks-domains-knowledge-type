@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1140,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1140.png",
+    "question": "Has any data point dropped in both lines across all years?",
+    "label": [
+        "No"
+    ]
+}

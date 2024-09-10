@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 283,
+    "image_path": "./experimental_dataset/test/images/ChartQA_283.png",
+    "question": "What is the difference between boys  and girls??",
+    "label": [
+        "13.5"
+    ]
+}

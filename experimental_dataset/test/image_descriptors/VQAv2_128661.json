@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 128661,
+    "caption": "three children sitting in the grass with toothbrushes and toothpaste",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "clothing",
+        "person",
+        "toddler",
+        "baby",
+        "footwear",
+        "human face",
+        "playground",
+        "child",
+        "sitting",
+        "young",
+        "park",
+        "boy"
+    ]
+}

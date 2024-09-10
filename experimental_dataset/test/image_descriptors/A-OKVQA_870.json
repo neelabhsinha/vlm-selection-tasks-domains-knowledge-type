@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 870,
+    "caption": "a young boy and a young girl standing in a kitchen",
+    "object_tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "wall",
+        "floor"
+    ]
+}

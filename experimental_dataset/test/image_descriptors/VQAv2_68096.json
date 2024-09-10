@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 68096,
+    "caption": "a man wearing glasses and a tie",
+    "object_tags": [
+        "human face",
+        "person",
+        "clothing",
+        "necktie",
+        "collar",
+        "dress shirt",
+        "portrait",
+        "wearing",
+        "wall",
+        "chin",
+        "neck",
+        "top",
+        "forehead",
+        "shirt",
+        "man",
+        "sleeve",
+        "indoor",
+        "purple",
+        "fabric",
+        "glasses",
+        "headshot"
+    ]
+}

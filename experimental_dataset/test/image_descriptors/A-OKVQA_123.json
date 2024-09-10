@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 123,
+    "caption": "a market filled with lots of fresh produce",
+    "object_tags": [
+        "outdoor",
+        "marketplace",
+        "market",
+        "person",
+        "clothing",
+        "selling",
+        "greengrocer",
+        "local food",
+        "trade",
+        "whole food",
+        "ground",
+        "natural foods",
+        "flea market",
+        "bazaar",
+        "grocer",
+        "vegan nutrition",
+        "hawker",
+        "fruit",
+        "standing",
+        "vegetable",
+        "produce",
+        "people",
+        "plant",
+        "street"
+    ]
+}

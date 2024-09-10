@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1115,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1115.png",
+    "question": "What type of water sport are they doing?",
+    "label": [
+        "para sail",
+        "para sail",
+        "ski",
+        "ski",
+        "parasurfing",
+        "parasurfing",
+        "ski",
+        "ski",
+        "wind surf",
+        "wind surf"
+    ]
+}

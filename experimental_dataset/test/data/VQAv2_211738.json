@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 211738,
+    "image_path": "./experimental_dataset/test/images/VQAv2_211738.png",
+    "question": "What city was this picture taken in?",
+    "label": [
+        "unknown",
+        "kenilwood",
+        "chicago",
+        "kenworth",
+        "detroit",
+        "bay city",
+        "los angeles",
+        "riverdale, maryland",
+        "las vegas",
+        "dallas"
+    ]
+}

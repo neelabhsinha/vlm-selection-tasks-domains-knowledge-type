@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2903,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2903.png",
+    "question": "What type of animals make material to make clothing?",
+    "label": [
+        "sheep",
+        "sheep",
+        "sheep",
+        "sheep",
+        "sheep",
+        "sheep",
+        "sheep",
+        "sheep",
+        "sheep",
+        "sheep"
+    ]
+}

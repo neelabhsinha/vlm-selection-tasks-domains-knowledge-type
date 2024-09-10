@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 347,
+    "image_path": "./experimental_dataset/test/images/ChartQA_347.png",
+    "question": "Which of the follow countries recorded the higher death rates due to air pollution over the years, Zambia or New Zealand?",
+    "label": [
+        "Zambia"
+    ]
+}

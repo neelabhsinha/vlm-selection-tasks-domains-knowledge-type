@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2057,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2057.png",
+    "question": "How much money did Saudi Arabia receive in oil subsidies in 2016?",
+    "label": [
+        "19407.2"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2467,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2467.png",
+    "question": "Which resort has the Polynesian show?",
+    "label": [
+        "KAUAI RESORT",
+        "Kauai Resort"
+    ]
+}

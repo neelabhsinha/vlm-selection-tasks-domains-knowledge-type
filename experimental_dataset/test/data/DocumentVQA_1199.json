@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1199,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1199.png",
+    "question": "What is the second table in this document about?",
+    "label": [
+        "FILER'S EMPLOYMENT ASSETS & INCOME AND RETIREMENT ACCOUNTS",
+        "Filer's Employment Assets & Income and Retirement Accounts"
+    ]
+}

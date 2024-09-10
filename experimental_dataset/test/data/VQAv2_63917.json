@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 63917,
+    "image_path": "./experimental_dataset/test/images/VQAv2_63917.png",
+    "question": "What's the c word on the table umbrella?",
+    "label": [
+        "champagne",
+        "candle",
+        "champagne",
+        "champagne",
+        "champagne",
+        "champagne",
+        "champagne",
+        "champagne",
+        "champagne",
+        "champagne"
+    ]
+}

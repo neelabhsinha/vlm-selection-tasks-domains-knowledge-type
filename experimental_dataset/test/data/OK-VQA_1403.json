@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1403,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1403.png",
+    "question": "What is it called when someone does what this man is doing?",
+    "label": [
+        "photograph",
+        "photograph",
+        "photography",
+        "photography",
+        "selfie",
+        "selfie",
+        "take picture",
+        "take picture",
+        "photographer",
+        "photographer"
+    ]
+}

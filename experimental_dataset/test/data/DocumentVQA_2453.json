@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2453,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2453.png",
+    "question": "In which place the event was scheduled?",
+    "label": [
+        "Jung hotel - new Orleans, Louisiana",
+        "Jung Hotel- New Orleans, Louisiana",
+        "Louisiana",
+        "Jung hotel",
+        "Jung hotel - new Orleans",
+        "new Orleans, Louisiana"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 931,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_931.png",
+    "question": "Who comes under BOARD OF TRUSTEES, according to the flowchart?",
+    "label": [
+        "OFFICERS OF THE INSTITUTE",
+        "Officers of the institute"
+    ]
+}

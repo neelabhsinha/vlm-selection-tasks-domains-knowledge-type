@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 239,
+    "caption": "a man is working on a motor scooter in the street",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "person",
+        "land vehicle",
+        "motorcycle",
+        "tire",
+        "wheel",
+        "clothing",
+        "road",
+        "man",
+        "auto part",
+        "street",
+        "ground",
+        "bike",
+        "scooter"
+    ]
+}

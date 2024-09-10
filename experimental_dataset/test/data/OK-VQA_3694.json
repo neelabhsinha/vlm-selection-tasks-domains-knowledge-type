@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3694,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3694.png",
+    "question": "What shade of blue is the racket?",
+    "label": [
+        "navy",
+        "navy",
+        "navy",
+        "navy",
+        "navy",
+        "navy",
+        "cerulean",
+        "cerulean",
+        "royal blue",
+        "royal blue"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 99846,
+    "caption": "a large brown bear eating grass in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "grass",
+        "outdoor",
+        "bear",
+        "brown bear",
+        "terrestrial animal",
+        "grizzly bear",
+        "kodiak bear",
+        "wildlife",
+        "fur",
+        "brown",
+        "field",
+        "black bear",
+        "grizzly"
+    ]
+}

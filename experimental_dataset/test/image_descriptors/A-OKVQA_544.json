@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 544,
+    "caption": "a train traveling down train tracks next to a train station",
+    "object_tags": [
+        "railroad",
+        "transport",
+        "outdoor",
+        "sky",
+        "track",
+        "vehicle",
+        "railway",
+        "train",
+        "rolling stock",
+        "locomotive",
+        "land vehicle",
+        "railroad car",
+        "rolling",
+        "electric locomotive",
+        "ground",
+        "rail",
+        "freight"
+    ]
+}

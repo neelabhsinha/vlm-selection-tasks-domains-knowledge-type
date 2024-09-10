@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 456,
+    "caption": "a pot filled with food on top of a stove",
+    "object_tags": [
+        "food",
+        "cookware and bakeware",
+        "dish",
+        "indoor",
+        "wok",
+        "stew",
+        "kitchenware",
+        "karahi",
+        "stove",
+        "soup",
+        "brine",
+        "stock",
+        "pot",
+        "bowl",
+        "pan",
+        "cooking",
+        "spoon",
+        "vegetable",
+        "kitchen",
+        "silver"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3058,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3058.png",
+    "question": "Where in the world are these buildings?",
+    "label": [
+        "dubai",
+        "dubai",
+        "dubai",
+        "dubai",
+        "new york city",
+        "new york city",
+        "usa",
+        "usa",
+        "new york",
+        "new york"
+    ]
+}

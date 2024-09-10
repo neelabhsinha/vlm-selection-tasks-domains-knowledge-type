@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 301,
+    "caption": "a series of photos showing different types of objects",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "diagram",
+        "parallel",
+        "number",
+        "rectangle"
+    ]
+}

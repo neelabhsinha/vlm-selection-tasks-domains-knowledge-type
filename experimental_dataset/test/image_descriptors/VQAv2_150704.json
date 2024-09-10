@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 150704,
+    "caption": "two women walking on a beach carrying surfboards",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "ground",
+        "surfboard",
+        "beach",
+        "snow",
+        "carrying",
+        "holding",
+        "surfing",
+        "walking",
+        "black and white",
+        "woman",
+        "wet"
+    ]
+}

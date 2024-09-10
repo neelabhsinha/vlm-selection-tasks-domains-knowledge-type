@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 18702,
+    "caption": "a person on skis standing in the snow",
+    "object_tags": [
+        "outdoor",
+        "winter",
+        "freezing",
+        "blizzard",
+        "tree",
+        "winter storm",
+        "person",
+        "skiing",
+        "piste",
+        "nature",
+        "snow",
+        "ski slope",
+        "mountain"
+    ]
+}

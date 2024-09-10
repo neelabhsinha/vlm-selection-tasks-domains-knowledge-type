@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2426,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2426.png",
+    "question": "What was the value of U.S. exports to North America in dollars in 2020?",
+    "label": [
+        "468.08"
+    ]
+}

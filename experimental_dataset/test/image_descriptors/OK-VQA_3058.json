@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3058,
+    "caption": "a large jetliner flying over a large city",
+    "object_tags": [
+        "outdoor",
+        "airplane",
+        "building",
+        "tower",
+        "plane",
+        "sky",
+        "aircraft",
+        "tower block",
+        "skyscraper",
+        "metropolitan area",
+        "vehicle",
+        "transport",
+        "large",
+        "jet",
+        "city",
+        "high"
+    ]
+}

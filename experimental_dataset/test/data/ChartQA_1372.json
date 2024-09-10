@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1372,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1372.png",
+    "question": "How many boys participated in a high school ice hockey program in the 2018/19 season?",
+    "label": [
+        "35283"
+    ]
+}

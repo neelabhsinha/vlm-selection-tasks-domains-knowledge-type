@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 325,
+    "image_path": "./experimental_dataset/test/images/ChartQA_325.png",
+    "question": "What is the sum of lowest value and second lowest value in the bar?",
+    "label": [
+        "14153.35"
+    ]
+}

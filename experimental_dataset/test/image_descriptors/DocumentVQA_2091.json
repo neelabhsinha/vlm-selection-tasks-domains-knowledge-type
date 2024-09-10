@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2091,
+    "caption": "a computer generated image of a computer keyboard",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "number",
+        "parallel",
+        "rectangle",
+        "handwriting"
+    ]
+}

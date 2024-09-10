@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1233,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1233.png",
+    "question": "What breed of cow is this?",
+    "label": [
+        "bull",
+        "bull",
+        "bull",
+        "bull",
+        "jersey",
+        "jersey",
+        "yak",
+        "yak",
+        "longhorn",
+        "longhorn"
+    ]
+}

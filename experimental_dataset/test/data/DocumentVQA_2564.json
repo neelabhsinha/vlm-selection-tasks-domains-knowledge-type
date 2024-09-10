@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2564,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2564.png",
+    "question": "What is the serial number of the second ticket?",
+    "label": [
+        "8343105865"
+    ]
+}

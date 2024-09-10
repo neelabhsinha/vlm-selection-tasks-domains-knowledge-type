@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 47915,
+    "caption": "a birthday cake with an elephant on top of it",
+    "object_tags": [
+        "birthday cake",
+        "toy",
+        "cake",
+        "fondant",
+        "indoor"
+    ]
+}

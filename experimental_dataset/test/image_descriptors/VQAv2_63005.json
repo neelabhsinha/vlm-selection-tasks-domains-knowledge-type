@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 63005,
+    "caption": "baseball players sitting on a bench",
+    "object_tags": [
+        "athletic game",
+        "person",
+        "outdoor",
+        "clothing",
+        "tree",
+        "sport",
+        "baseball",
+        "grass",
+        "sports uniform",
+        "man",
+        "cap",
+        "bat-and-ball games",
+        "baseball cap",
+        "baseball uniform",
+        "player",
+        "group",
+        "field",
+        "people",
+        "boy"
+    ]
+}

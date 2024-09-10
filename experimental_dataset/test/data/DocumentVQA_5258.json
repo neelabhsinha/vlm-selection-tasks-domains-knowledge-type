@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5258,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5258.png",
+    "question": "What is the name of the company?",
+    "label": [
+        "ITC Limited"
+    ]
+}

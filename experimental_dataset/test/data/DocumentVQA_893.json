@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 893,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_893.png",
+    "question": "what is the given document about?",
+    "label": [
+        "region monthly telmark program evaluation survey"
+    ]
+}

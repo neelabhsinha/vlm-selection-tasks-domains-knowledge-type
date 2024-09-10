@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5205,
+    "caption": "a collage of photographs showing various types of electronic equipment",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "document",
+        "number",
+        "black and white",
+        "receipt"
+    ]
+}

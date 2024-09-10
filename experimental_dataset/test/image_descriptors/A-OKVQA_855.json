@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 855,
+    "caption": "a woman sitting on a couch eating a slice of pizza",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "wall",
+        "indoor",
+        "pizza",
+        "woman",
+        "fast food",
+        "eating",
+        "food",
+        "slice",
+        "sitting",
+        "girl"
+    ]
+}

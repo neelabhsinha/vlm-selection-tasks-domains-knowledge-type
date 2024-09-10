@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 437,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_437.png",
+    "question": "Why do these boats are painted in different color?",
+    "label": "['owner preference', 'owner preference', 'different owners', 'visibility', 'tell apart', 'be unique', 'personal preference', 'red', 'personal preference', 'be noticed']",
+    "choices": [
+        "trend",
+        "security",
+        "custom",
+        "visibility"
+    ],
+    "correct_choice": "visibility"
+}

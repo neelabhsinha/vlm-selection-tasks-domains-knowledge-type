@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3110,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3110.png",
+    "question": "When is the 'break' after lunch, on October 11?",
+    "label": [
+        "2:00-2:15 p.m."
+    ]
+}

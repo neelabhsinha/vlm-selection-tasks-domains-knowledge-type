@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4508,
+    "caption": "a little girl sitting at a table with carrots",
+    "object_tags": [
+        "person",
+        "clothing",
+        "food",
+        "platter",
+        "vegetable",
+        "plate",
+        "meal",
+        "tableware",
+        "fruit",
+        "table",
+        "food group",
+        "culinary art",
+        "salad",
+        "indoor",
+        "carrot"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 178926,
+    "caption": "a man wearing a suit and tie",
+    "object_tags": [
+        "person",
+        "human face",
+        "tie",
+        "chin",
+        "clothing",
+        "man",
+        "gentleman",
+        "formal wear",
+        "shirt",
+        "forehead",
+        "dress shirt",
+        "white-collar worker",
+        "blazer",
+        "businessperson",
+        "collar",
+        "indoor",
+        "wearing",
+        "suit",
+        "necktie"
+    ]
+}

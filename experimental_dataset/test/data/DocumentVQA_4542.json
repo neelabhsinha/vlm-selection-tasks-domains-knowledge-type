@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4542,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4542.png",
+    "question": "What is the proposed dividend as on 31.3.2010?",
+    "label": [
+        "2599.70"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4418,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4418.png",
+    "question": "What is the underlined text on the page?",
+    "label": [
+        "system overview",
+        "System Overview"
+    ]
+}

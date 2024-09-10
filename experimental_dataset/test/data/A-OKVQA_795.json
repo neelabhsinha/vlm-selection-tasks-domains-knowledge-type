@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 795,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_795.png",
+    "question": "What room is pictured here for a rest?",
+    "label": "['restroom', 'bathroom', 'restroom', 'restroom', 'bathroom', 'bathroom', 'restroom', 'restroom', 'restroom', 'restroom']",
+    "choices": [
+        "restroom",
+        "bedroom",
+        "carnival",
+        "church"
+    ],
+    "correct_choice": "restroom"
+}

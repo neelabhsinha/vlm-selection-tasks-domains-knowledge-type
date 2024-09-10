@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1108,
+    "caption": "a pink umbrella sitting on a sidewalk next to a building",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "furniture",
+        "ground",
+        "umbrella",
+        "bench",
+        "accessory",
+        "sidewalk",
+        "street",
+        "person"
+    ]
+}

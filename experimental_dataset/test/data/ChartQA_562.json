@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 562,
+    "image_path": "./experimental_dataset/test/images/ChartQA_562.png",
+    "question": "Which color bar represents the International flight?",
+    "label": [
+        "Pink"
+    ]
+}

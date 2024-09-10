@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 255,
+    "caption": "a series of photographs showing a person using a computer",
+    "object_tags": [
+        "text",
+        "font",
+        "document",
+        "black and white",
+        "screenshot",
+        "number",
+        "receipt"
+    ]
+}

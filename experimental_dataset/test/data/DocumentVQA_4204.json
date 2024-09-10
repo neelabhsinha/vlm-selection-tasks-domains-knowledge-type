@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4204,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4204.png",
+    "question": "How much is the 'proposed' institute General Fund in the year 1976-77?",
+    "label": [
+        "563,209",
+        "563,209."
+    ]
+}

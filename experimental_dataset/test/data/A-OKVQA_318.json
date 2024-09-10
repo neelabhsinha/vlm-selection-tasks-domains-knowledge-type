@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 318,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_318.png",
+    "question": "What is this umbrella used for?",
+    "label": "['photography', 'phootshot', 'lighting', 'photography', 'lighting', 'lighting', 'lighting', 'shelter', 'lighting', 'lighting']",
+    "choices": [
+        "fashion",
+        "rain",
+        "sun",
+        "lighting"
+    ],
+    "correct_choice": "lighting"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 8810,
+    "image_path": "./experimental_dataset/test/images/VQAv2_8810.png",
+    "question": "What color is the bottom plane?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1943,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1943.png",
+    "question": "What is the B&W value for Ecusta 6I/6?",
+    "label": [
+        "4I/6"
+    ]
+}

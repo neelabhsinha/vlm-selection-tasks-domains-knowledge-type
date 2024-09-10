@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 70765,
+    "image_path": "./experimental_dataset/test/images/VQAv2_70765.png",
+    "question": "What are the people doing?",
+    "label": [
+        "skiing",
+        "skiing",
+        "skiing",
+        "skiing",
+        "skiing",
+        "skating",
+        "skiing",
+        "skiing",
+        "skiing",
+        "skiing"
+    ]
+}

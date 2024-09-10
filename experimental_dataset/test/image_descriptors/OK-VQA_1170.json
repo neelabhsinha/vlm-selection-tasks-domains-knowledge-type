@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1170,
+    "caption": "people standing on a beach with surfboards",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "people",
+        "surfboard",
+        "person",
+        "wave",
+        "surface water sports",
+        "wind wave",
+        "outdoor recreation",
+        "recreation",
+        "tide",
+        "ocean",
+        "group",
+        "surfing",
+        "beach",
+        "mountain",
+        "surf",
+        "shore",
+        "standing"
+    ]
+}

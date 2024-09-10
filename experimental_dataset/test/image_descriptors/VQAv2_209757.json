@@ -1,0 +1,11 @@
+{
+    "dataset": "VQAv2",
+    "key": 209757,
+    "caption": "a pink fire hydrant sitting on top of a sidewalk",
+    "object_tags": [
+        "pink",
+        "outdoor",
+        "ground",
+        "painted"
+    ]
+}

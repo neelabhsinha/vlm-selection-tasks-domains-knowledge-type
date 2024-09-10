@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 61346,
+    "caption": "a large jetliner sitting on top of an airport runway",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "plane",
+        "air travel",
+        "airliner",
+        "vehicle",
+        "airline",
+        "transport",
+        "aircraft",
+        "aircraft engine",
+        "flight",
+        "wing",
+        "aviation",
+        "flap",
+        "turbine",
+        "aerospace engineering",
+        "airplane",
+        "airport",
+        "narrow-body aircraft",
+        "jet aircraft",
+        "jet",
+        "grass",
+        "large",
+        "runway"
+    ]
+}

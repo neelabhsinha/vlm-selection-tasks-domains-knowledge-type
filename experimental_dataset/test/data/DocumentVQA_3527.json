@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3527,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3527.png",
+    "question": "What type of form is given here?",
+    "label": [
+        "Contract Routing Form"
+    ]
+}

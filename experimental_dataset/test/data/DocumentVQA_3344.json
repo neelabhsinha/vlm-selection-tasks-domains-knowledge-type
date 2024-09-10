@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3344,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3344.png",
+    "question": "What is the Date of Board of Directors' meeting in which boards' report referred to under section 217 was approved?",
+    "label": [
+        "29/08/2013"
+    ]
+}

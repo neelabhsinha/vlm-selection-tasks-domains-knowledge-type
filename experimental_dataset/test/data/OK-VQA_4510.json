@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4510,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4510.png",
+    "question": "What is in the air?",
+    "label": [
+        "fog",
+        "fog",
+        "fog",
+        "fog",
+        "fog",
+        "fog",
+        "fog",
+        "fog",
+        "fog",
+        "fog"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2623,
+    "caption": "people on a small boat in the water",
+    "object_tags": [
+        "outdoor",
+        "watercraft",
+        "transport",
+        "lake",
+        "water",
+        "boating",
+        "life jacket",
+        "vehicle",
+        "recreation",
+        "inflatable boat",
+        "outdoor recreation",
+        "inflatable",
+        "people",
+        "raft",
+        "boat",
+        "rafting",
+        "yellow",
+        "person",
+        "group"
+    ]
+}

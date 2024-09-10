@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1097,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1097.png",
+    "question": "What type of blanket is that?",
+    "label": [
+        "quilt",
+        "quilt",
+        "quilt",
+        "quilt",
+        "cotton",
+        "cotton",
+        "duvet",
+        "duvet",
+        "patchwork",
+        "patchwork"
+    ]
+}

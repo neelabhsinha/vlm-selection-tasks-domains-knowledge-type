@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 869,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_869.png",
+    "question": "Which university's name is mentioned at the top?",
+    "label": [
+        "THE ROCKEFELLER UNIVERSITY"
+    ]
+}

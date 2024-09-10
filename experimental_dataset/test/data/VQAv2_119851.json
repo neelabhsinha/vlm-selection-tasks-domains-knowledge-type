@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 119851,
+    "image_path": "./experimental_dataset/test/images/VQAv2_119851.png",
+    "question": "What color is her top?",
+    "label": [
+        "beige",
+        "brown",
+        "gray",
+        "tan",
+        "gray",
+        "beige",
+        "gray",
+        "brown",
+        "brown",
+        "tan"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 523,
+    "caption": "three bowls of food on a table",
+    "object_tags": [
+        "food",
+        "carrot stick",
+        "indoor",
+        "baby carrot",
+        "produce",
+        "table",
+        "vegetarian food",
+        "vegetable",
+        "floor",
+        "container",
+        "carrot"
+    ]
+}

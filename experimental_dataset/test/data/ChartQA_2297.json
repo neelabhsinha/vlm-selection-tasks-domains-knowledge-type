@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2297,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2297.png",
+    "question": "What was the brand value of Land Rover as of December 31, 2014?",
+    "label": [
+        "6521"
+    ]
+}

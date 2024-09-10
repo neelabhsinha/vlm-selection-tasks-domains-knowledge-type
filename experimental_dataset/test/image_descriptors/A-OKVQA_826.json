@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 826,
+    "caption": "a man standing next to a cow in a field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "livestock",
+        "plant",
+        "bovine",
+        "cow",
+        "dairy cow",
+        "pasture",
+        "herd",
+        "herding",
+        "field",
+        "farm",
+        "ranch",
+        "mammal",
+        "animal",
+        "cattle"
+    ]
+}

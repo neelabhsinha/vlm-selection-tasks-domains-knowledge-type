@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 103210,
+    "image_path": "./experimental_dataset/test/images/VQAv2_103210.png",
+    "question": "Where is the dog?",
+    "label": [
+        "couch",
+        "couch",
+        "on couch",
+        "on couch",
+        "resting",
+        "on couch",
+        "by cat",
+        "couch",
+        "couch",
+        "next to cat"
+    ]
+}

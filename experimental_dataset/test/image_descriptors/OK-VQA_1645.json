@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1645,
+    "caption": "a man standing in front of a group of people",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "tree",
+        "man",
+        "footwear",
+        "jeans",
+        "boy",
+        "woman",
+        "girl",
+        "people",
+        "grass"
+    ]
+}

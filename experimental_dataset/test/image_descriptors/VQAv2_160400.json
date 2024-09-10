@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 160400,
+    "caption": "a man and a woman playing a game with nintendo wii controllers",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "smile",
+        "dance",
+        "wall",
+        "shoulder",
+        "man",
+        "elbow",
+        "joint",
+        "indoor",
+        "holding",
+        "game",
+        "standing",
+        "people"
+    ]
+}

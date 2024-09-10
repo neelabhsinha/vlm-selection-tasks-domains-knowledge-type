@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1620,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1620.png",
+    "question": "What was the average marginal cost per mile for freight trucking in 2018?",
+    "label": [
+        "1.82"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 550,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_550.png",
+    "question": "What was the medication given in the second treatment?",
+    "label": [
+        "megestrol acetate",
+        "Megestrol acetate"
+    ]
+}

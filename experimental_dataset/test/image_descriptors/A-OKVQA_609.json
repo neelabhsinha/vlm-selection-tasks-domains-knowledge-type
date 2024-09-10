@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 609,
+    "caption": "a man holding a bunch of bananas in his hands",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "tree",
+        "clothing",
+        "human face",
+        "smile",
+        "man",
+        "food",
+        "fruit",
+        "banana"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2199,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2199.png",
+    "question": "What was the total production of tree nuts in 2018/2019?",
+    "label": [
+        "4.44"
+    ]
+}

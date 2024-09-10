@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1262,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Law",
+        "Government and Politics"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge"
+    ]
+}

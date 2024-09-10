@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1766,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1766.png",
+    "question": "What is the recommended maximum residue limit of diquat on Eggs?",
+    "label": [
+        "0.01"
+    ]
+}

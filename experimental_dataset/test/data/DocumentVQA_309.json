@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 309,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_309.png",
+    "question": "What is the designation of Mr. N. V. Joshi?",
+    "label": [
+        "whole time director",
+        "Whole Time Director"
+    ]
+}

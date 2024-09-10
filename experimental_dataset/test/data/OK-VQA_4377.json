@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4377,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4377.png",
+    "question": "What hygiene task could i accomplish here?",
+    "label": [
+        "handwashing",
+        "handwashing",
+        "brush teeth",
+        "brush teeth",
+        "bath",
+        "bath",
+        "bath",
+        "bath",
+        "wash",
+        "wash"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 132,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_132.png",
+    "question": "What type of birds are these?",
+    "label": "['seagulls', 'seagulls', 'seagulls', 'seagulls', 'seagulls', 'aquatic', 'seagulls', 'seagulls', 'seagulls', 'seagulls']",
+    "choices": [
+        "captive",
+        "desert",
+        "arctic",
+        "aquatic"
+    ],
+    "correct_choice": "aquatic"
+}

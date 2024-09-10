@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 255,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_255.png",
+    "question": "what is the exit date from china  ?",
+    "label": [
+        "may 2, 1978",
+        "May 2, 1978."
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 151684,
+    "caption": "a computer mouse sitting on top of a desk",
+    "object_tags": [
+        "computer mouse",
+        "indoor",
+        "input device",
+        "peripheral",
+        "mouse",
+        "electronic device",
+        "computer component",
+        "office equipment",
+        "personal computer hardware",
+        "table",
+        "electronics",
+        "computer",
+        "computer hardware",
+        "sitting",
+        "keyboard"
+    ]
+}

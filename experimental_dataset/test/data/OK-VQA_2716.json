@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2716,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2716.png",
+    "question": "What might have knocked the child over?",
+    "label": [
+        "wave",
+        "wave",
+        "wave",
+        "wave",
+        "wave",
+        "wave",
+        "wave",
+        "wave",
+        "big wave",
+        "big wave"
+    ]
+}

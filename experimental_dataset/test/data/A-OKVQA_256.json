@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 256,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_256.png",
+    "question": "Where is the horse currently located?",
+    "label": "['barn', 'stable', 'barn', 'barn', 'stable', 'barn', 'stable', 'barn', 'barn', 'barn']",
+    "choices": [
+        "barn",
+        "farm",
+        "house",
+        "field"
+    ],
+    "correct_choice": "barn"
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1016,
+    "caption": "a table topped with plates of food and vegetables",
+    "object_tags": [
+        "food",
+        "plate",
+        "table",
+        "dish",
+        "tableware",
+        "cuisine",
+        "brunch",
+        "platter",
+        "lunch",
+        "outdoor",
+        "fast food",
+        "supper",
+        "snack",
+        "vegetable",
+        "fork",
+        "kitchen utensil",
+        "dishware",
+        "dinner",
+        "picnic",
+        "meal",
+        "breakfast"
+    ]
+}

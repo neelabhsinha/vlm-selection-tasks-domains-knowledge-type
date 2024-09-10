@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2348,
+    "caption": "a large truck driving down a dirt road",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "ground",
+        "truck",
+        "transport",
+        "aeolian landform",
+        "tire",
+        "singing sand",
+        "beach",
+        "people",
+        "desert",
+        "sand",
+        "sandy"
+    ]
+}

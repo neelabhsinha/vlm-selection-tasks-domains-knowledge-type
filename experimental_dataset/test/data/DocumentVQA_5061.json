@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5061,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5061.png",
+    "question": "What is the standard form no.?",
+    "label": [
+        "1035a"
+    ]
+}

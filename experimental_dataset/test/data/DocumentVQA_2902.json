@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2902,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2902.png",
+    "question": "When is the third  Marabou Conference?",
+    "label": [
+        "AUGUST 30, 1975",
+        "August 30, 1975"
+    ]
+}

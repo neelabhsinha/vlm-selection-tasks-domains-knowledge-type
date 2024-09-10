@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3624,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3624.png",
+    "question": "What style of bathtub is near the window?",
+    "label": [
+        "clawfoot",
+        "clawfoot",
+        "clawfoot",
+        "clawfoot",
+        "western style",
+        "western style",
+        "stand alone",
+        "stand alone",
+        "soaker",
+        "soaker"
+    ]
+}

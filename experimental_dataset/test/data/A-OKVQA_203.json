@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 203,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_203.png",
+    "question": "Why is the cow tied to the pole?",
+    "label": "['prevent escape', 'security', 'for protection', 'hold', 'keep there', 'to restrain', 'prevent wandering', 'control movement', 'owner inside', 'prevent escape']",
+    "choices": [
+        "to hit",
+        "to kill",
+        "to ride",
+        "to restrain"
+    ],
+    "correct_choice": "to restrain"
+}

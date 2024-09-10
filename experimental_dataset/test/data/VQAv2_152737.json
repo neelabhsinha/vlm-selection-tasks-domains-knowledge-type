@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 152737,
+    "image_path": "./experimental_dataset/test/images/VQAv2_152737.png",
+    "question": "Where is this kid at?",
+    "label": [
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "kitchen",
+        "bed",
+        "bathroom",
+        "bathroom",
+        "bathroom"
+    ]
+}

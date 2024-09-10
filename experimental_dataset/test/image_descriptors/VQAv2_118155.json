@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 118155,
+    "caption": "a white plate topped with a bowl of soup next to a cup of coffee",
+    "object_tags": [
+        "food",
+        "plate",
+        "meal",
+        "tableware",
+        "table",
+        "dish",
+        "dishware",
+        "serveware",
+        "kitchen utensil",
+        "bread",
+        "breakfast",
+        "platter",
+        "brunch",
+        "cuisine",
+        "saucer",
+        "fast food",
+        "fork",
+        "silverware",
+        "spoon",
+        "indoor",
+        "full breakfast",
+        "snack",
+        "baked goods",
+        "ingredient",
+        "kitchenware",
+        "cup"
+    ]
+}

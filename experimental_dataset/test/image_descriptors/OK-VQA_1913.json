@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1913,
+    "caption": "a man brushing his teeth with a toothbrush",
+    "object_tags": [
+        "person",
+        "tree",
+        "outdoor",
+        "car",
+        "human face",
+        "vehicle",
+        "clothing",
+        "land vehicle",
+        "man",
+        "human beard",
+        "eating"
+    ]
+}

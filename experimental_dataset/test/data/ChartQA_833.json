@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 833,
+    "image_path": "./experimental_dataset/test/images/ChartQA_833.png",
+    "question": "In how many years the growth rate is below 18%?",
+    "label": [
+        "7"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 19765,
+    "caption": "three women dressed in black and white holding umbrellas",
+    "object_tags": [
+        "person",
+        "clothing",
+        "fashion accessory",
+        "outdoor",
+        "human face",
+        "smile",
+        "woman",
+        "female person",
+        "standing",
+        "girl"
+    ]
+}

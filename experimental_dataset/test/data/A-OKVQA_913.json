@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 913,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_913.png",
+    "question": "What is sitting next to the sandwich in a bowl?",
+    "label": "['cole slaw', 'cole slaw', 'salad', 'food', 'cole slaw', 'coleslaw', 'cole slaw', 'salad', 'salad', 'salad']",
+    "choices": [
+        "salad",
+        "sauce",
+        "fruit",
+        "dessert"
+    ],
+    "correct_choice": "salad"
+}

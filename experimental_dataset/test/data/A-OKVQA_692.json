@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 692,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_692.png",
+    "question": "What company made the box that is near the far wall?",
+    "label": "['usps', 'usps', 'usps', 'ups', 'postal office', 'usps', 'usps', 'usps', 'usps', 'ups']",
+    "choices": [
+        "fed ex",
+        "usps",
+        "geico",
+        "amazon"
+    ],
+    "correct_choice": "usps"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 751,
+    "image_path": "./experimental_dataset/test/images/ChartQA_751.png",
+    "question": "What is the difference between the highest and lowest value for the exchange rate of the Singapore dollar to the U.S. dollar between 2009 and 2020",
+    "label": [
+        "0.2"
+    ]
+}

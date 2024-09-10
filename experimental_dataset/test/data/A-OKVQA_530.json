@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 530,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_530.png",
+    "question": "Which person is telling us their occupation?",
+    "label": "['clown', 'clown', 'clown', 'clown', 'clown', 'directions', 'clown', 'clown', 'clown', 'clown']",
+    "choices": [
+        "doctor",
+        "nurse",
+        "clown",
+        "teacher"
+    ],
+    "correct_choice": "clown"
+}

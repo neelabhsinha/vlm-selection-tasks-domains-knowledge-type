@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 22765,
+    "caption": "two women sitting at a table with plates of food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "tableware",
+        "human face",
+        "indoor",
+        "wall",
+        "plate",
+        "fashion accessory",
+        "flower",
+        "serveware",
+        "tablecloth",
+        "dishware",
+        "centrepiece",
+        "saucer",
+        "platter",
+        "woman",
+        "food",
+        "sitting",
+        "hat",
+        "table",
+        "girl",
+        "party"
+    ]
+}

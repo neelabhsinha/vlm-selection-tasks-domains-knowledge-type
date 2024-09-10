@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 192211,
+    "image_path": "./experimental_dataset/test/images/VQAv2_192211.png",
+    "question": "What is the floor made of?",
+    "label": [
+        "tile",
+        "tile",
+        "marble",
+        "tile",
+        "tile",
+        "carpet",
+        "linoleum",
+        "cement",
+        "tile",
+        "textile"
+    ]
+}

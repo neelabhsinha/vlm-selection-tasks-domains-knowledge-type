@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 257,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_257.png",
+    "question": "What is the person on this vase doing?",
+    "label": "['riding chariot', 'riding chariot', 'riding chariot', 'riding chariot', 'riding chariot', 'riding chariot', 'riding chariot', 'riding chariot', 'riding chariot', 'chariot racing']",
+    "choices": [
+        "fighting",
+        "chariot racing",
+        "horse training",
+        "horse theft"
+    ],
+    "correct_choice": "chariot racing"
+}

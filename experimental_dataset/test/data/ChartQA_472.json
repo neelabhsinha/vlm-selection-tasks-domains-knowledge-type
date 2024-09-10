@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 472,
+    "image_path": "./experimental_dataset/test/images/ChartQA_472.png",
+    "question": "Find missing data- 6, 16, 14, __, 16, 22",
+    "label": [
+        "18"
+    ]
+}

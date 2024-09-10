@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 18975,
+    "caption": "a man in a kitchen preparing food on a stove",
+    "object_tags": [
+        "person",
+        "indoor",
+        "kitchen appliance",
+        "kitchen",
+        "cookware and bakeware",
+        "countertop",
+        "wall",
+        "home appliance",
+        "food",
+        "gas stove",
+        "food processing",
+        "cook",
+        "clothing",
+        "kitchen stove",
+        "cooktop",
+        "cooking",
+        "stove",
+        "standing",
+        "kitchenware",
+        "preparing",
+        "oven",
+        "pan"
+    ]
+}

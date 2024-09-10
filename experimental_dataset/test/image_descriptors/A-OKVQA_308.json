@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 308,
+    "caption": "a man standing next to a man holding a surfboard",
+    "object_tags": [
+        "person",
+        "clothing",
+        "wall",
+        "human face",
+        "man",
+        "indoor"
+    ]
+}

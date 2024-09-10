@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2386,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2386.png",
+    "question": "How many stores did Williams-Sonoma have worldwide as of January 31, 2021?",
+    "label": [
+        "581"
+    ]
+}

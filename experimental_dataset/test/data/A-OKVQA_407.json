@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 407,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_407.png",
+    "question": "What type of cusuine is presented?",
+    "label": "['vietnamese', 'salad', 'mixed salt', 'chinese', 'thai', 'asian', 'egg rolls', 'asian', 'asian', 'asian']",
+    "choices": [
+        "southern",
+        "jamaican",
+        "gourmet",
+        "asian"
+    ],
+    "correct_choice": "asian"
+}

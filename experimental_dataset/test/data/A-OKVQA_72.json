@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 72,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_72.png",
+    "question": "The name of the street is the same as the last name of what actress?",
+    "label": "['green', 'jessica biel', 'eva green', 'green', 'eva green', 'eva', 'eva green', 'eva green', 'signal', 'michelle green']",
+    "choices": [
+        "eva mendes",
+        "jessica biel",
+        "eva green",
+        "jessica alba"
+    ],
+    "correct_choice": "jessica biel"
+}

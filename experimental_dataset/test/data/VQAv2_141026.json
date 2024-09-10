@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 141026,
+    "image_path": "./experimental_dataset/test/images/VQAv2_141026.png",
+    "question": "What is the person carrying?",
+    "label": [
+        "skis",
+        "poles",
+        "ski poles",
+        "skis",
+        "skis",
+        "poles",
+        "skis",
+        "poles",
+        "skis",
+        "skis"
+    ]
+}

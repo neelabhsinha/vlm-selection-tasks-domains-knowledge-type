@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 807,
+    "caption": "a bird sitting on top of a banana tree",
+    "object_tags": [
+        "animal",
+        "tree",
+        "outdoor",
+        "bird",
+        "perched",
+        "sitting",
+        "branch"
+    ]
+}

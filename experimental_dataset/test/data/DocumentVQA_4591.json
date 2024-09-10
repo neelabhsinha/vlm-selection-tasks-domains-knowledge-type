@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4591,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4591.png",
+    "question": "What does ILSI stand for ?",
+    "label": [
+        "international life sciences institute",
+        "International life sciences institute"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4583,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4583.png",
+    "question": "What country is often credited with the invention of this type of food?",
+    "label": [
+        "italy",
+        "italy",
+        "italy",
+        "italy",
+        "italy",
+        "italy",
+        "italy",
+        "italy",
+        "italy",
+        "italy"
+    ]
+}

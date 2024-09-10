@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 211,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_211.png",
+    "question": "What is hanging on the right wall next the desk?",
+    "label": "['jackets', 'jackets', 'coat', 'machine', 'coats', 'jackets', 'coats', 'jackets', 'jackets', 'jackets']",
+    "choices": [
+        "towels",
+        "diplomas",
+        "pictures",
+        "coats"
+    ],
+    "correct_choice": "coats"
+}

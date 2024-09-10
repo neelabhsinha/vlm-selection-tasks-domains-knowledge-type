@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 220,
+    "caption": "a car parked on the side of a road next to a truck",
+    "object_tags": [
+        "land vehicle",
+        "outdoor",
+        "vehicle",
+        "wheel",
+        "sky",
+        "tree",
+        "road",
+        "car",
+        "vehicle registration plate",
+        "transport",
+        "van",
+        "mode of transport",
+        "automotive parking light",
+        "motor vehicle",
+        "street",
+        "family car",
+        "traffic",
+        "red",
+        "driving",
+        "parked",
+        "truck",
+        "city"
+    ]
+}

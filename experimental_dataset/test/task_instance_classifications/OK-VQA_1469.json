@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1469,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Nutrition and Food",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge",
+        "Cultural Knowledge"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1003,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1003.png",
+    "question": "Whose name is given in the \"name\" filed of this expense report?",
+    "label": [
+        "William J. Darby",
+        "william j. darby"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 208868,
+    "image_path": "./experimental_dataset/test/images/VQAv2_208868.png",
+    "question": "Is the teams name on the shirt?",
+    "label": [
+        "yes",
+        "rays",
+        "yes",
+        "yes",
+        "devil rays",
+        "devil rays",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

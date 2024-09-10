@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 372,
+    "caption": "a room filled with tables and chairs filled with desks",
+    "object_tags": [
+        "indoor",
+        "office building",
+        "wall",
+        "furniture",
+        "computer",
+        "course",
+        "conference hall",
+        "meeting",
+        "whiteboard",
+        "person",
+        "table",
+        "office chair",
+        "laptop",
+        "chair",
+        "desk",
+        "people"
+    ]
+}

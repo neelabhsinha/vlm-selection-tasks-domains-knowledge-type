@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 142365,
+    "image_path": "./experimental_dataset/test/images/VQAv2_142365.png",
+    "question": "What are these people using to float?",
+    "label": [
+        "bodyboards",
+        "surfboards",
+        "surfboards",
+        "surfboard",
+        "surfboards",
+        "boogie boards",
+        "board",
+        "surfboard",
+        "boogie boards",
+        "surfboard"
+    ]
+}

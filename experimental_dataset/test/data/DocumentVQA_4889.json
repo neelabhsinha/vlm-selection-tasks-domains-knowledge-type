@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4889,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4889.png",
+    "question": "what is the amount for  Consultation services ?",
+    "label": [
+        "6,000.00",
+        "$6,000.00"
+    ]
+}

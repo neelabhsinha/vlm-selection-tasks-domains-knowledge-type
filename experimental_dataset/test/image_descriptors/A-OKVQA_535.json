@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 535,
+    "caption": "motorcycles parked next to each other in a parking lot",
+    "object_tags": [
+        "land vehicle",
+        "wheel",
+        "sky",
+        "outdoor",
+        "tire",
+        "auto part",
+        "parked",
+        "motor vehicle",
+        "mode of transport",
+        "transport",
+        "ground",
+        "car",
+        "vehicle",
+        "lined",
+        "parking",
+        "jeep",
+        "travel"
+    ]
+}

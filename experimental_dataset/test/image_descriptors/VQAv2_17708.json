@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 17708,
+    "caption": "a living room filled with furniture and a stove",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "floor",
+        "cabinetry",
+        "interior design",
+        "flooring",
+        "house",
+        "ceiling",
+        "countertop",
+        "laminate flooring",
+        "furniture",
+        "home appliance",
+        "wood flooring",
+        "cupboard",
+        "sink",
+        "home",
+        "kitchen",
+        "room",
+        "refrigerator"
+    ]
+}

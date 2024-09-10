@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4967,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4967.png",
+    "question": "What is the publishing date of 'Food and Nutrition Board'?",
+    "label": [
+        "December 1954"
+    ]
+}

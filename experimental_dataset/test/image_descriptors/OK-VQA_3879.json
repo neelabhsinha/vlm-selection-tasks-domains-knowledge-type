@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3879,
+    "caption": "a pizza sitting on top of a wooden cutting board",
+    "object_tags": [
+        "food",
+        "fast food",
+        "pizza",
+        "italian food",
+        "indoor",
+        "vegetable",
+        "cuisine",
+        "flatbread",
+        "california-style pizza",
+        "pizza cheese",
+        "broccoli",
+        "recipe",
+        "dish",
+        "ingredient",
+        "table",
+        "cheese"
+    ]
+}

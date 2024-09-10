@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1087,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1087.png",
+    "question": "What competition is this?",
+    "label": [
+        "kite",
+        "kite",
+        "kite",
+        "kite",
+        "kite fly",
+        "kite fly",
+        "kite",
+        "kite",
+        "kiteflying",
+        "kiteflying"
+    ]
+}

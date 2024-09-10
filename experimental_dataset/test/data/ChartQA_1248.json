@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1248,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1248.png",
+    "question": "Which year has lowest Share of individuals who downloaded purchased media online in Great Britain in 2013 and 2014, by type of media?",
+    "label": [
+        "2013"
+    ]
+}

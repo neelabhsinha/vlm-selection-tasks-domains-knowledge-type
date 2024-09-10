@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 165023,
+    "caption": "a sandwich and a cup of coffee on a table",
+    "object_tags": [
+        "table",
+        "camera",
+        "indoor",
+        "snack",
+        "plate",
+        "baked goods",
+        "tableware",
+        "food",
+        "cup",
+        "dessert",
+        "sitting",
+        "coffee",
+        "person",
+        "drink"
+    ]
+}

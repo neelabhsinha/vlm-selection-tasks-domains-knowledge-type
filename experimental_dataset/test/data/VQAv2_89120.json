@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 89120,
+    "image_path": "./experimental_dataset/test/images/VQAv2_89120.png",
+    "question": "How many tiles are behind the toilet?",
+    "label": [
+        "17",
+        "16",
+        "20",
+        "16",
+        "20",
+        "16",
+        "16",
+        "16",
+        "16",
+        "12"
+    ]
+}

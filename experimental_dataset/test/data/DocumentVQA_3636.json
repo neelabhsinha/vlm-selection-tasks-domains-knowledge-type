@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3636,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3636.png",
+    "question": "From where do majority of the people get information about passive smoking?",
+    "label": [
+        "Television",
+        "Television (20% of Sample)"
+    ]
+}

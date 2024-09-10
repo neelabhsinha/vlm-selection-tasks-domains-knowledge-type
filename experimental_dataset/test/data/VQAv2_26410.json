@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 26410,
+    "image_path": "./experimental_dataset/test/images/VQAv2_26410.png",
+    "question": "Is the dog on the boat?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

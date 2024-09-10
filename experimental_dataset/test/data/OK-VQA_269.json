@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 269,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_269.png",
+    "question": "What is causing the circles on the table?",
+    "label": [
+        "plate",
+        "plate",
+        "plate",
+        "plate",
+        "stain",
+        "stain",
+        "shadow",
+        "shadow",
+        "sunlight",
+        "sunlight"
+    ]
+}

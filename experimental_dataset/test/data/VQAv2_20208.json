@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 20208,
+    "image_path": "./experimental_dataset/test/images/VQAv2_20208.png",
+    "question": "Is there a fire?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "maybe",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

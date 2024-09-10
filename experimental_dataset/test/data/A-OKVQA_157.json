@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 157,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_157.png",
+    "question": "Are the people boarding this train?",
+    "label": "['yes', 'yes', 'not yet', 'absolutely no', 'not yet', 'yes', 'not yet', 'yes', 'yes', 'yes']",
+    "choices": [
+        "absolutely no",
+        "probably yes",
+        "probably no",
+        "yes"
+    ],
+    "correct_choice": "absolutely no"
+}

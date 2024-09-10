@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4241,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4241.png",
+    "question": "Who is the president of 'the nutrition foundation, Inc.' ?.",
+    "label": [
+        "William J. Darby",
+        "William J. Darby, m.d., ph.d."
+    ]
+}

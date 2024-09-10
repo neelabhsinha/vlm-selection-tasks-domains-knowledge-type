@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 169492,
+    "image_path": "./experimental_dataset/test/images/VQAv2_169492.png",
+    "question": "How many people are under the umbrella?",
+    "label": [
+        "1",
+        "2",
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

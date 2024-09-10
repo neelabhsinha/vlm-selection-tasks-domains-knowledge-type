@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 107680,
+    "image_path": "./experimental_dataset/test/images/VQAv2_107680.png",
+    "question": "What time does the clock show?",
+    "label": [
+        "2:09",
+        "2:04",
+        "2:04",
+        "2:04",
+        "2:04",
+        "2:05",
+        "2:04",
+        "2:04",
+        "2:04",
+        "2:04"
+    ]
+}

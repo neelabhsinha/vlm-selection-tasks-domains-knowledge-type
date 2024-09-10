@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 612,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_612.png",
+    "question": "What is the likely ethnicity of the man?",
+    "label": "['asian', 'asian', 'asian', 'asian', 'japanese', 'asian', 'chinese', 'white', 'asian', 'japanese']",
+    "choices": [
+        "japanese",
+        "korean",
+        "indian",
+        "chinese"
+    ],
+    "correct_choice": "japanese"
+}

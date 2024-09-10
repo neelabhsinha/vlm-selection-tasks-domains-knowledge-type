@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1730,
+    "caption": "a poster with a picture of a group of people on it",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "letter",
+        "human face",
+        "signature",
+        "calligraphy",
+        "stationary",
+        "envelope"
+    ]
+}

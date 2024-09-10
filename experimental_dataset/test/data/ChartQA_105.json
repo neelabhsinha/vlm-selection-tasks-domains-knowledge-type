@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 105,
+    "image_path": "./experimental_dataset/test/images/ChartQA_105.png",
+    "question": "For how many years was the viewership of MSNBC more than 12?",
+    "label": [
+        "2"
+    ]
+}

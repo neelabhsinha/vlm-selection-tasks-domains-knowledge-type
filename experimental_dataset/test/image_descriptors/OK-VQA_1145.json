@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1145,
+    "caption": "a street filled with lots of traffic at night",
+    "object_tags": [
+        "outdoor",
+        "street",
+        "street light",
+        "vehicle",
+        "land vehicle",
+        "building",
+        "light",
+        "road",
+        "night",
+        "electricity",
+        "thoroughfare",
+        "car",
+        "city",
+        "way",
+        "traffic"
+    ]
+}

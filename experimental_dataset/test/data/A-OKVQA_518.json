@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 518,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_518.png",
+    "question": "What is flying in the sky?",
+    "label": "['airplanes', 'jets', 'jets', 'jets', 'airplanes', 'airplanes', 'planes', 'fighter jets', 'jets', 'planes']",
+    "choices": [
+        "helicopters",
+        "kites",
+        "birds",
+        "fighter jets"
+    ],
+    "correct_choice": "fighter jets"
+}

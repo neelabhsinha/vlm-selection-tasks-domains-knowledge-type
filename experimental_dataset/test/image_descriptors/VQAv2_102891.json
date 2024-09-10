@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 102891,
+    "caption": "sheep standing on top of a lush green field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "grass",
+        "outdoor",
+        "sheep",
+        "livestock",
+        "herd",
+        "field",
+        "pasture",
+        "herding",
+        "grazing",
+        "standing",
+        "rock"
+    ]
+}

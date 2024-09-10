@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1592,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1592.png",
+    "question": "What was the second leading cause of death among state prisoners in 2018?",
+    "label": [
+        "Heart disease"
+    ]
+}

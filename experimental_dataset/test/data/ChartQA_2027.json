@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2027,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2027.png",
+    "question": "What was the share of the population older than 65 in Vietnam in 2020?",
+    "label": [
+        "7.9"
+    ]
+}

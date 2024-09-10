@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3281,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3281.png",
+    "question": "What is species of cow lives on this farm?",
+    "label": [
+        "longhorn",
+        "longhorn",
+        "longhorn",
+        "longhorn",
+        "bull",
+        "bull",
+        "simmental",
+        "simmental",
+        "taurus",
+        "taurus"
+    ]
+}

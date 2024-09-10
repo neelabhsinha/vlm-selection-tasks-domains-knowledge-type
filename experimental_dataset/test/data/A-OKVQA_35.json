@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 35,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_35.png",
+    "question": "What sport game is the man playing?",
+    "label": "['boxing', 'boxing', 'boxing', 'boxing', 'boxing', 'wii sports', 'boxing', 'wii', 'wii boxing', 'boxing']",
+    "choices": [
+        "wii boxing",
+        "wii baseball",
+        "wii football",
+        "wii tennis"
+    ],
+    "correct_choice": "wii boxing"
+}

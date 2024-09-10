@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 44,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_44.png",
+    "question": "What is the orange container on the left near the man in the red shirt used for?",
+    "label": "['cooler', 'drinks', 'drinks', 'drinks', 'drinks', 'cooler', 'storage', 'cooler', 'cooler', 'drinks']",
+    "choices": [
+        "training",
+        "keeping score",
+        "batting",
+        "storage"
+    ],
+    "correct_choice": "storage"
+}

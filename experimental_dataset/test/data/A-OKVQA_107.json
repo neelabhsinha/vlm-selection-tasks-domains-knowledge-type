@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 107,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_107.png",
+    "question": "What did the man use to get into the air?",
+    "label": "['kite', 'parasail', 'wind', 'parasail', 'wind', 'handle', 'sail', 'boat engine', 'parachute', 'kite']",
+    "choices": [
+        "kite",
+        "blimp",
+        "balloon",
+        "plane"
+    ],
+    "correct_choice": "kite"
+}

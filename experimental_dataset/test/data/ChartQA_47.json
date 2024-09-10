@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 47,
+    "image_path": "./experimental_dataset/test/images/ChartQA_47.png",
+    "question": "In which year the difference between Bad and Good graph is minimum?",
+    "label": [
+        "2019"
+    ]
+}

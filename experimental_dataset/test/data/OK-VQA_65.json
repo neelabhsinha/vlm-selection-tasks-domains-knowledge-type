@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 65,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_65.png",
+    "question": "Which airline has this insignia?",
+    "label": [
+        "kuwait airway",
+        "kuwait airway",
+        "kuwait airway",
+        "kuwait airway",
+        "united",
+        "united",
+        "delta",
+        "delta",
+        "twa",
+        "twa"
+    ]
+}

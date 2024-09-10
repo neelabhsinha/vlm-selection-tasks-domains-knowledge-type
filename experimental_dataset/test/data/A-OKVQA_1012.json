@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1012,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1012.png",
+    "question": "What ingredient is used first on the pizza?",
+    "label": "['sauce', 'crust', 'cheese', 'tomato sauce', 'sauce', 'sauce', 'tomato sauce', 'dough', 'sauce', 'tomato sauce']",
+    "choices": [
+        "pepperoni",
+        "sauce",
+        "cheese",
+        "oregano"
+    ],
+    "correct_choice": "sauce"
+}

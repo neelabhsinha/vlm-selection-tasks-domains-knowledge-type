@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 350,
+    "caption": "two men standing next to each other in a room",
+    "object_tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "wall",
+        "man",
+        "computer",
+        "standing",
+        "room",
+        "game",
+        "people",
+        "controller",
+        "ceiling",
+        "remote"
+    ]
+}

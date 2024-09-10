@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 38,
+    "image_path": "./experimental_dataset/test/images/ChartQA_38.png",
+    "question": "How many categories are there in the chart??",
+    "label": [
+        "4"
+    ]
+}

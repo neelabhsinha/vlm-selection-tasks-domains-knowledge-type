@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 81099,
+    "image_path": "./experimental_dataset/test/images/VQAv2_81099.png",
+    "question": "What breed of dogs is that?",
+    "label": [
+        "mutt",
+        "golden retriever",
+        "lab",
+        "lab",
+        "lab",
+        "lab",
+        "lab",
+        "golden lab mix",
+        "golden retriever",
+        "labrador"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 823,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_823.png",
+    "question": "What does the unshaded bar represent?",
+    "label": [
+        "Pre-Exp",
+        "Pre-exp",
+        "Pre-exposure"
+    ]
+}

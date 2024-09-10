@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 961,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_961.png",
+    "question": "What style of cuisine is being served?",
+    "label": "['japanese', 'chinese', 'asian', 'chinese', 'asian', 'stirfry', 'chinese', 'chinese', 'chinese', 'asian']",
+    "choices": [
+        "italian",
+        "mexican",
+        "asian",
+        "russian"
+    ],
+    "correct_choice": "asian"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 596,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_596.png",
+    "question": "What type of water are the geese floating in?",
+    "label": "['pond', 'lake', 'river', 'pond', 'fresh', 'lake', 'pond', 'pond', 'fresh water', 'fresh']",
+    "choices": [
+        "salt",
+        "still",
+        "brackish",
+        "fresh"
+    ],
+    "correct_choice": "fresh"
+}

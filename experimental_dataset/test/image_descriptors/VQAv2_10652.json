@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 10652,
+    "caption": "a crowd of people flying kites in a field",
+    "object_tags": [
+        "outdoor",
+        "kite",
+        "sky",
+        "people",
+        "person",
+        "grass",
+        "crowd",
+        "tourism",
+        "clothing",
+        "group",
+        "field",
+        "ground",
+        "crowded",
+        "beach",
+        "standing",
+        "festival"
+    ]
+}

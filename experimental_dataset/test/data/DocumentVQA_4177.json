@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4177,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4177.png",
+    "question": "Who is the Prof. at Vanderbilt University, to whom correspondence are to be addressed?",
+    "label": [
+        "Dr. Greene",
+        "Harry greene"
+    ]
+}

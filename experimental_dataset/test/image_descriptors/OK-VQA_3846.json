@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3846,
+    "caption": "a bathroom with a tub, sink, toilet and window",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "room",
+        "interior design",
+        "plumbing fixture",
+        "tap",
+        "sink",
+        "countertop",
+        "cabinetry",
+        "house",
+        "bathroom accessory",
+        "shower",
+        "floor",
+        "mirror",
+        "plumbing",
+        "window",
+        "bathroom",
+        "tub",
+        "bathtub",
+        "home",
+        "tile",
+        "kitchen",
+        "renovation"
+    ]
+}

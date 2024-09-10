@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2459,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2459.png",
+    "question": "Where is this building located?",
+    "label": [
+        "europe",
+        "europe",
+        "europe",
+        "europe",
+        "london",
+        "london",
+        "england",
+        "england",
+        "left",
+        "left"
+    ]
+}

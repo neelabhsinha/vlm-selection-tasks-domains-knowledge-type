@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 747,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_747.png",
+    "question": "How fast can one of these travel?",
+    "label": [
+        "100 mph",
+        "100 mph",
+        "100 mph",
+        "100 mph",
+        "90 mph",
+        "90 mph",
+        "140mph",
+        "140mph",
+        "75 mph",
+        "75 mph"
+    ]
+}

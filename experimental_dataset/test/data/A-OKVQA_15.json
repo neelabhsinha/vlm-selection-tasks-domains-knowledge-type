@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 15,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_15.png",
+    "question": "What is located on the shelves?",
+    "label": "['books', 'books', 'books', 'books', 'books', 'books', 'books', 'books', 'books', 'books']",
+    "choices": [
+        "books",
+        "dvds",
+        "games",
+        "food"
+    ],
+    "correct_choice": "books"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2172,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2172.png",
+    "question": "How many dogs were kept as pets worldwide in 2018?",
+    "label": [
+        "471"
+    ]
+}

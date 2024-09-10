@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 886,
+    "caption": "a hospital room with a bed and a monitor",
+    "object_tags": [
+        "indoor",
+        "medical equipment",
+        "computer",
+        "wall",
+        "medical",
+        "healthcare",
+        "text",
+        "computer monitor",
+        "hospital",
+        "machine",
+        "room"
+    ]
+}

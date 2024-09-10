@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3657,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3657.png",
+    "question": "What city is this?",
+    "label": [
+        "beijing",
+        "beijing",
+        "beijing",
+        "beijing",
+        "tokyo",
+        "tokyo",
+        "bejing",
+        "bejing",
+        "manilla",
+        "manilla"
+    ]
+}

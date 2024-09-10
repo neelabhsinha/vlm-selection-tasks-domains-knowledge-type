@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 99464,
+    "image_path": "./experimental_dataset/test/images/VQAv2_99464.png",
+    "question": "Is the plant edible?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1557,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1557.png",
+    "question": "What does TK-S denote?",
+    "label": [
+        "Temik scratched in"
+    ]
+}

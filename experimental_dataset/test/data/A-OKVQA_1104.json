@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1104,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1104.png",
+    "question": "What are the zebras standing in?",
+    "label": "['grass', 'three zebras', 'wild animals', 'grass', 'grassy ground', 'forest', 'grass', 'running', 'grass', 'field']",
+    "choices": [
+        "snow",
+        "grass",
+        "water",
+        "sand"
+    ],
+    "correct_choice": "grass"
+}

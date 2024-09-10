@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 544,
+    "image_path": "./experimental_dataset/test/images/ChartQA_544.png",
+    "question": "How many places are mention in the graph?",
+    "label": [
+        "5"
+    ]
+}

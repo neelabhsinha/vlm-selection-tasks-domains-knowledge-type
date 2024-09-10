@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4307,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4307.png",
+    "question": "What is the gestation period for the animal shown here?",
+    "label": [
+        "13 months",
+        "13 months",
+        "13 months",
+        "13 months",
+        "12 months",
+        "12 months",
+        "12 months",
+        "12 months",
+        "1 year",
+        "1 year"
+    ]
+}

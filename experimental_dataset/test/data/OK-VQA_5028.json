@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5028,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5028.png",
+    "question": "What is this kind of truck called?",
+    "label": [
+        "pickup",
+        "pickup",
+        "pickup",
+        "pickup",
+        "pickup truck",
+        "pickup truck",
+        "ford pickup truck",
+        "ford pickup truck",
+        "ford",
+        "ford"
+    ]
+}

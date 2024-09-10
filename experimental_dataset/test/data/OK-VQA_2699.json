@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2699,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2699.png",
+    "question": "What venue in a city is this?",
+    "label": [
+        "market",
+        "market",
+        "market",
+        "market",
+        "farmer market",
+        "farmer market",
+        "farmer market",
+        "farmer market",
+        "festival venue",
+        "festival venue"
+    ]
+}

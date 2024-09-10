@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1853,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1853.png",
+    "question": "What was the leading men's magazine in the UK from April 2019 to March 2020?",
+    "label": [
+        "GQ"
+    ]
+}

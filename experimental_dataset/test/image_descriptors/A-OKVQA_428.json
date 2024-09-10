@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 428,
+    "caption": "a large building with a truck parked in front of it",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "wheel",
+        "sky",
+        "vehicle",
+        "land vehicle",
+        "tire",
+        "road",
+        "truck",
+        "black and white",
+        "white",
+        "fashioned",
+        "parked",
+        "car"
+    ]
+}

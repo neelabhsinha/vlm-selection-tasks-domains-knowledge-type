@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2250,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2250.png",
+    "question": "To whom the \u2018memorandum\u2019 is written?",
+    "label": [
+        "mrs. irene yacalis",
+        "Mrs. Irene Yacalis"
+    ]
+}

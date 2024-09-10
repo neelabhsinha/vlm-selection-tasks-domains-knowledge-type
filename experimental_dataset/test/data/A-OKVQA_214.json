@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 214,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_214.png",
+    "question": "What kind of bus is this?",
+    "label": "['passenger bus', 'passenger bus', 'public', 'public transport', 'tour', 'commuter', 'tata', 'transportation', 'public bus', 'city']",
+    "choices": [
+        "tour bus",
+        "cargo bus",
+        "public transport",
+        "school bus"
+    ],
+    "correct_choice": "public transport"
+}

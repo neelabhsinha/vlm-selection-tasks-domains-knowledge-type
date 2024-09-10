@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 302,
+    "caption": "a person holding an umbrella on a pier",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "lake",
+        "umbrella",
+        "accessory",
+        "blue",
+        "beach",
+        "chair"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4449,
+    "caption": "two people sitting on a ski lift in the snow",
+    "object_tags": [
+        "transport",
+        "ski tow",
+        "person",
+        "outdoor",
+        "snow",
+        "clothing",
+        "winter",
+        "skiing",
+        "footwear",
+        "freezing",
+        "piste",
+        "winter sport",
+        "ski resort",
+        "ski",
+        "tree",
+        "riding",
+        "snowboard",
+        "slope",
+        "people",
+        "mountain",
+        "snowboarding"
+    ]
+}

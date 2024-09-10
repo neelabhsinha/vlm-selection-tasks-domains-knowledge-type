@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 116146,
+    "image_path": "./experimental_dataset/test/images/VQAv2_116146.png",
+    "question": "Who owns this photograph?",
+    "label": [
+        "no one",
+        "rail company",
+        "no one",
+        "no clue",
+        "train company",
+        "photographer",
+        "no idea",
+        "photographer",
+        "tourist",
+        "photographer"
+    ]
+}

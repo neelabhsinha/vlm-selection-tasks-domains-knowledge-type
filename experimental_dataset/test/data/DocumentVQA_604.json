@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 604,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_604.png",
+    "question": "What is the name of the company in the document ?",
+    "label": [
+        "ELI LILLY AND COMPANY"
+    ]
+}

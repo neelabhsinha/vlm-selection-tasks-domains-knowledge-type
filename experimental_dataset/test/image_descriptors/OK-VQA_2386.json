@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2386,
+    "caption": "a white plate topped with a slice of pizza",
+    "object_tags": [
+        "food",
+        "baked goods",
+        "plate",
+        "pizza",
+        "slice",
+        "cuisine",
+        "indoor",
+        "cheese",
+        "plant",
+        "leaf"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 66036,
+    "image_path": "./experimental_dataset/test/images/VQAv2_66036.png",
+    "question": "Can you see the woman's face?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

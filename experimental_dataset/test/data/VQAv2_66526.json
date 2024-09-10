@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 66526,
+    "image_path": "./experimental_dataset/test/images/VQAv2_66526.png",
+    "question": "Where is the window?",
+    "label": [
+        "next to bath tub",
+        "behind bath tub",
+        "above tub",
+        "right corner",
+        "next to tub",
+        "in wall",
+        "left of tub",
+        "by bathtub",
+        "over bathtub",
+        "next to bathtub"
+    ]
+}

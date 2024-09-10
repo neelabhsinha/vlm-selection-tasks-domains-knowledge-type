@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 439,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_439.png",
+    "question": "Where are the people standing?",
+    "label": "['beach', 'shoreline', 'beach', 'beach', 'beach', 'enjoying view', 'log', 'waters edge', 'shore', 'beach']",
+    "choices": [
+        "city street",
+        "park",
+        "theatre",
+        "beach"
+    ],
+    "correct_choice": "beach"
+}

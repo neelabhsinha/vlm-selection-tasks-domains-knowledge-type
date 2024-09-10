@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1097,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1097.png",
+    "question": "Which European region has the maximum difference between the average life expectancy of the two genders?",
+    "label": [
+        "Eastern Europe"
+    ]
+}

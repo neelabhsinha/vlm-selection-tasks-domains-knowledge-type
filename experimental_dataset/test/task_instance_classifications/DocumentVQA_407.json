@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 407,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Economics",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge"
+    ]
+}

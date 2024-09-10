@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1700,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Professions",
+        "Reviews"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Geographical Knowledge",
+        "Social Knowledge"
+    ]
+}

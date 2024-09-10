@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3385,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3385.png",
+    "question": "What will he hit with this implement?",
+    "label": [
+        "tennis ball",
+        "tennis ball",
+        "tennis ball",
+        "tennis ball",
+        "tennis ball",
+        "tennis ball",
+        "tennis ball",
+        "tennis ball",
+        "tennis ball",
+        "tennis ball"
+    ]
+}

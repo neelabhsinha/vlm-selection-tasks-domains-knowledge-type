@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 304,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_304.png",
+    "question": "What is \"IDENTIFICATION NUMBER\"?",
+    "label": [
+        "13-2752467",
+        "13-2752467 cit"
+    ]
+}

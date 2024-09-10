@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1007,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1007.png",
+    "question": "Find the average of all the bars in 2014?",
+    "label": [
+        "32.66"
+    ]
+}

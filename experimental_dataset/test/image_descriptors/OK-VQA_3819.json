@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3819,
+    "caption": "a person is typing on a computer keyboard",
+    "object_tags": [
+        "input device",
+        "indoor",
+        "peripheral",
+        "keyboard",
+        "computer keyboard",
+        "office equipment",
+        "computer component",
+        "electronic device",
+        "computer mouse",
+        "computer hardware",
+        "nail",
+        "space bar",
+        "computer",
+        "personal computer hardware",
+        "person",
+        "mouse",
+        "hand"
+    ]
+}

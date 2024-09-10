@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1000,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1000.png",
+    "question": "Aren't fructose sweetener and corn syrup the same thing?",
+    "label": [
+        "No",
+        "No."
+    ]
+}

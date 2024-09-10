@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2888,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2888.png",
+    "question": "How many non-cand. tested for OB/GYN?",
+    "label": [
+        "0"
+    ]
+}

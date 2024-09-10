@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3684,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3684.png",
+    "question": "what is the number of 2001 program?",
+    "label": [
+        "804638"
+    ]
+}

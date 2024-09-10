@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 41273,
+    "image_path": "./experimental_dataset/test/images/VQAv2_41273.png",
+    "question": "What is the man wearing around his neck?",
+    "label": [
+        "lanyard",
+        "lanyard",
+        "lanyard",
+        "lanyard",
+        "lanyard and tie",
+        "lanyard",
+        "lanyard",
+        "key",
+        "lanyard",
+        "yes"
+    ]
+}

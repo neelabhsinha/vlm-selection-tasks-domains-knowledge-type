@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4320,
+    "caption": "a table with a map of the world",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "number",
+        "black and white",
+        "parallel",
+        "font",
+        "paper",
+        "document"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3927,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3927.png",
+    "question": "What is the brand name of the cell phone being used in this photo?",
+    "label": [
+        "motorola",
+        "motorola",
+        "motorola",
+        "motorola",
+        "motorola",
+        "motorola",
+        "motorola",
+        "motorola",
+        "motorola",
+        "motorola"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 140780,
+    "image_path": "./experimental_dataset/test/images/VQAv2_140780.png",
+    "question": "What color is the rock?",
+    "label": [
+        "brown",
+        "rock",
+        "red",
+        "brown",
+        "brown",
+        "brown",
+        "gray",
+        "red/gray",
+        "red",
+        "block"
+    ]
+}

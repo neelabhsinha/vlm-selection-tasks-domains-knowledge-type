@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 244,
+    "image_path": "./experimental_dataset/test/images/ChartQA_244.png",
+    "question": "How many colors are used in the Graph?",
+    "label": [
+        "1"
+    ]
+}

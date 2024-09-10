@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4022,
+    "caption": "a large orange hanging from a tree",
+    "object_tags": [
+        "tree",
+        "fruit",
+        "outdoor",
+        "citrus",
+        "fruit tree",
+        "calamondin",
+        "produce",
+        "natural foods",
+        "orange",
+        "bitter orange",
+        "citron",
+        "rangpur",
+        "valencia orange",
+        "mandarin orange",
+        "tangerine",
+        "tangelo",
+        "peel",
+        "clementine",
+        "pomelo",
+        "blood orange",
+        "yuzu",
+        "leaf",
+        "branch",
+        "oranges"
+    ]
+}

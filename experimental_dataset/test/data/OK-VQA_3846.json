@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3846,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3846.png",
+    "question": "What chore could you complete in this room in a ddition to bathing?",
+    "label": [
+        "laundry",
+        "laundry",
+        "laundry",
+        "laundry",
+        "laundry",
+        "laundry",
+        "poop",
+        "poop",
+        "brush",
+        "brush"
+    ]
+}

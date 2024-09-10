@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 113114,
+    "image_path": "./experimental_dataset/test/images/VQAv2_113114.png",
+    "question": "What position is the man playing?",
+    "label": [
+        "baseball",
+        "pitcher",
+        "pitcher",
+        "pitcher",
+        "pitcher",
+        "pitcher",
+        "pitcher",
+        "pitcher",
+        "pitcher",
+        "baseman"
+    ]
+}

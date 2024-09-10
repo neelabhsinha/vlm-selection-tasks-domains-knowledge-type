@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 751,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_751.png",
+    "question": "What gear is missing on the child?",
+    "label": "['helmet', 'helmet', 'helmet', 'helmet', 'angrily', 'protection', 'safety', 'helmet', 'helmet', 'helmet']",
+    "choices": [
+        "skates",
+        "coaching",
+        "swimming",
+        "safety"
+    ],
+    "correct_choice": "safety"
+}

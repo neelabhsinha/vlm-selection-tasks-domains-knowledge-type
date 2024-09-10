@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5256,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5256.png",
+    "question": "The per capita consumption of which product has decreased?",
+    "label": [
+        "GRAIN PRODUCTS",
+        "Grain products"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4096,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4096.png",
+    "question": "What is the name of the applicant?",
+    "label": [
+        "Dr. Jean-Pierre Habicht",
+        "Dr. Jean-pierre Habicht"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 169327,
+    "caption": "a large body of water with a mountain range",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "mountain",
+        "loch",
+        "landscape",
+        "reservoir",
+        "lake district",
+        "reflection",
+        "nature",
+        "body of water",
+        "bank",
+        "tree",
+        "water resources",
+        "lake"
+    ]
+}

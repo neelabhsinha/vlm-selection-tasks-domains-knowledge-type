@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4404,
+    "caption": "a giraffe standing on top of a sandy beach",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "sky",
+        "ground",
+        "tree",
+        "wildlife",
+        "terrestrial animal",
+        "cloud",
+        "giraffidae",
+        "plant",
+        "safari",
+        "water",
+        "standing",
+        "giraffe",
+        "nature"
+    ]
+}

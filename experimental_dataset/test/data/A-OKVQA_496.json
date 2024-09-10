@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 496,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_496.png",
+    "question": "This man is likely taking a photo in what type of location?",
+    "label": "['public restroom', 'bathroom', 'bathroom', 'restroom', 'elevator', 'bathroom', 'bathroom', 'public restroom', 'bank', 'bathroom']",
+    "choices": [
+        "vestibule",
+        "bedroom",
+        "bathroom",
+        "office"
+    ],
+    "correct_choice": "bathroom"
+}

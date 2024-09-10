@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 33,
+    "caption": "a woman holding a nintendo wii game controller",
+    "object_tags": [
+        "clothing",
+        "indoor",
+        "person",
+        "footwear",
+        "wall",
+        "ball",
+        "playing",
+        "cleanliness",
+        "floor",
+        "girl",
+        "woman",
+        "game",
+        "standing",
+        "room",
+        "young",
+        "shelf",
+        "people",
+        "school"
+    ]
+}

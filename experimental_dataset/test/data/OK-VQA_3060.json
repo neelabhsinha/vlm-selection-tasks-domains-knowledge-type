@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3060,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3060.png",
+    "question": "Where can i go to see trams like this?",
+    "label": [
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco",
+        "san francisco"
+    ]
+}

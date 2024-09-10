@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1989,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1989.png",
+    "question": "What patterns are shown on the plate?",
+    "label": [
+        "floral",
+        "floral",
+        "floral",
+        "floral",
+        "floral",
+        "floral",
+        "triangle",
+        "triangle",
+        "vine",
+        "vine"
+    ]
+}

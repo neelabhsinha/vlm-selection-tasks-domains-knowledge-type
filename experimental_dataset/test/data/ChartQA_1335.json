@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1335,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1335.png",
+    "question": "How many people in Virginia were Black or African American in 2019?",
+    "label": [
+        "1625942"
+    ]
+}

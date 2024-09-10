@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1619,
+    "caption": "people on a beach flying a kite",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "kite",
+        "beach",
+        "vacation",
+        "ground",
+        "water",
+        "person",
+        "shore",
+        "summer",
+        "tourism",
+        "nature",
+        "people",
+        "sandy",
+        "sand"
+    ]
+}

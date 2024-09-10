@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 51051,
+    "image_path": "./experimental_dataset/test/images/VQAv2_51051.png",
+    "question": "Is the canoe on the train?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

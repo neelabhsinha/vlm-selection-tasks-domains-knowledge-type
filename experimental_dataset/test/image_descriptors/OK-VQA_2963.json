@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2963,
+    "caption": "a cow standing in a grassy field next to a tree",
+    "object_tags": [
+        "grass",
+        "tree",
+        "outdoor",
+        "plant",
+        "animal",
+        "horse",
+        "field",
+        "mammal",
+        "purple"
+    ]
+}

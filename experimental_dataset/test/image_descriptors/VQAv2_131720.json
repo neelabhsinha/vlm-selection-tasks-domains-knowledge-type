@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 131720,
+    "caption": "a wooden bench sitting on top of a lush green field",
+    "object_tags": [
+        "outdoor",
+        "bench",
+        "sky",
+        "outdoor bench",
+        "plant",
+        "grass",
+        "cloud",
+        "street furniture",
+        "furniture",
+        "sitting",
+        "park",
+        "ground",
+        "wooden",
+        "lake",
+        "beach"
+    ]
+}

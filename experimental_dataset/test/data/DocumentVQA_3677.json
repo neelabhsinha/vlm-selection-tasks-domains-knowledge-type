@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3677,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3677.png",
+    "question": "What does A stand for?",
+    "label": [
+        "Analysis"
+    ]
+}

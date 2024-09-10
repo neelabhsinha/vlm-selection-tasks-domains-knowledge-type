@@ -1,0 +1,17 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1003,
+    "caption": "a collage of photographs of a book",
+    "object_tags": [
+        "text",
+        "black and white",
+        "handwriting",
+        "parallel",
+        "diagram",
+        "number",
+        "font",
+        "document",
+        "line",
+        "receipt"
+    ]
+}

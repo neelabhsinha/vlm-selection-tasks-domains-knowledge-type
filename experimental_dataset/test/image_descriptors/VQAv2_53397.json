@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 53397,
+    "caption": "a man eating a hot dog at a baseball game",
+    "object_tags": [
+        "person",
+        "human face",
+        "man",
+        "clothing",
+        "stadium",
+        "eating",
+        "indoor"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 617,
+    "image_path": "./experimental_dataset/test/images/ChartQA_617.png",
+    "question": "How much did inflation decrease between the months October 2018 and November 2018?",
+    "label": [
+        "1"
+    ]
+}

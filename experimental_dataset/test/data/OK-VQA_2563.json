@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2563,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2563.png",
+    "question": "What do you put inside these bags?",
+    "label": [
+        "book",
+        "book",
+        "book",
+        "book",
+        "cloth",
+        "cloth",
+        "cloth",
+        "cloth",
+        "belong",
+        "belong"
+    ]
+}

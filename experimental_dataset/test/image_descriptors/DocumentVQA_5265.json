@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5265,
+    "caption": "a computer screen with a lot of information on it",
+    "object_tags": [
+        "text",
+        "parallel",
+        "black and white",
+        "number",
+        "font",
+        "handwriting",
+        "document",
+        "receipt"
+    ]
+}

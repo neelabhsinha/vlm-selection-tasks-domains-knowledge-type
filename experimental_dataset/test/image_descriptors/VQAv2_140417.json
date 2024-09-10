@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 140417,
+    "caption": "two horses standing next to each other in a field",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "outdoor",
+        "horse",
+        "grass",
+        "tree",
+        "livestock",
+        "mane",
+        "mare",
+        "mustang horse",
+        "plant",
+        "ranch",
+        "grazing",
+        "sorrel",
+        "pony",
+        "field",
+        "foal",
+        "stallion",
+        "herd",
+        "colt",
+        "shetland pony",
+        "standing"
+    ]
+}

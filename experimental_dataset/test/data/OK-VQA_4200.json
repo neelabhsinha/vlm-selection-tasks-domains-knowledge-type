@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4200,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4200.png",
+    "question": "Which road user has right of way?",
+    "label": [
+        "bike",
+        "bike",
+        "bike",
+        "bike",
+        "bicyclist",
+        "bicyclist",
+        "pedestrian",
+        "pedestrian",
+        "bicycle",
+        "bicycle"
+    ]
+}

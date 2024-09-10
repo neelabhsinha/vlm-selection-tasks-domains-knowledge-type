@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 237,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_237.png",
+    "question": "What are these women controlling?",
+    "label": "['game', 'game', 'wii', 'wii', 'wii', 'wii', 'game', 'wii remote', 'wii', 'game']",
+    "choices": [
+        "game",
+        "car",
+        "robot",
+        "plane"
+    ],
+    "correct_choice": "game"
+}

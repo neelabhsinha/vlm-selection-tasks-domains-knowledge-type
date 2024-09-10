@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 1386,
+    "image_path": "./experimental_dataset/test/images/VQAv2_1386.png",
+    "question": "Is there a wooden spoon?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

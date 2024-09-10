@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3653,
+    "caption": "a large white and blue plane sitting on top of a sandy beach",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "plane",
+        "vehicle",
+        "transport",
+        "air travel",
+        "aviation",
+        "grass",
+        "aircraft",
+        "ground",
+        "jet aircraft",
+        "airplane",
+        "aerospace manufacturer",
+        "aerospace engineering",
+        "airport",
+        "airliner",
+        "mountain",
+        "runway",
+        "parked"
+    ]
+}

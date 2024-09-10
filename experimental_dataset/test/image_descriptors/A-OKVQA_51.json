@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 51,
+    "caption": "a man on a skateboard doing a trick",
+    "object_tags": [
+        "outdoor",
+        "sport",
+        "person",
+        "sports equipment",
+        "skateboard",
+        "tree",
+        "building",
+        "street stunts",
+        "footwear",
+        "man",
+        "skateboarding equipment",
+        "street sports",
+        "skateboarder",
+        "riding",
+        "skating",
+        "kickflip",
+        "skatepark",
+        "skateboarding",
+        "skate",
+        "park",
+        "street"
+    ]
+}

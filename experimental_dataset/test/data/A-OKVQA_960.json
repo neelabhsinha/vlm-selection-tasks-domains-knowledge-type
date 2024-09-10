@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 960,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_960.png",
+    "question": "The person opposite the court to the player holding the racquet is preparing to do what?",
+    "label": "['return serve', 'serve ball', 'return serve', 'serve', 'hit ball', 'catch', 'serve', 'serve', 'return serve', 'retrieve ball']",
+    "choices": [
+        "serve",
+        "volley",
+        "lob",
+        "return serve"
+    ],
+    "correct_choice": "return serve"
+}

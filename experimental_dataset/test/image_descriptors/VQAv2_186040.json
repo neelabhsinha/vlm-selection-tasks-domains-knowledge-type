@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 186040,
+    "caption": "a man riding a motorcycle down a street next to a traffic light",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "outdoor",
+        "vehicle",
+        "road",
+        "clothing",
+        "person",
+        "street",
+        "tire",
+        "building",
+        "car",
+        "motorcycle",
+        "traffic",
+        "text",
+        "auto part",
+        "taxi",
+        "man",
+        "mode of transport",
+        "city",
+        "riding",
+        "people",
+        "bike"
+    ]
+}

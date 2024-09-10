@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 177007,
+    "image_path": "./experimental_dataset/test/images/VQAv2_177007.png",
+    "question": "What is being celebrated?",
+    "label": [
+        "birthday",
+        "dinner",
+        "birthday",
+        "birthday",
+        "dinner",
+        "pizza making",
+        "birthday",
+        "birthday",
+        "birthday",
+        "birthday"
+    ]
+}

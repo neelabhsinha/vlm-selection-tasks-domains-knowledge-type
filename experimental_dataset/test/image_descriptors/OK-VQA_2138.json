@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2138,
+    "caption": "a woman standing next to a white horse",
+    "object_tags": [
+        "person",
+        "clothing",
+        "stallion",
+        "mare",
+        "horse supplies",
+        "mane",
+        "ground",
+        "woman",
+        "horse",
+        "standing",
+        "outdoor",
+        "indoor",
+        "girl"
+    ]
+}

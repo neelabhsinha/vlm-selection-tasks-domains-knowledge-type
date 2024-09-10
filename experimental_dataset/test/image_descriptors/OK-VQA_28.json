@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 28,
+    "caption": "a small child is eating a piece of cake",
+    "object_tags": [
+        "person",
+        "clothing",
+        "tableware",
+        "plate",
+        "platter",
+        "pattern",
+        "textile",
+        "table",
+        "bowl",
+        "indoor",
+        "weaving",
+        "striped",
+        "art"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2259,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2259.png",
+    "question": "What was Puma's global revenue in 2020?",
+    "label": [
+        "5.23"
+    ]
+}

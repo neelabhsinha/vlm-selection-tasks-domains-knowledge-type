@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2964,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2964.png",
+    "question": "What is the heading of Table 4?",
+    "label": [
+        "ten of the estrogenic compounds identified and quantified in premarin",
+        "Ten of the estrogenic compounds identified and quantified in Premarin"
+    ]
+}

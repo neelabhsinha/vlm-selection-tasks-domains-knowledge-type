@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1112,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1112.png",
+    "question": "Why is one window outlined in white on the side of the plane?",
+    "label": "['emergency exit', 'escape hatch', 'emergency', 'door', 'blue', 'carriage', 'emergency exit', 'emergency exit', 'emergency', 'airoplane']",
+    "choices": [
+        "emergency exit",
+        "attendant seats",
+        "fake window",
+        "seat reclines"
+    ],
+    "correct_choice": "emergency exit"
+}

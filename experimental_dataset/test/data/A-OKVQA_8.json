@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 8,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_8.png",
+    "question": "What is the person on the left doing with their body?",
+    "label": "['surfing', 'surfing', 'crouching', 'surfing', 'surfing', 'ducking', 'bending', 'crouching', 'surfing', 'surfing']",
+    "choices": [
+        "crouching",
+        "leaping",
+        "flying",
+        "twirling"
+    ],
+    "correct_choice": "crouching"
+}

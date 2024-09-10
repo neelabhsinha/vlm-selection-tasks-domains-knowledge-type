@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3684,
+    "caption": "a woman sitting at a table with a plate of food",
+    "object_tags": [
+        "person",
+        "food",
+        "clothing",
+        "fast food",
+        "outdoor",
+        "table",
+        "meal",
+        "baked goods",
+        "tableware",
+        "brunch",
+        "picnic",
+        "sandwich",
+        "girl"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 19105,
+    "image_path": "./experimental_dataset/test/images/VQAv2_19105.png",
+    "question": "What do the white lines mean?",
+    "label": [
+        "bounds of court",
+        "boundaries",
+        "boundaries",
+        "in field of play",
+        "defines playing surface",
+        "they are boundaries for players to not cross",
+        "boundaries",
+        "do not cross",
+        "in bounds lines",
+        "out of bounds"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1306,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1306.png",
+    "question": "What country accounted for 12 percent of the total global forest area in 2020?",
+    "label": [
+        "Brazil"
+    ]
+}

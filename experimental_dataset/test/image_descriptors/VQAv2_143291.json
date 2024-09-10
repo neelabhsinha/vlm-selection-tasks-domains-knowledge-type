@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 143291,
+    "caption": "a brown and white horse grazing in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "grass",
+        "outdoor",
+        "horse",
+        "terrestrial animal",
+        "mane",
+        "field",
+        "mustang horse",
+        "wildlife",
+        "pony",
+        "pasture",
+        "standing",
+        "sorrel",
+        "mare",
+        "liver",
+        "ranch",
+        "livestock",
+        "snout",
+        "shetland pony",
+        "grazing"
+    ]
+}

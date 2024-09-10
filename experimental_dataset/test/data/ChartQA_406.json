@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 406,
+    "image_path": "./experimental_dataset/test/images/ChartQA_406.png",
+    "question": "Is the starting value of China in the graph greater than 40%?",
+    "label": [
+        "Yes"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 764,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_764.png",
+    "question": "What is the white ingredient on the sandwich?",
+    "label": "['cheese', 'onions', 'onions', 'onion', 'onion', 'onion', 'onion', 'onion', 'onion', 'onion']",
+    "choices": [
+        "onion",
+        "radish",
+        "pepper",
+        "cheese"
+    ],
+    "correct_choice": "onion"
+}

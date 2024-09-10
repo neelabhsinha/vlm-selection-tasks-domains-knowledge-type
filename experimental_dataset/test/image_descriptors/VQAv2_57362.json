@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 57362,
+    "caption": "a bowl of fruit sitting on top of a counter top",
+    "object_tags": [
+        "food",
+        "table",
+        "meal",
+        "tableware",
+        "culinary art",
+        "fruit",
+        "indoor",
+        "juice",
+        "cocktail",
+        "platter",
+        "food group",
+        "glass",
+        "drink"
+    ]
+}

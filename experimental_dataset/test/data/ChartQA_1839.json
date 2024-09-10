@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1839,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1839.png",
+    "question": "What was the average price per kilowatt-hour for households using between 1.000 and 2.500 kWh?",
+    "label": [
+        "30.74"
+    ]
+}

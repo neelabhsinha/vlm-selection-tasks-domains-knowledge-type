@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1875,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1875.png",
+    "question": "How do i adjust the volume?",
+    "label": [
+        "knob",
+        "knob",
+        "knob",
+        "knob",
+        "turn knob",
+        "turn knob",
+        "turn knob",
+        "turn knob",
+        "turn middle knob",
+        "turn middle knob"
+    ]
+}

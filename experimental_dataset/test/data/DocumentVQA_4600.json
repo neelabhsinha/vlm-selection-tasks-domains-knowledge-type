@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4600,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4600.png",
+    "question": "Of the total respondents what percentage use sugar with foods other than beverages?",
+    "label": [
+        "63%",
+        "63"
+    ]
+}

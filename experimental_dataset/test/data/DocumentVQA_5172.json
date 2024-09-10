@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5172,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5172.png",
+    "question": "Who is first in the list ?",
+    "label": [
+        "CHAPLIN HUGH"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4206,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4206.png",
+    "question": "Where might we find these?",
+    "label": [
+        "bakery",
+        "bakery",
+        "bakery",
+        "bakery",
+        "bakery",
+        "bakery",
+        "bakery",
+        "bakery",
+        "bakery",
+        "bakery"
+    ]
+}

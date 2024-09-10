@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 468,
+    "image_path": "./experimental_dataset/test/images/ChartQA_468.png",
+    "question": "What is the colour of\ufffd A lot in the Medical scientists?",
+    "label": [
+        "Dark blue"
+    ]
+}

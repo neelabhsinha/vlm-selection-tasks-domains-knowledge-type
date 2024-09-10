@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 127656,
+    "caption": "a hot dog with ketchup and mustard on a bun",
+    "object_tags": [
+        "food",
+        "fast food",
+        "sandwich",
+        "bread",
+        "american food",
+        "snack food",
+        "baked goods",
+        "hot dog bun",
+        "snack",
+        "dodger dog",
+        "banh ma",
+        "sausage bun",
+        "hotdog",
+        "dog",
+        "outdoor",
+        "bun",
+        "toppings"
+    ]
+}

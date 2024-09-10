@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2362,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2362.png",
+    "question": "In what year did Belize score 0.7 in the gender gap index?",
+    "label": [
+        "2021"
+    ]
+}

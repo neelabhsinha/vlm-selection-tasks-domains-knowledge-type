@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 86,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_86.png",
+    "question": "What is the white cream used for with the other foods?",
+    "label": "['sour cream', 'dip', 'dipping', 'dip', 'dipping', 'dipping', 'dip', 'dip', 'dipping', 'dipping']",
+    "choices": [
+        "drinking",
+        "cooking",
+        "dipping",
+        "heating"
+    ],
+    "correct_choice": "dipping"
+}

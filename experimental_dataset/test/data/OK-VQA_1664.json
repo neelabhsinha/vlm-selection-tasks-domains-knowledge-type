@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1664,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1664.png",
+    "question": "From what source does the yellow glean on the snow come from?",
+    "label": [
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "sun",
+        "people",
+        "people"
+    ]
+}

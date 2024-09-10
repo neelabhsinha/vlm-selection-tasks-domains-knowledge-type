@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 381,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_381.png",
+    "question": "What is the man using?",
+    "label": "['glove', 'oven', 'oven', 'oven', 'oven', 'grill', 'keep food', 'outdoor cooker', 'oven', 'oven']",
+    "choices": [
+        "generator",
+        "oven",
+        "trampoline",
+        "refrigerator"
+    ],
+    "correct_choice": "oven"
+}

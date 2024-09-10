@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 471,
+    "caption": "a black and brown dog standing next to a person",
+    "object_tags": [
+        "dog breed",
+        "dog",
+        "pet",
+        "outdoor",
+        "collar",
+        "ground",
+        "dog collar",
+        "black",
+        "person",
+        "standing"
+    ]
+}

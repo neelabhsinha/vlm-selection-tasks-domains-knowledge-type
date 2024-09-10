@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 176605,
+    "image_path": "./experimental_dataset/test/images/VQAv2_176605.png",
+    "question": "Is this a gluten free meal?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes"
+    ]
+}

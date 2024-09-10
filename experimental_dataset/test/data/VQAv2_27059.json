@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 27059,
+    "image_path": "./experimental_dataset/test/images/VQAv2_27059.png",
+    "question": "What color is the man's jacket?",
+    "label": [
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue and greens"
+    ]
+}

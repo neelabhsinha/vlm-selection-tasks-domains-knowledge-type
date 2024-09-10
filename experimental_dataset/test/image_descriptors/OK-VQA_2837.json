@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2837,
+    "caption": "a police officer riding a motorcycle on a city street",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "vehicle",
+        "land vehicle",
+        "motorcycle",
+        "street",
+        "building",
+        "wheel",
+        "asphalt",
+        "person",
+        "lane",
+        "police",
+        "tarmac",
+        "road surface",
+        "thoroughfare",
+        "motorcycle helmet",
+        "officer",
+        "city",
+        "people"
+    ]
+}

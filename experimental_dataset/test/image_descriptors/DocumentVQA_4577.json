@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4577,
+    "caption": "a black and white photo of a black and white cow",
+    "object_tags": [
+        "text",
+        "mammal",
+        "newspaper",
+        "cartoon",
+        "poster",
+        "illustration",
+        "black and white"
+    ]
+}

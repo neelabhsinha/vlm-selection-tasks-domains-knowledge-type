@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1076,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1076.png",
+    "question": "What is the reference number for correspondence?",
+    "label": [
+        "J990642",
+        "j 990642"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 695,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_695.png",
+    "question": "What is the title of Table 1?",
+    "label": [
+        "Regional Bureau Activities in NCF",
+        "regional bureau activities in ncf"
+    ]
+}

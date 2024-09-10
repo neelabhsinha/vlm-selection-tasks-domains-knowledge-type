@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3775,
+    "caption": "a red pick up truck parked in a grassy field",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "pickup",
+        "outdoor",
+        "wheel",
+        "transport",
+        "car",
+        "grass",
+        "tree",
+        "truck",
+        "pickup truck",
+        "tire",
+        "bumper",
+        "motor vehicle",
+        "red",
+        "hardtop",
+        "coupe utility",
+        "parked",
+        "field"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 85,
+    "caption": "a large group of people are gathered around a large clock",
+    "object_tags": [
+        "indoor",
+        "clock",
+        "woman",
+        "clothing",
+        "man",
+        "person",
+        "people",
+        "ceiling",
+        "room",
+        "large",
+        "crowd"
+    ]
+}

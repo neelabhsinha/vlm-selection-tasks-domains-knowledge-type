@@ -1,0 +1,16 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1766,
+    "caption": "a collage of photographs showing a sign",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "parallel",
+        "document",
+        "number",
+        "font",
+        "black and white",
+        "handwriting",
+        "receipt"
+    ]
+}

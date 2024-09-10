@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2614,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2614.png",
+    "question": "How were these two photos combined into one image?",
+    "label": [
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photoshop",
+        "photo program",
+        "photo program",
+        "sit next to each other",
+        "sit next to each other"
+    ]
+}

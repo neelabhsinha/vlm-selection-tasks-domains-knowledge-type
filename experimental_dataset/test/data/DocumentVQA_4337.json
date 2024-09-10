@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4337,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4337.png",
+    "question": "What date mentioned in the top left of the document ?",
+    "label": [
+        "03/16/95"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 117160,
+    "caption": "a white plate topped with broccoli and meat",
+    "object_tags": [
+        "vegetable",
+        "broccoli",
+        "food",
+        "cruciferous vegetables",
+        "broccoflower",
+        "ingredient",
+        "plant",
+        "indoor"
+    ]
+}

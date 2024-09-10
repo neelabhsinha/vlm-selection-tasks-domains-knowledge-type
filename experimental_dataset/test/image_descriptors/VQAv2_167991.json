@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 167991,
+    "caption": "a man in a baseball uniform holding a baseball bat",
+    "object_tags": [
+        "sport",
+        "outdoor",
+        "person",
+        "athletic game",
+        "baseball",
+        "grass",
+        "bat-and-ball games",
+        "footwear",
+        "clothing",
+        "sports uniform",
+        "baseball uniform",
+        "baseball player",
+        "baseball park",
+        "sports equipment",
+        "ground",
+        "baseball equipment",
+        "player",
+        "baseball field",
+        "college baseball",
+        "baseball glove",
+        "sport venue",
+        "man",
+        "field",
+        "softball"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 189921,
+    "caption": "a brown dog sitting on a couch next to a banana",
+    "object_tags": [
+        "animal",
+        "dog",
+        "dog breed",
+        "pet",
+        "mammal",
+        "brown",
+        "indoor",
+        "puppy"
+    ]
+}

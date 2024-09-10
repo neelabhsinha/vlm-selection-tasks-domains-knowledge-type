@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 126416,
+    "image_path": "./experimental_dataset/test/images/VQAv2_126416.png",
+    "question": "Is this kid too young to surf?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes"
+    ]
+}

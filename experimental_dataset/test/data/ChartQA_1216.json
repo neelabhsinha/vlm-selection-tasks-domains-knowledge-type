@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1216,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1216.png",
+    "question": "Which impact did 16% of people answer as 'strongly agree'.",
+    "label": [
+        "Helps me identify trending products"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2051,
+    "caption": "a large building with a large clock on top of it",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "plant",
+        "aerial photography",
+        "building",
+        "grass"
+    ]
+}

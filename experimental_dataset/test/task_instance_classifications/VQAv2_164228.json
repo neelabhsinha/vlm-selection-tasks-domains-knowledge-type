@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 164228,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Movies",
+        "Books"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Social Knowledge",
+        "Technical Knowledge"
+    ]
+}

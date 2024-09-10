@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 158,
+    "caption": "a sign on a sidewalk with a stuffed animal on it",
+    "object_tags": [
+        "text",
+        "footwear",
+        "clothing",
+        "outdoor",
+        "ground",
+        "handwriting",
+        "cartoon",
+        "street",
+        "sidewalk",
+        "sign",
+        "person"
+    ]
+}

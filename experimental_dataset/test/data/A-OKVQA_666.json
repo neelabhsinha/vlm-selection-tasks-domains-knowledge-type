@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 666,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_666.png",
+    "question": "This street is located in what country?",
+    "label": "['africa', 'usa', 'australia', 'united states', 'united states', 'australia', 'united states', 'america', 'texas', 'united states']",
+    "choices": [
+        "france",
+        "australia",
+        "italy",
+        "britain"
+    ],
+    "correct_choice": "australia"
+}

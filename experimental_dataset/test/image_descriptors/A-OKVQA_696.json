@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 696,
+    "caption": "a teddy bear sitting on top of a wooden table",
+    "object_tags": [
+        "indoor",
+        "houseplant",
+        "wall",
+        "flowerpot",
+        "vase",
+        "picture frame",
+        "toy",
+        "stuffed",
+        "plant",
+        "decorated",
+        "flower",
+        "statue"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 963,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_963.png",
+    "question": "What is the person standing on?",
+    "label": "['skateboard', 'skateboard', 'skateboard', 'ground', 'ground', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard']",
+    "choices": [
+        "bicycle",
+        "boogie board",
+        "skateboard",
+        "surfboard"
+    ],
+    "correct_choice": "skateboard"
+}

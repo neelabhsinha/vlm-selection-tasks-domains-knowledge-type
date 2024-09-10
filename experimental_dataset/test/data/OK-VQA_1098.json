@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1098,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1098.png",
+    "question": "What would you call this type of climate or ecosystem pictured here?",
+    "label": [
+        "desert",
+        "desert",
+        "desert",
+        "desert",
+        "desert",
+        "desert",
+        "dessert",
+        "dessert",
+        "dry",
+        "dry"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 84,
+    "image_path": "./experimental_dataset/test/images/ChartQA_84.png",
+    "question": "Find the category from the chart, whose value is 82 and 15?",
+    "label": [
+        "Rep/Lean Rep"
+    ]
+}

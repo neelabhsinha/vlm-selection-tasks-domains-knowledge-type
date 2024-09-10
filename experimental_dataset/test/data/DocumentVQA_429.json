@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 429,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_429.png",
+    "question": "when is the meeting held ?",
+    "label": [
+        "May 3, 2006",
+        "may 3,  2006"
+    ]
+}

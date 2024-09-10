@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4039,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4039.png",
+    "question": "How heavy can these animals get?",
+    "label": [
+        "2 tons",
+        "2 tons",
+        "2 tons",
+        "2 tons",
+        "heavy",
+        "heavy",
+        "14000 pounds",
+        "14000 pounds",
+        "2000 pounds",
+        "2000 pounds"
+    ]
+}

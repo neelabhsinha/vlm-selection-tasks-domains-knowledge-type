@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 598,
+    "caption": "a collage of photos showing a kite flying through the air",
+    "object_tags": [
+        "text",
+        "plot",
+        "diagram",
+        "line",
+        "screenshot",
+        "font",
+        "slope",
+        "number"
+    ]
+}

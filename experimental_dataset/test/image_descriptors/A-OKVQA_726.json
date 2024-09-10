@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 726,
+    "caption": "a cat laying on a bed next to a laptop computer",
+    "object_tags": [
+        "laptop",
+        "indoor",
+        "computer",
+        "cat",
+        "personal computer",
+        "output device",
+        "computer hardware",
+        "netbook",
+        "wall",
+        "person",
+        "sitting",
+        "lap",
+        "mac"
+    ]
+}

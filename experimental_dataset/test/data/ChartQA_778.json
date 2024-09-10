@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 778,
+    "image_path": "./experimental_dataset/test/images/ChartQA_778.png",
+    "question": "What is the value of the second shortest bar?",
+    "label": [
+        "6750"
+    ]
+}

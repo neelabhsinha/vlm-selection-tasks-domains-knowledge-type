@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2392,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2392.png",
+    "question": "How many hospital transactions were completed in 2007?",
+    "label": [
+        "58"
+    ]
+}

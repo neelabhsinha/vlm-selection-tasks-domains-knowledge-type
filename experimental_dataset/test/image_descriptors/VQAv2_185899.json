@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 185899,
+    "caption": "a cat sitting on a window sill looking out the window",
+    "object_tags": [
+        "window",
+        "animal",
+        "cat",
+        "outdoor",
+        "grass",
+        "sitting",
+        "laying",
+        "indoor"
+    ]
+}

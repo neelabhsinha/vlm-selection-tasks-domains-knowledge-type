@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 501,
+    "image_path": "./experimental_dataset/test/images/ChartQA_501.png",
+    "question": "What's the total percentage of people who like and love math?",
+    "label": [
+        "72"
+    ]
+}

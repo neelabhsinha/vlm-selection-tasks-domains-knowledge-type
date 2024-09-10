@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1101,
+    "caption": "a herd of cattle standing on top of a lush green field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "mammal",
+        "fence",
+        "cow",
+        "livestock",
+        "animal",
+        "bovine",
+        "dairy cow",
+        "herd",
+        "ranch",
+        "herding",
+        "calf",
+        "plant",
+        "field",
+        "cattle",
+        "fenced",
+        "farm",
+        "standing",
+        "dog",
+        "grazing",
+        "pasture",
+        "ground"
+    ]
+}

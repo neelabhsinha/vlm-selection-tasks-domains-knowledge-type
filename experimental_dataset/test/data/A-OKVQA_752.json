@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 752,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_752.png",
+    "question": "Why is the cat looking inside the fridge?",
+    "label": "['nosy', 'curious', 'for food', 'hungry', 'hungry', 'for food', 'curiosity', 'hungry', 'treats', 'curious']",
+    "choices": [
+        "playing",
+        "teasing",
+        "for food",
+        "curiosity"
+    ],
+    "correct_choice": "for food"
+}

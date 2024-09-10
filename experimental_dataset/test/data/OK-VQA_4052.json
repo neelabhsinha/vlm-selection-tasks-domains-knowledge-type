@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4052,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4052.png",
+    "question": "To which group of road users is this traffic sign intended?",
+    "label": [
+        "driver",
+        "driver",
+        "driver",
+        "driver",
+        "driver",
+        "driver",
+        "vehicle",
+        "vehicle",
+        "car",
+        "car"
+    ]
+}

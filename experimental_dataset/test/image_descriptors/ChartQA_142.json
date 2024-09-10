@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 142,
+    "caption": "a screen shot of a map of the world",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "map",
+        "diagram"
+    ]
+}

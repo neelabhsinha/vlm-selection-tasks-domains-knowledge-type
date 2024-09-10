@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4693,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4693.png",
+    "question": "Name one specific object the children in the photo are most likely looking at?",
+    "label": [
+        "phone",
+        "phone",
+        "phone",
+        "phone",
+        "phone",
+        "phone",
+        "iphones",
+        "iphones",
+        "phone",
+        "phone"
+    ]
+}

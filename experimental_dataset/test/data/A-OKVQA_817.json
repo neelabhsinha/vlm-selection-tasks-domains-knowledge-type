@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 817,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_817.png",
+    "question": "Why are the lights red with no traffic?",
+    "label": "['programming', \"they're configured\", 'traffic lights', \"it's late\", 'automatic', 'night test', 'are scheduled', 'late night', 'late night', 'because timer']",
+    "choices": [
+        "directing traffic",
+        "late night",
+        "malfunctioning",
+        "long timer"
+    ],
+    "correct_choice": "late night"
+}

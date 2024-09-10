@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 53,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_53.png",
+    "question": "This part of the house where is the girl is is called?",
+    "label": "['bedroom', 'bedroom', 'bedroom', 'bedroom', 'bedroom', 'bedroom', 'bedroom', 'bedroom', 'bedroom', 'bedroom']",
+    "choices": [
+        "dinning room",
+        "kitchen",
+        "sitting room",
+        "bedroom"
+    ],
+    "correct_choice": "bedroom"
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 42269,
+    "caption": "a man flying a kite in a blue sky",
+    "object_tags": [
+        "sky",
+        "kite",
+        "outdoor",
+        "cloud",
+        "person",
+        "clothing",
+        "blue",
+        "sunny",
+        "blue sky"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 38499,
+    "caption": "three men standing next to each other on a skateboard",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "man",
+        "screenshot",
+        "jeans",
+        "standing"
+    ]
+}

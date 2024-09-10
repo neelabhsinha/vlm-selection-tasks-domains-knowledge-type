@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1410,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1410.png",
+    "question": "How many Medicare beneficiaries under the age of 65 utilized telemedicine in 2016?",
+    "label": [
+        "47438"
+    ]
+}

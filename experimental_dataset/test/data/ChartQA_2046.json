@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2046,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2046.png",
+    "question": "What was the population density per square kilometer in the Congo in 2018?",
+    "label": [
+        "37.08"
+    ]
+}

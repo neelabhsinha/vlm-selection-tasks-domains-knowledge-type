@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 236,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_236.png",
+    "question": "What is the relationship of the people at the back to the man wearing an orange hat?",
+    "label": "['customers', 'passengers', 'passengers', 'customers', 'customers', 'customer', 'family', 'passangers', 'tourists/guide', 'partners']",
+    "choices": [
+        "students",
+        "family members",
+        "friends",
+        "customers"
+    ],
+    "correct_choice": "customers"
+}

@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 11,
+    "caption": "a little boy holding a piece of cake in front of a candle",
+    "object_tags": [
+        "person",
+        "toddler",
+        "indoor",
+        "clothing",
+        "human face",
+        "candle",
+        "baby",
+        "birthday cake",
+        "table",
+        "dessert",
+        "cake",
+        "tableware",
+        "food",
+        "birthday",
+        "wall",
+        "child",
+        "chocolate",
+        "floor",
+        "boy"
+    ]
+}

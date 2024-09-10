@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 217,
+    "caption": "a pair of horses pulling a cart full of hay",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "grass",
+        "cloud",
+        "horse",
+        "mare",
+        "bridle",
+        "tree",
+        "horse supplies",
+        "rein",
+        "halter",
+        "horse tack",
+        "mane",
+        "stallion",
+        "horse harness",
+        "sorrel",
+        "cart",
+        "ground",
+        "field",
+        "person",
+        "people",
+        "standing",
+        "carriage"
+    ]
+}

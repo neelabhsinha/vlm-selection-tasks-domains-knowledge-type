@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 521,
+    "image_path": "./experimental_dataset/test/images/ChartQA_521.png",
+    "question": "How many bars have value greater then the two times the value of smallest bar?",
+    "label": [
+        "1"
+    ]
+}

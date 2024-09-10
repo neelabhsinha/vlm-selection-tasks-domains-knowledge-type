@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2317,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2317.png",
+    "question": "what is the position of William W. Moore ?",
+    "label": [
+        "executive vice president",
+        "Executive Vice President"
+    ]
+}

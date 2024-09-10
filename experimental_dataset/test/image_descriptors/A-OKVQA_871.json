@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 871,
+    "caption": "a dog sticking its head out the window of a car",
+    "object_tags": [
+        "mirror",
+        "car mirror",
+        "automotive mirror",
+        "rear-view mirror",
+        "outdoor",
+        "automotive side-view mirror",
+        "vehicle",
+        "car",
+        "window",
+        "street"
+    ]
+}

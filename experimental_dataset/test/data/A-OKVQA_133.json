@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 133,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_133.png",
+    "question": "What country headquarters this plane company?",
+    "label": "['virgin atlantic', 'great britain', 'united kingdom', 'england', 'uk', 'usa', 'united kingdom', 'england', 'britain', 'america']",
+    "choices": [
+        "canada",
+        "japan",
+        "usa",
+        "uk"
+    ],
+    "correct_choice": "usa"
+}

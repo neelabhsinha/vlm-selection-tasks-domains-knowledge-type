@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 150708,
+    "caption": "a white horse standing in a grassy field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "horse",
+        "grass",
+        "mane",
+        "mare",
+        "livestock",
+        "mustang horse",
+        "pony",
+        "standing",
+        "stallion",
+        "field",
+        "sorrel",
+        "shetland pony",
+        "white"
+    ]
+}

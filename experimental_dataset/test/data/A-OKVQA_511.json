@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 511,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_511.png",
+    "question": "What type of art is this?",
+    "label": "['pottery', 'pottery', 'pottery', 'abstract', 'pottery', 'abstract', 'pottery', 'clay pottery', 'terracotta', 'pottery']",
+    "choices": [
+        "sculpture",
+        "pottery",
+        "carving",
+        "painting"
+    ],
+    "correct_choice": "pottery"
+}

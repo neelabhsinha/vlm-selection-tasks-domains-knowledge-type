@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1347,
+    "caption": "a little girl talking on a cell phone",
+    "object_tags": [
+        "person",
+        "toddler",
+        "human face",
+        "clothing",
+        "girl",
+        "indoor",
+        "phone",
+        "baby",
+        "wall",
+        "young",
+        "telephone",
+        "child"
+    ]
+}

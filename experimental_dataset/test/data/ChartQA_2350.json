@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2350,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2350.png",
+    "question": "What is the average number of sexual partners in the U.S. in 2005?",
+    "label": [
+        "10.7"
+    ]
+}

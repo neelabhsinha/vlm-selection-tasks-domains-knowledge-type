@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1143,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1143.png",
+    "question": "What is the pattern on the woman's coat called?",
+    "label": "['plaid', 'stripes', 'black', 'sweeter', 'plaid', 'flannel', 'plaid', 'jerkin', 'flannel', 'umbrella']",
+    "choices": [
+        "pinstripe",
+        "polka dot",
+        "houndstooth",
+        "plaid"
+    ],
+    "correct_choice": "plaid"
+}

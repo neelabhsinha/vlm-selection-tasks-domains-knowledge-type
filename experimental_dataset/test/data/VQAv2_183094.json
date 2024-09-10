@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 183094,
+    "image_path": "./experimental_dataset/test/images/VQAv2_183094.png",
+    "question": "Is this a competition?",
+    "label": [
+        "no",
+        "no",
+        "maybe",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

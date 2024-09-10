@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 36429,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Formal logic",
+        "Mathematics"
+    ],
+    "knowledge_type": [
+        "Mathematical Knowledge"
+    ]
+}

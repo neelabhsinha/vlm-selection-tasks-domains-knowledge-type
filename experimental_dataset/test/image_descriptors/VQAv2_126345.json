@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 126345,
+    "caption": "a black and white cat laying on the floor next to a door",
+    "object_tags": [
+        "building",
+        "animal",
+        "cat",
+        "indoor",
+        "wall",
+        "home door",
+        "floor",
+        "door handle",
+        "flooring",
+        "door",
+        "black",
+        "doorway",
+        "wooden"
+    ]
+}

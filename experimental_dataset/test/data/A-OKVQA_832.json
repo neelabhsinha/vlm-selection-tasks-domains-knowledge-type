@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 832,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_832.png",
+    "question": "What style of hat is the man on the left wearing?",
+    "label": "['baseball cap', 'baseball', 'baseball cap', 'baseball', 'baseball', 'baseball', 'baseball cap', 'baseball', 'baseball cap', 'baseball cap']",
+    "choices": [
+        "derby",
+        "top hat",
+        "fedora",
+        "baseball cap"
+    ],
+    "correct_choice": "baseball cap"
+}

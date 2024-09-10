@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1310,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1310.png",
+    "question": "Who is the chairman for the evening session (after tea)?",
+    "label": [
+        "mr. l. j. mangan",
+        "Mr. L. J. Mangan",
+        "l. j. mangan"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4719,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4719.png",
+    "question": "What do you need for camping?",
+    "label": [
+        "tent",
+        "tent",
+        "tent",
+        "tent",
+        "tent",
+        "tent",
+        "tent and sleep bag",
+        "tent and sleep bag",
+        "food water shelter fire starter",
+        "food water shelter fire starter"
+    ]
+}

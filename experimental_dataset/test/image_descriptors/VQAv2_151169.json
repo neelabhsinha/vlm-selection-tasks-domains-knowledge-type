@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 151169,
+    "caption": "a black and white cow standing next to a fence",
+    "object_tags": [
+        "cattle",
+        "livestock",
+        "outdoor",
+        "cow",
+        "dairy cow",
+        "animal",
+        "ground",
+        "fence",
+        "bovine",
+        "ox",
+        "mammal",
+        "standing",
+        "farm",
+        "bull"
+    ]
+}

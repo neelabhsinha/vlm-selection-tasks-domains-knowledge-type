@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1420,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1420.png",
+    "question": "What was the average annual Man United first team player salary for the 2019/2020 Premier League season?",
+    "label": [
+        "6.13"
+    ]
+}

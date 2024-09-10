@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 190690,
+    "image_path": "./experimental_dataset/test/images/VQAv2_190690.png",
+    "question": "What sentimental \"lover's\" object do these two animal necks seem to make?",
+    "label": [
+        "heart",
+        "heart",
+        "x",
+        "heart",
+        "heart",
+        "x",
+        "heart",
+        "x",
+        "x",
+        "cross"
+    ]
+}

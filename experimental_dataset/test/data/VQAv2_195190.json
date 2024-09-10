@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 195190,
+    "image_path": "./experimental_dataset/test/images/VQAv2_195190.png",
+    "question": "How long as the man been sitting on the bench?",
+    "label": [
+        "hour",
+        "long time",
+        "5 min",
+        "10 minutes",
+        "long time",
+        "1 hour",
+        "unknown",
+        "5 minutes",
+        "15 minutes",
+        "few minutes"
+    ]
+}

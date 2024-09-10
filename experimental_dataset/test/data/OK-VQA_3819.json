@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3819,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3819.png",
+    "question": "Where would someone go to learn to type?",
+    "label": [
+        "school",
+        "school",
+        "school",
+        "school",
+        "school",
+        "school",
+        "type tutor",
+        "type tutor",
+        "online class",
+        "online class"
+    ]
+}

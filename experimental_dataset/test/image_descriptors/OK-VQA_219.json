@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 219,
+    "caption": "a park bench with a picture of a penguin on it",
+    "object_tags": [
+        "tree",
+        "outdoor",
+        "plant",
+        "text",
+        "bench",
+        "outdoor bench",
+        "street furniture",
+        "grass",
+        "park",
+        "ground",
+        "wooden",
+        "garden"
+    ]
+}

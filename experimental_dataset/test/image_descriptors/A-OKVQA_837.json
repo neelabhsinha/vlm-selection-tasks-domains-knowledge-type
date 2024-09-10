@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 837,
+    "caption": "people are walking down the street with a bus",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "road",
+        "sky",
+        "wheel",
+        "text",
+        "vehicle registration plate",
+        "mode of transport",
+        "transport",
+        "car",
+        "street",
+        "building",
+        "traffic",
+        "lane",
+        "motor vehicle",
+        "people",
+        "person",
+        "city",
+        "van",
+        "bus"
+    ]
+}

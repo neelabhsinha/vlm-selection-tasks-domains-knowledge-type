@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 169,
+    "caption": "a black cow standing next to a brown cow in a field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "cattle",
+        "livestock",
+        "sky",
+        "cow",
+        "dairy cow",
+        "plant",
+        "field",
+        "ranch",
+        "fodder",
+        "bovine",
+        "grazing",
+        "farm",
+        "black",
+        "bull",
+        "standing",
+        "mammal",
+        "animal",
+        "pasture",
+        "calf"
+    ]
+}

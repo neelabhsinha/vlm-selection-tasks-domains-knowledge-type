@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 639,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_639.png",
+    "question": "Why is the woman wearing goggles?",
+    "label": "['protect eyes', 'protection', 'eye protection', 'protect eyes', 'sun', 'eye protection', 'protection', 'wind', 'protect eyes', 'protect eyes']",
+    "choices": [
+        "speed",
+        "protection",
+        "fashion",
+        "agility"
+    ],
+    "correct_choice": "protection"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 545,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_545.png",
+    "question": "What type of business is this?",
+    "label": "['bar', 'restaurant', 'restaurant', 'bar', 'bar', 'winery', 'bar', 'bar', 'restaurant', 'bar']",
+    "choices": [
+        "dentist",
+        "barber",
+        "bar",
+        "doctor"
+    ],
+    "correct_choice": "bar"
+}

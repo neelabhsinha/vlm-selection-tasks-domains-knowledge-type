@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 166,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_166.png",
+    "question": "What is the name of the Congress ?",
+    "label": [
+        "international congress of nutrition",
+        "International Congress of Nutrition",
+        "ix international congress of nutrition"
+    ]
+}

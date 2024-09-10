@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 816,
+    "caption": "a train is stopped at a train station",
+    "object_tags": [
+        "transport",
+        "railroad",
+        "train station",
+        "train",
+        "railway",
+        "public transport",
+        "building",
+        "transport hub",
+        "track",
+        "passenger car",
+        "vehicle",
+        "rolling stock",
+        "platform",
+        "metro station",
+        "outdoor",
+        "railroad car",
+        "land vehicle",
+        "metro",
+        "ceiling",
+        "parked"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1023,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1023.png",
+    "question": "What is the main liquid topping on this food?",
+    "label": "['marinara sauce', 'grease', 'tomato sauce', 'sauce', 'red sauce', 'tomato sauce', 'sauce', 'tomato sauce', 'tomato sauce', 'pizza']",
+    "choices": [
+        "mayo",
+        "ketchup",
+        "sauce",
+        "salsa"
+    ],
+    "correct_choice": "sauce"
+}

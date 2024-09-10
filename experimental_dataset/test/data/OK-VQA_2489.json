@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2489,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2489.png",
+    "question": "What brand is this microwave?",
+    "label": [
+        "sharp",
+        "sharp",
+        "sharp",
+        "sharp",
+        "sharp",
+        "sharp",
+        "sharp",
+        "sharp",
+        "sharp",
+        "sharp"
+    ]
+}

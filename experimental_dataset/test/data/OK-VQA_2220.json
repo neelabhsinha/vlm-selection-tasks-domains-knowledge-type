@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2220,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2220.png",
+    "question": "Healthy or unhealthy?",
+    "label": [
+        "unhealthy",
+        "unhealthy",
+        "unhealthy",
+        "unhealthy",
+        "unhealthy",
+        "unhealthy",
+        "unhealthy",
+        "unhealthy",
+        "healthy",
+        "healthy"
+    ]
+}

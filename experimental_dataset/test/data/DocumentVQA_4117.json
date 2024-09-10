@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4117,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4117.png",
+    "question": "What is the Form number typed at the top left of the slip?",
+    "label": [
+        "164",
+        "Form 164"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 542,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_542.png",
+    "question": "This train is powered by what energy?",
+    "label": "['electricity', 'electricity', 'electric', 'magnetic force', 'electricity', 'electric', 'electric', 'electricity', 'electric', 'electricity']",
+    "choices": [
+        "electricity",
+        "gas",
+        "coal",
+        "magnetic force"
+    ],
+    "correct_choice": "magnetic force"
+}

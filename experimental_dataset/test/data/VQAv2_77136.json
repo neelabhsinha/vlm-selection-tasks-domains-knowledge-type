@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 77136,
+    "image_path": "./experimental_dataset/test/images/VQAv2_77136.png",
+    "question": "What are on the person's hands?",
+    "label": [
+        "knife",
+        "skin",
+        "pizza cutter",
+        "nothing",
+        "knife",
+        "fingernails",
+        "skin",
+        "skin",
+        "none",
+        "knife"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 136473,
+    "image_path": "./experimental_dataset/test/images/VQAv2_136473.png",
+    "question": "What color is the handle of the suitcase that is propped up?",
+    "label": [
+        "black",
+        "black",
+        "not propped up",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "silver",
+        "black"
+    ]
+}

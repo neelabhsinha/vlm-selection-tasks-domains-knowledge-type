@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3935,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3935.png",
+    "question": "What is the chain name?",
+    "label": [
+        "cumberland farms (except florida)",
+        "Cumberland Farms (Except Florida)",
+        "cumberland farms"
+    ]
+}

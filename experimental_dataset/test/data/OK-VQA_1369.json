@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1369,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1369.png",
+    "question": "What type of light is displayed by the sign?",
+    "label": [
+        "sunset",
+        "sunset",
+        "sunset",
+        "sunset",
+        "green",
+        "green",
+        "green",
+        "green",
+        "traffic light",
+        "traffic light"
+    ]
+}

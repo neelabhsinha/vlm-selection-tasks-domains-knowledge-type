@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 185,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_185.png",
+    "question": "What color is the floor?",
+    "label": "['brown', 'brown', 'tan', 'brown', 'brown', 'brown', 'brown', 'brown', 'brown', 'brown']",
+    "choices": [
+        "brown",
+        "green",
+        "blue",
+        "purple"
+    ],
+    "correct_choice": "brown"
+}

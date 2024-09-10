@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2746,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2746.png",
+    "question": "Among the cigarette brands shown which one is the strongest?",
+    "label": [
+        "Camel Lights",
+        ".Camel Lights"
+    ]
+}

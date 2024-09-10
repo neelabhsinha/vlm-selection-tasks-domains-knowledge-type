@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3187,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3187.png",
+    "question": "Is that plane taking off or landing?",
+    "label": [
+        "land",
+        "land",
+        "land",
+        "land",
+        "land",
+        "land",
+        "land",
+        "land",
+        "take off",
+        "take off"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 272,
+    "caption": "a person holding a box of doughnuts",
+    "object_tags": [
+        "person",
+        "snack",
+        "doughnut",
+        "indoor",
+        "fast food",
+        "baked goods",
+        "food",
+        "holding",
+        "pretzel",
+        "donut",
+        "tray",
+        "reaching"
+    ]
+}

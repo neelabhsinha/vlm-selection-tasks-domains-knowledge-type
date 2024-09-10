@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 140,
+    "caption": "a vase filled with yellow flowers sitting on a table",
+    "object_tags": [
+        "vase",
+        "flower",
+        "houseplant",
+        "indoor",
+        "flowerpot",
+        "floristry",
+        "petal",
+        "floral design",
+        "flower arranging",
+        "cut flowers",
+        "orange",
+        "plant",
+        "window",
+        "shop"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4962,
+    "caption": "a brown and white cow standing in a grassy field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "farm",
+        "cattle",
+        "cow",
+        "pasture",
+        "barn",
+        "field",
+        "plant",
+        "tree",
+        "building",
+        "house",
+        "brown",
+        "standing",
+        "mammal",
+        "red",
+        "animal"
+    ]
+}

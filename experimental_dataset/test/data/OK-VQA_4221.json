@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4221,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4221.png",
+    "question": "What season of the year can this kind of even take place?",
+    "label": [
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter"
+    ]
+}

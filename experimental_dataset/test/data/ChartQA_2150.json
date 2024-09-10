@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2150,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2150.png",
+    "question": "What percentage of Swedish households were owner-occupied small-dwelling buildings in 2019?",
+    "label": [
+        "39.8"
+    ]
+}

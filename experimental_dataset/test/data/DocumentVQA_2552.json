@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2552,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2552.png",
+    "question": "Which is the fiscal year mentioned?",
+    "label": [
+        "2015-2016"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 129,
+    "caption": "a collage of photos of a woman in a kitchen",
+    "object_tags": [
+        "text",
+        "human face",
+        "woman",
+        "screenshot",
+        "person",
+        "cosmetics",
+        "poster",
+        "fashion"
+    ]
+}

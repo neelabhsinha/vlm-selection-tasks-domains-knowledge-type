@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 88444,
+    "caption": "a young boy standing in a living room holding a nintendo wii game controller",
+    "object_tags": [
+        "indoor",
+        "person",
+        "clothing",
+        "wall",
+        "floor",
+        "living",
+        "playing",
+        "toddler",
+        "controller",
+        "furniture",
+        "couch",
+        "game",
+        "room",
+        "remote",
+        "flooring",
+        "play",
+        "boy",
+        "holding",
+        "young",
+        "child",
+        "standing",
+        "control"
+    ]
+}

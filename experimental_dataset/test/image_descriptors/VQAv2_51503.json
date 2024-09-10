@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 51503,
+    "caption": "a kitchen with a stove top oven and a sink",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "countertop",
+        "kitchen appliance",
+        "home appliance",
+        "cabinetry",
+        "sink",
+        "floor",
+        "gas stove",
+        "kitchen stove",
+        "tap",
+        "house",
+        "drawer",
+        "cupboard",
+        "major appliance",
+        "tile",
+        "oven",
+        "kitchen sink",
+        "furniture",
+        "appliance",
+        "kitchen",
+        "room",
+        "stove",
+        "home"
+    ]
+}

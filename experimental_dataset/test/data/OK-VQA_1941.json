@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1941,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1941.png",
+    "question": "Why are these animals here?",
+    "label": [
+        "drink",
+        "drink",
+        "drink",
+        "drink",
+        "to drink",
+        "to drink",
+        "drink water",
+        "drink water",
+        "zoo",
+        "zoo"
+    ]
+}

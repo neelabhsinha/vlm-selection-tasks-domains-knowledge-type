@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 598,
+    "caption": "a woman holding a frisbee next to a dog",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "person",
+        "dog breed",
+        "frisbee",
+        "dog sports",
+        "dog",
+        "pet",
+        "field"
+    ]
+}

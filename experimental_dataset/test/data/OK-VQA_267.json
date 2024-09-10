@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 267,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_267.png",
+    "question": "What is being cast onto the table?",
+    "label": [
+        "sunlight",
+        "sunlight",
+        "sunlight",
+        "sunlight",
+        "sunlihjy",
+        "sunlihjy",
+        "sun",
+        "sun",
+        "shadow",
+        "shadow"
+    ]
+}

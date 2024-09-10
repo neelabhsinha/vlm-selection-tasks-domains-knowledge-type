@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 104438,
+    "image_path": "./experimental_dataset/test/images/VQAv2_104438.png",
+    "question": "What color is the house in the reflection?",
+    "label": [
+        "gray",
+        "gray",
+        "white",
+        "gray",
+        "gray",
+        "gray",
+        "white",
+        "white",
+        "gray",
+        "gray"
+    ]
+}

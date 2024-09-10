@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 126226,
+    "caption": "a train crossing a bridge over a river",
+    "object_tags": [
+        "outdoor",
+        "bridge",
+        "sky",
+        "building",
+        "train",
+        "plate girder bridge",
+        "black and white",
+        "river",
+        "railroad",
+        "track"
+    ]
+}

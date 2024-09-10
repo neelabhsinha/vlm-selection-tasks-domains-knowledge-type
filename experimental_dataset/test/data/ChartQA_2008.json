@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2008,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2008.png",
+    "question": "What was the lowest percentage of internet users in the UK in 2015?",
+    "label": [
+        "11"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 16798,
+    "image_path": "./experimental_dataset/test/images/VQAv2_16798.png",
+    "question": "What is the boy holding in his hands?",
+    "label": [
+        "wii remote",
+        "controller",
+        "controller",
+        "wii remote",
+        "wiimote",
+        "wii controller",
+        "controller",
+        "wii remote",
+        "remote",
+        "remote"
+    ]
+}

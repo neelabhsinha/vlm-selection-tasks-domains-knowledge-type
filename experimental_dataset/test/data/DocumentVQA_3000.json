@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3000,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3000.png",
+    "question": "What is the Target Publication Date/Journal for Classification \" Pharmacology\"?",
+    "label": [
+        "Published"
+    ]
+}

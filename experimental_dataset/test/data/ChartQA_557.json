@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 557,
+    "image_path": "./experimental_dataset/test/images/ChartQA_557.png",
+    "question": "Which party is least likely to approve NSA surveillance?",
+    "label": [
+        "Independent"
+    ]
+}

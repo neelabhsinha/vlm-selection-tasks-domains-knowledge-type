@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 155,
+    "image_path": "./experimental_dataset/test/images/ChartQA_155.png",
+    "question": "What is the lowest sum value of India and Taliban?",
+    "label": [
+        "57"
+    ]
+}

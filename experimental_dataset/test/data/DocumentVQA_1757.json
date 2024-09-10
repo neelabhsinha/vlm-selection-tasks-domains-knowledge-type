@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1757,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1757.png",
+    "question": "What is the subject of the \u2018letter\u2019?",
+    "label": [
+        "HISTORIC PRESERVATION",
+        "Historic preservation"
+    ]
+}

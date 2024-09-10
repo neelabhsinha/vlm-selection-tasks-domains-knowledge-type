@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 177,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_177.png",
+    "question": "Which person would be the coldest?",
+    "label": "['outsiders', 'middle', 'guy w/t-shirt', 'leftmost', 'middle person', 'all', 'middle', 'short sleeves', 'man', 'left']",
+    "choices": [
+        "left",
+        "middle",
+        "right",
+        "none"
+    ],
+    "correct_choice": "middle"
+}

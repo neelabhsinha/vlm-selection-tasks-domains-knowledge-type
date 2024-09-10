@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 12,
+    "image_path": "./experimental_dataset/test/images/ChartQA_12.png",
+    "question": "What's the lefmost value of bar in China?",
+    "label": [
+        "17"
+    ]
+}

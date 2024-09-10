@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 47,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_47.png",
+    "question": "What is on the side of the yellow plane?",
+    "label": "['call letters', 'number', 'number', 'numbers', 'call numbers', 'big windows', 'orange planes', 'call sign', 'wing', 'identification number']",
+    "choices": [
+        "phone number",
+        "call letters",
+        "company name",
+        "decoration"
+    ],
+    "correct_choice": "call letters"
+}

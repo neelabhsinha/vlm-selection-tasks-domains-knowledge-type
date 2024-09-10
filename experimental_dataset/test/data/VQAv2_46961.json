@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 46961,
+    "image_path": "./experimental_dataset/test/images/VQAv2_46961.png",
+    "question": "Where is the bus going?",
+    "label": [
+        "burbank station",
+        "burbank station",
+        "burbank station",
+        "burbank station",
+        "burbank station",
+        "burbank station",
+        "burbank station",
+        "burbank station",
+        "no",
+        "burbank station"
+    ]
+}

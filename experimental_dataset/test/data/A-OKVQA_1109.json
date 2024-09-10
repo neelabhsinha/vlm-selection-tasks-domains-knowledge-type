@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1109,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1109.png",
+    "question": "What will happen if the ball is hit past the fence by the batter?",
+    "label": "['homerun', 'homerun', 'six', 'home run', 'home run', 'ball', 'catch', 'foul', 'homerun', 'homerun']",
+    "choices": [
+        "walk",
+        "home run",
+        "out",
+        "game over"
+    ],
+    "correct_choice": "home run"
+}

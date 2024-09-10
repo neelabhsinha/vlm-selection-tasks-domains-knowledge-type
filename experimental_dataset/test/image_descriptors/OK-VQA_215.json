@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 215,
+    "caption": "a white bath tub sitting next to a white toilet",
+    "object_tags": [
+        "indoor",
+        "plumbing fixture",
+        "bathroom",
+        "bathroom accessory",
+        "plumbing",
+        "wall",
+        "restroom",
+        "tap",
+        "sink",
+        "toilet seat",
+        "plumbing fitting",
+        "drain",
+        "household supply",
+        "bidet",
+        "urinal",
+        "toilet",
+        "white",
+        "water basin",
+        "tile"
+    ]
+}

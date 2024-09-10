@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1779,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1779.png",
+    "question": "What does DL denote?",
+    "label": [
+        "day letter",
+        "Day letter"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 73,
+    "caption": "a cake that is on a table",
+    "object_tags": [
+        "sky",
+        "birthday cake",
+        "food",
+        "fruit",
+        "sweetness",
+        "cake",
+        "strawberry",
+        "outdoor",
+        "dessert",
+        "desert"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 49,
+    "caption": "a table topped with cakes and cupcakes on top of a wooden table",
+    "object_tags": [
+        "table",
+        "food",
+        "tableware",
+        "plate",
+        "serveware",
+        "snack",
+        "dishware",
+        "baked goods",
+        "teapot",
+        "kitchen utensil",
+        "platter",
+        "dish",
+        "indoor",
+        "plant",
+        "cup",
+        "dessert",
+        "wooden",
+        "desert"
+    ]
+}

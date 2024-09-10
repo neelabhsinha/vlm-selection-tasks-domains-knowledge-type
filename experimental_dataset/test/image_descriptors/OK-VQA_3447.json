@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3447,
+    "caption": "a zebra walking across a dirt road",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "zebra",
+        "grass",
+        "terrestrial animal",
+        "wildlife",
+        "plant",
+        "ground",
+        "safari",
+        "standing",
+        "field"
+    ]
+}

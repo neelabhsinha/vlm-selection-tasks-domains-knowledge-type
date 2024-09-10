@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4016,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4016.png",
+    "question": "What is the smooth move when the beach party begins?",
+    "label": [
+        "always have plenty of camels ready when the beach party begins.",
+        "Always have plenty of Camels ready when the beach party begins."
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2950,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2950.png",
+    "question": "What noise does this animal make?",
+    "label": [
+        "meow",
+        "meow",
+        "meow",
+        "meow",
+        "meow",
+        "meow",
+        "meow",
+        "meow",
+        "meow",
+        "meow"
+    ]
+}

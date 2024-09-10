@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2353,
+    "caption": "a cage filled with lots of green and yellow parrots",
+    "object_tags": [
+        "pet supply",
+        "animal shelter",
+        "building",
+        "cage",
+        "parrot",
+        "yellow",
+        "bird",
+        "animal",
+        "indoor"
+    ]
+}

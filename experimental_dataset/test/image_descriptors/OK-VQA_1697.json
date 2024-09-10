@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1697,
+    "caption": "a dog laying on the ground next to a urinal",
+    "object_tags": [
+        "wall",
+        "animal",
+        "dog",
+        "indoor",
+        "bathroom",
+        "ground",
+        "toilet",
+        "dirty",
+        "floor"
+    ]
+}

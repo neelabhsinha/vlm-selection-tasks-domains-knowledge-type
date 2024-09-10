@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 119,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Social Media",
+        "Movies",
+        "Sports"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge",
+        "Visual Knowledge"
+    ]
+}

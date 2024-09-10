@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 518,
+    "caption": "a man riding a horse on top of a track",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "racing",
+        "track",
+        "fence",
+        "riding",
+        "animal sports",
+        "race track",
+        "flat racing",
+        "horse",
+        "jockey",
+        "rein",
+        "horse supplies",
+        "bridle",
+        "horse racing",
+        "stallion",
+        "stadium",
+        "equestrian sport",
+        "grass",
+        "people",
+        "ground"
+    ]
+}

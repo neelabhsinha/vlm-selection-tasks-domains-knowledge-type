@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1959,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1959.png",
+    "question": "What is the quantity of Potassium per serving size (mg)?",
+    "label": [
+        "209"
+    ]
+}

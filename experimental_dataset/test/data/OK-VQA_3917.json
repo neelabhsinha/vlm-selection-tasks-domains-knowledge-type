@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3917,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3917.png",
+    "question": "What is the animal name mentioned on the bus in image?",
+    "label": [
+        "tortoise",
+        "tortoise",
+        "tortoise",
+        "tortoise",
+        "tortoise",
+        "tortoise",
+        "tortoise",
+        "tortoise",
+        "lion",
+        "lion"
+    ]
+}

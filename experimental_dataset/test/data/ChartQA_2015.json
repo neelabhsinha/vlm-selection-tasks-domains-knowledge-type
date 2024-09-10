@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2015,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2015.png",
+    "question": "What was the GDP of the United Arab Emirates in dollars in 2019?",
+    "label": [
+        "419.35"
+    ]
+}

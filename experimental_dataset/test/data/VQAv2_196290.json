@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 196290,
+    "image_path": "./experimental_dataset/test/images/VQAv2_196290.png",
+    "question": "What is under the crock pot?",
+    "label": [
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave"
+    ]
+}

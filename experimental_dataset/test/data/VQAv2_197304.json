@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 197304,
+    "image_path": "./experimental_dataset/test/images/VQAv2_197304.png",
+    "question": "What are the blue structures in the background?",
+    "label": [
+        "toilets",
+        "porta potties",
+        "porta potties",
+        "port potty",
+        "port pots",
+        "portable toilet",
+        "port potties",
+        "bathrooms",
+        "porta-potties",
+        "porta potties"
+    ]
+}

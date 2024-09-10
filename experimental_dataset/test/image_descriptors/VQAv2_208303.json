@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 208303,
+    "caption": "two people are in the water on a raft",
+    "object_tags": [
+        "water",
+        "outdoor",
+        "surface water sports",
+        "sport",
+        "surfing",
+        "riding",
+        "boat",
+        "recreation",
+        "vehicle",
+        "life jacket",
+        "outdoor recreation",
+        "wave",
+        "sports equipment",
+        "paddle",
+        "wind wave",
+        "person",
+        "rapid",
+        "watercraft",
+        "people",
+        "boat racing"
+    ]
+}

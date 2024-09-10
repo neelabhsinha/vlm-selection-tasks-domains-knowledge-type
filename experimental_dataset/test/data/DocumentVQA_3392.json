@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3392,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3392.png",
+    "question": "What is the cost of Applying labels?",
+    "label": [
+        "22.70/1000"
+    ]
+}

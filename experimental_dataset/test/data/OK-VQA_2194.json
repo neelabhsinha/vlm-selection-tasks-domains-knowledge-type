@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2194,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2194.png",
+    "question": "What type of cheese is used on this sandwich?",
+    "label": [
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "mozzarella",
+        "provolone",
+        "provolone",
+        "american",
+        "american"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 90703,
+    "caption": "a polar bear swimming in a pool of water",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "bear",
+        "water",
+        "polar",
+        "outdoor",
+        "polar bear",
+        "zoo",
+        "swimming",
+        "pool",
+        "rock"
+    ]
+}

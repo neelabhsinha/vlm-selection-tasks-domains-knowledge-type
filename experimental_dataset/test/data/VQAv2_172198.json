@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 172198,
+    "image_path": "./experimental_dataset/test/images/VQAv2_172198.png",
+    "question": "Where is the man and woman?",
+    "label": [
+        "on tennis court",
+        "on tennis court",
+        "court",
+        "tennis court",
+        "tennis court",
+        "on tennis court",
+        "tennis court",
+        "left and right, respectively",
+        "outside",
+        "tennis court"
+    ]
+}

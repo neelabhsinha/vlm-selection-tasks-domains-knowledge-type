@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 596,
+    "image_path": "./experimental_dataset/test/images/ChartQA_596.png",
+    "question": "Which country is represented by the green line in the given graph?",
+    "label": [
+        "Ethiopia"
+    ]
+}

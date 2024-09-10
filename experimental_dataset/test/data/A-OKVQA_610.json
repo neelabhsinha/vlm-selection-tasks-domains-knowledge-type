@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 610,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_610.png",
+    "question": "The screen type is generally used for what?",
+    "label": "['entertainment', 'entertaining', 'streaming', 'computer', 'computing', 'entertainment', 'television', 'tv', 'for tv', 'watching tv']",
+    "choices": [
+        "large tv",
+        "music",
+        "vcr",
+        "computer"
+    ],
+    "correct_choice": "computer"
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2501,
+    "caption": "a large building with a large clock on it",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "medieval architecture",
+        "brick",
+        "building",
+        "window",
+        "castle",
+        "palace",
+        "facade",
+        "ground",
+        "large",
+        "tower",
+        "city",
+        "stone"
+    ]
+}

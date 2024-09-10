@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 478,
+    "image_path": "./experimental_dataset/test/images/ChartQA_478.png",
+    "question": "How many values in the More strict is below 50?",
+    "label": [
+        "3"
+    ]
+}

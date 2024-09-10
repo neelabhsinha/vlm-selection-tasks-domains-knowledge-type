@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2059,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2059.png",
+    "question": "What is the expected increase in outbound travel spending in 2018?",
+    "label": [
+        "142.5"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1034,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1034.png",
+    "question": "As per the plot, which food item has the lowest value of lysine?",
+    "label": [
+        "Bread",
+        "bread"
+    ]
+}

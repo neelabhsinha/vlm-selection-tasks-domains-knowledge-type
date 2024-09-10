@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 240,
+    "image_path": "./experimental_dataset/test/images/ChartQA_240.png",
+    "question": "Which place shows the lowest value of Tuberculosis rate?",
+    "label": [
+        "Nepal"
+    ]
+}

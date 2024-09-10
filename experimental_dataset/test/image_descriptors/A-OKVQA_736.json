@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 736,
+    "caption": "a pile of books on top of a wooden table",
+    "object_tags": [
+        "text",
+        "indoor",
+        "publication",
+        "bookcase",
+        "book",
+        "shelving",
+        "bookshelf",
+        "shelf"
+    ]
+}

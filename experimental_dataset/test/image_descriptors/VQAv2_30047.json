@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 30047,
+    "caption": "a brown teddy bear sitting on top of a wall",
+    "object_tags": [
+        "toy",
+        "stuffed toy",
+        "teddy",
+        "plush",
+        "stuffed",
+        "cartoon",
+        "animal figure",
+        "bear",
+        "teddy bear",
+        "baby toys",
+        "dog toy",
+        "indoor",
+        "fabric",
+        "red",
+        "brown"
+    ]
+}

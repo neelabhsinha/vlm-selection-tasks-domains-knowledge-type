@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 869,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_869.png",
+    "question": "The girl behind the man likely is of what relation to him?",
+    "label": "['daughter', 'daughter', 'daughter', 'daughter', 'daughter', 'daughter', 'daughter', 'daughter', 'daughter', 'daughter']",
+    "choices": [
+        "mother",
+        "sister",
+        "daughter",
+        "none"
+    ],
+    "correct_choice": "daughter"
+}

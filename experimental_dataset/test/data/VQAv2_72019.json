@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 72019,
+    "image_path": "./experimental_dataset/test/images/VQAv2_72019.png",
+    "question": "Are all the animals the same type?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes"
+    ]
+}

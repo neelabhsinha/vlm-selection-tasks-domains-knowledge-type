@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 50,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_50.png",
+    "question": "What is cost of liquid nitrogen",
+    "label": [
+        "$200",
+        "200"
+    ]
+}

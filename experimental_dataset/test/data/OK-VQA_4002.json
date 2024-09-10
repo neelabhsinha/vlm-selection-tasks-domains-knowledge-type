@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4002,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4002.png",
+    "question": "How long do people usually spend doing this activity?",
+    "label": [
+        "hour",
+        "hour",
+        "hour",
+        "hour",
+        "4 hours",
+        "4 hours",
+        "1 2 hour",
+        "1 2 hour",
+        "2 hours",
+        "2 hours"
+    ]
+}

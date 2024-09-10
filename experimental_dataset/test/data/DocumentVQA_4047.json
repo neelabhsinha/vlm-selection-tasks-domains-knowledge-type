@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4047,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4047.png",
+    "question": "What is written in the top right most corner of the document?",
+    "label": [
+        "(for office use)",
+        "for office use"
+    ]
+}

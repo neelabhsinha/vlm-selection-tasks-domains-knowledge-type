@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 616,
+    "caption": "a police officer riding on the back of a motorcycle",
+    "object_tags": [
+        "land vehicle",
+        "vehicle",
+        "outdoor",
+        "wheel",
+        "motorbike",
+        "motorcycle",
+        "road",
+        "tire",
+        "auto part",
+        "car",
+        "tree",
+        "clothing",
+        "person",
+        "text",
+        "law enforcement",
+        "motorcycle helmet",
+        "automotive lighting",
+        "helmet",
+        "motor vehicle",
+        "riding",
+        "officer",
+        "street",
+        "police"
+    ]
+}

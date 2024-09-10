@@ -1,0 +1,33 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 569,
+    "caption": "a kitchen with a stove a sink and a refrigerator",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "countertop",
+        "cabinetry",
+        "home appliance",
+        "cabinet",
+        "sink",
+        "kitchen appliance",
+        "major appliance",
+        "floor",
+        "cupboard",
+        "kitchen stove",
+        "kitchen",
+        "gas stove",
+        "plumbing fixture",
+        "tap",
+        "oven",
+        "ceiling",
+        "kitchen sink",
+        "stove",
+        "drawer",
+        "house",
+        "cooktop",
+        "room",
+        "appliance",
+        "light"
+    ]
+}

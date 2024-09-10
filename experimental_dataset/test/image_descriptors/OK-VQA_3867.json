@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3867,
+    "caption": "a small bird perched on top of a tree branch",
+    "object_tags": [
+        "animal",
+        "bird",
+        "outdoor",
+        "beak",
+        "wildlife",
+        "branch",
+        "perched",
+        "brown"
+    ]
+}

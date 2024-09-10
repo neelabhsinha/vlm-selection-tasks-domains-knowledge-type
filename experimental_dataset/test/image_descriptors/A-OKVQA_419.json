@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 419,
+    "caption": "a white plate topped with lots of meat and vegetables",
+    "object_tags": [
+        "tableware",
+        "meat",
+        "animal fat",
+        "table",
+        "food",
+        "red meat",
+        "wine glass",
+        "cold cut",
+        "meat carving",
+        "charcuterie",
+        "salumi",
+        "prosciutto",
+        "platter",
+        "plate",
+        "person",
+        "indoor",
+        "wine"
+    ]
+}

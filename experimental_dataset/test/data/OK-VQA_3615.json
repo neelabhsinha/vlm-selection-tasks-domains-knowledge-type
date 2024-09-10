@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3615,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3615.png",
+    "question": "Is this bicycle for males or females?",
+    "label": [
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "female",
+        "both",
+        "both"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 658,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_658.png",
+    "question": "What type of car is behind the motorcycle?",
+    "label": "['jeep', 'jeep', 'jeep', 'jeep', 'jeep', 'jeep', 'jeep', 'jeep', 'jeep', 'jeep']",
+    "choices": [
+        "sedan",
+        "truck",
+        "convertible",
+        "jeep"
+    ],
+    "correct_choice": "jeep"
+}

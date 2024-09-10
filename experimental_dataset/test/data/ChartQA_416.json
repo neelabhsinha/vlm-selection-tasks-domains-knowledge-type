@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 416,
+    "image_path": "./experimental_dataset/test/images/ChartQA_416.png",
+    "question": "Which country is represented by red color line?",
+    "label": [
+        "Portugal"
+    ]
+}

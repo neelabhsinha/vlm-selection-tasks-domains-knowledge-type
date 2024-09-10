@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 454,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_454.png",
+    "question": "Why would we assume this surfer is not about to engage in his sport?",
+    "label": [
+        "no water",
+        "no water",
+        "no water",
+        "no water",
+        "he look tired",
+        "he look tired",
+        "hold it",
+        "hold it",
+        "walk away",
+        "walk away"
+    ]
+}

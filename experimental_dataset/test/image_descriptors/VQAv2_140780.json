@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 140780,
+    "caption": "a ram standing on top of a rocky hillside",
+    "object_tags": [
+        "outdoor",
+        "plant",
+        "bedrock",
+        "mountain",
+        "outcrop",
+        "rock",
+        "ground",
+        "hill",
+        "animal",
+        "grass",
+        "hillside",
+        "mammal",
+        "nature"
+    ]
+}

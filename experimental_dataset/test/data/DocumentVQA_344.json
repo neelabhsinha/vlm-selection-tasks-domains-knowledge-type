@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 344,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_344.png",
+    "question": "Who is the contributor whose name begins with alphabet G ?",
+    "label": [
+        "guy r. newell",
+        "Guy R. Newell"
+    ]
+}

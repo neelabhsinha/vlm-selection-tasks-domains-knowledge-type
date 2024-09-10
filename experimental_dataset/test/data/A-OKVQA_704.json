@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 704,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_704.png",
+    "question": "What kind of fish inspired the kite design?",
+    "label": "['fish', 'clownfish', 'clown', 'clown fish', 'clownfish', 'clown fish', 'clownfish', 'nemo', 'guppies', 'goldfish']",
+    "choices": [
+        "swordfish",
+        "clown fish",
+        "pufferfish",
+        "tilapia"
+    ],
+    "correct_choice": "clown fish"
+}

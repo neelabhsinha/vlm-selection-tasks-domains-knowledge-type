@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 627,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_627.png",
+    "question": "The line the horse is walking on separates what?",
+    "label": "['separates road', 'parking spaces', 'cars', 'parking spaces', 'parking lines', 'parking spaces', 'cars', 'prevent line', 'traffic', 'parking spaces']",
+    "choices": [
+        "parking spaces",
+        "pedestrian walkway",
+        "street lanes",
+        "bike lane"
+    ],
+    "correct_choice": "parking spaces"
+}

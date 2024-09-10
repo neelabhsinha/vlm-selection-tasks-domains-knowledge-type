@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1822,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1822.png",
+    "question": "What was the value of foodservice sales in U.S. convenience stores in 2019?",
+    "label": [
+        "39.8"
+    ]
+}

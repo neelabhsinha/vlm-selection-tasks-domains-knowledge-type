@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1288,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1288.png",
+    "question": "Which brand registered sales worth 263 million euros in 2019?",
+    "label": [
+        "Moschino"
+    ]
+}

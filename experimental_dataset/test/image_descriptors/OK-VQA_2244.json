@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2244,
+    "caption": "a black cat sitting in a bathroom sink",
+    "object_tags": [
+        "indoor",
+        "cat",
+        "animal",
+        "bathroom",
+        "small to medium-sized cats",
+        "sink",
+        "felidae",
+        "tap",
+        "wall",
+        "black cat",
+        "black",
+        "toothbrush"
+    ]
+}

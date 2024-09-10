@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1272,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1272.png",
+    "question": "What kind of dog is that?",
+    "label": [
+        "doberman",
+        "doberman",
+        "doberman",
+        "doberman",
+        "dachsund",
+        "dachsund",
+        "beagel",
+        "beagel",
+        "lab",
+        "lab"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1993,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1993.png",
+    "question": "How many cars did Renault sell in Turkey in 2019?",
+    "label": [
+        "60668"
+    ]
+}

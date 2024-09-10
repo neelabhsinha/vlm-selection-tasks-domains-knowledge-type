@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 762,
+    "caption": "a woman sitting at a table eating a banana",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "tree",
+        "black and white",
+        "window",
+        "smile",
+        "portrait",
+        "white",
+        "sitting",
+        "indoor",
+        "outdoor"
+    ]
+}

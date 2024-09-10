@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 948,
+    "caption": "plates of food on a counter top",
+    "object_tags": [
+        "food",
+        "meal",
+        "table",
+        "tableware",
+        "cuisine",
+        "plate",
+        "dish",
+        "platter",
+        "supper",
+        "lunch",
+        "indoor",
+        "fast food",
+        "brunch",
+        "salad",
+        "dinner",
+        "side dish",
+        "bowl",
+        "culinary art",
+        "dishware",
+        "food group",
+        "restaurant",
+        "vegetable"
+    ]
+}

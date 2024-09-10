@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 190352,
+    "image_path": "./experimental_dataset/test/images/VQAv2_190352.png",
+    "question": "Where is the only color?",
+    "label": [
+        "white",
+        "cabinets",
+        "wall",
+        "white",
+        "white",
+        "white",
+        "floor",
+        "white",
+        "white",
+        "floor"
+    ]
+}

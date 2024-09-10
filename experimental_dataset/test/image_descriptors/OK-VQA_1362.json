@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1362,
+    "caption": "a crowd of people standing in a field flying kites",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "kite",
+        "grass",
+        "person",
+        "people",
+        "tree",
+        "group",
+        "park",
+        "field",
+        "crowd",
+        "standing"
+    ]
+}

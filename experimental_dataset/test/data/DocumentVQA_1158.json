@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1158,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1158.png",
+    "question": "In which office does Michael Shapiro work?",
+    "label": [
+        "office of water"
+    ]
+}

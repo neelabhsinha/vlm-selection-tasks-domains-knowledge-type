@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4710,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4710.png",
+    "question": "What is the Phone number of Dr. Ian Munro?",
+    "label": [
+        "(613)992=8304"
+    ]
+}

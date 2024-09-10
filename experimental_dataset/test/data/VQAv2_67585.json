@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 67585,
+    "image_path": "./experimental_dataset/test/images/VQAv2_67585.png",
+    "question": "What color light do you see?",
+    "label": [
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green"
+    ]
+}

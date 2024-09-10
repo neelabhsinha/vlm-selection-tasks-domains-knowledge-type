@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 114734,
+    "caption": "a small boat docked in a body of water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "boat",
+        "cloud",
+        "lake",
+        "ship",
+        "waterway",
+        "mast",
+        "channel",
+        "watercraft",
+        "landscape",
+        "floating",
+        "blue",
+        "autumn",
+        "river"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4155,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4155.png",
+    "question": "How many quarts of milk is their total daily intake?",
+    "label": [
+        "1 quart",
+        "1"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 657,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_657.png",
+    "question": "What common material can you use to clean shine the object being held?",
+    "label": [
+        "wax",
+        "wax",
+        "wax",
+        "wax",
+        "wax",
+        "wax",
+        "wax",
+        "wax",
+        "resin",
+        "resin"
+    ]
+}

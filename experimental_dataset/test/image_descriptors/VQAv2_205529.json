@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 205529,
+    "caption": "a computer desk with a monitor and keyboard",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "computer",
+        "computer monitor",
+        "floor",
+        "furniture",
+        "text",
+        "computer desk",
+        "office supplies",
+        "electronics",
+        "printer",
+        "whiteboard",
+        "machine",
+        "desktop computer",
+        "table",
+        "desk",
+        "equipment"
+    ]
+}

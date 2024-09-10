@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3652,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3652.png",
+    "question": "What is the date of the first film?",
+    "label": [
+        "June 1980"
+    ]
+}

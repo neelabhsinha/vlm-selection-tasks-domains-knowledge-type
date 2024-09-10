@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 210926,
+    "image_path": "./experimental_dataset/test/images/VQAv2_210926.png",
+    "question": "What sport is this man playing?",
+    "label": [
+        "basketball",
+        "basketball",
+        "basketball",
+        "basketball",
+        "basketball",
+        "basketball",
+        "basketball",
+        "basketball",
+        "basketball",
+        "basketball"
+    ]
+}

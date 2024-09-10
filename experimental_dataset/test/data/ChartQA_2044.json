@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2044,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2044.png",
+    "question": "When was the smallest total value of private equity investments found?",
+    "label": [
+        "2013"
+    ]
+}

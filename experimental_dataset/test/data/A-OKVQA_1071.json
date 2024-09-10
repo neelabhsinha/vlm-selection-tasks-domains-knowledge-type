@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1071,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1071.png",
+    "question": "What specifically is the child consuming?",
+    "label": "['cheese pizza', 'pizza crust', 'cheese pizza', 'pizza crust', 'cheese pizza', 'pizza', 'crust', 'cheese pizza', 'pizza', 'pizza crust']",
+    "choices": [
+        "sausage pizza",
+        "white pizza",
+        "cheese pizza",
+        "pepperoni pizza"
+    ],
+    "correct_choice": "cheese pizza"
+}

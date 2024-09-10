@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 91593,
+    "caption": "a woman standing in front of a train on a train track",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "sky",
+        "fog",
+        "footwear",
+        "man",
+        "ground",
+        "jacket",
+        "track",
+        "train",
+        "railroad"
+    ]
+}

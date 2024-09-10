@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 912,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_912.png",
+    "question": "What is the make of the silver hatchback?",
+    "label": "['kia', 'suv', 'honda', 'nissan', 'road light', 'honda', 'volkswagen', 'volkswagen', 'volkswagen', 'steel']",
+    "choices": [
+        "chevrolet",
+        "volkswagen",
+        "honda",
+        "toyota"
+    ],
+    "correct_choice": "volkswagen"
+}

@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3695,
+    "caption": "a collage of photos showing different types of food",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "black and white",
+        "number"
+    ]
+}

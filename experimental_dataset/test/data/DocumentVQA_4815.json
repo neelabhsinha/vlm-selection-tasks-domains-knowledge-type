@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4815,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4815.png",
+    "question": "What was the carton shrink with lobby location?",
+    "label": [
+        "3.3% of movement",
+        "3 3% of movement"
+    ]
+}

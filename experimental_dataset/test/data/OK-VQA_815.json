@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 815,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_815.png",
+    "question": "What healthy properties do these fruit contain?",
+    "label": [
+        "vitamin",
+        "vitamin",
+        "vitamin",
+        "vitamin",
+        "vitamin",
+        "vitamin",
+        "potassium",
+        "potassium",
+        "potassium",
+        "potassium"
+    ]
+}

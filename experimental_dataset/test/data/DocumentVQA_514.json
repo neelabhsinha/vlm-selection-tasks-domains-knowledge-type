@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 514,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_514.png",
+    "question": "Who is the Robert Walmsley university professor at Harvard law school?",
+    "label": [
+        "Cass R. Sunstein"
+    ]
+}

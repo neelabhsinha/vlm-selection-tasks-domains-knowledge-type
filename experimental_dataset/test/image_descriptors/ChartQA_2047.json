@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 2047,
+    "caption": "an aerial view of a computer generated image",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "line",
+        "plot",
+        "number",
+        "diagram",
+        "parallel"
+    ]
+}

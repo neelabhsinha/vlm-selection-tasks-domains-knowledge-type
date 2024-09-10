@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 67558,
+    "image_path": "./experimental_dataset/test/images/VQAv2_67558.png",
+    "question": "Is this bus from the USA?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

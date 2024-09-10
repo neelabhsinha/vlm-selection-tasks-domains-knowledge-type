@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 18,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_18.png",
+    "question": "What event is this most likely?",
+    "label": "['dinner', 'meal', 'dinner', 'dinner', 'celebration', 'christmas', 'dinner', 'date', 'dinner', 'dinner']",
+    "choices": [
+        "environmental cleanup",
+        "concert",
+        "date",
+        "firing"
+    ],
+    "correct_choice": "date"
+}

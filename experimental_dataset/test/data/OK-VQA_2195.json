@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2195,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2195.png",
+    "question": "What are the natural predators of this animal?",
+    "label": [
+        "lion",
+        "lion",
+        "lion",
+        "lion",
+        "lion",
+        "lion",
+        "0",
+        "0",
+        "hyena",
+        "hyena"
+    ]
+}

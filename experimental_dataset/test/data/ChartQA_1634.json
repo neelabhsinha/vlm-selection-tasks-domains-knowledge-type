@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1634,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1634.png",
+    "question": "How many downloads did Call of Duty Mobile receive worldwide?",
+    "label": [
+        "250"
+    ]
+}

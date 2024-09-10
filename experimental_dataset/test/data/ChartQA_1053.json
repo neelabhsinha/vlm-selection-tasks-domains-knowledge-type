@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1053,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1053.png",
+    "question": "Which is smaller, the average of they are downplaying the situation or that of In this context, the appropriate behavior, of both genders?",
+    "label": [
+        "They are downplaying the situation"
+    ]
+}

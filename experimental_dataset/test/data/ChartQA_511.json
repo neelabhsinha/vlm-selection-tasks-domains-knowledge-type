@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 511,
+    "image_path": "./experimental_dataset/test/images/ChartQA_511.png",
+    "question": "What's the average of the two smallest green bar??",
+    "label": [
+        "39.5"
+    ]
+}

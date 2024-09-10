@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4562,
+    "caption": "men and women posing for a picture",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "human face",
+        "wall",
+        "outdoor",
+        "posing",
+        "ground",
+        "group",
+        "dog",
+        "standing"
+    ]
+}

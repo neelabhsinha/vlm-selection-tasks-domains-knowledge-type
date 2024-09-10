@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 36797,
+    "caption": "a man riding on the back of a red motorcycle",
+    "object_tags": [
+        "motorcycle",
+        "outdoor",
+        "motorbike",
+        "vehicle",
+        "wheel",
+        "ground",
+        "red",
+        "sport",
+        "land vehicle",
+        "tire",
+        "motorcycle fairing",
+        "building",
+        "motorcycle racing",
+        "motorcycle helmet",
+        "person",
+        "motorcycling"
+    ]
+}

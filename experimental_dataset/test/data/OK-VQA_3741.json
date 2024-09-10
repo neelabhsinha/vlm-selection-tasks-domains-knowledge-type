@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3741,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3741.png",
+    "question": "What activity are these bears promoting?",
+    "label": [
+        "picnic",
+        "picnic",
+        "picnic",
+        "picnic",
+        "dine",
+        "dine",
+        "dine",
+        "dine",
+        "tea party",
+        "tea party"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3750,
+    "caption": "a person holding a nintendo wii game controller",
+    "object_tags": [
+        "electronic device",
+        "remote control",
+        "remote",
+        "gadget",
+        "control",
+        "indoor",
+        "person",
+        "electronics",
+        "text",
+        "controller",
+        "game controller",
+        "holding"
+    ]
+}

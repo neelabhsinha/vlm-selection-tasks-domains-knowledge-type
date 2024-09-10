@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2364,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2364.png",
+    "question": "What is the date mentioned for 'Farm Chemicals' ?",
+    "label": [
+        "Feb. 1969-"
+    ]
+}

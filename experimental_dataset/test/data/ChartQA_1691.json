@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1691,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1691.png",
+    "question": "In what year did Houghton Mifflin Harcourt report the highest revenue since 2013?",
+    "label": [
+        "2019"
+    ]
+}

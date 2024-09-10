@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 38499,
+    "image_path": "./experimental_dataset/test/images/VQAv2_38499.png",
+    "question": "Are these boys happy?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

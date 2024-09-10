@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 495,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_495.png",
+    "question": "What is the person riding the horse dressed as?",
+    "label": "['knight', 'knight', 'knight', 'knight', 'knight', 'knight', 'knight', 'knight', 'knight', 'knight']",
+    "choices": [
+        "knight",
+        "football player",
+        "secretary",
+        "jockey"
+    ],
+    "correct_choice": "knight"
+}

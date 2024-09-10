@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1057,
+    "caption": "a boat is parked on the beach by the water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "ground",
+        "vehicle",
+        "transport",
+        "black and white",
+        "wheel",
+        "boat",
+        "beach",
+        "tire",
+        "water",
+        "watercraft",
+        "landscape",
+        "monochrome"
+    ]
+}

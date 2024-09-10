@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 10470,
+    "caption": "a herd of elephants walking down a dirt road",
+    "object_tags": [
+        "outdoor",
+        "elephant",
+        "tree",
+        "ground",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "plant",
+        "zoo",
+        "safari",
+        "group",
+        "standing",
+        "people"
+    ]
+}

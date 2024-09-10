@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 453,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_453.png",
+    "question": "What is the 2nd Quarter check?",
+    "label": [
+        "$0.00"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 865,
+    "caption": "a man riding a skateboard down the side of a street",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "man",
+        "ground",
+        "night",
+        "riding",
+        "sport",
+        "sky",
+        "street light",
+        "jumping",
+        "skateboard",
+        "air",
+        "street",
+        "skate",
+        "performing"
+    ]
+}

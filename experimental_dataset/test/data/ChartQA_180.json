@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 180,
+    "image_path": "./experimental_dataset/test/images/ChartQA_180.png",
+    "question": "What's the most popular answer?",
+    "label": [
+        "Better off"
+    ]
+}

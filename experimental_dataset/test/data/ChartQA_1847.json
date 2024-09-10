@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1847,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1847.png",
+    "question": "What was the value of the gamification market in US dollars in 2016?",
+    "label": [
+        "4.91"
+    ]
+}

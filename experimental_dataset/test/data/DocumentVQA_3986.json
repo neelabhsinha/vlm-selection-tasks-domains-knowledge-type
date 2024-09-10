@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3986,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3986.png",
+    "question": "What is the share holding percentage of \u2018Western Express Industries Limited\u2019?",
+    "label": [
+        "100.00%"
+    ]
+}

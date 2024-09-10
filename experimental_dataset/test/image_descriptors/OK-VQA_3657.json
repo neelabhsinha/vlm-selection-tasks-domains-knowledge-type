@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3657,
+    "caption": "motorcyclists are riding down the street",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "motorcycle",
+        "land vehicle",
+        "wheel",
+        "building",
+        "person",
+        "street",
+        "tree",
+        "clothing",
+        "road",
+        "tire",
+        "sky",
+        "people",
+        "scooter",
+        "man",
+        "group",
+        "city",
+        "riding",
+        "crowded"
+    ]
+}

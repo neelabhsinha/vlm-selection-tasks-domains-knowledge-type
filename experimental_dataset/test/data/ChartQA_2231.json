@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2231,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2231.png",
+    "question": "How many hospitals were there in Bulgaria in 2019?",
+    "label": [
+        "319"
+    ]
+}

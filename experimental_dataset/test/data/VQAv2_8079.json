@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 8079,
+    "image_path": "./experimental_dataset/test/images/VQAv2_8079.png",
+    "question": "What is the man holding in his hands?",
+    "label": [
+        "camera",
+        "camera",
+        "camera",
+        "camera",
+        "camera",
+        "camera",
+        "camera",
+        "holding camera",
+        "camera",
+        "camera"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 291,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_291.png",
+    "question": "Whos is sitting in the chair?",
+    "label": "['man', 'man', 'girl man', 'dad', 'dad', 'two people', 'man', 'people', 'man', 'father daughter']",
+    "choices": [
+        "man",
+        "girl man",
+        "no one",
+        "girl"
+    ],
+    "correct_choice": "girl man"
+}

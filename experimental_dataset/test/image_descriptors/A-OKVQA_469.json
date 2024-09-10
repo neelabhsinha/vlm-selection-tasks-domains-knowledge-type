@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 469,
+    "caption": "a bus driving down a street next to a crowd of people",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "road",
+        "building",
+        "mode of transport",
+        "transport",
+        "text",
+        "street",
+        "public transport",
+        "tour bus service",
+        "airport bus",
+        "bus driver",
+        "city",
+        "bus"
+    ]
+}

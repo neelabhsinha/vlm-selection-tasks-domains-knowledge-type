@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3167,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3167.png",
+    "question": "Which Part of the application is this?",
+    "label": [
+        "II",
+        "PART II"
+    ]
+}

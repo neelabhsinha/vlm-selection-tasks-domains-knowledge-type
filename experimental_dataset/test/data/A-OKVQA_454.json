@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 454,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_454.png",
+    "question": "Why would someone sit here?",
+    "label": "['to eat', 'eating', 'eat', 'eating', 'to eat', 'to eat', 'to eat', 'to eat', 'to eat', 'dinner']",
+    "choices": [
+        "paint",
+        "work",
+        "drive",
+        "eat"
+    ],
+    "correct_choice": "eat"
+}

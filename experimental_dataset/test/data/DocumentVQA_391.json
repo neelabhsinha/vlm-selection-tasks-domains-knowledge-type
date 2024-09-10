@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 391,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_391.png",
+    "question": "What type of form is this?",
+    "label": [
+        "PROJECT ASSIGNMENT FORM"
+    ]
+}

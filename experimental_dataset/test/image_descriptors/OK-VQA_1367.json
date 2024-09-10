@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1367,
+    "caption": "a herd of cattle walking across a dirt road",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sky",
+        "grass",
+        "herd",
+        "ranch",
+        "livestock",
+        "herding",
+        "steppe",
+        "horse",
+        "shrubland",
+        "animal",
+        "mammal",
+        "mountain",
+        "cattle",
+        "field",
+        "landscape",
+        "travel"
+    ]
+}

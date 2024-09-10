@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3281,
+    "caption": "a herd of cattle standing on top of a dry grass covered field",
+    "object_tags": [
+        "barn",
+        "cattle",
+        "livestock",
+        "animal",
+        "building",
+        "cow",
+        "bovine",
+        "indoor",
+        "dairy cow",
+        "grass",
+        "ceiling",
+        "mammal",
+        "fence",
+        "ground",
+        "standing",
+        "farm",
+        "enclosure",
+        "stable"
+    ]
+}

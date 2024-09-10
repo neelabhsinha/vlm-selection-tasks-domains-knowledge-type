@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1437,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1437.png",
+    "question": "Who owns these three things?",
+    "label": [
+        "man",
+        "man",
+        "man",
+        "man",
+        "business men",
+        "business men",
+        "businessman",
+        "businessman",
+        "rich people",
+        "rich people"
+    ]
+}

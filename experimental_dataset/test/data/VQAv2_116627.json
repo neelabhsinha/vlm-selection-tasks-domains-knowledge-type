@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 116627,
+    "image_path": "./experimental_dataset/test/images/VQAv2_116627.png",
+    "question": "Are these girls sisters?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "can't tell",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

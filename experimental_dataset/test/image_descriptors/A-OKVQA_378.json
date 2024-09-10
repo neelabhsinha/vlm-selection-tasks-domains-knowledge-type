@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 378,
+    "caption": "a bus is parked on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "tree",
+        "vehicle",
+        "land vehicle",
+        "sky",
+        "street",
+        "bus",
+        "thoroughfare",
+        "lane",
+        "road surface",
+        "building",
+        "asphalt",
+        "car",
+        "wheel",
+        "mode of transport",
+        "tarmac",
+        "traffic",
+        "driving",
+        "city"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 39949,
+    "caption": "a white van is parked next to a group of people",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "road",
+        "transport",
+        "tree",
+        "people",
+        "van",
+        "light commercial vehicle",
+        "motor vehicle",
+        "minivan",
+        "ground",
+        "person",
+        "group",
+        "parked",
+        "standing",
+        "street",
+        "vacation"
+    ]
+}

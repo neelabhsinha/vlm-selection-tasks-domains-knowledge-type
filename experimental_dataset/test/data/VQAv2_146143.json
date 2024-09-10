@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 146143,
+    "image_path": "./experimental_dataset/test/images/VQAv2_146143.png",
+    "question": "Is a reflection visible on the door?",
+    "label": [
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "overhead light",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

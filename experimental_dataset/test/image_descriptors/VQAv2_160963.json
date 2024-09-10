@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 160963,
+    "caption": "a man sitting on a bench next to a sheep",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "person",
+        "man",
+        "sheep",
+        "bench",
+        "plant",
+        "grass",
+        "ground"
+    ]
+}

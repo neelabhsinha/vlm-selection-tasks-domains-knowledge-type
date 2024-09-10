@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3232,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3232.png",
+    "question": "Which Committee's report is this?",
+    "label": [
+        "INTERNATIONAL SPECIAL PROJECTS COMMITTEE",
+        "International Special Projects Committee"
+    ]
+}

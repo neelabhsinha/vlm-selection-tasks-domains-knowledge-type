@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2279,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2279.png",
+    "question": "What holiday do you think this is?",
+    "label": [
+        "thanksgiving",
+        "thanksgiving",
+        "thanksgiving",
+        "thanksgiving",
+        "thanksgiving",
+        "thanksgiving",
+        "thanksgiving",
+        "thanksgiving",
+        "thanksgiving",
+        "thanksgiving"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 856,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_856.png",
+    "question": "What type of boards are the people using?",
+    "label": "['surf', 'surfboards', 'surfboards', 'surfboards', 'surf', 'surfboard', 'skating board', 'surf', 'surf', 'surf board']",
+    "choices": [
+        "surfboard",
+        "snowboard",
+        "skateboard",
+        "wakeboard"
+    ],
+    "correct_choice": "surfboard"
+}

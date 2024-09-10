@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 667,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_667.png",
+    "question": "to which side do right extreme mentioned states belong to?",
+    "label": [
+        "eastern"
+    ]
+}

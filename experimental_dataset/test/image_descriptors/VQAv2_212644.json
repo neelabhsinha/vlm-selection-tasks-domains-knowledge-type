@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 212644,
+    "caption": "a large building with a clock tower on top of it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "person",
+        "clock",
+        "clothing",
+        "man",
+        "turret",
+        "medieval architecture",
+        "tower",
+        "street",
+        "city",
+        "vacation"
+    ]
+}

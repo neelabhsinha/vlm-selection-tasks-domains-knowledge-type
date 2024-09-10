@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 424,
+    "caption": "a person holding a slice of pizza",
+    "object_tags": [
+        "dish",
+        "food",
+        "pizza",
+        "fast food",
+        "person",
+        "pizza cheese",
+        "italian food",
+        "california-style pizza",
+        "flatbread",
+        "indoor",
+        "holding",
+        "slice"
+    ]
+}

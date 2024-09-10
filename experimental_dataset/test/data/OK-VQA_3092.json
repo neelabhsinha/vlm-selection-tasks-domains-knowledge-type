@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3092,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3092.png",
+    "question": "What kind of plane is flying?",
+    "label": [
+        "bomber",
+        "bomber",
+        "bomber",
+        "bomber",
+        "fighter jet",
+        "fighter jet",
+        "combat plane",
+        "combat plane",
+        "fighter",
+        "fighter"
+    ]
+}

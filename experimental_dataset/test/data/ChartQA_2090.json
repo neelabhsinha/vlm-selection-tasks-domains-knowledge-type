@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2090,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2090.png",
+    "question": "How much money did Japan spend on advertising in the United States in 2019?",
+    "label": [
+        "1342"
+    ]
+}

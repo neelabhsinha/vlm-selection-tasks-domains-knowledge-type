@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1386,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1386.png",
+    "question": "What type of carnival ride is this?",
+    "label": [
+        "firetruck ride",
+        "firetruck ride",
+        "firetruck ride",
+        "firetruck ride",
+        "fair",
+        "fair",
+        "carousel",
+        "carousel",
+        "kid ride",
+        "kid ride"
+    ]
+}

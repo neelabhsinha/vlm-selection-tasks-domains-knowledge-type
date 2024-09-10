@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 66254,
+    "image_path": "./experimental_dataset/test/images/VQAv2_66254.png",
+    "question": "Is this photo in color?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 922,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_922.png",
+    "question": "What is this wallcovering called?",
+    "label": [
+        "wallpaper",
+        "wallpaper",
+        "wallpaper",
+        "wallpaper",
+        "wallpaper",
+        "wallpaper",
+        "walpaper",
+        "walpaper",
+        "tapestry",
+        "tapestry"
+    ]
+}

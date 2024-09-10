@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 553,
+    "image_path": "./experimental_dataset/test/images/ChartQA_553.png",
+    "question": "How many shows in the chart have older viewers than the daily show?",
+    "label": [
+        "4"
+    ]
+}

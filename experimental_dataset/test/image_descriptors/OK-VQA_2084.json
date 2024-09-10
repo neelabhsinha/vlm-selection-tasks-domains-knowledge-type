@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2084,
+    "caption": "a man looking at a laptop on a table",
+    "object_tags": [
+        "indoor",
+        "person",
+        "clothing",
+        "computer",
+        "laptop",
+        "personal computer",
+        "job",
+        "output device",
+        "wall",
+        "computer hardware",
+        "woman",
+        "using"
+    ]
+}

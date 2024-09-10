@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 747,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_747.png",
+    "question": "What fuel is this type of bus?",
+    "label": "['electric', 'petrol', 'gas', 'electric', 'electric', 'diesel', 'gas', 'electric', 'diesel', 'hydrogen']",
+    "choices": [
+        "petrol",
+        "gas",
+        "diesel",
+        "electric"
+    ],
+    "correct_choice": "electric"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 901,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_901.png",
+    "question": "What type of food is on display in this shop?",
+    "label": "['pastries', 'cakes', 'cakes', 'baked goods', 'cakes', 'deserts', 'desserts', 'pastry', 'cake', 'sweets']",
+    "choices": [
+        "desserts",
+        "chinese",
+        "pizza",
+        "meats"
+    ],
+    "correct_choice": "desserts"
+}

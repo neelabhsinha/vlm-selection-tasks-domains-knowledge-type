@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 829,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_829.png",
+    "question": "How many signs have a diagonal line through them?",
+    "label": "['two', 'one', 'two', 'two', 'two', 'three', 'two', 'two', 'two', 'two']",
+    "choices": [
+        "four",
+        "five",
+        "seven",
+        "two"
+    ],
+    "correct_choice": "two"
+}

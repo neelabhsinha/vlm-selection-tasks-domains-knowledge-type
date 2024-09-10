@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1036,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1036.png",
+    "question": "How did the person wearing blue come to be in the position they are in?",
+    "label": "['fell', 'skiing', 'falling', 'skiing', 'falling', 'fell down', 'skiing', 'scatting sceir', 'fell down', 'fell']",
+    "choices": [
+        "marketing",
+        "escaping",
+        "falling",
+        "waking up"
+    ],
+    "correct_choice": "falling"
+}

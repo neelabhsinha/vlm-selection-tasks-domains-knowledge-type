@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 444,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_444.png",
+    "question": "At what time of day are the skateboarders probably skating on the beach?",
+    "label": "['early evening', 'evening', 'evening', 'sunset', 'sunset', 'sunset', 'sunset', 'evening', 'sunset', 'sunset']",
+    "choices": [
+        "dawn",
+        "night",
+        "sunrise",
+        "sunset"
+    ],
+    "correct_choice": "sunset"
+}

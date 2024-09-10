@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1440,
+    "caption": "a man in a wetsuit carrying a surfboard in the ocean",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "person",
+        "surfboard",
+        "wave",
+        "beach",
+        "outdoor recreation",
+        "clothing",
+        "recreation",
+        "surface water sports",
+        "wind wave",
+        "surfing equipment",
+        "riding",
+        "ocean",
+        "surfing",
+        "surf",
+        "woman",
+        "wet suit"
+    ]
+}

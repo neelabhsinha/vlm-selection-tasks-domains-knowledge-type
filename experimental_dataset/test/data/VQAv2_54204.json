@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 54204,
+    "image_path": "./experimental_dataset/test/images/VQAv2_54204.png",
+    "question": "Is the man a railway worker?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

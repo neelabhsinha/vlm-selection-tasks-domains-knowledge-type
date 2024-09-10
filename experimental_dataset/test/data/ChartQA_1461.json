@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1461,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1461.png",
+    "question": "In what state were 40 percent of 3- and 4-year-olds enrolled in pre-kindergarten programs in 2018-19?",
+    "label": [
+        "Oklahoma"
+    ]
+}

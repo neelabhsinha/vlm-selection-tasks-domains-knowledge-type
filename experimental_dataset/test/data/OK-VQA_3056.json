@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3056,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3056.png",
+    "question": "What kind of license do you need to drive this?",
+    "label": [
+        "cdl",
+        "cdl",
+        "cdl",
+        "cdl",
+        "class",
+        "class",
+        "truck",
+        "truck",
+        "commercial",
+        "commercial"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 968,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_968.png",
+    "question": "What objects are usually in this room?",
+    "label": [
+        "table and chair",
+        "table and chair",
+        "table and chair",
+        "table and chair",
+        "food",
+        "food",
+        "people",
+        "people",
+        "appliance",
+        "appliance"
+    ]
+}

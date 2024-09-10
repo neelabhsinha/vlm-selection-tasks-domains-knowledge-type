@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 156623,
+    "image_path": "./experimental_dataset/test/images/VQAv2_156623.png",
+    "question": "What kind of room is this?",
+    "label": [
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom",
+        "bathroom"
+    ]
+}

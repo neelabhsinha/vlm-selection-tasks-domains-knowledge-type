@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 329,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_329.png",
+    "question": "What is subheading ii ?",
+    "label": [
+        "Luxury Tax"
+    ]
+}

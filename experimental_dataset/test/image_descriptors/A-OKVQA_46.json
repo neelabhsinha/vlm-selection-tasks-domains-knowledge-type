@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 46,
+    "caption": "a plate of food with broccoli and meat",
+    "object_tags": [
+        "cuisine",
+        "food",
+        "broccoli",
+        "vegetable",
+        "cruciferous vegetables",
+        "noodle",
+        "pasta",
+        "stir frying",
+        "recipe",
+        "chinese food",
+        "ingredient",
+        "staple food",
+        "indoor",
+        "dish"
+    ]
+}

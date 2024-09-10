@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 2776,
+    "image_path": "./experimental_dataset/test/images/VQAv2_2776.png",
+    "question": "Is there a computer keyboard in the background?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 70,
+    "caption": "a kitchen with a table and a refrigerator",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "floor",
+        "room",
+        "interior design",
+        "scene",
+        "ceiling",
+        "table",
+        "flooring",
+        "coffee table",
+        "property",
+        "kitchen & dining room table",
+        "cabinetry",
+        "den",
+        "living room",
+        "window",
+        "chair",
+        "kitchen",
+        "furniture",
+        "dining",
+        "home",
+        "hotel",
+        "apartment"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 263,
+    "caption": "cars parked on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "sky",
+        "road",
+        "vehicle registration plate",
+        "text",
+        "street",
+        "wheel",
+        "bus",
+        "traffic",
+        "mode of transport",
+        "road surface",
+        "van",
+        "lane",
+        "automotive parking light",
+        "thoroughfare",
+        "asphalt",
+        "car",
+        "motor vehicle",
+        "parking",
+        "city",
+        "light",
+        "parked"
+    ]
+}

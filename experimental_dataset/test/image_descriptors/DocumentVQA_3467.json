@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3467,
+    "caption": "a collage of photographs showing various types of books",
+    "object_tags": [
+        "text",
+        "font",
+        "screenshot",
+        "black and white",
+        "document"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3828,
+    "caption": "a computer generated image of a clock on a table",
+    "object_tags": [
+        "text",
+        "receipt",
+        "screenshot",
+        "handwriting"
+    ]
+}

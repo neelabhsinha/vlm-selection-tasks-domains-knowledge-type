@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 215,
+    "caption": "a spoon and a bowl of soup on a table",
+    "object_tags": [
+        "food",
+        "dish",
+        "soup",
+        "stew",
+        "kitchen utensil",
+        "tableware",
+        "cuisine",
+        "stock",
+        "curry",
+        "pottage",
+        "gravy",
+        "thai curry",
+        "yellow curry",
+        "cawl",
+        "indian cuisine",
+        "red curry",
+        "tripe soup",
+        "broth",
+        "hot and sour soup",
+        "bowl",
+        "indoor",
+        "spoon"
+    ]
+}

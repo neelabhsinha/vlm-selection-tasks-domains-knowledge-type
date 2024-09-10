@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 212,
+    "caption": "a clock on a table in a room",
+    "object_tags": [
+        "clock",
+        "indoor",
+        "plant",
+        "alarm clock",
+        "wall clock",
+        "floor",
+        "wall"
+    ]
+}

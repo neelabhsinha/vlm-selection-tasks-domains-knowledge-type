@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 940,
+    "caption": "a bus with a picture of a woman on it",
+    "object_tags": [
+        "clothing",
+        "bus",
+        "vehicle",
+        "hat",
+        "window",
+        "passenger",
+        "person",
+        "train"
+    ]
+}

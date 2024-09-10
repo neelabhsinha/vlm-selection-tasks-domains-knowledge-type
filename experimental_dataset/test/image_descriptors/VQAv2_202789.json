@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 202789,
+    "caption": "a man sitting on a bed with a bottle of wine",
+    "object_tags": [
+        "person",
+        "indoor",
+        "human face",
+        "wall",
+        "clothing",
+        "black and white",
+        "furniture",
+        "comfort",
+        "man",
+        "bed"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 941,
+    "caption": "a bedroom with a bed, chair and a window",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "interior design",
+        "window",
+        "pillow",
+        "bed",
+        "linens",
+        "bedding",
+        "cushion",
+        "bed sheet",
+        "bed frame",
+        "mattress",
+        "house",
+        "window covering",
+        "window treatment",
+        "duvet cover",
+        "floor",
+        "table",
+        "nightstand",
+        "bedroom",
+        "room",
+        "chair",
+        "hotel"
+    ]
+}

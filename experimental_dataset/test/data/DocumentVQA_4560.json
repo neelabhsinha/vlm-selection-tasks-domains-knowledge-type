@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4560,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4560.png",
+    "question": "What is the abbreviation for the state of FLORIDA?",
+    "label": [
+        "FL"
+    ]
+}

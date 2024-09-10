@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 321,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_321.png",
+    "question": "Who would sit here?",
+    "label": "['office worker', 'business person', 'employee', 'employee', 'worker', 'office worker', 'employee', 'worker', 'worker', 'it worker']",
+    "choices": [
+        "pianist",
+        "driver",
+        "employee",
+        "teacher"
+    ],
+    "correct_choice": "employee"
+}

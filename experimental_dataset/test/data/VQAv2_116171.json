@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 116171,
+    "image_path": "./experimental_dataset/test/images/VQAv2_116171.png",
+    "question": "Is the photo taken from  inside?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "maybe",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

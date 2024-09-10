@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5215,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5215.png",
+    "question": "What is the arrival date of Dr. &Mrs.William J.Darby ?",
+    "label": [
+        "june 7, 1967"
+    ]
+}

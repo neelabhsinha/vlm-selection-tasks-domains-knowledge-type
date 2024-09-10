@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 660,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_660.png",
+    "question": "What type of sandwich is being served?",
+    "label": [
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "cucumber",
+        "club",
+        "club",
+        "rueben",
+        "rueben"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1229,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1229.png",
+    "question": "What kind of home is this?",
+    "label": [
+        "apartment",
+        "apartment",
+        "apartment",
+        "apartment",
+        "apartment",
+        "apartment",
+        "apartment",
+        "apartment",
+        "modern",
+        "modern"
+    ]
+}

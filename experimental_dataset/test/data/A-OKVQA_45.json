@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 45,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_45.png",
+    "question": "What type of design is the person's shirt?",
+    "label": "['tie dye', 'tie dye', 'tie dye', 'tie dye', 'tie die', 'casual', 'tye dye', 'tie dyed', 'tie dye', 'tye die']",
+    "choices": [
+        "striped",
+        "plaid",
+        "uniform",
+        "tie dyed"
+    ],
+    "correct_choice": "tie dyed"
+}

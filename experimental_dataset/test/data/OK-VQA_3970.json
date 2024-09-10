@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3970,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3970.png",
+    "question": "What city is famous for this type of sandwich?",
+    "label": [
+        "philadelphia",
+        "philadelphia",
+        "philadelphia",
+        "philadelphia",
+        "philadelphia",
+        "philadelphia",
+        "philidelphia",
+        "philidelphia",
+        "philly",
+        "philly"
+    ]
+}

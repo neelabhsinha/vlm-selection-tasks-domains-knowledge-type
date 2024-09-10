@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2273,
+    "caption": "two brown bears standing next to each other",
+    "object_tags": [
+        "animal",
+        "outdoor",
+        "mammal",
+        "bear",
+        "brown bear",
+        "zoo",
+        "kodiak bear",
+        "grizzly bear",
+        "terrestrial animal",
+        "grizzly",
+        "black bear",
+        "plant",
+        "ground",
+        "brown",
+        "rock",
+        "wildlife",
+        "river"
+    ]
+}

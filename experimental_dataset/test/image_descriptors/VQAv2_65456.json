@@ -1,0 +1,11 @@
+{
+    "dataset": "VQAv2",
+    "key": 65456,
+    "caption": "a view from inside a train window of a cabin",
+    "object_tags": [
+        "window",
+        "train",
+        "indoor",
+        "window seat"
+    ]
+}

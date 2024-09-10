@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 171828,
+    "caption": "a tall building with a clock tower on top of it",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "sky",
+        "street",
+        "land vehicle",
+        "bus",
+        "vehicle",
+        "town",
+        "mixed-use",
+        "road",
+        "city",
+        "cloud",
+        "tower",
+        "people",
+        "red",
+        "person",
+        "travel",
+        "square"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 57,
+    "caption": "a woman standing in front of a bunch of bananas",
+    "object_tags": [
+        "banana",
+        "person",
+        "smile",
+        "clothing",
+        "food",
+        "human face",
+        "man",
+        "cooking plantain",
+        "saba banana",
+        "matoke",
+        "outdoor",
+        "standing",
+        "indoor"
+    ]
+}

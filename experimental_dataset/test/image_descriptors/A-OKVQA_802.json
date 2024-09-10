@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 802,
+    "caption": "a man standing next to a surfboard in front of a building",
+    "object_tags": [
+        "outdoor",
+        "footwear",
+        "clothing",
+        "building",
+        "ground",
+        "person",
+        "standing",
+        "clothes"
+    ]
+}

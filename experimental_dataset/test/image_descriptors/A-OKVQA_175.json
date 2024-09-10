@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 175,
+    "caption": "a yellow fire hydrant sitting on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "fire hydrant",
+        "road",
+        "ground",
+        "street",
+        "car",
+        "blue",
+        "yellow",
+        "sidewalk",
+        "city"
+    ]
+}

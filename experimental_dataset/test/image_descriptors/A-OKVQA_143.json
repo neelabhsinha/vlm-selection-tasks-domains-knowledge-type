@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 143,
+    "caption": "two people walking down a train track next to a train",
+    "object_tags": [
+        "transport",
+        "track",
+        "car",
+        "railroad",
+        "railway",
+        "land vehicle",
+        "vehicle",
+        "rolling stock",
+        "railroad car",
+        "ground",
+        "outdoor",
+        "train"
+    ]
+}

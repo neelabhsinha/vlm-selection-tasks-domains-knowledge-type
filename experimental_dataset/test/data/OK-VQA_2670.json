@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2670,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2670.png",
+    "question": "Why would this person be holding this sign?",
+    "label": [
+        "protest",
+        "protest",
+        "protest",
+        "protest",
+        "protest",
+        "protest",
+        "homeless",
+        "homeless",
+        "to protest",
+        "to protest"
+    ]
+}

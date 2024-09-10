@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 10,
+    "caption": "an old airplane sitting on display in a museum",
+    "object_tags": [
+        "plane",
+        "aircraft",
+        "transport",
+        "aerospace engineering",
+        "military aircraft",
+        "hangar",
+        "aviation",
+        "indoor",
+        "aerospace manufacturer",
+        "air force",
+        "air travel",
+        "vehicle",
+        "jet aircraft",
+        "air",
+        "display",
+        "force",
+        "military vehicle",
+        "airplane",
+        "museum"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1951,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1951.png",
+    "question": "What might this animal like to eat?",
+    "label": [
+        "bamboo",
+        "bamboo",
+        "bamboo",
+        "bamboo",
+        "bamboo",
+        "bamboo",
+        "leaf",
+        "leaf",
+        "bambo",
+        "bambo"
+    ]
+}

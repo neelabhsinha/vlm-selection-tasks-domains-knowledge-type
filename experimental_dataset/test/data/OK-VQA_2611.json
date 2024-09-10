@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2611,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2611.png",
+    "question": "What is the plate made out of?",
+    "label": [
+        "ceramic",
+        "ceramic",
+        "ceramic",
+        "ceramic",
+        "porcelain",
+        "porcelain",
+        "glass",
+        "glass",
+        "china",
+        "china"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 306,
+    "caption": "a man sitting on a bench next to a group of people",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "man",
+        "furniture",
+        "ground",
+        "outdoor",
+        "sitting",
+        "chair",
+        "human face",
+        "sidewalk",
+        "people",
+        "street",
+        "city"
+    ]
+}

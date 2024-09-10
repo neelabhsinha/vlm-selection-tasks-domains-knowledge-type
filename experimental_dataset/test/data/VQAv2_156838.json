@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 156838,
+    "image_path": "./experimental_dataset/test/images/VQAv2_156838.png",
+    "question": "What is the design on the front of the train?",
+    "label": [
+        "wings, crown",
+        "bird",
+        "bird",
+        "bird",
+        "eagle",
+        "eagle",
+        "eagle",
+        "bird with crown",
+        "eagle",
+        "crown"
+    ]
+}

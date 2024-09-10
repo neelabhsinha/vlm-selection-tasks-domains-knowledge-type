@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 975,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_975.png",
+    "question": "Where are the two playing frisbee?",
+    "label": "['basketball court', 'gym', 'gym', 'gym', 'indoor gym', 'gym', 'basketball court', 'gymnasium', 'gym', 'gym']",
+    "choices": [
+        "tennis court",
+        "field",
+        "beach",
+        "gymnasium"
+    ],
+    "correct_choice": "gymnasium"
+}

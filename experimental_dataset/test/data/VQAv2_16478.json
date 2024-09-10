@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 16478,
+    "image_path": "./experimental_dataset/test/images/VQAv2_16478.png",
+    "question": "What kind of building is this?",
+    "label": [
+        "can't tell",
+        "house",
+        "brick",
+        "apartment",
+        "brick",
+        "rundown",
+        "apartment",
+        "apartment",
+        "apartment",
+        "brick"
+    ]
+}

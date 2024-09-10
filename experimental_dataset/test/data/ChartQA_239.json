@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 239,
+    "image_path": "./experimental_dataset/test/images/ChartQA_239.png",
+    "question": "What is the percentage difference between the adverts and agencies?",
+    "label": [
+        "5.4"
+    ]
+}

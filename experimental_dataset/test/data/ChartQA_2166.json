@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2166,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2166.png",
+    "question": "What was the value of U.S. exports to China in 2020?",
+    "label": [
+        "124.65"
+    ]
+}

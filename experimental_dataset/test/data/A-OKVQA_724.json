@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 724,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_724.png",
+    "question": "What type of television is in the corner of the living room?",
+    "label": "['box tv', 'tube', 'old', 'portable', 'box television', 'crt', 'tube television', 'old', 'crt', 'small']",
+    "choices": [
+        "crt",
+        "plasma",
+        "led",
+        "oled"
+    ],
+    "correct_choice": "crt"
+}

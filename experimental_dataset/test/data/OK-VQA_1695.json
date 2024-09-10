@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1695,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1695.png",
+    "question": "Name the park where the person is sitting?",
+    "label": [
+        "central",
+        "central",
+        "central",
+        "central",
+        "central",
+        "central",
+        "central park",
+        "central park",
+        "central park",
+        "central park"
+    ]
+}

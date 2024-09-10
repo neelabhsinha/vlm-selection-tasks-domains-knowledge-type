@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 25244,
+    "caption": "a man standing next to a horse in a field",
+    "object_tags": [
+        "outdoor",
+        "animal",
+        "mule",
+        "mare",
+        "mammal",
+        "ground",
+        "horse"
+    ]
+}

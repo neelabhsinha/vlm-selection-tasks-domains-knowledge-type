@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 73470,
+    "caption": "a parking meter on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "tire",
+        "vehicle",
+        "text",
+        "land vehicle",
+        "wheel",
+        "meter",
+        "parking",
+        "auto part",
+        "ground",
+        "car",
+        "road",
+        "automotive exterior",
+        "parked",
+        "street",
+        "pole",
+        "bicycle",
+        "parking meter"
+    ]
+}

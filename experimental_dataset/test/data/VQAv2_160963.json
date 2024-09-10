@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 160963,
+    "image_path": "./experimental_dataset/test/images/VQAv2_160963.png",
+    "question": "What is he sitting on?",
+    "label": [
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench",
+        "bench"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 587,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_587.png",
+    "question": "Why is the woman holding the umbrella?",
+    "label": "['shade', 'get shadow', 'shade', 'sun protection', 'over hate', 'for shade', 'shade', 'shade', 'shade', 'sun protection']",
+    "choices": [
+        "repel rain",
+        "fashion accessory",
+        "for shade",
+        "to dance"
+    ],
+    "correct_choice": "for shade"
+}

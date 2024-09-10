@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 465,
+    "image_path": "./experimental_dataset/test/images/ChartQA_465.png",
+    "question": "Is the average of dark brown bars greater than the average of light brown bars?",
+    "label": [
+        "No"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 145579,
+    "caption": "a baby laying on a bed with a laptop",
+    "object_tags": [
+        "indoor",
+        "computer",
+        "person",
+        "toddler",
+        "laptop",
+        "bed",
+        "comfort",
+        "human face",
+        "boy",
+        "baby",
+        "child"
+    ]
+}

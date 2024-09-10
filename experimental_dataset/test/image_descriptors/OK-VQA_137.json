@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 137,
+    "caption": "a conveyor belt filled with donuts on top of a conveyor belt",
+    "object_tags": [
+        "food processing",
+        "kitchen appliance",
+        "snack",
+        "indoor",
+        "donut",
+        "bakery",
+        "fast food",
+        "cookware and bakeware",
+        "doughnut",
+        "person",
+        "food",
+        "kitchen",
+        "tray",
+        "cooking"
+    ]
+}

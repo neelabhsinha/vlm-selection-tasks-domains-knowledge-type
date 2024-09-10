@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5241,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5241.png",
+    "question": "What is the caption of ITC's Brands?",
+    "label": [
+        "delighting millions of households",
+        "Delighting Millions of Households"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 124,
+    "caption": "a sandwich and a cup of coffee on a tray",
+    "object_tags": [
+        "food",
+        "fast food",
+        "meal",
+        "bread",
+        "tableware",
+        "tea",
+        "drink",
+        "cuisine",
+        "baked goods",
+        "coffee cup",
+        "table",
+        "dish",
+        "brunch",
+        "plate",
+        "coffee",
+        "kitchen utensil",
+        "lunch",
+        "sandwich",
+        "snack",
+        "mug",
+        "indoor",
+        "breakfast",
+        "cup"
+    ]
+}

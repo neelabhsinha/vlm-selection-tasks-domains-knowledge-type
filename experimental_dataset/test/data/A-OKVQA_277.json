@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 277,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_277.png",
+    "question": "What is in front of the monitor?",
+    "label": "['chair', 'chair', 'keyboard', 'chair', 'keyboard', 'plants', 'chair', 'keyboard', 'webcam', 'chair']",
+    "choices": [
+        "keyboard",
+        "phone",
+        "mouse",
+        "headphones"
+    ],
+    "correct_choice": "keyboard"
+}

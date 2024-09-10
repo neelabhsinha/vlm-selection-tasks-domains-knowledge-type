@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 303,
+    "caption": "a young girl walking down a sidewalk next to a fire hydrant",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "fire hydrant",
+        "road",
+        "person",
+        "ground",
+        "footwear",
+        "jacket",
+        "sidewalk",
+        "street",
+        "child",
+        "girl",
+        "yellow"
+    ]
+}

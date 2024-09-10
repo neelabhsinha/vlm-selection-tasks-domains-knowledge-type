@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 167,
+    "caption": "a close up of a picture of a sign",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "circle",
+        "logo",
+        "design"
+    ]
+}

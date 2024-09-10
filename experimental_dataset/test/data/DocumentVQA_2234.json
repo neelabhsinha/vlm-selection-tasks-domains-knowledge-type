@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2234,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2234.png",
+    "question": "What is the percentage of Bilateral edema of male children between 15-19 years?",
+    "label": [
+        "0.7"
+    ]
+}

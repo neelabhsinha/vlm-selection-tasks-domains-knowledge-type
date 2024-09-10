@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 602,
+    "caption": "a small plane flying through the air",
+    "object_tags": [
+        "aircraft",
+        "outdoor",
+        "sky",
+        "transport",
+        "propeller-driven aircraft",
+        "light aircraft",
+        "general aviation",
+        "propeller",
+        "air travel",
+        "flight",
+        "plane",
+        "monoplane",
+        "air sports",
+        "ultralight aviation",
+        "air",
+        "vehicle",
+        "airplane",
+        "wing",
+        "biplane",
+        "airshow",
+        "aviation",
+        "mountain"
+    ]
+}

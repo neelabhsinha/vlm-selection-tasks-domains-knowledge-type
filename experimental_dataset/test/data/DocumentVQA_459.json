@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 459,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_459.png",
+    "question": "What is the brand name for the 23rd question?",
+    "label": [
+        "Lucky Strike"
+    ]
+}

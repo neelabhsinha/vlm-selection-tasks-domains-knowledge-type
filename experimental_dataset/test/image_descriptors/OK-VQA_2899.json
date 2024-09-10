@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2899,
+    "caption": "a brown cow standing next to a baby cow",
+    "object_tags": [
+        "grass",
+        "animal",
+        "mammal",
+        "field",
+        "outdoor",
+        "pasture",
+        "livestock",
+        "bovine",
+        "cattle",
+        "cow",
+        "grassland",
+        "terrestrial animal",
+        "herd",
+        "fodder",
+        "ranch",
+        "calf",
+        "dairy cow",
+        "meadow",
+        "wildlife",
+        "standing",
+        "herding",
+        "green",
+        "grazing",
+        "grassy"
+    ]
+}

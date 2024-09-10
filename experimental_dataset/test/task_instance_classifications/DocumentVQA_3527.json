@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3527,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Nature"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Literary Knowledge"
+    ]
+}

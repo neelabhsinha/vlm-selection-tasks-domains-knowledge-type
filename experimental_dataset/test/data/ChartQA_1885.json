@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1885,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1885.png",
+    "question": "How many people have died because of COVID-19?",
+    "label": [
+        "133"
+    ]
+}

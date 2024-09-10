@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 423,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_423.png",
+    "question": "This fork has how many prongs?",
+    "label": "['three', 'three', 'three', 'three', 'three', 'three', 'three', 'three', 'three', 'three']",
+    "choices": [
+        "six",
+        "seven",
+        "five",
+        "three"
+    ],
+    "correct_choice": "three"
+}

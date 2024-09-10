@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1550,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1550.png",
+    "question": "Who was the most valuable player at the 2018 FIFA World Cup?",
+    "label": [
+        "Harry Kane"
+    ]
+}

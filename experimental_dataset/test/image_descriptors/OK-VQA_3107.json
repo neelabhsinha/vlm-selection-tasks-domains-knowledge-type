@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3107,
+    "caption": "a man wearing a hat and glasses",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "man",
+        "wearing",
+        "building",
+        "shirt",
+        "fashion accessory",
+        "helmet",
+        "cap",
+        "indoor",
+        "hat",
+        "glasses"
+    ]
+}

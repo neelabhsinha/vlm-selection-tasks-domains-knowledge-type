@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 663,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_663.png",
+    "question": "What position in baseball is the player diving for a catch?",
+    "label": "['outfield', 'pitcher', 'forwarded', 'field', 'outfield', 'left field', 'left field', \"can't see\", 'outfield', 'shortstop']",
+    "choices": [
+        "center field",
+        "left field",
+        "shortstop",
+        "right field"
+    ],
+    "correct_choice": "left field"
+}

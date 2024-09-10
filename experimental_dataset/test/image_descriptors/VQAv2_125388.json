@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 125388,
+    "caption": "a man throwing a frisbee in a park",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "person",
+        "plant",
+        "sky",
+        "tree",
+        "man",
+        "frisbee",
+        "footwear",
+        "shorts",
+        "waste container",
+        "lawn",
+        "clothing",
+        "summer",
+        "physical fitness",
+        "throwing",
+        "jump"
+    ]
+}

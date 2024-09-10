@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 216,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_216.png",
+    "question": "Where were these pieces of fruit likely purchased?",
+    "label": "['grocery store', 'market', 'supermarket', 'market', 'market', 'market', 'florida', 'grocery store', 'grocery store', 'market']",
+    "choices": [
+        "roadside stand",
+        "online",
+        "grocery store",
+        "farm"
+    ],
+    "correct_choice": "grocery store"
+}

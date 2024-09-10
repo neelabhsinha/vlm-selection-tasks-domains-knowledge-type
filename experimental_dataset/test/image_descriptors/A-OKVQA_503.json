@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 503,
+    "caption": "a kitchen with a sink and a counter top",
+    "object_tags": [
+        "indoor",
+        "countertop",
+        "cabinetry",
+        "sink",
+        "cabinet",
+        "wall",
+        "tap",
+        "kitchen appliance",
+        "plumbing fixture",
+        "home appliance",
+        "cupboard",
+        "drawer",
+        "kitchen sink",
+        "furniture",
+        "kitchen stove",
+        "major appliance",
+        "stove",
+        "oven",
+        "house",
+        "room",
+        "kitchen",
+        "floor",
+        "home"
+    ]
+}

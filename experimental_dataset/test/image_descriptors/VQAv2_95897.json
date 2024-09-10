@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 95897,
+    "caption": "a city street filled with lots of cars and motorcycles",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "tree",
+        "road",
+        "street",
+        "traffic",
+        "car",
+        "motorcycle",
+        "lane",
+        "vehicle registration plate",
+        "tire",
+        "thoroughfare",
+        "parking",
+        "traffic congestion",
+        "asphalt",
+        "person",
+        "people",
+        "way",
+        "riding",
+        "group",
+        "city",
+        "police"
+    ]
+}

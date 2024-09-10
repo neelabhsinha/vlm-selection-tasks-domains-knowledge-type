@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 62164,
+    "image_path": "./experimental_dataset/test/images/VQAv2_62164.png",
+    "question": "Is the dog afraid of the cat?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

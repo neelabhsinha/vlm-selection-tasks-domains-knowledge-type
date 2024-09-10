@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3702,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3702.png",
+    "question": "What other products does jvc make?",
+    "label": [
+        "dvrs",
+        "dvrs",
+        "dvd player",
+        "dvd player",
+        "vcr",
+        "vcr",
+        "television screen",
+        "television screen",
+        "dvd player",
+        "dvd player"
+    ]
+}

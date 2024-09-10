@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 14656,
+    "image_path": "./experimental_dataset/test/images/VQAv2_14656.png",
+    "question": "What color is the building in the background?",
+    "label": [
+        "tan",
+        "yellow",
+        "gray",
+        "brown",
+        "tan",
+        "light orange",
+        "brown",
+        "brown",
+        "tan",
+        "yellow"
+    ]
+}

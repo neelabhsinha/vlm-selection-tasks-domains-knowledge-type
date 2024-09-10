@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1137,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1137.png",
+    "question": "What does the Bulletin impose?",
+    "label": [
+        "costly and time-consuming burdens on federal agencies to respond to challenges by outside parties",
+        "The Bulletin imposes costly and time-consuming burdens on federal agencies to respond to challenges by outside parties."
+    ]
+}

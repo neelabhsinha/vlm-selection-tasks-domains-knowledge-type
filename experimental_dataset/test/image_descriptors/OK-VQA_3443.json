@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3443,
+    "caption": "a parking lot filled with lots of parked cars",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sky",
+        "car",
+        "road",
+        "vehicle",
+        "land vehicle",
+        "road surface",
+        "asphalt",
+        "thoroughfare",
+        "tarmac",
+        "street",
+        "lane",
+        "parking",
+        "tree",
+        "parked",
+        "plant"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4701,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4701.png",
+    "question": "What is the name for this type of toilet?",
+    "label": [
+        "bidet",
+        "bidet",
+        "bidet",
+        "bidet",
+        "wall",
+        "wall",
+        "wall mounted",
+        "wall mounted",
+        "mounted",
+        "mounted"
+    ]
+}

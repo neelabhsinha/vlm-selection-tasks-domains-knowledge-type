@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 990,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_990.png",
+    "question": "The small hand of the clock on the wall is closest to what number?",
+    "label": "['six', '12', 'six', 'six', 'six', 'twelve', 'six', 'at six', 'six', 'six']",
+    "choices": [
+        "eight",
+        "six",
+        "two",
+        "nine"
+    ],
+    "correct_choice": "six"
+}

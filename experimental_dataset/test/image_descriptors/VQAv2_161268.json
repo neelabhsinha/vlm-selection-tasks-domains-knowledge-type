@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 161268,
+    "caption": "a tall building with a clock tower",
+    "object_tags": [
+        "outdoor",
+        "black and white",
+        "sky",
+        "building",
+        "clock",
+        "landmark",
+        "architecture",
+        "monochrome",
+        "street",
+        "white",
+        "sign",
+        "city",
+        "tower"
+    ]
+}

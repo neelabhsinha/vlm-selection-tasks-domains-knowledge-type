@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 374,
+    "caption": "a young boy standing in front of a refrigerator",
+    "object_tags": [
+        "indoor",
+        "appliance",
+        "person",
+        "wall",
+        "clothing",
+        "home appliance",
+        "kitchen appliance",
+        "cabinetry",
+        "shelf",
+        "major appliance",
+        "bottle",
+        "floor",
+        "house",
+        "kitchen",
+        "refrigerator"
+    ]
+}

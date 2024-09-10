@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4844,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4844.png",
+    "question": "What is the budget for Tour expenses?",
+    "label": [
+        "280.00"
+    ]
+}

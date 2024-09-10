@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 79,
+    "caption": "a plate of food with broccoli and meat",
+    "object_tags": [
+        "food",
+        "cuisine",
+        "leaf vegetable",
+        "cruciferous vegetables",
+        "ingredient",
+        "recipe",
+        "broccoli",
+        "vegetable",
+        "meat",
+        "indoor",
+        "chicken"
+    ]
+}

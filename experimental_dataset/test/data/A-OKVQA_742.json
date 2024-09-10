@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 742,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_742.png",
+    "question": "What is on the left side of the painting that is on the counter?",
+    "label": "['plant', 'plant', 'plant', 'plant', 'plant', 'plant', 'plant', 'plant', 'plant', 'plant']",
+    "choices": [
+        "hair",
+        "cat",
+        "dog",
+        "plant"
+    ],
+    "correct_choice": "plant"
+}

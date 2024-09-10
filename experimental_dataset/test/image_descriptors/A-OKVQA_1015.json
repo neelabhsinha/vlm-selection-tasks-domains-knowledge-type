@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1015,
+    "caption": "a person riding a motorcycle on a dirt road",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "ground",
+        "motorcycle",
+        "mountain",
+        "person",
+        "grass",
+        "nature",
+        "adventure"
+    ]
+}

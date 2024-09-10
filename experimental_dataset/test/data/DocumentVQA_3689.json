@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3689,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3689.png",
+    "question": "Who shall be discussing both the topics 'Glycerol' and 'Propylene glycol'?",
+    "label": [
+        "A. T. Mosberg",
+        "A.T. Mosberg"
+    ]
+}

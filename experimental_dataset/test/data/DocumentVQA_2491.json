@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2491,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2491.png",
+    "question": "What is the topic of Dr. J. F. Riordan, Harvard Medical School Boston?",
+    "label": [
+        "metalloenzyme catalysis",
+        "Metalloenzyme Catalysis"
+    ]
+}

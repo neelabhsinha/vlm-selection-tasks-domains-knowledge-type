@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 791,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_791.png",
+    "question": "The clothing in this picture all includes what similarity?",
+    "label": "['black', 'colors', 'black color', 'black', 'black color', 'same color', 'same color', 'black', 'black', 'black']",
+    "choices": [
+        "all dresses",
+        "all suits",
+        "all costumes",
+        "same color"
+    ],
+    "correct_choice": "same color"
+}

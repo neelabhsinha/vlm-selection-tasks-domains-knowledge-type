@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 581,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_581.png",
+    "question": "What are the stuffed animals pretending to do?",
+    "label": "['read', 'read', 'read', 'read', 'read', 'reading', 'read', 'read book', 'read book', 'read book']",
+    "choices": [
+        "washing",
+        "sleeping",
+        "reading",
+        "cleaning"
+    ],
+    "correct_choice": "reading"
+}

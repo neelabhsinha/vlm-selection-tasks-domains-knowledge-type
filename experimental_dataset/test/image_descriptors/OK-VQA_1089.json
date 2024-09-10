@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1089,
+    "caption": "a black and white cow standing next to a wooden fence",
+    "object_tags": [
+        "outdoor",
+        "cattle",
+        "livestock",
+        "ground",
+        "cow",
+        "fence",
+        "barn",
+        "dairy cow",
+        "plant",
+        "mammal",
+        "farm",
+        "building",
+        "standing",
+        "animal",
+        "black",
+        "wooden",
+        "grass",
+        "bovine",
+        "house",
+        "enclosure",
+        "fenced"
+    ]
+}

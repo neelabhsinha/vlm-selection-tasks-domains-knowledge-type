@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 173,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_173.png",
+    "question": "What animal has similar color to the flower in the picture on the left side of the room?",
+    "label": "['cat', 'cardinal', 'rooster', 'rooster', 'panda', 'cardinal', 'bird', 'robin', 'cardinal', 'fox']",
+    "choices": [
+        "koala",
+        "rooster",
+        "zebra",
+        "panda"
+    ],
+    "correct_choice": "rooster"
+}

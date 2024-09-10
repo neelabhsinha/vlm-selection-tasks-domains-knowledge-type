@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1043,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1043.png",
+    "question": "How many people are standing in the courtyard?",
+    "label": "['four', 'four', 'four', 'four', 'four', 'four', '4 people', 'four', 'four', '4 people']",
+    "choices": [
+        "two",
+        "four",
+        "seven",
+        "five"
+    ],
+    "correct_choice": "four"
+}

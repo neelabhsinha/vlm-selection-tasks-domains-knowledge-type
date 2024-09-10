@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 848,
+    "caption": "a blue and white train traveling down train tracks",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "transport",
+        "public transport",
+        "land vehicle",
+        "sky",
+        "tram",
+        "mode of transport",
+        "way",
+        "passenger car",
+        "electrical supply",
+        "rolling stock",
+        "electric locomotive",
+        "cable car",
+        "electricity",
+        "streetcar",
+        "track",
+        "train",
+        "street",
+        "tramway"
+    ]
+}

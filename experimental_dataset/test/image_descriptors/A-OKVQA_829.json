@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 829,
+    "caption": "a car parked on the side of a road next to a street sign",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "tree",
+        "text",
+        "sky",
+        "wheel",
+        "road",
+        "vehicle registration plate",
+        "traffic sign",
+        "sign",
+        "signage",
+        "car",
+        "plant",
+        "street",
+        "family car",
+        "mid-size car",
+        "way",
+        "red"
+    ]
+}

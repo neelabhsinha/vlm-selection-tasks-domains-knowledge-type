@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 994,
+    "image_path": "./experimental_dataset/test/images/ChartQA_994.png",
+    "question": "What is the smallest percentage value recorded in the chart?",
+    "label": [
+        "5"
+    ]
+}

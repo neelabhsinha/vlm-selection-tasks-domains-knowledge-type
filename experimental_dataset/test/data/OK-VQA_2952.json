@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2952,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2952.png",
+    "question": "What type of clouds are in the picture?",
+    "label": [
+        "cumulus",
+        "cumulus",
+        "cumulus",
+        "cumulus",
+        "cumuli",
+        "cumuli",
+        "nimbus",
+        "nimbus",
+        "cumulous",
+        "cumulous"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 436,
+    "caption": "a collage of photos showing different types of signs",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "font",
+        "line",
+        "number",
+        "plan"
+    ]
+}

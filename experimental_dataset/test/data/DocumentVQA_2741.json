@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2741,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2741.png",
+    "question": "How many days are there in this month?",
+    "label": [
+        "30"
+    ]
+}

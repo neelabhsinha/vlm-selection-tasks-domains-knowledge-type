@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 474,
+    "caption": "a man sitting at a table with a laptop",
+    "object_tags": [
+        "indoor",
+        "person",
+        "bottle",
+        "laptop",
+        "computer",
+        "clothing",
+        "drink",
+        "wall",
+        "wine glass",
+        "tableware",
+        "man",
+        "wine",
+        "table",
+        "sitting"
+    ]
+}

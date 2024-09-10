@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1262,
+    "caption": "a young child sitting at a table eating a donut",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "toddler",
+        "boy",
+        "food",
+        "baby",
+        "snack",
+        "fast food",
+        "eating",
+        "indoor"
+    ]
+}

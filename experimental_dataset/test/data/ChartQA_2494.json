@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2494,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2494.png",
+    "question": "What was the value of B2C sales to private customers in 2019?",
+    "label": [
+        "197.1"
+    ]
+}

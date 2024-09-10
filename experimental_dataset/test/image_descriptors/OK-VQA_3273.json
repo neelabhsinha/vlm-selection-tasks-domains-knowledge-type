@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3273,
+    "caption": "a small brown dog sitting on top of a pile of books",
+    "object_tags": [
+        "indoor",
+        "receipt",
+        "text",
+        "book",
+        "animal",
+        "dog",
+        "furniture",
+        "office supplies",
+        "wall",
+        "floor",
+        "cat"
+    ]
+}

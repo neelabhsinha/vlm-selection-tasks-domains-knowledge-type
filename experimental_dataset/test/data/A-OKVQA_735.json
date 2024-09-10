@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 735,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_735.png",
+    "question": "What does this bird named as?",
+    "label": "['albatross', 'swan', 'pelican', 'swan', 'duck', 'duck', 'dock', 'seagull', 'sea bird', 'duck']",
+    "choices": [
+        "swan",
+        "albatross",
+        "duck",
+        "gull"
+    ],
+    "correct_choice": "albatross"
+}

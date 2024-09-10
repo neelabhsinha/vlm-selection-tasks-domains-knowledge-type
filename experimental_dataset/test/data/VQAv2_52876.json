@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 52876,
+    "image_path": "./experimental_dataset/test/images/VQAv2_52876.png",
+    "question": "Are they playing with their dog?",
+    "label": [
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 883,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_883.png",
+    "question": "What city is the team from?",
+    "label": "['spokane valley', 'spokane', 'spokane', 'spokane', 'spokane', 'spokane valley', 'seattle', 'spokane', 'spokane', 'spokane']",
+    "choices": [
+        "seattle",
+        "detroit",
+        "spokane",
+        "portland"
+    ],
+    "correct_choice": "seattle"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 701,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_701.png",
+    "question": "What type of parking is available?",
+    "label": "['parallel', 'street', 'street', 'parallel', 'street', 'street', 'parallel', 'street', 'street', 'street']",
+    "choices": [
+        "lot",
+        "parallel",
+        "diagonal",
+        "valet"
+    ],
+    "correct_choice": "parallel"
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4734,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4734.png",
+    "question": "What is the Surgeon General's warning?",
+    "label": [
+        "cigarette smoke contains carbon monoxide",
+        "Cigarette smoke contains Carbon monoxide",
+        "Cigarette smoke contains Carbon monoxide."
+    ]
+}

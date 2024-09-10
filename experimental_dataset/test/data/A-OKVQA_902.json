@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 902,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_902.png",
+    "question": "Why is there a rack on the front of the bus?",
+    "label": "['for bicycles', 'for bikes', 'bikes', 'for bikes', 'hold bikes', 'bikes', 'bikes', 'bumper protection', 'bikes', 'for bikes']",
+    "choices": [
+        "luggage",
+        "cattle mover",
+        "moving pedestrians",
+        "for bikes"
+    ],
+    "correct_choice": "for bikes"
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3954,
+    "caption": "a man in a suit and tie standing next to a man in a suit and tie",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "official",
+        "blazer",
+        "outerwear",
+        "man",
+        "smile",
+        "formal wear",
+        "greeting",
+        "handshake",
+        "coat",
+        "standing",
+        "suit",
+        "red",
+        "people",
+        "outdoor"
+    ]
+}

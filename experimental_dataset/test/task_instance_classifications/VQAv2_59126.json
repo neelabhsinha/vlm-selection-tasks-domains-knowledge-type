@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 59126,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Law",
+        "Government and Politics"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Cultural Knowledge",
+        "Technical Knowledge"
+    ]
+}

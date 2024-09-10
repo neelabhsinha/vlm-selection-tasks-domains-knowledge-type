@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 186235,
+    "image_path": "./experimental_dataset/test/images/VQAv2_186235.png",
+    "question": "Do these guys need hydration?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

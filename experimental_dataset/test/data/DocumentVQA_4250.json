@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4250,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4250.png",
+    "question": "What is the account number?",
+    "label": [
+        "081120"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1988,
+    "caption": "a plane that is flying in the air",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "grass",
+        "sky",
+        "transport",
+        "land vehicle",
+        "cloud",
+        "wheel",
+        "plane",
+        "air travel",
+        "tree",
+        "aircraft",
+        "truck",
+        "aviation",
+        "car",
+        "flight",
+        "airplane",
+        "field",
+        "jet",
+        "runway",
+        "parked",
+        "takeoff"
+    ]
+}

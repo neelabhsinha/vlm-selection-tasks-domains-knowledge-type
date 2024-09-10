@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 200342,
+    "image_path": "./experimental_dataset/test/images/VQAv2_200342.png",
+    "question": "Is the pizza pepperoni?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

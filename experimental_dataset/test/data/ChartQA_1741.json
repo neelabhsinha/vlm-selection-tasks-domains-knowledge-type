@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1741,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1741.png",
+    "question": "What was the volume of passenger rail transport in the Netherlands in 2018?",
+    "label": [
+        "22600"
+    ]
+}

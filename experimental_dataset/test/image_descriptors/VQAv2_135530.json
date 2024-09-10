@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 135530,
+    "caption": "a man standing on a beach holding a frisbee",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "person",
+        "beach",
+        "cloud",
+        "water",
+        "man",
+        "vacation",
+        "trunks",
+        "board short",
+        "clothing",
+        "summer",
+        "shorts",
+        "ground",
+        "surfing",
+        "standing",
+        "frisbee",
+        "ocean"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1049,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1049.png",
+    "question": "What is the woman using the pen to do?",
+    "label": "['grade paper', 'grade paper', 'write', 'write', 'write', 'write', 'write', 'write', 'write', 'grade paper']",
+    "choices": [
+        "write",
+        "clean",
+        "draw",
+        "organize"
+    ],
+    "correct_choice": "write"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 216,
+    "image_path": "./experimental_dataset/test/images/ChartQA_216.png",
+    "question": "What is the value for France?",
+    "label": [
+        "1931"
+    ]
+}

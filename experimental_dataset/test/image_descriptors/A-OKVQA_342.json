@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 342,
+    "caption": "a brown horse standing on top of a lush green field",
+    "object_tags": [
+        "horse",
+        "animal",
+        "outdoor",
+        "mammal",
+        "grass",
+        "sky",
+        "mane",
+        "mare",
+        "ranch",
+        "livestock",
+        "sorrel",
+        "mustang horse",
+        "mountain",
+        "stallion",
+        "pony",
+        "pasture",
+        "field",
+        "standing",
+        "brown",
+        "ground"
+    ]
+}

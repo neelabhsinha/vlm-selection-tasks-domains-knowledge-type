@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 101,
+    "caption": "a car filled with lots of stuffed animals on top of it",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "man",
+        "person",
+        "car",
+        "text",
+        "street",
+        "crowded",
+        "crowd",
+        "parade",
+        "market"
+    ]
+}

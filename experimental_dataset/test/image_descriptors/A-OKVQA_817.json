@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 817,
+    "caption": "people standing on a street corner at night",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "street light",
+        "night",
+        "street",
+        "tree",
+        "light",
+        "road",
+        "city",
+        "ground",
+        "sign"
+    ]
+}

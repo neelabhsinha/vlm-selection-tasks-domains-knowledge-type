@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4022,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4022.png",
+    "question": "What kinds of food grows on these?",
+    "label": [
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "lemon",
+        "lemon"
+    ]
+}

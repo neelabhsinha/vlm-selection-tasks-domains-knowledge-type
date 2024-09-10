@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2719,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2719.png",
+    "question": "In which segment does the state which is on the north western corner fall?",
+    "label": [
+        "Priority 4",
+        "4",
+        "Priority 4 - States"
+    ]
+}

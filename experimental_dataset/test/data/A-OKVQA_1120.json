@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1120,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1120.png",
+    "question": "What percent of the stands are full?",
+    "label": "['quarter', 'base ball', 'running', '15', 'playing', 'ten percent', 'grass', 'twenty', 'five', 'two']",
+    "choices": [
+        "15",
+        "100",
+        "50",
+        "50"
+    ],
+    "correct_choice": "15"
+}

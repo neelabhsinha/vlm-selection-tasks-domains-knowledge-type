@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 171357,
+    "caption": "a pizza sitting on top of a cutting board",
+    "object_tags": [
+        "pizza",
+        "food",
+        "fast food",
+        "tableware",
+        "italian food",
+        "fork",
+        "kitchen utensil",
+        "california-style pizza",
+        "baked goods",
+        "pizza cheese",
+        "table",
+        "indoor",
+        "plate",
+        "flatbread",
+        "knife"
+    ]
+}

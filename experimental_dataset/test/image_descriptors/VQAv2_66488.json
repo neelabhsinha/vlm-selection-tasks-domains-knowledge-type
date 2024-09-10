@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 66488,
+    "caption": "a white sink sitting under a window in a bathroom",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "tap",
+        "window",
+        "bathroom accessory",
+        "tile",
+        "plumbing",
+        "sink",
+        "bathroom cabinet",
+        "restroom",
+        "countertop",
+        "interior design",
+        "white",
+        "floor",
+        "room",
+        "bathroom",
+        "mirror",
+        "tub",
+        "bathtub"
+    ]
+}

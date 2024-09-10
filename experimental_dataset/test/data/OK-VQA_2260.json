@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2260,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2260.png",
+    "question": "What is the appropriate name for this bird?",
+    "label": [
+        "bluejay",
+        "bluejay",
+        "bluejay",
+        "bluejay",
+        "bluejay",
+        "bluejay",
+        "bluebird",
+        "bluebird",
+        "blue bird",
+        "blue bird"
+    ]
+}

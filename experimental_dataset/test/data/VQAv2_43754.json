@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 43754,
+    "image_path": "./experimental_dataset/test/images/VQAv2_43754.png",
+    "question": "Is he in the clouds?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

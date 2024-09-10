@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 35317,
+    "caption": "a window with a view of a train",
+    "object_tags": [
+        "train",
+        "window",
+        "public transport",
+        "vehicle",
+        "passenger",
+        "indoor"
+    ]
+}

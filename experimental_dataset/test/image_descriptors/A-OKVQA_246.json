@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 246,
+    "caption": "a woman sitting at a table in a kitchen",
+    "object_tags": [
+        "indoor",
+        "clothing",
+        "wall",
+        "person",
+        "black and white",
+        "human face",
+        "table",
+        "furniture",
+        "appliance",
+        "kitchen",
+        "woman"
+    ]
+}

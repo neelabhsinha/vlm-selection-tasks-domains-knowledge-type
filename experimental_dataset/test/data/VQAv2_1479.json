@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 1479,
+    "image_path": "./experimental_dataset/test/images/VQAv2_1479.png",
+    "question": "Where is the safety helmet?",
+    "label": [
+        "in person with horse",
+        "on his head",
+        "on handler's head",
+        "on man's head",
+        "on man walking horse",
+        "man guiding horse",
+        "on lead's head",
+        "worn by man",
+        "head",
+        "man's head"
+    ]
+}

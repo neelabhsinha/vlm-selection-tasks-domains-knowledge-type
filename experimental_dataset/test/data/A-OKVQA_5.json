@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 5,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_5.png",
+    "question": "The thing on the animal to the left's head is similar to what is on the head of what else?",
+    "label": "['different ear', 'he goat', 'elephant', 'bull', 'devil', 'rams', 'ram', 'buck', 'horns', 'sheep']",
+    "choices": [
+        "devil",
+        "zombie",
+        "vampire",
+        "witch"
+    ],
+    "correct_choice": "devil"
+}

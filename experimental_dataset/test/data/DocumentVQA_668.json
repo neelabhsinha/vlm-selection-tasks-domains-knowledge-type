@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 668,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_668.png",
+    "question": "What is the number of attendees eligible for attendee honoraria?",
+    "label": [
+        "300"
+    ]
+}

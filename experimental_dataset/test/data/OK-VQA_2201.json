@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2201,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2201.png",
+    "question": "What sport is the motor cycle here used in?",
+    "label": [
+        "motorcross",
+        "motorcross",
+        "motorcross",
+        "motorcross",
+        "dirt",
+        "dirt",
+        "motocross",
+        "motocross",
+        "mortor cross",
+        "mortor cross"
+    ]
+}

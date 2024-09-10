@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3258,
+    "caption": "a plate of food on a table",
+    "object_tags": [
+        "food",
+        "dish",
+        "cuisine",
+        "table",
+        "plate",
+        "meal",
+        "fast food",
+        "indoor",
+        "tableware",
+        "restaurant",
+        "cup",
+        "bean",
+        "potato"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4401,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4401.png",
+    "question": "What is the life expectancy of this animal?",
+    "label": [
+        "20 years",
+        "20 years",
+        "20 years",
+        "20 years",
+        "15 years",
+        "15 years",
+        "12 years",
+        "12 years",
+        "short",
+        "short"
+    ]
+}

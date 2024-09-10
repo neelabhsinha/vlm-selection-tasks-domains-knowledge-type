@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2377,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2377.png",
+    "question": "How many Brazilian athletes participated in Sochi in 2014?",
+    "label": [
+        "13"
+    ]
+}

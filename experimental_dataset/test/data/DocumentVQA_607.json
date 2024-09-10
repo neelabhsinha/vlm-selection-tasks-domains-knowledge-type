@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 607,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_607.png",
+    "question": "Which card is handed to the respondent second?",
+    "label": [
+        "\"a\"",
+        "A",
+        "a",
+        "Card \"A\"",
+        "\"A\""
+    ]
+}

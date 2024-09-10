@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4308,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4308.png",
+    "question": "What is the title of the page?",
+    "label": [
+        "Appendix"
+    ]
+}

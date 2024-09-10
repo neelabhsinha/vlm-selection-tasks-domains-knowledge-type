@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 854,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_854.png",
+    "question": "What type of location is this?",
+    "label": "['station', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'airport', 'shopping mall', 'airport']",
+    "choices": [
+        "library",
+        "station",
+        "hospital",
+        "court"
+    ],
+    "correct_choice": "station"
+}

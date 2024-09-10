@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2899,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2899.png",
+    "question": "At what age do these animals stop depending on their mothers for survival?",
+    "label": [
+        "1 year",
+        "1 year",
+        "1 year",
+        "1 year",
+        "6months",
+        "6months",
+        "4 months",
+        "4 months",
+        "8 weeks",
+        "8 weeks"
+    ]
+}

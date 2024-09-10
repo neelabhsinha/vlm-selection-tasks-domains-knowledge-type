@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 162161,
+    "caption": "a white truck driving down a street next to a tree",
+    "object_tags": [
+        "text",
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "tree",
+        "wheel",
+        "transport",
+        "road",
+        "mode of transport",
+        "commercial vehicle",
+        "motor vehicle",
+        "light commercial vehicle",
+        "van",
+        "truck",
+        "street"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4618,
+    "caption": "a person riding a surfboard on top of a body of water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "surfboard",
+        "person",
+        "recreation",
+        "outdoor recreation",
+        "boardsport",
+        "stand up paddle surfing",
+        "swimming",
+        "riding",
+        "surfing",
+        "ocean",
+        "dolphin"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4795,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4795.png",
+    "question": "What is the Interobserver for BG1?",
+    "label": [
+        ".97"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 925,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_925.png",
+    "question": "What type of building appears in the background?",
+    "label": "['royal building', 'courthouse', 'courthouse', 'government', 'old one', 'palace', 'castle', 'court', 'parliament', 'hotel']",
+    "choices": [
+        "skyscraper",
+        "house",
+        "government",
+        "religious"
+    ],
+    "correct_choice": "government"
+}

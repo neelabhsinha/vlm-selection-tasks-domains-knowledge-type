@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 740,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_740.png",
+    "question": "Why is his mouth open?",
+    "label": "['eating', 'snapshot eating', 'to eat', 'eating', 'selfie pose', 'eating', 'eating', 'eating', 'eating', 'eating']",
+    "choices": [
+        "to eat",
+        "to yawn",
+        "to kiss",
+        "to yell"
+    ],
+    "correct_choice": "to eat"
+}

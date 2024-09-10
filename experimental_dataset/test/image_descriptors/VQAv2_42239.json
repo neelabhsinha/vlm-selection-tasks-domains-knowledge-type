@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 42239,
+    "caption": "a cat sitting on top of a keyboard",
+    "object_tags": [
+        "cat",
+        "keyboard",
+        "animal",
+        "indoor",
+        "small to medium-sized cats",
+        "computer",
+        "whiskers",
+        "felidae",
+        "close"
+    ]
+}

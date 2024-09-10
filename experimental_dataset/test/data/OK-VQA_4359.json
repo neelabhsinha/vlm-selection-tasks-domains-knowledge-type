@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4359,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4359.png",
+    "question": "What is the term for the man wearing black?",
+    "label": [
+        "umpire",
+        "umpire",
+        "umpire",
+        "umpire",
+        "umpire",
+        "umpire",
+        "umpire",
+        "umpire",
+        "umpire",
+        "umpire"
+    ]
+}

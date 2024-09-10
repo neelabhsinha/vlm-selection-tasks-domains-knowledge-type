@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 0,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_0.png",
+    "question": "What is in the motorcyclist's mouth?",
+    "label": "['cigarette', 'cigarette', 'cigarette', 'cigarette', 'cigarette', 'cigarette', 'cigarette', 'cigarette', 'cigarette', 'cigarette']",
+    "choices": [
+        "toothpick",
+        "food",
+        "popsicle stick",
+        "cigarette"
+    ],
+    "correct_choice": "cigarette"
+}

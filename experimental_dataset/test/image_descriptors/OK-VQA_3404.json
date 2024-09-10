@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3404,
+    "caption": "a black bear and a brown bear in a grassy area",
+    "object_tags": [
+        "animal",
+        "grass",
+        "mammal",
+        "outdoor",
+        "zoo",
+        "terrestrial animal",
+        "plant",
+        "wildlife",
+        "ground",
+        "field",
+        "rock"
+    ]
+}

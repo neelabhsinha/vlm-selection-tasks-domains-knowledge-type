@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 401,
+    "image_path": "./experimental_dataset/test/images/ChartQA_401.png",
+    "question": "Between which two years was the sugar beets yield maximum?",
+    "label": [
+        "[1965, 1970]"
+    ]
+}

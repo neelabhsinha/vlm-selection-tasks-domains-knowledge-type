@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 55882,
+    "caption": "two women walking down a sidewalk in front of a store",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "clock",
+        "footwear",
+        "sky",
+        "person",
+        "sidewalk",
+        "store",
+        "people",
+        "standing",
+        "shop",
+        "street"
+    ]
+}

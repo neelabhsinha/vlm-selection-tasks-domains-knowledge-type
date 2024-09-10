@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4291,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4291.png",
+    "question": "What is he holding?",
+    "label": [
+        "tennis racket",
+        "tennis racket",
+        "tennis racket",
+        "tennis racket",
+        "tennis racket",
+        "tennis racket",
+        "racquet",
+        "racquet",
+        "racket",
+        "racket"
+    ]
+}

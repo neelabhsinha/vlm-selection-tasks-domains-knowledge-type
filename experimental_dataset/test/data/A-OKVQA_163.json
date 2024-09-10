@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 163,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_163.png",
+    "question": "What is the small house behind the cattle made up of?",
+    "label": "['brick', 'bricks', 'stone', 'stone', 'stones', 'stone', 'stone', 'bricks', 'bricks', 'stone']",
+    "choices": [
+        "plastic",
+        "reef",
+        "stone",
+        "thatch"
+    ],
+    "correct_choice": "stone"
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 86566,
+    "caption": "a small plane flying through a cloudy sky",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "transport",
+        "cloud",
+        "aircraft",
+        "airplane",
+        "flight",
+        "plane",
+        "general aviation",
+        "wing",
+        "air travel",
+        "monoplane",
+        "propeller-driven aircraft",
+        "light aircraft",
+        "propeller",
+        "airshow",
+        "glider",
+        "aviation",
+        "cloudy",
+        "air",
+        "high"
+    ]
+}

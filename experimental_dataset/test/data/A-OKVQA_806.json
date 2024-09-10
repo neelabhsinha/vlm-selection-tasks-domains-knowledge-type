@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 806,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_806.png",
+    "question": "What is the device on the right filled with paper used for?",
+    "label": "['printing', 'printing', 'printer', 'printer', 'printing', 'printing', 'printing', 'printing', 'printing', 'printing']",
+    "choices": [
+        "drawing",
+        "printing",
+        "shredding",
+        "coloring"
+    ],
+    "correct_choice": "printing"
+}

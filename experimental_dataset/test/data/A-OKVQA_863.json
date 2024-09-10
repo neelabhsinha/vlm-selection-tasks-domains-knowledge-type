@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 863,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_863.png",
+    "question": "What type of furniture is the book on?",
+    "label": "['table', 'coffee table', 'coffee table', 'table', 'table', 'wood', 'coffee table', 'table', 'table', 'coffee table']",
+    "choices": [
+        "sofa",
+        "chair",
+        "bookshelf",
+        "table"
+    ],
+    "correct_choice": "table"
+}

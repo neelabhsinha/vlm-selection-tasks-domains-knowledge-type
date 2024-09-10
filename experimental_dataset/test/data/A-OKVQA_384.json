@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 384,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_384.png",
+    "question": "What word is on the pillow?",
+    "label": "['hello', 'hello', 'hello', 'helo', 'hello', 'hello', 'hello', 'hello', 'hello', 'hello']",
+    "choices": [
+        "goodbye",
+        "hello",
+        "sadness",
+        "thank you"
+    ],
+    "correct_choice": "hello"
+}

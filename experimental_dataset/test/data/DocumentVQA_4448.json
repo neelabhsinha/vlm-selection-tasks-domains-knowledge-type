@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4448,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4448.png",
+    "question": "What is the \u2018title\u2019?",
+    "label": [
+        "memorandum",
+        "Memorandum"
+    ]
+}

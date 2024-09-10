@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 890,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_890.png",
+    "question": "The men facing the camera are all wearing what?",
+    "label": "['hat', 'glasses', 'hats', 'glasses', 'glasses', 'wearing glass', 'glasses', 'glasses', 'glasses', 'glasses']",
+    "choices": [
+        "necklaces",
+        "body armor",
+        "bananas",
+        "glasses"
+    ],
+    "correct_choice": "glasses"
+}

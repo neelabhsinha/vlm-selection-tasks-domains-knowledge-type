@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2309,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2309.png",
+    "question": "What is the global leader in the corrective lens market?",
+    "label": [
+        "EssilorLuxottica"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2676,
+    "caption": "a desk with two computers and a monitor",
+    "object_tags": [
+        "indoor",
+        "computer",
+        "computer monitor",
+        "text",
+        "personal computer",
+        "computer desk",
+        "desk",
+        "desktop computer",
+        "furniture",
+        "computer keyboard",
+        "wall",
+        "computer hardware",
+        "output device",
+        "office building",
+        "office chair",
+        "computer terminal",
+        "office equipment",
+        "personal computer hardware",
+        "computer mouse",
+        "peripheral",
+        "office",
+        "table",
+        "screen",
+        "desktop"
+    ]
+}

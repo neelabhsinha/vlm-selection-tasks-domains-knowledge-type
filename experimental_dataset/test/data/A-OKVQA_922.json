@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 922,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_922.png",
+    "question": "The first number on the bus is needed to from what sequence?",
+    "label": "['stop', 'ten', '10-1', 'numerical sequence', 'ten', 'numerical', '1oi pattern', '14', 'time', '10-1']",
+    "choices": [
+        "14",
+        "85",
+        "22",
+        "37"
+    ],
+    "correct_choice": "14"
+}

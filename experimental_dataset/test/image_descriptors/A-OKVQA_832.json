@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 832,
+    "caption": "people standing on top of a dirt field",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "clothing",
+        "person",
+        "ground",
+        "footwear",
+        "people",
+        "umbrella",
+        "travel",
+        "man",
+        "tourism",
+        "accessory",
+        "group",
+        "standing",
+        "walking"
+    ]
+}

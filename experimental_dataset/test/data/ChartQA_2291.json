@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2291,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2291.png",
+    "question": "What was Uruguay's literacy rate in 2018?",
+    "label": [
+        "98.7"
+    ]
+}

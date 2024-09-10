@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5001,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5001.png",
+    "question": "what are the expenses at cosmos club, on may 25 ?",
+    "label": [
+        "7.00",
+        "$7.00"
+    ]
+}

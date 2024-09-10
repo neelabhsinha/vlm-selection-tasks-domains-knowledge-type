@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 166211,
+    "caption": "a man and a woman sitting at a table eating pizza",
+    "object_tags": [
+        "person",
+        "clothing",
+        "food",
+        "table",
+        "meal",
+        "tableware",
+        "pizza",
+        "fast food",
+        "indoor",
+        "supper",
+        "man",
+        "lunch",
+        "people",
+        "sitting",
+        "eating"
+    ]
+}

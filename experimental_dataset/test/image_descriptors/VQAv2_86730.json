@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 86730,
+    "caption": "a little girl standing in a field with a frisbee",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "toddler",
+        "person",
+        "clothing",
+        "tree",
+        "playground",
+        "lawn",
+        "footwear",
+        "field",
+        "young",
+        "green",
+        "holding",
+        "frisbee",
+        "child",
+        "boy",
+        "girl",
+        "hat",
+        "yellow",
+        "park"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2783,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2783.png",
+    "question": "Among the names given at the bottom, who is from New York?",
+    "label": [
+        "Mr. Manuel E. Rionda"
+    ]
+}

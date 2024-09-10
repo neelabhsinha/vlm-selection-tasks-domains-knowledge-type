@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 566,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_566.png",
+    "question": "What kind of cake is in the bottom row?",
+    "label": "['red velvet', 'decorative', 'decorative', 'red velvet', 'red velvet', 'red velvet', 'red velvet', 'red velvet', 'red velvet', 'cupcake']",
+    "choices": [
+        "red velvet",
+        "cherry",
+        "lemon meringue",
+        "apple"
+    ],
+    "correct_choice": "red velvet"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2189,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2189.png",
+    "question": "What year was ranked as the year with the highest production of legumes in Spain?",
+    "label": [
+        "2018"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 4341,
+    "image_path": "./experimental_dataset/test/images/VQAv2_4341.png",
+    "question": "What breed of dog is this canine?",
+    "label": [
+        "collie",
+        "mutt",
+        "collie",
+        "shih tzu",
+        "collie",
+        "blue heeler",
+        "border collie",
+        "shepherd",
+        "collie",
+        "australian shepherd"
+    ]
+}

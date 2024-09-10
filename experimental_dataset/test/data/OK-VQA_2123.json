@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2123,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2123.png",
+    "question": "What sound do these animals make?",
+    "label": [
+        "baa",
+        "baa",
+        "baa",
+        "baa",
+        "baaa",
+        "baaa",
+        "ba ba",
+        "ba ba",
+        "bah",
+        "bah"
+    ]
+}

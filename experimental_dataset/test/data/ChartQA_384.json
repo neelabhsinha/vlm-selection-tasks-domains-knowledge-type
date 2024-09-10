@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 384,
+    "image_path": "./experimental_dataset/test/images/ChartQA_384.png",
+    "question": "Which year shows Benin in the graph?",
+    "label": [
+        "2014"
+    ]
+}

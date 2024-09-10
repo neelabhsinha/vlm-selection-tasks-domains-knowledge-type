@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1127,
+    "caption": "a kitchen filled with furniture and appliances",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "interior design",
+        "ceiling",
+        "cabinetry",
+        "countertop",
+        "sink",
+        "floor",
+        "chair",
+        "room",
+        "kitchen",
+        "table",
+        "restaurant"
+    ]
+}

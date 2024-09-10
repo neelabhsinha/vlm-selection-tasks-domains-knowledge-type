@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 828,
+    "image_path": "./experimental_dataset/test/images/ChartQA_828.png",
+    "question": "What is the revenue percentage distribution of beer in the United Kingdom (UK) in 2018/19?",
+    "label": [
+        "32.4"
+    ]
+}

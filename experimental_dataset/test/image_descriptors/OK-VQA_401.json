@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 401,
+    "caption": "a young boy holding a donut in front of a crowd of people",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "human face",
+        "clothing",
+        "sky",
+        "boy",
+        "toddler",
+        "young",
+        "ground"
+    ]
+}

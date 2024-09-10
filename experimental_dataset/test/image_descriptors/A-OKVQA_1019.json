@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1019,
+    "caption": "a number of people on horses in a field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "person",
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "bicycle wheel",
+        "transport",
+        "dog",
+        "group",
+        "people",
+        "bicycle"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2901,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2901.png",
+    "question": "What is the date and time of the dinner on Monday?",
+    "label": [
+        "february 19, 1979, at 6:30 p.m.",
+        "February 19, 1979, at 6:30 p.m."
+    ]
+}

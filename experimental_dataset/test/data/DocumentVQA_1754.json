@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1754,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1754.png",
+    "question": "Whose name is written in the slip?",
+    "label": [
+        "dr. robert v. russell"
+    ]
+}

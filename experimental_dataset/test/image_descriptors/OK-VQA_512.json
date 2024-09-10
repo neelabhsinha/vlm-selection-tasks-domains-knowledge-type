@@ -1,0 +1,10 @@
+{
+    "dataset": "OK-VQA",
+    "key": 512,
+    "caption": "a variety of fruits and vegetables laid out on a table",
+    "object_tags": [
+        "text",
+        "toy",
+        "indoor"
+    ]
+}

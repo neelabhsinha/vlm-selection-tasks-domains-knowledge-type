@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1326,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1326.png",
+    "question": "What percentage of the national gross domestic product was China's gross national debt in 2019?",
+    "label": [
+        "57.05"
+    ]
+}

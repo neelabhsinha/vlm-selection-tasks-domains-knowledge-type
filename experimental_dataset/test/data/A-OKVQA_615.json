@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 615,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_615.png",
+    "question": "What animal corresponds to the sound written on the dog's blanket?",
+    "label": "['cat', 'cat', 'cat', 'cat', 'cat', 'cat', 'cat', 'person', 'person', 'cat']",
+    "choices": [
+        "cat",
+        "monkey",
+        "bird",
+        "dog"
+    ],
+    "correct_choice": "cat"
+}

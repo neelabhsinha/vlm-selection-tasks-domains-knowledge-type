@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 569,
+    "image_path": "./experimental_dataset/test/images/ChartQA_569.png",
+    "question": "What is the average share of women with raised blood pressure in Malawi and Sri Lanka?",
+    "label": [
+        "22.675"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 590,
+    "caption": "a woman cooking in a kitchen with a frying pan on the stove",
+    "object_tags": [
+        "indoor",
+        "person",
+        "cookware and bakeware",
+        "kitchen appliance",
+        "kitchenware",
+        "food",
+        "food processing",
+        "wok",
+        "mixing bowl",
+        "clothing",
+        "kitchen",
+        "sink",
+        "woman",
+        "frying pan",
+        "countertop",
+        "sauta pan",
+        "cook",
+        "wall",
+        "cooking",
+        "pan",
+        "preparing"
+    ]
+}

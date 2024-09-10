@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 914,
+    "caption": "horses standing in a fenced in area",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "plant",
+        "ranch",
+        "animal",
+        "rural area",
+        "farm",
+        "field",
+        "pasture",
+        "livestock",
+        "tree",
+        "sorrel",
+        "fodder",
+        "fence",
+        "horse",
+        "standing"
+    ]
+}

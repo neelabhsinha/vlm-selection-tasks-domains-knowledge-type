@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3168,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3168.png",
+    "question": "What type of flowers are in this bouqet?",
+    "label": [
+        "daisy",
+        "daisy",
+        "lilac and carnation",
+        "lilac and carnation",
+        "rose",
+        "rose",
+        "daisy",
+        "daisy",
+        "rose",
+        "rose"
+    ]
+}

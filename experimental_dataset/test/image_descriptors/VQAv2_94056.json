@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 94056,
+    "caption": "a bus driving down a street next to a tall building",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "building",
+        "sky",
+        "road",
+        "transport",
+        "mode of transport",
+        "street",
+        "public transport",
+        "city",
+        "text",
+        "bus",
+        "driving"
+    ]
+}

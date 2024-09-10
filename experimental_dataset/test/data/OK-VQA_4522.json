@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4522,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4522.png",
+    "question": "What might people say in this situation?",
+    "label": [
+        "cheer",
+        "cheer",
+        "cheer",
+        "cheer",
+        "cheer",
+        "cheer",
+        "celebration",
+        "celebration",
+        "toast",
+        "toast"
+    ]
+}

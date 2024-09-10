@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 130809,
+    "caption": "a woman sitting on the ground with an umbrella",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "human face",
+        "umbrella",
+        "accessory",
+        "fashion accessory",
+        "ground",
+        "outdoor",
+        "street fashion",
+        "jacket",
+        "kiss",
+        "woman",
+        "holding",
+        "jeans",
+        "coat",
+        "rain",
+        "sidewalk",
+        "street",
+        "girl"
+    ]
+}

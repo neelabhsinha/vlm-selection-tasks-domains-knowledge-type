@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3651,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3651.png",
+    "question": "What activity is taking place?",
+    "label": [
+        "paddle board",
+        "paddle board",
+        "paddle board",
+        "paddle board",
+        "surf",
+        "surf",
+        "surf",
+        "surf",
+        "paddleboarding",
+        "paddleboarding"
+    ]
+}

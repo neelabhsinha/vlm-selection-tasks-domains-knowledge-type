@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1142,
+    "caption": "a man in a black shirt and tie holding a cell phone",
+    "object_tags": [
+        "person",
+        "human face",
+        "indoor",
+        "man",
+        "clothing",
+        "selfie",
+        "wall",
+        "tie",
+        "mobile phone",
+        "smile",
+        "gadget",
+        "cool",
+        "holding",
+        "wearing",
+        "mirror",
+        "glasses",
+        "shirt",
+        "iPod"
+    ]
+}

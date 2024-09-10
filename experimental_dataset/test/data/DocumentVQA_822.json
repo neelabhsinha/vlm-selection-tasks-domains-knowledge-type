@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 822,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_822.png",
+    "question": "What is the Job # specified at the top right of the document?",
+    "label": [
+        "2565-16"
+    ]
+}

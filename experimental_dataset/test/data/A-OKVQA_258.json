@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 258,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_258.png",
+    "question": "What kind of show is the man on?",
+    "label": "['talk show', 'talk show', 'reality', 'talk show', 'talk show', 'talk', 'news', 'talk show', 'talk show', 'talk show']",
+    "choices": [
+        "cooking show",
+        "reality show",
+        "talk show",
+        "movie"
+    ],
+    "correct_choice": "talk show"
+}

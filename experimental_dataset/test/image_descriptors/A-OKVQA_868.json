@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 868,
+    "caption": "people walking in the rain with umbrellas",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "sky",
+        "person",
+        "people",
+        "rain",
+        "umbrella",
+        "clothing",
+        "footwear",
+        "walking",
+        "rainy",
+        "water",
+        "ground",
+        "street",
+        "wet",
+        "holding",
+        "city"
+    ]
+}

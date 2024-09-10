@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2228,
+    "caption": "a train is stopped at a train station",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "public transport",
+        "vehicle",
+        "land vehicle",
+        "transport",
+        "track",
+        "transport hub",
+        "mode of transport",
+        "railway",
+        "train station",
+        "rolling stock",
+        "passenger car",
+        "platform",
+        "ground",
+        "train",
+        "railroad"
+    ]
+}

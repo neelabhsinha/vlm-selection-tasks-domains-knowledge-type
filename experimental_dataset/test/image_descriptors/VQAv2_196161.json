@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 196161,
+    "caption": "a man in a suit and tie holding a microphone",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "journalist",
+        "cameras & optics",
+        "man",
+        "camera operator",
+        "photographer",
+        "television crew",
+        "film camera",
+        "optical instrument",
+        "videographer",
+        "outdoor",
+        "cinematographer",
+        "video camera",
+        "camera",
+        "looking",
+        "crowd"
+    ]
+}

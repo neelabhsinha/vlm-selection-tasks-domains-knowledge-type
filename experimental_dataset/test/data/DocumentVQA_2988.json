@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2988,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2988.png",
+    "question": "Which estrogenic compound has highest quantity in a  0.625 mg tablet of premarin ?",
+    "label": [
+        "estrone",
+        "Estrone"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 898,
+    "caption": "people riding on the back of a horse drawn carriage",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "wheel",
+        "building",
+        "vehicle",
+        "street",
+        "man",
+        "person",
+        "bicycle",
+        "road",
+        "transport",
+        "people",
+        "city",
+        "ground"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55234,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55234.png",
+    "question": "What type of animal is this?",
+    "label": [
+        "zebra",
+        "elephant",
+        "elephant",
+        "elephant",
+        "elephant",
+        "elephant",
+        "elephant",
+        "horse",
+        "elephants",
+        "elephants"
+    ]
+}

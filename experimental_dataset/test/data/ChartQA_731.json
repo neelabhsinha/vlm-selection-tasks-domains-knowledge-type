@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 731,
+    "image_path": "./experimental_dataset/test/images/ChartQA_731.png",
+    "question": "How much did the unemployment rate decrease from 2006 to 2007?",
+    "label": [
+        "0.19"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 162704,
+    "caption": "a man riding skis down a snow covered street",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "snow",
+        "clothing",
+        "sky",
+        "winter",
+        "footwear",
+        "freezing",
+        "snowshoe",
+        "trekking pole",
+        "tree",
+        "ski pole",
+        "ski",
+        "jacket",
+        "skiing",
+        "cross-country skier",
+        "outdoor recreation",
+        "standing",
+        "posing"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 199,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_199.png",
+    "question": "What kind of door is open so she can sit inside?",
+    "label": "['fridge', 'refrigerator', 'refrigerator', 'fridge', 'refrigerator', 'fridge', 'refrigerator', 'refrigerator', 'refrigerator', 'fridge']",
+    "choices": [
+        "fridge",
+        "office",
+        "freezer",
+        "house"
+    ],
+    "correct_choice": "fridge"
+}

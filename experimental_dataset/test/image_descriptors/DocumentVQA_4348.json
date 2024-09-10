@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4348,
+    "caption": "a drawing of a man with a tie on",
+    "object_tags": [
+        "text",
+        "font",
+        "parallel",
+        "line",
+        "screenshot",
+        "rectangle",
+        "number",
+        "black and white"
+    ]
+}

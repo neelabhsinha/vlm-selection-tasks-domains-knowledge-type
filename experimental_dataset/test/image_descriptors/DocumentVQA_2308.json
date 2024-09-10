@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2308,
+    "caption": "a collage of photographs of a man reading a newspaper",
+    "object_tags": [
+        "text",
+        "human face",
+        "person",
+        "man",
+        "screenshot",
+        "document",
+        "black and white"
+    ]
+}

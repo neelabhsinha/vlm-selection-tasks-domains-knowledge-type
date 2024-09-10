@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 156,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_156.png",
+    "question": "What is the dark colored car to the far left in the middle doing?",
+    "label": "['stopping', 'stopping', 'driving', 'moving', 'driving', 'stopping', 'stopping', 'turning left', 'stopping', 'travel']",
+    "choices": [
+        "turning left",
+        "turning right",
+        "parking",
+        "reversing"
+    ],
+    "correct_choice": "turning left"
+}

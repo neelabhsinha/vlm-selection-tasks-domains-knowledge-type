@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 864,
+    "image_path": "./experimental_dataset/test/images/ChartQA_864.png",
+    "question": "Which year showed the largest difference in the data points between the two lines",
+    "label": [
+        "2019"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1120,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1120.png",
+    "question": "Which type of documents(in broadest sense) are emails and attachments?",
+    "label": [
+        "electronically stored information",
+        "Electronically stored information"
+    ]
+}

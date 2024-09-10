@@ -1,0 +1,10 @@
+{
+    "dataset": "ChartQA",
+    "key": 325,
+    "caption": "a series of photos showing different types of scissors",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 209626,
+    "image_path": "./experimental_dataset/test/images/VQAv2_209626.png",
+    "question": "What position is the skateboard in?",
+    "label": [
+        "upright",
+        "upright",
+        "upright",
+        "vertical",
+        "upright",
+        "up",
+        "upright",
+        "vertical",
+        "up",
+        "standing"
+    ]
+}

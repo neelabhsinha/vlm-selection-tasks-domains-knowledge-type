@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 712,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_712.png",
+    "question": "Why is there wire and posts near the elephants?",
+    "label": "['prevent escape', 'encloses them', 'keep in', 'safe keeoing', 'containment', 'keep contained', 'keeping captive', 'fencing', 'containment', 'contain']",
+    "choices": [
+        "to immobilize",
+        "to hunt",
+        "keeping captive",
+        "to trap"
+    ],
+    "correct_choice": "keeping captive"
+}

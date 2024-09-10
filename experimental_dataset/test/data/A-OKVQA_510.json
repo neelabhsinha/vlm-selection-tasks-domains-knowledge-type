@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 510,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_510.png",
+    "question": "Where is this room located at?",
+    "label": "['kitchen', 'kitchen', 'kitchen', 'house', 'indoors', 'house', 'museum', 'kitchen', 'home', 'kitchen']",
+    "choices": [
+        "apartment",
+        "school",
+        "house",
+        "museum"
+    ],
+    "correct_choice": "museum"
+}

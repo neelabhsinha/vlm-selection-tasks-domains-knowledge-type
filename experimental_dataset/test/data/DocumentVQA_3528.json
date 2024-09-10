@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3528,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3528.png",
+    "question": "How many stories?",
+    "label": [
+        "15"
+    ]
+}

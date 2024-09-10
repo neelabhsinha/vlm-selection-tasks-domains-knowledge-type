@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 368,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_368.png",
+    "question": "What city is this shopping center in?",
+    "label": "['stroud uk', 'five valleys', 'london', 'london', 'merrywalks', 'unknown', 'london', 'stroud', 'stroud', 'london']",
+    "choices": [
+        "los angeles",
+        "stroud uk",
+        "paris",
+        "karachi"
+    ],
+    "correct_choice": "stroud uk"
+}

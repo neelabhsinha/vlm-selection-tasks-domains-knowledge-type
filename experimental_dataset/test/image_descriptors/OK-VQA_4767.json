@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4767,
+    "caption": "a bowl of oranges sitting on top of a table",
+    "object_tags": [
+        "fruit",
+        "citrus",
+        "orange",
+        "lemon",
+        "grapefruit",
+        "citron",
+        "rangpur",
+        "mandarin orange",
+        "clementine",
+        "bitter orange",
+        "tangerine",
+        "still life photography",
+        "lime",
+        "indoor",
+        "blue",
+        "oranges"
+    ]
+}

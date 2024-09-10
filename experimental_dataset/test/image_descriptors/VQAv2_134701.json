@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 134701,
+    "caption": "a person holding a banana in their hand",
+    "object_tags": [
+        "banana",
+        "fruit",
+        "person",
+        "saba banana",
+        "cooking plantain",
+        "food",
+        "peel",
+        "floor",
+        "indoor"
+    ]
+}

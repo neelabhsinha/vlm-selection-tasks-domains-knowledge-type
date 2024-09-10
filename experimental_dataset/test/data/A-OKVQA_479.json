@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 479,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_479.png",
+    "question": "Where are all of the people in front of the yellow cab going?",
+    "label": "['city landmark', 'across street', 'across street', 'across street', 'cross street', 'other side', 'shopping', 'across street', 'crossing street', 'right']",
+    "choices": [
+        "talking",
+        "crossing street",
+        "running",
+        "shopping"
+    ],
+    "correct_choice": "crossing street"
+}

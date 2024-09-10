@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1636,
+    "caption": "a street scene with a building and a fire hydrant",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "window",
+        "building",
+        "street",
+        "mixed-use",
+        "facade",
+        "town",
+        "water",
+        "city",
+        "night",
+        "reflection"
+    ]
+}

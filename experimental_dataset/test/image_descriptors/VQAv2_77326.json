@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 77326,
+    "caption": "a row of skis and snowboards in front of a building",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "door",
+        "gas pump",
+        "ground",
+        "standing"
+    ]
+}

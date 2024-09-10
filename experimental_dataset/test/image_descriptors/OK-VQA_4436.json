@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4436,
+    "caption": "a park bench in front of a metal fence",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "cloud",
+        "tree",
+        "bench",
+        "playground",
+        "ground",
+        "fence",
+        "furniture",
+        "park",
+        "shade"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2271,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2271.png",
+    "question": "What percentage of Finland's GDP did education expenditure account for in 2019?",
+    "label": [
+        "5.1"
+    ]
+}

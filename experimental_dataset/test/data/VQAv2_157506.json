@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 157506,
+    "image_path": "./experimental_dataset/test/images/VQAv2_157506.png",
+    "question": "What color are these trucks?",
+    "label": [
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green"
+    ]
+}

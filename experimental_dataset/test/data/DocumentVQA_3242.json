@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3242,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3242.png",
+    "question": "Which date is printed on the bottom right corner of the page?",
+    "label": [
+        "July 5, 2000"
+    ]
+}

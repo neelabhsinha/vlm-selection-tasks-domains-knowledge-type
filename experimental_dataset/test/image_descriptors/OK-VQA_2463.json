@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2463,
+    "caption": "a man sitting on a curb next to a pile of luggage",
+    "object_tags": [
+        "land vehicle",
+        "car",
+        "clothing",
+        "outdoor",
+        "footwear",
+        "vehicle",
+        "wheel",
+        "person",
+        "man",
+        "waste container",
+        "ground",
+        "road",
+        "street",
+        "sidewalk",
+        "standing"
+    ]
+}

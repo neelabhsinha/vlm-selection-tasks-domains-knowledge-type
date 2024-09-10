@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 122,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_122.png",
+    "question": "A person following what kind of diet is least likely to eat this meal?",
+    "label": "['low calorie', 'vegetarian', 'vegetarian', 'vegetarian', 'healthy diet', 'vegetarian', 'keto', 'atkins', 'vegetarian', 'vegetarian']",
+    "choices": [
+        "atkins",
+        "weight watchers",
+        "vegetarian",
+        "ketogenic"
+    ],
+    "correct_choice": "vegetarian"
+}

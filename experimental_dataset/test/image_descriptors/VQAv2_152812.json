@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 152812,
+    "caption": "a man standing on top of a rock with a surfboard",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "surfboard",
+        "sky",
+        "cloud",
+        "boardsport",
+        "surfing equipment",
+        "man",
+        "sports equipment",
+        "surf",
+        "clothing",
+        "carrying",
+        "holding",
+        "surfing",
+        "beach",
+        "ocean",
+        "rock",
+        "wave",
+        "ground"
+    ]
+}

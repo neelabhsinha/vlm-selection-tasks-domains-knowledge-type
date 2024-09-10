@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3777,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3777.png",
+    "question": "Who acts as the secretary to the audit committee?",
+    "label": [
+        "Mr. Sanjay Gupta",
+        "Mr. Sanjay Gupta, Company secretary"
+    ]
+}

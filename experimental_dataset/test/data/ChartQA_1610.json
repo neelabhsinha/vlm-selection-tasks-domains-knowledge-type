@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1610,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1610.png",
+    "question": "How many people died while ascending K2?",
+    "label": [
+        "50"
+    ]
+}

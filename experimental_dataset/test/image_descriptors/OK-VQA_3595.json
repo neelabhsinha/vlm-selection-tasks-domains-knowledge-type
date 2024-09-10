@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3595,
+    "caption": "a train traveling down train tracks next to a forest",
+    "object_tags": [
+        "railroad",
+        "outdoor",
+        "sky",
+        "track",
+        "transport",
+        "train",
+        "vehicle",
+        "railway",
+        "locomotive",
+        "rolling stock",
+        "land vehicle",
+        "railroad car",
+        "tree",
+        "rolling",
+        "ground",
+        "cloud",
+        "public transport",
+        "traveling",
+        "engine"
+    ]
+}

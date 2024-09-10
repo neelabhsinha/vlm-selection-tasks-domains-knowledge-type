@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 493,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_493.png",
+    "question": "Which type of glass is used for making the glass cups shown in this photo?",
+    "label": [
+        "crystal",
+        "crystal",
+        "crystal",
+        "crystal",
+        "plexi",
+        "plexi",
+        "bordeaux",
+        "bordeaux",
+        "vase",
+        "vase"
+    ]
+}

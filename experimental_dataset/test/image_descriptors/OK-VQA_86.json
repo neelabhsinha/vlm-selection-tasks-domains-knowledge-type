@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 86,
+    "caption": "a bedroom with a bed and a lamp on the wall",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "bed sheet",
+        "bed",
+        "bedding",
+        "interior design",
+        "linens",
+        "lampshade",
+        "cushion",
+        "duvet cover",
+        "lamp",
+        "mattress",
+        "bed frame",
+        "nightstand",
+        "duvet",
+        "throw pillow",
+        "bedroom",
+        "blanket",
+        "house",
+        "wallpaper",
+        "window treatment",
+        "room",
+        "hotel",
+        "floor",
+        "pillow"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 802,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_802.png",
+    "question": "Why is the clothing on the rack?",
+    "label": "['selling', 'for sale', 'selling', 'for sale', 'for sale', 'selling', 'for sale', 'for sale', 'to sell', 'for sale']",
+    "choices": [
+        "to decorate",
+        "to sell",
+        "to clean",
+        "to dry"
+    ],
+    "correct_choice": "to sell"
+}

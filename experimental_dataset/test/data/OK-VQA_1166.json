@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1166,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1166.png",
+    "question": "What popular restaurant is named for after this dessert?",
+    "label": [
+        "cheesecake factory",
+        "cheesecake factory",
+        "cheesecake factory",
+        "cheesecake factory",
+        "cheesecake factory",
+        "cheesecake factory",
+        "cheesecake factory",
+        "cheesecake factory",
+        "cheescake factory",
+        "cheescake factory"
+    ]
+}

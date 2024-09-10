@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3344,
+    "caption": "a black and white dog playing with a frisbee in a park",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "building",
+        "black",
+        "dog",
+        "field",
+        "animal",
+        "frisbee",
+        "running",
+        "park",
+        "mammal"
+    ]
+}

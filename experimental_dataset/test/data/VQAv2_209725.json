@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 209725,
+    "image_path": "./experimental_dataset/test/images/VQAv2_209725.png",
+    "question": "Are the computers on?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

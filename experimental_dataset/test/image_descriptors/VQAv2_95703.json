@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 95703,
+    "caption": "a giraffe sticking its tongue out over a fence",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "giraffe",
+        "outdoor",
+        "fence",
+        "giraffidae",
+        "terrestrial animal",
+        "zoo",
+        "grass",
+        "wildlife",
+        "plant",
+        "standing"
+    ]
+}

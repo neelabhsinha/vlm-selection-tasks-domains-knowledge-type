@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 737,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_737.png",
+    "question": "What type of business does the woman's hat promote?",
+    "label": "['trucking', 'convenience store', 'convenience', 'not visible', 'convenience store', 'gas station', 'convenience store', 'pizza', 'unsure', 'gas station']",
+    "choices": [
+        "convenience store",
+        "car dealership",
+        "vitamin store",
+        "trucking company"
+    ],
+    "correct_choice": "convenience store"
+}

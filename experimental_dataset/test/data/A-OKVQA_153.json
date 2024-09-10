@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 153,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_153.png",
+    "question": "What are some of the zebras standing in in the middle of the photo?",
+    "label": "['water', 'muddy water', 'puddle', 'muddy puddle', 'water pool', 'water', 'water', 'mud', 'mud', 'puddle']",
+    "choices": [
+        "grass",
+        "water",
+        "mud",
+        "rocks"
+    ],
+    "correct_choice": "water"
+}

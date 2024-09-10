@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 323,
+    "caption": "a man sitting on a motorcycle next to a woman",
+    "object_tags": [
+        "wheel",
+        "vehicle",
+        "land vehicle",
+        "tire",
+        "motorbike",
+        "clothing",
+        "man",
+        "motorcycle",
+        "transport",
+        "person",
+        "museum",
+        "outdoor",
+        "painting",
+        "ground",
+        "bike"
+    ]
+}

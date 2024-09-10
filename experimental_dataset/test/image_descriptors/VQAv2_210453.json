@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 210453,
+    "caption": "a man holding a snowboard on top of a snow covered slope",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "jacket",
+        "footwear",
+        "man",
+        "stairs",
+        "building",
+        "people",
+        "standing",
+        "group",
+        "snowboarding"
+    ]
+}

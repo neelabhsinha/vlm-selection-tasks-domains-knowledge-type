@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1280,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1280.png",
+    "question": "Since what year has the immigrant population in France slightly increased?",
+    "label": [
+        "1921"
+    ]
+}

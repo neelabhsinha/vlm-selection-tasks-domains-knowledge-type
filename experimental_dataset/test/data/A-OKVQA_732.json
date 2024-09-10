@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 732,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_732.png",
+    "question": "What has caused the leaves to fall from the trees?",
+    "label": "['season change', 'wind', 'season change', 'weather', 'weather', 'no water', 'wind', 'fall', 'autumn', 'autumn']",
+    "choices": [
+        "snow",
+        "solar eclipse",
+        "weather",
+        "tornado"
+    ],
+    "correct_choice": "weather"
+}

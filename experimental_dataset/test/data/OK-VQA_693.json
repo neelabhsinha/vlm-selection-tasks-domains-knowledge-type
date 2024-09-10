@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 693,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_693.png",
+    "question": "What is the woman doing?",
+    "label": [
+        "take picture",
+        "take picture",
+        "take picture",
+        "take picture",
+        "take picture",
+        "take picture",
+        "photograph",
+        "photograph",
+        "take photo",
+        "take photo"
+    ]
+}

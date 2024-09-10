@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 25244,
+    "image_path": "./experimental_dataset/test/images/VQAv2_25244.png",
+    "question": "What farm tool is in the photo?",
+    "label": [
+        "plow",
+        "barrel",
+        "plow",
+        "wheelbarrow",
+        "plow",
+        "plow",
+        "plow",
+        "plow",
+        "hoe",
+        "plow"
+    ]
+}

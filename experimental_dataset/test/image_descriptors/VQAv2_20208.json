@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 20208,
+    "caption": "a dog sniffing a fire hydrant on the sidewalk",
+    "object_tags": [
+        "outdoor",
+        "fire hydrant",
+        "ground",
+        "land vehicle",
+        "car",
+        "street",
+        "vehicle",
+        "waste container",
+        "clothing",
+        "wheel",
+        "person",
+        "tire",
+        "road",
+        "sidewalk"
+    ]
+}

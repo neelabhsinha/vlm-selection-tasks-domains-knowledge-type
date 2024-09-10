@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4486,
+    "caption": "a black cow standing next to a fence",
+    "object_tags": [
+        "outdoor",
+        "mammal",
+        "animal",
+        "fence",
+        "cattle",
+        "snout",
+        "terrestrial animal",
+        "bovine",
+        "grass",
+        "livestock",
+        "standing",
+        "horse"
+    ]
+}

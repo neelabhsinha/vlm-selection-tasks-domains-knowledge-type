@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1115,
+    "caption": "kites being flown in the air",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sky",
+        "recreation",
+        "outdoor recreation",
+        "windsports",
+        "extreme sport",
+        "kite sports",
+        "surface water sports",
+        "kite",
+        "person",
+        "beach",
+        "adventure",
+        "boardsport",
+        "kitesurfing",
+        "vacation",
+        "ocean",
+        "people",
+        "parachute",
+        "kiteboarding",
+        "riding",
+        "wave",
+        "surfing",
+        "sea"
+    ]
+}

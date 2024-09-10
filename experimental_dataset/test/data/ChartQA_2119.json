@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2119,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2119.png",
+    "question": "What was Sweden's most popular web shop in 2018?",
+    "label": [
+        "na-kd.com"
+    ]
+}

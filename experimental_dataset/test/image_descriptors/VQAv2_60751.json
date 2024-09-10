@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 60751,
+    "caption": "a living room filled with furniture and a tv",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "interior design",
+        "floor",
+        "ceiling",
+        "vase",
+        "cabinetry",
+        "couch",
+        "den",
+        "window",
+        "studio couch",
+        "flooring",
+        "living room",
+        "cupboard",
+        "ceiling fan",
+        "house",
+        "molding",
+        "window treatment",
+        "sofa bed",
+        "room",
+        "home",
+        "furniture"
+    ]
+}

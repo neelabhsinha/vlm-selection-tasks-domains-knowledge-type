@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 744,
+    "caption": "a fire hydrant on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "fire hydrant",
+        "sidewalk",
+        "flag",
+        "street",
+        "art"
+    ]
+}

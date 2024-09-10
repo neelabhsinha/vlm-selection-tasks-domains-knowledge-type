@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2386,
+    "caption": "an aerial view of a large city with many buildings",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "design"
+    ]
+}

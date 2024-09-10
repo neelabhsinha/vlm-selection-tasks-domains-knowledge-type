@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 150708,
+    "image_path": "./experimental_dataset/test/images/VQAv2_150708.png",
+    "question": "Is the horse's head up or down?",
+    "label": [
+        "up",
+        "up",
+        "up",
+        "up",
+        "up",
+        "up",
+        "up",
+        "up",
+        "up",
+        "up"
+    ]
+}

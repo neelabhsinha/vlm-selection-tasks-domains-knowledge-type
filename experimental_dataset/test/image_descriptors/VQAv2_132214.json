@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 132214,
+    "caption": "a display of donuts on a conveyor belt",
+    "object_tags": [
+        "food",
+        "snack",
+        "donut",
+        "indoor",
+        "doughnut"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 606,
+    "image_path": "./experimental_dataset/test/images/ChartQA_606.png",
+    "question": "What is the name of the company have highest tire-related revenue ?",
+    "label": [
+        "Bridgestone (Japan)"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 622,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_622.png",
+    "question": "What is the large white object on the elephant called?",
+    "label": "['tusk', 'tusks', 'tusks', 'tusk', 'tusk', 'tusks', 'tusk', 'tusks', 'tusk', 'tusk']",
+    "choices": [
+        "tusk",
+        "tooth",
+        "horn",
+        "bone"
+    ],
+    "correct_choice": "tusk"
+}

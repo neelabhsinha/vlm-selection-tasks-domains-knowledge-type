@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2258,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2258.png",
+    "question": "What kind of stove do they have?",
+    "label": [
+        "electric",
+        "electric",
+        "electric",
+        "electric",
+        "coil cooktop",
+        "coil cooktop",
+        "gas",
+        "gas",
+        "range",
+        "range"
+    ]
+}

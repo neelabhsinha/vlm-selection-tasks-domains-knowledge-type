@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 564,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_564.png",
+    "question": "In this game a poorly hit ball has what in common with a chicken?",
+    "label": [
+        "foul",
+        "foul",
+        "foul",
+        "foul",
+        "foul",
+        "foul",
+        "name",
+        "name",
+        "baseball",
+        "baseball"
+    ]
+}

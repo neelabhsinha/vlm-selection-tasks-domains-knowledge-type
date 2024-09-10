@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4730,
+    "caption": "a piece of bread on a plate next to a knife and fork",
+    "object_tags": [
+        "food",
+        "table",
+        "baked goods",
+        "bread",
+        "indoor",
+        "tableware",
+        "sliced bread",
+        "snack",
+        "gluten",
+        "fork",
+        "loaf",
+        "kitchen utensil",
+        "rye bread",
+        "texas toast",
+        "drink",
+        "toast"
+    ]
+}

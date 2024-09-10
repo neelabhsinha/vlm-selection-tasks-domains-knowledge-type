@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 182882,
+    "caption": "giraffes and zebras in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "sky",
+        "wildlife",
+        "terrestrial animal",
+        "giraffe",
+        "safari",
+        "giraffidae",
+        "water",
+        "standing",
+        "grass",
+        "tree",
+        "ground",
+        "hole",
+        "river",
+        "field"
+    ]
+}

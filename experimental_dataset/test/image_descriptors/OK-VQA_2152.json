@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2152,
+    "caption": "a white plate topped with different types of food",
+    "object_tags": [
+        "food",
+        "plate",
+        "meal",
+        "dish",
+        "cuisine",
+        "meat",
+        "fast food",
+        "brunch",
+        "ingredient",
+        "table",
+        "breakfast",
+        "indoor"
+    ]
+}

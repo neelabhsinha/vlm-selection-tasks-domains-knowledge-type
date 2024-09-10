@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 71695,
+    "image_path": "./experimental_dataset/test/images/VQAv2_71695.png",
+    "question": "Are these twins?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

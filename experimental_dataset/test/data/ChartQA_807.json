@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 807,
+    "image_path": "./experimental_dataset/test/images/ChartQA_807.png",
+    "question": "what is the average value of last three years  2013- 2015 ?",
+    "label": [
+        "61.2"
+    ]
+}

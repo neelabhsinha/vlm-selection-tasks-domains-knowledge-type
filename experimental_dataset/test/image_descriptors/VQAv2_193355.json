@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 193355,
+    "caption": "a vase filled with flowers on top of a table",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "vase",
+        "still life photography",
+        "still life",
+        "houseplant",
+        "flower",
+        "flowerpot",
+        "sitting",
+        "jar",
+        "plant",
+        "red",
+        "orange"
+    ]
+}

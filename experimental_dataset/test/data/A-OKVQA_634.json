@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 634,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_634.png",
+    "question": "What are the umbrellas placed in the sand to block?",
+    "label": "['sun', 'sunrays', 'sunrays', 'sun', 'sun', 'sun', 'sun', 'sun', 'sunrays', 'sun']",
+    "choices": [
+        "wind",
+        "sun",
+        "rain",
+        "birds"
+    ],
+    "correct_choice": "sun"
+}

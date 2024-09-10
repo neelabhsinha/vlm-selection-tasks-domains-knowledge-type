@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4076,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4076.png",
+    "question": "What is the Title of the document?",
+    "label": [
+        "NUTRITION AWARDS COMMITTEE",
+        "Nutrition Awards Committee"
+    ]
+}

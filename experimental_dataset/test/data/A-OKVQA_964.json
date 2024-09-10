@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 964,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_964.png",
+    "question": "What section are the people in?",
+    "label": "['produce', 'produce', 'fresh fruit', 'produce section', 'produce section', 'produce', 'produce', 'produce', 'fruit', 'produce']",
+    "choices": [
+        "cereal",
+        "produce",
+        "meat",
+        "bakery"
+    ],
+    "correct_choice": "produce"
+}

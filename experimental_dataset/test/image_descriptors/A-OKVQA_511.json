@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 511,
+    "caption": "a cup of coffee and a vase on a table",
+    "object_tags": [
+        "ceramic",
+        "earthenware",
+        "pottery",
+        "serveware",
+        "tableware",
+        "porcelain",
+        "vase",
+        "cup",
+        "mug",
+        "tea",
+        "coffee cup",
+        "kitchenware",
+        "drinkware",
+        "jug",
+        "dishware",
+        "indoor",
+        "coffee",
+        "ceramic ware"
+    ]
+}

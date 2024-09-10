@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 740,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_740.png",
+    "question": "What does this company provide?",
+    "label": [
+        "spark plug",
+        "spark plug",
+        "spark plug",
+        "spark plug",
+        "food",
+        "food",
+        "bowl",
+        "bowl",
+        "home appliance",
+        "home appliance"
+    ]
+}

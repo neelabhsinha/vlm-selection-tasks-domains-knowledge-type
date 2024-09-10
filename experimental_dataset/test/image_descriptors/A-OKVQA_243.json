@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 243,
+    "caption": "a man laying on the beach with a kite",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "person",
+        "beach",
+        "clothing",
+        "vacation",
+        "sun tanning",
+        "summer",
+        "man",
+        "barefoot",
+        "swimwear",
+        "towel",
+        "sand"
+    ]
+}

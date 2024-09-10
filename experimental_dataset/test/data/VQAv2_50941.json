@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 50941,
+    "image_path": "./experimental_dataset/test/images/VQAv2_50941.png",
+    "question": "If I want a hot burrito, will the cat have to move?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes"
+    ]
+}

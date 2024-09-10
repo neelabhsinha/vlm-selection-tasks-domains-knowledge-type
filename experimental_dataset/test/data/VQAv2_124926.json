@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 124926,
+    "image_path": "./experimental_dataset/test/images/VQAv2_124926.png",
+    "question": "Why are the person's arms out?",
+    "label": [
+        "balance",
+        "balance",
+        "balance",
+        "balancing",
+        "yes",
+        "to maintain balance",
+        "balance",
+        "yes",
+        "for balance",
+        "balance"
+    ]
+}

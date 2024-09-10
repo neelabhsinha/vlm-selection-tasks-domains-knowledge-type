@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 56,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_56.png",
+    "question": "The bus is likely driving through which American city?",
+    "label": "['new york', 'new york', 'new york', 'new york', 'new york', 'new york', 'new york', 'nyc', 'new york', 'new york']",
+    "choices": [
+        "chicago",
+        "new york",
+        "philadelphia",
+        "boston"
+    ],
+    "correct_choice": "new york"
+}

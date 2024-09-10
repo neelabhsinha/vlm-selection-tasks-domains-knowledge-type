@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 401,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_401.png",
+    "question": "How are the two feeling here?",
+    "label": "['happy', 'playful', 'silly', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy']",
+    "choices": [
+        "playful",
+        "sad",
+        "hungry",
+        "angry"
+    ],
+    "correct_choice": "playful"
+}

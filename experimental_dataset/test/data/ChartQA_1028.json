@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1028,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1028.png",
+    "question": "What's the highest Proportion of category A emergency calls resulting in an ambulance arriving at the scene within 8 minutes in England from 2012/13?",
+    "label": [
+        "75.6"
+    ]
+}

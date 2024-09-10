@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1470,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1470.png",
+    "question": "How much did inbound visitor numbers to the Middle East grow in 2018?",
+    "label": [
+        "4.8"
+    ]
+}

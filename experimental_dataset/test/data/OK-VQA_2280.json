@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2280,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2280.png",
+    "question": "How many deaths occur due to accidents involving the type of transportation shown here?",
+    "label": [
+        "many",
+        "many",
+        "many",
+        "many",
+        "5000",
+        "5000",
+        "2500",
+        "2500",
+        "alot",
+        "alot"
+    ]
+}

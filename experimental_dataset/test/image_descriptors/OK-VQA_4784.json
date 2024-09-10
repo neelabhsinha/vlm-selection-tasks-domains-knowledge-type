@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4784,
+    "caption": "a person holding a doughnut in their hand",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "snack",
+        "dessert",
+        "food",
+        "fast food",
+        "donut",
+        "baked goods",
+        "doughnut",
+        "clothing",
+        "road",
+        "bite",
+        "chocolate",
+        "holding",
+        "pastry",
+        "street"
+    ]
+}

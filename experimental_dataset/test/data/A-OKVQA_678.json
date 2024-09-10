@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 678,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_678.png",
+    "question": "What has the man stuck his ice pick into?",
+    "label": "['snow', 'snow', 'ice', 'axe', 'snow', 'snow', 'glacier', 'ice', 'snow', 'nothing']",
+    "choices": [
+        "sand",
+        "snow",
+        "water",
+        "mud"
+    ],
+    "correct_choice": "snow"
+}

@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 598,
+    "caption": "a wooden table topped with a sandwich and a knife",
+    "object_tags": [
+        "meal",
+        "baked goods",
+        "snack",
+        "food",
+        "dessert",
+        "dish",
+        "bread",
+        "table",
+        "staple food",
+        "cuisine",
+        "dairy",
+        "gluten",
+        "brunch",
+        "ingredient",
+        "platter",
+        "kitchen utensil",
+        "fruit",
+        "plate",
+        "indoor",
+        "breakfast"
+    ]
+}

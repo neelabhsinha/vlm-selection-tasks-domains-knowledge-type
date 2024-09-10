@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3996,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3996.png",
+    "question": "Are zebras considered omnivores herbivores or carnivores?",
+    "label": [
+        "herbivore",
+        "herbivore",
+        "herbivore",
+        "herbivore",
+        "herbivore",
+        "herbivore",
+        "omnivore",
+        "omnivore",
+        "carnivore",
+        "carnivore"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 457,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_457.png",
+    "question": "What would this fence help to contain?",
+    "label": "['balls', 'balls', 'tennis court', 'balls', 'tennis balls', 'ball', 'tennis balls', 'balls', 'stray balls', 'balls']",
+    "choices": [
+        "balls",
+        "animals",
+        "rocks",
+        "weeds"
+    ],
+    "correct_choice": "balls"
+}

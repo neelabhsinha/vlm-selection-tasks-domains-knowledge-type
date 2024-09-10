@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4848,
+    "caption": "people are standing in the snow with their snowboards",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "jacket",
+        "human face",
+        "outdoor",
+        "people",
+        "holding",
+        "group",
+        "standing"
+    ]
+}

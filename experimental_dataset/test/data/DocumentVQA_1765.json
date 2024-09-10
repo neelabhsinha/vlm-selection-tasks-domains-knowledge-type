@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1765,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1765.png",
+    "question": "What is the recommended maximum residue limit of phosalone on cherries?",
+    "label": [
+        "10"
+    ]
+}

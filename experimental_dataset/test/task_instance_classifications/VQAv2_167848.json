@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 167848,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Social Media",
+        "Fiction"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Social Knowledge"
+    ]
+}

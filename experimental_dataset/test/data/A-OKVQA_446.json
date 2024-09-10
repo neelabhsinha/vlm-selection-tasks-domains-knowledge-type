@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 446,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_446.png",
+    "question": "What is the same color as the most abundant color here?",
+    "label": "['peapod', 'leaves', 'leaves', 'green', 'trees leaves', 'tree', 'green', 'bananas', 'green', 'green']",
+    "choices": [
+        "peapod",
+        "orange",
+        "carrot",
+        "corn"
+    ],
+    "correct_choice": "peapod"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3516,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3516.png",
+    "question": "What type of lens is used for this picture?",
+    "label": [
+        "fisheye",
+        "fisheye",
+        "fisheye",
+        "fisheye",
+        "fisheye",
+        "fisheye",
+        "fish eye",
+        "fish eye",
+        "camera",
+        "camera"
+    ]
+}

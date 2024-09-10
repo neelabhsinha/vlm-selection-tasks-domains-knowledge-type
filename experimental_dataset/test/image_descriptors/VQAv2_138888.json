@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 138888,
+    "caption": "a cow that is laying down in the grass",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "cow",
+        "cattle",
+        "plant",
+        "animal",
+        "field",
+        "dairy cow",
+        "livestock",
+        "pasture",
+        "mammal",
+        "bovine",
+        "meadow",
+        "grazing",
+        "grassland",
+        "fodder",
+        "green",
+        "standing",
+        "landscape",
+        "nature"
+    ]
+}

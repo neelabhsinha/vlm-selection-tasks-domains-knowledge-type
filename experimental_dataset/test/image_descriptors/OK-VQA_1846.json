@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1846,
+    "caption": "a herd of sheep grazing on a lush green field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "field",
+        "tree",
+        "grassland",
+        "sky",
+        "meadow",
+        "sheep",
+        "cloud",
+        "plain",
+        "rural area",
+        "fodder",
+        "steppe",
+        "herd",
+        "grazing",
+        "ranch",
+        "herding",
+        "mammal",
+        "animal",
+        "mountain",
+        "landscape",
+        "pasture",
+        "nature"
+    ]
+}

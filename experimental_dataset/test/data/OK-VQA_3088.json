@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3088,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3088.png",
+    "question": "What kind of house is next to the stop sign?",
+    "label": [
+        "apartment",
+        "apartment",
+        "apartment",
+        "apartment",
+        "condo",
+        "condo",
+        "apartment build",
+        "apartment build",
+        "stone",
+        "stone"
+    ]
+}

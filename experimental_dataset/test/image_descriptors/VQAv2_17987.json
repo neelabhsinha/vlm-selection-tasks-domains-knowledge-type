@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 17987,
+    "caption": "broccoli and other vegetables in a bowl on a table",
+    "object_tags": [
+        "food",
+        "superfood",
+        "vegetable",
+        "leaf vegetable",
+        "produce",
+        "cruciferous vegetables",
+        "ingredient",
+        "fruit",
+        "indoor",
+        "plant",
+        "broccoli"
+    ]
+}

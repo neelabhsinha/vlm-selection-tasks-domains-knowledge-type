@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3136,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3136.png",
+    "question": "What is the percentage of calcium in chelated calcium ?",
+    "label": [
+        "20",
+        "20%"
+    ]
+}

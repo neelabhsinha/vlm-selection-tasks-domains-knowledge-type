@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 660,
+    "caption": "a sandwich and salad on a plate",
+    "object_tags": [
+        "food",
+        "ingredient",
+        "fast food",
+        "person",
+        "staple food",
+        "plant",
+        "vegetable",
+        "cut"
+    ]
+}

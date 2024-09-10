@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4977,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4977.png",
+    "question": "How many people use this mode of transportation daily in the world?",
+    "label": [
+        "million",
+        "million",
+        "million",
+        "million",
+        "million",
+        "million",
+        "million",
+        "million",
+        "thousand",
+        "thousand"
+    ]
+}

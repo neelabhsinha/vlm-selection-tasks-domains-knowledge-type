@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 887,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_887.png",
+    "question": "What kind of ball is he going to hit with the racket?",
+    "label": "['tennis ball', 'tennis', 'tennis', 'tennis ball', 'tennis', 'tennis ball', 'tennis', 'tennis ball', 'tennis ball', 'tennis ball']",
+    "choices": [
+        "tennis ball",
+        "basketball",
+        "baseball",
+        "golf ball"
+    ],
+    "correct_choice": "tennis ball"
+}

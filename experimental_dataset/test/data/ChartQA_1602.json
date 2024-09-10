@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1602,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1602.png",
+    "question": "What was the coverage ratio for bad loans in the Italian banking system as of 2017?",
+    "label": [
+        "61"
+    ]
+}

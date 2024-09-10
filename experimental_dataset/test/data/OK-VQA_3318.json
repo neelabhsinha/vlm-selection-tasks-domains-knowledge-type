@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3318,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3318.png",
+    "question": "What is the fruit bowl made of?",
+    "label": [
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass"
+    ]
+}

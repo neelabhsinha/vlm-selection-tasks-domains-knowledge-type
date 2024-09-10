@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1044,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Law"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Visual Knowledge"
+    ]
+}

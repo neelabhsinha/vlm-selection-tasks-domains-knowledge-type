@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3507,
+    "caption": "people sitting around a table eating pizza",
+    "object_tags": [
+        "person",
+        "food",
+        "meal",
+        "table",
+        "tableware",
+        "fast food",
+        "supper",
+        "indoor",
+        "dish",
+        "lunch",
+        "cuisine",
+        "clothing",
+        "drink",
+        "dinner",
+        "brunch",
+        "human face",
+        "plate",
+        "pizza",
+        "sitting",
+        "people",
+        "wall",
+        "eating",
+        "woman"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 35,
+    "image_path": "./experimental_dataset/test/images/ChartQA_35.png",
+    "question": "Which line remains all time lower than the other two?",
+    "label": [
+        "Mexico"
+    ]
+}

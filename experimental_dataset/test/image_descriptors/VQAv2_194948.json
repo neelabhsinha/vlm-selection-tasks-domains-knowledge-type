@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 194948,
+    "caption": "two toilets sitting next to each other on a sidewalk",
+    "object_tags": [
+        "ground",
+        "bathroom",
+        "toilet",
+        "toilet seat",
+        "outdoor",
+        "waste container",
+        "sidewalk",
+        "trash",
+        "street"
+    ]
+}

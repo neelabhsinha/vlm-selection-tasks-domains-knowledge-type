@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 94041,
+    "caption": "a table topped with plates of food and a pizza",
+    "object_tags": [
+        "food",
+        "tableware",
+        "meal",
+        "person",
+        "platter",
+        "table",
+        "plate",
+        "dish",
+        "cuisine",
+        "supper",
+        "brunch",
+        "dishware",
+        "lunch",
+        "fast food",
+        "kitchen utensil",
+        "culinary art",
+        "dinner",
+        "fork",
+        "drink",
+        "bowl",
+        "indoor",
+        "salad",
+        "banquet"
+    ]
+}

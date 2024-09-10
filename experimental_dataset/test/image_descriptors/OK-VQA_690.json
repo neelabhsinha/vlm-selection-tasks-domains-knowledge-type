@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 690,
+    "caption": "two baseball players standing next to each other on a field",
+    "object_tags": [
+        "grass",
+        "athletic game",
+        "sport",
+        "person",
+        "outdoor",
+        "sports equipment",
+        "baseball",
+        "field",
+        "player",
+        "ball game",
+        "stick and ball games",
+        "bat-and-ball games",
+        "clothing",
+        "sports uniform",
+        "man",
+        "artificial turf",
+        "sport venue",
+        "standing",
+        "uniform"
+    ]
+}

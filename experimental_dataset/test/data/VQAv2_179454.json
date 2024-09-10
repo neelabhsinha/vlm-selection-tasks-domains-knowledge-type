@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 179454,
+    "image_path": "./experimental_dataset/test/images/VQAv2_179454.png",
+    "question": "What color is the bowl?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 275,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_275.png",
+    "question": "What operating system is on this computer?",
+    "label": [
+        "window",
+        "window",
+        "window",
+        "window",
+        "osx",
+        "osx",
+        "dos",
+        "dos",
+        "microsoft",
+        "microsoft"
+    ]
+}

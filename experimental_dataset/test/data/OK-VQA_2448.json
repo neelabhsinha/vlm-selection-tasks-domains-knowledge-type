@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2448,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2448.png",
+    "question": "What category of water craft are these?",
+    "label": [
+        "sailboat",
+        "sailboat",
+        "sailboat",
+        "sailboat",
+        "boat",
+        "boat",
+        "boat",
+        "boat",
+        "personal",
+        "personal"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 291,
+    "caption": "a man and a woman posing for a picture",
+    "object_tags": [
+        "human face",
+        "clothing",
+        "person",
+        "indoor",
+        "smile",
+        "wall",
+        "toddler",
+        "boy",
+        "bow tie",
+        "sitting",
+        "black and white",
+        "child",
+        "family"
+    ]
+}

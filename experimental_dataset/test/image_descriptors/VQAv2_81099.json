@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 81099,
+    "caption": "a brown and white dog standing next to a rock",
+    "object_tags": [
+        "outdoor",
+        "dog",
+        "grass",
+        "ground",
+        "dog breed",
+        "mammal",
+        "animal"
+    ]
+}

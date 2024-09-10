@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1288,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1288.png",
+    "question": "How long does it take to cook?",
+    "label": [
+        "45 minutes",
+        "45 minutes",
+        "45 minutes",
+        "45 minutes",
+        "20 minutes",
+        "20 minutes",
+        "25 minutes",
+        "25 minutes",
+        "minute",
+        "minute"
+    ]
+}

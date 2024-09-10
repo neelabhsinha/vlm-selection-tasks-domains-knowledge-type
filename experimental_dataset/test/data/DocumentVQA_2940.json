@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2940,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2940.png",
+    "question": "What is the CE/TMG 0.0625(CC) vs Placebo - SEM FOR Cycle 6?",
+    "label": [
+        "0.25"
+    ]
+}

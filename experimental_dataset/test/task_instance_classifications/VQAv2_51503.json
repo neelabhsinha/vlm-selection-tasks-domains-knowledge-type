@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 51503,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Anthropology",
+        "Professions",
+        "Professions",
+        "Nutrition and Food",
+        "Reviews"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Geographical Knowledge",
+        "Social Knowledge"
+    ]
+}

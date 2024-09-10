@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 397,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_397.png",
+    "question": "What is being used as a bun for the burger?",
+    "label": "['glazed donut', 'doughnut', 'donut', 'donut', 'donut', 'glazed donut', 'donut', 'donut', 'glazed donut', 'donut']",
+    "choices": [
+        "bagel",
+        "donut",
+        "toast",
+        "roll"
+    ],
+    "correct_choice": "donut"
+}

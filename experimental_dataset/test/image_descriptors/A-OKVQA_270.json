@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 270,
+    "caption": "a woman standing in front of a wall with a clock",
+    "object_tags": [
+        "wall",
+        "human face",
+        "clock",
+        "indoor",
+        "person",
+        "clothing",
+        "smile",
+        "wall clock",
+        "fashion accessory",
+        "woman",
+        "ceiling",
+        "standing"
+    ]
+}

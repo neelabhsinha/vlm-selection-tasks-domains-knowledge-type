@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 79,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_79.png",
+    "question": "Which ingredient is the most flavorful?",
+    "label": "['lemon juice', 'chicken', 'mushrooms', 'broccoli', 'mushrooms', 'pepper', 'parsley', 'mushroom', 'pepper', 'fish']",
+    "choices": [
+        "mushrooms",
+        "fish",
+        "plate",
+        "broccoli"
+    ],
+    "correct_choice": "fish"
+}

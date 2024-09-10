@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 163,
+    "image_path": "./experimental_dataset/test/images/ChartQA_163.png",
+    "question": "What is the product of the largest value on light blue line and leftmost value on the dark blue line?",
+    "label": [
+        "2210"
+    ]
+}

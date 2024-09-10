@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3759,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3759.png",
+    "question": "What sort of hat is this man wearing?",
+    "label": [
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy",
+        "cowboy"
+    ]
+}

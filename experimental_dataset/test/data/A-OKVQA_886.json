@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 886,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_886.png",
+    "question": "Which number on the monitor is higher?",
+    "label": "['ninety seven', 'ninety seven', 'ninety seven', 'ninety seven', 'ninety seven', '146', 'ninety seven', 'bottom', 'ninety seven', '146']",
+    "choices": [
+        "top",
+        "bottom",
+        "left",
+        "right"
+    ],
+    "correct_choice": "bottom"
+}

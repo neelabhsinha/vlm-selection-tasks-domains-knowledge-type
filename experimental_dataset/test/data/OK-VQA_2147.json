@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2147,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2147.png",
+    "question": "What is the liquid on the vegetables?",
+    "label": [
+        "gravy",
+        "gravy",
+        "gravy",
+        "gravy",
+        "sauce",
+        "sauce",
+        "eel sauce",
+        "eel sauce",
+        "glaze",
+        "glaze"
+    ]
+}

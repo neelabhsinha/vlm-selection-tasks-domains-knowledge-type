@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3618,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3618.png",
+    "question": "What is the \u201ctitle\u201d of the plot?",
+    "label": [
+        "fe - 59 incorporation guinea pig",
+        "FE-59 INCORPORATION"
+    ]
+}

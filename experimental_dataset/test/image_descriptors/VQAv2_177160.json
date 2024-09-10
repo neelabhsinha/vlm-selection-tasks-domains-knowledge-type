@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 177160,
+    "caption": "a person holding a surfboard on a beach",
+    "object_tags": [
+        "outdoor",
+        "surfboard",
+        "sky",
+        "beach",
+        "ground",
+        "person",
+        "holding",
+        "surfing",
+        "sand"
+    ]
+}

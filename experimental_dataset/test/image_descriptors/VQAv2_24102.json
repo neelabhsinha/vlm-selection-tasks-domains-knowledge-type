@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 24102,
+    "caption": "a giraffe and a baby giraffe standing in a field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "grass",
+        "outdoor",
+        "wildlife",
+        "terrestrial animal",
+        "sky",
+        "field",
+        "giraffe",
+        "safari",
+        "savanna",
+        "giraffidae",
+        "standing",
+        "plant",
+        "natural environment",
+        "steppe",
+        "grassy"
+    ]
+}

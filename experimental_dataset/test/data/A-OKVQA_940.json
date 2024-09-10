@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 940,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_940.png",
+    "question": "The advertisement on the bus is for what type of medium?",
+    "label": "['video', 'movie', 'planet 51', 'movie', 'game', 'cinema', 'movie', 'cartoon', 'film', 'movie']",
+    "choices": [
+        "film",
+        "literature",
+        "video game",
+        "television"
+    ],
+    "correct_choice": "film"
+}

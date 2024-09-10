@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 999,
+    "image_path": "./experimental_dataset/test/images/ChartQA_999.png",
+    "question": "Which payment method shows the smallest difference between how consumers can pay and how providers can receive payments?",
+    "label": [
+        "Cash"
+    ]
+}

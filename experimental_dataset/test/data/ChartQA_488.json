@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 488,
+    "image_path": "./experimental_dataset/test/images/ChartQA_488.png",
+    "question": "Which group says there are Very strong conflicts between each pair in America today?",
+    "label": [
+        "Democrats & Republicans"
+    ]
+}

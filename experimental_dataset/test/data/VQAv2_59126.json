@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 59126,
+    "image_path": "./experimental_dataset/test/images/VQAv2_59126.png",
+    "question": "What side of the car is the driver seat on?",
+    "label": [
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right"
+    ]
+}

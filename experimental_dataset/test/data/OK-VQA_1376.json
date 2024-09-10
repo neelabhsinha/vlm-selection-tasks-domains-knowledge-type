@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1376,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1376.png",
+    "question": "The man in the photo is using what to hit the ball?",
+    "label": [
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "baseball bat",
+        "baseball bat",
+        "baseball bat",
+        "baseball bat"
+    ]
+}

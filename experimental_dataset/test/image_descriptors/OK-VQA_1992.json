@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1992,
+    "caption": "a zebra standing on top of a grass covered field",
+    "object_tags": [
+        "outdoor",
+        "animal",
+        "mammal",
+        "zebra",
+        "ground",
+        "sky",
+        "tree",
+        "plant",
+        "grass",
+        "standing",
+        "cloud",
+        "wildlife",
+        "terrestrial animal",
+        "field"
+    ]
+}

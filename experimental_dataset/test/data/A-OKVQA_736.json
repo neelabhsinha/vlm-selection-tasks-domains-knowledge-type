@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 736,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_736.png",
+    "question": "What type of drink is to the left of the books?",
+    "label": "['beer', 'alcohol', 'beer', 'beer', 'beer', 'beer', 'beer', 'corona beer', 'beer', 'beer']",
+    "choices": [
+        "juice",
+        "beer",
+        "wine",
+        "soda"
+    ],
+    "correct_choice": "beer"
+}

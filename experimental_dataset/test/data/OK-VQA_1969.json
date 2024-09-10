@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1969,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1969.png",
+    "question": "Is this photograph taken from eye level with the furniture above it or below it?",
+    "label": [
+        "above",
+        "above",
+        "above",
+        "above",
+        "above",
+        "above",
+        "above",
+        "above",
+        "above",
+        "above"
+    ]
+}

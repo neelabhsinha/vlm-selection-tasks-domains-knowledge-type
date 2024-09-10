@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 905,
+    "image_path": "./experimental_dataset/test/images/ChartQA_905.png",
+    "question": "In which movie the difference between the revenue collection between North America and world wide was minimum?",
+    "label": [
+        "Pirates of the Caribbean: The Curse of the Black Pearl"
+    ]
+}

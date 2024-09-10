@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 16,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_16.png",
+    "question": "What period of the day does this photo reflect?",
+    "label": "['afternoon', 'evening', 'evening', 'evening', 'daytime', 'evening', 'midday', 'afternoon', 'afternoon', 'noon']",
+    "choices": [
+        "noon",
+        "morning",
+        "dawn",
+        "afternoon"
+    ],
+    "correct_choice": "afternoon"
+}

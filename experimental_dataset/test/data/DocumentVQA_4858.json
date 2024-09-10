@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4858,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4858.png",
+    "question": "In Atlanta, what is the no. of stepped cases, whose living status is unknown?",
+    "label": [
+        "6"
+    ]
+}

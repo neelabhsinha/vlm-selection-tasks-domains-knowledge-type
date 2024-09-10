@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 244,
+    "caption": "a white table topped with a white vase filled with flowers",
+    "object_tags": [
+        "tableware",
+        "table",
+        "vase",
+        "centrepiece",
+        "tablecloth",
+        "dining table",
+        "indoor",
+        "wine glass",
+        "stemware",
+        "glass",
+        "drinkware",
+        "dinner",
+        "dining"
+    ]
+}

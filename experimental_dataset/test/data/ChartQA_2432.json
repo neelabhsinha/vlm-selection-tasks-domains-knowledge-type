@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2432,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2432.png",
+    "question": "What is the market penetration rate of alcohol?",
+    "label": [
+        "50"
+    ]
+}

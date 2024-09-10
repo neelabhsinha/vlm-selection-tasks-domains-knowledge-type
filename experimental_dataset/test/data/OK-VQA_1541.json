@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1541,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1541.png",
+    "question": "Why would we suspect that this office is in a home?",
+    "label": [
+        "decor",
+        "decor",
+        "decor",
+        "decor",
+        "set up and decor",
+        "set up and decor",
+        "decoration",
+        "decoration",
+        "deal sozer",
+        "deal sozer"
+    ]
+}

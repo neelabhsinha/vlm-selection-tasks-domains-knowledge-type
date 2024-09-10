@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 388,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_388.png",
+    "question": "How many animals are staring at the camera?",
+    "label": "['three', 'four', 'three', 'four', 'four', 'four', 'four', 'four', 'four', 'four']",
+    "choices": [
+        "two",
+        "ten",
+        "eight",
+        "four"
+    ],
+    "correct_choice": "four"
+}

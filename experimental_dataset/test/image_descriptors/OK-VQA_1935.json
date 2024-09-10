@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1935,
+    "caption": "two zebras standing on the side of a road",
+    "object_tags": [
+        "animal",
+        "outdoor",
+        "mammal",
+        "zebra",
+        "tree",
+        "ground",
+        "road",
+        "plant",
+        "grass",
+        "terrestrial animal",
+        "wildlife",
+        "standing",
+        "safari",
+        "sky",
+        "mountain",
+        "field"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 146563,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

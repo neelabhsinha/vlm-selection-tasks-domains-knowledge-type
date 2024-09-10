@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 60383,
+    "caption": "a giraffe standing in a grassy field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "grass",
+        "outdoor",
+        "terrestrial animal",
+        "giraffe",
+        "wildlife",
+        "giraffidae",
+        "plant",
+        "field",
+        "standing",
+        "zoo",
+        "green",
+        "grassy",
+        "lush"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 259,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_259.png",
+    "question": "What animals are in the front of the photo?",
+    "label": "['horses', 'horse', 'horse', 'horses', 'horses', 'miniature horses', 'horse', 'horses', 'horses', 'horses']",
+    "choices": [
+        "horse",
+        "cat",
+        "dog",
+        "elephant"
+    ],
+    "correct_choice": "horse"
+}

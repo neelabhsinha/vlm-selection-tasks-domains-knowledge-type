@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 200765,
+    "image_path": "./experimental_dataset/test/images/VQAv2_200765.png",
+    "question": "What color is the court?",
+    "label": [
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "blue"
+    ]
+}

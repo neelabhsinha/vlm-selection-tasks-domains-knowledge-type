@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 398,
+    "caption": "a pizza topped with vegetables and cheese",
+    "object_tags": [
+        "food",
+        "dish",
+        "pizza",
+        "fast food",
+        "italian food",
+        "cuisine",
+        "recipe",
+        "pizza cheese",
+        "california-style pizza",
+        "flatbread",
+        "ingredient",
+        "indoor",
+        "toppings",
+        "vegetable",
+        "cheese",
+        "tomato"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1815,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1815.png",
+    "question": "In what academic year were there 3.07 thousand nursery schools in the UK?",
+    "label": [
+        "2019/20"
+    ]
+}

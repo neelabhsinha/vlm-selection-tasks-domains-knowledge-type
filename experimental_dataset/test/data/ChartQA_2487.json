@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2487,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2487.png",
+    "question": "When did the Utah Jazz's Facebook page reach 1.81 million followers?",
+    "label": [
+        "March 2021"
+    ]
+}

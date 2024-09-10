@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 993,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_993.png",
+    "question": "What type of shot is the man hitting?",
+    "label": "['backhand', 'tennis', 'tennis ball', 'forehand', 'right hand', 'forehand', 'forehand', 'backhand', 'swing', 'forehand']",
+    "choices": [
+        "forehand",
+        "backhand",
+        "serve",
+        "dropshot"
+    ],
+    "correct_choice": "forehand"
+}

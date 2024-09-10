@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3371,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3371.png",
+    "question": "What type of trees are shown in the picture?",
+    "label": [
+        "pine",
+        "pine",
+        "pine",
+        "pine",
+        "pine",
+        "pine",
+        "douglas fir",
+        "douglas fir",
+        "evergreen",
+        "evergreen"
+    ]
+}

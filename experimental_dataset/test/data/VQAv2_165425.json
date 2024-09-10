@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 165425,
+    "image_path": "./experimental_dataset/test/images/VQAv2_165425.png",
+    "question": "What are the fruits sitting on?",
+    "label": [
+        "table",
+        "table",
+        "table",
+        "table",
+        "table",
+        "table",
+        "table",
+        "table",
+        "table",
+        "baskets"
+    ]
+}

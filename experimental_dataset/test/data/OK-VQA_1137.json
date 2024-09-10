@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1137,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1137.png",
+    "question": "Where do you think this man could be?",
+    "label": [
+        "in alp",
+        "in alp",
+        "mountain",
+        "mountain",
+        "alp",
+        "alp",
+        "antartica",
+        "antartica",
+        "mountain",
+        "mountain"
+    ]
+}

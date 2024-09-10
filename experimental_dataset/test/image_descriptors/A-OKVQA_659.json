@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 659,
+    "caption": "a white and blue train on a train track",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "vehicle",
+        "public transport",
+        "train",
+        "sky",
+        "track",
+        "land vehicle",
+        "railway",
+        "rolling stock",
+        "passenger car",
+        "train station",
+        "transport hub",
+        "electric locomotive",
+        "mode of transport",
+        "railroad car",
+        "metro",
+        "high-speed rail",
+        "platform",
+        "white",
+        "railroad",
+        "ground",
+        "tram",
+        "stopped"
+    ]
+}

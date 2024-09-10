@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1180,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1180.png",
+    "question": "What is the number of Coroner's Cases as per the document?",
+    "label": [
+        "29"
+    ]
+}

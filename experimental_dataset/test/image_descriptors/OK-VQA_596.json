@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 596,
+    "caption": "a table with a tv and a plant on it",
+    "object_tags": [
+        "houseplant",
+        "indoor",
+        "flowerpot",
+        "furniture",
+        "wall",
+        "window",
+        "home",
+        "television",
+        "text",
+        "plant",
+        "desk",
+        "vase",
+        "computer monitor",
+        "interior design",
+        "table",
+        "floor",
+        "window blind",
+        "room"
+    ]
+}

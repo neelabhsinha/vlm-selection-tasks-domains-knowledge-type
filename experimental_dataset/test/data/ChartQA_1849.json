@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1849,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1849.png",
+    "question": "Who was the most valuable player at the 2018 FIFA World Cup?",
+    "label": [
+        "Kevin De Bruyne"
+    ]
+}

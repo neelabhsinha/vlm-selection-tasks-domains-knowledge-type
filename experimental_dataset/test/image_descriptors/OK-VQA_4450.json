@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4450,
+    "caption": "bananas, oranges, and apples in a bowl",
+    "object_tags": [
+        "fruit",
+        "banana",
+        "food",
+        "natural foods",
+        "accessory fruit",
+        "superfood",
+        "produce",
+        "diet food",
+        "cooking plantain",
+        "saba banana",
+        "seedless fruit",
+        "berry",
+        "red",
+        "indoor"
+    ]
+}

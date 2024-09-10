@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 392,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_392.png",
+    "question": "Where is the most likely location for this bar?",
+    "label": "['pub', 'downtown', 'london', 'basement', 'someones home', 'england', 'bar', 'house', 'house', 'pub']",
+    "choices": [
+        "school",
+        "house",
+        "restaurant",
+        "office"
+    ],
+    "correct_choice": "house"
+}

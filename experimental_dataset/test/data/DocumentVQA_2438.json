@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2438,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2438.png",
+    "question": "In how many restaurants was the Lorillard study?",
+    "label": [
+        "20",
+        "20 restaurants"
+    ]
+}

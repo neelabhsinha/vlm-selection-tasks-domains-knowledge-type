@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4421,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4421.png",
+    "question": "When did this style of suitcase go out of fashion?",
+    "label": [
+        "1960s",
+        "1960s",
+        "1970s",
+        "1970s",
+        "1990",
+        "1990",
+        "1970's",
+        "1970's",
+        "1960's",
+        "1960's"
+    ]
+}

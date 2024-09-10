@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 195546,
+    "caption": "a woman riding a bike down the street",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "building",
+        "land vehicle",
+        "road",
+        "vehicle",
+        "person",
+        "street",
+        "bicycle",
+        "clothing",
+        "text",
+        "bicycle wheel",
+        "footwear",
+        "sign",
+        "woman",
+        "riding",
+        "scooter",
+        "ground",
+        "girl"
+    ]
+}

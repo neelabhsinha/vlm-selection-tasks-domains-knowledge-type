@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 158,
+    "image_path": "./experimental_dataset/test/images/ChartQA_158.png",
+    "question": "Is Approve and Disapprove line almost merged in March?",
+    "label": [
+        "Yes"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 204194,
+    "image_path": "./experimental_dataset/test/images/VQAv2_204194.png",
+    "question": "Is the sitting boy smoking?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no sitting boy",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

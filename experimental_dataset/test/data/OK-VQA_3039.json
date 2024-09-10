@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3039,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3039.png",
+    "question": "Where was this made?",
+    "label": [
+        "grill",
+        "grill",
+        "grill",
+        "grill",
+        "at home",
+        "at home",
+        "kitchen",
+        "kitchen",
+        "outside",
+        "outside"
+    ]
+}

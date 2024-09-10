@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 907,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_907.png",
+    "question": "What part of the street are the pedestrians waiting at?",
+    "label": "['sidewalk', 'crosswalk', 'crosswalk', 'crosswalk', 'crosswalk', 'corner', 'intersection', 'crosswalk', 'green light', 'crosswalk']",
+    "choices": [
+        "sewer",
+        "crosswalk",
+        "middle",
+        "end"
+    ],
+    "correct_choice": "crosswalk"
+}

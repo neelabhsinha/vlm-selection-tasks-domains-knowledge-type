@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 55247,
+    "caption": "a tray of food on a red tray",
+    "object_tags": [
+        "food",
+        "meal",
+        "snack",
+        "breakfast",
+        "fast food",
+        "kitchen utensil",
+        "fruit",
+        "staple food",
+        "fork",
+        "indoor",
+        "lunch",
+        "orange",
+        "plastic",
+        "container",
+        "tray"
+    ]
+}

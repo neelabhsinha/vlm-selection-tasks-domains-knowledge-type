@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 873,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_873.png",
+    "question": "What is the cat.no of Ink-Parker super chrome quick-black?",
+    "label": [
+        "00sii476",
+        "00SII476"
+    ]
+}

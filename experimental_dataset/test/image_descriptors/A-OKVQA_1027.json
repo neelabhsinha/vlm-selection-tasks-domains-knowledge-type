@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1027,
+    "caption": "a bus that is parked in front of a building",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "sky",
+        "road",
+        "building",
+        "text",
+        "street",
+        "mode of transport",
+        "car",
+        "vehicle registration plate",
+        "transport",
+        "bus",
+        "van",
+        "city",
+        "driving"
+    ]
+}

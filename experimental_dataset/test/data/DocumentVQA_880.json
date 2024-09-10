@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 880,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_880.png",
+    "question": "What does C stand for?",
+    "label": [
+        "current",
+        "Current",
+        "C = current"
+    ]
+}

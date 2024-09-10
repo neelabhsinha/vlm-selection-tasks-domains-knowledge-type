@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 126476,
+    "caption": "a room filled with tables and chairs with laptops on them",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "wall",
+        "laptop",
+        "personal computer",
+        "table",
+        "computer",
+        "office building",
+        "computer desk",
+        "output device",
+        "computer monitor",
+        "computer hardware",
+        "desktop computer",
+        "office chair",
+        "desk",
+        "electronic device",
+        "room",
+        "floor",
+        "sitting",
+        "office",
+        "chair"
+    ]
+}

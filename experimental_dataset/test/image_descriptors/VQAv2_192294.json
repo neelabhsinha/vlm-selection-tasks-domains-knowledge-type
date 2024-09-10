@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 192294,
+    "caption": "a woman sitting on a couch in a living room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "television",
+        "clothing",
+        "mirror",
+        "furniture",
+        "home appliance",
+        "house",
+        "sink",
+        "drawer",
+        "window",
+        "person",
+        "chest of drawers",
+        "cabinetry",
+        "black and white",
+        "woman",
+        "floor",
+        "room"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 100,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_100.png",
+    "question": "Who is the woman dressed up as?",
+    "label": "['cleopatra', 'masquerade participant', 'xena', 'zena', 'viking', 'cleopatra', 'xena', 'queen', 'zena', 'queen']",
+    "choices": [
+        "snow white",
+        "xena",
+        "maleficent",
+        "cinderella"
+    ],
+    "correct_choice": "xena"
+}

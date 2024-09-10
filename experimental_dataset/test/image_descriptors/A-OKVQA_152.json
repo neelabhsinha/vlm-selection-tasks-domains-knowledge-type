@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 152,
+    "caption": "a piece of cake on a plate with a fork",
+    "object_tags": [
+        "plate",
+        "tableware",
+        "kitchen utensil",
+        "dishware",
+        "silverware",
+        "food",
+        "table",
+        "platter",
+        "cake",
+        "baked goods",
+        "serveware",
+        "white",
+        "dairy",
+        "indoor",
+        "household silver",
+        "culinary art",
+        "spoon",
+        "fork",
+        "dessert",
+        "slice"
+    ]
+}

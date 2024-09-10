@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2096,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2096.png",
+    "question": "Who is the cc to?",
+    "label": [
+        "K. JURGENSEN",
+        "K. Jurgensen"
+    ]
+}

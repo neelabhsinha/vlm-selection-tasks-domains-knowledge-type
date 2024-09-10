@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 463,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_463.png",
+    "question": "What is required to be on the ground to do this sport?",
+    "label": "['snow', 'ski', 'snow', 'snow', 'snow', 'snow', 'skies', 'snow', 'ski boards', 'skis']",
+    "choices": [
+        "water",
+        "ice",
+        "salt",
+        "snow"
+    ],
+    "correct_choice": "snow"
+}

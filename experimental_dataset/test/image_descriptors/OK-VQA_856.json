@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 856,
+    "caption": "a doll doll doll doll doll doll doll doll doll doll doll doll doll doll doll doll doll doll",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "clothing",
+        "human face",
+        "collection",
+        "picture frame",
+        "doll",
+        "toy",
+        "shop",
+        "shelf",
+        "store",
+        "miniature"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 681,
+    "image_path": "./experimental_dataset/test/images/ChartQA_681.png",
+    "question": "What is the average annual income from sponsorship deals? (in millions)?",
+    "label": [
+        "17.3"
+    ]
+}

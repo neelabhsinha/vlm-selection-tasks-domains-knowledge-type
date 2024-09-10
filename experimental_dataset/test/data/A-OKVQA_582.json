@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 582,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_582.png",
+    "question": "How many glasses of beer are at least partially visible?",
+    "label": "['eight', 'nine', 'eight', 'nine', 'four', 'eight', 'eight', 'eight', 'eight', 'eight']",
+    "choices": [
+        "four",
+        "eight",
+        "five",
+        "three"
+    ],
+    "correct_choice": "eight"
+}

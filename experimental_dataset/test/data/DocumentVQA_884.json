@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 884,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_884.png",
+    "question": "What kind of water ?",
+    "label": [
+        "Water in Boilers"
+    ]
+}

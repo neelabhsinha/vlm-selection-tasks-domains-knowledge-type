@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 473,
+    "image_path": "./experimental_dataset/test/images/ChartQA_473.png",
+    "question": "Is the average of all the bars in \"Identity theft\" greater than the highest value of the gray bar?",
+    "label": [
+        "Yes"
+    ]
+}

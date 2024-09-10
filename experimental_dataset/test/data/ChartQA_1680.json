@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1680,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1680.png",
+    "question": "When did the total number of air traffic passengers increase steadily?",
+    "label": [
+        "2006"
+    ]
+}

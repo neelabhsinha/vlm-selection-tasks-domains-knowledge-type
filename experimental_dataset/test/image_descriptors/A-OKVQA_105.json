@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 105,
+    "caption": "a man pouring a glass of wine into a bar",
+    "object_tags": [
+        "bottle",
+        "drinking establishment",
+        "drink",
+        "pub",
+        "tavern",
+        "indoor",
+        "alcohol",
+        "alcoholic beverage",
+        "distilled beverage",
+        "barware",
+        "liquor store",
+        "glass bottle",
+        "ceiling",
+        "bar",
+        "night"
+    ]
+}

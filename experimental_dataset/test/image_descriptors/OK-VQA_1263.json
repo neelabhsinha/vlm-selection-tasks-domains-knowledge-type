@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1263,
+    "caption": "a man on a paddle board in the water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sport",
+        "surfing",
+        "person",
+        "outdoor recreation",
+        "wave",
+        "recreation",
+        "beach",
+        "sea"
+    ]
+}

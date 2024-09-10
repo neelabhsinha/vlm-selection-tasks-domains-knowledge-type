@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 670,
+    "image_path": "./experimental_dataset/test/images/ChartQA_670.png",
+    "question": "Which regional branch has 31846 Customer loans?",
+    "label": [
+        "CIC Lyonnaise de Banque"
+    ]
+}

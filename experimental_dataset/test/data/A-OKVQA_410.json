@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 410,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_410.png",
+    "question": "What profession might this man work as?",
+    "label": "['wrangler', 'actor', 'rancher', 'farming', 'history actor', 'cowboy', 'stable hand', 'cowboy', 'cowboy', 'sherriff']",
+    "choices": [
+        "politician",
+        "bartender",
+        "sherriff",
+        "librarian"
+    ],
+    "correct_choice": "sherriff"
+}

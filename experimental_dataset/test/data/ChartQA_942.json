@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 942,
+    "image_path": "./experimental_dataset/test/images/ChartQA_942.png",
+    "question": "Which two year the blue bar and dark blue bar value equal?",
+    "label": [
+        "[2011, 2012]"
+    ]
+}

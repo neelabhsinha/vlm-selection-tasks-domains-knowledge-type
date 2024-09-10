@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3288,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3288.png",
+    "question": "What is the Expenses for Salaries for 1987?",
+    "label": [
+        "$117,047"
+    ]
+}

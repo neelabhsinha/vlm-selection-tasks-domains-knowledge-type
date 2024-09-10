@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1473,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1473.png",
+    "question": "To whom does that board belong?",
+    "label": [
+        "lifeguard",
+        "lifeguard",
+        "lifeguard",
+        "lifeguard",
+        "lifeguard",
+        "lifeguard",
+        "lifeguard",
+        "lifeguard",
+        "man",
+        "man"
+    ]
+}

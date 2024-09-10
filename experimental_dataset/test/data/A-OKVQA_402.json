@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 402,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_402.png",
+    "question": "The layout of buildings most resembles which period?",
+    "label": "[\"1800's\", \"1800's\", '19th century', 'home', 'baroque', 'medieval', 'colonial', 'historical european', 'colonial', \"1800's\"]",
+    "choices": [
+        "modern usa",
+        "historical european",
+        "japanese housing",
+        "chinese businesses"
+    ],
+    "correct_choice": "historical european"
+}

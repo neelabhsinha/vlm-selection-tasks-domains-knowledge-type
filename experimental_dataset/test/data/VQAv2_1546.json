@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 1546,
+    "image_path": "./experimental_dataset/test/images/VQAv2_1546.png",
+    "question": "What season is most likely shown here?",
+    "label": [
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter"
+    ]
+}

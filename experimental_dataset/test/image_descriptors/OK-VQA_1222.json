@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1222,
+    "caption": "bunches of bananas hanging from the ceiling of a fruit stand",
+    "object_tags": [
+        "fruit",
+        "market",
+        "marketplace",
+        "trade",
+        "food",
+        "selling",
+        "greengrocer",
+        "street",
+        "local food",
+        "whole food",
+        "bazaar",
+        "natural foods",
+        "outdoor",
+        "banana",
+        "produce"
+    ]
+}

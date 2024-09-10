@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 849,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_849.png",
+    "question": "Why is the person holding the phone up?",
+    "label": "['take picture', 'taking selfie', 'selfie', 'taking photo', 'picture taking', 'selfie', 'selfie', 'take picture', 'taking picture', 'selfie']",
+    "choices": [
+        "picture taking",
+        "breaking it",
+        "calling someone",
+        "showing off"
+    ],
+    "correct_choice": "picture taking"
+}

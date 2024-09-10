@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 808,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_808.png",
+    "question": "What is the cat rubbing against?",
+    "label": "['laptop screen', 'glass', 'laptop', 'computer screen', 'laptop', 'laptop', 'laptop', 'monitor', 'laptop', 'laptop']",
+    "choices": [
+        "book",
+        "laptop",
+        "toaster",
+        "vase"
+    ],
+    "correct_choice": "laptop"
+}

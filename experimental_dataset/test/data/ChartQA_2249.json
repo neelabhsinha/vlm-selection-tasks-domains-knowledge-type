@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2249,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2249.png",
+    "question": "How many runs did Anggraeni and Prastini score against the Philippines in December 2019?",
+    "label": [
+        "257"
+    ]
+}

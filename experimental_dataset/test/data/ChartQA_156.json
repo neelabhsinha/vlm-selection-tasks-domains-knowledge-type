@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 156,
+    "image_path": "./experimental_dataset/test/images/ChartQA_156.png",
+    "question": "What is the greatest gap value between the orange and the green lines?",
+    "label": [
+        "29"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3420,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3420.png",
+    "question": "The lack of follicles on this man's head is called being what?",
+    "label": [
+        "bald",
+        "bald",
+        "bald",
+        "bald",
+        "bald",
+        "bald",
+        "bald",
+        "bald",
+        "bald",
+        "bald"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 867,
+    "caption": "a man and woman sitting at a table with a plate of food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "tableware",
+        "human face",
+        "table",
+        "coffee cup",
+        "saucer",
+        "serveware",
+        "indoor",
+        "drinkware",
+        "drink",
+        "mug",
+        "man",
+        "glasses",
+        "sitting",
+        "bowl",
+        "wall",
+        "cup",
+        "food",
+        "restaurant",
+        "people",
+        "coffee",
+        "woman",
+        "tea"
+    ]
+}

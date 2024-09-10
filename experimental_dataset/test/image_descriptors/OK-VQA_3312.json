@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3312,
+    "caption": "a baby elephant standing next to an adult elephant",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "outdoor",
+        "terrestrial animal",
+        "ground",
+        "tree",
+        "wildlife",
+        "elephant",
+        "zoo",
+        "enclosure",
+        "standing",
+        "rock"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2810,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2810.png",
+    "question": "Is this a domestic or wild cat?",
+    "label": [
+        "domestic",
+        "domestic",
+        "domestic",
+        "domestic",
+        "domestic",
+        "domestic",
+        "domestic",
+        "domestic",
+        "doestic",
+        "doestic"
+    ]
+}

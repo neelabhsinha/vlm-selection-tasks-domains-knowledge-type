@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4130,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4130.png",
+    "question": "What is the player in pads catching?",
+    "label": [
+        "ball",
+        "ball",
+        "ball",
+        "ball",
+        "baseball",
+        "baseball",
+        "baseball",
+        "baseball",
+        "catcher",
+        "catcher"
+    ]
+}

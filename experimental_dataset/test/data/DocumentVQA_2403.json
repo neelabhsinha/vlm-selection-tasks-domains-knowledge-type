@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2403,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2403.png",
+    "question": "Who does the village administrator report to?",
+    "label": [
+        "Field Director",
+        "Field director"
+    ]
+}

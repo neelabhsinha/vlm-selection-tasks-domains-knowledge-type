@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 19174,
+    "image_path": "./experimental_dataset/test/images/VQAv2_19174.png",
+    "question": "What is the predominant color in this room?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white"
+    ]
+}

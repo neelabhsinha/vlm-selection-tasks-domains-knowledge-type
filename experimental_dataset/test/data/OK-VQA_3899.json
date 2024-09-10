@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3899,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3899.png",
+    "question": "What drink is in this persons hand?",
+    "label": [
+        "soda",
+        "soda",
+        "soda",
+        "soda",
+        "vitamin water",
+        "vitamin water",
+        "vitamin water",
+        "vitamin water",
+        "energy drink",
+        "energy drink"
+    ]
+}

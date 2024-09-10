@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2727,
+    "caption": "a brown and white dog sniffing a plastic bottle",
+    "object_tags": [
+        "mammal",
+        "dog breed",
+        "animal",
+        "pug",
+        "pet",
+        "bulldog",
+        "snout",
+        "dog",
+        "indoor"
+    ]
+}

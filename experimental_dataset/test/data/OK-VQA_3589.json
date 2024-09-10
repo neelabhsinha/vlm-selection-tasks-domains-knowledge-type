@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3589,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3589.png",
+    "question": "What is the name of this little statue?",
+    "label": [
+        "gnome",
+        "gnome",
+        "gnome",
+        "gnome",
+        "fry",
+        "fry",
+        "emperor",
+        "emperor",
+        "elf",
+        "elf"
+    ]
+}

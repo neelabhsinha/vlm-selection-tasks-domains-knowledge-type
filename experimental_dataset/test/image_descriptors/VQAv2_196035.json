@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 196035,
+    "caption": "two cats are playing in the bathtub together",
+    "object_tags": [
+        "indoor",
+        "bathroom",
+        "black cat",
+        "small to medium-sized cats",
+        "black",
+        "wall",
+        "felidae",
+        "mammal",
+        "animal",
+        "bathtub",
+        "tub",
+        "cat",
+        "kitten"
+    ]
+}

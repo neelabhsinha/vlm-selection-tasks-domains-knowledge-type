@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 175547,
+    "image_path": "./experimental_dataset/test/images/VQAv2_175547.png",
+    "question": "Who is this?",
+    "label": [
+        "rodrigo",
+        "tennis player",
+        "man",
+        "man",
+        "tennis player",
+        "i don't know",
+        "andre",
+        "roger federer",
+        "roger federer",
+        "tennis player"
+    ]
+}

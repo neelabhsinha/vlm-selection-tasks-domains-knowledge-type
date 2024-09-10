@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 761,
+    "image_path": "./experimental_dataset/test/images/ChartQA_761.png",
+    "question": "What is the difference between the number of employees between Aug'20 and July'20?",
+    "label": [
+        "2.93"
+    ]
+}

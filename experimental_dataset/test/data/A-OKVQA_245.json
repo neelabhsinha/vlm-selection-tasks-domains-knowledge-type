@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 245,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_245.png",
+    "question": "Which territory is this area located?",
+    "label": "['france', 'britain', 'england', 'england', 'london', 'england', 'united states', 'united kingdom', 'uk', 'britain']",
+    "choices": [
+        "russia",
+        "britain",
+        "canada",
+        "america"
+    ],
+    "correct_choice": "britain"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 304,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_304.png",
+    "question": "What type of bottles are on the table?",
+    "label": "['beer', 'beer', 'beer', 'beer', 'beer', 'beer', 'beer', 'beer', 'beer', 'beer']",
+    "choices": [
+        "beer",
+        "wine",
+        "juice",
+        "soda"
+    ],
+    "correct_choice": "beer"
+}

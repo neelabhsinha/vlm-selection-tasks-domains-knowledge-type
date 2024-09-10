@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 67701,
+    "image_path": "./experimental_dataset/test/images/VQAv2_67701.png",
+    "question": "Is the picture in black and white?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

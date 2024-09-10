@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 11310,
+    "image_path": "./experimental_dataset/test/images/VQAv2_11310.png",
+    "question": "What brand of clothing is the man in blue wearing?",
+    "label": [
+        "nike",
+        "adidas",
+        "adidas",
+        "nike",
+        "nike",
+        "adidas",
+        "nike",
+        "adidas",
+        "nike",
+        "adidas"
+    ]
+}

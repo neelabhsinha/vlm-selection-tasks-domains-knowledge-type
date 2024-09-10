@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 150,
+    "caption": "bowls of food on a table",
+    "object_tags": [
+        "food",
+        "meal",
+        "vegetable",
+        "snack",
+        "table",
+        "indoor",
+        "plant",
+        "container",
+        "carrot stick"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "ChartQA",
+    "key": 967,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Public Places"
+    ],
+    "knowledge_type": [
+        "Mathematical Knowledge"
+    ]
+}

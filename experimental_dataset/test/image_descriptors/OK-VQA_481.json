@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 481,
+    "caption": "a subway train with graffiti on the side of it",
+    "object_tags": [
+        "transport",
+        "graffiti",
+        "public transport",
+        "train",
+        "paint",
+        "painting",
+        "painted",
+        "outdoor"
+    ]
+}

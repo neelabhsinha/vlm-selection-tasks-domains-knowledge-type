@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1694,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1694.png",
+    "question": "What sport is this?",
+    "label": [
+        "horse race",
+        "horse race",
+        "horse race",
+        "horse race",
+        "horse race",
+        "horse race",
+        "steeplechase",
+        "steeplechase",
+        "equestrian",
+        "equestrian"
+    ]
+}

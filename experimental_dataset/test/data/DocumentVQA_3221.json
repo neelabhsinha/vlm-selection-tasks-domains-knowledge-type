@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3221,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3221.png",
+    "question": "Mr. milovan bosnjak graduated degree in which stream?",
+    "label": [
+        "Chemical Engineering",
+        "chemical engineering"
+    ]
+}

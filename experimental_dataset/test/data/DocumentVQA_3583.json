@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3583,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3583.png",
+    "question": "What is the proportion of glycerin given in \u2018table I\u2019?",
+    "label": [
+        "19.0%"
+    ]
+}

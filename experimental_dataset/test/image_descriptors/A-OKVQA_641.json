@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 641,
+    "caption": "a woman standing at a table with a man",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "bottle",
+        "soft drink",
+        "table",
+        "drink",
+        "people",
+        "man",
+        "tableware",
+        "food",
+        "restaurant",
+        "food court",
+        "woman",
+        "indoor",
+        "group"
+    ]
+}

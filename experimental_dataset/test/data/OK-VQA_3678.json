@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3678,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3678.png",
+    "question": "How much is dinner here?",
+    "label": [
+        "expensive",
+        "expensive",
+        "expensive",
+        "expensive",
+        "medium price",
+        "medium price",
+        "15 dollars",
+        "15 dollars",
+        "cheap",
+        "cheap"
+    ]
+}

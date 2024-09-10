@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 851,
+    "caption": "a cat laying in a bathroom sink",
+    "object_tags": [
+        "indoor",
+        "cat",
+        "sink",
+        "animal",
+        "wall",
+        "small to medium-sized cats",
+        "plumbing fixture",
+        "bathroom",
+        "felidae",
+        "tap"
+    ]
+}

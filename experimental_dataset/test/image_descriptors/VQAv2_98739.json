@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 98739,
+    "caption": "a red suitcase sitting on top of a counter",
+    "object_tags": [
+        "accessory",
+        "musical instrument",
+        "indoor",
+        "luggage and bags",
+        "wall",
+        "handbag",
+        "bag",
+        "string instrument",
+        "guitar",
+        "case",
+        "music"
+    ]
+}

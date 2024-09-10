@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 647,
+    "image_path": "./experimental_dataset/test/images/ChartQA_647.png",
+    "question": "What's the sum of the least three modes?",
+    "label": [
+        "3.7"
+    ]
+}

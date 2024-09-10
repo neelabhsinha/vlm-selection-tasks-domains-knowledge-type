@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 439,
+    "caption": "a laptop computer sitting on top of a desk",
+    "object_tags": [
+        "indoor",
+        "furniture",
+        "table",
+        "personal computer",
+        "computer desk",
+        "office supplies",
+        "office equipment",
+        "computer monitor",
+        "computer",
+        "desktop computer",
+        "laptop",
+        "computer keyboard",
+        "office building",
+        "output device",
+        "desk",
+        "computer mouse",
+        "wall",
+        "writing desk",
+        "computer hardware",
+        "text",
+        "computer terminal",
+        "office",
+        "mac"
+    ]
+}

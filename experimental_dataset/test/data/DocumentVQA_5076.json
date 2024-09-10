@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5076,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5076.png",
+    "question": "Which is the first 'Protozoa' listed in the table?",
+    "label": [
+        "Endamoeba histolytica"
+    ]
+}

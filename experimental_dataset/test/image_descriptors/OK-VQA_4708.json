@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4708,
+    "caption": "a man holding a donut in his hand",
+    "object_tags": [
+        "person",
+        "human face",
+        "indoor",
+        "man",
+        "book",
+        "human beard",
+        "bookcase",
+        "clothing",
+        "holding",
+        "wall",
+        "glasses",
+        "shelf",
+        "bird"
+    ]
+}

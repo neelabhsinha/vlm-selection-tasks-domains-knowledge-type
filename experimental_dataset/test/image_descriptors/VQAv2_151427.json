@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 151427,
+    "caption": "a large brown bear walking through a river",
+    "object_tags": [
+        "outdoor",
+        "mammal",
+        "animal",
+        "tree",
+        "water",
+        "sky",
+        "bear",
+        "brown bear",
+        "plant",
+        "wildlife",
+        "river",
+        "nature reserve",
+        "nature",
+        "walking",
+        "brown",
+        "rock",
+        "lake"
+    ]
+}

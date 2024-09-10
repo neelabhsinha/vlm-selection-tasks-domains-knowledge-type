@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 521,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_521.png",
+    "question": "How many pizzas do you see?",
+    "label": "['two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two']",
+    "choices": [
+        "one",
+        "none",
+        "two",
+        "five"
+    ],
+    "correct_choice": "two"
+}

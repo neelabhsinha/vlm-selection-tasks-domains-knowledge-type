@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4054,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4054.png",
+    "question": "What is the room no. for Group I ?",
+    "label": [
+        "123",
+        "123 State Health Department"
+    ]
+}

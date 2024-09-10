@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 951,
+    "caption": "a man sitting on a bench in a park",
+    "object_tags": [
+        "tree",
+        "outdoor",
+        "bench",
+        "person",
+        "clothing",
+        "ground",
+        "outdoor bench",
+        "park",
+        "footwear",
+        "furniture",
+        "plant",
+        "man",
+        "sitting",
+        "settle",
+        "wooden"
+    ]
+}

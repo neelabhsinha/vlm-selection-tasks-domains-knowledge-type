@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 799,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_799.png",
+    "question": "What is the closest animal's neck most directly useful for?",
+    "label": "['to eat', 'eating leaves', 'eating leaves', 'reaching', 'gathering leaves', 'reach food', 'for height', 'eating', 'fetching', 'eating']",
+    "choices": [
+        "breathing underwater",
+        "eating leaves",
+        "peacocking",
+        "fighting predators"
+    ],
+    "correct_choice": "eating leaves"
+}

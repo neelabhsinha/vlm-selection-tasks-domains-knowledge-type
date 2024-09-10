@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 25945,
+    "image_path": "./experimental_dataset/test/images/VQAv2_25945.png",
+    "question": "Where are the two meters?",
+    "label": [
+        "street",
+        "in city",
+        "in front",
+        "by wall",
+        "on street",
+        "right",
+        "street",
+        "at curb",
+        "on pole",
+        "street"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3793,
+    "caption": "a man sitting at a table with a laptop",
+    "object_tags": [
+        "laptop",
+        "computer",
+        "human face",
+        "person",
+        "man",
+        "clothing",
+        "indoor",
+        "hat"
+    ]
+}

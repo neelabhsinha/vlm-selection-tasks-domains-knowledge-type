@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 112448,
+    "caption": "a woman holding up a snowboard in front of a group of people",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "building",
+        "sky",
+        "sunglasses",
+        "man",
+        "jacket",
+        "snowboarding",
+        "holding",
+        "skiing",
+        "ski",
+        "standing",
+        "winter"
+    ]
+}

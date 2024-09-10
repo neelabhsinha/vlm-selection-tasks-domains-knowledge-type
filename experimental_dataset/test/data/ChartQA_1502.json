@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1502,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1502.png",
+    "question": "What was the estimated value of the Tampa Bay Rays in 2021?",
+    "label": [
+        "1055"
+    ]
+}

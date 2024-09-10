@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 676,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_676.png",
+    "question": "How did the paper get holes in it?",
+    "label": "['hole punch', 'was punched', 'hole punch', 'hole punch', 'hole punched', 'hole punch', 'paper punch', 'hole punch', 'hole punch', 'hole punch']",
+    "choices": [
+        "scissors",
+        "pen",
+        "torn",
+        "hole punch"
+    ],
+    "correct_choice": "hole punch"
+}

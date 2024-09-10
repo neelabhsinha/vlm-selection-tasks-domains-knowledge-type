@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 845,
+    "caption": "a piece of cake on a plate with a fork",
+    "object_tags": [
+        "fork",
+        "food",
+        "plate",
+        "kitchen utensil",
+        "mixture",
+        "silverware",
+        "dessert",
+        "indoor",
+        "slice",
+        "cake"
+    ]
+}

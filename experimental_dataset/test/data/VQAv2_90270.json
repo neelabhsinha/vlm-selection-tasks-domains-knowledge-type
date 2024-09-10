@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 90270,
+    "image_path": "./experimental_dataset/test/images/VQAv2_90270.png",
+    "question": "What cartoon animals are pictured on the blankets?",
+    "label": [
+        "giraffes, penguins",
+        "giraffes",
+        "giraffe",
+        "penguins, giraffes, lions, and monkeys",
+        "animals",
+        "giraffes, lions, and penguins",
+        "giraffe",
+        "giraffes",
+        "penguins",
+        "giraffe"
+    ]
+}

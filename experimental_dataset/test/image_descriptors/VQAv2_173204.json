@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 173204,
+    "caption": "a herd of sheep standing on top of a lush green field",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "man",
+        "sheep",
+        "tree",
+        "standing",
+        "woman",
+        "crowd",
+        "people"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1198,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1198.png",
+    "question": "What kind of boat is this?",
+    "label": [
+        "canoe",
+        "canoe",
+        "canoe",
+        "canoe",
+        "gondola",
+        "gondola",
+        "sailboat",
+        "sailboat",
+        "boat",
+        "boat"
+    ]
+}

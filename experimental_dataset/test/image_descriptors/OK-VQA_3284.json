@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3284,
+    "caption": "a black and white cat laying on top of a trash can",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "ground",
+        "bottle",
+        "mammal",
+        "table"
+    ]
+}

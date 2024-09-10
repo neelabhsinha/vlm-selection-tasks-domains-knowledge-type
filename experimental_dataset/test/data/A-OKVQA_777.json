@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 777,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_777.png",
+    "question": "In what way were the carrots cooked?",
+    "label": "['roasted', 'roasted', 'steamed', 'grilled', 'baked', 'grilled', 'grilled', 'grilled', 'boiled', 'fried']",
+    "choices": [
+        "baked",
+        "steamed",
+        "boiled",
+        "roasted"
+    ],
+    "correct_choice": "roasted"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1576,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1576.png",
+    "question": "What percentage of the Japanese e-commerce market are airlines and hotels related purchases?",
+    "label": [
+        "22"
+    ]
+}

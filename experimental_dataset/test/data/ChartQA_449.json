@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 449,
+    "image_path": "./experimental_dataset/test/images/ChartQA_449.png",
+    "question": "Add both bars in Rep/Lean Rep category, divide it by 2, what's the result?",
+    "label": [
+        "49"
+    ]
+}

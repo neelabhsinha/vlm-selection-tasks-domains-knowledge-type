@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2614,
+    "caption": "a woman is looking at a cat on a street",
+    "object_tags": [
+        "outdoor",
+        "text",
+        "sky",
+        "road",
+        "billboard",
+        "person",
+        "street",
+        "sign"
+    ]
+}

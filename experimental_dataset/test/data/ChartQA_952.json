@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 952,
+    "image_path": "./experimental_dataset/test/images/ChartQA_952.png",
+    "question": "Which sector has 100%?",
+    "label": [
+        "Cinematography"
+    ]
+}

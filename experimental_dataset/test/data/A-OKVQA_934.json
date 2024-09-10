@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 934,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_934.png",
+    "question": "The room can be described as what?",
+    "label": "['neutral colors', 'bright', 'dining room', 'dining room', 'dining room', 'dining room', 'living room', 'dining room', 'tidy', 'classy']",
+    "choices": [
+        "tidy",
+        "messy",
+        "on fire",
+        "destroyed"
+    ],
+    "correct_choice": "tidy"
+}

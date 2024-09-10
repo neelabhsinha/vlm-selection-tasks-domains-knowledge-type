@@ -1,0 +1,11 @@
+{
+    "dataset": "ChartQA",
+    "key": 827,
+    "caption": "a series of photos showing a variety of colorful objects",
+    "object_tags": [
+        "screenshot",
+        "text",
+        "colorfulness",
+        "diagram"
+    ]
+}

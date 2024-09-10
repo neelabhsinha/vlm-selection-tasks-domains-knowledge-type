@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3378,
+    "caption": "a row of benches in a train station",
+    "object_tags": [
+        "building",
+        "road",
+        "furniture",
+        "ground",
+        "bench",
+        "empty",
+        "chair",
+        "indoor",
+        "outdoor",
+        "street"
+    ]
+}

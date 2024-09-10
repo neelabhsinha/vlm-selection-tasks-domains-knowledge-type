@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1697,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1697.png",
+    "question": "Which country was a party in its own right to the Treaty of Versailles?",
+    "label": [
+        "Germany"
+    ]
+}

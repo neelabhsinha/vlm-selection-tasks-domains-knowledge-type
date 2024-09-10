@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1986,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1986.png",
+    "question": "What is the parts per million for Iron ?",
+    "label": [
+        "1.75"
+    ]
+}

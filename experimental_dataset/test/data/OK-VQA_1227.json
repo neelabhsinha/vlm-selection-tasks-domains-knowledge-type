@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1227,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1227.png",
+    "question": "What is the process called that was used to make this food?",
+    "label": [
+        "puree",
+        "puree",
+        "puree",
+        "puree",
+        "process",
+        "process",
+        "sauce",
+        "sauce",
+        "blend",
+        "blend"
+    ]
+}

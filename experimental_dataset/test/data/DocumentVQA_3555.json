@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3555,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3555.png",
+    "question": "what is the rate of usual brand  for roll-your-own ?",
+    "label": [
+        "1.3%"
+    ]
+}

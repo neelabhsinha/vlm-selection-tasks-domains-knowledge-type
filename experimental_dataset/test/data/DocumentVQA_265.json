@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 265,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_265.png",
+    "question": "In which city is ITC's Watershed Development Project located?",
+    "label": [
+        "Sehore"
+    ]
+}

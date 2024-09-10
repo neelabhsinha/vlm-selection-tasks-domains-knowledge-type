@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 737,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_737.png",
+    "question": "Which country's postage stamp is it?",
+    "label": [
+        "U.S."
+    ]
+}

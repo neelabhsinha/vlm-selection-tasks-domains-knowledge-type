@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3527,
+    "caption": "a man sitting on a chair in a room",
+    "object_tags": [
+        "person",
+        "clothing",
+        "wall",
+        "indoor",
+        "human face",
+        "furniture",
+        "man",
+        "comfort",
+        "sitting",
+        "couch",
+        "shirt",
+        "wearing",
+        "chair",
+        "glasses"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 55929,
+    "caption": "a black cow and a brown cow in a field",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "animal",
+        "mammal",
+        "cattle",
+        "livestock",
+        "tree",
+        "ranch",
+        "pasture",
+        "cow",
+        "field",
+        "grazing",
+        "plant",
+        "standing",
+        "bovine",
+        "brown",
+        "fenced",
+        "bull",
+        "farm"
+    ]
+}

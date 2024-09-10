@@ -1,0 +1,9 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2107,
+    "caption": "a park bench sitting next to a trash can",
+    "object_tags": [
+        "fence",
+        "outdoor"
+    ]
+}

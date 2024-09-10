@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1327,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1327.png",
+    "question": "How many metric tons of hot rolled steel products were made in the United States in 2019?",
+    "label": [
+        "87.25"
+    ]
+}

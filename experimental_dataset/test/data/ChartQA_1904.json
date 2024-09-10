@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1904,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1904.png",
+    "question": "What was Nike's global revenue in quarter four of 2020?",
+    "label": [
+        "6313"
+    ]
+}

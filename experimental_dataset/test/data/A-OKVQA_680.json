@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 680,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_680.png",
+    "question": "What is the black pole the two are trying to hit off of called?",
+    "label": "['tee', 'tee', 'tee', 'tee', 'batting tee', 'tee', 'batting tee', 'tee', 'batting tee', 'batting tee']",
+    "choices": [
+        "batting tee",
+        "pole vault",
+        "batters box",
+        "batting cage"
+    ],
+    "correct_choice": "batting tee"
+}

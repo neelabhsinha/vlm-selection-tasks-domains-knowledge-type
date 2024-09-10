@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2723,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2723.png",
+    "question": "What is the date mentioned at the footer?",
+    "label": [
+        "january, 1980",
+        "January, 1980"
+    ]
+}

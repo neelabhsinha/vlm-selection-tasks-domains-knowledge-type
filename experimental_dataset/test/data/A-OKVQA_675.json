@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 675,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_675.png",
+    "question": "What is the last word on the sign?",
+    "label": "['green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green', 'green']",
+    "choices": [
+        "police",
+        "welcome",
+        "wood",
+        "green"
+    ],
+    "correct_choice": "green"
+}

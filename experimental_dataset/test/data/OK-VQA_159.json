@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 159,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_159.png",
+    "question": "Is this animal a carnivore herbivore or omnivore?",
+    "label": [
+        "carnivore",
+        "carnivore",
+        "carnivore",
+        "carnivore",
+        "carnivore",
+        "carnivore",
+        "carnivore",
+        "carnivore",
+        "omnivore",
+        "omnivore"
+    ]
+}

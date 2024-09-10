@@ -1,0 +1,10 @@
+{
+    "dataset": "OK-VQA",
+    "key": 422,
+    "caption": "a stack of suitcases stacked on top of each other",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "sign"
+    ]
+}

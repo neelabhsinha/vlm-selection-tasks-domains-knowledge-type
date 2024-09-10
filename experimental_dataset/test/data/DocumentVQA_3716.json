@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3716,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3716.png",
+    "question": "Where is the university located?",
+    "label": [
+        "nashville",
+        "NASHVILLE",
+        "nashville, tennessee 37232",
+        "NASHVILLE, TENNESSEE"
+    ]
+}

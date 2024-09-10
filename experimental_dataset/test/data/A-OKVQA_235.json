@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 235,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_235.png",
+    "question": "What meal might be eaten at the time shown on the clock?",
+    "label": "['dinner', 'supper', 'dinner', 'dinner', 'dinner', 'supper', 'supper', 'dinner', 'dinner', 'tea']",
+    "choices": [
+        "supper",
+        "tea",
+        "breakfast",
+        "elevenses"
+    ],
+    "correct_choice": "tea"
+}

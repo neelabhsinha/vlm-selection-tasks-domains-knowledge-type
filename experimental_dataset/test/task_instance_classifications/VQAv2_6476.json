@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 6476,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "History",
+        "Reviews"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Temporal Knowledge"
+    ]
+}

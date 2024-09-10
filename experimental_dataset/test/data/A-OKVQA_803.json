@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 803,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_803.png",
+    "question": "What are the two silver objects on the left wall used for?",
+    "label": "['mirrors', 'drying hands', 'lighting', 'hand dryer', 'drying hands', 'mirror', 'hand drying', 'hand dryer', 'light', 'drying hands']",
+    "choices": [
+        "flossing",
+        "holding paper",
+        "drying hands",
+        "waxing shoes"
+    ],
+    "correct_choice": "drying hands"
+}

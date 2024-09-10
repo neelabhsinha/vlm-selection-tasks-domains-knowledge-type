@@ -1,0 +1,11 @@
+{
+    "dataset": "ChartQA",
+    "key": 1142,
+    "caption": "a blue and white photo of a blue and white clock",
+    "object_tags": [
+        "screenshot",
+        "text",
+        "diagram",
+        "circle"
+    ]
+}

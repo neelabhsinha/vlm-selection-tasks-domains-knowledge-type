@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 675,
+    "image_path": "./experimental_dataset/test/images/ChartQA_675.png",
+    "question": "By how much percentage wholesale is less than retail?",
+    "label": [
+        "64"
+    ]
+}

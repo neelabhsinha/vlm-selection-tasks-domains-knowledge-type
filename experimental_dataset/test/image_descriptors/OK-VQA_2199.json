@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2199,
+    "caption": "a train that is sitting on the tracks",
+    "object_tags": [
+        "transport",
+        "train",
+        "railway",
+        "public transport",
+        "train station",
+        "passenger car",
+        "rolling stock",
+        "track",
+        "transport hub",
+        "railroad car",
+        "metro station",
+        "vehicle",
+        "metro",
+        "platform",
+        "railroad",
+        "outdoor"
+    ]
+}

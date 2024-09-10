@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1195,
+    "caption": "a man sitting on a boat next to a woman",
+    "object_tags": [
+        "boat",
+        "ship",
+        "clothing",
+        "person",
+        "man"
+    ]
+}

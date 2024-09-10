@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 491,
+    "image_path": "./experimental_dataset/test/images/ChartQA_491.png",
+    "question": "What is the ratio between very well and fairly well in Scientists Understand the health effects of eating GM food?",
+    "label": [
+        "0.431818182"
+    ]
+}

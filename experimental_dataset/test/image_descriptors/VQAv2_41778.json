@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 41778,
+    "caption": "a man is taking a picture of himself in the mirror",
+    "object_tags": [
+        "black and white",
+        "person",
+        "eyewear",
+        "outdoor",
+        "sunglasses",
+        "glasses",
+        "mirror",
+        "street",
+        "spectacles",
+        "monochrome",
+        "reflection"
+    ]
+}

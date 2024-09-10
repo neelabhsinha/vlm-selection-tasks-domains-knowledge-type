@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2691,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Sports"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge"
+    ]
+}

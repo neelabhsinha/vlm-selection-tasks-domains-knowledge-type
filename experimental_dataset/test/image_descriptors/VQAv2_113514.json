@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 113514,
+    "caption": "a sign that is hanging from a building",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "sky",
+        "text",
+        "street",
+        "city",
+        "people",
+        "signage",
+        "person",
+        "pole",
+        "sign"
+    ]
+}

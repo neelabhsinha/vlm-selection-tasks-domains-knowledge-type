@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 134777,
+    "caption": "a glass vase filled with lots of different colored flowers",
+    "object_tags": [
+        "food",
+        "candy",
+        "indoor",
+        "confectionery",
+        "table",
+        "plant",
+        "candy cane"
+    ]
+}

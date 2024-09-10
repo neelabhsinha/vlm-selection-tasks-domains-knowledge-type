@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 95851,
+    "caption": "a man sitting on a bench using a laptop",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "building",
+        "outdoor",
+        "ground",
+        "man",
+        "sitting",
+        "fashion accessory",
+        "furniture",
+        "street",
+        "porch"
+    ]
+}

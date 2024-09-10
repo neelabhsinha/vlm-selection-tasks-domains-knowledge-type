@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4018,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4018.png",
+    "question": "What is this mirror called on a car?",
+    "label": [
+        "side mirror",
+        "side mirror",
+        "side mirror",
+        "side mirror",
+        "side mirror",
+        "side mirror",
+        "side view",
+        "side view",
+        "side",
+        "side"
+    ]
+}

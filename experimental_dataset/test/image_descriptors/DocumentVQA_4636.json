@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4636,
+    "caption": "a vintage photo of a person holding a piece of paper",
+    "object_tags": [
+        "text",
+        "line",
+        "parallel",
+        "diagram",
+        "rectangle"
+    ]
+}

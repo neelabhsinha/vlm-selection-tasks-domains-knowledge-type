@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1038,
+    "caption": "a man standing in front of a refrigerator filled with food",
+    "object_tags": [
+        "appliance",
+        "kitchen appliance",
+        "refrigerator",
+        "indoor",
+        "home appliance",
+        "major appliance",
+        "bottle",
+        "person",
+        "door"
+    ]
+}

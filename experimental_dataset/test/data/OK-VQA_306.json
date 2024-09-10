@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 306,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_306.png",
+    "question": "Is the basket on the ground open or closed?",
+    "label": [
+        "open",
+        "open",
+        "open",
+        "open",
+        "open",
+        "open",
+        "open",
+        "open",
+        "food",
+        "food"
+    ]
+}

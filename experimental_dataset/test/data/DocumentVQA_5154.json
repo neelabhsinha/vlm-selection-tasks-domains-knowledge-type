@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5154,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5154.png",
+    "question": "How much is the Serum vitamin A in 1948 ?",
+    "label": [
+        "41"
+    ]
+}

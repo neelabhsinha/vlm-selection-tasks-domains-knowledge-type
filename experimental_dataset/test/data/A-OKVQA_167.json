@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 167,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_167.png",
+    "question": "What appliance is unhooked and placed by the sink?",
+    "label": "['stove/oven', 'stove', 'washing machine', 'stove', 'stove', 'stove', 'washing machine', 'stove', 'oven', 'stove']",
+    "choices": [
+        "dishwasher",
+        "stove/oven",
+        "trash compactor",
+        "icemaker"
+    ],
+    "correct_choice": "stove/oven"
+}

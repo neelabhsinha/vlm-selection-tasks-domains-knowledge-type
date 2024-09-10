@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2620,
+    "caption": "a doll sitting next to a parking meter",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "toy",
+        "doll",
+        "text",
+        "girl",
+        "meter",
+        "parking meter"
+    ]
+}

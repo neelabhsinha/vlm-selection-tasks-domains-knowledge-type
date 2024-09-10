@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 818,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_818.png",
+    "question": "How is the young red haired girl feeling?",
+    "label": "['joy', 'happy', 'happy', 'joy', 'happy', 'happy', 'joy', 'happy', 'happy', 'happy']",
+    "choices": [
+        "happy",
+        "depressed",
+        "angry",
+        "sad"
+    ],
+    "correct_choice": "happy"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3210,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3210.png",
+    "question": "Which is the area surveyed?",
+    "label": [
+        "Northeast Brazil"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 135723,
+    "caption": "a stove top oven sitting on the side of a road",
+    "object_tags": [
+        "ground",
+        "oven",
+        "home appliance",
+        "floor",
+        "kitchen appliance",
+        "outdoor",
+        "wall",
+        "stove",
+        "appliance",
+        "metal",
+        "indoor"
+    ]
+}

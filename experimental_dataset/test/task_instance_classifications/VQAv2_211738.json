@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 211738,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Professions",
+        "Public Places",
+        "Reviews",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1873,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1873.png",
+    "question": "How much British pounds did the UK spend on culture, recreation and religion in 2019/20?",
+    "label": [
+        "12.1"
+    ]
+}

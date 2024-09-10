@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5241,
+    "caption": "a woman standing in front of a refrigerator",
+    "object_tags": [
+        "text",
+        "human face",
+        "screenshot",
+        "clothing",
+        "woman",
+        "smile",
+        "person"
+    ]
+}

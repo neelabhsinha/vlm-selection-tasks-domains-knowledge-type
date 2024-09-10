@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4508,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4508.png",
+    "question": "What type of wood was used for the siding on this house?",
+    "label": [
+        "pine",
+        "pine",
+        "pine",
+        "pine",
+        "shingle",
+        "shingle",
+        "wood",
+        "wood",
+        "cedar",
+        "cedar"
+    ]
+}

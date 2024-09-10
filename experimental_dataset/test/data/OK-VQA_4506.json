@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4506,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4506.png",
+    "question": "What is the function of the man in the back center of the picture?",
+    "label": [
+        "first base umpire",
+        "first base umpire",
+        "officiating",
+        "officiating",
+        "referee",
+        "referee",
+        "base umpire",
+        "base umpire",
+        "officiate",
+        "officiate"
+    ]
+}

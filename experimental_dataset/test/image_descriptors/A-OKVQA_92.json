@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 92,
+    "caption": "a herd of cattle standing next to each other in a barn",
+    "object_tags": [
+        "barn",
+        "farm",
+        "animal",
+        "livestock",
+        "cattle",
+        "ground",
+        "cow",
+        "tractor",
+        "building",
+        "mammal",
+        "dairy cow",
+        "tire",
+        "dairy",
+        "hay",
+        "outdoor",
+        "indoor"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 445,
+    "caption": "a row of umbrellas on a rainy day",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "building",
+        "water",
+        "reflection",
+        "black and white",
+        "umbrella",
+        "rain",
+        "rainy",
+        "street",
+        "city",
+        "canal"
+    ]
+}

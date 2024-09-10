@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 88719,
+    "image_path": "./experimental_dataset/test/images/VQAv2_88719.png",
+    "question": "Does the woman have earrings on?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "yes",
+        "yes"
+    ]
+}

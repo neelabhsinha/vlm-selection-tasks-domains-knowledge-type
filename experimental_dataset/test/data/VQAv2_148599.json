@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 148599,
+    "image_path": "./experimental_dataset/test/images/VQAv2_148599.png",
+    "question": "What type of tree is in the background?",
+    "label": [
+        "oak",
+        "oak",
+        "fir",
+        "fir",
+        "dead tree",
+        "oak",
+        "oak",
+        "deciduous",
+        "oaj",
+        "pine"
+    ]
+}

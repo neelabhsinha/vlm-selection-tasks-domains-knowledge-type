@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4288,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4288.png",
+    "question": "Which Amino Acid shows increase in T. A.?",
+    "label": [
+        "Arginine-HCl",
+        "Arginine-Hcl"
+    ]
+}

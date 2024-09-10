@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 336,
+    "caption": "two people walking on a beach with umbrellas",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "sky",
+        "ground",
+        "footwear",
+        "man",
+        "water",
+        "accessory",
+        "beach",
+        "umbrella",
+        "people",
+        "standing",
+        "holding",
+        "rain"
+    ]
+}

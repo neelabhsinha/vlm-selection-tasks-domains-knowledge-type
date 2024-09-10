@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1393,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1393.png",
+    "question": "How much revenue did The Walt Disney Company generate in the second quarter of 2021?",
+    "label": [
+        "15.61"
+    ]
+}

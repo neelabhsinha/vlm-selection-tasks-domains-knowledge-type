@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 657,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_657.png",
+    "question": "What activity occurs in this room as result of the objects on the furniture to the left of the partition?",
+    "label": "['study', 'reading', 'listen music', 'reading', 'reading', 'living room', 'reading', 'changing', 'fully furniture', 'reading']",
+    "choices": [
+        "sleeping",
+        "cooking",
+        "reading",
+        "self-care"
+    ],
+    "correct_choice": "reading"
+}

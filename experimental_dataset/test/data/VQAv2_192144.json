@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 192144,
+    "image_path": "./experimental_dataset/test/images/VQAv2_192144.png",
+    "question": "Are the people sad?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "VQAv2",
+    "key": 142365,
+    "caption": "a man laying on a surfboard in the ocean",
+    "object_tags": [
+        "water",
+        "outdoor",
+        "lake",
+        "wave",
+        "swimming",
+        "animal"
+    ]
+}

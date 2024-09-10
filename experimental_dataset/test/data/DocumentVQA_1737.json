@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1737,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1737.png",
+    "question": "What is  the Club Status ?",
+    "label": [
+        "NA"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 205465,
+    "image_path": "./experimental_dataset/test/images/VQAv2_205465.png",
+    "question": "What game is the man playing?",
+    "label": [
+        "solitaire",
+        "no game",
+        "none",
+        "none",
+        "make me laugh",
+        "video games",
+        "nothing",
+        "none",
+        "none",
+        "nothing"
+    ]
+}

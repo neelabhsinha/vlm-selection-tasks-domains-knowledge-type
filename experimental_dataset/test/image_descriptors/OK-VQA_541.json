@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 541,
+    "caption": "a kitchen with a stove top oven and a sink",
+    "object_tags": [
+        "appliance",
+        "cabinet",
+        "kitchen appliance",
+        "indoor",
+        "cabinetry",
+        "home appliance",
+        "countertop",
+        "wall",
+        "kitchen",
+        "major appliance",
+        "cupboard",
+        "kitchen stove",
+        "gas stove",
+        "cooktop",
+        "sink",
+        "drawer",
+        "microwave oven",
+        "kitchen sink",
+        "exhaust hood",
+        "small appliance",
+        "stove",
+        "oven",
+        "range hood"
+    ]
+}

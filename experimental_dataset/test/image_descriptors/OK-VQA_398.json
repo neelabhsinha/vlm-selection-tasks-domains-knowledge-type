@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 398,
+    "caption": "a herd of giraffe standing on top of a lush green field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "grass",
+        "terrestrial animal",
+        "wildlife",
+        "giraffe",
+        "giraffidae",
+        "zoo",
+        "standing",
+        "ground",
+        "safari",
+        "herd",
+        "field",
+        "group"
+    ]
+}

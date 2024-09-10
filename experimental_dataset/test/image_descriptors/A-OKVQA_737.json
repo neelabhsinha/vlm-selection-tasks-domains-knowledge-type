@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 737,
+    "caption": "a man that is standing next to a cat",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "dog",
+        "grass",
+        "sitting",
+        "ground",
+        "hat"
+    ]
+}

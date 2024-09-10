@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3526,
+    "caption": "a herd of cattle standing next to each other",
+    "object_tags": [
+        "bovine",
+        "cow",
+        "cattle",
+        "horn",
+        "ox",
+        "livestock",
+        "animal",
+        "bull",
+        "mammal",
+        "herd",
+        "dairy cow",
+        "outdoor"
+    ]
+}

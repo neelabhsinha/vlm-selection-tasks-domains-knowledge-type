@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4771,
+    "caption": "a banana split in a glass bowl on a table",
+    "object_tags": [
+        "dessert",
+        "food",
+        "sweetness",
+        "dairy",
+        "indoor",
+        "cake",
+        "birthday cake",
+        "frozen dessert",
+        "icing",
+        "cake decorating",
+        "marshmallow creme",
+        "bavarian cream",
+        "baked goods",
+        "buttercream",
+        "torte",
+        "sugar cake",
+        "chiboust cream",
+        "ice cream",
+        "fruit",
+        "white",
+        "wall",
+        "cream"
+    ]
+}

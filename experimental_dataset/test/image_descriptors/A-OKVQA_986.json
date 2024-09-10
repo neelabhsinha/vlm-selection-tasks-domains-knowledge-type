@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 986,
+    "caption": "a man in a suit and tie on a city street",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "fashion accessory",
+        "land vehicle",
+        "human face",
+        "vehicle",
+        "man",
+        "sun hat",
+        "fedora",
+        "hat",
+        "suit",
+        "building",
+        "street fashion",
+        "coat",
+        "headgear",
+        "car",
+        "gentleman",
+        "wearing",
+        "street"
+    ]
+}

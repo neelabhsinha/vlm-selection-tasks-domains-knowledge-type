@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4428,
+    "caption": "a large ship is docked in a harbor",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "watercraft",
+        "water",
+        "sky",
+        "ship",
+        "naval architecture",
+        "boat",
+        "vehicle",
+        "port",
+        "large"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1413,
+    "caption": "baseball players are playing baseball on a field",
+    "object_tags": [
+        "grass",
+        "athletic game",
+        "sport",
+        "player",
+        "sport venue",
+        "baseball",
+        "outdoor",
+        "stadium",
+        "baseball park",
+        "baseball field",
+        "bat-and-ball games",
+        "baseball player",
+        "person",
+        "artificial turf",
+        "baseball positions",
+        "college baseball",
+        "team sport",
+        "man",
+        "game",
+        "baseball uniform",
+        "sports uniform",
+        "ball game",
+        "field",
+        "batter"
+    ]
+}

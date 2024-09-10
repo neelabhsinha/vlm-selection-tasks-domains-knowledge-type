@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3862,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3862.png",
+    "question": "How much is the \u2018Amount requested during 4th year\u2019?",
+    "label": [
+        "102,168"
+    ]
+}

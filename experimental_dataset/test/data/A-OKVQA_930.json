@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 930,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_930.png",
+    "question": "What is in the pink packet near the fork that someone may add to a coffee?",
+    "label": "['fake sugar', 'artificial sweetener', 'artificial sugar', 'sugar', 'sweet low', 'sugar', 'artifcial sweetener', 'sugar substitute', 'sugar', 'sugar']",
+    "choices": [
+        "cinnamon",
+        "sugar",
+        "creamer",
+        "salt"
+    ],
+    "correct_choice": "sugar"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1266,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1266.png",
+    "question": "How many women in Russia were married in 2010?",
+    "label": [
+        "524"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3966,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3966.png",
+    "question": "What is the \u2018contribution to provident and other funds\u2019 expenses for the year ended 31.3.2010?",
+    "label": [
+        "615.00",
+        "Rupees in lacs"
+    ]
+}

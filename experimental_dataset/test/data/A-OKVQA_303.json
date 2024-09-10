@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 303,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_303.png",
+    "question": "What does the man have on his head?",
+    "label": "['headphones', 'headphones', 'headphones', 'headphones', 'head phones', 'headphones', 'headphone', 'headphones', 'headphones', 'headphones']",
+    "choices": [
+        "earmuffs",
+        "hat",
+        "shower cap",
+        "headphones"
+    ],
+    "correct_choice": "headphones"
+}

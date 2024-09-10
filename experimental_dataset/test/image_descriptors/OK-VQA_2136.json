@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2136,
+    "caption": "a large jetliner sitting on top of a snowy mountain",
+    "object_tags": [
+        "plane",
+        "airplane",
+        "mountain",
+        "air travel",
+        "aircraft",
+        "aviation",
+        "aerospace engineering",
+        "airliner",
+        "sky",
+        "airline",
+        "wing",
+        "aerospace manufacturer",
+        "outdoor",
+        "flight",
+        "snow"
+    ]
+}

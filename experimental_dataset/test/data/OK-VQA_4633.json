@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4633,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4633.png",
+    "question": "What social media app is famous for using facial filters?",
+    "label": [
+        "instagram",
+        "instagram",
+        "instagram",
+        "instagram",
+        "instagram",
+        "instagram",
+        "snapchat",
+        "snapchat",
+        "snapchat",
+        "snapchat"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1275,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1275.png",
+    "question": "Which company accounted for 15.4 percent of the global WFE market in 2020?",
+    "label": [
+        "ASML"
+    ]
+}

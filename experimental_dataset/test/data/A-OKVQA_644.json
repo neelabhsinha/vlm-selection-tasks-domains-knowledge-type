@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 644,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_644.png",
+    "question": "How many green plants are on the right side of the room?",
+    "label": "['two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'three', 'two']",
+    "choices": [
+        "three",
+        "five",
+        "ten",
+        "two"
+    ],
+    "correct_choice": "two"
+}

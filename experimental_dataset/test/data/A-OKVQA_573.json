@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 573,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_573.png",
+    "question": "The man has a glove where?",
+    "label": "['hand', 'left hand', 'hand', 'left hand', 'left hand', 'baseball', 'left hand', 'left hand', 'left hand', 'hand']",
+    "choices": [
+        "right hand",
+        "left hand",
+        "head",
+        "behind back"
+    ],
+    "correct_choice": "left hand"
+}

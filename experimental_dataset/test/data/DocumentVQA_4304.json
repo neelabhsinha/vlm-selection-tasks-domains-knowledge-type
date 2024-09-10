@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4304,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4304.png",
+    "question": "Who is the first animal caretaker mentioned?",
+    "label": [
+        "James W Carter"
+    ]
+}

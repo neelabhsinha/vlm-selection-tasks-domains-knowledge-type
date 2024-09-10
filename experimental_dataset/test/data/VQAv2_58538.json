@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 58538,
+    "image_path": "./experimental_dataset/test/images/VQAv2_58538.png",
+    "question": "Does the boat resemble a car?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

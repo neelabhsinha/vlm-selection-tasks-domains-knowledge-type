@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 512,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_512.png",
+    "question": "What is the most popular candy shown here?",
+    "label": [
+        "snicker",
+        "snicker",
+        "snicker",
+        "snicker",
+        "sucker",
+        "sucker",
+        "jelly bean",
+        "jelly bean",
+        "halloween",
+        "halloween"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 7,
+    "caption": "a black cat sitting on top of a computer keyboard",
+    "object_tags": [
+        "indoor",
+        "text",
+        "cat",
+        "animal",
+        "office equipment",
+        "computer",
+        "electronic device",
+        "personal computer",
+        "desk",
+        "keyboard"
+    ]
+}

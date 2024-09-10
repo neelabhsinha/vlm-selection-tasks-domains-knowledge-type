@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 97212,
+    "image_path": "./experimental_dataset/test/images/VQAv2_97212.png",
+    "question": "Is the beacon light on in the lighthouse?",
+    "label": [
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no"
+    ]
+}

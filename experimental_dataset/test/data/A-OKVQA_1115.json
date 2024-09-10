@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1115,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1115.png",
+    "question": "What is the term for the brown marks on the bottom portion of the fire hydrant?",
+    "label": "['damaged iron', 'rust', 'rust', 'firehurant', 'fire hurget', 'car parking', 'dirt', 'rust', 'bolts', 'fire']",
+    "choices": [
+        "rust",
+        "sunder",
+        "demarcations",
+        "paint"
+    ],
+    "correct_choice": "rust"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1138,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1138.png",
+    "question": "Which option has 16%?",
+    "label": [
+        "Yes"
+    ]
+}

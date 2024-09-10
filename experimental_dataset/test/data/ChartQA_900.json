@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 900,
+    "image_path": "./experimental_dataset/test/images/ChartQA_900.png",
+    "question": "In which year the sales of causal bag was maximum?",
+    "label": [
+        "2015"
+    ]
+}

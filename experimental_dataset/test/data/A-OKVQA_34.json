@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 34,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_34.png",
+    "question": "The visible bottles most likely contain what kind of items?",
+    "label": "['shampoo', 'soap', 'shampoo', 'shampoo conditioner', 'shampoo', 'shampoo conditioner', 'shampoo', 'shampoo conditioner', 'shampoo', 'shampoo conditioner']",
+    "choices": [
+        "body wash",
+        "shampoo conditioner",
+        "lotions",
+        "mouthwash"
+    ],
+    "correct_choice": "shampoo conditioner"
+}

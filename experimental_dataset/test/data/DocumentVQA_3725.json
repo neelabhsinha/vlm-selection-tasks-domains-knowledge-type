@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3725,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3725.png",
+    "question": "What kind of document is this?",
+    "label": [
+        "Grower's Questionnaire",
+        "Growers questionnaire"
+    ]
+}

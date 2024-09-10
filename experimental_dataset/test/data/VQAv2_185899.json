@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 185899,
+    "image_path": "./experimental_dataset/test/images/VQAv2_185899.png",
+    "question": "Is the cat trying to escape?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

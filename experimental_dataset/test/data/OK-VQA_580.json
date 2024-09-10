@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 580,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_580.png",
+    "question": "What team does this man play for?",
+    "label": [
+        "cub",
+        "cub",
+        "cub",
+        "cub",
+        "red sox",
+        "red sox",
+        "away team",
+        "away team",
+        "angel",
+        "angel"
+    ]
+}

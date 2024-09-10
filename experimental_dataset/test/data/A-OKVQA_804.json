@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 804,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_804.png",
+    "question": "Which of these animals is using the computer directly?",
+    "label": "['person', 'dog', 'dog', 'human', 'human', 'human', 'human', 'human', 'man', 'dog']",
+    "choices": [
+        "cat",
+        "human",
+        "dog",
+        "rooster"
+    ],
+    "correct_choice": "human"
+}

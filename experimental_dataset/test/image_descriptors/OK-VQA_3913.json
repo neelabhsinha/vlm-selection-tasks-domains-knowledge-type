@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3913,
+    "caption": "two men standing next to each other holding tennis rackets",
+    "object_tags": [
+        "person",
+        "athletic game",
+        "clothing",
+        "sports equipment",
+        "sport",
+        "golf",
+        "footwear",
+        "tennis",
+        "wall",
+        "player",
+        "indoor"
+    ]
+}

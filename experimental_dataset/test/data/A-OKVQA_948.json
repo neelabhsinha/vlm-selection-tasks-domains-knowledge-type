@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 948,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_948.png",
+    "question": "What was used to cover the salad on the left?",
+    "label": "['foil', 'tin foil', 'foil', 'tin foil', 'tin foil', 'foil', 'aluminum foil', 'tin foil', 'tin foil', 'tin foil']",
+    "choices": [
+        "plastic plate",
+        "glass lid",
+        "tin foil",
+        "saran wrap"
+    ],
+    "correct_choice": "tin foil"
+}

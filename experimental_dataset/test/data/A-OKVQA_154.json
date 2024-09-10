@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 154,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_154.png",
+    "question": "How many people have their arms around the woman?",
+    "label": "['one', 'one', 'one', 'one', 'one', 'one', 'one', 'one', 'one', 'one']",
+    "choices": [
+        "four",
+        "one",
+        "five",
+        "three"
+    ],
+    "correct_choice": "one"
+}

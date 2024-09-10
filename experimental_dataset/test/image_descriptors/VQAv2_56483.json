@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 56483,
+    "caption": "a man sitting at a table with a plate of food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "soft drink",
+        "human face",
+        "fast food",
+        "man",
+        "drink",
+        "food",
+        "meal",
+        "table",
+        "outdoor",
+        "bottle",
+        "eating",
+        "people"
+    ]
+}

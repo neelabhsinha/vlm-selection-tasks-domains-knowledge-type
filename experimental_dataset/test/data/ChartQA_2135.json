@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2135,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2135.png",
+    "question": "How many enterprises were involved in the manufacture of pharmaceutical products and preparations in the UK in 2018?",
+    "label": [
+        "645"
+    ]
+}

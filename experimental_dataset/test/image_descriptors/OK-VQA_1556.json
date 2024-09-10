@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1556,
+    "caption": "a cow that is laying down in the hay",
+    "object_tags": [
+        "cattle",
+        "livestock",
+        "cow",
+        "dairy cow",
+        "dairy",
+        "hay",
+        "bovine",
+        "barn",
+        "grass",
+        "calf",
+        "outdoor",
+        "mammal",
+        "ground",
+        "farm",
+        "standing",
+        "animal"
+    ]
+}

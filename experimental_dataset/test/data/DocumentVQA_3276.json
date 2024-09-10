@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3276,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3276.png",
+    "question": "What was the amount spent on one carton of Salem Slim Light 100s?",
+    "label": [
+        "$22.20",
+        "$ 22.20"
+    ]
+}

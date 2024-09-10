@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4254,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4254.png",
+    "question": "What type of communication is it?",
+    "label": [
+        "director's report",
+        "Directors' report",
+        "directors report",
+        "Report"
+    ]
+}

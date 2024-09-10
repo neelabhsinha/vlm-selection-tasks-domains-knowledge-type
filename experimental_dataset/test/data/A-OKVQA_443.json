@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 443,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_443.png",
+    "question": "What is the gray colored residue seen on the outer part of the middle of the board?",
+    "label": "['mildew', 'sand', 'dirt', 'sand', 'sand', 'sand', 'mud', 'dirt', 'wax', 'wax']",
+    "choices": [
+        "wax",
+        "dust",
+        "paint",
+        "mud"
+    ],
+    "correct_choice": "wax"
+}

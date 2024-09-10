@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1902,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1902.png",
+    "question": "what is the definition of grant ?",
+    "label": [
+        "A grant from an entity, generally [but not laways] paid to your organization"
+    ]
+}

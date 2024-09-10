@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 692,
+    "caption": "a woman sitting at a table with a plate of food",
+    "object_tags": [
+        "person",
+        "food",
+        "drink",
+        "bottle",
+        "meal",
+        "tableware",
+        "table",
+        "indoor",
+        "lemon",
+        "supper",
+        "dinner",
+        "brunch",
+        "soft drink",
+        "lunch",
+        "plate",
+        "platter",
+        "dish",
+        "wine",
+        "culinary art",
+        "clothing",
+        "cuisine",
+        "schnitzel",
+        "woman"
+    ]
+}

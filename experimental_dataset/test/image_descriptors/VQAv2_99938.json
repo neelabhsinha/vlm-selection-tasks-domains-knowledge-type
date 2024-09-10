@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 99938,
+    "caption": "a sandwich cut in half on a counter top",
+    "object_tags": [
+        "food",
+        "sandwich",
+        "fast food",
+        "bread",
+        "american food",
+        "snack food",
+        "bun",
+        "indoor",
+        "breakfast sandwich",
+        "banh ma",
+        "submarine sandwich",
+        "baked goods",
+        "hamburger",
+        "runza food",
+        "burger"
+    ]
+}

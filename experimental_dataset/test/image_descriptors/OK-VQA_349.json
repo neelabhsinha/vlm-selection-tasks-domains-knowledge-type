@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 349,
+    "caption": "a man in a white shirt and black shorts playing a game of tennis",
+    "object_tags": [
+        "sport",
+        "athletic game",
+        "tennis",
+        "person",
+        "outdoor",
+        "sports equipment",
+        "player",
+        "fence",
+        "racquet sport",
+        "tennis racket",
+        "tennis equipment",
+        "soft tennis",
+        "tennis player",
+        "tennis court",
+        "ball game",
+        "racketlon",
+        "racket",
+        "court",
+        "sports",
+        "sport venue",
+        "strings",
+        "rackets",
+        "tennis ball",
+        "clothing"
+    ]
+}

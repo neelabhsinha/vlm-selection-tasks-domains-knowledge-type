@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1079,
+    "caption": "a person is typing on a computer keyboard",
+    "object_tags": [
+        "person",
+        "indoor",
+        "office equipment",
+        "nail",
+        "computer keyboard",
+        "input device",
+        "electronic device",
+        "finger",
+        "computer",
+        "office supplies",
+        "computer hardware",
+        "keyboard",
+        "hand",
+        "using",
+        "remote"
+    ]
+}

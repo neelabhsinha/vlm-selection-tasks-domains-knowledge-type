@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5225,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5225.png",
+    "question": "How much is VAP Payment per 6M Case?",
+    "label": [
+        "$14.00/6M case*",
+        "$14.00/6M Case"
+    ]
+}

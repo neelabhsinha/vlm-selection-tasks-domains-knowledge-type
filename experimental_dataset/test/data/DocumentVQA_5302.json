@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5302,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5302.png",
+    "question": "What is the heading at the top of the page?",
+    "label": [
+        "names in the news, continued",
+        "Names in the news, continued"
+    ]
+}

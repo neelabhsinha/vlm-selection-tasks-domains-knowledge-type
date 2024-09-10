@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 414,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_414.png",
+    "question": "What is the name of the Board stamped on the notice ?",
+    "label": [
+        "Science Advisory Board",
+        "Science Advisory Board, EPA"
+    ]
+}

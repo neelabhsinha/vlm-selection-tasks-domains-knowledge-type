@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2252,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2252.png",
+    "question": "What time does high tide start?",
+    "label": [
+        "7pm",
+        "7pm",
+        "7pm",
+        "7pm",
+        "noon",
+        "noon",
+        "in morn",
+        "in morn",
+        "4pm",
+        "4pm"
+    ]
+}

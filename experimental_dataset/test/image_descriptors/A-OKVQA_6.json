@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 6,
+    "caption": "a person brushing their teeth in a bathroom",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "plumbing fixture",
+        "sink",
+        "person",
+        "tap",
+        "bathroom accessory",
+        "bathroom"
+    ]
+}

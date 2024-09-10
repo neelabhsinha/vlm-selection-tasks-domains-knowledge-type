@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 665,
+    "image_path": "./experimental_dataset/test/images/ChartQA_665.png",
+    "question": "How many years have value less than 10%?",
+    "label": [
+        "5"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 2807,
+    "image_path": "./experimental_dataset/test/images/VQAv2_2807.png",
+    "question": "Is this a birthday cake?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

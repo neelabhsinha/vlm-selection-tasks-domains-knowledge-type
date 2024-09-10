@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 685,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_685.png",
+    "question": "What season is it?",
+    "label": "['summer', 'autumn', 'spring', 'summer', 'summer', 'fall', 'fall', 'fall', 'fall', 'spring']",
+    "choices": [
+        "summer",
+        "fall",
+        "winter",
+        "spring"
+    ],
+    "correct_choice": "fall"
+}

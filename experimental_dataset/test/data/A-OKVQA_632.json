@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 632,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_632.png",
+    "question": "What relation is the woman to the child?",
+    "label": "['mother', 'mother', 'mother', 'parent', 'mother', 'mother', 'parent', 'mother', 'mother', 'mother']",
+    "choices": [
+        "mother",
+        "sister",
+        "grandmother",
+        "teacher"
+    ],
+    "correct_choice": "mother"
+}

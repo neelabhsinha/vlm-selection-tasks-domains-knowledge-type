@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5222,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5222.png",
+    "question": "What is the promotional packaging UPC?",
+    "label": [
+        "12300-23860"
+    ]
+}

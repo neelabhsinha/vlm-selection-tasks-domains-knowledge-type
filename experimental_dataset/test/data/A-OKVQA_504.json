@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 504,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_504.png",
+    "question": "What does this train transport?",
+    "label": "['passengers', 'cargo', 'passengers', 'passengers etc', 'passengers', 'people', 'mail', 'cargo', 'coal', 'people']",
+    "choices": [
+        "animals",
+        "people",
+        "mail",
+        "cargo"
+    ],
+    "correct_choice": "mail"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 141370,
+    "image_path": "./experimental_dataset/test/images/VQAv2_141370.png",
+    "question": "What hairstyle is the person wearing?",
+    "label": [
+        "bob",
+        "short",
+        "bob",
+        "bob",
+        "short",
+        "straight",
+        "bob",
+        "side",
+        "short bob",
+        "shortcut"
+    ]
+}

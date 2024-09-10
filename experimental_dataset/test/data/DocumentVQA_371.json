@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 371,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_371.png",
+    "question": "To what category can Paper WMC(1) be classified?",
+    "label": [
+        "preclinical",
+        "Preclinical"
+    ]
+}

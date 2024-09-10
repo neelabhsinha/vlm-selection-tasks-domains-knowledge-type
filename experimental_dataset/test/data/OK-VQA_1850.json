@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1850,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1850.png",
+    "question": "Where could this picture be taken?",
+    "label": [
+        "thailand",
+        "thailand",
+        "thailand",
+        "thailand",
+        "africa",
+        "africa",
+        "india",
+        "india",
+        "india or sri lanka thailand",
+        "india or sri lanka thailand"
+    ]
+}

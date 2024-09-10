@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 82811,
+    "caption": "a herd of sheep standing on top of a lush green hillside",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "grass",
+        "terrestrial animal",
+        "sheep",
+        "livestock",
+        "herd",
+        "field",
+        "white",
+        "standing",
+        "ground",
+        "hillside"
+    ]
+}

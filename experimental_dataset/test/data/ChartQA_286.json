@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 286,
+    "image_path": "./experimental_dataset/test/images/ChartQA_286.png",
+    "question": "Find the protein efficiency of Whole Milk?",
+    "label": [
+        "24"
+    ]
+}

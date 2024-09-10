@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3327,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3327.png",
+    "question": "Who is the investigator/author for the publication ' circulation' ?",
+    "label": [
+        "ROSANO",
+        "Rosano"
+    ]
+}

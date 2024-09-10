@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2990,
+    "caption": "a young man is cutting his hair with scissors",
+    "object_tags": [
+        "person",
+        "indoor",
+        "wall",
+        "human face",
+        "clothing",
+        "office supplies",
+        "appliance",
+        "using",
+        "shirt"
+    ]
+}

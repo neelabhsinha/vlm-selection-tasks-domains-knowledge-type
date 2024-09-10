@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3049,
+    "caption": "a large clock tower towering over a city",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "land vehicle",
+        "bicycle",
+        "clock",
+        "vehicle",
+        "building",
+        "road",
+        "bicycle wheel",
+        "wheel",
+        "clock tower",
+        "tower",
+        "people",
+        "street",
+        "city",
+        "large"
+    ]
+}

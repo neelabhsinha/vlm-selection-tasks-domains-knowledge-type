@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 296,
+    "image_path": "./experimental_dataset/test/images/ChartQA_296.png",
+    "question": "What is the name of country with longest bar?",
+    "label": [
+        "United States"
+    ]
+}

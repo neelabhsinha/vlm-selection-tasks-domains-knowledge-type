@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2084,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2084.png",
+    "question": "Is this a scientist or drug addict?",
+    "label": [
+        "scientist",
+        "scientist",
+        "scientist",
+        "scientist",
+        "scientist",
+        "scientist",
+        "scientist",
+        "scientist",
+        "scientist",
+        "scientist"
+    ]
+}

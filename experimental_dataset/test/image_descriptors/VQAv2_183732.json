@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 183732,
+    "caption": "a motorcycle parked in a grassy field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "cloud",
+        "vehicle",
+        "wheel",
+        "tire",
+        "land vehicle",
+        "plant",
+        "steppe",
+        "auto part",
+        "motorbike",
+        "field",
+        "mountain",
+        "shrubland",
+        "motorcycle",
+        "parked"
+    ]
+}

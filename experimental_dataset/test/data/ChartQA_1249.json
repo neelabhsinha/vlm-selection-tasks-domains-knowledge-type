@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1249,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1249.png",
+    "question": "What is the average  Share of individuals who downloaded purchased media online in Great Britain in 2013  by type of media?",
+    "label": [
+        "56"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4755,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4755.png",
+    "question": "When was this object first created?",
+    "label": [
+        "1936",
+        "1936",
+        "1936",
+        "1936",
+        "1975",
+        "1975",
+        "1980s",
+        "1980s",
+        "1971",
+        "1971"
+    ]
+}

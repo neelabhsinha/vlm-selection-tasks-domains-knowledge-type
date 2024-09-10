@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1789,
+    "caption": "a yellow truck parked on the side of a street",
+    "object_tags": [
+        "vehicle",
+        "transport",
+        "outdoor",
+        "land vehicle",
+        "sky",
+        "wheel",
+        "text",
+        "van",
+        "mode of transport",
+        "commercial vehicle",
+        "light commercial vehicle",
+        "motor vehicle",
+        "truck",
+        "road",
+        "parked",
+        "street"
+    ]
+}

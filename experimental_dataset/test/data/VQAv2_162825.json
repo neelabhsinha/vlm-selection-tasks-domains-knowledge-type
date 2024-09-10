@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 162825,
+    "image_path": "./experimental_dataset/test/images/VQAv2_162825.png",
+    "question": "What do the sticks represent?",
+    "label": [
+        "life",
+        "incense",
+        "fire",
+        "can't tell",
+        "ancestors",
+        "nothing",
+        "peace",
+        "holiness",
+        "wood",
+        "prayer"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4667,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4667.png",
+    "question": "Where is this beverage created?",
+    "label": [
+        "australia",
+        "australia",
+        "australia",
+        "australia",
+        "france",
+        "france",
+        "winery",
+        "winery",
+        "california",
+        "california"
+    ]
+}

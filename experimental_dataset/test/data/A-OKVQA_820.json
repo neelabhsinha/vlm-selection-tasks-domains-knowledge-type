@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 820,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_820.png",
+    "question": "From all food items present what is the color of food that presents the most moisture?",
+    "label": "['green', 'green', 'tomato', 'green', 'green', 'orange', 'green', 'green', 'tomato', 'green']",
+    "choices": [
+        "orange",
+        "silver",
+        "white",
+        "green"
+    ],
+    "correct_choice": "orange"
+}

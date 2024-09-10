@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 483,
+    "caption": "a little girl sitting at a table with a pizza",
+    "object_tags": [
+        "person",
+        "human face",
+        "fast food",
+        "clothing",
+        "food",
+        "table",
+        "smile",
+        "indoor",
+        "tableware",
+        "sitting",
+        "eating",
+        "young",
+        "cup",
+        "pizza",
+        "girl"
+    ]
+}

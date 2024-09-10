@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2069,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2069.png",
+    "question": "How long does it take to grow this vegetable?",
+    "label": [
+        "3 months",
+        "3 months",
+        "3 months",
+        "3 months",
+        "6 months",
+        "6 months",
+        "80 days",
+        "80 days",
+        "6 weeks",
+        "6 weeks"
+    ]
+}

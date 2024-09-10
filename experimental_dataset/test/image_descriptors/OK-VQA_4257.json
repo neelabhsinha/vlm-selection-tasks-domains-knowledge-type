@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4257,
+    "caption": "a woman holding a horse next to a man",
+    "object_tags": [
+        "clothing",
+        "person",
+        "mare",
+        "human face",
+        "stallion",
+        "outdoor",
+        "woman",
+        "horse",
+        "standing",
+        "hat"
+    ]
+}

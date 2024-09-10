@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1974,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1974.png",
+    "question": "How high is the tide?",
+    "label": [
+        "low",
+        "low",
+        "low",
+        "low",
+        "10",
+        "10",
+        "hihg tide",
+        "hihg tide",
+        "1 2 feet",
+        "1 2 feet"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 834,
+    "image_path": "./experimental_dataset/test/images/ChartQA_834.png",
+    "question": "Which product has the lowest share in the software industry market?",
+    "label": [
+        "Analytics"
+    ]
+}

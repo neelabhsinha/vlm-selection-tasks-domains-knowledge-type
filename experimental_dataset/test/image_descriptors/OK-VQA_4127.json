@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4127,
+    "caption": "a woman standing in a kitchen next to a stove",
+    "object_tags": [
+        "indoor",
+        "person",
+        "wall",
+        "clothing",
+        "floor",
+        "cabinetry",
+        "home appliance",
+        "furniture",
+        "drawer",
+        "kitchen",
+        "laminate flooring",
+        "appliance",
+        "woman",
+        "dog"
+    ]
+}

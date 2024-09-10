@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 863,
+    "caption": "a white couch sitting on top of a white couch",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "couch",
+        "furniture",
+        "pillow",
+        "studio couch",
+        "interior design",
+        "sofa bed",
+        "cushion",
+        "loveseat",
+        "throw pillow",
+        "living room",
+        "picture frame",
+        "sofa",
+        "room",
+        "floor"
+    ]
+}

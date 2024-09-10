@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4054,
+    "caption": "an elephant standing in the middle of a field",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "mammal",
+        "grass",
+        "animal",
+        "cloud",
+        "savanna",
+        "plant",
+        "tree",
+        "safari",
+        "field",
+        "grazing",
+        "terrestrial animal",
+        "wildlife",
+        "pasture",
+        "grassland",
+        "shrubland",
+        "ranch",
+        "elephant",
+        "standing",
+        "mountain",
+        "grassy",
+        "landscape"
+    ]
+}

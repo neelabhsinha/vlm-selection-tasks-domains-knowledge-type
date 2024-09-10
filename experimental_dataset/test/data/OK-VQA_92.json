@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 92,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_92.png",
+    "question": "What is the purpose of these objects?",
+    "label": [
+        "art",
+        "art",
+        "art",
+        "art",
+        "memorial",
+        "memorial",
+        "decoration",
+        "decoration",
+        "grave",
+        "grave"
+    ]
+}

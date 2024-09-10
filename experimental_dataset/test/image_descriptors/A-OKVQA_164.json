@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 164,
+    "caption": "a train on a train track with smoke coming out of it",
+    "object_tags": [
+        "railroad",
+        "sky",
+        "outdoor",
+        "railway",
+        "track",
+        "vehicle",
+        "rolling stock",
+        "locomotive",
+        "train",
+        "transport"
+    ]
+}

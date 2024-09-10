@@ -1,0 +1,18 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2335,
+    "caption": "a sign with a picture of a man on it",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "sketch",
+        "paper product",
+        "drawing",
+        "paper",
+        "rectangle",
+        "ink",
+        "letter",
+        "envelope",
+        "stationary"
+    ]
+}

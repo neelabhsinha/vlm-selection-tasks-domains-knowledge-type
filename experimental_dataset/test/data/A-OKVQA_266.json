@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 266,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_266.png",
+    "question": "Which height he jumps?",
+    "label": "['six feet', 'high', '4 feet', 'not question', 'above fence', 'ramp', 'high', '16 inch', 'five feet', 'high']",
+    "choices": [
+        "11 inch",
+        "16 inch",
+        "17inch",
+        "10 inch"
+    ],
+    "correct_choice": "16 inch"
+}

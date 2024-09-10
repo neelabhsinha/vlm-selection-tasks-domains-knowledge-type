@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 524,
+    "image_path": "./experimental_dataset/test/images/ChartQA_524.png",
+    "question": "How many bar has a same value?",
+    "label": [
+        "2"
+    ]
+}

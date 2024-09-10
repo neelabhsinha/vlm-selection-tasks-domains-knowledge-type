@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 234,
+    "image_path": "./experimental_dataset/test/images/ChartQA_234.png",
+    "question": "What is the value for Major depression?",
+    "label": [
+        "1.6"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2575,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2575.png",
+    "question": "Who gives dance pageant entertainment?",
+    "label": [
+        "Kauai's paradise pacifica",
+        "Kauai's Paradise Pacifica"
+    ]
+}

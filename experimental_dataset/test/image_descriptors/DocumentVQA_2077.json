@@ -1,0 +1,16 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2077,
+    "caption": "a collage of photographs of a building",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "black and white",
+        "font",
+        "parallel",
+        "number",
+        "document",
+        "diagram",
+        "receipt"
+    ]
+}

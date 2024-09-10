@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 776,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_776.png",
+    "question": "What type of game were they probably playing in the park?",
+    "label": "['ring toss', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee', 'frisbee']",
+    "choices": [
+        "hula hoops",
+        "catch",
+        "frisbee",
+        "ring toss"
+    ],
+    "correct_choice": "ring toss"
+}

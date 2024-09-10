@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 741,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_741.png",
+    "question": "What is the man with no shirt doing?",
+    "label": "['teeth cleaning', 'smoking', 'brushing teeth', 'brushing teeth', 'smoking', 'brushing teeth', 'eating', 'brushing teeth', 'smoking', 'brushing teeth']",
+    "choices": [
+        "hunting",
+        "smoking",
+        "exercising",
+        "cooking"
+    ],
+    "correct_choice": "smoking"
+}

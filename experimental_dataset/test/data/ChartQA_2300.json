@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2300,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2300.png",
+    "question": "How many hours per week did the average physician work?",
+    "label": [
+        "51"
+    ]
+}

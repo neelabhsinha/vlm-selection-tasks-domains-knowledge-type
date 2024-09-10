@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2292,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2292.png",
+    "question": "What is the three whelled vehicle in the picture called?",
+    "label": [
+        "tricycle",
+        "tricycle",
+        "tricycle",
+        "tricycle",
+        "slingshot",
+        "slingshot",
+        "moped",
+        "moped",
+        "trike",
+        "trike"
+    ]
+}

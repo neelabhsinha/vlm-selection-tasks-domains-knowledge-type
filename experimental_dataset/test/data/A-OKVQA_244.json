@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 244,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_244.png",
+    "question": "What might be drunk from this glasses?",
+    "label": "['wine', 'wine', 'wine', 'wine', 'wine', 'wine', 'wine', 'wine', 'wine', 'wine']",
+    "choices": [
+        "coke",
+        "wine",
+        "juice",
+        "beer"
+    ],
+    "correct_choice": "wine"
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 159,
+    "caption": "a man sitting in a chair holding a game controller",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "indoor",
+        "wall",
+        "finger",
+        "eyewear",
+        "comfort",
+        "sitting",
+        "glasses",
+        "holding",
+        "using",
+        "remote",
+        "controller"
+    ]
+}

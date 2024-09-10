@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 667,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_667.png",
+    "question": "What is in the middle of this breakfast food?",
+    "label": "['hole', 'cream', 'jelly', 'hole', 'hole', 'cream/vanilla', 'hole', 'bread', 'hole', 'nothing']",
+    "choices": [
+        "jelly",
+        "custard",
+        "hole",
+        "crackers"
+    ],
+    "correct_choice": "hole"
+}

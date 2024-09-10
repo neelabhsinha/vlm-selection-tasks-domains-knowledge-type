@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 46788,
+    "caption": "a young girl holding a nintendo wii game controller",
+    "object_tags": [
+        "person",
+        "indoor",
+        "human face",
+        "clothing",
+        "wall",
+        "toddler",
+        "baby",
+        "young",
+        "holding",
+        "controller",
+        "room",
+        "girl",
+        "child",
+        "remote"
+    ]
+}

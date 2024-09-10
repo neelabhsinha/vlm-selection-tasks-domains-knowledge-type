@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 39949,
+    "image_path": "./experimental_dataset/test/images/VQAv2_39949.png",
+    "question": "Is it raining?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

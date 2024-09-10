@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 139980,
+    "image_path": "./experimental_dataset/test/images/VQAv2_139980.png",
+    "question": "What color is the ground?",
+    "label": [
+        "green blue",
+        "blue and green",
+        "green and blue",
+        "green",
+        "green and blue",
+        "green/blue",
+        "green",
+        "green and blue",
+        "green and blue",
+        "blue and green"
+    ]
+}

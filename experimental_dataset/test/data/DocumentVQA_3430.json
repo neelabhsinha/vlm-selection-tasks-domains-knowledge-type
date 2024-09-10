@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3430,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3430.png",
+    "question": "When was ARHP- 41st Annual Meeting?",
+    "label": [
+        "September 7-12, 2004"
+    ]
+}

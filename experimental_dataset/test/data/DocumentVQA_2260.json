@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2260,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2260.png",
+    "question": "What is the time mentioned?",
+    "label": [
+        "9:30 a.m."
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3492,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3492.png",
+    "question": "what is the effective date?",
+    "label": [
+        "3-19-01"
+    ]
+}

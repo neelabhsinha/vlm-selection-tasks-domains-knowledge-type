@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4577,
+    "caption": "a sandwich and french fries on a paper plate",
+    "object_tags": [
+        "food",
+        "fast food",
+        "sandwich",
+        "snack food",
+        "table",
+        "bottle",
+        "american food",
+        "drink",
+        "bread",
+        "meal",
+        "indoor",
+        "hamburger",
+        "banh ma",
+        "kids' meal",
+        "bun",
+        "brunch",
+        "breakfast sandwich",
+        "beer",
+        "lunch",
+        "burger"
+    ]
+}

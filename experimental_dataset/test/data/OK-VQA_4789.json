@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4789,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4789.png",
+    "question": "What food is displayed in the window?",
+    "label": [
+        "pastry",
+        "pastry",
+        "pastry",
+        "pastry",
+        "baked good",
+        "baked good",
+        "bread",
+        "bread",
+        "teddy bear",
+        "teddy bear"
+    ]
+}

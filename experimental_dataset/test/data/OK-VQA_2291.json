@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2291,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2291.png",
+    "question": "How were these vegetables cooked?",
+    "label": [
+        "steamed",
+        "steamed",
+        "steamed",
+        "steamed",
+        "saute",
+        "saute",
+        "sauteed",
+        "sauteed",
+        "grilled",
+        "grilled"
+    ]
+}

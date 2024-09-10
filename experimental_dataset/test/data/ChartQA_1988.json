@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1988,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1988.png",
+    "question": "How many international tourists visited Cancon in 2018?",
+    "label": [
+        "6.04"
+    ]
+}

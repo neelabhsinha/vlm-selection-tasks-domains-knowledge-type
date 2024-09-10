@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4075,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4075.png",
+    "question": "What is the metal in room 544?",
+    "label": [
+        "Blue"
+    ]
+}

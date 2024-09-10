@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4756,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4756.png",
+    "question": "What does the symbol * indicate?",
+    "label": [
+        "not asked in 1988 and 1989",
+        "Not asked in 1988 and 1989."
+    ]
+}

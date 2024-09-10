@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4241,
+    "caption": "a number of people on a row boat in the water",
+    "object_tags": [
+        "sport",
+        "outdoor",
+        "person",
+        "rowing",
+        "recreation",
+        "water",
+        "paddle",
+        "sports equipment",
+        "boating",
+        "lake",
+        "coxswain",
+        "crew",
+        "oar",
+        "outdoor recreation",
+        "sports",
+        "surface water sports",
+        "group",
+        "people",
+        "boat",
+        "riding",
+        "boat racing"
+    ]
+}

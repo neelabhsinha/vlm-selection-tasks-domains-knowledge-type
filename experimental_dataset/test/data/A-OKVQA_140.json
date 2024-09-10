@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 140,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_140.png",
+    "question": "What vehicle is shown in the photo?",
+    "label": "['military plane', 'jet', 'plane', 'plane', 'fighter jet', 'plane', 'airplane', 'airplane', 'airplane', 'plane']",
+    "choices": [
+        "airplane",
+        "bus",
+        "train",
+        "car"
+    ],
+    "correct_choice": "airplane"
+}

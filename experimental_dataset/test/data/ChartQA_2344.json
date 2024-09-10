@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2344,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2344.png",
+    "question": "What was the global net revenue of Crocs in 2020?",
+    "label": [
+        "1385.95"
+    ]
+}

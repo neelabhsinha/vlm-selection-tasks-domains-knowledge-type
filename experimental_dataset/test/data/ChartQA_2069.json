@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2069,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2069.png",
+    "question": "How many MRI scan examinations were conducted in Denmark in 2016?",
+    "label": [
+        "470862"
+    ]
+}

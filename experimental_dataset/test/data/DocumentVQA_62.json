@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 62,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_62.png",
+    "question": "What is written in the picture of title 'John Players Jeans'?",
+    "label": [
+        "johnplayers jeans"
+    ]
+}

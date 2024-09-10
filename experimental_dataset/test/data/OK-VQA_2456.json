@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2456,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2456.png",
+    "question": "I wonder what is the skill level of this game?",
+    "label": [
+        "high",
+        "high",
+        "high",
+        "high",
+        "high",
+        "high",
+        "moderate",
+        "moderate",
+        "professional",
+        "professional"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 848,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_848.png",
+    "question": "What is the primary purpose for this train?",
+    "label": "['commuting', 'transportation', 'transportation', 'transit', 'shuttle', 'passenger transport', 'passengers', 'transport passengers', 'transportation', 'transportation']",
+    "choices": [
+        "passenger transport",
+        "consumer goods",
+        "commercial transport",
+        "manufacturing"
+    ],
+    "correct_choice": "passenger transport"
+}

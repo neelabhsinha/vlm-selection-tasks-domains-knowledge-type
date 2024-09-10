@@ -1,0 +1,17 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1589,
+    "caption": "an old photograph of a group of people",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "document",
+        "font",
+        "letter",
+        "paper",
+        "ink",
+        "calligraphy",
+        "black and white",
+        "number"
+    ]
+}

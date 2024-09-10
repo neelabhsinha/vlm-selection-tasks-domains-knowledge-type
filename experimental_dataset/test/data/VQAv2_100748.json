@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 100748,
+    "image_path": "./experimental_dataset/test/images/VQAv2_100748.png",
+    "question": "How many feet prints are in the sand?",
+    "label": [
+        "200",
+        "many",
+        "many",
+        "several",
+        "599",
+        "thousand",
+        "0",
+        "1000",
+        "100",
+        "0"
+    ]
+}

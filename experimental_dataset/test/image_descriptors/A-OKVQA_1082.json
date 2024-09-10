@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1082,
+    "caption": "a man standing in front of a truck in front of a building",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "building",
+        "road",
+        "wheel",
+        "text",
+        "truck",
+        "sky",
+        "mode of transport",
+        "vehicle registration plate",
+        "car",
+        "motor vehicle",
+        "street",
+        "light commercial vehicle",
+        "van",
+        "person"
+    ]
+}

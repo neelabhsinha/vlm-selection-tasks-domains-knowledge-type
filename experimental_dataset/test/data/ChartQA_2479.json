@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2479,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2479.png",
+    "question": "How much did beverages sales increase in the week ending March 8 of 2020?",
+    "label": [
+        "9.3"
+    ]
+}

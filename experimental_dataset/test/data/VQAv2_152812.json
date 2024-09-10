@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 152812,
+    "image_path": "./experimental_dataset/test/images/VQAv2_152812.png",
+    "question": "What is he holding?",
+    "label": [
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard"
+    ]
+}

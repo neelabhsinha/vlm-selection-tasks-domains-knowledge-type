@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 644,
+    "image_path": "./experimental_dataset/test/images/ChartQA_644.png",
+    "question": "What's the no.1 diagnosis in the chart?",
+    "label": [
+        "Pulmonary arterial hypertension"
+    ]
+}

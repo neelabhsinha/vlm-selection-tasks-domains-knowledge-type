@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 448,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_448.png",
+    "question": "What are the people doing in the water?",
+    "label": "['rowing', 'canoeing', 'rowing', 'boating', 'rowing', 'kayaking', 'kayaking', 'kayaking', 'paddling', 'boat riding']",
+    "choices": [
+        "surfing",
+        "fishing",
+        "kayaking",
+        "swimming"
+    ],
+    "correct_choice": "kayaking"
+}

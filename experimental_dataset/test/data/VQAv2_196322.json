@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 196322,
+    "image_path": "./experimental_dataset/test/images/VQAv2_196322.png",
+    "question": "Is this man hungry?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "can't tell, would have to ask"
+    ]
+}

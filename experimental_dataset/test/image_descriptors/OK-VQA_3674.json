@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3674,
+    "caption": "a man riding on the back of a motorcycle",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "tire",
+        "tree",
+        "clothing",
+        "motorbike",
+        "road",
+        "motorcycle",
+        "helmet",
+        "military",
+        "auto part",
+        "person",
+        "soldier",
+        "military organization",
+        "military person",
+        "army",
+        "man",
+        "infantry",
+        "camouflage",
+        "military uniform",
+        "grass",
+        "uniform",
+        "street",
+        "ground"
+    ]
+}

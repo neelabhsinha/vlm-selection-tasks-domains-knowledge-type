@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 870,
+    "image_path": "./experimental_dataset/test/images/ChartQA_870.png",
+    "question": "How many euros does grey color indicate?",
+    "label": [
+        "100 - 500 euros"
+    ]
+}

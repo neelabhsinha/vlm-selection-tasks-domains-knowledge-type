@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1954,
+    "caption": "a purse and a cell phone on a bed",
+    "object_tags": [
+        "accessory",
+        "bag",
+        "everyday carry",
+        "luggage and bags",
+        "fashion accessory",
+        "handbag",
+        "indoor",
+        "strap",
+        "camera",
+        "floor",
+        "sitting",
+        "case",
+        "purse"
+    ]
+}

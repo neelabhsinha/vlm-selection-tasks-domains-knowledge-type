@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 612,
+    "caption": "a train is going down the tracks under a bridge",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "public transport",
+        "transport",
+        "track",
+        "railway",
+        "rolling stock",
+        "metropolitan area",
+        "transport hub",
+        "train",
+        "railroad",
+        "passing",
+        "person",
+        "city",
+        "travel"
+    ]
+}

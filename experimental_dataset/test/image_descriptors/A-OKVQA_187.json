@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 187,
+    "caption": "a kitchen counter with a microwave and a spatula",
+    "object_tags": [
+        "indoor",
+        "kitchen utensil",
+        "wall",
+        "floor",
+        "home appliance",
+        "spoon",
+        "tableware",
+        "metal",
+        "kitchen"
+    ]
+}

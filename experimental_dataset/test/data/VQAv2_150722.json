@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 150722,
+    "image_path": "./experimental_dataset/test/images/VQAv2_150722.png",
+    "question": "Are the bananas ripe?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

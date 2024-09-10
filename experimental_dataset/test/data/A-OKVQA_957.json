@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 957,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_957.png",
+    "question": "What company made the cleats the batter wearing?",
+    "label": "['under armour', 'under armour', 'nike', 'under armour', 'under armor', 'under armour', 'ridell', 'under armour', 'underarmour', 'under armour']",
+    "choices": [
+        "under armour",
+        "nike",
+        "converse",
+        "new balance"
+    ],
+    "correct_choice": "under armour"
+}

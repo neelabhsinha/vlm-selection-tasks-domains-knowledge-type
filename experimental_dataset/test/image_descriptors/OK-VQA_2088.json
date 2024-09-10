@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2088,
+    "caption": "a person laying on a bed in a room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "bed",
+        "home appliance",
+        "room",
+        "mechanical fan",
+        "person"
+    ]
+}

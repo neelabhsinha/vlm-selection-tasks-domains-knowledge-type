@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3080,
+    "caption": "a food truck parked on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "tree",
+        "vehicle",
+        "land vehicle",
+        "sky",
+        "street",
+        "bus",
+        "thoroughfare",
+        "lane",
+        "road surface",
+        "asphalt",
+        "building",
+        "car",
+        "wheel",
+        "mode of transport",
+        "tarmac",
+        "traffic",
+        "driving",
+        "city"
+    ]
+}

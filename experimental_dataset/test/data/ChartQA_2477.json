@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2477,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2477.png",
+    "question": "How many short tons of domestic cargo were handled in Houston in 2019?",
+    "label": [
+        "75.19"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2865,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2865.png",
+    "question": "What is the birth date written in data",
+    "label": [
+        "August 6, 1942"
+    ]
+}

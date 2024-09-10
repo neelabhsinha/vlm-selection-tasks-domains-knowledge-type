@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 156838,
+    "caption": "a train traveling down tracks next to a forest",
+    "object_tags": [
+        "railroad",
+        "transport",
+        "outdoor",
+        "train",
+        "vehicle",
+        "track",
+        "grass",
+        "land vehicle",
+        "railway",
+        "tree",
+        "rolling stock",
+        "locomotive",
+        "public transport",
+        "railroad car",
+        "sky",
+        "rolling"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 202810,
+    "image_path": "./experimental_dataset/test/images/VQAv2_202810.png",
+    "question": "Where does the snow look dirty?",
+    "label": [
+        "no",
+        "near street",
+        "by road",
+        "by road",
+        "no",
+        "by street",
+        "near road",
+        "it's mixed with dirt",
+        "street",
+        "near road"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1513,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1513.png",
+    "question": "What vegetables are on this plate?",
+    "label": [
+        "carrot avocado cabbage",
+        "carrot avocado cabbage",
+        "carrot cabbage",
+        "carrot cabbage",
+        "carrot radish",
+        "carrot radish",
+        "carrot",
+        "carrot",
+        "carrot cabbage",
+        "carrot cabbage"
+    ]
+}

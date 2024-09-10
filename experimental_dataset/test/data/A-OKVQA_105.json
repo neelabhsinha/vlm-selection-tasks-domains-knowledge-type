@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 105,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_105.png",
+    "question": "What is served at the counter here?",
+    "label": "['alcohol', 'alcohol', 'alcohol', 'liquour', 'alcohol', 'alcohol', 'alcoholic drinks', 'cocktails', 'alcohol', 'alcohol']",
+    "choices": [
+        "fines",
+        "ice cream",
+        "alcohol",
+        "chinese"
+    ],
+    "correct_choice": "alcohol"
+}

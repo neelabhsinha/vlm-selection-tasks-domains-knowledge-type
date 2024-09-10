@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1054,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1054.png",
+    "question": "Who is the first speaker in the afternoon session?",
+    "label": [
+        "Dr. Donald Oberleas"
+    ]
+}

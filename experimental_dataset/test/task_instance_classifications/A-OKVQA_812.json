@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 812,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Social Media",
+        "Government and Politics"
+    ],
+    "knowledge_type": [
+        "Social Knowledge",
+        "Cultural Knowledge"
+    ]
+}

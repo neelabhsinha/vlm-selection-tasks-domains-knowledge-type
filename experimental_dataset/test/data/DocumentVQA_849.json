@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 849,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_849.png",
+    "question": "What is the title of the article by G. A. Lloyd?",
+    "label": [
+        "the petroleum industries' air pollution control program",
+        "The Petroleum Industries' air pollution control program"
+    ]
+}

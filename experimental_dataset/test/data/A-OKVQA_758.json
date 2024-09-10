@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 758,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_758.png",
+    "question": "What are the last two numbers on the man's shirt?",
+    "label": "['30', 'thirty', '30', '30', '30', '3 0', 'three zero', '30', 'three zero', 'three zero']",
+    "choices": [
+        "99",
+        "65",
+        "60",
+        "30"
+    ],
+    "correct_choice": "30"
+}

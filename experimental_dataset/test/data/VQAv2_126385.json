@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 126385,
+    "image_path": "./experimental_dataset/test/images/VQAv2_126385.png",
+    "question": "What is in focus?",
+    "label": [
+        "tree",
+        "tree",
+        "tree",
+        "tree",
+        "tree",
+        "tree",
+        "trunk",
+        "tree",
+        "tree",
+        "tree"
+    ]
+}

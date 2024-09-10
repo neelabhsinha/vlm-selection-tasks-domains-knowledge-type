@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 34377,
+    "caption": "a man holding a camera in front of his face",
+    "object_tags": [
+        "person",
+        "human face",
+        "indoor",
+        "wall",
+        "clothing",
+        "table",
+        "man",
+        "smile",
+        "mirror",
+        "window",
+        "restaurant"
+    ]
+}

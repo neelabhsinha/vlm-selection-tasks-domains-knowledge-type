@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 656,
+    "caption": "a white bus parked next to a fence",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "sky",
+        "wheel",
+        "transport",
+        "mode of transport",
+        "public transport",
+        "bus",
+        "parked",
+        "transit",
+        "ground",
+        "people",
+        "sidewalk"
+    ]
+}

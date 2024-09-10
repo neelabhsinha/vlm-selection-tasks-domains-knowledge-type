@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3255,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3255.png",
+    "question": "What is the Company Name ?",
+    "label": [
+        "Laman for Letters, INC."
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1151,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1151.png",
+    "question": "What year is this computer from?",
+    "label": [
+        "2010",
+        "2010",
+        "2010",
+        "2010",
+        "2000",
+        "2000",
+        "2000",
+        "2000",
+        "1999",
+        "1999"
+    ]
+}

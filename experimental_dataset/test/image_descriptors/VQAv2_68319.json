@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 68319,
+    "caption": "a man riding a snowboard on top of a snow covered slope",
+    "object_tags": [
+        "outdoor",
+        "sport",
+        "sky",
+        "person",
+        "snow",
+        "boardsport",
+        "extreme sport",
+        "snowboard",
+        "man",
+        "skateboard",
+        "sports equipment",
+        "skateboarder",
+        "individual sports",
+        "skateboarding",
+        "street stunts",
+        "slope",
+        "stunt",
+        "jumping",
+        "air",
+        "ground",
+        "snowboarding",
+        "skate",
+        "ski",
+        "winter"
+    ]
+}

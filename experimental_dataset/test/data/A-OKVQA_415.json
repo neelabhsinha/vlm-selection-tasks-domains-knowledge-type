@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 415,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_415.png",
+    "question": "What is device on the small black box below the laptop on the left?",
+    "label": "['ipod', 'mp3 player', 'ipod', 'ipod', 'ipod', 'ipod', 'printer', 'ipod', 'gameboy', 'mp3 player']",
+    "choices": [
+        "istarter",
+        "ipod",
+        "ipad",
+        "iphone"
+    ],
+    "correct_choice": "ipod"
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1147,
+    "caption": "a knife and a loaf of bread on a cutting board",
+    "object_tags": [
+        "knife",
+        "gluten",
+        "kitchen knife",
+        "loaf",
+        "staple food",
+        "blade",
+        "wheat gluten",
+        "baked goods",
+        "cold weapon",
+        "sourdough",
+        "melee weapon",
+        "ciabatta",
+        "whole grain",
+        "bread roll",
+        "snack",
+        "whole wheat bread",
+        "rye bread",
+        "baker's yeast",
+        "fast food",
+        "weapon",
+        "food",
+        "indoor",
+        "bread"
+    ]
+}

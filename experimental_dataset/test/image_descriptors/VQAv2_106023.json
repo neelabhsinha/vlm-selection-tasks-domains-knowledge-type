@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 106023,
+    "caption": "an elephant standing in the middle of a forest",
+    "object_tags": [
+        "outdoor",
+        "landscape",
+        "monochrome",
+        "nature",
+        "grass",
+        "sky",
+        "monochrome photography",
+        "black and white",
+        "forest",
+        "fog",
+        "field",
+        "plant",
+        "tree",
+        "winter"
+    ]
+}

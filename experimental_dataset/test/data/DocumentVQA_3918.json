@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3918,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3918.png",
+    "question": "What is the discount rate (per annum) for the current year?",
+    "label": [
+        "8.20%"
+    ]
+}

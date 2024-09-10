@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 430,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_430.png",
+    "question": "Where is this bathroom probably located?",
+    "label": "['motel', 'hotel', 'motel', 'hotel', 'hotel', 'hotel', 'apartment', 'master bedroom', 'hotel', 'house']",
+    "choices": [
+        "home",
+        "dorm",
+        "hotel",
+        "theater"
+    ],
+    "correct_choice": "hotel"
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 833,
+    "caption": "a large white boat floating in the water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "ship",
+        "cloud",
+        "vehicle",
+        "lighthouse",
+        "water",
+        "lake",
+        "tree",
+        "watercraft",
+        "mountain",
+        "boat",
+        "river",
+        "harbor"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3375,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3375.png",
+    "question": "What part of the world is this?",
+    "label": [
+        "australia",
+        "australia",
+        "australia",
+        "australia",
+        "australia",
+        "australia",
+        "japan",
+        "japan",
+        "island",
+        "island"
+    ]
+}

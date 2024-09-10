@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 947,
+    "caption": "a row of boats sitting on top of a beach",
+    "object_tags": [
+        "transport",
+        "outdoor",
+        "watercraft",
+        "sky",
+        "ship",
+        "beach",
+        "water",
+        "vehicle",
+        "ground",
+        "boat",
+        "landscape",
+        "night",
+        "ocean",
+        "sea"
+    ]
+}

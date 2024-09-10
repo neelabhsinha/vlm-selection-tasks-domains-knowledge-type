@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1311,
+    "caption": "a green and yellow train traveling down train tracks",
+    "object_tags": [
+        "railroad",
+        "outdoor",
+        "transport",
+        "track",
+        "train",
+        "sky",
+        "vehicle",
+        "railway",
+        "locomotive",
+        "land vehicle",
+        "rolling stock",
+        "tree",
+        "railroad car",
+        "rolling",
+        "ground",
+        "engine",
+        "yellow",
+        "rail"
+    ]
+}

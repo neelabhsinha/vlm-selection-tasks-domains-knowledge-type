@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 98,
+    "caption": "two giraffes standing next to each other in a zoo enclosure",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "tree",
+        "terrestrial animal",
+        "wildlife",
+        "giraffe",
+        "plant",
+        "giraffidae",
+        "grass",
+        "standing",
+        "ground",
+        "rock",
+        "enclosure",
+        "zoo",
+        "area"
+    ]
+}

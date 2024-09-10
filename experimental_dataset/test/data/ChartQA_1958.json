@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1958,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1958.png",
+    "question": "What was the total amount of grants offered to students in 2019/20?",
+    "label": [
+        "140.9"
+    ]
+}

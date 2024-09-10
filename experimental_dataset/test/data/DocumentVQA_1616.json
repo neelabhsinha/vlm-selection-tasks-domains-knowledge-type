@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1616,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1616.png",
+    "question": "Who had signed the Demond Heeley\u2019s Design for Don Pasquale?",
+    "label": [
+        "Mr. Heeley"
+    ]
+}

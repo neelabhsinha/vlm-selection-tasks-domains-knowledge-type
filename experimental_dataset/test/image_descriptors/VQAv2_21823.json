@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 21823,
+    "caption": "a woman in a dress holding a cell phone",
+    "object_tags": [
+        "person",
+        "tattoo",
+        "clothing",
+        "wrist",
+        "back",
+        "flesh",
+        "shoulder",
+        "woman",
+        "indoor"
+    ]
+}

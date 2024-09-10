@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 819,
+    "caption": "a room with a door open and a shelf with various items inside of it",
+    "object_tags": [
+        "indoor",
+        "shelf",
+        "door",
+        "fire extinguisher",
+        "bottle",
+        "wall",
+        "floor",
+        "refrigerator",
+        "kitchen",
+        "ceiling",
+        "abandoned",
+        "wooden",
+        "basement"
+    ]
+}

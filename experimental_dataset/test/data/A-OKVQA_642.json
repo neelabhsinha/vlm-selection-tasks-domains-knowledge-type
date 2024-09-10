@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 642,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_642.png",
+    "question": "Which Disney mascot is pictured next to the Christmas Tree?",
+    "label": "['donald duck', 'donald', 'donald duck', 'donald duck', 'donald duck', 'donald duck', 'donald duck', 'donald', 'donald duck', 'daffy duck']",
+    "choices": [
+        "daffy duck",
+        "goofy",
+        "micky mouse",
+        "donald duck"
+    ],
+    "correct_choice": "donald duck"
+}

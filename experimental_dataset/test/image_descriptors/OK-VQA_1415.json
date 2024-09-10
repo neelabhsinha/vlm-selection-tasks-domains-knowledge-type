@@ -1,0 +1,29 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1415,
+    "caption": "elephants walking across a muddy river",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "outdoor",
+        "elephant",
+        "tree",
+        "terrestrial animal",
+        "water",
+        "safari",
+        "wildlife",
+        "elephants and mammoths",
+        "indian elephant",
+        "asian elephant",
+        "mountain",
+        "tusk",
+        "african elephant",
+        "plant",
+        "river",
+        "ground",
+        "grass",
+        "walking",
+        "hole",
+        "standing"
+    ]
+}

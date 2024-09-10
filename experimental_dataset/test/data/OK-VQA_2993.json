@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2993,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2993.png",
+    "question": "What is this trick called?",
+    "label": [
+        "ollie",
+        "ollie",
+        "ollie",
+        "ollie",
+        "kick flip",
+        "kick flip",
+        "kick flip",
+        "kick flip",
+        "nollie",
+        "nollie"
+    ]
+}

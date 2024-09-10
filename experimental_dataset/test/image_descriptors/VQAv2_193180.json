@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 193180,
+    "caption": "a fire hydrant sitting on the side of a street",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "waste container",
+        "fire hydrant",
+        "door",
+        "art",
+        "graffiti",
+        "ground",
+        "street"
+    ]
+}

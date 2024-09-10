@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 57295,
+    "image_path": "./experimental_dataset/test/images/VQAv2_57295.png",
+    "question": "Is the bus larger than the train?",
+    "label": [
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "yes"
+    ]
+}

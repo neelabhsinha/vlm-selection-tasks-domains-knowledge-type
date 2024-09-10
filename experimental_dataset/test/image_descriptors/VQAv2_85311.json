@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 85311,
+    "caption": "a sandwich and salad on a plate",
+    "object_tags": [
+        "food",
+        "fast food",
+        "american food",
+        "bread",
+        "cuisine",
+        "meal",
+        "baked goods",
+        "dish",
+        "sandwich",
+        "bun",
+        "hamburger",
+        "vegetable",
+        "indoor",
+        "table",
+        "salad",
+        "snack food"
+    ]
+}

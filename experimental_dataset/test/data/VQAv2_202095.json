@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 202095,
+    "image_path": "./experimental_dataset/test/images/VQAv2_202095.png",
+    "question": "What is on the ground?",
+    "label": [
+        "plantains",
+        "bananas",
+        "bananas",
+        "bananas",
+        "bananas",
+        "bananas",
+        "bananas",
+        "bananas",
+        "star fruit",
+        "bananas"
+    ]
+}

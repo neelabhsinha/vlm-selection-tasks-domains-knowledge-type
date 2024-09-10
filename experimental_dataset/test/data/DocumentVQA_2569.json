@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2569,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2569.png",
+    "question": "Who is the article by?",
+    "label": [
+        "pat Morrison",
+        "Pat Morrison"
+    ]
+}

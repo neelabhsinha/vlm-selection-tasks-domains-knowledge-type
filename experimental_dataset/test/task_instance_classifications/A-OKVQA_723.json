@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 723,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Knowledge Base",
+        "Reviews",
+        "Professions",
+        "Public Places",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Geographical Knowledge",
+        "Technical Knowledge"
+    ]
+}

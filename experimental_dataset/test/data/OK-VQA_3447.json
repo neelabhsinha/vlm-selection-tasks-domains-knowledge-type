@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3447,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3447.png",
+    "question": "At what speed does this animal run?",
+    "label": [
+        "30 mph",
+        "30 mph",
+        "30 mph",
+        "30 mph",
+        "20 mph",
+        "20 mph",
+        "50mph",
+        "50mph",
+        "slow",
+        "slow"
+    ]
+}

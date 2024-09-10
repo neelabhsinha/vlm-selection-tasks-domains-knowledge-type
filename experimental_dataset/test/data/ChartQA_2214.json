@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2214,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2214.png",
+    "question": "What was the number of patients waiting on trolleys in August 2019?",
+    "label": [
+        "9562"
+    ]
+}

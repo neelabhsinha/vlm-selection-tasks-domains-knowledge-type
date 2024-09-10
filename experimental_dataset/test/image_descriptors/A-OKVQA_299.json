@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 299,
+    "caption": "a green bus driving down a street next to a forest",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "sky",
+        "vehicle",
+        "text",
+        "road",
+        "mode of transport",
+        "transport",
+        "wheel",
+        "tree",
+        "commercial vehicle",
+        "street",
+        "public transport",
+        "lane",
+        "green",
+        "bus",
+        "driving"
+    ]
+}

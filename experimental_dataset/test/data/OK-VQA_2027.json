@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2027,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2027.png",
+    "question": "What holiday is associated with this animal?",
+    "label": [
+        "halloween",
+        "halloween",
+        "halloween",
+        "halloween",
+        "halloween",
+        "halloween",
+        "halloween",
+        "halloween",
+        "cat",
+        "cat"
+    ]
+}

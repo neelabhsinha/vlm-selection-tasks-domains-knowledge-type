@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2352,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2352.png",
+    "question": "How many people were murdered for every 100,000 inhabitants in Saint Vincent and the Grenadines in 2016?",
+    "label": [
+        "36.5"
+    ]
+}

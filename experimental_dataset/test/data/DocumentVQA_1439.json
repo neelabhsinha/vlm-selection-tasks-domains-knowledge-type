@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1439,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1439.png",
+    "question": "What is the Contract Number?",
+    "label": [
+        "DA-49-193-MD-2444"
+    ]
+}

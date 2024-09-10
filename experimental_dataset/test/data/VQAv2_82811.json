@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 82811,
+    "image_path": "./experimental_dataset/test/images/VQAv2_82811.png",
+    "question": "Are these animals full grown?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

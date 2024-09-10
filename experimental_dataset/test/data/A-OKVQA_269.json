@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 269,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_269.png",
+    "question": "What type of league is the batter in?",
+    "label": "['little leagues', 'little league', 'baseball', 'little league', 'little', 'little', 'baseball', 'baseball', 'little peewee', 'little']",
+    "choices": [
+        "little league",
+        "high school",
+        "minor league",
+        "intramural"
+    ],
+    "correct_choice": "little league"
+}

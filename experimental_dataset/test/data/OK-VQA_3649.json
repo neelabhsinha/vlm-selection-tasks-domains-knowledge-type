@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3649,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3649.png",
+    "question": "What kind of cake is this?",
+    "label": [
+        "pound",
+        "pound",
+        "pound",
+        "pound",
+        "pound",
+        "pound",
+        "pound",
+        "pound",
+        "pound caje",
+        "pound caje"
+    ]
+}

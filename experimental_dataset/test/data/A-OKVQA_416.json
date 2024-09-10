@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 416,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_416.png",
+    "question": "What is this room for?",
+    "label": "['sleeping', 'sleep', 'sleep', 'sleeping', 'sleep', 'sleeping', 'sleeping', 'sleeping', 'sleep', 'sleeping']",
+    "choices": [
+        "sleep",
+        "exercising",
+        "washing",
+        "cooking"
+    ],
+    "correct_choice": "sleep"
+}

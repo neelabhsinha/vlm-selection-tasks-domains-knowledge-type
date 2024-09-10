@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2225,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2225.png",
+    "question": "How many children are attending school?",
+    "label": [
+        "1534",
+        "1,534"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 985,
+    "caption": "a blue and white bus parked in a parking lot",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "transport",
+        "sky",
+        "mode of transport",
+        "text",
+        "wheel",
+        "public transport",
+        "tour bus service",
+        "parked",
+        "road",
+        "street",
+        "ground",
+        "bus"
+    ]
+}

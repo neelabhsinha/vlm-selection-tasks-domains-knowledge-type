@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1085,
+    "caption": "a small plane is parked on the runway",
+    "object_tags": [
+        "transport",
+        "outdoor",
+        "aircraft",
+        "plane",
+        "sky",
+        "airplane",
+        "vehicle",
+        "air travel",
+        "general aviation",
+        "aviation",
+        "monoplane",
+        "propeller-driven aircraft",
+        "light aircraft",
+        "aerospace manufacturer",
+        "ground",
+        "propeller",
+        "turboprop",
+        "flap",
+        "parked",
+        "sitting",
+        "white",
+        "runway",
+        "tarmac",
+        "airport",
+        "airfield"
+    ]
+}

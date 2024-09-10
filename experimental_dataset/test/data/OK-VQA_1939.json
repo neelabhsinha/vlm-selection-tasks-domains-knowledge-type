@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1939,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1939.png",
+    "question": "What needs to be planted for grass to grow?",
+    "label": [
+        "seed",
+        "seed",
+        "seed",
+        "seed",
+        "seed",
+        "seed",
+        "seed",
+        "seed",
+        "grass seed",
+        "grass seed"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 745,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_745.png",
+    "question": "What is the fence meant to block?",
+    "label": "['balls', 'tennis balls', 'balls', 'ball', 'fly balls', 'balls', 'balls', 'ball escaping', 'balls', 'balls']",
+    "choices": [
+        "trespassers",
+        "cars",
+        "balls",
+        "animals"
+    ],
+    "correct_choice": "balls"
+}

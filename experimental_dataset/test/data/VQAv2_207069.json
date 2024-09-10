@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 207069,
+    "image_path": "./experimental_dataset/test/images/VQAv2_207069.png",
+    "question": "What is the cat sitting on?",
+    "label": [
+        "sofa",
+        "couch",
+        "bed",
+        "bed",
+        "bed",
+        "bench",
+        "bed",
+        "bed",
+        "bed",
+        "part of headboard"
+    ]
+}

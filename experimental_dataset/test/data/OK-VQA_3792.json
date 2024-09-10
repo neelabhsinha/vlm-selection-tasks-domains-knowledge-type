@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3792,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3792.png",
+    "question": "The birds on the television derive their name from what country?",
+    "label": [
+        "canada",
+        "canada",
+        "canada",
+        "canada",
+        "iceland",
+        "iceland",
+        "antartica",
+        "antartica",
+        "france",
+        "france"
+    ]
+}

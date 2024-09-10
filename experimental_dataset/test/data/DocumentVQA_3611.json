@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3611,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3611.png",
+    "question": "What is the Estimated Eclipse Cartons Sold in Ohio?",
+    "label": [
+        "7,120"
+    ]
+}

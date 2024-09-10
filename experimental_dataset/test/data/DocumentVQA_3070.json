@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3070,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3070.png",
+    "question": "What is the Venue Name?",
+    "label": [
+        "Way Out Club"
+    ]
+}

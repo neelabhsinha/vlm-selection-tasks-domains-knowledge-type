@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3343,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3343.png",
+    "question": "What is the subject of this correspondence?",
+    "label": [
+        "GREENHOUSE PROGRAM"
+    ]
+}

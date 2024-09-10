@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3429,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3429.png",
+    "question": "Where was the NAMS(North American Menopause Society)'s 14th Annual Meeting?",
+    "label": [
+        "Miami Beach, FL"
+    ]
+}

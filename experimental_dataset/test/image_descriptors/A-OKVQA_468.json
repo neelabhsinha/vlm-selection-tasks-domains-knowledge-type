@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 468,
+    "caption": "a motorcycle that is on display in a museum",
+    "object_tags": [
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "tire",
+        "indoor",
+        "ceiling",
+        "auto show",
+        "motor",
+        "auto part",
+        "motorcycle",
+        "display",
+        "red",
+        "person",
+        "orange",
+        "car",
+        "floor",
+        "parked",
+        "bike"
+    ]
+}

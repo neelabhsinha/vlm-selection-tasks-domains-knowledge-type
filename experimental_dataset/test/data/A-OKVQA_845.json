@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 845,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_845.png",
+    "question": "What type of establishment are the pizza's presented?",
+    "label": "['pizza shop', 'buffet restaurant', 'ala carte', 'buffet', 'buffet restaurant', 'pizza shop', 'cafeteria', 'buffet', 'pizzeria', 'restaurant']",
+    "choices": [
+        "pizza shop",
+        "office building",
+        "outdoor market",
+        "flower shop"
+    ],
+    "correct_choice": "pizza shop"
+}

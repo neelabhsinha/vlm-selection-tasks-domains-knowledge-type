@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2228,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2228.png",
+    "question": "What place can these trains be found?",
+    "label": [
+        "station",
+        "station",
+        "station",
+        "station",
+        "terminal",
+        "terminal",
+        "train station",
+        "train station",
+        "passenger train station",
+        "passenger train station"
+    ]
+}

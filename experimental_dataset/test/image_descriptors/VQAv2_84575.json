@@ -1,0 +1,31 @@
+{
+    "dataset": "VQAv2",
+    "key": 84575,
+    "caption": "traffic lights on a city street",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "land vehicle",
+        "signaling device",
+        "road",
+        "vehicle",
+        "tree",
+        "street",
+        "traffic",
+        "building",
+        "crosswalk",
+        "traffic sign",
+        "traffic light",
+        "light",
+        "thoroughfare",
+        "lane",
+        "way",
+        "road surface",
+        "car",
+        "public utility",
+        "city",
+        "intersection",
+        "signal",
+        "red"
+    ]
+}

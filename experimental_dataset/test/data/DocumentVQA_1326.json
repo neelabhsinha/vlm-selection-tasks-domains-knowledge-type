@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1326,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1326.png",
+    "question": "What is the starting period referred in the form?",
+    "label": [
+        "01/01/2006"
+    ]
+}

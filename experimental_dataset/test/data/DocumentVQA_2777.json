@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2777,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2777.png",
+    "question": "What is the first word mentioned just below the dotted line in the middle of the document?",
+    "label": [
+        "NAME",
+        "Name"
+    ]
+}

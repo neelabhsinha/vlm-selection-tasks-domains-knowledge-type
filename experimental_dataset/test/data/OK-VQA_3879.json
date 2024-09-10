@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3879,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3879.png",
+    "question": "What are the ingredients on top of this pizza classified as?",
+    "label": [
+        "vegetable",
+        "vegetable",
+        "vegetable",
+        "vegetable",
+        "vegetable",
+        "vegetable",
+        "top",
+        "top",
+        "top",
+        "top"
+    ]
+}

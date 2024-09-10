@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3678,
+    "caption": "a laptop computer sitting on top of a wooden table",
+    "object_tags": [
+        "outdoor",
+        "furniture",
+        "outdoor table",
+        "tree",
+        "porch",
+        "building",
+        "patio",
+        "shade",
+        "table",
+        "kitchen & dining room table",
+        "deck",
+        "sitting",
+        "chair",
+        "vacation",
+        "restaurant"
+    ]
+}

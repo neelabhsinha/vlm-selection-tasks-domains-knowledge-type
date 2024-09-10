@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1813,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1813.png",
+    "question": "What was the export quantity of bamboo and rattan furniture in 2016?",
+    "label": [
+        "179.9"
+    ]
+}

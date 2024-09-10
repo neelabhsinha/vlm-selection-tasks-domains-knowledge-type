@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 89,
+    "caption": "a city street filled with lots of construction equipment",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "road",
+        "cloud",
+        "land vehicle",
+        "vehicle",
+        "street",
+        "building",
+        "road surface",
+        "tree",
+        "thoroughfare",
+        "asphalt",
+        "public utility",
+        "lane",
+        "car",
+        "truck",
+        "traffic light",
+        "signaling device",
+        "tarmac",
+        "traffic",
+        "construction",
+        "city",
+        "downtown"
+    ]
+}

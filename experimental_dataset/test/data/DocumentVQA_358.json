@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 358,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_358.png",
+    "question": "Who is the person responsible for both Actions #1 and 2?",
+    "label": [
+        "DW"
+    ]
+}

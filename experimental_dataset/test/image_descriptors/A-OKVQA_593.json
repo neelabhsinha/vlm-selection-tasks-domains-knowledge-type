@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 593,
+    "caption": "a vase filled with water on top of a table",
+    "object_tags": [
+        "vase",
+        "glass",
+        "indoor",
+        "plant",
+        "flower"
+    ]
+}

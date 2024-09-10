@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 94699,
+    "caption": "a woman brushing her teeth in front of a mirror",
+    "object_tags": [
+        "person",
+        "human face",
+        "eyelash",
+        "lip",
+        "lipstick",
+        "black and white",
+        "portrait",
+        "eyebrow",
+        "woman",
+        "tooth",
+        "skin",
+        "lip gloss",
+        "portrait photography",
+        "jaw",
+        "eye liner",
+        "mascara",
+        "cosmetics",
+        "indoor",
+        "girl",
+        "mouth"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 31,
+    "caption": "a man sitting on a train looking out the window",
+    "object_tags": [
+        "window",
+        "person",
+        "passenger",
+        "clothing",
+        "vehicle",
+        "public transport",
+        "sitting",
+        "indoor",
+        "train"
+    ]
+}

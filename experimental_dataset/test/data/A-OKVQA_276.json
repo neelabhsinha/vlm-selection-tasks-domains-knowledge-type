@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 276,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_276.png",
+    "question": "What type of buildings are located here?",
+    "label": "['residential', 'homes', 'houses', 'residential', 'houses', 'private homes', 'houses', 'houses', 'apartments', 'houses']",
+    "choices": [
+        "residential",
+        "high rises",
+        "tiny homes",
+        "commercial"
+    ],
+    "correct_choice": "residential"
+}

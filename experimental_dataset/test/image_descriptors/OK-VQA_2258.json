@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2258,
+    "caption": "a kitchen with a refrigerator, stove, sink and microwave",
+    "object_tags": [
+        "kitchen appliance",
+        "indoor",
+        "appliance",
+        "home appliance",
+        "kitchen",
+        "major appliance",
+        "cabinet",
+        "countertop",
+        "stove",
+        "cabinetry",
+        "gas stove",
+        "sink",
+        "wall",
+        "kitchen stove",
+        "cooktop",
+        "small appliance",
+        "refrigerator",
+        "oven"
+    ]
+}

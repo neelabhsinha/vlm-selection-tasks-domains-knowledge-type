@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 16577,
+    "caption": "a hot dog on a bun on a grill",
+    "object_tags": [
+        "fast food",
+        "food",
+        "snack",
+        "sausage",
+        "meat",
+        "text",
+        "cervelat",
+        "indoor",
+        "hotdog"
+    ]
+}

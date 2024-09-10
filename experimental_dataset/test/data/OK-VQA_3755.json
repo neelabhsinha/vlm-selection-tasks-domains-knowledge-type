@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3755,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3755.png",
+    "question": "What is this used for?",
+    "label": [
+        "work",
+        "work",
+        "work",
+        "work",
+        "type",
+        "type",
+        "brows",
+        "brows",
+        "computer",
+        "computer"
+    ]
+}

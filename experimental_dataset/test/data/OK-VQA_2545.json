@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2545,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2545.png",
+    "question": "What tv show is this backpack from?",
+    "label": [
+        "dora explorer",
+        "dora explorer",
+        "dora explorer",
+        "dora explorer",
+        "blue clue",
+        "blue clue",
+        "cartoon show",
+        "cartoon show",
+        "dora",
+        "dora"
+    ]
+}

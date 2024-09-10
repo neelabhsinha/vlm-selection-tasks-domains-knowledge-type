@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 188,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_188.png",
+    "question": "Why does the couple standing in the boat?",
+    "label": "['holding hands', 'talking', 'talking', 'being transported', 'view', 'viewing scenery', 'fishing', 'their boat', 'spend time', 'fishing']",
+    "choices": [
+        "fun",
+        "reduce stress",
+        "tradition",
+        "spend time"
+    ],
+    "correct_choice": "spend time"
+}

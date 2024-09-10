@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 731,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_731.png",
+    "question": "What type of cow is the brown one?",
+    "label": "['dairy', 'beef', 'bull', 'calf', 'brown cow', 'bull', 'bovine', 'hereford', 'female', 'hereford']",
+    "choices": [
+        "angus",
+        "red poll",
+        "hereford",
+        "english longhorn"
+    ],
+    "correct_choice": "hereford"
+}

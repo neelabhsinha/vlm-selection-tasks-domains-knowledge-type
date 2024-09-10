@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3107,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3107.png",
+    "question": "What brand makes this hat?",
+    "label": [
+        "nike",
+        "nike",
+        "nike",
+        "nike",
+        "nike",
+        "nike",
+        "baseball",
+        "baseball",
+        "underarmor",
+        "underarmor"
+    ]
+}

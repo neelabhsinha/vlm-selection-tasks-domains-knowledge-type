@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 223,
+    "caption": "a woman standing in front of a stove preparing food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "kitchen appliance",
+        "kitchen",
+        "indoor",
+        "human face",
+        "home appliance",
+        "smile",
+        "food",
+        "woman",
+        "appliance",
+        "cooking"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 523,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_523.png",
+    "question": "When discussing things over dinner what part of the body is it considered rude to place upon the table?",
+    "label": [
+        "elbow",
+        "elbow",
+        "elbow",
+        "elbow",
+        "elbow",
+        "elbow",
+        "elbow",
+        "elbow",
+        "elbow",
+        "elbow"
+    ]
+}

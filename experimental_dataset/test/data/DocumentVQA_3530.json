@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3530,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3530.png",
+    "question": "How many guest rooms?",
+    "label": [
+        "309"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 670,
+    "caption": "slices of pizza sitting on top of a table",
+    "object_tags": [
+        "indoor",
+        "snack",
+        "cheese",
+        "food",
+        "dairy",
+        "table"
+    ]
+}

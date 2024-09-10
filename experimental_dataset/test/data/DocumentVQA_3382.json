@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3382,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3382.png",
+    "question": "According to the list, what is Mr J.M.D Brown\u2019s job?",
+    "label": [
+        "Chief Chemist, Revere Sugar Refinery",
+        "Chief chemist , Revere sugar refinery"
+    ]
+}

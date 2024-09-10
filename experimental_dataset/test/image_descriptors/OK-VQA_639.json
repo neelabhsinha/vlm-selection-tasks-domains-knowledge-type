@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 639,
+    "caption": "a cake shaped like a train on top of a table",
+    "object_tags": [
+        "birthday cake",
+        "dessert",
+        "cake",
+        "cake decorating",
+        "baked goods",
+        "food",
+        "icing",
+        "cake decorating supply",
+        "sugar cake",
+        "birthday",
+        "table",
+        "sweetness",
+        "sugar paste",
+        "fondant",
+        "royal icing",
+        "buttercream",
+        "baking",
+        "cake stand",
+        "food coloring",
+        "torte",
+        "indoor",
+        "wedding cake",
+        "cream",
+        "decorated",
+        "cupcake"
+    ]
+}

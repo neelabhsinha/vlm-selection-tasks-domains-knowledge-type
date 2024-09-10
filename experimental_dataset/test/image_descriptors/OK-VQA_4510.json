@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4510,
+    "caption": "a large body of water filled with lots of boats",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "ship",
+        "sky",
+        "boat",
+        "lake",
+        "fog",
+        "vehicle",
+        "harbor",
+        "reflection",
+        "landscape",
+        "watercraft"
+    ]
+}

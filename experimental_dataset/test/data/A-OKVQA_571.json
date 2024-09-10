@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 571,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_571.png",
+    "question": "Where is she most likely heading on her bicycle?",
+    "label": "['school', 'school', 'work', 'school', 'school', 'school', 'school', 'school', 'school', 'school']",
+    "choices": [
+        "beach",
+        "store",
+        "school",
+        "park"
+    ],
+    "correct_choice": "school"
+}

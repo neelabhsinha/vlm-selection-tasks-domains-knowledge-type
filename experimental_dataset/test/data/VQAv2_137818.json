@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 137818,
+    "image_path": "./experimental_dataset/test/images/VQAv2_137818.png",
+    "question": "What colors are the cone?",
+    "label": [
+        "orange and white",
+        "orange and white",
+        "orange and white",
+        "orange and white",
+        "orange and white",
+        "orange and white",
+        "orange and white",
+        "orange and white",
+        "orange and white",
+        "orange and white"
+    ]
+}

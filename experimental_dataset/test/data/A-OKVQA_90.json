@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 90,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_90.png",
+    "question": "What seems to be contained in the nook underneath the TV?",
+    "label": "['fireplace', 'fire', 'fireplace', 'fireplace', 'fireplace', 'fireplace', 'fireplace', 'fire', 'fire', 'fireplace']",
+    "choices": [
+        "bookshelf",
+        "lamp",
+        "fireplace",
+        "stereo"
+    ],
+    "correct_choice": "fireplace"
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 933,
+    "caption": "a man and a dog on a surfboard in the water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "sport",
+        "wave",
+        "wind wave",
+        "person",
+        "surfboard",
+        "riding",
+        "recreation",
+        "swimming",
+        "ocean",
+        "tide",
+        "boardsport",
+        "surface water sports",
+        "surfing",
+        "beach",
+        "people",
+        "surf"
+    ]
+}

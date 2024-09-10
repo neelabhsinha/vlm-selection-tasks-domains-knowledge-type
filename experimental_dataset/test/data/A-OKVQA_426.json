@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 426,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_426.png",
+    "question": "What will the boy do if he hits?",
+    "label": "['run', 'run', 'run', 'run', 'run', 'take run', 'take run', 'run', 'run', 'run']",
+    "choices": [
+        "leave",
+        "run",
+        "apologize",
+        "stop"
+    ],
+    "correct_choice": "run"
+}

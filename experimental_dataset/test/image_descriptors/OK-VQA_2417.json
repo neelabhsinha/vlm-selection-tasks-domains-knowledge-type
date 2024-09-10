@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2417,
+    "caption": "a tray of food on a couch with a cat on it",
+    "object_tags": [
+        "indoor",
+        "food",
+        "meal",
+        "tableware",
+        "furniture",
+        "platter",
+        "brunch",
+        "snack",
+        "plate",
+        "window",
+        "fast food",
+        "lunch",
+        "couch",
+        "floor",
+        "table",
+        "dining",
+        "breakfast"
+    ]
+}

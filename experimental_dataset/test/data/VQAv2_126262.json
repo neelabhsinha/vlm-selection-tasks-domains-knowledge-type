@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 126262,
+    "image_path": "./experimental_dataset/test/images/VQAv2_126262.png",
+    "question": "What type of currency is listed on the signs?",
+    "label": [
+        "pounds",
+        "british pound",
+        "english",
+        "franc",
+        "can't tell",
+        "pounds",
+        "pound",
+        "euro",
+        "pounds",
+        "pound"
+    ]
+}

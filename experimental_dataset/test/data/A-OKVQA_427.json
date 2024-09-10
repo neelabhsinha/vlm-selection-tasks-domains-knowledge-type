@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 427,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_427.png",
+    "question": "What is the second shelf in the fridge used for?",
+    "label": "['beer', 'drinks', 'drinks', 'meats water', 'drinks storage', 'liquids', 'drinks', 'bottles', 'beverages', 'drinks']",
+    "choices": [
+        "condiments",
+        "drinks",
+        "produce",
+        "eggs"
+    ],
+    "correct_choice": "drinks"
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1135,
+    "caption": "a man riding a bicycle on a city street",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "road",
+        "land vehicle",
+        "vehicle",
+        "person",
+        "street",
+        "bicycle wheel",
+        "building",
+        "clothing",
+        "cycling",
+        "lane",
+        "sidewalk",
+        "riding",
+        "bicycle",
+        "bike",
+        "city",
+        "people"
+    ]
+}

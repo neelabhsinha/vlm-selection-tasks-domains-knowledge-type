@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 201,
+    "caption": "a small boat on a body of water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "watercraft",
+        "vehicle",
+        "boating",
+        "lake",
+        "boat",
+        "windmill",
+        "sea",
+        "beach",
+        "ocean"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 259,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_259.png",
+    "question": "Where in the world do these types of animals live?",
+    "label": [
+        "north america",
+        "north america",
+        "north america",
+        "north america",
+        "north america",
+        "north america",
+        "south dakota",
+        "south dakota",
+        "unit state",
+        "unit state"
+    ]
+}

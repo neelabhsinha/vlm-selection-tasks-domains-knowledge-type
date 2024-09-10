@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1051,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1051.png",
+    "question": "What is the name of the company?",
+    "label": [
+        "Godfrey Phillips India Limited"
+    ]
+}

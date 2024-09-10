@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1062,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1062.png",
+    "question": "Say, Yes or No ,  Green bar is above red bar in all the category (x-axis)?",
+    "label": [
+        "Yes"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3409,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3409.png",
+    "question": "What type of plane is this?",
+    "label": [
+        "jet",
+        "jet",
+        "jet",
+        "jet",
+        "supermarine spitfire",
+        "supermarine spitfire",
+        "commercial",
+        "commercial",
+        "military ac 130",
+        "military ac 130"
+    ]
+}

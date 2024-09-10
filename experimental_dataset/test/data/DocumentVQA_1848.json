@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1848,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1848.png",
+    "question": "What type of message is the document?",
+    "label": [
+        "Fax Message",
+        "Fax"
+    ]
+}

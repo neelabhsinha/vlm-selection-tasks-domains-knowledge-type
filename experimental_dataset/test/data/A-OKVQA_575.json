@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 575,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_575.png",
+    "question": "Which of these animals heads is closest to the ground?",
+    "label": "['far right', 'front one', 'front two', 'bottom-right', 'front right', 'right', 'front right', 'closest', 'lowest one', 'left']",
+    "choices": [
+        "upper-left",
+        "upper-right",
+        "bottom-right",
+        "bottom-left"
+    ],
+    "correct_choice": "bottom-right"
+}

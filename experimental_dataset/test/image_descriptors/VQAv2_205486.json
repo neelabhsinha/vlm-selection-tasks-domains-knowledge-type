@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 205486,
+    "caption": "a tv sitting on top of a wooden desk",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "desk",
+        "output device",
+        "computer monitor",
+        "computer",
+        "flat panel display",
+        "display device",
+        "television set",
+        "entertainment center",
+        "monitor",
+        "electronic device",
+        "cabinetry",
+        "television",
+        "sitting",
+        "floor",
+        "wooden",
+        "screen",
+        "table"
+    ]
+}

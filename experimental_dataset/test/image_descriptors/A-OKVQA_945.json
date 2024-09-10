@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 945,
+    "caption": "a woman standing next to a man in front of a cake",
+    "object_tags": [
+        "person",
+        "clothing",
+        "candle",
+        "indoor",
+        "human face",
+        "birthday cake",
+        "wall",
+        "wax",
+        "candle holder",
+        "woman",
+        "candelabrum",
+        "standing"
+    ]
+}

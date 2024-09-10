@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 67585,
+    "caption": "a traffic light with a green light above it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "light",
+        "traffic light",
+        "signaling device",
+        "traffic",
+        "traffic sign",
+        "street",
+        "sign",
+        "green",
+        "signal",
+        "stop"
+    ]
+}

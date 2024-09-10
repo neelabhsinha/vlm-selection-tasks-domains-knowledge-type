@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 297,
+    "image_path": "./experimental_dataset/test/images/ChartQA_297.png",
+    "question": "What is the average of Hungary and Asia?",
+    "label": [
+        "4.19"
+    ]
+}

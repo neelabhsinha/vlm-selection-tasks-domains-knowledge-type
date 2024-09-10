@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 2,
+    "caption": "giraffes standing next to a tree",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "wildlife",
+        "grass",
+        "terrestrial animal",
+        "tree",
+        "water",
+        "giraffidae",
+        "lake",
+        "plant",
+        "ground",
+        "zoo",
+        "safari",
+        "standing",
+        "pond",
+        "giraffe",
+        "hole",
+        "river"
+    ]
+}

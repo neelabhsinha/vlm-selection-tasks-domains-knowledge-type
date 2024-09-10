@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 565,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Movies",
+        "Sports"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Literary Knowledge"
+    ]
+}

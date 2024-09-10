@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2260,
+    "caption": "a bird sitting on top of a pot on a table",
+    "object_tags": [
+        "bowl",
+        "tableware",
+        "outdoor",
+        "kettle",
+        "mixing bowl",
+        "mug",
+        "bucket",
+        "kitchen appliance",
+        "kitchenware",
+        "sitting",
+        "ground",
+        "table",
+        "cup",
+        "food",
+        "person",
+        "container",
+        "coffee",
+        "pot"
+    ]
+}

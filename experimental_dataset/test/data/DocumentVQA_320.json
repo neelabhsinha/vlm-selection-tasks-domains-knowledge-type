@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 320,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_320.png",
+    "question": "What is the 'stage' of the Article - Paper PS(3)?",
+    "label": [
+        "Phase III"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 69026,
+    "caption": "two children standing next to a train on a track",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "tree",
+        "steam engine",
+        "vehicle",
+        "locomotive",
+        "land vehicle",
+        "railroad",
+        "transport",
+        "grass",
+        "track",
+        "people",
+        "engine",
+        "train",
+        "child",
+        "ground",
+        "steam"
+    ]
+}

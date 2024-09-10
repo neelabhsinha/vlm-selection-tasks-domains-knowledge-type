@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 166,
+    "caption": "a double decker bus parked in front of a building",
+    "object_tags": [
+        "vehicle",
+        "land vehicle",
+        "outdoor",
+        "transport",
+        "wheel",
+        "road",
+        "mode of transport",
+        "building",
+        "car",
+        "sky",
+        "vehicle registration plate",
+        "tour bus service",
+        "street",
+        "parked",
+        "bus",
+        "city",
+        "driving",
+        "stopped"
+    ]
+}

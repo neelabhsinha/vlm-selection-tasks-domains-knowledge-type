@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4312,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4312.png",
+    "question": "How many engines does this plane have?",
+    "label": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2"
+    ]
+}

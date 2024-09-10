@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3540,
+    "caption": "a man in a suit and tie holding an umbrella",
+    "object_tags": [
+        "person",
+        "human face",
+        "fashion accessory",
+        "clothing",
+        "man",
+        "necktie",
+        "chin",
+        "forehead",
+        "accessory",
+        "wearing",
+        "umbrella",
+        "shirt"
+    ]
+}

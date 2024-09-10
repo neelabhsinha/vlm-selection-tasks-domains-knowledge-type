@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 31217,
+    "image_path": "./experimental_dataset/test/images/VQAv2_31217.png",
+    "question": "What is the culinary term for how the garnish is cut?",
+    "label": [
+        "minced",
+        "diced",
+        "cut",
+        "diced",
+        "sliced",
+        "diced",
+        "minced",
+        "french fries",
+        "mandolin",
+        "julian"
+    ]
+}

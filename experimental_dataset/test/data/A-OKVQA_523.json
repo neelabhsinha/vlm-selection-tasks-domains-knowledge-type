@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 523,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_523.png",
+    "question": "What does the silver container do to these vegetables?",
+    "label": "['heat', 'keep warm', 'blend', 'keep warm', 'keep warm', 'heat', 'chops', 'juice', 'keep warm', 'soup']",
+    "choices": [
+        "freeze",
+        "liquify",
+        "heat",
+        "cool"
+    ],
+    "correct_choice": "heat"
+}

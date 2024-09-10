@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 208,
+    "caption": "a person on a skateboard in the middle of a street",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "footwear",
+        "road",
+        "person",
+        "street light",
+        "street",
+        "clothing",
+        "house",
+        "light",
+        "riding",
+        "city",
+        "night"
+    ]
+}

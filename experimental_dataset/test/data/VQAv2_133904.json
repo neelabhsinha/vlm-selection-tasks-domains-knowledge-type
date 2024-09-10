@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 133904,
+    "image_path": "./experimental_dataset/test/images/VQAv2_133904.png",
+    "question": "How many chairs are there?",
+    "label": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

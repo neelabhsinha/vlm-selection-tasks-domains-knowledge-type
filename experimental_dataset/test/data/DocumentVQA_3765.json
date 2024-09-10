@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3765,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3765.png",
+    "question": "Who is the Director of \u2018ITC Limited\u2019?",
+    "label": [
+        "K. VAIDYANATH",
+        "K VAIDYANATH"
+    ]
+}

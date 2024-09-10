@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2327,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2327.png",
+    "question": "How much revenue did Eastman Chemical Company generate in the Asia Pacific region in 2020?",
+    "label": [
+        "2111"
+    ]
+}

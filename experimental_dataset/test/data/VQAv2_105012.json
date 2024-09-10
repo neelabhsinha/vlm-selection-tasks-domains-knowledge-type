@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 105012,
+    "image_path": "./experimental_dataset/test/images/VQAv2_105012.png",
+    "question": "Is the plate paper or glass?",
+    "label": [
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass",
+        "glass"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 149,
+    "caption": "a man standing next to a pile of luggage",
+    "object_tags": [
+        "clothing",
+        "luggage and bags",
+        "outdoor",
+        "text",
+        "man",
+        "building",
+        "accessory",
+        "footwear",
+        "suitcase",
+        "jacket",
+        "person",
+        "street",
+        "sign",
+        "bag",
+        "standing",
+        "sidewalk"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 371,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_371.png",
+    "question": "What type of oil was used to garnish the dish?",
+    "label": [
+        "olive",
+        "olive",
+        "olive",
+        "olive",
+        "olive",
+        "olive",
+        "olive",
+        "olive",
+        "sesame",
+        "sesame"
+    ]
+}

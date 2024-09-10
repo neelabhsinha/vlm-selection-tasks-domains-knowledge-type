@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1450,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1450.png",
+    "question": "What was the CPI of meat as of August 2020?",
+    "label": [
+        "100.6"
+    ]
+}

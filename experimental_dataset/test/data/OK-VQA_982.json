@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 982,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_982.png",
+    "question": "What type of dish is in the picture?",
+    "label": [
+        "colander",
+        "colander",
+        "colander",
+        "colander",
+        "bowl",
+        "bowl",
+        "bowl",
+        "bowl",
+        "blue",
+        "blue"
+    ]
+}

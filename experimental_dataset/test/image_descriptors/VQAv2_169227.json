@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 169227,
+    "caption": "a kitchen with a refrigerator, stove, sink and cabinets",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "interior design",
+        "house",
+        "window",
+        "mechanical fan",
+        "sink",
+        "mirror",
+        "home appliance",
+        "den",
+        "room",
+        "home",
+        "ceiling",
+        "furniture",
+        "chair"
+    ]
+}

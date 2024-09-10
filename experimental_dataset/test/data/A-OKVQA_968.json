@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 968,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_968.png",
+    "question": "What are the woman's eyes doing?",
+    "label": "['staring', 'looking', 'staring', 'opened', 'staring', 'staring', 'staring', 'looking', 'closed', 'staring']",
+    "choices": [
+        "fluttering",
+        "staring",
+        "closing",
+        "opening"
+    ],
+    "correct_choice": "staring"
+}

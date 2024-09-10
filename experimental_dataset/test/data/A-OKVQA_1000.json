@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1000,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1000.png",
+    "question": "How many animal trunks are visible here?",
+    "label": "['two', 'two', 'two', 'three', 'two', 'two', 'two', 'four', 'two', 'three']",
+    "choices": [
+        "six",
+        "two",
+        "four",
+        "one"
+    ],
+    "correct_choice": "two"
+}

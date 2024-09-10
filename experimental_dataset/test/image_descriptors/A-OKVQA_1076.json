@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1076,
+    "caption": "a crowd of people standing on a grassy field",
+    "object_tags": [
+        "person",
+        "clothing",
+        "footwear",
+        "grass",
+        "man",
+        "indoor",
+        "people",
+        "woman",
+        "group",
+        "standing",
+        "game",
+        "tennis",
+        "player"
+    ]
+}

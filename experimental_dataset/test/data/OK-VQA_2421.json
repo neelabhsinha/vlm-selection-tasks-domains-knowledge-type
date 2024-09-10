@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2421,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2421.png",
+    "question": "How do they make the type of drink inside the glass cup?",
+    "label": [
+        "ferment grape",
+        "ferment grape",
+        "ferment grape",
+        "ferment grape",
+        "grape",
+        "grape",
+        "grape",
+        "grape",
+        "fermentation",
+        "fermentation"
+    ]
+}

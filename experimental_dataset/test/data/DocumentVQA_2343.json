@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2343,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2343.png",
+    "question": "What is the name of the country mentioned on top?",
+    "label": [
+        "Chile"
+    ]
+}

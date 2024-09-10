@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 238,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_238.png",
+    "question": "How many different devices can show a picture?",
+    "label": "['three', 'four', 'three', '3 devices', 'three', 'four', 'four', 'three', 'three', 'three']",
+    "choices": [
+        "three",
+        "one",
+        "four",
+        "two"
+    ],
+    "correct_choice": "four"
+}

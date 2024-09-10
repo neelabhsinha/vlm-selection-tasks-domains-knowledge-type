@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 679,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_679.png",
+    "question": "Which thing is closest to the photographer?",
+    "label": "['glass', 'elephant', 'elephant', 'elephant', 'elephant', 'wall', 'people', 'long-haired person', 'elephant moving', 'elephant']",
+    "choices": [
+        "long-haired person",
+        "left elephant",
+        "woman w/glasses",
+        "right elephant"
+    ],
+    "correct_choice": "long-haired person"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 140203,
+    "image_path": "./experimental_dataset/test/images/VQAv2_140203.png",
+    "question": "What purpose does the rug server?",
+    "label": [
+        "to dry feet",
+        "collect water",
+        "keeping floor dry",
+        "slip prevention",
+        "keeps floor dry after showering",
+        "dry feet",
+        "warm feet",
+        "step out of shower",
+        "for wet sweet",
+        "prevent floor from getting wet"
+    ]
+}

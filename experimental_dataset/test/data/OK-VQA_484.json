@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 484,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_484.png",
+    "question": "What kind of ties are the men wearing?",
+    "label": [
+        "bowties",
+        "bowties",
+        "bowties",
+        "bowties",
+        "bowties",
+        "bowties",
+        "bowties",
+        "bowties",
+        "bow tie",
+        "bow tie"
+    ]
+}

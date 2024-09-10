@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 158997,
+    "image_path": "./experimental_dataset/test/images/VQAv2_158997.png",
+    "question": "Is the water warm?",
+    "label": [
+        "no",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no",
+        "no"
+    ]
+}

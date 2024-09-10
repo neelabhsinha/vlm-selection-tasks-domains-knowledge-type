@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3583,
+    "caption": "a black cat wearing a black hat",
+    "object_tags": [
+        "small to medium-sized cats",
+        "whiskers",
+        "felidae",
+        "mammal",
+        "black cat",
+        "cat",
+        "animal",
+        "domestic cat",
+        "black",
+        "indoor"
+    ]
+}

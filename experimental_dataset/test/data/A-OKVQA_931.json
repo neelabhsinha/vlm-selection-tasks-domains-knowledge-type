@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 931,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_931.png",
+    "question": "The cat is doing what?",
+    "label": "['laying down', 'sleeping', 'laying down', 'laying', 'sleeping', 'resting', 'laying', 'laying', 'laying down', 'resting']",
+    "choices": [
+        "running",
+        "leaping",
+        "laying",
+        "foaming"
+    ],
+    "correct_choice": "laying"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 706,
+    "image_path": "./experimental_dataset/test/images/ChartQA_706.png",
+    "question": "How many immigrants are there in 1931?",
+    "label": [
+        "6.6"
+    ]
+}

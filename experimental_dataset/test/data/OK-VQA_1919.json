@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1919,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1919.png",
+    "question": "What make is the bus?",
+    "label": [
+        "volkswagen",
+        "volkswagen",
+        "volkswagen",
+        "volkswagen",
+        "4 wheels",
+        "4 wheels",
+        "ford",
+        "ford",
+        "southern national",
+        "southern national"
+    ]
+}

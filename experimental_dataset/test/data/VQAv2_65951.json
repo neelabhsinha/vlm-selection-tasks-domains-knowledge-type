@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 65951,
+    "image_path": "./experimental_dataset/test/images/VQAv2_65951.png",
+    "question": "What is behind the woman?",
+    "label": [
+        "rv",
+        "parking lot",
+        "parking lot",
+        "parking lot",
+        "parking lot",
+        "cars",
+        "parking lot",
+        "bench",
+        "bench",
+        "bench"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2122,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2122.png",
+    "question": "Which country accounted for 8 percent of global organic retail sales in 2019?",
+    "label": [
+        "China"
+    ]
+}

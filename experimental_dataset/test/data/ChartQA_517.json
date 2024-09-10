@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 517,
+    "image_path": "./experimental_dataset/test/images/ChartQA_517.png",
+    "question": "Which country represent the median value?",
+    "label": [
+        "Ireland"
+    ]
+}

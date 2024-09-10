@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 935,
+    "caption": "a man sitting on a motorcycle with two other men",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "black and white",
+        "vehicle",
+        "tire",
+        "street",
+        "wheel",
+        "land vehicle",
+        "motorcycle",
+        "ground",
+        "man",
+        "monochrome",
+        "people",
+        "motorbike"
+    ]
+}

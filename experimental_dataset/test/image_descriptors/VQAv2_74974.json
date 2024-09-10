@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 74974,
+    "caption": "giraffes that are standing in the grass",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "tree",
+        "giraffe",
+        "outdoor",
+        "wildlife",
+        "terrestrial animal",
+        "giraffidae",
+        "plant",
+        "safari",
+        "zoo",
+        "standing"
+    ]
+}

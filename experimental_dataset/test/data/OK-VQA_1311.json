@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1311,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1311.png",
+    "question": "What is this train hauling?",
+    "label": [
+        "cargo",
+        "cargo",
+        "cargo",
+        "cargo",
+        "cargo",
+        "cargo",
+        "coal",
+        "coal",
+        "people",
+        "people"
+    ]
+}

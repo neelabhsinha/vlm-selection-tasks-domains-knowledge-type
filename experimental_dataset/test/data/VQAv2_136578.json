@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 136578,
+    "image_path": "./experimental_dataset/test/images/VQAv2_136578.png",
+    "question": "How many windows are fully ajar?",
+    "label": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "1",
+        "2",
+        "1",
+        "4",
+        "2",
+        "2"
+    ]
+}

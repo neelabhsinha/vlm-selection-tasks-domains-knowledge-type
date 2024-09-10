@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4935,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4935.png",
+    "question": "Which patient has the highest Nitrogen g/24hr??",
+    "label": [
+        "5"
+    ]
+}

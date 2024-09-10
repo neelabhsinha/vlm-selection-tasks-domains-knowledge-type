@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 897,
+    "image_path": "./experimental_dataset/test/images/ChartQA_897.png",
+    "question": "What is the combined percentage of  Lowest ROI and Medium ROI in SEO?",
+    "label": [
+        "56"
+    ]
+}

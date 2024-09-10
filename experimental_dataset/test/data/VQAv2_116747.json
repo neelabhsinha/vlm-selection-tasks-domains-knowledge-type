@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 116747,
+    "image_path": "./experimental_dataset/test/images/VQAv2_116747.png",
+    "question": "What is the dog wearing as a safety measure?",
+    "label": [
+        "life vest",
+        "life vest",
+        "life vest",
+        "yes",
+        "life jacket",
+        "life jacket",
+        "life vest",
+        "yes",
+        "life jacket",
+        "life jacket"
+    ]
+}

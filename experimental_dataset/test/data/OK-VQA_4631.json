@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4631,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4631.png",
+    "question": "What country is this activity most popular in?",
+    "label": [
+        "netherlands",
+        "netherlands",
+        "netherlands",
+        "netherlands",
+        "sweden",
+        "sweden",
+        "france",
+        "france",
+        "usa",
+        "usa"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3474,
+    "caption": "a young girl eating a piece of food",
+    "object_tags": [
+        "person",
+        "human face",
+        "food",
+        "biting",
+        "fast food",
+        "eating",
+        "bite",
+        "indoor",
+        "mouth",
+        "boy"
+    ]
+}

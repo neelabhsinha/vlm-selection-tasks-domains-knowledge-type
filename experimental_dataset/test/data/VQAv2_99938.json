@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 99938,
+    "image_path": "./experimental_dataset/test/images/VQAv2_99938.png",
+    "question": "Is this sandwich on bread?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

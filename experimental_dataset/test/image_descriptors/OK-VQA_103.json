@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 103,
+    "caption": "a white refrigerator sitting on the side of a street",
+    "object_tags": [
+        "black and white",
+        "handwriting",
+        "wall",
+        "street",
+        "ground",
+        "concrete",
+        "outdoor",
+        "graffiti",
+        "white",
+        "monochrome"
+    ]
+}

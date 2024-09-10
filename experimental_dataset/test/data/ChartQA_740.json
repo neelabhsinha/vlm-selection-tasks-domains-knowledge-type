@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 740,
+    "image_path": "./experimental_dataset/test/images/ChartQA_740.png",
+    "question": "What state has the 3rd most physicians in 2021?",
+    "label": [
+        "Texas"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 27822,
+    "caption": "a young man riding a skateboard down a sidewalk",
+    "object_tags": [
+        "cloud",
+        "footwear",
+        "outdoor",
+        "clothing",
+        "sky",
+        "person",
+        "building",
+        "road",
+        "ground",
+        "street",
+        "city"
+    ]
+}

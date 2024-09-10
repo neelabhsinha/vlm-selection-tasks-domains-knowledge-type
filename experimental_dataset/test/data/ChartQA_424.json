@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 424,
+    "image_path": "./experimental_dataset/test/images/ChartQA_424.png",
+    "question": "Which country is represented by red color line?",
+    "label": [
+        "Togo"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2356,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2356.png",
+    "question": "What was the increase in Welsh GDP in 2019?",
+    "label": [
+        "77517"
+    ]
+}

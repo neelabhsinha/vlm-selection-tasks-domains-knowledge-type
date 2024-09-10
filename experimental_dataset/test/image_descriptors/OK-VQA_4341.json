@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4341,
+    "caption": "a man riding skis down a snow covered slope",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "sport",
+        "winter sport",
+        "ski",
+        "sports equipment",
+        "skier",
+        "ski pole",
+        "piste",
+        "ski resort",
+        "ski equipment",
+        "snowboarding",
+        "person",
+        "slope",
+        "footwear",
+        "winter",
+        "skiing",
+        "hill",
+        "mountain"
+    ]
+}

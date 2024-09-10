@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 34164,
+    "image_path": "./experimental_dataset/test/images/VQAv2_34164.png",
+    "question": "Are they at the beach?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

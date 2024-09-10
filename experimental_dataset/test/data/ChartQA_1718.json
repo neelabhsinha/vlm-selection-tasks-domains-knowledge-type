@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1718,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1718.png",
+    "question": "What was the number of breast cancer incidences in 2012?",
+    "label": [
+        "20444"
+    ]
+}

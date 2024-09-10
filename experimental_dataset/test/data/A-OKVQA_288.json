@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 288,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_288.png",
+    "question": "The glasses contain only this beverage type?",
+    "label": "['beer', 'beer', 'wine', 'beer', 'beer', 'beer', 'beer', 'wine glasses', 'beer', 'beer']",
+    "choices": [
+        "juice",
+        "beer",
+        "water",
+        "bourbon"
+    ],
+    "correct_choice": "beer"
+}

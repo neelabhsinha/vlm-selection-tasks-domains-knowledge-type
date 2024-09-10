@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 617,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_617.png",
+    "question": "What is causing white bubbles on the water toward the shore?",
+    "label": "['churning water', 'organic matter', 'sea foam', 'waves', 'foam', 'waves', 'sea foam', 'algae decay', 'sea foam', 'waves']",
+    "choices": [
+        "churning butter",
+        "churning stomachs",
+        "churning chum",
+        "churning water"
+    ],
+    "correct_choice": "churning water"
+}

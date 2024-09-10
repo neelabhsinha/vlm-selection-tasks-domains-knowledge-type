@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 928,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_928.png",
+    "question": "What do you call the number of people sitting on the bench?",
+    "label": "['women', 'three', 'trio', 'three', 'three', 'three', 'trio', 'few', 'trio/three', 'trio']",
+    "choices": [
+        "duo",
+        "trio",
+        "quintet",
+        "quartet"
+    ],
+    "correct_choice": "trio"
+}

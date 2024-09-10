@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 143878,
+    "image_path": "./experimental_dataset/test/images/VQAv2_143878.png",
+    "question": "How many stripes are there on the wall?",
+    "label": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 90,
+    "caption": "a living room filled with furniture and a fire place",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "interior design",
+        "ceiling",
+        "den",
+        "floor",
+        "couch",
+        "living room",
+        "cabinetry",
+        "pillow",
+        "hearth",
+        "wood-burning stove",
+        "cupboard",
+        "television",
+        "house",
+        "building",
+        "fireplace",
+        "hotel",
+        "room",
+        "furniture",
+        "home"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 210318,
+    "caption": "a city street filled with lots of parked cars",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "tree",
+        "grass",
+        "street light",
+        "tower block",
+        "building",
+        "city",
+        "street",
+        "light",
+        "downtown"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3169,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3169.png",
+    "question": "What is the amount budgeted for Publication?",
+    "label": [
+        "300.00"
+    ]
+}

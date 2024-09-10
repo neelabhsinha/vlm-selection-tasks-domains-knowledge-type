@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 924,
+    "caption": "a vase filled with flowers on top of a couch",
+    "object_tags": [
+        "couch",
+        "furniture",
+        "indoor",
+        "vase",
+        "studio couch",
+        "houseplant",
+        "coffee table",
+        "sofa bed",
+        "armrest",
+        "floor",
+        "flower",
+        "living room",
+        "flowerpot",
+        "loveseat",
+        "interior design",
+        "table",
+        "room",
+        "sofa"
+    ]
+}

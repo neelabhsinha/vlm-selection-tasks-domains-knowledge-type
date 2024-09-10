@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3589,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3589.png",
+    "question": "What is the number written at the bottom left end of the \u2018page\u2019?",
+    "label": [
+        "52138 5647"
+    ]
+}

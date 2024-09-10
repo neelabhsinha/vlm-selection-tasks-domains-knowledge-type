@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 738,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_738.png",
+    "question": "What is \"P3(7) FAST TRACK\" states about?",
+    "label": [
+        "meta-analysis of phase iii studies on bleeding pattern data",
+        "Meta-analysis of phase III studies on bleeding pattern data"
+    ]
+}

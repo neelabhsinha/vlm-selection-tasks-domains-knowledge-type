@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 704,
+    "image_path": "./experimental_dataset/test/images/ChartQA_704.png",
+    "question": "What does red indicate?",
+    "label": [
+        "I do not know"
+    ]
+}

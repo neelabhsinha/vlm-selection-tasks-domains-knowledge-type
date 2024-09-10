@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1246,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1246.png",
+    "question": "Which catogory has the highest value in C1?",
+    "label": [
+        "2-10 times a day"
+    ]
+}

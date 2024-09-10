@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 51493,
+    "caption": "a bird perched on top of a red bird feeder",
+    "object_tags": [
+        "bird",
+        "animal",
+        "bird feeder",
+        "bird food",
+        "outdoor",
+        "perched",
+        "red"
+    ]
+}

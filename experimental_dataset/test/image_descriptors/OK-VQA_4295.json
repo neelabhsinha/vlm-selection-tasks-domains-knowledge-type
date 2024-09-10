@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4295,
+    "caption": "a woman holding a frisbee in front of her face",
+    "object_tags": [
+        "human face",
+        "person",
+        "clothing",
+        "wall",
+        "holding",
+        "frisbee",
+        "indoor"
+    ]
+}

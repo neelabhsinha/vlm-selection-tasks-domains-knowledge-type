@@ -1,0 +1,16 @@
+{
+    "dataset": "ChartQA",
+    "key": 1703,
+    "caption": "a computer screen with a picture of a penguin on it",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "display",
+        "parallel",
+        "number",
+        "diagram",
+        "line",
+        "software",
+        "rectangle"
+    ]
+}

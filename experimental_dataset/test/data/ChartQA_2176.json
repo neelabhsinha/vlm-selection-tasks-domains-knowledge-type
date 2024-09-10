@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2176,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2176.png",
+    "question": "What was the value of the commercial property market in the UK in 2016?",
+    "label": [
+        "883"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 166110,
+    "image_path": "./experimental_dataset/test/images/VQAv2_166110.png",
+    "question": "If you buy one item on the right, how many will you get?",
+    "label": [
+        "1",
+        "100",
+        "many pieces",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "don't know",
+        "1"
+    ]
+}

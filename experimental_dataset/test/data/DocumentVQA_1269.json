@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1269,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1269.png",
+    "question": "What is to be done Incase of a high priority risk?",
+    "label": [
+        "Risk Evaluation",
+        "Risk evaluation"
+    ]
+}

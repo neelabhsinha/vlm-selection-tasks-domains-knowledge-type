@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 111203,
+    "image_path": "./experimental_dataset/test/images/VQAv2_111203.png",
+    "question": "Is there heavy cloud cover?",
+    "label": [
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 139,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_139.png",
+    "question": "Which vehicle is closest to the rectangular blue sign?",
+    "label": "['bus', 'bus', 'bus', 'bus', 'bus', 'bus', 'bus', 'bus', 'red bus', 'bus']",
+    "choices": [
+        "blue car",
+        "red bus",
+        "motorcycle",
+        "light car"
+    ],
+    "correct_choice": "red bus"
+}

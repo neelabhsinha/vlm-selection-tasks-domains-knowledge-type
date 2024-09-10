@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2209,
+    "caption": "two people standing next to a car in the woods",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "tree",
+        "tire",
+        "wheel",
+        "grass",
+        "person",
+        "plant",
+        "auto part",
+        "transport",
+        "bumper",
+        "hood",
+        "ford",
+        "parked",
+        "woman",
+        "car"
+    ]
+}

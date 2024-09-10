@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1016,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1016.png",
+    "question": "In what environment is the meal taking place?",
+    "label": "['outdoor', 'outside', 'home garden', 'back yard', 'backyard', 'outside', 'outdoors', 'outdoors', 'outdoor picnic', 'outside']",
+    "choices": [
+        "formal",
+        "city",
+        "outdoors",
+        "nightclub"
+    ],
+    "correct_choice": "outdoors"
+}

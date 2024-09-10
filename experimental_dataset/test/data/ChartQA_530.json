@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 530,
+    "image_path": "./experimental_dataset/test/images/ChartQA_530.png",
+    "question": "Which color is used to represent New Zealand?",
+    "label": [
+        "Blue"
+    ]
+}

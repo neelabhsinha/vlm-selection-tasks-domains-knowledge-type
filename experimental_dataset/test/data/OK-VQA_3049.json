@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3049,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3049.png",
+    "question": "Who infamously attempted to blow this building up?",
+    "label": [
+        "isis",
+        "isis",
+        "isis",
+        "isis",
+        "i don't remember",
+        "i don't remember",
+        "terrorist",
+        "terrorist",
+        "hitler",
+        "hitler"
+    ]
+}

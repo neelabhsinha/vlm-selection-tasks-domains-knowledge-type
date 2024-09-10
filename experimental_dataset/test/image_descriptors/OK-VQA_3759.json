@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3759,
+    "caption": "a man in a hat and a hat on a boat",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "sun hat",
+        "cowboy hat",
+        "water",
+        "fedora",
+        "black and white",
+        "lake",
+        "fashion accessory",
+        "hat",
+        "boat",
+        "ship",
+        "man",
+        "monochrome",
+        "river",
+        "wearing",
+        "street"
+    ]
+}

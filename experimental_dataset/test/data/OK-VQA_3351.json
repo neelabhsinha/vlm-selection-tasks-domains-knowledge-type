@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3351,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3351.png",
+    "question": "What is the name of the red and white checkered pattern draped across the woman's body?",
+    "label": [
+        "checkered",
+        "checkered",
+        "checkered",
+        "checkered",
+        "checkered",
+        "checkered",
+        "plaid",
+        "plaid",
+        "blanket",
+        "blanket"
+    ]
+}

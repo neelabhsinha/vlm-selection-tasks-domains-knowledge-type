@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3746,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3746.png",
+    "question": "Which appliance in this room is used to keep things cold?",
+    "label": [
+        "refrigerator",
+        "refrigerator",
+        "refrigerator",
+        "refrigerator",
+        "fridge",
+        "fridge",
+        "fridge",
+        "fridge",
+        "refridgerator",
+        "refridgerator"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2378,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2378.png",
+    "question": "What is the number of operations done on patients diagnosed with idiopathic necrosis ?",
+    "label": [
+        "33"
+    ]
+}

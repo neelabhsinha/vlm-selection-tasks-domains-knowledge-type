@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 231,
+    "caption": "a man holding an apple in his right hand",
+    "object_tags": [
+        "person",
+        "human face",
+        "indoor",
+        "fruit",
+        "man",
+        "ball",
+        "clothing",
+        "wall",
+        "apple"
+    ]
+}

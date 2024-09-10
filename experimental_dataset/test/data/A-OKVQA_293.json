@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 293,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_293.png",
+    "question": "How many buses are shown in the streets?",
+    "label": "['two', 'two', 'two', 'two', 'three', 'two', 'two', 'three', 'three', 'three']",
+    "choices": [
+        "two",
+        "one",
+        "three",
+        "four"
+    ],
+    "correct_choice": "three"
+}

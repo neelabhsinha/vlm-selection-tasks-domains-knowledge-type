@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4218,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4218.png",
+    "question": "What is the number of pages in the fax including cover page?",
+    "label": [
+        "2"
+    ]
+}

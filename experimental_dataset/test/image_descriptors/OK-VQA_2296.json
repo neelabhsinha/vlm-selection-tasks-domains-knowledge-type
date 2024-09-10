@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2296,
+    "caption": "a bedroom with a bed and a bookcase",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "interior design",
+        "curtain",
+        "bedroom",
+        "red",
+        "room"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 94954,
+    "image_path": "./experimental_dataset/test/images/VQAv2_94954.png",
+    "question": "How many donuts have M&M's on them?",
+    "label": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

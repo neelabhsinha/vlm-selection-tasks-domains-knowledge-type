@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4477,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4477.png",
+    "question": "What is the Company Name ?",
+    "label": [
+        "RJReynolds Tobacco Company"
+    ]
+}

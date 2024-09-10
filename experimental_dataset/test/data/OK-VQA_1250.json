@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1250,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1250.png",
+    "question": "What kind of monitor is shown?",
+    "label": [
+        "crt",
+        "crt",
+        "crt",
+        "crt",
+        "computer",
+        "computer",
+        "television",
+        "television",
+        "tv",
+        "tv"
+    ]
+}

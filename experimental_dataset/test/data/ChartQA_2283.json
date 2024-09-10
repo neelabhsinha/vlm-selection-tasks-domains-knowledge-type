@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2283,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2283.png",
+    "question": "What was the crude birth rate in Sudan in 2018?",
+    "label": [
+        "32.18"
+    ]
+}

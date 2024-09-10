@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4730,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4730.png",
+    "question": "How is the tobacco plant affiliated with this picture?",
+    "label": [
+        "pipe",
+        "pipe",
+        "pipe",
+        "pipe",
+        "smoke pipe",
+        "smoke pipe",
+        "there is tabaco pipe",
+        "there is tabaco pipe",
+        "redman",
+        "redman"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2855,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Formal logic",
+        "Science"
+    ],
+    "knowledge_type": [
+        "Mathematical Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

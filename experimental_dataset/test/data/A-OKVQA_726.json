@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 726,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_726.png",
+    "question": "What is the cat looking at on the laptop screen?",
+    "label": "['screensaver', 'mesmerized', 'screensaver', 'graphics', 'screensaver', 'screen saver', 'screensaver', 'lazer', 'lights', 'screen saver']",
+    "choices": [
+        "person",
+        "dog",
+        "screensaver",
+        "movie"
+    ],
+    "correct_choice": "screensaver"
+}

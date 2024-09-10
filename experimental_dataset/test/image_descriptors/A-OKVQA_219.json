@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 219,
+    "caption": "a man walking down the street with a bag of luggage",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "footwear",
+        "ceiling",
+        "airport",
+        "people",
+        "standing",
+        "floor",
+        "indoor",
+        "ground"
+    ]
+}

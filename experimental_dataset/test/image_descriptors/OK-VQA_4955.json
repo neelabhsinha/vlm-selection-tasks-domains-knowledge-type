@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4955,
+    "caption": "a yellow school bus driving down a street",
+    "object_tags": [
+        "bus",
+        "outdoor",
+        "transport",
+        "vehicle",
+        "land vehicle",
+        "wheel",
+        "road",
+        "tree",
+        "school bus",
+        "yellow",
+        "mode of transport",
+        "school",
+        "street"
+    ]
+}

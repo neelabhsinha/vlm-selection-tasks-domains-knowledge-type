@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3785,
+    "caption": "a breakfast of pancakes, eggs, fruit, and coffee",
+    "object_tags": [
+        "table",
+        "drink",
+        "tableware",
+        "coffee cup",
+        "dishware",
+        "serveware",
+        "plate",
+        "platter",
+        "tea",
+        "food",
+        "mug",
+        "snack",
+        "meal",
+        "saucer",
+        "bottle",
+        "indoor",
+        "cup",
+        "coffee",
+        "breakfast"
+    ]
+}

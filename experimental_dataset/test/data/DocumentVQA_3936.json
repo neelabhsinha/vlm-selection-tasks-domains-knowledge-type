@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3936,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3936.png",
+    "question": "What is the CID#?",
+    "label": [
+        "0107-XX-XX"
+    ]
+}

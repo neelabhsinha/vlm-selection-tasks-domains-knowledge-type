@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 694,
+    "caption": "a man riding on the back of a brown horse",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "bridle",
+        "rein",
+        "horse",
+        "horse supplies",
+        "horse tack",
+        "riding",
+        "halter",
+        "mare",
+        "person",
+        "stallion",
+        "wrangler",
+        "livestock",
+        "clothing",
+        "ground",
+        "saddle",
+        "mane",
+        "equestrianism",
+        "pack animal",
+        "resort",
+        "cowboy",
+        "hat"
+    ]
+}

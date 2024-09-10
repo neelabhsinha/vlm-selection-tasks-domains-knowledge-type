@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 953,
+    "image_path": "./experimental_dataset/test/images/ChartQA_953.png",
+    "question": "What is the average of Documentary?",
+    "label": [
+        "50"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 486,
+    "caption": "a person holding a hot dog in a bun",
+    "object_tags": [
+        "fast food",
+        "person",
+        "snack",
+        "food",
+        "indoor",
+        "meal",
+        "bread",
+        "table",
+        "cup",
+        "eating",
+        "snack food",
+        "sandwich",
+        "red"
+    ]
+}

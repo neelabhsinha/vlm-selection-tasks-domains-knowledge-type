@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 138082,
+    "caption": "two girls standing next to each other holding a colorful kite",
+    "object_tags": [
+        "clothing",
+        "person",
+        "human face",
+        "wall",
+        "sleeve",
+        "jacket",
+        "smile",
+        "outerwear",
+        "fashion accessory",
+        "standing",
+        "woman",
+        "indoor",
+        "fashion"
+    ]
+}

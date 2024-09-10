@@ -1,0 +1,13 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 318,
+    "caption": "a black and white cat sitting under an open umbrella",
+    "object_tags": [
+        "accessory",
+        "umbrella",
+        "indoor",
+        "wall",
+        "furniture",
+        "ceiling"
+    ]
+}

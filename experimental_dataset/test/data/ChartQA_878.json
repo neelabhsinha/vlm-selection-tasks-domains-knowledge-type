@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 878,
+    "image_path": "./experimental_dataset/test/images/ChartQA_878.png",
+    "question": "In which year was the Market size in infrastructure the highest?",
+    "label": [
+        "2016"
+    ]
+}

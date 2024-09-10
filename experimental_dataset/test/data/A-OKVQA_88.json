@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 88,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_88.png",
+    "question": "What type of audience is the man likely speaking to?",
+    "label": "['coworkers', 'college students', 'designers', 'theater', 'office', 'art', 'women', 'business', 'meeting', 'stage']",
+    "choices": [
+        "protest",
+        "single person",
+        "political rally",
+        "meeting"
+    ],
+    "correct_choice": "meeting"
+}

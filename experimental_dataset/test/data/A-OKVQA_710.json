@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 710,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_710.png",
+    "question": "Which ingredient on the pizza is uncooked?",
+    "label": "['tomato', 'tomato', 'tomato', 'tomato', 'tomato', 'tomato', 'tomato', 'tomato', 'tomato', 'tomato']",
+    "choices": [
+        "tomato",
+        "cheese",
+        "spices",
+        "crust"
+    ],
+    "correct_choice": "tomato"
+}

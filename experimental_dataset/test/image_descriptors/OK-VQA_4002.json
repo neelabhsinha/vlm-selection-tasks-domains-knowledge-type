@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4002,
+    "caption": "a young boy holding a cell phone in front of a group of people",
+    "object_tags": [
+        "electronics",
+        "person",
+        "mobile phone",
+        "gadget",
+        "clothing",
+        "phone",
+        "electronic device",
+        "camera",
+        "outdoor",
+        "people",
+        "looking",
+        "cellphone"
+    ]
+}

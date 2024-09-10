@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 163,
+    "caption": "cows are standing in a field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "livestock",
+        "tree",
+        "sky",
+        "cow",
+        "dairy cow",
+        "bovine",
+        "pasture",
+        "herding",
+        "plant",
+        "grazing",
+        "ranch",
+        "rural area",
+        "farm",
+        "field",
+        "herd",
+        "mammal",
+        "standing",
+        "barn",
+        "animal",
+        "cattle"
+    ]
+}

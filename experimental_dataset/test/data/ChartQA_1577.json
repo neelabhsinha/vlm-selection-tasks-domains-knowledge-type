@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1577,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1577.png",
+    "question": "What percentage of gamers said fast performance was the most important aspect of a video game?",
+    "label": [
+        "34.6"
+    ]
+}

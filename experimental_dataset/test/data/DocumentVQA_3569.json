@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3569,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3569.png",
+    "question": "What is the name of the incumbent?",
+    "label": [
+        "WILLIAM J. DARBY",
+        "William J. Darby",
+        "WILLIAM J. DARBY, M.D."
+    ]
+}

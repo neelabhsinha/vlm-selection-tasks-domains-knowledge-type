@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4268,
+    "caption": "a crowd of people standing under an umbrella",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "umbrella",
+        "clothing",
+        "people",
+        "person",
+        "tent",
+        "footwear",
+        "group",
+        "sky",
+        "crowd",
+        "festival",
+        "standing",
+        "large"
+    ]
+}

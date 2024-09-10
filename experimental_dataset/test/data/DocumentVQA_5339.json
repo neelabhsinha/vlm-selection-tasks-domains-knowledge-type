@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5339,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5339.png",
+    "question": "On October 8 at what time do Dr. and Mrs. Mider arrive?",
+    "label": [
+        "10:15 a.m."
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4540,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4540.png",
+    "question": "Which schedule shows provisions?",
+    "label": [
+        "Schedule 11"
+    ]
+}

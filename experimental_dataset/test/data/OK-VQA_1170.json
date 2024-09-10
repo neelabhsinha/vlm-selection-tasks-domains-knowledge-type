@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1170,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1170.png",
+    "question": "What animal attacks persons doing this activity?",
+    "label": [
+        "shark",
+        "shark",
+        "shark",
+        "shark",
+        "shark",
+        "shark",
+        "shark",
+        "shark",
+        "shark",
+        "shark"
+    ]
+}

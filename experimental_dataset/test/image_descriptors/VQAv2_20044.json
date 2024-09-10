@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 20044,
+    "caption": "a cow drinking water from a pond",
+    "object_tags": [
+        "outdoor",
+        "black and white",
+        "grass",
+        "water",
+        "white",
+        "monochrome",
+        "dog",
+        "animal",
+        "field",
+        "mammal"
+    ]
+}

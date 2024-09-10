@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 185,
+    "caption": "a woman walking down the street with two suitcases",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "road",
+        "building",
+        "cloud",
+        "clothing",
+        "footwear",
+        "public space",
+        "luggage and bags",
+        "person",
+        "pedestrian",
+        "sidewalk",
+        "ground",
+        "street",
+        "people",
+        "Segway",
+        "city",
+        "woman",
+        "intersection"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 204553,
+    "image_path": "./experimental_dataset/test/images/VQAv2_204553.png",
+    "question": "What time of day was this picture taken?",
+    "label": [
+        "evening",
+        "night",
+        "dusk",
+        "twilight",
+        "sunset",
+        "evening",
+        "evening",
+        "evening",
+        "early evening or morning",
+        "night"
+    ]
+}

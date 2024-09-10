@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 20,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_20.png",
+    "question": "Why is the person wearing a white jacket?",
+    "label": "['chef uniform', 'chef', 'cooks uniform', 'chef', 'chef', 'chef', 'chef coat', 'chef', 'chef', 'food']",
+    "choices": [
+        "nurse",
+        "doctor",
+        "cold",
+        "chef"
+    ],
+    "correct_choice": "chef"
+}

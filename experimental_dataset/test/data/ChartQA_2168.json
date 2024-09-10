@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2168,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2168.png",
+    "question": "How many dollars did dog owners spend on pet food per year in 2020?",
+    "label": [
+        "442"
+    ]
+}

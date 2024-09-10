@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 522,
+    "caption": "a living room with a large window and a computer monitor",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "text",
+        "cabinetry",
+        "house",
+        "interior design",
+        "floor",
+        "computer",
+        "room",
+        "computer monitor",
+        "desk",
+        "television",
+        "table",
+        "shelf",
+        "home",
+        "screen",
+        "ceiling",
+        "christmas"
+    ]
+}

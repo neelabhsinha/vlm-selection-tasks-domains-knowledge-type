@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 560,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_560.png",
+    "question": "Which Program has a Budget of $5,000?",
+    "label": [
+        "slide development",
+        "Slide Development"
+    ]
+}

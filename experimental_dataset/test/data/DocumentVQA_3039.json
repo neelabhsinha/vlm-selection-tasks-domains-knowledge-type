@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3039,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3039.png",
+    "question": "How many men have responded?",
+    "label": [
+        "249"
+    ]
+}

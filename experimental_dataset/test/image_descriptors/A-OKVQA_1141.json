@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1141,
+    "caption": "a red and white train traveling down train tracks",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "track",
+        "railroad",
+        "train",
+        "vehicle",
+        "railway",
+        "land vehicle",
+        "rolling stock",
+        "railroad car",
+        "tree",
+        "locomotive",
+        "rolling",
+        "grass",
+        "red",
+        "traveling",
+        "ground",
+        "rail"
+    ]
+}

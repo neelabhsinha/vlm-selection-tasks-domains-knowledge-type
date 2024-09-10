@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 177,
+    "image_path": "./experimental_dataset/test/images/ChartQA_177.png",
+    "question": "Is the average of all the data value greater than 40?",
+    "label": [
+        "No"
+    ]
+}

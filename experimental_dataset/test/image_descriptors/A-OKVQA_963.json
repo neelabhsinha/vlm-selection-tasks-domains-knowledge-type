@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 963,
+    "caption": "a woman holding a skateboard next to a group of people",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "wheel",
+        "bicycle wheel",
+        "footwear",
+        "clothing",
+        "dog",
+        "land vehicle",
+        "vehicle",
+        "tire",
+        "road",
+        "ground",
+        "bicycle",
+        "bike",
+        "street",
+        "people",
+        "woman",
+        "standing"
+    ]
+}

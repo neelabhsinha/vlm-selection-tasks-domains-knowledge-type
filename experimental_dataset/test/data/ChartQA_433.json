@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 433,
+    "image_path": "./experimental_dataset/test/images/ChartQA_433.png",
+    "question": "Which year recorded the least number of deaths due to air pollution in Switzerland?",
+    "label": [
+        "2004"
+    ]
+}

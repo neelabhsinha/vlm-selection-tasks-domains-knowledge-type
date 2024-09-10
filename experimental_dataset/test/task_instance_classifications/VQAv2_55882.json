@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 55882,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Anthropology",
+        "History",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Cultural Knowledge",
+        "Social Knowledge"
+    ]
+}

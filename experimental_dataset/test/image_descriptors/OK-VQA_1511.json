@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1511,
+    "caption": "a man sitting at a table with a bowl of food",
+    "object_tags": [
+        "person",
+        "soft drink",
+        "drinking",
+        "human face",
+        "cup",
+        "coffee",
+        "indoor",
+        "drink"
+    ]
+}

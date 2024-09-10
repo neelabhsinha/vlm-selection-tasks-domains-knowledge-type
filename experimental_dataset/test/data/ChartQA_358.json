@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 358,
+    "image_path": "./experimental_dataset/test/images/ChartQA_358.png",
+    "question": "What does the grey line represent?",
+    "label": [
+        "North America"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 188625,
+    "caption": "a black and white cat sitting on top of a laptop",
+    "object_tags": [
+        "indoor",
+        "book",
+        "cat",
+        "small to medium-sized cats",
+        "felidae",
+        "mammal",
+        "bookcase",
+        "black",
+        "sitting",
+        "white",
+        "floor",
+        "shelf",
+        "animal"
+    ]
+}

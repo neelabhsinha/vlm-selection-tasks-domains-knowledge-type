@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 763,
+    "caption": "two men are playing frisbee in a field",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "tree",
+        "footwear",
+        "grass",
+        "sport",
+        "playing",
+        "man",
+        "team sport",
+        "fence",
+        "sports equipment",
+        "net",
+        "field",
+        "sport venue",
+        "ball game",
+        "lawn game",
+        "game",
+        "ground",
+        "frisbee",
+        "people",
+        "player"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2387,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2387.png",
+    "question": "How many calories does the orange fruit have?",
+    "label": [
+        "20",
+        "20",
+        "20",
+        "20",
+        "80",
+        "80",
+        "45",
+        "45",
+        "100",
+        "100"
+    ]
+}

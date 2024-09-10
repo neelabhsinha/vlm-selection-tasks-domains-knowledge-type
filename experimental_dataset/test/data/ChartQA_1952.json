@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1952,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1952.png",
+    "question": "How many Filipinos are expected to become users of social media by 2025?",
+    "label": [
+        "90.04"
+    ]
+}

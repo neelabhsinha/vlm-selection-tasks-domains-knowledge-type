@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 628,
+    "caption": "a collage of photos showing a computer screen",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "number",
+        "parallel",
+        "black and white",
+        "line",
+        "receipt"
+    ]
+}

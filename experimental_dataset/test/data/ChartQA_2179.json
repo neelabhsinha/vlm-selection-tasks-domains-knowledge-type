@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2179,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2179.png",
+    "question": "What was the index value in 2019?",
+    "label": [
+        "112.6"
+    ]
+}

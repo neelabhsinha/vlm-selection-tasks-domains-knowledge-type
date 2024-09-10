@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 378,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_378.png",
+    "question": "Why is the person's vest yellow?",
+    "label": "['visibility safety', 'visibility', 'visibility', 'visibility', 'visibility', 'visibility', 'visibility', 'visibility', 'safety visibility', 'visibility']",
+    "choices": [
+        "dress code",
+        "camouflage",
+        "visibility",
+        "fashion"
+    ],
+    "correct_choice": "visibility"
+}

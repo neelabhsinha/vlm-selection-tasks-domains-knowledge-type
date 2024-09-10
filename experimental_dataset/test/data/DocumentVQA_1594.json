@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1594,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1594.png",
+    "question": "What is the Telephone No. ?",
+    "label": [
+        "741-2483"
+    ]
+}

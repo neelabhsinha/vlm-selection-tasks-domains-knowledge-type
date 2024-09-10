@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1020,
+    "caption": "a large elephant standing next to a pool of water",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "ground",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "plant",
+        "terrestrial animal",
+        "tree",
+        "pool",
+        "rock",
+        "zoo",
+        "standing",
+        "enclosure"
+    ]
+}

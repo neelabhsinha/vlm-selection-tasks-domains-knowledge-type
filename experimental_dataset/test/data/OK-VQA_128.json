@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 128,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_128.png",
+    "question": "What new company has created competition for this type of transportation?",
+    "label": [
+        "uber",
+        "uber",
+        "uber",
+        "uber",
+        "uber",
+        "uber",
+        "uber",
+        "uber",
+        "uber",
+        "uber"
+    ]
+}

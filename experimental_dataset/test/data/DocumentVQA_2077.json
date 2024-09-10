@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2077,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2077.png",
+    "question": "What is the product arrival date mentioned in the document?",
+    "label": [
+        "7/15/98"
+    ]
+}

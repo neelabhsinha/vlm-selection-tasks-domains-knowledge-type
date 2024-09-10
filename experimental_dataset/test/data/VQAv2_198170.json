@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 198170,
+    "image_path": "./experimental_dataset/test/images/VQAv2_198170.png",
+    "question": "What animal is on the sidewalk?",
+    "label": [
+        "pigeon",
+        "pigeon",
+        "pigeon",
+        "pigeon",
+        "pigeon",
+        "bird",
+        "bird",
+        "pigeon",
+        "pigeon",
+        "pigeon"
+    ]
+}

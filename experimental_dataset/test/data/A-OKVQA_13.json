@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 13,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_13.png",
+    "question": "What item on the desk could help with a cold?",
+    "label": "['cough drops', 'tissue', 'ricola', 'cough drops', 'tissue box', 'ricola', 'cough drops', 'tissue', 'tissue', 'tissues']",
+    "choices": [
+        "cough drops",
+        "syringe",
+        "pills",
+        "herbal tea"
+    ],
+    "correct_choice": "cough drops"
+}

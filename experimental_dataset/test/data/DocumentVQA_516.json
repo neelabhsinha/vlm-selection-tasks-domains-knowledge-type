@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 516,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_516.png",
+    "question": "What type of Annexure is it?",
+    "label": [
+        "Annexure to the report of the directors"
+    ]
+}

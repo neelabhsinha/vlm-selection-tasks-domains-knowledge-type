@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3702,
+    "caption": "a cat sitting in front of a tv",
+    "object_tags": [
+        "animal",
+        "cat",
+        "indoor",
+        "television",
+        "small to medium-sized cats",
+        "felidae",
+        "monitor",
+        "display device",
+        "television set",
+        "screen"
+    ]
+}

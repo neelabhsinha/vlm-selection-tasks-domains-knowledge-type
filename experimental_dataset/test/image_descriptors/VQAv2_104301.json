@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 104301,
+    "caption": "a pizza sitting on top of a white plate",
+    "object_tags": [
+        "food",
+        "dish",
+        "fast food",
+        "drink",
+        "table",
+        "cuisine",
+        "meal",
+        "supper",
+        "pizza",
+        "person",
+        "indoor",
+        "beer",
+        "vegetable"
+    ]
+}

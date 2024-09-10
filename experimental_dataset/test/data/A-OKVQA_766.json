@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 766,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_766.png",
+    "question": "What meal is this?",
+    "label": "['breakfast', 'supper', 'dinner', 'rice', 'dinner', 'rice/fish', 'dinner', 'dinner', 'dinner', 'dinner']",
+    "choices": [
+        "snack",
+        "dinner",
+        "breakfast",
+        "brunch"
+    ],
+    "correct_choice": "dinner"
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3122,
+    "caption": "a train on a train track near a platform",
+    "object_tags": [
+        "railroad",
+        "transport",
+        "track",
+        "train",
+        "vehicle",
+        "railway",
+        "land vehicle",
+        "outdoor",
+        "building",
+        "rolling stock",
+        "locomotive",
+        "railroad car",
+        "train station",
+        "public transport",
+        "rolling",
+        "passenger car",
+        "transport hub",
+        "electric locomotive",
+        "rail",
+        "platform",
+        "yellow",
+        "ground",
+        "traveling",
+        "red"
+    ]
+}

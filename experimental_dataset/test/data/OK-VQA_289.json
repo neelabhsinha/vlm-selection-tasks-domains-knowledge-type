@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 289,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_289.png",
+    "question": "Who invented this item?",
+    "label": [
+        "john harington",
+        "john harington",
+        "john harington",
+        "john harington",
+        "john harington",
+        "john harington",
+        "harington",
+        "harington",
+        "man",
+        "man"
+    ]
+}

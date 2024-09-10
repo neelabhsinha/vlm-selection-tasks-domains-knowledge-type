@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 782,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_782.png",
+    "question": "The kind of lunch they are sitting down to is most likely what type?",
+    "label": "['breakfast', 'work', 'business', 'formal', 'lunch', 'restaurant', 'office lunch', 'business', 'brunch', 'brunch']",
+    "choices": [
+        "school",
+        "family",
+        "work",
+        "casual"
+    ],
+    "correct_choice": "work"
+}

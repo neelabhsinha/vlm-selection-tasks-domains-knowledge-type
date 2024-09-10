@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4942,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4942.png",
+    "question": "What gender are these bears?",
+    "label": [
+        "male",
+        "male",
+        "male",
+        "male",
+        "male",
+        "male",
+        "male",
+        "male",
+        "male",
+        "male"
+    ]
+}

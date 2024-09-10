@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1852,
+    "caption": "a dog that is standing in the dirt",
+    "object_tags": [
+        "outdoor",
+        "dog breed",
+        "animal",
+        "ground",
+        "mammal",
+        "dog collar",
+        "sporting group",
+        "dog",
+        "pet",
+        "leash",
+        "brown",
+        "mouth",
+        "beach"
+    ]
+}

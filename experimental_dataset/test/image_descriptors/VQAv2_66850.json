@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 66850,
+    "caption": "a red light on the corner of a street",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "road",
+        "sky",
+        "street light",
+        "street",
+        "tree",
+        "night",
+        "light",
+        "security lighting",
+        "clock",
+        "light fixture",
+        "house",
+        "lighting",
+        "town",
+        "city",
+        "ground",
+        "winter"
+    ]
+}

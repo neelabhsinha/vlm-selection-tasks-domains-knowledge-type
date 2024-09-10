@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 758,
+    "caption": "a man riding a skateboard on top of a cement block",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "person",
+        "jeans",
+        "building",
+        "man",
+        "trousers",
+        "ground",
+        "outdoor",
+        "performing",
+        "indoor",
+        "skateboard",
+        "street"
+    ]
+}

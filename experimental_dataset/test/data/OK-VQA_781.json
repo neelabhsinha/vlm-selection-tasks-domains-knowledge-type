@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 781,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_781.png",
+    "question": "What groups do persons who ride these vehicles usually belong to?",
+    "label": [
+        "gang",
+        "gang",
+        "gang",
+        "gang",
+        "club",
+        "club",
+        "hell angel",
+        "hell angel",
+        "club",
+        "club"
+    ]
+}

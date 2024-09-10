@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 21,
+    "caption": "a hand holding a piece of food in it's other hand",
+    "object_tags": [
+        "flesh",
+        "person",
+        "nail",
+        "finger",
+        "donut",
+        "indoor",
+        "hand"
+    ]
+}

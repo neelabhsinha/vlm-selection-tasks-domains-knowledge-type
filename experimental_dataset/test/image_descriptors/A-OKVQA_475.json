@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 475,
+    "caption": "a horse standing in a fenced in area next to a fence",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "mammal",
+        "horse",
+        "animal",
+        "fisheye",
+        "standing"
+    ]
+}

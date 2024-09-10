@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 353,
+    "caption": "a city street at night with a traffic light",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "street light",
+        "sky",
+        "street",
+        "building",
+        "light",
+        "way",
+        "night",
+        "infrastructure",
+        "electricity",
+        "thoroughfare",
+        "cloud",
+        "lane",
+        "city",
+        "road surface",
+        "vehicle",
+        "land vehicle",
+        "car",
+        "traffic",
+        "sunset",
+        "track",
+        "cityscape"
+    ]
+}

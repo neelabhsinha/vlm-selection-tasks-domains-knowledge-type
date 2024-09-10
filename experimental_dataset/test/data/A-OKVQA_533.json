@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 533,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_533.png",
+    "question": "What are the goldish/brown devices called?",
+    "label": "['fire hydrants', 'pipes', 'fire hydrants', 'standpipe', 'hydrants', 'hydrants', 'hydrant', 'hydrants', 'dry barrel', 'tanks']",
+    "choices": [
+        "parking meters",
+        "stop lights",
+        "fire hydrants",
+        "barriers"
+    ],
+    "correct_choice": "fire hydrants"
+}

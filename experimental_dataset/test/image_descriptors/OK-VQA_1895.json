@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1895,
+    "caption": "a white plate topped with pasta and broccoli",
+    "object_tags": [
+        "food",
+        "cuisine",
+        "staple food",
+        "italian food",
+        "pasta",
+        "indoor",
+        "vegetable",
+        "broccoli"
+    ]
+}

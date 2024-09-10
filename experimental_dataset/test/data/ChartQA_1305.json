@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1305,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1305.png",
+    "question": "What was Wyndham's American Customer Satisfaction Index score in 2016?",
+    "label": [
+        "70"
+    ]
+}

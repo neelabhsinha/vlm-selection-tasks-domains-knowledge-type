@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4569,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4569.png",
+    "question": "What is the 'real food for real people' that the members receive on traveling?",
+    "label": [
+        "STEAKS & BURGERS",
+        "Steaks & Burgers"
+    ]
+}

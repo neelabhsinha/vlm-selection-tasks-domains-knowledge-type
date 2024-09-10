@@ -1,0 +1,11 @@
+{
+    "dataset": "VQAv2",
+    "key": 207069,
+    "caption": "a cat sitting in front of a tv on a night stand",
+    "object_tags": [
+        "cat",
+        "indoor",
+        "light",
+        "animal"
+    ]
+}

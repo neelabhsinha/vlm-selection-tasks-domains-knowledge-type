@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 9931,
+    "image_path": "./experimental_dataset/test/images/VQAv2_9931.png",
+    "question": "What color is the cat's nose?",
+    "label": [
+        "pink",
+        "pink",
+        "brown",
+        "pink",
+        "pink",
+        "tan",
+        "orange",
+        "orange",
+        "brown",
+        "brown"
+    ]
+}

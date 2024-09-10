@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2390,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2390.png",
+    "question": "What was Mbapp's market value?",
+    "label": [
+        "120"
+    ]
+}

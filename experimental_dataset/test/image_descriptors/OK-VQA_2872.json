@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2872,
+    "caption": "a man flying a large bird on top of a rock",
+    "object_tags": [
+        "outdoor",
+        "bird",
+        "bird of prey",
+        "sky",
+        "falcon",
+        "hiking",
+        "clothing",
+        "person",
+        "grass",
+        "hawk",
+        "eagle",
+        "wildlife"
+    ]
+}

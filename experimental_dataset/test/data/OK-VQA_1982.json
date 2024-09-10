@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1982,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1982.png",
+    "question": "What copyrighted heatproof material is the measuring cup made from?",
+    "label": [
+        "pyrex",
+        "pyrex",
+        "pyrex",
+        "pyrex",
+        "pyrex",
+        "pyrex",
+        "pyrex",
+        "pyrex",
+        "glass",
+        "glass"
+    ]
+}

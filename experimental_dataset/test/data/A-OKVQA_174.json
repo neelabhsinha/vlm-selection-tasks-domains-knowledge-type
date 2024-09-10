@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 174,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_174.png",
+    "question": "What other animal is this animal traditionally an enemy of?",
+    "label": "['cat', 'cat', 'cats', 'cats', 'cats', 'cat', 'cat', 'cat', 'cat', 'cat']",
+    "choices": [
+        "tigers",
+        "cats",
+        "elephants",
+        "mice"
+    ],
+    "correct_choice": "cats"
+}

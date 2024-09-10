@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3492,
+    "caption": "a row of tables with umbrellas on them",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "cloud",
+        "tree",
+        "umbrella",
+        "building",
+        "marketplace",
+        "market",
+        "people",
+        "red",
+        "flower",
+        "plant"
+    ]
+}

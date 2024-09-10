@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 938,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_938.png",
+    "question": "Which food item has the most starch?",
+    "label": "['potatoes', 'potatoes', 'potatoes', 'potatoes', 'potato', 'potato', 'potato', 'potatoes', 'potato', 'potatoes']",
+    "choices": [
+        "potato",
+        "carrot",
+        "orange",
+        "steak"
+    ],
+    "correct_choice": "potato"
+}

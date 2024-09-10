@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 141,
+    "image_path": "./experimental_dataset/test/images/ChartQA_141.png",
+    "question": "For how many years have the ratings on US and EU stayed over 50?",
+    "label": [
+        "1"
+    ]
+}

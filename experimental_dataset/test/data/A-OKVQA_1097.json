@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1097,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1097.png",
+    "question": "Using the object the girl is carrying will require some of what element?",
+    "label": "['wind', 'kite', 'wind', 'wind', 'targeting', 'wind', 'wind', 'wind', 'wind', 'kite']",
+    "choices": [
+        "dirt",
+        "rain",
+        "wind",
+        "water"
+    ],
+    "correct_choice": "wind"
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5144,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5144.png",
+    "question": "Where is the American Can Company planning to start its new can production factory?",
+    "label": [
+        "BARRANQUILLA",
+        "Barranquilla"
+    ]
+}

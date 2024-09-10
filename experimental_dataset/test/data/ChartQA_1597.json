@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1597,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1597.png",
+    "question": "What was Glasgow Underground's highest number of journeys in 2007/08?",
+    "label": [
+        "14.5"
+    ]
+}

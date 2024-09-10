@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4956,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4956.png",
+    "question": "Who is number 2 among the list of nominees listed?",
+    "label": [
+        "W.H. Sebrell, Jr."
+    ]
+}

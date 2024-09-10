@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1767,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1767.png",
+    "question": "Name the type of instrument pictured here?",
+    "label": [
+        "scissor",
+        "scissor",
+        "scissor",
+        "scissor",
+        "forceps",
+        "forceps",
+        "scissor",
+        "scissor",
+        "sciccors",
+        "sciccors"
+    ]
+}

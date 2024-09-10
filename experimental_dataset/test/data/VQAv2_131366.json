@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 131366,
+    "image_path": "./experimental_dataset/test/images/VQAv2_131366.png",
+    "question": "Are the cows hungry?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "no"
+    ]
+}

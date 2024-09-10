@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3900,
+    "caption": "a man in a suit and tie sitting on a beach",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "human face",
+        "man",
+        "sky",
+        "sunglasses",
+        "beach",
+        "goggles",
+        "water",
+        "shirt",
+        "wearing"
+    ]
+}

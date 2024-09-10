@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1036,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1036.png",
+    "question": "What is 2020 data in united states?",
+    "label": [
+        "7000"
+    ]
+}

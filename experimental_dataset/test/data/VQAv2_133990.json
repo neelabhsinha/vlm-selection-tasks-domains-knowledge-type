@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 133990,
+    "image_path": "./experimental_dataset/test/images/VQAv2_133990.png",
+    "question": "What color is this horse's tail?",
+    "label": [
+        "tan",
+        "white",
+        "blonde",
+        "tan",
+        "brown",
+        "white",
+        "brown",
+        "white",
+        "white",
+        "white"
+    ]
+}

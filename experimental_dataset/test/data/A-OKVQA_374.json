@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 374,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_374.png",
+    "question": "What green fruits or vegetables are in a jar inside the refrigerator?",
+    "label": "['pickles', 'jalapenos', 'pickles', 'jalapenos', 'pickles', 'limes', 'pickles', 'pickles', 'pickles', 'pickles']",
+    "choices": [
+        "limes",
+        "green beans",
+        "pickles",
+        "celery sticks"
+    ],
+    "correct_choice": "pickles"
+}

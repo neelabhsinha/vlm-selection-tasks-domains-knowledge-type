@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 864,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_864.png",
+    "question": "What is the brick lined area against the wall on the left used to contain?",
+    "label": "['fire', 'firewood', 'fire', 'fire', 'fire', 'fireplace', 'fire', 'fire', 'fire', 'smoke']",
+    "choices": [
+        "fire",
+        "animals",
+        "water",
+        "books"
+    ],
+    "correct_choice": "fire"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 467,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_467.png",
+    "question": "What is the girl doing in the bathroom?",
+    "label": "['taking selfie', 'taking photo', 'taking self', 'taking selfie', 'taking pictures', 'taking picture', 'photos', 'bating', 'selfie', 'taking picture']",
+    "choices": [
+        "brushing teeth",
+        "washing hands",
+        "taking selfie",
+        "painting walls"
+    ],
+    "correct_choice": "taking selfie"
+}

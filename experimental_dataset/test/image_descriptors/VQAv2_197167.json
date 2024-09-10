@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 197167,
+    "caption": "a bathroom sink with a vase of flowers on the counter",
+    "object_tags": [
+        "indoor",
+        "bathroom",
+        "plumbing fixture",
+        "tap",
+        "wall",
+        "houseplant",
+        "flowerpot",
+        "sink",
+        "vase",
+        "countertop",
+        "bathroom accessory",
+        "flower",
+        "window",
+        "plant",
+        "mirror"
+    ]
+}

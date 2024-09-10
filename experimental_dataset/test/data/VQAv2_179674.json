@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 179674,
+    "image_path": "./experimental_dataset/test/images/VQAv2_179674.png",
+    "question": "What is the man doing?",
+    "label": [
+        "combing hair and brushing his teeth",
+        "brushing teeth/combing hair",
+        "grooming",
+        "combing hair/brushing teeth",
+        "combing hair",
+        "grooming",
+        "brushing his teeth",
+        "coming hair",
+        "brushing his teeth",
+        "brushing teeth"
+    ]
+}

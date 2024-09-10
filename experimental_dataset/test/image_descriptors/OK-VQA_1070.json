@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1070,
+    "caption": "a car parked on the side of a road",
+    "object_tags": [
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "classic car",
+        "antique car",
+        "transport",
+        "tire",
+        "car",
+        "auto part",
+        "outdoor",
+        "motor vehicle",
+        "hardtop",
+        "vintage car",
+        "road",
+        "parked"
+    ]
+}

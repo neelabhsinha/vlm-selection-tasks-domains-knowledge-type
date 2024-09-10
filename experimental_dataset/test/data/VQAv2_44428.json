@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 44428,
+    "image_path": "./experimental_dataset/test/images/VQAv2_44428.png",
+    "question": "What colors are the umbrella?",
+    "label": [
+        "black",
+        "black",
+        "black",
+        "blue",
+        "black",
+        "black",
+        "black",
+        "black",
+        "blue",
+        "blue"
+    ]
+}

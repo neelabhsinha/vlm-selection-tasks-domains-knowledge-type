@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 130749,
+    "caption": "a bride and groom cutting their wedding cake",
+    "object_tags": [
+        "person",
+        "clothing",
+        "wedding dress",
+        "bride",
+        "wedding cake",
+        "dress",
+        "cake",
+        "indoor",
+        "fashion accessory",
+        "ceremony",
+        "wedding",
+        "ivory",
+        "man",
+        "human face",
+        "wall",
+        "gown",
+        "wedding reception",
+        "bridal clothing",
+        "dessert",
+        "smile",
+        "birthday cake",
+        "woman",
+        "embellishment",
+        "cutting",
+        "people",
+        "cut"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 301,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_301.png",
+    "question": "What forms of transportation are there?",
+    "label": [
+        "bike",
+        "bike",
+        "bicycle and car",
+        "bicycle and car",
+        "bicycle car",
+        "bicycle car",
+        "bike",
+        "bike",
+        "bicycle",
+        "bicycle"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 334,
+    "caption": "people standing on top of a lush green field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "people",
+        "sky",
+        "person",
+        "group",
+        "plant",
+        "clothing",
+        "footwear",
+        "man",
+        "field",
+        "woman",
+        "lawn",
+        "frisbee",
+        "standing",
+        "park"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 190300,
+    "caption": "a man standing next to a bicycle on the street",
+    "object_tags": [
+        "bicycle wheel",
+        "clothing",
+        "wheel",
+        "person",
+        "outdoor",
+        "land vehicle",
+        "bike",
+        "footwear",
+        "bicycle",
+        "tire",
+        "vehicle",
+        "man",
+        "building",
+        "bicycle frame",
+        "bicycle tire",
+        "cycling",
+        "transport",
+        "bicycle fork",
+        "bicycles--equipment and supplies",
+        "bicycle pedal",
+        "road bicycle",
+        "ground",
+        "street"
+    ]
+}

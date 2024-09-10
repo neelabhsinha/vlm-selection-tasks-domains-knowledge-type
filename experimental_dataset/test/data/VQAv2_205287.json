@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 205287,
+    "image_path": "./experimental_dataset/test/images/VQAv2_205287.png",
+    "question": "What is the woman sitting on?",
+    "label": [
+        "stone",
+        "bench",
+        "rock step",
+        "stone",
+        "bench",
+        "rock ledge",
+        "bench",
+        "bench",
+        "stairs",
+        "rocks"
+    ]
+}

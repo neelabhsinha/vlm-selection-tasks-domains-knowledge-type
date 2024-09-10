@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1377,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1377.png",
+    "question": "What is the lowest value shown on the X axis of second plot?",
+    "label": [
+        "0"
+    ]
+}

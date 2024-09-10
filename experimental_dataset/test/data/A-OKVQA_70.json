@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 70,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_70.png",
+    "question": "What is the object in the middle called?",
+    "label": "['sofa', 'island', 'island', 'island', 'island', 'table', 'kitchen island', 'microwave', 'table', 'island']",
+    "choices": [
+        "counter",
+        "island",
+        "table",
+        "desk"
+    ],
+    "correct_choice": "island"
+}

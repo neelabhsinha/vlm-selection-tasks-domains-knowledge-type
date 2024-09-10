@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 196035,
+    "image_path": "./experimental_dataset/test/images/VQAv2_196035.png",
+    "question": "What are they doing?",
+    "label": [
+        "drinking",
+        "looking",
+        "going in bathtub",
+        "looking in tub",
+        "watching",
+        "watching water",
+        "playing in water",
+        "looking in tub",
+        "looking at water in tub",
+        "drinking"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2824,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2824.png",
+    "question": "What is the amount sourced from R&D?",
+    "label": [
+        "112,000"
+    ]
+}

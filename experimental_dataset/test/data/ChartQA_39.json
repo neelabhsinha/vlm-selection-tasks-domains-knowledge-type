@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 39,
+    "image_path": "./experimental_dataset/test/images/ChartQA_39.png",
+    "question": "What is the difference between Asians and Whites degree distribution??",
+    "label": [
+        "22"
+    ]
+}

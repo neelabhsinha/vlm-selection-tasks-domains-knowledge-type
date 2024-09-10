@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 264,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_264.png",
+    "question": "Where do the men work?",
+    "label": "['airport', 'airport', 'airport', 'airport baggage', 'airport', 'airport', 'airport baggage', 'airport', 'airport', 'airport']",
+    "choices": [
+        "bank",
+        "library",
+        "airport",
+        "restaurant"
+    ],
+    "correct_choice": "airport"
+}

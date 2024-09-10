@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3230,
+    "caption": "two birds are flying in the sky",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "flight",
+        "wing",
+        "bird",
+        "animal",
+        "high",
+        "hawk"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1826,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1826.png",
+    "question": "What percentage of respondents in the Americas answered yes to the survey?",
+    "label": [
+        "54"
+    ]
+}

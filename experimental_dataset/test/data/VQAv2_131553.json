@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 131553,
+    "image_path": "./experimental_dataset/test/images/VQAv2_131553.png",
+    "question": "What mode of transportation is this man using?",
+    "label": [
+        "skis",
+        "skiing",
+        "skis",
+        "skis",
+        "skis",
+        "skis",
+        "skis",
+        "skis",
+        "skis",
+        "skis"
+    ]
+}

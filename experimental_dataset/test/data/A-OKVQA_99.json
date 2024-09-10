@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 99,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_99.png",
+    "question": "Where is this dog located?",
+    "label": "['chair', 'chair', 'chair', 'chair', 'couch', 'home', 'chair', 'chair', 'chair', 'chair']",
+    "choices": [
+        "office",
+        "home",
+        "zoo",
+        "vet"
+    ],
+    "correct_choice": "home"
+}

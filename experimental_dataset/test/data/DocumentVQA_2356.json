@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2356,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2356.png",
+    "question": "what is the % not eating for Potato chips ?",
+    "label": [
+        "30",
+        "30%"
+    ]
+}

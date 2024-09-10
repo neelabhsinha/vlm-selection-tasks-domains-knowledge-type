@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 295,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_295.png",
+    "question": "What type of transportation is this?",
+    "label": "['bus', 'public', 'road', 'bus', 'public', 'bus', 'bus', 'bus', 'metropolitan transit', 'bus']",
+    "choices": [
+        "road",
+        "rail",
+        "water",
+        "air"
+    ],
+    "correct_choice": "road"
+}

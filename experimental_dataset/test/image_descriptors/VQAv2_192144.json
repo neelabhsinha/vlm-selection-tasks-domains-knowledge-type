@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 192144,
+    "caption": "a woman and child sitting on a stone wall with a teddy bear",
+    "object_tags": [
+        "clothing",
+        "footwear",
+        "outdoor",
+        "person",
+        "human face",
+        "smile",
+        "building",
+        "jeans",
+        "ground",
+        "sitting",
+        "statue",
+        "wall",
+        "stone",
+        "woman",
+        "girl",
+        "young",
+        "step",
+        "vacation"
+    ]
+}

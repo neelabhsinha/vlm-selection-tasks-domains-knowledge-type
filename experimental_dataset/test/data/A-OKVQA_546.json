@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 546,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_546.png",
+    "question": "The man and woman are celebrating their newly formed what?",
+    "label": "['bond', 'marriage', 'marriage', 'marriage', 'marriage', 'marriage', 'marriage', 'marriage', 'marriage', 'marriage']",
+    "choices": [
+        "cake",
+        "bond",
+        "friendship",
+        "break-up"
+    ],
+    "correct_choice": "bond"
+}

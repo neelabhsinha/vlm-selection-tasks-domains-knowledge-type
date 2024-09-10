@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 155,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_155.png",
+    "question": "What city name is shown in the background?",
+    "label": "['oma', 'omaha', 'heartland', 'omaha', 'omaha', 'omaha', 'omaha', 'omaha', 'omaha', 'omaha']",
+    "choices": [
+        "los angeles",
+        "riverton",
+        "new york",
+        "omaha"
+    ],
+    "correct_choice": "omaha"
+}

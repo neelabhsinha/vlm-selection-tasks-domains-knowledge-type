@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 892,
+    "caption": "a little boy holding a banana up to his face",
+    "object_tags": [
+        "person",
+        "human face",
+        "toddler",
+        "clothing",
+        "banana",
+        "food",
+        "baby",
+        "indoor",
+        "boy",
+        "young",
+        "holding",
+        "child"
+    ]
+}

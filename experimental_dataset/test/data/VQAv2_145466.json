@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 145466,
+    "image_path": "./experimental_dataset/test/images/VQAv2_145466.png",
+    "question": "What time does the clock face display?",
+    "label": [
+        "11:37",
+        "11:36",
+        "11:38",
+        "11:38",
+        "11:35",
+        "11:36",
+        "11:37",
+        "11:37",
+        "12 : 35",
+        "11:37"
+    ]
+}

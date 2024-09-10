@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4360,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4360.png",
+    "question": "What do people wear to jump out of this transportations safely?",
+    "label": [
+        "parachute",
+        "parachute",
+        "parachute",
+        "parachute",
+        "parachute",
+        "parachute",
+        "parachute",
+        "parachute",
+        "parachute",
+        "parachute"
+    ]
+}

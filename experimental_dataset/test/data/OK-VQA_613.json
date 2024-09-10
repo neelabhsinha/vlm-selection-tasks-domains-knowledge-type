@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 613,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_613.png",
+    "question": "What city is this?",
+    "label": [
+        "los angeles",
+        "los angeles",
+        "los angeles",
+        "los angeles",
+        "los angeles",
+        "los angeles",
+        "los angeles",
+        "los angeles",
+        "prague",
+        "prague"
+    ]
+}

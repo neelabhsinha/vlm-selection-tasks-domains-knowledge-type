@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 560,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_560.png",
+    "question": "Is this type of animal more closer to the character babar or the character snoopy?",
+    "label": [
+        "babar",
+        "babar",
+        "babar",
+        "babar",
+        "babar",
+        "babar",
+        "babar",
+        "babar",
+        "barbar",
+        "barbar"
+    ]
+}

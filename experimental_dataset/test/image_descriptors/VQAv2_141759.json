@@ -1,0 +1,32 @@
+{
+    "dataset": "VQAv2",
+    "key": 141759,
+    "caption": "a person riding a bike on top of a rock",
+    "object_tags": [
+        "bicycle wheel",
+        "transport",
+        "wheel",
+        "outdoor",
+        "cycling",
+        "black and white",
+        "vehicle",
+        "bike",
+        "land vehicle",
+        "bicycle frame",
+        "bicycle handlebar",
+        "bicycles--equipment and supplies",
+        "person",
+        "bicycle tire",
+        "sports equipment",
+        "cycle sport",
+        "bicycle pedal",
+        "bicycle fork",
+        "water",
+        "bicycle",
+        "unicycle",
+        "ground",
+        "sea",
+        "riding",
+        "beach"
+    ]
+}

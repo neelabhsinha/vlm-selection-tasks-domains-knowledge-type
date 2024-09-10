@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 210786,
+    "image_path": "./experimental_dataset/test/images/VQAv2_210786.png",
+    "question": "What is the title of the people riding the horses?",
+    "label": [
+        "jockeys",
+        "jockey",
+        "jockeys",
+        "jockeys",
+        "jockey",
+        "jockeys",
+        "jockeys",
+        "jockeys",
+        "jockey",
+        "jockey"
+    ]
+}

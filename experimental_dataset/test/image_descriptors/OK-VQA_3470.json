@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3470,
+    "caption": "a man riding a skateboard on top of a snow covered ground",
+    "object_tags": [
+        "person",
+        "sport",
+        "boardsport",
+        "man",
+        "riding",
+        "sports equipment",
+        "outdoor",
+        "snowboarding",
+        "footwear",
+        "skateboard",
+        "ground",
+        "night",
+        "skate",
+        "performing"
+    ]
+}

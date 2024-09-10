@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 308,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_308.png",
+    "question": "In what type of location are they playing with the body board?",
+    "label": "['indoors', 'room', 'inside room', 'home', 'room', 'indoors', 'room', 'water', 'indoors', 'bedroom']",
+    "choices": [
+        "room",
+        "beach",
+        "park",
+        "store"
+    ],
+    "correct_choice": "room"
+}

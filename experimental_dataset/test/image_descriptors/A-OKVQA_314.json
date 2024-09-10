@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 314,
+    "caption": "two men sitting at a table with plates of food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "meal",
+        "food",
+        "table",
+        "man",
+        "people",
+        "lunch",
+        "fast food",
+        "tableware",
+        "supper",
+        "indoor",
+        "dish",
+        "brunch",
+        "dinner",
+        "snack",
+        "human face",
+        "group",
+        "cuisine",
+        "sharing",
+        "eating",
+        "wall",
+        "sitting"
+    ]
+}

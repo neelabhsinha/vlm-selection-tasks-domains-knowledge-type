@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 207982,
+    "caption": "a man putting food into an oven",
+    "object_tags": [
+        "cabinet",
+        "indoor",
+        "person",
+        "kitchen appliance",
+        "home appliance",
+        "appliance",
+        "cookware and bakeware",
+        "microwave oven",
+        "food",
+        "clothing",
+        "kitchen",
+        "pizza",
+        "oven",
+        "food warmer",
+        "gas stove",
+        "stove",
+        "toaster oven",
+        "fast food",
+        "wall",
+        "countertop",
+        "major appliance",
+        "cooking"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1455,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1455.png",
+    "question": "What was the number of guests arriving at accommodation establishments in Cyprus from 2006 to 2019?",
+    "label": [
+        "3.2"
+    ]
+}

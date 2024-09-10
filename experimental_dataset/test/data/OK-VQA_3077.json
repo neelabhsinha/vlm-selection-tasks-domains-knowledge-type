@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3077,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3077.png",
+    "question": "What is pictured in the tallest part of the building?",
+    "label": [
+        "clock",
+        "clock",
+        "clock",
+        "clock",
+        "clock",
+        "clock",
+        "clock tower",
+        "clock tower",
+        "tower",
+        "tower"
+    ]
+}

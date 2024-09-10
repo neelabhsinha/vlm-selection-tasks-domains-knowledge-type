@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 133,
+    "image_path": "./experimental_dataset/test/images/ChartQA_133.png",
+    "question": "What's the ratio of least value of light brown graph and leftmost value of dark brown graph?",
+    "label": [
+        "0.32"
+    ]
+}

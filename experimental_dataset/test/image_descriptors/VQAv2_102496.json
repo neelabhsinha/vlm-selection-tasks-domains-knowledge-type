@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 102496,
+    "caption": "a large clock in a large room",
+    "object_tags": [
+        "clock",
+        "black and white",
+        "building",
+        "window",
+        "monochrome",
+        "indoor",
+        "large"
+    ]
+}

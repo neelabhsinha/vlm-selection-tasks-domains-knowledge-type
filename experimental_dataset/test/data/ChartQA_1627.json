@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1627,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1627.png",
+    "question": "What percentage of the global Facebook population did the United States account for in January 2018?",
+    "label": [
+        "11"
+    ]
+}

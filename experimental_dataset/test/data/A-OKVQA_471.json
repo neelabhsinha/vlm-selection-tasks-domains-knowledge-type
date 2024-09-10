@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 471,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_471.png",
+    "question": "What type of dog is it?",
+    "label": "['rott', 'rottweiler', 'domestic pet', 'rottweiler', 'rottweiler', 'rottweiler', 'herd livestock', 'rottweiler', 'rottweiler', 'rottweiler']",
+    "choices": [
+        "farm dog",
+        "service dog",
+        "domestic pet",
+        "stray dog"
+    ],
+    "correct_choice": "domestic pet"
+}

@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1762,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1762.png",
+    "question": "Who is Dena S.Markoff?",
+    "label": [
+        "graduate student",
+        "Graduate student",
+        "a graduate student at University of Colorado",
+        "University of colorado"
+    ]
+}

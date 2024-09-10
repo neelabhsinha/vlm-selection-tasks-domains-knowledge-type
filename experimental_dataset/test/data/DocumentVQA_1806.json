@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1806,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1806.png",
+    "question": "What is the spacing to be used when typed?",
+    "label": [
+        "Single Space",
+        "Single space"
+    ]
+}

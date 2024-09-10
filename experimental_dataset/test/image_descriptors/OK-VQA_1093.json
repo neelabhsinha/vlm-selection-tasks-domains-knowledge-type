@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1093,
+    "caption": "a military man cutting a cake at a ceremony",
+    "object_tags": [
+        "man",
+        "clothing",
+        "person",
+        "flower",
+        "flower arranging",
+        "indoor",
+        "floral design",
+        "woman",
+        "ceremony",
+        "ceiling",
+        "cutting",
+        "people",
+        "food",
+        "standing",
+        "cut",
+        "wedding"
+    ]
+}

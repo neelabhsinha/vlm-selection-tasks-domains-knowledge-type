@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 407,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_407.png",
+    "question": "What is the short form used for 3rd quarter of 2002?",
+    "label": [
+        "3Q2002"
+    ]
+}

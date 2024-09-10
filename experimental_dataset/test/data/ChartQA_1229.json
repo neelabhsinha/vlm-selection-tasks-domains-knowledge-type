@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1229,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1229.png",
+    "question": "What is sum of highest and lowest?",
+    "label": [
+        "46"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1259,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1259.png",
+    "question": "What percentage of male students achieved a C/4 grade or higher in 2020?",
+    "label": [
+        "72.3"
+    ]
+}

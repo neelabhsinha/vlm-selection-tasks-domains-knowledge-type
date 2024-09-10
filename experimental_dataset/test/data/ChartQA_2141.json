@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2141,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2141.png",
+    "question": "What was the death rate from HIV among African Americans in 2019?",
+    "label": [
+        "16.1"
+    ]
+}

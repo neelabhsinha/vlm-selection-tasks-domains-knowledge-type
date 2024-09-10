@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 45884,
+    "image_path": "./experimental_dataset/test/images/VQAv2_45884.png",
+    "question": "What color is the hat of the person on the left?",
+    "label": [
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black"
+    ]
+}

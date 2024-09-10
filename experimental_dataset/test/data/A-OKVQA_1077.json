@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1077,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1077.png",
+    "question": "What is the colorful object on the man's head used for?",
+    "label": "['blocking sun', 'umbrella', 'shade', 'shade', 'umbrella', 'shade', 'shade', 'rain protection', 'protection', 'shade']",
+    "choices": [
+        "laughs",
+        "punishment",
+        "shade",
+        "style"
+    ],
+    "correct_choice": "shade"
+}

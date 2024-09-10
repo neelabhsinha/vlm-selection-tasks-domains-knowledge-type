@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 108174,
+    "caption": "a piece of cake on a plate on a table",
+    "object_tags": [
+        "dessert",
+        "baked goods",
+        "cake",
+        "sweetness",
+        "indoor",
+        "food",
+        "plate",
+        "cuisine",
+        "pastry",
+        "dairy",
+        "baking",
+        "dish",
+        "fast food",
+        "kuchen",
+        "table",
+        "sitting",
+        "cream",
+        "plant",
+        "red"
+    ]
+}

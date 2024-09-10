@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1381,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1381.png",
+    "question": "What is the date of the invoice ?",
+    "label": [
+        "10/9/91"
+    ]
+}

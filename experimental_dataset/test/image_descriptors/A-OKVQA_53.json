@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 53,
+    "caption": "a man standing in front of a bed in a hotel room",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "bed",
+        "person",
+        "interior design",
+        "lamp",
+        "tripod",
+        "lampshade",
+        "clothing",
+        "house",
+        "chair",
+        "man",
+        "room"
+    ]
+}

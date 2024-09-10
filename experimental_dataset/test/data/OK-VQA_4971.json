@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4971,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4971.png",
+    "question": "What kind of board is that?",
+    "label": [
+        "surf",
+        "surf",
+        "surf",
+        "surf",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surfboard",
+        "surf",
+        "surf"
+    ]
+}

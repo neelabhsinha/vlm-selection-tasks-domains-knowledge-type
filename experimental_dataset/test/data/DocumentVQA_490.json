@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 490,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_490.png",
+    "question": "How many participants were selected from each school?",
+    "label": [
+        "five participants",
+        "Five participants",
+        "five"
+    ]
+}

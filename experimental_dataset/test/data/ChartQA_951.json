@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 951,
+    "image_path": "./experimental_dataset/test/images/ChartQA_951.png",
+    "question": "What is sum of the dark blue bar from 2019 to 2020?",
+    "label": [
+        "0.46"
+    ]
+}

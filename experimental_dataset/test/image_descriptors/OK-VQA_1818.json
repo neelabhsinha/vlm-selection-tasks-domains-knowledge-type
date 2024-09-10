@@ -1,0 +1,11 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1818,
+    "caption": "a woman cutting a piece of cloth with a pair of scissors",
+    "object_tags": [
+        "person",
+        "clothing",
+        "finger",
+        "indoor"
+    ]
+}

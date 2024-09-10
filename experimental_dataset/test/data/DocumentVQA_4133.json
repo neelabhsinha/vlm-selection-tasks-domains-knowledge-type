@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4133,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4133.png",
+    "question": "Compared to sugar, which is the other group which has better growth in 1944 compared to 1933 in terms of number of executives?",
+    "label": [
+        "Bakeries"
+    ]
+}

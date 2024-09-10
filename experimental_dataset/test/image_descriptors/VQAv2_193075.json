@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 193075,
+    "caption": "a chair with an umbrella on top of it",
+    "object_tags": [
+        "wall",
+        "umbrella",
+        "blue",
+        "furniture",
+        "accessory",
+        "chair",
+        "floor",
+        "ground"
+    ]
+}

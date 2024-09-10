@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2019,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Knowledge Base",
+        "News",
+        "Reviews"
+    ],
+    "knowledge_type": [
+        "Mathematical Knowledge"
+    ]
+}

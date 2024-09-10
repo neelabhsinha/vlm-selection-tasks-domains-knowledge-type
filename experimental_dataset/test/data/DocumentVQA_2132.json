@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2132,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2132.png",
+    "question": "How many subpoints are there under the first point on the agenda?",
+    "label": [
+        "iii",
+        "3"
+    ]
+}

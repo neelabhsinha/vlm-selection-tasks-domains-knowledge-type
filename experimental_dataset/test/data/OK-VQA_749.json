@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 749,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_749.png",
+    "question": "What is stuffed inside that furniture?",
+    "label": [
+        "foam",
+        "foam",
+        "foam",
+        "foam",
+        "foam",
+        "foam",
+        "foam rubber",
+        "foam rubber",
+        "cotton",
+        "cotton"
+    ]
+}

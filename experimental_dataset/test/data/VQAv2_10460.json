@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 10460,
+    "image_path": "./experimental_dataset/test/images/VQAv2_10460.png",
+    "question": "What is sitting on the screen?",
+    "label": [
+        "website",
+        "nothing",
+        "computer",
+        "website",
+        "webpage",
+        "website",
+        "nothing",
+        "doll",
+        "girl",
+        "apples"
+    ]
+}

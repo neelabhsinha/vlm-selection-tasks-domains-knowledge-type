@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3300,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3300.png",
+    "question": "Where are the birds migrating to?",
+    "label": [
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "south",
+        "warmer place",
+        "warmer place"
+    ]
+}

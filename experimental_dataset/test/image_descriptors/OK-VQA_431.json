@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 431,
+    "caption": "a crowd of people standing around a group of elephants",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "elephant",
+        "people",
+        "group",
+        "tree",
+        "elephants and mammoths",
+        "indian elephant",
+        "asian elephant",
+        "person",
+        "clothing",
+        "sky",
+        "standing",
+        "crowd"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 59,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_59.png",
+    "question": "What direction is the narrow end of the flag pointing?",
+    "label": "['left side', 'left', 'north', 'left', 'west', 'left', 'left', 'left', 'sideways', 'windward']",
+    "choices": [
+        "north",
+        "south",
+        "east",
+        "west"
+    ],
+    "correct_choice": "west"
+}

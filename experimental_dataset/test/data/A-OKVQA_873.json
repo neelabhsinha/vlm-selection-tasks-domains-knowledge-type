@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 873,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_873.png",
+    "question": "Why are the bananas piled up on the shelf?",
+    "label": "['to sell', 'for sale', 'sale', 'for sale', 'for sale', 'for sale', 'for sale', 'for sale', 'for sale', 'sale']",
+    "choices": [
+        "to dry",
+        "to cook",
+        "to sell",
+        "to eat"
+    ],
+    "correct_choice": "to sell"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 183320,
+    "image_path": "./experimental_dataset/test/images/VQAv2_183320.png",
+    "question": "What color is the bird's head?",
+    "label": [
+        "yellow",
+        "yellow",
+        "yellow",
+        "green and orange",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow",
+        "yellow"
+    ]
+}

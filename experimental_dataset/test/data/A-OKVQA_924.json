@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 924,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_924.png",
+    "question": "What type of vehicle is this?",
+    "label": "['bus', 'bus', 'bus', 'city bus', 'bus', 'bus', 'passenger', 'bus', 'bus', 'bus']",
+    "choices": [
+        "watercraft",
+        "cargo",
+        "construction",
+        "passenger"
+    ],
+    "correct_choice": "passenger"
+}

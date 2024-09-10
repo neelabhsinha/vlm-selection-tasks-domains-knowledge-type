@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1775,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1775.png",
+    "question": "What was the second most profitable telecommunication company in the Nordic countries?",
+    "label": [
+        "Telia Company AB"
+    ]
+}

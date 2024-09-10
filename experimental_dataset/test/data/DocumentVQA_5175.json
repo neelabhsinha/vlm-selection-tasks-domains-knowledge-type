@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5175,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5175.png",
+    "question": "Who is second last in the list?",
+    "label": [
+        "HIXON BARBARA B"
+    ]
+}

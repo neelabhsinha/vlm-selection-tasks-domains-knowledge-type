@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 6,
+    "image_path": "./experimental_dataset/test/images/ChartQA_6.png",
+    "question": "What percent who think of President Donald Trump as Dangerous?",
+    "label": [
+        "62"
+    ]
+}

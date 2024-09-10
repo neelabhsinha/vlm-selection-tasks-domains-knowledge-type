@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 196,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_196.png",
+    "question": "What type of travel is this vehicle for?",
+    "label": "['sky', 'air', 'air travel', 'plane', 'air', 'air travel', 'air', 'air trave', 'flight', 'air']",
+    "choices": [
+        "air",
+        "road",
+        "water",
+        "rail"
+    ],
+    "correct_choice": "air"
+}

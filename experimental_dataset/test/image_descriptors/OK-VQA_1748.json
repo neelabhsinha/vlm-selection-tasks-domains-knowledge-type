@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1748,
+    "caption": "a teddy bear is sitting on a piece of cloth",
+    "object_tags": [
+        "crochet",
+        "embellishment",
+        "craft",
+        "rose",
+        "thread",
+        "indoor",
+        "fabric",
+        "flower"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 53238,
+    "image_path": "./experimental_dataset/test/images/VQAv2_53238.png",
+    "question": "What brand motorcycles are they?",
+    "label": [
+        "yamaha",
+        "harley",
+        "harley davidson",
+        "honda",
+        "harleys",
+        "honda",
+        "harley",
+        "harley's",
+        "harley",
+        "harley"
+    ]
+}

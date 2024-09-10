@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 109,
+    "image_path": "./experimental_dataset/test/images/ChartQA_109.png",
+    "question": "What's the median value of light blue bar?",
+    "label": [
+        "37"
+    ]
+}

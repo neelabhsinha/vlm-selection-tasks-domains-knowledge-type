@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1426,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Economics",
+        "Professions"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Mathematical Knowledge"
+    ]
+}

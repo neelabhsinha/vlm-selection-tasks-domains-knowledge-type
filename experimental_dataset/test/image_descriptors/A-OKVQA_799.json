@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 799,
+    "caption": "a herd of animals standing on top of a lush green field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "ground",
+        "landscape",
+        "mountain",
+        "horse",
+        "field",
+        "hill",
+        "nature"
+    ]
+}

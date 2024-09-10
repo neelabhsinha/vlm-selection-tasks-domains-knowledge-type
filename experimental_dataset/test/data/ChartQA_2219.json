@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2219,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2219.png",
+    "question": "What was the National Coalition party's support?",
+    "label": [
+        "16.9"
+    ]
+}

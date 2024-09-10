@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 733,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_733.png",
+    "question": "The front of the dog is closest to what number on the scale?",
+    "label": "['sixteen', 'seventeen', '16', 'sixteen', 'sixteen', '16', 'sixteen', 'seventeen', 'seventeen', '16']",
+    "choices": [
+        "nineteen",
+        "seventeen",
+        "twelve",
+        "eleven"
+    ],
+    "correct_choice": "seventeen"
+}

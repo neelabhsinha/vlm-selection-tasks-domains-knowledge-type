@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 550,
+    "caption": "boats docked at a marina",
+    "object_tags": [
+        "outdoor",
+        "boat",
+        "sky",
+        "water",
+        "ship",
+        "marina",
+        "watercraft",
+        "port",
+        "vehicle",
+        "docked",
+        "waterway",
+        "harbor",
+        "boating",
+        "cloud",
+        "dock",
+        "blue",
+        "pier",
+        "landscape",
+        "sea"
+    ]
+}

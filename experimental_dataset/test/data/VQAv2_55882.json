@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55882,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55882.png",
+    "question": "What is the woman holding on her shoulder?",
+    "label": [
+        "handbag",
+        "purse",
+        "purse",
+        "purse",
+        "purse",
+        "purse",
+        "purse",
+        "purse",
+        "purse",
+        "purse"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3523,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3523.png",
+    "question": "When is the listing of relevant meetings and conferences to be completed?",
+    "label": [
+        "To be completed at final draft",
+        "At final draft",
+        "[To be completed at final draft]"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 92510,
+    "caption": "a bathroom with a tub and a sink",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "plumbing fixture",
+        "bathroom accessory",
+        "tap",
+        "tile",
+        "plumbing",
+        "restroom",
+        "mirror",
+        "room",
+        "interior design",
+        "bathroom cabinet",
+        "floor",
+        "bathroom",
+        "sink",
+        "tub",
+        "white",
+        "shower",
+        "ceiling",
+        "bathtub",
+        "hotel",
+        "toilet",
+        "renovation"
+    ]
+}

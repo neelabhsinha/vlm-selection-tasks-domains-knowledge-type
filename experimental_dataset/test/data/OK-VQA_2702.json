@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2702,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2702.png",
+    "question": "Which act is prohibited according to the sign in this sign?",
+    "label": [
+        "habitation",
+        "habitation",
+        "habitation",
+        "habitation",
+        "live in your car",
+        "live in your car",
+        "live in car",
+        "live in car",
+        "live in car",
+        "live in car"
+    ]
+}

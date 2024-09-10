@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1605,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1605.png",
+    "question": "How many people aged 15 or above read women's monthly magazines?",
+    "label": [
+        "24.9"
+    ]
+}

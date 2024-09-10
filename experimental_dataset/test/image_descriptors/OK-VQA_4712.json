@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4712,
+    "caption": "a young man eating a sandwich on a picnic table",
+    "object_tags": [
+        "person",
+        "food",
+        "fast food",
+        "outdoor",
+        "clothing",
+        "snack",
+        "sandwich",
+        "american food",
+        "bun",
+        "bread",
+        "junk food",
+        "eating",
+        "snack food",
+        "grass",
+        "ground",
+        "boy"
+    ]
+}

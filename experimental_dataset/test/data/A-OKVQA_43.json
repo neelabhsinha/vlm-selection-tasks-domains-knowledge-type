@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 43,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_43.png",
+    "question": "Which food item is the knife for?",
+    "label": "['plated', 'frogs', 'meat', 'meat', \"whatever's pictured\", 'squid', 'meat', 'meat', 'crabs', 'mushrooms']",
+    "choices": [
+        "bread",
+        "fruit",
+        "vegetables",
+        "meat"
+    ],
+    "correct_choice": "meat"
+}

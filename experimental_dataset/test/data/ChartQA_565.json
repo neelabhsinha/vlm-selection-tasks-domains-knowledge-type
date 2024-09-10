@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 565,
+    "image_path": "./experimental_dataset/test/images/ChartQA_565.png",
+    "question": "In republicans what is the difference between the more likely and less likely?",
+    "label": [
+        "21"
+    ]
+}

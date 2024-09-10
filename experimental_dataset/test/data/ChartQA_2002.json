@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2002,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2002.png",
+    "question": "How many metric tons of soybeans were produced worldwide in the 2020/2021 crop year?",
+    "label": [
+        "362.05"
+    ]
+}

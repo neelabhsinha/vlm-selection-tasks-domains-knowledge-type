@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 407,
+    "caption": "a bowl filled with pasta and vegetables on a table",
+    "object_tags": [
+        "food",
+        "cuisine",
+        "plate",
+        "dish",
+        "meal",
+        "indoor",
+        "table",
+        "vegetable",
+        "chinese food",
+        "fast food",
+        "tableware",
+        "side dish",
+        "recipe",
+        "ingredient",
+        "supper",
+        "noodle",
+        "bowl",
+        "restaurant",
+        "pasta",
+        "salad",
+        "meat"
+    ]
+}

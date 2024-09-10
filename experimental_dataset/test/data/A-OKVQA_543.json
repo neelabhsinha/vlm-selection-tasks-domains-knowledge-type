@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 543,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_543.png",
+    "question": "What type of vehicles are in the water?",
+    "label": "['sailboat', 'boats', 'yacht racing', 'sail boats', 'boat', 'boat', 'boats', 'sailboats', 'sailboats', 'sailboat']",
+    "choices": [
+        "yacht",
+        "sailboat",
+        "cruise ship",
+        "jet ski"
+    ],
+    "correct_choice": "sailboat"
+}

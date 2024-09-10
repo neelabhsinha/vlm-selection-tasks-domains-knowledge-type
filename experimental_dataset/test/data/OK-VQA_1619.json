@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1619,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1619.png",
+    "question": "Is this high tide or low tide?",
+    "label": [
+        "low",
+        "low",
+        "low",
+        "low",
+        "low",
+        "low",
+        "low",
+        "low",
+        "high",
+        "high"
+    ]
+}

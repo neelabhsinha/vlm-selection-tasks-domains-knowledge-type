@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 720,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Social Media",
+        "News"
+    ],
+    "knowledge_type": [
+        "Social Knowledge",
+        "Temporal Knowledge"
+    ]
+}

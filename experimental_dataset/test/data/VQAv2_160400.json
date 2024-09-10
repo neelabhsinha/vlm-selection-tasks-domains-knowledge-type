@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 160400,
+    "image_path": "./experimental_dataset/test/images/VQAv2_160400.png",
+    "question": "What game system are the boys playing on?",
+    "label": [
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii",
+        "wii"
+    ]
+}

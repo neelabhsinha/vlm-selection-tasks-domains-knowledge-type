@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1794,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Mathematics"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge"
+    ]
+}

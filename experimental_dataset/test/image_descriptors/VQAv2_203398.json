@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 203398,
+    "caption": "two pizzas sitting in a box on a table",
+    "object_tags": [
+        "snack",
+        "food",
+        "baked goods",
+        "indoor",
+        "fast food",
+        "baking",
+        "box",
+        "pizza",
+        "tray"
+    ]
+}

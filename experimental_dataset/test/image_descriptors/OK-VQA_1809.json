@@ -1,0 +1,12 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1809,
+    "caption": "a plant that is growing in a field",
+    "object_tags": [
+        "plant",
+        "vegetable",
+        "leaf",
+        "outdoor",
+        "garden"
+    ]
+}

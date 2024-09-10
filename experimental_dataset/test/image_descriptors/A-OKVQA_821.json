@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 821,
+    "caption": "a woman standing next to a fire hydrant",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "person",
+        "grass",
+        "footwear",
+        "woman",
+        "ground",
+        "night"
+    ]
+}

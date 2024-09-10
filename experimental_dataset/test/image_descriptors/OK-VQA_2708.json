@@ -1,0 +1,28 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2708,
+    "caption": "a large blue truck driving down a street",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "sky",
+        "wheel",
+        "transport",
+        "tree",
+        "road",
+        "commercial vehicle",
+        "trailer truck",
+        "mode of transport",
+        "text",
+        "truck",
+        "freight transport",
+        "motor vehicle",
+        "vehicle registration plate",
+        "public utility",
+        "street",
+        "trailer",
+        "blue",
+        "lorry"
+    ]
+}

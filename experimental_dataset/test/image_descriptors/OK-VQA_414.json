@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 414,
+    "caption": "a black and white dog wearing a hat",
+    "object_tags": [
+        "pet",
+        "dog breed",
+        "boston terrier",
+        "mammal",
+        "french bulldog",
+        "non-sporting group",
+        "dog",
+        "dog clothes",
+        "snout",
+        "indoor",
+        "bulldog",
+        "animal",
+        "puppy",
+        "black",
+        "wearing"
+    ]
+}

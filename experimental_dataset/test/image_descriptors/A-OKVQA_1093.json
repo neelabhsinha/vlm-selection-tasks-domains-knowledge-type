@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1093,
+    "caption": "a woman riding a motorcycle down a street",
+    "object_tags": [
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "outdoor",
+        "tire",
+        "road",
+        "black and white",
+        "clothing",
+        "person",
+        "motorcycle",
+        "street",
+        "footwear",
+        "building",
+        "transport",
+        "car",
+        "auto part",
+        "scooter",
+        "moped",
+        "people",
+        "woman",
+        "city",
+        "monochrome"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2941,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2941.png",
+    "question": "Where would you buy this food?",
+    "label": [
+        "doughnut shop",
+        "doughnut shop",
+        "doughnut shop",
+        "doughnut shop",
+        "bakery",
+        "bakery",
+        "bakery",
+        "bakery",
+        "supermarket",
+        "supermarket"
+    ]
+}

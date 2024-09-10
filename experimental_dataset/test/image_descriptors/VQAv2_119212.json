@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 119212,
+    "caption": "two people standing in front of a tv playing a video game",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "person",
+        "clothing",
+        "playing",
+        "game",
+        "computer",
+        "room",
+        "television",
+        "laptop",
+        "standing",
+        "woman",
+        "people",
+        "controller",
+        "remote",
+        "using",
+        "girl"
+    ]
+}

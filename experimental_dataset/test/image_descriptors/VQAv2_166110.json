@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 166110,
+    "caption": "a man standing on top of a skateboard in front of a store",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "jeans",
+        "outdoor",
+        "wheel",
+        "standing",
+        "young",
+        "ground",
+        "boy",
+        "street",
+        "handcart",
+        "skateboard"
+    ]
+}

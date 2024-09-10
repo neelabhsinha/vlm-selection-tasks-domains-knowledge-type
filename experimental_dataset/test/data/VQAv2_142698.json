@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 142698,
+    "image_path": "./experimental_dataset/test/images/VQAv2_142698.png",
+    "question": "What kind of business is on the corner behind the cab?",
+    "label": [
+        "can't tell",
+        "deli",
+        "grocery",
+        "no",
+        "restaurant",
+        "grocery",
+        "vendor",
+        "restaurant",
+        "food",
+        "restaurant"
+    ]
+}

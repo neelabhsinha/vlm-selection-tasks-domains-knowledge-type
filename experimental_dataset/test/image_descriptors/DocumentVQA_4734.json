@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4734,
+    "caption": "a collage of photos of animals",
+    "object_tags": [
+        "text",
+        "poster",
+        "human face",
+        "man",
+        "graphic design",
+        "clothing"
+    ]
+}

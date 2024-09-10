@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 702,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_702.png",
+    "question": "What is the highest item that is located on the refrigerator?",
+    "label": "['microwave', 'drink', 'bottle', 'lemon juice', 'bottle', 'bottle', 'bottle', 'microwave', 'juice', 'microwave oven']",
+    "choices": [
+        "bottle",
+        "cat",
+        "scissors",
+        "flower"
+    ],
+    "correct_choice": "bottle"
+}

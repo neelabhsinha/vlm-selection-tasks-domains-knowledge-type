@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 211738,
+    "caption": "a street sign on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sky",
+        "road",
+        "infrastructure",
+        "freeway",
+        "street",
+        "road surface",
+        "lane",
+        "asphalt",
+        "street light",
+        "highway",
+        "thoroughfare",
+        "billboard",
+        "car",
+        "public utility",
+        "way",
+        "sign",
+        "expressway"
+    ]
+}

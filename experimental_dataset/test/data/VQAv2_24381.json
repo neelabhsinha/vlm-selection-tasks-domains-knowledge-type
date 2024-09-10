@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 24381,
+    "image_path": "./experimental_dataset/test/images/VQAv2_24381.png",
+    "question": "How many signs are there?",
+    "label": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

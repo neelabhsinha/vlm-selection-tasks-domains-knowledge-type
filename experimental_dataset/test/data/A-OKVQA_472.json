@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 472,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_472.png",
+    "question": "The costumed character is likely seated in what locale?",
+    "label": "['sidewalk', 'sidewalk', 'city', 'japan', 'hollywood', 'street bench', 'bench', 'urban', 'bench', 'city']",
+    "choices": [
+        "theme park",
+        "carnival",
+        "sidewalk",
+        "campus"
+    ],
+    "correct_choice": "sidewalk"
+}

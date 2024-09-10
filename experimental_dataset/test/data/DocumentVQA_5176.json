@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5176,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5176.png",
+    "question": "what is the academic rank of last person in the list?",
+    "label": [
+        "ASST PROF OF HLTH SERV IN PREVENTIVE MED"
+    ]
+}

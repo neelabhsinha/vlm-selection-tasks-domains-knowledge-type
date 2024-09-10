@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 209055,
+    "caption": "a carrot and a fork on a table",
+    "object_tags": [
+        "vegetable",
+        "carrot",
+        "produce",
+        "root vegetable",
+        "natural foods",
+        "ingredient",
+        "vegan nutrition",
+        "vegetarian food",
+        "carrot stick",
+        "baby carrot",
+        "whole food",
+        "kitchen utensil",
+        "staple food",
+        "indoor",
+        "food"
+    ]
+}

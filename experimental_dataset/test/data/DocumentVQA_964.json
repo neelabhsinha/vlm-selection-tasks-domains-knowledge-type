@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 964,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_964.png",
+    "question": "Which is the \u2018milk sugar\u2019?",
+    "label": [
+        "lactose",
+        "Lactose"
+    ]
+}

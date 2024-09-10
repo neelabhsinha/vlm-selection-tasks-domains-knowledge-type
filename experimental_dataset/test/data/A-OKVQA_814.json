@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 814,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_814.png",
+    "question": "What is a specific type of the animal in the picture?",
+    "label": "['fish', 'goldfish', 'goldfish', 'fish', 'goldfish', 'fish', 'fish', 'tuna', 'goldfish', 'fish']",
+    "choices": [
+        "labrador",
+        "bengal",
+        "tabby",
+        "tuna"
+    ],
+    "correct_choice": "tuna"
+}

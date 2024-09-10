@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 193580,
+    "image_path": "./experimental_dataset/test/images/VQAv2_193580.png",
+    "question": "How many monitors are visible?",
+    "label": [
+        "3",
+        "4",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "4",
+        "3",
+        "4"
+    ]
+}

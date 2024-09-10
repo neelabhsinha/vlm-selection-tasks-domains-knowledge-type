@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 126382,
+    "caption": "a man talking on a cell phone next to a tree",
+    "object_tags": [
+        "clothing",
+        "person",
+        "outdoor",
+        "hiking",
+        "jeans",
+        "forest",
+        "trousers",
+        "boy",
+        "plant",
+        "tree",
+        "trunk",
+        "nature",
+        "park",
+        "wood"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1669,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1669.png",
+    "question": "What is the estimated total health expenditure of the United States for 2028?",
+    "label": [
+        "6192.5"
+    ]
+}

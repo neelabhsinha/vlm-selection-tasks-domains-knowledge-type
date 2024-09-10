@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2984,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2984.png",
+    "question": "Who is the \u201cspeaker\u201d in the 14th annual meeting of FPC and the Liaison panel?",
+    "label": [
+        "Dr. Frederick Seitz",
+        "Dr. Frederick Seitz, president"
+    ]
+}

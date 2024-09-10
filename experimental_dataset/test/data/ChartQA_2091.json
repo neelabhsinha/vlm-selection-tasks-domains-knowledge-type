@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2091,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2091.png",
+    "question": "What web programming language was used in 21.1 percent of malware cases in 2018?",
+    "label": [
+        "HTML"
+    ]
+}

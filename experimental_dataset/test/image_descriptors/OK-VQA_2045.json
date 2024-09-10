@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2045,
+    "caption": "a little boy sitting at a table with a pizza",
+    "object_tags": [
+        "person",
+        "food",
+        "indoor",
+        "toddler",
+        "fast food",
+        "meal",
+        "snack",
+        "baby",
+        "human face",
+        "tableware",
+        "clothing",
+        "eating",
+        "plate",
+        "table",
+        "child",
+        "pizza",
+        "young",
+        "kitchen",
+        "boy"
+    ]
+}

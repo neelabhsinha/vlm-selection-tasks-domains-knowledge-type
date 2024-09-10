@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1071,
+    "caption": "a young boy eating a slice of pizza",
+    "object_tags": [
+        "person",
+        "indoor",
+        "table",
+        "tableware",
+        "toddler",
+        "food",
+        "clothing",
+        "plate",
+        "human face",
+        "fast food",
+        "pizza",
+        "meal",
+        "eating",
+        "child",
+        "baby",
+        "sitting",
+        "boy",
+        "young",
+        "slice",
+        "family",
+        "girl",
+        "restaurant"
+    ]
+}

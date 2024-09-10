@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 401,
+    "caption": "a blurry picture of a blurry picture of a blurry picture of a blurry picture of a blurry picture",
+    "object_tags": [
+        "text",
+        "diagram",
+        "line",
+        "plot",
+        "screenshot",
+        "font"
+    ]
+}

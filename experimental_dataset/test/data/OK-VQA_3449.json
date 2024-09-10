@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3449,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3449.png",
+    "question": "At what age does one usually enter this type of institution?",
+    "label": [
+        "18",
+        "18",
+        "18",
+        "18",
+        "18",
+        "18",
+        "18",
+        "18",
+        "19",
+        "19"
+    ]
+}

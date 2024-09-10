@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 905,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_905.png",
+    "question": "Who is the most vulnerable on the road?",
+    "label": "['biker', 'motorcycle', 'bike passenger', 'motorcycle passenger', 'biker', 'bike', 'motorcyclist', 'motorcyclist', 'motorbike', 'biker']",
+    "choices": [
+        "motorbike",
+        "car",
+        "van",
+        "bus"
+    ],
+    "correct_choice": "motorbike"
+}

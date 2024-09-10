@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 127564,
+    "image_path": "./experimental_dataset/test/images/VQAv2_127564.png",
+    "question": "What food is presented?",
+    "label": [
+        "sandwich",
+        "sandwich and tater tots",
+        "sandwich tater tots",
+        "sandwich and tater tots",
+        "grilled cheese and tater tots",
+        "sandwich and tater tots",
+        "sandwich",
+        "sandwich and tater tots",
+        "sandwich",
+        "tater tots rubin"
+    ]
+}

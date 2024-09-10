@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4441,
+    "caption": "a collage of photographs showing the names of a number of mailboxes",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "black and white",
+        "number",
+        "document"
+    ]
+}

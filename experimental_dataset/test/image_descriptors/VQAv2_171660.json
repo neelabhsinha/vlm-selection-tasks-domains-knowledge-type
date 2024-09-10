@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 171660,
+    "caption": "a door that is open to a room with a dog on the floor",
+    "object_tags": [
+        "home door",
+        "door handle",
+        "indoor",
+        "flooring",
+        "door",
+        "wall",
+        "flower",
+        "floor",
+        "doorway",
+        "mat",
+        "yellow"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 119680,
+    "image_path": "./experimental_dataset/test/images/VQAv2_119680.png",
+    "question": "How many pairs of shoes are on the mat?",
+    "label": [
+        "1",
+        "0",
+        "1",
+        "2",
+        "1",
+        "1",
+        "0",
+        "0",
+        "no mat",
+        "0"
+    ]
+}

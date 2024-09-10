@@ -1,0 +1,29 @@
+{
+    "dataset": "VQAv2",
+    "key": 42186,
+    "caption": "a train on a train track in the middle of a grassy field",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "railroad",
+        "track",
+        "train",
+        "grass",
+        "railway",
+        "sky",
+        "vehicle",
+        "rolling stock",
+        "plant",
+        "railroad car",
+        "tree",
+        "public transport",
+        "passenger car",
+        "land vehicle",
+        "train station",
+        "locomotive",
+        "rolling",
+        "traveling",
+        "rail",
+        "yellow"
+    ]
+}

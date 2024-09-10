@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 20988,
+    "caption": "a table topped with plates of food",
+    "object_tags": [
+        "cuisine",
+        "food",
+        "meal",
+        "noodle",
+        "plate",
+        "lunch",
+        "chinese food",
+        "tableware",
+        "recipe",
+        "supper",
+        "pasta",
+        "chinese noodles",
+        "side dish",
+        "okazu",
+        "fast food",
+        "spaghetti",
+        "pancit",
+        "rice noodles",
+        "hot dry noodles",
+        "table",
+        "indoor",
+        "bowl",
+        "dish"
+    ]
+}

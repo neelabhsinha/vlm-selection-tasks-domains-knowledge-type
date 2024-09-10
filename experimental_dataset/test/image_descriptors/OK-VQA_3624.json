@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3624,
+    "caption": "a bathroom with a tub and a sink",
+    "object_tags": [
+        "indoor",
+        "bathtub",
+        "wall",
+        "interior design",
+        "plumbing fixture",
+        "tap",
+        "window",
+        "countertop",
+        "cabinetry",
+        "bathroom accessory",
+        "shower",
+        "mirror",
+        "room",
+        "floor",
+        "cupboard",
+        "property",
+        "bathroom cabinet",
+        "drawer",
+        "tile",
+        "sink",
+        "ceiling",
+        "tub",
+        "bathroom",
+        "toilet",
+        "hotel",
+        "home"
+    ]
+}

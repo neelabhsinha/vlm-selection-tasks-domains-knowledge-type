@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2436,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2436.png",
+    "question": "what is the private percent in united states ?",
+    "label": [
+        "81.2%"
+    ]
+}

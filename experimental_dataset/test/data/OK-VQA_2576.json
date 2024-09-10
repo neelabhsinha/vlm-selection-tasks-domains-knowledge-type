@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2576,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2576.png",
+    "question": "Who is this famously named after?",
+    "label": [
+        "teddy roosevelt",
+        "teddy roosevelt",
+        "teddy roosevelt",
+        "teddy roosevelt",
+        "president teddy roosevelt",
+        "president teddy roosevelt",
+        "theodore roosvelt",
+        "theodore roosvelt",
+        "theodore roosevelt",
+        "theodore roosevelt"
+    ]
+}

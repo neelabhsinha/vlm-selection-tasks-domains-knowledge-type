@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 39206,
+    "image_path": "./experimental_dataset/test/images/VQAv2_39206.png",
+    "question": "How tall is the pictured animal?",
+    "label": [
+        "very tall",
+        "very",
+        "very tall",
+        "very tall",
+        "very tall",
+        "very tall",
+        "10 feet",
+        "12 feet",
+        "tall",
+        "12 feet"
+    ]
+}

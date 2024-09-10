@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3080,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3080.png",
+    "question": "Is this an ambulance or firetruck?",
+    "label": [
+        "firetruck",
+        "firetruck",
+        "firetruck",
+        "firetruck",
+        "fire",
+        "fire",
+        "firetrick",
+        "firetrick",
+        "fire truck",
+        "fire truck"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 951,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_951.png",
+    "question": "Why is the man looking down?",
+    "label": "[\"he's reading\", 'reading', 'reading', 'reading', 'reading book', 'reading book', 'reading', 'reading', 'reading book', 'reading']",
+    "choices": [
+        "observing",
+        "writing",
+        "reading",
+        "thinking"
+    ],
+    "correct_choice": "reading"
+}

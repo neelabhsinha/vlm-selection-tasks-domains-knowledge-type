@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2686,
+    "caption": "a little girl brushing her hair with a brush",
+    "object_tags": [
+        "person",
+        "indoor",
+        "clothing",
+        "human face",
+        "hairstyle",
+        "wall",
+        "woman",
+        "hair",
+        "girl"
+    ]
+}

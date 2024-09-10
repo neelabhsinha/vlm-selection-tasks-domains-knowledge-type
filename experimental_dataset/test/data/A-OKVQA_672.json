@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 672,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_672.png",
+    "question": "What video game system are the boys playing on?",
+    "label": "['nintendo wii', 'wii', 'wii', 'wii', 'wii', 'nintendo wii', 'wii', 'nintendo wii', 'wii', 'nintendo wii']",
+    "choices": [
+        "xbox one",
+        "nintendo wii",
+        "nintendo gamecube",
+        "playstation 4"
+    ],
+    "correct_choice": "nintendo wii"
+}

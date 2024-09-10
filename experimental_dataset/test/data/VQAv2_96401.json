@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 96401,
+    "image_path": "./experimental_dataset/test/images/VQAv2_96401.png",
+    "question": "What kind of dog is on the right?",
+    "label": [
+        "doberman",
+        "drug sniffing dog",
+        "hound",
+        "labrador",
+        "retriever",
+        "lab",
+        "mutt",
+        "mutt",
+        "lab",
+        "dachshund"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1050,
+    "caption": "a woman sitting on a couch with a laptop",
+    "object_tags": [
+        "person",
+        "clothing",
+        "human face",
+        "laptop",
+        "indoor",
+        "fashion accessory",
+        "computer",
+        "glasses",
+        "smile",
+        "wall",
+        "sitting",
+        "woman",
+        "using",
+        "hat",
+        "wearing"
+    ]
+}

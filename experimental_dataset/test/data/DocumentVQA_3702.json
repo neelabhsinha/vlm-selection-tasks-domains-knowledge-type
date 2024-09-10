@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3702,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3702.png",
+    "question": "How many stepped care participants were there for the \u2018comparison of diastolic blood pressure percent distributions\u2019?",
+    "label": [
+        "5485"
+    ]
+}

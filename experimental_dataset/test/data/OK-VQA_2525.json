@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2525,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2525.png",
+    "question": "What breed of animal is on the picture?",
+    "label": [
+        "penguin",
+        "penguin",
+        "penguin",
+        "penguin",
+        "penguin",
+        "penguin",
+        "penguin",
+        "penguin",
+        "emperor penguin",
+        "emperor penguin"
+    ]
+}

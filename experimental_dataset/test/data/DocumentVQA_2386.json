@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2386,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2386.png",
+    "question": "According to the bar graph what percent of people are ' not at all ' likely to use ultamet XL ?",
+    "label": [
+        "0%",
+        "0"
+    ]
+}

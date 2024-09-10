@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 721,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_721.png",
+    "question": "What common functional element is missing from the boats on the scaffolding?",
+    "label": "['sails', 'sail', 'sails', 'sail', 'sail', 'sails', 'sail', 'sails', 'sail', 'liferaft']",
+    "choices": [
+        "sleeping quarters",
+        "anchors",
+        "sails",
+        "engine room"
+    ],
+    "correct_choice": "sails"
+}

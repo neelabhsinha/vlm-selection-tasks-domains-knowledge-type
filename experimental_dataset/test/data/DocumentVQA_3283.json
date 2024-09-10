@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3283,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3283.png",
+    "question": "Who is the RJR Lobbyist?",
+    "label": [
+        "PAT SULLIVAN",
+        "Pat Sullivan"
+    ]
+}

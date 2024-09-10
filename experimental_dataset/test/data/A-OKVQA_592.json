@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 592,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_592.png",
+    "question": "Who is winning the game?",
+    "label": "['michani', 'russell', 'mich russell', 'russell', 'michael russel', 'michael', 'his opponent', 'michael russell', 'mitch russell', 'russell']",
+    "choices": [
+        "preston",
+        "ryan",
+        "michael",
+        "harrison"
+    ],
+    "correct_choice": "michael"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 178,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_178.png",
+    "question": "What pattern is on the bottom of the skateboard?",
+    "label": "['n pattern', 'letters', 'zigzag', 'outline pattern', 'lettering', 'polka dots', 'letters', 'graffiti', 'zero', 'letters']",
+    "choices": [
+        "zigzag",
+        "plaid",
+        "stripes",
+        "polka dots"
+    ],
+    "correct_choice": "polka dots"
+}

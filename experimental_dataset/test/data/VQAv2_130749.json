@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 130749,
+    "image_path": "./experimental_dataset/test/images/VQAv2_130749.png",
+    "question": "What is the man on the left holding?",
+    "label": [
+        "knife",
+        "knife",
+        "knife",
+        "knife",
+        "knife",
+        "knife",
+        "knife",
+        "knife",
+        "knife",
+        "bride"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 36,
+    "caption": "a man standing in a kitchen preparing food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "kitchen appliance",
+        "kitchen",
+        "countertop",
+        "man",
+        "indoor",
+        "home appliance",
+        "cookware and bakeware",
+        "food processing",
+        "standing",
+        "cooking",
+        "food",
+        "preparing",
+        "oven"
+    ]
+}

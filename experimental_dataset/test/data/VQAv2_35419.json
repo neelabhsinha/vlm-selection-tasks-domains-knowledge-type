@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 35419,
+    "image_path": "./experimental_dataset/test/images/VQAv2_35419.png",
+    "question": "Who ate the sandwich?",
+    "label": [
+        "person",
+        "don't know",
+        "customer",
+        "man",
+        "person",
+        "photographer",
+        "???",
+        "person",
+        "i don't know",
+        "woman"
+    ]
+}

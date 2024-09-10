@@ -1,0 +1,33 @@
+{
+    "dataset": "VQAv2",
+    "key": 130966,
+    "caption": "a sandwich and french fries on a table",
+    "object_tags": [
+        "food",
+        "fast food",
+        "fried food",
+        "french fries",
+        "cuisine",
+        "dish",
+        "american food",
+        "deep frying",
+        "meal",
+        "kids' meal",
+        "british cuisine",
+        "fish and chips",
+        "vegetable",
+        "junk food",
+        "chicken and chips",
+        "side dish",
+        "frying",
+        "staple food",
+        "take-out food",
+        "snack",
+        "fries",
+        "indoor",
+        "potato",
+        "restaurant",
+        "chicken",
+        "meat"
+    ]
+}

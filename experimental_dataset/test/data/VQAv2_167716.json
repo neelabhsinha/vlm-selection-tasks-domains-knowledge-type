@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 167716,
+    "image_path": "./experimental_dataset/test/images/VQAv2_167716.png",
+    "question": "What is the name of the boat in the background?",
+    "label": [
+        "unanswerable",
+        "ian",
+        "bob",
+        "sail",
+        "minnow",
+        "usa",
+        "tugboat",
+        "opera",
+        "ferry",
+        "cruise"
+    ]
+}

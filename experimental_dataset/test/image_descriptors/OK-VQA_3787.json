@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3787,
+    "caption": "a pile of donuts sitting on top of a table",
+    "object_tags": [
+        "food",
+        "doughnut",
+        "snack",
+        "baked goods",
+        "glaze",
+        "ciambella",
+        "bagel",
+        "dessert",
+        "bakery",
+        "baking",
+        "pastry",
+        "cider doughnut",
+        "donut",
+        "indoor"
+    ]
+}

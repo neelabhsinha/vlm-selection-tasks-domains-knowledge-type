@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 151,
+    "image_path": "./experimental_dataset/test/images/ChartQA_151.png",
+    "question": "Is the product of smallest value of Approve graph and largest value of Disapprove graph, greater than 2000?",
+    "label": [
+        "No"
+    ]
+}

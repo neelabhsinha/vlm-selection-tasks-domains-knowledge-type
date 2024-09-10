@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1548,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1548.png",
+    "question": "What was the population of Sweden in 2019?",
+    "label": [
+        "10.38"
+    ]
+}

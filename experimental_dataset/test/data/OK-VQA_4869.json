@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4869,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4869.png",
+    "question": "What are the decals made of?",
+    "label": [
+        "plastic",
+        "plastic",
+        "plastic",
+        "plastic",
+        "vinyl",
+        "vinyl",
+        "plastic sticker",
+        "plastic sticker",
+        "plane",
+        "plane"
+    ]
+}

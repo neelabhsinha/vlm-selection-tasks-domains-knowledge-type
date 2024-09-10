@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 803,
+    "caption": "a bathroom with two sinks and a mirror",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "plumbing fixture",
+        "bathroom",
+        "bathroom accessory",
+        "tap",
+        "lighting",
+        "mirror",
+        "ceiling fixture",
+        "light fixture",
+        "light",
+        "sink"
+    ]
+}

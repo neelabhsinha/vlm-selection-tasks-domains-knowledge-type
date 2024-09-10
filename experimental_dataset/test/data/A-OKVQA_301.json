@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 301,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_301.png",
+    "question": "The bag which the cat is standing is used for what?",
+    "label": "['travel', 'books', 'travel', 'traveling clothing', 'travel', 'luggage', 'travel', 'travel', 'litter', 'luggage']",
+    "choices": [
+        "groceries",
+        "travel",
+        "school",
+        "purse"
+    ],
+    "correct_choice": "travel"
+}

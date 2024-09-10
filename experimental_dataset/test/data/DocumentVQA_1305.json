@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1305,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1305.png",
+    "question": "What is the staple diet of Denmark?",
+    "label": [
+        "Fish, cheese"
+    ]
+}

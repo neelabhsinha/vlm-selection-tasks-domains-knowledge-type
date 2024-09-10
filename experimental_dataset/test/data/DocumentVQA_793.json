@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 793,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_793.png",
+    "question": "When is the date to be paid?",
+    "label": [
+        "2/12/2010"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 258,
+    "caption": "a television on a stand in front of a wall",
+    "object_tags": [
+        "text",
+        "clothing",
+        "building",
+        "screenshot",
+        "sign",
+        "wall",
+        "person",
+        "indoor",
+        "outdoor",
+        "street"
+    ]
+}

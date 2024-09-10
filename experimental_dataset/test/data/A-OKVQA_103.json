@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 103,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_103.png",
+    "question": "What color are the walls in the room?",
+    "label": "['green', 'green', 'green', 'green', 'grey/green', 'green', 'green', 'dark green', 'green', 'grey']",
+    "choices": [
+        "orange",
+        "yellow",
+        "blue",
+        "green"
+    ],
+    "correct_choice": "green"
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2445,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2445.png",
+    "question": "who is the RJRT authorised agent?",
+    "label": [
+        "Terry Whitson",
+        "terry whitson"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4099,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4099.png",
+    "question": "Which item shown here would beach goers have to refrain from using for the sun to produce extra melanin in their skin resulting in browning?",
+    "label": [
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "umbrella",
+        "sunblock",
+        "sunblock"
+    ]
+}

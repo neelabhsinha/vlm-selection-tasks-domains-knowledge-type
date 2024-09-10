@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4594,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4594.png",
+    "question": "What is the suite number for ILSI ?",
+    "label": [
+        "600",
+        "Suite 600"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4847,
+    "caption": "giraffes and zebras in a fenced in area",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "outdoor",
+        "tree",
+        "grass",
+        "giraffe",
+        "plant",
+        "zoo",
+        "wildlife",
+        "terrestrial animal",
+        "sky",
+        "giraffidae",
+        "standing",
+        "field",
+        "enclosure"
+    ]
+}

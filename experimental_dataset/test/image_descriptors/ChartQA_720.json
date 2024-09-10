@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 720,
+    "caption": "a close up picture of a blue and white vase",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "diagram",
+        "colorfulness",
+        "circle",
+        "plot"
+    ]
+}

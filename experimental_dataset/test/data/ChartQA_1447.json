@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1447,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1447.png",
+    "question": "What was Bridgestone's worldwide revenue in the 2020 fiscal year?",
+    "label": [
+        "2994.52"
+    ]
+}

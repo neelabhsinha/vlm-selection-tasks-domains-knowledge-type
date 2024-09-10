@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 144072,
+    "caption": "a red and white train traveling down train tracks",
+    "object_tags": [
+        "tree",
+        "outdoor",
+        "vehicle",
+        "land vehicle",
+        "public transport",
+        "track",
+        "railway",
+        "rolling stock",
+        "transport",
+        "train",
+        "red",
+        "railroad",
+        "traveling",
+        "rail",
+        "ground",
+        "travel"
+    ]
+}

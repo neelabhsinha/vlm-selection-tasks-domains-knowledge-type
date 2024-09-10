@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 302,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_302.png",
+    "question": "What is the date given below the signature?",
+    "label": [
+        "6.14.74"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3515,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3515.png",
+    "question": "what is the name of venue ?",
+    "label": [
+        "Abbey",
+        "abbey"
+    ]
+}

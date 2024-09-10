@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 15063,
+    "caption": "a brown and white dog wearing a hat",
+    "object_tags": [
+        "hat",
+        "dog breed",
+        "pet",
+        "bulldog",
+        "snout",
+        "indoor",
+        "collar",
+        "old english bulldog",
+        "australian bulldog",
+        "wearing",
+        "animal",
+        "dog",
+        "brown",
+        "mammal"
+    ]
+}

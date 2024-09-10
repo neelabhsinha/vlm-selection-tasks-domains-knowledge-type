@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 831,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_831.png",
+    "question": "What profession is the majority of the sideline?",
+    "label": "['photographers', 'journalism', 'photographers', 'photographers', 'photographers', 'journalism', 'photographers', 'photographers', 'photographers', 'journalism']",
+    "choices": [
+        "tennis players",
+        "photographers",
+        "football players",
+        "referees"
+    ],
+    "correct_choice": "photographers"
+}

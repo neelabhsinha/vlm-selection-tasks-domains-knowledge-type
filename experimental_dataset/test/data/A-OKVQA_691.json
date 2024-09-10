@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 691,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_691.png",
+    "question": "What are the giant cribs likely used for?",
+    "label": "['parade', 'parade float', 'entertainment', 'racing', 'floats', 'floats', 'displays', 'haunted festival', 'no clue', 'racing']",
+    "choices": [
+        "parade",
+        "baby",
+        "student",
+        "teacher"
+    ],
+    "correct_choice": "parade"
+}

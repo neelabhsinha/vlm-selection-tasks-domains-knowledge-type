@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 59126,
+    "caption": "a man driving a horse drawn carriage down a road",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "road",
+        "car",
+        "person",
+        "tree",
+        "automotive mirror",
+        "wheel",
+        "rear-view mirror",
+        "windshield",
+        "bicycle",
+        "auto part",
+        "automotive side-view mirror",
+        "sky",
+        "riding",
+        "car mirror",
+        "street",
+        "mirror",
+        "driving"
+    ]
+}

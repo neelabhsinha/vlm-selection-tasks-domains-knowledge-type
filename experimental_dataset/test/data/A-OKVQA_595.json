@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 595,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_595.png",
+    "question": "What is this game played with?",
+    "label": "['baseball', 'ball', 'baseball', 'baseball', 'bats', 'baseball', 'ball', 'ball', 'baseball', 'baseball']",
+    "choices": [
+        "rugby ball",
+        "ball",
+        "puck",
+        "golfball"
+    ],
+    "correct_choice": "ball"
+}

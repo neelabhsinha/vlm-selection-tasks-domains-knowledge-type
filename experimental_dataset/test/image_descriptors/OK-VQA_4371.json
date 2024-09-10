@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4371,
+    "caption": "a herd of elephants standing on top of a lush green field",
+    "object_tags": [
+        "text",
+        "elephant",
+        "tree",
+        "outdoor",
+        "mammal",
+        "animal",
+        "grass",
+        "safari",
+        "wildlife"
+    ]
+}

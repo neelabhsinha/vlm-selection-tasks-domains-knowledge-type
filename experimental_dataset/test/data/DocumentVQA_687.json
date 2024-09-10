@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 687,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_687.png",
+    "question": "What does the symbol * indicate?",
+    "label": [
+        "exposure to, and type of, diluent requires further study.",
+        "Exposure to, and type of, diluent requires further study"
+    ]
+}

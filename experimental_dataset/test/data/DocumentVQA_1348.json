@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1348,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1348.png",
+    "question": "What is the title of first plot?",
+    "label": [
+        "OCP vs time control 6,grooved",
+        "OCP VS TIME"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 806,
+    "caption": "a laptop computer sitting on top of a wooden desk",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "personal computer",
+        "computer",
+        "furniture",
+        "laptop",
+        "output device",
+        "computer desk",
+        "computer hardware",
+        "office equipment",
+        "sitting",
+        "table",
+        "mac",
+        "office",
+        "desk"
+    ]
+}

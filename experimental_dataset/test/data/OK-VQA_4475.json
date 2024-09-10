@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4475,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4475.png",
+    "question": "What is this monument made of?",
+    "label": [
+        "stone",
+        "stone",
+        "stone",
+        "stone",
+        "cast iron",
+        "cast iron",
+        "limestone",
+        "limestone",
+        "concrete",
+        "concrete"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 756,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_756.png",
+    "question": "Some of the children are wearing head coverings likely for what reason?",
+    "label": "['celebration', 'religious', 'party fun', 'play', \"they're girls\", 'christmas', 'dress up', 'costumes', 'dust', 'costume']",
+    "choices": [
+        "medical",
+        "uniform",
+        "religious",
+        "costume"
+    ],
+    "correct_choice": "costume"
+}

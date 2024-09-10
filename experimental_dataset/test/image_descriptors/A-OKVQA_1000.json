@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1000,
+    "caption": "a herd of elephants standing next to each other",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "elephant",
+        "outdoor",
+        "terrestrial animal",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "ground",
+        "zoo",
+        "african elephant",
+        "wildlife",
+        "tusk",
+        "plant",
+        "safari",
+        "standing"
+    ]
+}

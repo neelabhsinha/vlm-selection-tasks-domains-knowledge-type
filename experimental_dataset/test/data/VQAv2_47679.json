@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 47679,
+    "image_path": "./experimental_dataset/test/images/VQAv2_47679.png",
+    "question": "What is on TV?",
+    "label": [
+        "woman",
+        "show",
+        "dunno",
+        "people's court",
+        "woman",
+        "woman",
+        "woman",
+        "judge judy",
+        "people",
+        "judge judy"
+    ]
+}

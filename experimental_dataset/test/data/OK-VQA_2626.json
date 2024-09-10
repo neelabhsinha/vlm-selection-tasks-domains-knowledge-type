@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2626,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2626.png",
+    "question": "What is the complimentary color of the light in the top right corner?",
+    "label": [
+        "green",
+        "green",
+        "green",
+        "green",
+        "black",
+        "black",
+        "pink",
+        "pink",
+        "red",
+        "red"
+    ]
+}

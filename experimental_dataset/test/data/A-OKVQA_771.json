@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 771,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_771.png",
+    "question": "What will the ump yell if the player makes contact with the ball?",
+    "label": "['strike', 'nothing', 'nothing', 'fair play', 'nothing', 'nothing', 'fair ball', 'fair ball', 'hit', 'nothing']",
+    "choices": [
+        "strike",
+        "ejected",
+        "nothing",
+        "out"
+    ],
+    "correct_choice": "nothing"
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 302,
+    "caption": "a series of photos showing different types of patterns",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "colorfulness",
+        "diagram",
+        "parallel"
+    ]
+}

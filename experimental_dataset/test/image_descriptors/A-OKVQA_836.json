@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 836,
+    "caption": "a table topped with a vase filled with flowers",
+    "object_tags": [
+        "houseplant",
+        "flowerpot",
+        "indoor",
+        "vase",
+        "floor",
+        "floral design",
+        "flower arranging",
+        "table",
+        "floristry",
+        "centrepiece",
+        "flower",
+        "plant",
+        "window"
+    ]
+}

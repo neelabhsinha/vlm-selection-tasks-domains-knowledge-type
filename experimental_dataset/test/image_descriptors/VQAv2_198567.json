@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 198567,
+    "caption": "a herd of cattle grazing on a lush green field",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "sky",
+        "plant",
+        "field",
+        "animal",
+        "cattle",
+        "savanna",
+        "rural area",
+        "cow",
+        "standing",
+        "landscape",
+        "nature",
+        "tree",
+        "mammal",
+        "bovine"
+    ]
+}

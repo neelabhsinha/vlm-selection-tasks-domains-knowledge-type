@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4777,
+    "caption": "a crowd of people standing around a train",
+    "object_tags": [
+        "sky",
+        "person",
+        "outdoor",
+        "clothing",
+        "vehicle",
+        "man",
+        "human face",
+        "transport",
+        "train",
+        "land vehicle",
+        "people",
+        "bus",
+        "black and white",
+        "street"
+    ]
+}

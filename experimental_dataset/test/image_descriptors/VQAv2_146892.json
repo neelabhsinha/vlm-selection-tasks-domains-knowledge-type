@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 146892,
+    "caption": "people sitting at a table with laptops",
+    "object_tags": [
+        "indoor",
+        "people",
+        "person",
+        "man",
+        "clothing",
+        "group",
+        "wall",
+        "meeting",
+        "laptop",
+        "conference hall",
+        "office building",
+        "sitting",
+        "computer",
+        "collaboration",
+        "woman",
+        "conference room table",
+        "furniture",
+        "table"
+    ]
+}

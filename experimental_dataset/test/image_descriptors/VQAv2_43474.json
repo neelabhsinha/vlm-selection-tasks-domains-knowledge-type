@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 43474,
+    "caption": "a beach area with umbrellas and a pool",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "building",
+        "shade",
+        "ground",
+        "tree",
+        "water",
+        "beach",
+        "resort town",
+        "resort",
+        "seaside resort",
+        "shore",
+        "hotel"
+    ]
+}

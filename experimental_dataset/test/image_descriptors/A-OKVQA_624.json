@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 624,
+    "caption": "a woman sitting on a motorcycle next to a fire hydrant",
+    "object_tags": [
+        "outdoor",
+        "wheel",
+        "land vehicle",
+        "vehicle",
+        "tire",
+        "sky",
+        "footwear",
+        "person",
+        "tree",
+        "clothing",
+        "ground",
+        "car",
+        "auto part",
+        "motorcycle",
+        "people",
+        "street"
+    ]
+}

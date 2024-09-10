@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 60290,
+    "image_path": "./experimental_dataset/test/images/VQAv2_60290.png",
+    "question": "How many cookies are on her baking sheet?",
+    "label": [
+        "12",
+        "14",
+        "12",
+        "15",
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "12"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2873,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2873.png",
+    "question": "What type of phone is the woman looking at?",
+    "label": [
+        "flip phone",
+        "flip phone",
+        "flip phone",
+        "flip phone",
+        "nokia",
+        "nokia",
+        "flip",
+        "flip",
+        "cellphone",
+        "cellphone"
+    ]
+}

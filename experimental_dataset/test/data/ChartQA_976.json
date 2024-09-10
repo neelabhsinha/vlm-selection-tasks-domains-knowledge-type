@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 976,
+    "image_path": "./experimental_dataset/test/images/ChartQA_976.png",
+    "question": "What does the light blue color indicate?",
+    "label": [
+        "Media workers"
+    ]
+}

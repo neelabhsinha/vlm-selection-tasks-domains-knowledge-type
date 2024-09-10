@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 340,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_340.png",
+    "question": "What is the most likely material of the floor?",
+    "label": "['ceramic', 'laminate', 'wood', 'tile', 'tiles', 'tile', 'porcelain', 'tile', 'tile', 'tiles']",
+    "choices": [
+        "terra cotta",
+        "marble",
+        "porcelain",
+        "vinyl"
+    ],
+    "correct_choice": "porcelain"
+}

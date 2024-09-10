@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2846,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2846.png",
+    "question": "Who is the chairman of the Scientific advisory committee?",
+    "label": [
+        "Foundation Pres."
+    ]
+}

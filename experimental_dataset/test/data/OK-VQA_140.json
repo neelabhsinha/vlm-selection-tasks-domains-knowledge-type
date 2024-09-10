@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 140,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_140.png",
+    "question": "Where can i buy flowers like these?",
+    "label": [
+        "florist",
+        "florist",
+        "florist",
+        "florist",
+        "flower shop",
+        "flower shop",
+        "store",
+        "store",
+        "kroger",
+        "kroger"
+    ]
+}

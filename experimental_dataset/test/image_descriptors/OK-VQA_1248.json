@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1248,
+    "caption": "a person preparing food in a kitchen",
+    "object_tags": [
+        "person",
+        "food",
+        "meal",
+        "fast food",
+        "snack",
+        "cooking",
+        "clothing",
+        "indoor",
+        "cuisine",
+        "kitchen appliance",
+        "cookware and bakeware",
+        "side dish",
+        "potato",
+        "preparing",
+        "kitchen"
+    ]
+}

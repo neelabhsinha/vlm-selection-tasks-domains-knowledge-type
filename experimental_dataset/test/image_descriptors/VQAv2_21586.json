@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 21586,
+    "caption": "a large clock tower in the middle of a city",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "tree",
+        "clock",
+        "town square",
+        "building",
+        "tower",
+        "public space",
+        "town",
+        "street",
+        "people",
+        "city",
+        "winter"
+    ]
+}

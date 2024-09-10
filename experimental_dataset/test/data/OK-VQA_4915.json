@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4915,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4915.png",
+    "question": "What activity is taking place?",
+    "label": [
+        "skateboard",
+        "skateboard",
+        "skateboard",
+        "skateboard",
+        "skaetboarding",
+        "skaetboarding",
+        "skateboard",
+        "skateboard",
+        "nothing",
+        "nothing"
+    ]
+}

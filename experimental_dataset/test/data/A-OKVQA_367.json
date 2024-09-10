@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 367,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_367.png",
+    "question": "What countries flag can be seen near the front of the classroom?",
+    "label": "['usa', 'united states', 'usa', 'usa', 'united states', 'usa', 'united states', 'united states', 'america', 'united states']",
+    "choices": [
+        "germany",
+        "italy",
+        "united kingdom",
+        "united states"
+    ],
+    "correct_choice": "united states"
+}

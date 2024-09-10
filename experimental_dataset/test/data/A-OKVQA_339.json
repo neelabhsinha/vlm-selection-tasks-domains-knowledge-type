@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 339,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_339.png",
+    "question": "What type of terrain is beyond the table and grill?",
+    "label": "['dirt', 'grass', 'grass', 'sands', 'grass', 'flat ground', 'grassy', 'dirt', 'grassy', 'dirt']",
+    "choices": [
+        "hilly",
+        "grassy",
+        "sandy",
+        "muddy"
+    ],
+    "correct_choice": "grassy"
+}

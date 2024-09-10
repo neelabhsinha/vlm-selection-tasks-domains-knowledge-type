@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1045,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1045.png",
+    "question": "Which vehicle is leading traffic?",
+    "label": "['trolley', 'trolley', 'train', 'trolley', 'bus', 'bus', 'bus', 'trolly', 'trolley car', 'streetcar']",
+    "choices": [
+        "trolley",
+        "walker",
+        "motorcycle",
+        "car"
+    ],
+    "correct_choice": "trolley"
+}

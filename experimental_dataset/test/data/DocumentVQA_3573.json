@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3573,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3573.png",
+    "question": "What is the value against 'Hypercholesterolemia (Serum Chol> 200mg/dL), n' in second column?",
+    "label": [
+        "12"
+    ]
+}

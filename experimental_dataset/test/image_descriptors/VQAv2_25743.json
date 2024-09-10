@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 25743,
+    "caption": "a woman standing on top of a piece of luggage",
+    "object_tags": [
+        "luggage",
+        "suitcase",
+        "luggage and bags",
+        "case",
+        "accessory",
+        "footwear",
+        "person",
+        "wall",
+        "handbag",
+        "ankle",
+        "indoor",
+        "sandal",
+        "bag",
+        "hand luggage",
+        "legs",
+        "floor"
+    ]
+}

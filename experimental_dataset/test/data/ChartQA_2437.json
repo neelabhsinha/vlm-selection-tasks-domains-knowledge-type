@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2437,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2437.png",
+    "question": "What was the total asset size of Rabobank in 2019?",
+    "label": [
+        "590598"
+    ]
+}

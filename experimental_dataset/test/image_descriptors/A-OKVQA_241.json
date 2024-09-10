@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 241,
+    "caption": "a man holding an umbrella standing in front of a body of water",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "sky",
+        "umbrella",
+        "man",
+        "holding",
+        "water",
+        "fashion accessory",
+        "ground",
+        "mountain",
+        "accessory",
+        "standing",
+        "red",
+        "lake"
+    ]
+}

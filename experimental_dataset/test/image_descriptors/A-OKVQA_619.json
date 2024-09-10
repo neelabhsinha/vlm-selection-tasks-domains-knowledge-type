@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 619,
+    "caption": "a glass bowl filled with fruit next to a bowl filled with ice cream",
+    "object_tags": [
+        "food",
+        "meal",
+        "fruit",
+        "strawberry",
+        "dessert",
+        "snack",
+        "indoor",
+        "bowl"
+    ]
+}

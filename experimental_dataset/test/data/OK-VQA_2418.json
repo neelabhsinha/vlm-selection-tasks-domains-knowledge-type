@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2418,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2418.png",
+    "question": "What tennis championships are held on clay courts?",
+    "label": [
+        "wimbledon",
+        "wimbledon",
+        "wimbledon",
+        "wimbledon",
+        "french open",
+        "french open",
+        "wimbeldon",
+        "wimbeldon",
+        "wta tournament",
+        "wta tournament"
+    ]
+}

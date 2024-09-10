@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 851,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_851.png",
+    "question": "What is the woman wearing?",
+    "label": "['tie', 'suit', 'tie', 'tie', 'tie', 'earrings', 'tie', 'ties', 'tie', 'tie']",
+    "choices": [
+        "nothing",
+        "helmet",
+        "tie",
+        "bow"
+    ],
+    "correct_choice": "tie"
+}

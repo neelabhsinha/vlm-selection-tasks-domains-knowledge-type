@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 609,
+    "caption": "people standing around a table with bottles of wine",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "woman",
+        "bottle",
+        "people",
+        "wine",
+        "drink",
+        "group",
+        "indoor",
+        "standing",
+        "crowd",
+        "event"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4244,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4244.png",
+    "question": "What is the phone number of James L. Breeling ?",
+    "label": [
+        "(312) 751-6566"
+    ]
+}

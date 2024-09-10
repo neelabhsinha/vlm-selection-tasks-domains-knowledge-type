@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 574,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_574.png",
+    "question": "What is on top of the man?",
+    "label": "['blanket', 'parking meter', 'sleeping bag', 'sleeping blanket', 'sleeping bag', 'sleeping bag', 'blanket', 'sleeping bag', 'blanket', 'blanket']",
+    "choices": [
+        "blanket",
+        "newspapers",
+        "sleeping bag",
+        "clothing"
+    ],
+    "correct_choice": "sleeping bag"
+}

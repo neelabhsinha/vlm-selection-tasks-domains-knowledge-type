@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1234,
+    "caption": "a dog eating a piece of pizza on a plate",
+    "object_tags": [
+        "dog",
+        "animal",
+        "food",
+        "indoor",
+        "floor",
+        "black",
+        "eating",
+        "tableware"
+    ]
+}

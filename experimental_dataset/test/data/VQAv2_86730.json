@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 86730,
+    "image_path": "./experimental_dataset/test/images/VQAv2_86730.png",
+    "question": "Is it windy?",
+    "label": [
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

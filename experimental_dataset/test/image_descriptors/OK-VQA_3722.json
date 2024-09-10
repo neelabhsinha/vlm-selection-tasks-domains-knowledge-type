@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3722,
+    "caption": "two men in a kitchen preparing food in a commercial kitchen",
+    "object_tags": [
+        "indoor",
+        "person",
+        "clothing",
+        "countertop",
+        "wall",
+        "kitchen appliance",
+        "cook",
+        "kitchen",
+        "chef",
+        "cookware and bakeware",
+        "chef's uniform",
+        "food processing",
+        "home appliance",
+        "sink",
+        "chief cook",
+        "food",
+        "ceiling",
+        "preparing",
+        "cooking"
+    ]
+}

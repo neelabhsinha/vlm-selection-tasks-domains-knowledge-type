@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 536,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_536.png",
+    "question": "Which conveyance shown burns the least gas?",
+    "label": "['bike', 'scooter', 'bicycle', 'bike', 'motorcycle', 'motor', 'bike', 'bike', 'bicycle', 'bicycle']",
+    "choices": [
+        "bus",
+        "car",
+        "motor cycle",
+        "bicycle"
+    ],
+    "correct_choice": "bicycle"
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 1937,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Sports",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Cultural Knowledge",
+        "Technical Knowledge",
+        "Social Knowledge"
+    ]
+}

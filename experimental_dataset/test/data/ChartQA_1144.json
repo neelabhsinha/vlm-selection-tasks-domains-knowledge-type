@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1144,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1144.png",
+    "question": "In which year there was lowest per capita real gross domestic product of ohio?",
+    "label": [
+        "2001"
+    ]
+}

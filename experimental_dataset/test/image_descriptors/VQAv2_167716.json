@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 167716,
+    "caption": "boats are docked in a harbor",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "ship",
+        "watercraft",
+        "lake",
+        "vehicle",
+        "transport",
+        "waterway",
+        "river",
+        "boat",
+        "travel"
+    ]
+}

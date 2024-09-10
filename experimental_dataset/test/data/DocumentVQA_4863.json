@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4863,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4863.png",
+    "question": "What % of males in age group 17-59, showed unsatisfactory hematocrit levels?",
+    "label": [
+        "10.7"
+    ]
+}

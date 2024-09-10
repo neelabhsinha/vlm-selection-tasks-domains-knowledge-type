@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 115316,
+    "image_path": "./experimental_dataset/test/images/VQAv2_115316.png",
+    "question": "What is the Ave that starts with the letter T?",
+    "label": [
+        "none",
+        "none shown",
+        "no ave like that",
+        "third",
+        "madison",
+        "none",
+        "none",
+        "there is no such thing",
+        "not ave",
+        "trenton"
+    ]
+}

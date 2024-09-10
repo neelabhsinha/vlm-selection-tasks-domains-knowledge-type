@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 837,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_837.png",
+    "question": "What does the triangular sign indicate?",
+    "label": "['roundabout', 'rotary', 'circular turn', 'roundabout', 'roundabout', 'roundabout', 'yield', 'roundabout', 'roundabout', 'turnabout']",
+    "choices": [
+        "parking",
+        "roundabout",
+        "recycle",
+        "yield"
+    ],
+    "correct_choice": "roundabout"
+}

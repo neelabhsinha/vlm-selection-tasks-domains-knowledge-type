@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 176691,
+    "caption": "a cat laying on top of a wooden table",
+    "object_tags": [
+        "indoor",
+        "small to medium-sized cats",
+        "felidae",
+        "domestic cat",
+        "cat",
+        "whiskers",
+        "mammal",
+        "computer",
+        "keyboard",
+        "animal",
+        "laying",
+        "domestic short-haired cat",
+        "sleeping"
+    ]
+}

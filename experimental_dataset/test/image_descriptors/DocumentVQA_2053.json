@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2053,
+    "caption": "a collage of photographs of various types of knives",
+    "object_tags": [
+        "text",
+        "sketch",
+        "handwriting",
+        "drawing",
+        "parallel"
+    ]
+}

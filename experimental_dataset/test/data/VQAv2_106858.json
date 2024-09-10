@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 106858,
+    "image_path": "./experimental_dataset/test/images/VQAv2_106858.png",
+    "question": "Are the walls painted or treated with some other type of medium?",
+    "label": [
+        "no",
+        "tile",
+        "linoleum",
+        "pattern",
+        "tiled",
+        "tile",
+        "yes",
+        "no",
+        "tiled",
+        "treated"
+    ]
+}

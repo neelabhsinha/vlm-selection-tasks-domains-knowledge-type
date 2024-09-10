@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 4883,
+    "image_path": "./experimental_dataset/test/images/VQAv2_4883.png",
+    "question": "Do the waves look calm?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

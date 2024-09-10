@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 662,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_662.png",
+    "question": "What is in the bottle with the wooden top?",
+    "label": "['hot sauce', 'hot sauce', 'hot sauce', 'hot sauce', 'chalupa', 'chalupa', 'hot sauce', 'chalupa', 'hot sauce', 'hot sauce']",
+    "choices": [
+        "hot sauce",
+        "ketchup",
+        "salt",
+        "sugar"
+    ],
+    "correct_choice": "hot sauce"
+}

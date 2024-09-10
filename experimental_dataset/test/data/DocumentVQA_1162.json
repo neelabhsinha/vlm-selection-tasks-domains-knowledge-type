@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1162,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1162.png",
+    "question": "What is the 4th concern?",
+    "label": [
+        "quantification of the suggestive cancer endpoint",
+        "Quantification of suggestive cancer endpoint"
+    ]
+}

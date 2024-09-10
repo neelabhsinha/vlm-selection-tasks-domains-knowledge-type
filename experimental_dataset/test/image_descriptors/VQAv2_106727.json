@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 106727,
+    "caption": "a teddy bear sitting on top of a wooden chair",
+    "object_tags": [
+        "teddy",
+        "toy",
+        "stuffed",
+        "indoor",
+        "stuffed toy",
+        "plush",
+        "chair",
+        "teddy bear",
+        "furniture",
+        "bear",
+        "wall",
+        "sitting",
+        "floor"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 520,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_520.png",
+    "question": "Which surface type is the cat sitting upon?",
+    "label": "['wood', 'wood porch', 'deck', 'wooden', 'deck', 'seeing face', 'deck', 'wood', 'wood', 'wood']",
+    "choices": [
+        "wood",
+        "snow",
+        "glass",
+        "metal"
+    ],
+    "correct_choice": "wood"
+}

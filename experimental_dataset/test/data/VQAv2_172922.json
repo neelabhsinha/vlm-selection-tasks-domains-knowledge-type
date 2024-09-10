@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 172922,
+    "image_path": "./experimental_dataset/test/images/VQAv2_172922.png",
+    "question": "Is there a blue crab painted?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "not visible",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

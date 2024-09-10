@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2033,
+    "caption": "a black and white cat sitting on top of a book shelf",
+    "object_tags": [
+        "indoor",
+        "animal",
+        "cat",
+        "wall",
+        "text",
+        "computer monitor",
+        "small to medium-sized cats",
+        "felidae",
+        "furniture",
+        "monitor",
+        "flat panel display",
+        "television set",
+        "output device",
+        "sitting",
+        "television",
+        "shelf",
+        "screen",
+        "black",
+        "standing"
+    ]
+}

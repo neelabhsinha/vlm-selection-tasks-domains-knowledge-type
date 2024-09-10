@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3475,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3475.png",
+    "question": "How many events are listed in the agenda of the enforcement committee meeting?",
+    "label": [
+        "6"
+    ]
+}

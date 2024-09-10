@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 111134,
+    "caption": "a pile of logs on top of a dock",
+    "object_tags": [
+        "outdoor",
+        "ship",
+        "boat",
+        "water",
+        "lake",
+        "watercraft",
+        "vehicle",
+        "dock"
+    ]
+}

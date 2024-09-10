@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 1825,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Nutrition and Food"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Cultural Knowledge",
+        "Temporal Knowledge",
+        "Social Knowledge"
+    ]
+}

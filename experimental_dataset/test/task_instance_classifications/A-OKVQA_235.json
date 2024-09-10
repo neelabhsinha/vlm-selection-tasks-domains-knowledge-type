@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 235,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "History",
+        "Nutrition and Food"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge"
+    ]
+}

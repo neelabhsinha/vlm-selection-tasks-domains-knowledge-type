@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2954,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2954.png",
+    "question": "What is the fine arts building # ?",
+    "label": [
+        "44"
+    ]
+}

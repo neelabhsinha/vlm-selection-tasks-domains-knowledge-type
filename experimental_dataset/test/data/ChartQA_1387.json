@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1387,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1387.png",
+    "question": "How many dollars did record production and distribution companies spend in 2019?",
+    "label": [
+        "7.68"
+    ]
+}

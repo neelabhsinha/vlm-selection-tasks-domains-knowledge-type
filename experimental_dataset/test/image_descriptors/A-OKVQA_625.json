@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 625,
+    "caption": "a woman looking at her cell phone while standing in front of a body of water",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "water",
+        "lake",
+        "bridge",
+        "people",
+        "woman",
+        "ground",
+        "standing",
+        "river",
+        "looking",
+        "street"
+    ]
+}

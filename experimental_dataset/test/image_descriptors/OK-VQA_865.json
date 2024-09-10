@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 865,
+    "caption": "two jockeys riding horses on a beach",
+    "object_tags": [
+        "outdoor",
+        "sport",
+        "horse",
+        "sky",
+        "rein",
+        "saddle",
+        "equestrianism",
+        "bridle",
+        "horse tack",
+        "horse supplies",
+        "riding",
+        "stallion",
+        "equitation",
+        "mare",
+        "halter",
+        "ground",
+        "animal sports",
+        "equestrian sport",
+        "mane",
+        "beach",
+        "people",
+        "person",
+        "group",
+        "horse racing",
+        "running"
+    ]
+}

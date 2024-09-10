@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2469,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2469.png",
+    "question": "How many units of AR glasses are expected to be sold by 2021?",
+    "label": [
+        "0.41"
+    ]
+}

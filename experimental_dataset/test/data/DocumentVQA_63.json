@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 63,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_63.png",
+    "question": "In which states the brand 'Royal Special Filter' has been launched?",
+    "label": [
+        "Uttar Pradesh and Kerala"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1720,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1720.png",
+    "question": "How many people are projected to have dementia by 2050 in Indonesia?",
+    "label": [
+        "3979"
+    ]
+}

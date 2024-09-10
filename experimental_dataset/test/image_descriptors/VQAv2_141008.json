@@ -1,0 +1,28 @@
+{
+    "dataset": "VQAv2",
+    "key": 141008,
+    "caption": "a white dog with a blue collar sitting on a chair",
+    "object_tags": [
+        "dog breed",
+        "pet",
+        "dog",
+        "terrier",
+        "indoor",
+        "rare breed (dog)",
+        "companion dog",
+        "west highland white terrier",
+        "sporting lucas terrier",
+        "schnoodle",
+        "poodle crossbreed",
+        "havanese",
+        "briquet griffon vendaen",
+        "yorkipoo",
+        "toy dog",
+        "irish soft-coated wheaten terrier",
+        "sapsali",
+        "tibetan terrier",
+        "glen of imaal terrier",
+        "person",
+        "wearing"
+    ]
+}

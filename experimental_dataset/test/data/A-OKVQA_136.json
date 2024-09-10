@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 136,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_136.png",
+    "question": "What object should never get wet?",
+    "label": "['laptop', 'laptop', 'under rock', 'laptop computer', 'laptop', 'umbrella', 'electronics', 'cloth', 'laptop', 'laptop phone']",
+    "choices": [
+        "laptop",
+        "computer monitor",
+        "tv",
+        "jacket"
+    ],
+    "correct_choice": "laptop"
+}

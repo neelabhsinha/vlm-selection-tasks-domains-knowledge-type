@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 81,
+    "image_path": "./experimental_dataset/test/images/ChartQA_81.png",
+    "question": "what is the ratio of Conservatives who say that citizens should prove what they want to want versus people who say that everything should be done to make it possible to vote?",
+    "label": [
+        "1.051388889"
+    ]
+}

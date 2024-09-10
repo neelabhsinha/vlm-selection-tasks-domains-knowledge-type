@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2166,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2166.png",
+    "question": "What is zip code?",
+    "label": [
+        "47809"
+    ]
+}

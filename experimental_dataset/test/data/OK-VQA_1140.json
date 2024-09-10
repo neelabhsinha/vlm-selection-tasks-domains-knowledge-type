@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1140,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1140.png",
+    "question": "How long is this size bed?",
+    "label": [
+        "75 inches",
+        "75 inches",
+        "75 inches",
+        "75 inches",
+        "6 feet",
+        "6 feet",
+        "7ft",
+        "7ft",
+        "80 inches",
+        "80 inches"
+    ]
+}

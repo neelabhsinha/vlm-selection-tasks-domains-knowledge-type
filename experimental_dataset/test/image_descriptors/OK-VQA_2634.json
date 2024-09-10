@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2634,
+    "caption": "a bicycle parked in a bedroom next to a bed",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "bicycle",
+        "bed sheet",
+        "linens",
+        "house",
+        "cabinetry",
+        "bedding",
+        "drawer",
+        "chest of drawers",
+        "mattress",
+        "room",
+        "bedroom",
+        "bed"
+    ]
+}

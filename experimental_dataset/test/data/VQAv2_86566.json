@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 86566,
+    "image_path": "./experimental_dataset/test/images/VQAv2_86566.png",
+    "question": "Is this a new plane?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "not sure",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

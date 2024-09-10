@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2880,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "Anthropology",
+        "Government and Politics"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Cultural Knowledge",
+        "Temporal Knowledge"
+    ]
+}

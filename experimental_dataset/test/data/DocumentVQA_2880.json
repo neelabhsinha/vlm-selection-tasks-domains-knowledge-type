@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2880,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2880.png",
+    "question": "How many students were tested as candidates in psychiatry?",
+    "label": [
+        "40"
+    ]
+}

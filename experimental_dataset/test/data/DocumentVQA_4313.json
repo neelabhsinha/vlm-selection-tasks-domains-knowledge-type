@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4313,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4313.png",
+    "question": "What is the name of the sender ?",
+    "label": [
+        "G.N.Kuruc, Jr.",
+        "G.N.Kuruc,Jr."
+    ]
+}

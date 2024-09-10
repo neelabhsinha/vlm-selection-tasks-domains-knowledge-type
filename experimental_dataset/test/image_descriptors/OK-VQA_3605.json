@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3605,
+    "caption": "a white bed with a white comforter and pillows",
+    "object_tags": [
+        "indoor",
+        "bed",
+        "bed sheet",
+        "bedding",
+        "linens",
+        "duvet cover",
+        "wall",
+        "mattress",
+        "bed frame",
+        "duvet",
+        "furniture",
+        "cushion",
+        "bedclothes",
+        "pillow",
+        "bedroom",
+        "blanket",
+        "hotel"
+    ]
+}

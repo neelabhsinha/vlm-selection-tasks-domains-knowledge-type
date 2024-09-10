@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 85,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_85.png",
+    "question": "What is the natural light streaming into the room through?",
+    "label": "['sunlight', 'clock', 'clock', 'clock', 'clock', 'clock', 'skylight', 'window', 'clock', 'clock window']",
+    "choices": [
+        "door",
+        "lightbulb",
+        "clock",
+        "candle"
+    ],
+    "correct_choice": "clock"
+}

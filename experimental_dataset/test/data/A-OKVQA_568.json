@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 568,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_568.png",
+    "question": "In what US state is this scene located?",
+    "label": "['washington', 'chicago', 'illinois', 'illinois', 'illinois', 'chicago', 'illinois', 'new york', 'illinois', 'illinois']",
+    "choices": [
+        "illinois",
+        "wisconsin",
+        "idaho",
+        "ohio"
+    ],
+    "correct_choice": "illinois"
+}

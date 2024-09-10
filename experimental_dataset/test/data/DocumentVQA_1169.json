@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1169,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1169.png",
+    "question": "Who have pistachio nuts in their diet?",
+    "label": [
+        "Persians"
+    ]
+}

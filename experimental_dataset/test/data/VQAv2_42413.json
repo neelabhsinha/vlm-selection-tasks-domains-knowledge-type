@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 42413,
+    "image_path": "./experimental_dataset/test/images/VQAv2_42413.png",
+    "question": "What kind of bear is this?",
+    "label": [
+        "grizzly",
+        "brown bear",
+        "mountain",
+        "brown",
+        "brown",
+        "brown bear",
+        "brown",
+        "brown bear",
+        "black",
+        "grizzly"
+    ]
+}

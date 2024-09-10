@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 415,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_415.png",
+    "question": "Which company's statement is mentioned here?",
+    "label": [
+        "Grocrey  Manufacturers of America, Inc."
+    ]
+}

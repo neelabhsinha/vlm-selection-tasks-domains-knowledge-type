@@ -1,0 +1,12 @@
+{
+    "dataset": "ChartQA",
+    "key": 186,
+    "caption": "a poster with a picture of a man in a suit",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "logo",
+        "design"
+    ]
+}

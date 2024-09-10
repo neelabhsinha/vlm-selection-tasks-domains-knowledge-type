@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 710,
+    "caption": "a man walking down the street carrying a basket of fruit",
+    "object_tags": [
+        "person",
+        "clothing",
+        "road",
+        "outdoor",
+        "wheel",
+        "street",
+        "man",
+        "vehicle",
+        "tire",
+        "land vehicle",
+        "footwear",
+        "parade"
+    ]
+}

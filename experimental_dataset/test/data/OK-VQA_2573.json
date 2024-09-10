@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2573,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2573.png",
+    "question": "What kind of sport is this bike used for?",
+    "label": [
+        "motocross",
+        "motocross",
+        "motocross",
+        "motocross",
+        "motocross",
+        "motocross",
+        "bmx",
+        "bmx",
+        "motorcross",
+        "motorcross"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2835,
+    "caption": "a man holding a cell phone in his hand",
+    "object_tags": [
+        "person",
+        "gadget",
+        "man",
+        "mobile phone",
+        "indoor",
+        "phone",
+        "holding",
+        "human face",
+        "electronic device",
+        "cameras & optics",
+        "portable communications device",
+        "communication device",
+        "mobile device",
+        "hand",
+        "wall",
+        "camera"
+    ]
+}

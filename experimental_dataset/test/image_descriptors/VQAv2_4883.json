@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 4883,
+    "caption": "people on the beach flying kites",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "water",
+        "beach",
+        "surfing",
+        "kite sports",
+        "windsports",
+        "extreme sport",
+        "air sports",
+        "adventure",
+        "outdoor recreation",
+        "parachuting",
+        "paragliding",
+        "ocean",
+        "parachute",
+        "kite",
+        "kiteboarding",
+        "wave",
+        "person",
+        "ground"
+    ]
+}

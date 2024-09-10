@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 172855,
+    "caption": "a person standing under an umbrella on the beach",
+    "object_tags": [
+        "ground",
+        "tent",
+        "outdoor",
+        "camping",
+        "tarpaulin"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 576,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_576.png",
+    "question": "What does that text behind the lady ask?",
+    "label": "['love us', 'love us', 'love', 'love us', 'love', 'tips', 'love', 'food', 'love us', 'about love']",
+    "choices": [
+        "love us",
+        "welcome",
+        "rate us",
+        "eat cake"
+    ],
+    "correct_choice": "love us"
+}

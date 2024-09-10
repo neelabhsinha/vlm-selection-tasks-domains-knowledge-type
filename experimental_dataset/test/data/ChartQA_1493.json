@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1493,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1493.png",
+    "question": "How many workers were members of a union in 2020?",
+    "label": [
+        "14.25"
+    ]
+}

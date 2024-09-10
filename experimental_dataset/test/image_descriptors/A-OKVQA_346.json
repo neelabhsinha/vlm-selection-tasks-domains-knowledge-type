@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 346,
+    "caption": "a fire hydrant on the corner of a city street",
+    "object_tags": [
+        "outdoor",
+        "fire hydrant",
+        "street furniture",
+        "road",
+        "street",
+        "building",
+        "car",
+        "ground",
+        "bench",
+        "public space",
+        "vehicle",
+        "person",
+        "city",
+        "sitting",
+        "sidewalk",
+        "woman"
+    ]
+}

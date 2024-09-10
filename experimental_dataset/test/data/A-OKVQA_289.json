@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 289,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_289.png",
+    "question": "What is keeping the animals all in one place?",
+    "label": "['fence', 'fence', 'dog', 'fence', 'fence', 'fence', 'fence', 'wired fence', 'fencing', 'fence']",
+    "choices": [
+        "mountains",
+        "fear",
+        "fence",
+        "guns"
+    ],
+    "correct_choice": "fence"
+}

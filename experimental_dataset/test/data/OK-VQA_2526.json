@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2526,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2526.png",
+    "question": "What genre are these books?",
+    "label": [
+        "fiction",
+        "fiction",
+        "fiction",
+        "fiction",
+        "romance",
+        "romance",
+        "thriller",
+        "thriller",
+        "history",
+        "history"
+    ]
+}

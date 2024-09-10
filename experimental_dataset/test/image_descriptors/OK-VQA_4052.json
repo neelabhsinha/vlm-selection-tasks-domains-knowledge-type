@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4052,
+    "caption": "a stop sign on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "sign",
+        "tree",
+        "grass",
+        "traffic sign",
+        "cloud",
+        "car",
+        "stop sign",
+        "stop",
+        "land vehicle",
+        "signage",
+        "road",
+        "wheel",
+        "plant",
+        "vehicle",
+        "ground",
+        "street"
+    ]
+}

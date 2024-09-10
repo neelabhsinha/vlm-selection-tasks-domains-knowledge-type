@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 17872,
+    "image_path": "./experimental_dataset/test/images/VQAv2_17872.png",
+    "question": "Where is the bed?",
+    "label": [
+        "bottom right",
+        "bedroom",
+        "in room",
+        "in foreground",
+        "on right side of picture",
+        "hotel",
+        "right",
+        "nearest camera",
+        "hotel",
+        "corner of room"
+    ]
+}

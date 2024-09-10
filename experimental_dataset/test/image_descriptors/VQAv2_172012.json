@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 172012,
+    "caption": "a woman sitting on the curb next to a parking meter",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "tire",
+        "vehicle",
+        "wheel",
+        "meter",
+        "land vehicle",
+        "auto part",
+        "ground",
+        "car",
+        "footwear",
+        "parking meter",
+        "road",
+        "woman",
+        "parking",
+        "girl",
+        "child"
+    ]
+}

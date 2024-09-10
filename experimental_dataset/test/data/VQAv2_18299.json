@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 18299,
+    "image_path": "./experimental_dataset/test/images/VQAv2_18299.png",
+    "question": "Is there a Toll Free number to call?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

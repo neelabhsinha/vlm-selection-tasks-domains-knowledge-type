@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 116627,
+    "caption": "a little girl is holding up a chocolate frosted donut",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "indoor",
+        "mouth",
+        "child",
+        "girl"
+    ]
+}

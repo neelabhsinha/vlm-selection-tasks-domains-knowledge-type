@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 607,
+    "caption": "a man sitting at a table with a pizza in front of him",
+    "object_tags": [
+        "pizza",
+        "person",
+        "food",
+        "fast food",
+        "dish",
+        "indoor",
+        "pizza cheese",
+        "italian food",
+        "california-style pizza",
+        "baked goods",
+        "human face",
+        "flatbread",
+        "sitting",
+        "wall",
+        "glasses"
+    ]
+}

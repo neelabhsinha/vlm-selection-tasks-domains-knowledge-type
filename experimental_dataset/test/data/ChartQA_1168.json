@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1168,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1168.png",
+    "question": "What color does Disney 1 indicate?",
+    "label": [
+        "green"
+    ]
+}

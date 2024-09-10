@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2559,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2559.png",
+    "question": "Provide the contract number on the voucher",
+    "label": [
+        "DA-49-007-MD-1024"
+    ]
+}

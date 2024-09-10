@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 58071,
+    "image_path": "./experimental_dataset/test/images/VQAv2_58071.png",
+    "question": "What is the girl playing?",
+    "label": [
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis",
+        "tennis"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 911,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_911.png",
+    "question": "How many cows are on the hill?",
+    "label": "['three', 'three', 'three', 'three', 'three', 'three', 'three', 'three', 'three', 'three']",
+    "choices": [
+        "twelve",
+        "three",
+        "two",
+        "nine"
+    ],
+    "correct_choice": "three"
+}

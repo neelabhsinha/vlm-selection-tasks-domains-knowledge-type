@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 134,
+    "caption": "a man standing in front of a wall holding a tennis racket",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "person",
+        "clothing",
+        "black and white",
+        "man",
+        "human face",
+        "holding",
+        "standing",
+        "mirror",
+        "tennis",
+        "monochrome",
+        "glasses"
+    ]
+}

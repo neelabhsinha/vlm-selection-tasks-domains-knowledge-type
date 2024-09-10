@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2227,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2227.png",
+    "question": "Is this grandfather clock in front of a photographic backdrop or a window?",
+    "label": [
+        "window",
+        "window",
+        "window",
+        "window",
+        "window",
+        "window",
+        "photographic backdrop",
+        "photographic backdrop",
+        "backdrop",
+        "backdrop"
+    ]
+}

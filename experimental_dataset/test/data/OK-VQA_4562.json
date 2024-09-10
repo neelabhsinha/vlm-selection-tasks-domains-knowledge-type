@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4562,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4562.png",
+    "question": "What is the process for developing the kind of photo shown?",
+    "label": [
+        "black and white",
+        "black and white",
+        "black and white",
+        "black and white",
+        "liquid",
+        "liquid",
+        "chemical",
+        "chemical",
+        "negative process",
+        "negative process"
+    ]
+}

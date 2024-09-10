@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2177,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2177.png",
+    "question": "What country was the world's largest refinery producer of indium in 2020?",
+    "label": [
+        "China"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4388,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4388.png",
+    "question": "What is she drinking?",
+    "label": [
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "wine",
+        "beer",
+        "beer"
+    ]
+}

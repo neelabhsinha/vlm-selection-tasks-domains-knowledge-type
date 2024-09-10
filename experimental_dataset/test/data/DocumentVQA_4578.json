@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4578,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4578.png",
+    "question": "What is the name of the room?",
+    "label": [
+        "Erlanger Memorial Room",
+        "Erlanger Memorial"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 75978,
+    "image_path": "./experimental_dataset/test/images/VQAv2_75978.png",
+    "question": "Is this man over the age of 40?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 702,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_702.png",
+    "question": "What outdoor activity are they prepared for?",
+    "label": [
+        "camp",
+        "camp",
+        "camp",
+        "camp",
+        "camp",
+        "camp",
+        "camp",
+        "camp",
+        "ski",
+        "ski"
+    ]
+}

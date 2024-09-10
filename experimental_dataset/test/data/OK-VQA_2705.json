@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2705,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2705.png",
+    "question": "Why does the man in the red and gray have his arm out?",
+    "label": [
+        "catch",
+        "catch",
+        "catch",
+        "catch",
+        "to catch ball",
+        "to catch ball",
+        "to catch ball",
+        "to catch ball",
+        "catch ball",
+        "catch ball"
+    ]
+}

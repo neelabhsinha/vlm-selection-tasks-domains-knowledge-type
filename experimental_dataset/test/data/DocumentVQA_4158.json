@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4158,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4158.png",
+    "question": "How many glasses of milk are in the sample breakfast menu?",
+    "label": [
+        "1 glass",
+        "1 glass milk",
+        "1"
+    ]
+}

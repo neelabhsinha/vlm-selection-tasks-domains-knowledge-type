@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2879,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2879.png",
+    "question": "What kind of birds are those?",
+    "label": [
+        "cardinal",
+        "cardinal",
+        "robin",
+        "robin",
+        "sparrow",
+        "sparrow",
+        "cedar waxwing",
+        "cedar waxwing",
+        "robin",
+        "robin"
+    ]
+}

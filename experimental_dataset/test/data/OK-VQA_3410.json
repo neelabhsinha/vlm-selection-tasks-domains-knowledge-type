@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3410,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3410.png",
+    "question": "What kind of utensil is this kid holding in both hands?",
+    "label": [
+        "fork",
+        "fork",
+        "fork",
+        "fork",
+        "fork",
+        "fork",
+        "fork",
+        "fork",
+        "fork",
+        "fork"
+    ]
+}

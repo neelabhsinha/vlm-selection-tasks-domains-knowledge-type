@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 781,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_781.png",
+    "question": "What is the person using to eat the pizza?",
+    "label": "['fork knife', 'fork knife', 'silverware', 'fork', 'utensils', 'fork', 'fork knife', 'knife', 'fork', 'fork']",
+    "choices": [
+        "chopsticks",
+        "ice picks",
+        "string",
+        "utensils"
+    ],
+    "correct_choice": "utensils"
+}

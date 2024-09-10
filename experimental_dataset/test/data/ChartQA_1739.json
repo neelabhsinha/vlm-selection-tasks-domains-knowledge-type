@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1739,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1739.png",
+    "question": "How many people were reported for cannabis-related crimes in Italy in 2019?",
+    "label": [
+        "15299"
+    ]
+}

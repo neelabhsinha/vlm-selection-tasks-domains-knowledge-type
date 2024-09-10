@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 42467,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Mathematics",
+        "Science",
+        "Computer Science"
+    ],
+    "knowledge_type": [
+        "Commonsense Knowledge",
+        "Visual Knowledge",
+        "Social Knowledge",
+        "Geographical Knowledge"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1263,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1263.png",
+    "question": "What is the first step in the flowchart?",
+    "label": [
+        "Prioritization Process Steps"
+    ]
+}

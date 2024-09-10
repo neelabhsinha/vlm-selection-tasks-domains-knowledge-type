@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 867,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_867.png",
+    "question": "What type of phone is being used?",
+    "label": "['iphone', 'cell', 'cellular', 'cellphone', 'cell', 'cell', 'iphone', 'smart', 'cell', 'cell phone']",
+    "choices": [
+        "rotary",
+        "landline",
+        "cellular",
+        "pay"
+    ],
+    "correct_choice": "cellular"
+}

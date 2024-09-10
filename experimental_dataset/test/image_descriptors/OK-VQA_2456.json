@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2456,
+    "caption": "a woman catching a frisbee in a park",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "person",
+        "field",
+        "sport",
+        "sports",
+        "playing",
+        "sports equipment",
+        "competition event",
+        "frisbee games",
+        "team sport",
+        "flying disc",
+        "flying disc freestyle",
+        "man",
+        "frisbee",
+        "ultimate",
+        "footwear",
+        "sport venue",
+        "physical fitness",
+        "people",
+        "game",
+        "player",
+        "park",
+        "running"
+    ]
+}

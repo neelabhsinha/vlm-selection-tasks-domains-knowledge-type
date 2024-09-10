@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3674,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3674.png",
+    "question": "What year is the motorcycle?",
+    "label": [
+        "1960",
+        "1960",
+        "1960",
+        "1960",
+        "1963",
+        "1963",
+        "2002",
+        "2002",
+        "1950",
+        "1950"
+    ]
+}

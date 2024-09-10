@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 346,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_346.png",
+    "question": "Who is from the Children's hospital of Los Angeles?",
+    "label": [
+        "william f. benedict",
+        "William F. Benedict"
+    ]
+}

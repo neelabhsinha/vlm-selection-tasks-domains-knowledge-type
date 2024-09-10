@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 153,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_153.png",
+    "question": "What is the No. of Public Assistance Recipients in Johnson County?",
+    "label": [
+        "690"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2651,
+    "caption": "a cat laying on a couch with a stuffed animal",
+    "object_tags": [
+        "animal",
+        "indoor",
+        "black and white",
+        "mammal",
+        "laying",
+        "black",
+        "pet",
+        "fur",
+        "small to medium-sized cats",
+        "felidae",
+        "white",
+        "sofa",
+        "sleeping",
+        "cat"
+    ]
+}

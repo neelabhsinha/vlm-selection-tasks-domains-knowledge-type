@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 158748,
+    "image_path": "./experimental_dataset/test/images/VQAv2_158748.png",
+    "question": "Are there vegetables on the pizza?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

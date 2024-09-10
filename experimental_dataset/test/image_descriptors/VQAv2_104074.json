@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 104074,
+    "caption": "a white sink sitting under a mirror in a bathroom",
+    "object_tags": [
+        "wall",
+        "indoor",
+        "plaster",
+        "bathroom",
+        "plumbing fixture",
+        "mirror",
+        "abandoned"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 477,
+    "caption": "a black and white elephant with a stick in its mouth",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "footwear",
+        "building",
+        "clothing",
+        "ground",
+        "standing",
+        "door",
+        "reaching"
+    ]
+}

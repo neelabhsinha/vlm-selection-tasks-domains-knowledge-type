@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3142,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3142.png",
+    "question": "What outdoor sport does this exemplify?",
+    "label": [
+        "boat",
+        "boat",
+        "boat",
+        "boat",
+        "ski",
+        "ski",
+        "water ski",
+        "water ski",
+        "motorboating",
+        "motorboating"
+    ]
+}

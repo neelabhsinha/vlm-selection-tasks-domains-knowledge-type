@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 93768,
+    "caption": "a man and a woman standing next to each other in the snow",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "clothing",
+        "snow",
+        "sky",
+        "sports equipment",
+        "helmet",
+        "winter",
+        "personal protective equipment",
+        "winter sport",
+        "ski",
+        "goggles",
+        "snowboard",
+        "jacket",
+        "snowshoe",
+        "glacial landform",
+        "ski resort",
+        "people",
+        "standing",
+        "posing",
+        "mountain",
+        "snowboarding",
+        "skiing"
+    ]
+}

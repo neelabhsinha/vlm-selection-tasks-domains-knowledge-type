@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1778,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1778.png",
+    "question": "What was the revenue of the sleep disorder diagnostic devices industry in 2013?",
+    "label": [
+        "95.6"
+    ]
+}

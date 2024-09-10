@@ -1,0 +1,11 @@
+{
+    "dataset": "ChartQA",
+    "key": 130,
+    "caption": "a collage of photos showing a variety of items",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "design"
+    ]
+}

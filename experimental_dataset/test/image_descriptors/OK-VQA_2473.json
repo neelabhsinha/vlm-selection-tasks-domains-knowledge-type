@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2473,
+    "caption": "a large elephant walking down a sidewalk next to a group of people",
+    "object_tags": [
+        "elephant",
+        "outdoor",
+        "tree",
+        "elephants and mammoths",
+        "asian elephant",
+        "indian elephant",
+        "plant",
+        "african elephant",
+        "ground",
+        "mahout",
+        "water",
+        "people",
+        "person",
+        "standing",
+        "zoo",
+        "park"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 68319,
+    "image_path": "./experimental_dataset/test/images/VQAv2_68319.png",
+    "question": "Which side of the photo has the hill with only a little snow?",
+    "label": [
+        "left",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right",
+        "right side"
+    ]
+}

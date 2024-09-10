@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 137358,
+    "caption": "a man holding a baseball bat on top of a field",
+    "object_tags": [
+        "sky",
+        "person",
+        "clothing",
+        "outdoor",
+        "weapon",
+        "shotgun",
+        "man",
+        "ranged weapon",
+        "firearm",
+        "holding",
+        "gun"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 82,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_82.png",
+    "question": "In which major city is the woman most likely sitting outdoors?",
+    "label": "['paris', 'paris', 'paris', 'paris', 'france', 'paris', 'france', 'paris', 'paris', 'paris']",
+    "choices": [
+        "paris",
+        "new york",
+        "johannesburg",
+        "london"
+    ],
+    "correct_choice": "paris"
+}

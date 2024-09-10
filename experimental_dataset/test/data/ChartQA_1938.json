@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1938,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1938.png",
+    "question": "When was the last time the Sacramento Kings had a Facebook page?",
+    "label": [
+        "September 2012"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 127612,
+    "image_path": "./experimental_dataset/test/images/VQAv2_127612.png",
+    "question": "What breed dog is in the photo?",
+    "label": [
+        "mix",
+        "mutt",
+        "collie",
+        "spaniel",
+        "collie",
+        "mutt",
+        "corgi",
+        "mutt",
+        "pomeranian",
+        "sheltie"
+    ]
+}

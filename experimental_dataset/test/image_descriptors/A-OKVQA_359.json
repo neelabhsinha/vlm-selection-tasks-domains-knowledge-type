@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 359,
+    "caption": "a large body of water with several boats in it",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "water",
+        "transport",
+        "ship",
+        "lake",
+        "watercraft",
+        "boat",
+        "vehicle",
+        "waterway",
+        "channel",
+        "large",
+        "travel",
+        "house",
+        "ferry"
+    ]
+}

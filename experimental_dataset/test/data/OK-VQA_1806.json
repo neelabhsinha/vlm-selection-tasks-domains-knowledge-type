@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1806,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1806.png",
+    "question": "Who should eat this?",
+    "label": [
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human",
+        "human"
+    ]
+}

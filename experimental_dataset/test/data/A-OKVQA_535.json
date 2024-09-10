@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 535,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_535.png",
+    "question": "What is the ground below the blue vehicles made from?",
+    "label": "['brick', 'stone', 'cobblestone', 'brick', 'london', 'brick', 'brick', 'bricks', 'stone', 'cobblestone']",
+    "choices": [
+        "glass",
+        "wood",
+        "stone",
+        "steel"
+    ],
+    "correct_choice": "stone"
+}

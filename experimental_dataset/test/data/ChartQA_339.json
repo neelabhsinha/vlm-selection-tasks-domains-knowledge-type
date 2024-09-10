@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 339,
+    "image_path": "./experimental_dataset/test/images/ChartQA_339.png",
+    "question": "Does the sum of smallest three bars is 1/5th the value of largest bar?",
+    "label": [
+        "No"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 86917,
+    "caption": "a park filled with benches and trees",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "bench",
+        "landscaping",
+        "park",
+        "ground",
+        "grass",
+        "sidewalk",
+        "area",
+        "people",
+        "plant",
+        "wooden",
+        "garden"
+    ]
+}

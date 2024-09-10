@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3251,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3251.png",
+    "question": "What country is that flag?",
+    "label": [
+        "united kingdom",
+        "united kingdom",
+        "united kingdom",
+        "united kingdom",
+        "great brittan",
+        "great brittan",
+        "australia",
+        "australia",
+        "great britain",
+        "great britain"
+    ]
+}

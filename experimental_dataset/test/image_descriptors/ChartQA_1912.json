@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 1912,
+    "caption": "a collage of photos showing different types of objects",
+    "object_tags": [
+        "text",
+        "diagram",
+        "line",
+        "plot",
+        "number",
+        "font",
+        "screenshot",
+        "parallel"
+    ]
+}

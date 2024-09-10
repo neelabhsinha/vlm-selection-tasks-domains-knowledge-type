@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 307,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_307.png",
+    "question": "What type items are in the rolled item here?",
+    "label": "['clothes', 'luggage', 'clothes', 'clothing', 'luggage', 'clothes', 'clothing', 'personal', 'wheeled luggage', 'luggage']",
+    "choices": [
+        "lab specimens",
+        "clothing",
+        "animals",
+        "books"
+    ],
+    "correct_choice": "clothing"
+}

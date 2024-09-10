@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 161712,
+    "image_path": "./experimental_dataset/test/images/VQAv2_161712.png",
+    "question": "What is in the glass?",
+    "label": [
+        "juice",
+        "juice",
+        "orange juice",
+        "juice",
+        "orange juice",
+        "orange juice",
+        "juice",
+        "juice",
+        "juice",
+        "orange juice"
+    ]
+}

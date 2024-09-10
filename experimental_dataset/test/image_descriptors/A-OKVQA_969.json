@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 969,
+    "caption": "a woman sitting on a couch holding a baby",
+    "object_tags": [
+        "person",
+        "human face",
+        "indoor",
+        "clothing",
+        "toddler",
+        "smile",
+        "boy",
+        "couch",
+        "television",
+        "lap",
+        "baby",
+        "wall",
+        "holding",
+        "woman",
+        "family"
+    ]
+}

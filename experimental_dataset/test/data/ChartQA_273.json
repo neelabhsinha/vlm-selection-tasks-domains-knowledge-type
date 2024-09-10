@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 273,
+    "image_path": "./experimental_dataset/test/images/ChartQA_273.png",
+    "question": "Is the value of Female share in agriculture more then Female share in industry?",
+    "label": [
+        "Yes"
+    ]
+}

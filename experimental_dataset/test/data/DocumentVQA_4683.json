@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4683,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4683.png",
+    "question": "How much is the \"TIME AND MILEAGE CHARGE\"?",
+    "label": [
+        "12.40"
+    ]
+}

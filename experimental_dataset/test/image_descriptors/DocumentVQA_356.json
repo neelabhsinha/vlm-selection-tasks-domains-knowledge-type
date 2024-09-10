@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 356,
+    "caption": "a series of photographs showing a white and black fire hydrant",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "black and white",
+        "letter",
+        "document"
+    ]
+}

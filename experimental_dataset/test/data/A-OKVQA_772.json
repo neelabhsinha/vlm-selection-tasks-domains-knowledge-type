@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 772,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_772.png",
+    "question": "In which position are the people?",
+    "label": "['squatting', 'downhill', 'squatted', 'crouching', 'bending', 'crouched', 'squat', 'sitting', 'squatting', 'crouch']",
+    "choices": [
+        "sitting",
+        "squatting",
+        "standing",
+        "reclining"
+    ],
+    "correct_choice": "squatting"
+}

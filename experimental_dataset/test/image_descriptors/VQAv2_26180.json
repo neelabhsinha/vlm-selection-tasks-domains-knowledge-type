@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 26180,
+    "caption": "a person putting a pizza in an oven",
+    "object_tags": [
+        "home appliance",
+        "cabinet",
+        "kitchen appliance",
+        "indoor",
+        "person",
+        "cookware and bakeware",
+        "appliance",
+        "kitchen",
+        "gas stove",
+        "food warmer",
+        "food",
+        "major appliance",
+        "microwave oven",
+        "oven",
+        "toaster oven",
+        "cooking",
+        "stove"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 630,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_630.png",
+    "question": "Where is the photographer standing?",
+    "label": "['in doorway', 'bathroom', 'in doorway', 'bathroom', 'doorway', 'bathroom', 'bathroom door', 'bathroom', 'bathroom', 'bathroom']",
+    "choices": [
+        "kitchen",
+        "closet",
+        "doorway",
+        "bedroom"
+    ],
+    "correct_choice": "doorway"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 11387,
+    "image_path": "./experimental_dataset/test/images/VQAv2_11387.png",
+    "question": "What is the color of the truck?",
+    "label": [
+        "blue and white",
+        "blue and white",
+        "blue and white",
+        "blue & white",
+        "blue",
+        "red, blue and white",
+        "blue",
+        "blue",
+        "blue, white",
+        "blue and white"
+    ]
+}

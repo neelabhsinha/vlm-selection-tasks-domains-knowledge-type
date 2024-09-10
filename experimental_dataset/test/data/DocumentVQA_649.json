@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 649,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_649.png",
+    "question": "What is the meeting budget?",
+    "label": [
+        "$478,500"
+    ]
+}

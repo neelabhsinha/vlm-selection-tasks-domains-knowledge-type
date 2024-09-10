@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 887,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_887.png",
+    "question": "What is the % sucrose of sugar beets as the irrigation terminated by sep 1?",
+    "label": [
+        "18.40"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2480,
+    "task_type": "Document Understanding",
+    "application_domain": [
+        "News",
+        "Nutrition and Food"
+    ],
+    "knowledge_type": [
+        "Cultural Knowledge",
+        "Commonsense Knowledge"
+    ]
+}

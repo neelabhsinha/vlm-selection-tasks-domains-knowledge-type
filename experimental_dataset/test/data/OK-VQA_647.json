@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 647,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_647.png",
+    "question": "What common appliance is missing from this kitchen?",
+    "label": [
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "microwave",
+        "dishwasher",
+        "dishwasher"
+    ]
+}

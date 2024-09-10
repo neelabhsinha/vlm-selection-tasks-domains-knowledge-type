@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 60,
+    "image_path": "./experimental_dataset/test/images/ChartQA_60.png",
+    "question": "What's the least value of blue graph?",
+    "label": [
+        "28"
+    ]
+}

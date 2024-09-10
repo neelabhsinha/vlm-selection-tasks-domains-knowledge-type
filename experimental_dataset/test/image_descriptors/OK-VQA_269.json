@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 269,
+    "caption": "a table topped with plates of food",
+    "object_tags": [
+        "food",
+        "tableware",
+        "meal",
+        "platter",
+        "table",
+        "person",
+        "plate",
+        "supper",
+        "culinary art",
+        "cuisine",
+        "lunch",
+        "dinner",
+        "dishware",
+        "dish",
+        "brunch",
+        "delicacy",
+        "salad",
+        "indoor",
+        "banquet",
+        "dining table"
+    ]
+}

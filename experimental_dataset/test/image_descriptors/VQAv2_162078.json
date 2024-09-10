@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 162078,
+    "caption": "a sign on a snow covered slope",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "sign",
+        "tree",
+        "winter",
+        "freezing",
+        "slope",
+        "nature",
+        "mountain"
+    ]
+}

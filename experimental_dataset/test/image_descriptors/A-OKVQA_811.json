@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 811,
+    "caption": "a woman standing in front of a counter in a kitchen",
+    "object_tags": [
+        "clothing",
+        "person",
+        "indoor",
+        "furniture",
+        "human face",
+        "cabinetry",
+        "shelving",
+        "smile",
+        "drawer",
+        "wall",
+        "footwear",
+        "chest of drawers",
+        "floor",
+        "girl",
+        "woman",
+        "shelf",
+        "posing",
+        "standing",
+        "wooden",
+        "dress",
+        "kitchen"
+    ]
+}

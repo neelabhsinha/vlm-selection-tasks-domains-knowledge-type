@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 100,
+    "caption": "a woman in a hat talking on a cell phone",
+    "object_tags": [
+        "human face",
+        "person",
+        "clothing",
+        "fashion accessory",
+        "smile",
+        "outdoor",
+        "sunglasses",
+        "man",
+        "woman",
+        "people",
+        "crowd"
+    ]
+}

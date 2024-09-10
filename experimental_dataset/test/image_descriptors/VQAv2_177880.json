@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 177880,
+    "caption": "two men standing in front of a bar with bottles of wine",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "man",
+        "drink",
+        "shop",
+        "jeans",
+        "shelf",
+        "bottle",
+        "wall",
+        "standing",
+        "wine",
+        "ceiling",
+        "store"
+    ]
+}

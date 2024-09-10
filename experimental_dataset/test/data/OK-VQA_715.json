@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 715,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_715.png",
+    "question": "Name the place where the bus is shown in this picture?",
+    "label": [
+        "arizona",
+        "arizona",
+        "arizona",
+        "arizona",
+        "arizona",
+        "arizona",
+        "desert",
+        "desert",
+        "las vegas",
+        "las vegas"
+    ]
+}

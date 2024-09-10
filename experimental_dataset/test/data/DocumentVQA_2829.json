@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2829,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2829.png",
+    "question": "What is the \"Payee Name\"?",
+    "label": [
+        "Mark Crabtree"
+    ]
+}

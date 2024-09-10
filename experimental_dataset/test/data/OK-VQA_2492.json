@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2492,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2492.png",
+    "question": "What style of car is in the red one?",
+    "label": [
+        "sedan",
+        "sedan",
+        "sedan",
+        "sedan",
+        "compact",
+        "compact",
+        "fiat126",
+        "fiat126",
+        "mini",
+        "mini"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3465,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3465.png",
+    "question": "What is the white cup made out of?",
+    "label": [
+        "styrofoam",
+        "styrofoam",
+        "styrofoam",
+        "styrofoam",
+        "styrofoam",
+        "styrofoam",
+        "styrofoam",
+        "styrofoam",
+        "foam",
+        "foam"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 13645,
+    "caption": "people loading a truck onto a trailer",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "golf",
+        "person",
+        "playground",
+        "clothing",
+        "lawn",
+        "people",
+        "standing",
+        "field",
+        "child"
+    ]
+}

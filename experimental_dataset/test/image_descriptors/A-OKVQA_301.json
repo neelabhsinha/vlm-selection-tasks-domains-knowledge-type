@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 301,
+    "caption": "a black cat laying on top of a piece of fabric",
+    "object_tags": [
+        "cat",
+        "small to medium-sized cats",
+        "felidae",
+        "person",
+        "black",
+        "ground",
+        "indoor"
+    ]
+}

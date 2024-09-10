@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 4028,
+    "image_path": "./experimental_dataset/test/images/VQAv2_4028.png",
+    "question": "What are the three things attached to the bag?",
+    "label": [
+        "handle wallet and glasses",
+        "nothing",
+        "straps",
+        "straps",
+        "zippers",
+        "decorations",
+        "zipper, strap, button",
+        "zipper,pocket,buckle",
+        "strings",
+        "zippers"
+    ]
+}

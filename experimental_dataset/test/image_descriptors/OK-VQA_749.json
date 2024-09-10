@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 749,
+    "caption": "a bed in a room with a white bedspread",
+    "object_tags": [
+        "indoor",
+        "interior design",
+        "furniture",
+        "wall",
+        "couch",
+        "pillow",
+        "studio couch",
+        "sofa bed",
+        "cushion",
+        "living room",
+        "loveseat",
+        "armrest",
+        "room",
+        "design",
+        "floor",
+        "bed",
+        "sofa"
+    ]
+}

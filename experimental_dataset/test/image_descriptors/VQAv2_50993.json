@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 50993,
+    "caption": "people standing on top of a sandy beach",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "beach",
+        "ground",
+        "surfing",
+        "person",
+        "surfboard",
+        "people",
+        "standing",
+        "sand",
+        "sandy",
+        "group",
+        "wet suit"
+    ]
+}

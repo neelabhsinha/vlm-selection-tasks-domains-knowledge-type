@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 133,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_133.png",
+    "question": "Who is the motorcycle manufacture?",
+    "label": [
+        "kawasaki",
+        "kawasaki",
+        "kawasaki",
+        "kawasaki",
+        "harley",
+        "harley",
+        "triumph",
+        "triumph",
+        "trump",
+        "trump"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1092,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1092.png",
+    "question": "Where is canadian head office of the insurane company?",
+    "label": [
+        "Ottawa"
+    ]
+}

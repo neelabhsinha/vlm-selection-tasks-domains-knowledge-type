@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 3,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_3.png",
+    "question": "What is the white substance on top of the cupcakes?",
+    "label": "['icing', 'whipped cream', 'icing', 'frosting', 'icing', 'frosting', 'cream', 'icing', 'icing', 'frosting']",
+    "choices": [
+        "butter",
+        "mayo",
+        "ice cream",
+        "icing"
+    ],
+    "correct_choice": "icing"
+}

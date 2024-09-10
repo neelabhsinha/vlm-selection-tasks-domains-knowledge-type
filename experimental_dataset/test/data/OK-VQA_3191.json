@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3191,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3191.png",
+    "question": "Why would we suspect that this is a lake and not an ocean?",
+    "label": [
+        "tree",
+        "tree",
+        "tree",
+        "tree",
+        "tree",
+        "tree",
+        "tree on shore",
+        "tree on shore",
+        "still water",
+        "still water"
+    ]
+}

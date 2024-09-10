@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 7489,
+    "image_path": "./experimental_dataset/test/images/VQAv2_7489.png",
+    "question": "What is in the air?",
+    "label": [
+        "no color",
+        "people",
+        "oxygen",
+        "dust",
+        "air",
+        "oxygen",
+        "nothing",
+        "love",
+        "scent",
+        "air"
+    ]
+}

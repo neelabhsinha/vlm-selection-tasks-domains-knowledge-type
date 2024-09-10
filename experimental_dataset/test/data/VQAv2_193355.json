@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 193355,
+    "image_path": "./experimental_dataset/test/images/VQAv2_193355.png",
+    "question": "What does the largest object to left of vase have in it?",
+    "label": [
+        "popcorn",
+        "flowers",
+        "popcorn",
+        "popcorn",
+        "fruit",
+        "cookies",
+        "flowers",
+        "popcorn",
+        "cookies",
+        "popcorn"
+    ]
+}

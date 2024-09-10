@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 70623,
+    "image_path": "./experimental_dataset/test/images/VQAv2_70623.png",
+    "question": "What is the woman holding on her lap?",
+    "label": [
+        "computer",
+        "laptop",
+        "typing",
+        "laptop",
+        "laptop",
+        "laptop",
+        "computer",
+        "laptop",
+        "laptop computer",
+        "computer"
+    ]
+}

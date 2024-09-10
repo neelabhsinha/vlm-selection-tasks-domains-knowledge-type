@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4530,
+    "caption": "a police officer on a motorcycle in front of a bus",
+    "object_tags": [
+        "land vehicle",
+        "vehicle",
+        "bus",
+        "outdoor",
+        "firefighter",
+        "helmet",
+        "person",
+        "personal protective equipment",
+        "high-visibility clothing",
+        "clothing",
+        "emergency service",
+        "text",
+        "police"
+    ]
+}

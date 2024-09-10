@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 220,
+    "caption": "a dog laying in the grass next to a fire hydrant",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "dog",
+        "animal",
+        "fire hydrant",
+        "plant",
+        "ground",
+        "sidewalk",
+        "black",
+        "lawn",
+        "park",
+        "yellow"
+    ]
+}

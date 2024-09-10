@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 81,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_81.png",
+    "question": "What pattern are the man's pants?",
+    "label": "['camo', 'cammo', 'camouflage', 'camo', 'camo', 'camo', 'camouflage', 'cammo', 'camo', 'camo']",
+    "choices": [
+        "camouflage",
+        "plaid",
+        "floral",
+        "pinstripe"
+    ],
+    "correct_choice": "camouflage"
+}

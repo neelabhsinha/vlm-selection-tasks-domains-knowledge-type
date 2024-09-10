@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 290,
+    "image_path": "./experimental_dataset/test/images/ChartQA_290.png",
+    "question": "What denotes the light blue color bar ??",
+    "label": [
+        "Alcohol"
+    ]
+}

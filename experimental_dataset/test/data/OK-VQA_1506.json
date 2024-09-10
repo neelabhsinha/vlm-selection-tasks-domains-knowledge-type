@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1506,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1506.png",
+    "question": "The wire filaments inside the rubber wheel are called what?",
+    "label": [
+        "spoke",
+        "spoke",
+        "spoke",
+        "spoke",
+        "spoke",
+        "spoke",
+        "spoke",
+        "spoke",
+        "spoke",
+        "spoke"
+    ]
+}

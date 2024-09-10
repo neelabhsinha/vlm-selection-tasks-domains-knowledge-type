@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1096,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1096.png",
+    "question": "Which European region has the shortest blue bar?",
+    "label": [
+        "Eastern Europe"
+    ]
+}

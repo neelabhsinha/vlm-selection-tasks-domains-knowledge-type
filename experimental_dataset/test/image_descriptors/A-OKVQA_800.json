@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 800,
+    "caption": "a herd of zebra standing on top of a dry grass field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "grass",
+        "outdoor",
+        "zebra",
+        "wildlife",
+        "field",
+        "terrestrial animal",
+        "safari",
+        "plant",
+        "savanna",
+        "standing",
+        "herd",
+        "group",
+        "grassy"
+    ]
+}

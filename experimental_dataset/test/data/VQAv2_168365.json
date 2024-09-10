@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 168365,
+    "image_path": "./experimental_dataset/test/images/VQAv2_168365.png",
+    "question": "Will the tennis player hit the ball?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

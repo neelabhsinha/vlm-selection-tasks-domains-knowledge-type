@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3215,
+    "caption": "a black cat sitting under an open umbrella",
+    "object_tags": [
+        "umbrella",
+        "animal",
+        "cat",
+        "floor",
+        "accessory",
+        "black",
+        "mammal",
+        "ground",
+        "indoor",
+        "open"
+    ]
+}

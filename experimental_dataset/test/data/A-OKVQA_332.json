@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 332,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_332.png",
+    "question": "What is the vehicle in front of the cars?",
+    "label": "['car', 'bike', 'bike', 'bicycle', 'bike', 'bicycle', 'bicycle', 'bicycle', 'bike', 'bike']",
+    "choices": [
+        "bus",
+        "motorcycle",
+        "train",
+        "bicycle"
+    ],
+    "correct_choice": "bicycle"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 886,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_886.png",
+    "question": "Who has attended the most no. Of Investor Services Committee meetings?",
+    "label": [
+        "K. N. Grant"
+    ]
+}

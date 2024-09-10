@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 136,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_136.png",
+    "question": "What kind of serving utensil is used to serve this pizza?",
+    "label": [
+        "spatula",
+        "spatula",
+        "spatula",
+        "spatula",
+        "spatula",
+        "spatula",
+        "tray",
+        "tray",
+        "pan",
+        "pan"
+    ]
+}

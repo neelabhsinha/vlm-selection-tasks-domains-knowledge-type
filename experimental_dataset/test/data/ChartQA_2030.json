@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2030,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2030.png",
+    "question": "How many Chinese students chose to study in the U.S. in the 2019/20 academic year?",
+    "label": [
+        "372532"
+    ]
+}

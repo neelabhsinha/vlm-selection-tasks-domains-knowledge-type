@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5152,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5152.png",
+    "question": "how much is the thickening of conjunctivae in 1948?",
+    "label": [
+        "57.5"
+    ]
+}

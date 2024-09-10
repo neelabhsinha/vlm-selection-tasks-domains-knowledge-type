@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 12506,
+    "caption": "a hot dog sitting on top of a bun on a table",
+    "object_tags": [
+        "fast food",
+        "food",
+        "outdoor",
+        "snack",
+        "person",
+        "restaurant",
+        "meal",
+        "table",
+        "dog",
+        "snack food",
+        "sandwich",
+        "hotdog"
+    ]
+}

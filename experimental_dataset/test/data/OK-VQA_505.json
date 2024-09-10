@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 505,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_505.png",
+    "question": "What type of cheese is on this sandwich?",
+    "label": [
+        "swiss",
+        "swiss",
+        "swiss",
+        "swiss",
+        "american",
+        "american",
+        "american",
+        "american",
+        "monterey jack",
+        "monterey jack"
+    ]
+}

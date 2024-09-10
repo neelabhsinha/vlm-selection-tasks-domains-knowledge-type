@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 160868,
+    "image_path": "./experimental_dataset/test/images/VQAv2_160868.png",
+    "question": "What type of food is shredded?",
+    "label": [
+        "corned beef",
+        "cabbage",
+        "meat",
+        "corned beef",
+        "sauerkraut",
+        "corned beef",
+        "corned beef",
+        "beef",
+        "sauerkraut",
+        "sauerkraut"
+    ]
+}

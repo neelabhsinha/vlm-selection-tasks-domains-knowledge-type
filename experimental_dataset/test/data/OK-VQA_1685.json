@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1685,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1685.png",
+    "question": "Which vegetable is grown in the ground?",
+    "label": [
+        "carrot",
+        "carrot",
+        "carrot",
+        "carrot",
+        "potato carrot radish",
+        "potato carrot radish",
+        "carrot potato and radish",
+        "carrot potato and radish",
+        "carrot",
+        "carrot"
+    ]
+}

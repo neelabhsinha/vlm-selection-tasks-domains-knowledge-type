@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3619,
+    "caption": "a green double decker bus parked on the side of the road",
+    "object_tags": [
+        "vehicle",
+        "outdoor",
+        "land vehicle",
+        "wheel",
+        "transport",
+        "sky",
+        "bus",
+        "mode of transport",
+        "vehicle registration plate",
+        "text",
+        "car",
+        "road",
+        "motor vehicle",
+        "green",
+        "auto part",
+        "commercial vehicle",
+        "parked",
+        "van",
+        "grass",
+        "street"
+    ]
+}

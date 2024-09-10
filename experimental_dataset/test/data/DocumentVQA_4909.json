@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4909,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4909.png",
+    "question": "What is an important factor in assuring  accuracy ?",
+    "label": [
+        "THE DESIGN OF VOLUMETRIC APPARATUS",
+        "The design of volumetric apparatus"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4992,
+    "caption": "a collage of photographs of a man in a suit",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "diagram",
+        "font",
+        "rectangle",
+        "parallel",
+        "line",
+        "number"
+    ]
+}

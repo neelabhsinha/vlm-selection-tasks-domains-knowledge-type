@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 53849,
+    "image_path": "./experimental_dataset/test/images/VQAv2_53849.png",
+    "question": "What animal is in this scene?",
+    "label": [
+        "sheep",
+        "sheep",
+        "dog",
+        "sheep",
+        "dog",
+        "sheep",
+        "sheep",
+        "lamb",
+        "lamb",
+        "sheep"
+    ]
+}

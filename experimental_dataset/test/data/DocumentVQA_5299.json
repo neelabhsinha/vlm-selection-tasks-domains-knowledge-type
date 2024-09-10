@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5299,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5299.png",
+    "question": "Who is the Chairman of Audit Committee of ITC Limited?",
+    "label": [
+        "S B MATHUR",
+        "S B Mathur"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 746,
+    "caption": "people sitting around a table eating food",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "marketplace",
+        "person",
+        "flea market",
+        "footwear",
+        "public space",
+        "market",
+        "tree",
+        "man",
+        "people",
+        "bazaar",
+        "ground",
+        "selling",
+        "sky",
+        "hawker",
+        "trade",
+        "group",
+        "street",
+        "food",
+        "city"
+    ]
+}

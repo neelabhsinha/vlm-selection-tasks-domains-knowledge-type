@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1378,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1378.png",
+    "question": "What can i do to change the screen?",
+    "label": [
+        "use remote",
+        "use remote",
+        "use remote",
+        "use remote",
+        "use remote",
+        "use remote",
+        "remote control",
+        "remote control",
+        "change channel",
+        "change channel"
+    ]
+}

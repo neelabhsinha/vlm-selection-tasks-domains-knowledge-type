@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 424,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_424.png",
+    "question": "What water activity is occuring here?",
+    "label": [
+        "sail",
+        "sail",
+        "sail",
+        "sail",
+        "sail",
+        "sail",
+        "boat",
+        "boat",
+        "boat",
+        "boat"
+    ]
+}

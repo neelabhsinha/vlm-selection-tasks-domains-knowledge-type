@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 794,
+    "caption": "a man sitting on a chair with a tie around his neck",
+    "object_tags": [
+        "person",
+        "clothing",
+        "wall",
+        "human face",
+        "indoor",
+        "man",
+        "glasses",
+        "sitting",
+        "wearing",
+        "shirt"
+    ]
+}

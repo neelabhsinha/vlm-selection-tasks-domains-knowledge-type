@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1536,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1536.png",
+    "question": "What was the youth unemployment rate in Lebanon in 2020?",
+    "label": [
+        "17.82"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 101736,
+    "image_path": "./experimental_dataset/test/images/VQAv2_101736.png",
+    "question": "Where is the dog?",
+    "label": [
+        "on ground",
+        "floor",
+        "floor",
+        "floor next to couch",
+        "on living floor",
+        "on floor",
+        "floor",
+        "floor",
+        "floor",
+        "on floor next to couch"
+    ]
+}

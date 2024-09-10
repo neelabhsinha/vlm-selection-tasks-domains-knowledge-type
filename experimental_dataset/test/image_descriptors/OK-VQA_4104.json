@@ -1,0 +1,27 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4104,
+    "caption": "surfers are riding the waves in the ocean",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "wave",
+        "wind wave",
+        "surfboard",
+        "surf",
+        "sky",
+        "tide",
+        "person",
+        "surfing",
+        "sport",
+        "boardsport",
+        "beach",
+        "sea",
+        "man",
+        "surface water sports",
+        "surfing equipment",
+        "riding",
+        "people",
+        "ocean"
+    ]
+}

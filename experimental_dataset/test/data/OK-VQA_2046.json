@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2046,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2046.png",
+    "question": "What type of dog is this?",
+    "label": [
+        "hound",
+        "hound",
+        "hound",
+        "hound",
+        "labrador",
+        "labrador",
+        "retriever",
+        "retriever",
+        "mixed",
+        "mixed"
+    ]
+}

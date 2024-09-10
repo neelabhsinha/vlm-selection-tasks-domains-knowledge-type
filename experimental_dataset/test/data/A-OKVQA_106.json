@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 106,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_106.png",
+    "question": "What type of tree is in front of the blue building?",
+    "label": "['palm tree', 'palm tree', 'palm', 'palm', 'palm', 'palm tree', 'palm tree', 'palm', 'palm tree', 'palm tree']",
+    "choices": [
+        "palm tree",
+        "bonsai tree",
+        "maple tree",
+        "pine tree"
+    ],
+    "correct_choice": "palm tree"
+}

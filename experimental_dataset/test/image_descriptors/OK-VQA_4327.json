@@ -1,0 +1,17 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4327,
+    "caption": "a man standing next to a table full of electronic devices",
+    "object_tags": [
+        "person",
+        "clothing",
+        "indoor",
+        "jeans",
+        "wall",
+        "bottle",
+        "furniture",
+        "table",
+        "blue",
+        "standing"
+    ]
+}

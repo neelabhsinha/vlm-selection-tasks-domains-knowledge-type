@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1029,
+    "caption": "a microwave sitting on top of a wooden table",
+    "object_tags": [
+        "home appliance",
+        "indoor",
+        "machine",
+        "text",
+        "electronics",
+        "furniture",
+        "television",
+        "computer",
+        "equipment",
+        "appliance",
+        "floor",
+        "microwave",
+        "shelf",
+        "kitchen",
+        "oven"
+    ]
+}

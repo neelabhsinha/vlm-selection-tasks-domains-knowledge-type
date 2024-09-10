@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2296,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2296.png",
+    "question": "What type of switch is on the wall?",
+    "label": [
+        "light",
+        "light",
+        "light",
+        "light",
+        "light",
+        "light",
+        "light",
+        "light",
+        "lightswitch",
+        "lightswitch"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1313,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1313.png",
+    "question": "According to the bar graph, which version ( 'vs') has the lowest  percentage of total platform unit growth?",
+    "label": [
+        "vs. 04"
+    ]
+}

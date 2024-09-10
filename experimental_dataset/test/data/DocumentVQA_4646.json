@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4646,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4646.png",
+    "question": "What is the cable address?",
+    "label": [
+        "Saintregis New York",
+        "\"SAINTREGIS NEW YORK\"",
+        "SAINTREGIS NEW YORK"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4371,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4371.png",
+    "question": "Why are all these eleiphants huddled together?",
+    "label": [
+        "to console each other",
+        "to console each other",
+        "herded",
+        "herded",
+        "drink water",
+        "drink water",
+        "herd",
+        "herd",
+        "to feed",
+        "to feed"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 867,
+    "caption": "a small bird sitting on top of a plant",
+    "object_tags": [
+        "animal",
+        "bird",
+        "sky",
+        "outdoor",
+        "tree",
+        "perched",
+        "branch",
+        "beak",
+        "perching bird",
+        "leaf",
+        "wildlife",
+        "sitting",
+        "plant"
+    ]
+}

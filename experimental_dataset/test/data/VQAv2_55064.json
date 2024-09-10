@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 55064,
+    "image_path": "./experimental_dataset/test/images/VQAv2_55064.png",
+    "question": "What color is the forklift?",
+    "label": [
+        "black and red",
+        "red and black",
+        "red",
+        "red and black",
+        "red and black",
+        "red",
+        "red",
+        "black",
+        "red and black",
+        "red and black"
+    ]
+}

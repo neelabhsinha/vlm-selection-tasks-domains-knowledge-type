@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 125,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_125.png",
+    "question": "Which food on the plate grows in the ground?",
+    "label": "['carrot', 'carrot', 'carrot', 'chicken', 'carrot', 'carrot', 'carrot', 'carrot', 'carrot', 'carrots']",
+    "choices": [
+        "chicken",
+        "carrot",
+        "dried cranberry",
+        "bread"
+    ],
+    "correct_choice": "carrot"
+}

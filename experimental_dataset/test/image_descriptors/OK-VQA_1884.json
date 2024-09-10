@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1884,
+    "caption": "a man carrying a surfboard into the ocean",
+    "object_tags": [
+        "outdoor",
+        "surfboard",
+        "water",
+        "person",
+        "surfing",
+        "sport",
+        "boardsport",
+        "wave",
+        "wind wave",
+        "surfing equipment",
+        "sports equipment",
+        "ocean",
+        "surface water sports",
+        "tide",
+        "surf",
+        "wakesurfing",
+        "beach",
+        "holding"
+    ]
+}

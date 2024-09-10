@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2513,
+    "caption": "a flock of seagulls standing on top of a dock",
+    "object_tags": [
+        "aquatic bird",
+        "outdoor",
+        "bird",
+        "animal",
+        "sea gull",
+        "water",
+        "gull",
+        "lake",
+        "seabird",
+        "water bird",
+        "beak",
+        "lari",
+        "black and white",
+        "group",
+        "standing",
+        "flock"
+    ]
+}

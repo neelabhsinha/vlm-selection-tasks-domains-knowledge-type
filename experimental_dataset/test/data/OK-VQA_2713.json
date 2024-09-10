@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2713,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2713.png",
+    "question": "How long does it take to learn this activity?",
+    "label": [
+        "year",
+        "year",
+        "year",
+        "year",
+        "2 years",
+        "2 years",
+        "month",
+        "month",
+        "1 week",
+        "1 week"
+    ]
+}

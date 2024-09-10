@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 100315,
+    "caption": "a man holding a sign next to a tree",
+    "object_tags": [
+        "clothing",
+        "outdoor",
+        "person",
+        "human face",
+        "tree",
+        "man",
+        "sign",
+        "jacket",
+        "smile",
+        "text",
+        "standing",
+        "street",
+        "presentation"
+    ]
+}

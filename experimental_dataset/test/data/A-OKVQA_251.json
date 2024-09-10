@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 251,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_251.png",
+    "question": "What is the name of the sport the man is participating in?",
+    "label": "['surfing', 'wave boarding', 'water skiing', 'waterboarding', 'windsurfing', 'parasailing', 'kite surfing', 'parasailing', 'sea driving', 'wakeboarding']",
+    "choices": [
+        "waterboarding",
+        "sailboating",
+        "waterskiing",
+        "skateboarding"
+    ],
+    "correct_choice": "waterboarding"
+}

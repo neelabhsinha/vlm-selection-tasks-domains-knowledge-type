@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3703,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3703.png",
+    "question": "How many referred care participants were there for the \u2018comparison of diastolic blood pressure percent distributions\u2019?",
+    "label": [
+        "5455"
+    ]
+}

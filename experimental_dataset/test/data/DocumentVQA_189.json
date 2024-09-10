@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 189,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_189.png",
+    "question": "What is the percentage of single brand users in the franchise?",
+    "label": [
+        "78.2%",
+        "78.2"
+    ]
+}

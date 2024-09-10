@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2237,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2237.png",
+    "question": "When is single intravenous injection administered?",
+    "label": [
+        "before irradiation",
+        "Before Irradiation"
+    ]
+}

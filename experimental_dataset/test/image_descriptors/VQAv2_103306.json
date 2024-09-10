@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 103306,
+    "caption": "people walking in the rain with umbrellas",
+    "object_tags": [
+        "outdoor",
+        "rain",
+        "person",
+        "tree",
+        "clothing",
+        "water",
+        "footwear",
+        "fog",
+        "umbrella",
+        "street",
+        "road",
+        "ground",
+        "rainy",
+        "people",
+        "accessory",
+        "holding",
+        "wet"
+    ]
+}

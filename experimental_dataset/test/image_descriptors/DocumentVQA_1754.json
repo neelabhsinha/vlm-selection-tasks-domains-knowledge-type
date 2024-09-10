@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1754,
+    "caption": "a sign with a picture of a penguin on it",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "letter",
+        "calligraphy",
+        "signature",
+        "document"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 917,
+    "caption": "a person holding a chocolate frosted donut",
+    "object_tags": [
+        "person",
+        "food",
+        "snack",
+        "soft drink",
+        "drink",
+        "indoor",
+        "dessert",
+        "holding",
+        "chocolate"
+    ]
+}

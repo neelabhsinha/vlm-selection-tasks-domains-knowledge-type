@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 602,
+    "image_path": "./experimental_dataset/test/images/ChartQA_602.png",
+    "question": "When the number of women teachers in Brazil was the lowest?",
+    "label": [
+        "2016"
+    ]
+}

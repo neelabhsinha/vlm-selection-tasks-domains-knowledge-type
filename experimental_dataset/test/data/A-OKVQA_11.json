@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 11,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_11.png",
+    "question": "What interests the child most here?",
+    "label": "['candle', 'cake', 'candle flame', 'cupcake', 'candle', 'flame', 'fire', 'candle', 'cupcake', 'candle']",
+    "choices": [
+        "table",
+        "fork",
+        "candle",
+        "floor"
+    ],
+    "correct_choice": "candle"
+}

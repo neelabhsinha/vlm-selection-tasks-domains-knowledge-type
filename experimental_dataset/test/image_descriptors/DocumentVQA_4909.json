@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4909,
+    "caption": "an old photograph of a school of medicine",
+    "object_tags": [
+        "text",
+        "paper",
+        "font",
+        "number",
+        "black and white",
+        "document"
+    ]
+}

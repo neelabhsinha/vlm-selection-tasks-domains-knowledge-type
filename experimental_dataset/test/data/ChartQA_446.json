@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 446,
+    "image_path": "./experimental_dataset/test/images/ChartQA_446.png",
+    "question": "Does the gray bar always have smaller value?",
+    "label": [
+        "Yes"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4635,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4635.png",
+    "question": "What type of hit is being preformed?",
+    "label": [
+        "serve",
+        "serve",
+        "serve",
+        "serve",
+        "serve",
+        "serve",
+        "spike",
+        "spike",
+        "backserve",
+        "backserve"
+    ]
+}

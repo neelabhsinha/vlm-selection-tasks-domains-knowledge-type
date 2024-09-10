@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1132,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1132.png",
+    "question": "What is the name of the player's hair style?",
+    "label": "['tennis', 'hair style', 'playing tennis', 'tennis player', 'ponytail', 'ponytail', 'batmeton', 'braid', 'brown', 'batmitten']",
+    "choices": [
+        "bob",
+        "corn rows",
+        "bouffant",
+        "ponytail"
+    ],
+    "correct_choice": "ponytail"
+}

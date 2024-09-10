@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1.png",
+    "question": "Which number birthday is probably being celebrated?",
+    "label": "['thirty', '30th', 'thirty', 'thirty', 'thirty', '30th', 'thirty', 'thirty', 'thirty', 'thirty']",
+    "choices": [
+        "one",
+        "ten",
+        "nine",
+        "thirty"
+    ],
+    "correct_choice": "thirty"
+}

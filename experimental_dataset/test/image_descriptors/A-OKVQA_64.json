@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 64,
+    "caption": "two people sitting on a snow covered slope on skis",
+    "object_tags": [
+        "snow",
+        "outdoor",
+        "person",
+        "winter",
+        "skiing",
+        "sports equipment",
+        "winter sport",
+        "helmet",
+        "snowshoe",
+        "freezing",
+        "piste",
+        "snowboard",
+        "ski",
+        "ski resort",
+        "sled",
+        "footwear",
+        "snowboarding",
+        "sledding",
+        "slope",
+        "mountain"
+    ]
+}

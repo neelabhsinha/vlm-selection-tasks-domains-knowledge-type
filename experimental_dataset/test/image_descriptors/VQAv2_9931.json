@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 9931,
+    "caption": "a cat laying on top of a bed",
+    "object_tags": [
+        "animal",
+        "cat",
+        "indoor",
+        "mammal",
+        "felidae",
+        "small to medium-sized cats",
+        "domestic cat",
+        "laying",
+        "whiskers",
+        "domestic short-haired cat",
+        "nap",
+        "sleeping",
+        "blanket"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 207,
+    "caption": "a collage of photos showing different types of computer equipment",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "font",
+        "number",
+        "diagram",
+        "line",
+        "parallel",
+        "plot"
+    ]
+}

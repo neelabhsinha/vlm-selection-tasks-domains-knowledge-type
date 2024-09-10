@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 94580,
+    "caption": "a room with a refrigerator, a sink, and a door",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "house",
+        "flooring",
+        "plaster",
+        "waste container",
+        "interior design",
+        "door",
+        "room",
+        "property",
+        "laminate flooring",
+        "window",
+        "remodel",
+        "home",
+        "apartment",
+        "ground",
+        "ceiling",
+        "trash",
+        "refrigerator",
+        "floor",
+        "renovation",
+        "kitchen",
+        "flip"
+    ]
+}

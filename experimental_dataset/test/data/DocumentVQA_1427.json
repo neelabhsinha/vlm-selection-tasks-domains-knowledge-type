@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1427,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1427.png",
+    "question": "What is the last date of receiving the application?",
+    "label": [
+        "May 17"
+    ]
+}

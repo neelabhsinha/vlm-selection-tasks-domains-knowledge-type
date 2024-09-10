@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4402,
+    "caption": "a plate of food on a table",
+    "object_tags": [
+        "food",
+        "plate",
+        "cuisine",
+        "dish",
+        "cruciferous vegetables",
+        "leaf vegetable",
+        "broccoli",
+        "table",
+        "vegetable",
+        "meat",
+        "ingredient",
+        "recipe",
+        "indoor",
+        "plant",
+        "meal",
+        "chicken"
+    ]
+}

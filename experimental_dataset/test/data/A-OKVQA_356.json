@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 356,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_356.png",
+    "question": "What hour is shown on the clock?",
+    "label": "['five', '1025', 'ten', 'ten', 'ten', '1025', 'ten twentyfive', 'ten', 'ten', 'ten']",
+    "choices": [
+        "eleven",
+        "nine",
+        "eight",
+        "ten"
+    ],
+    "correct_choice": "ten"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2191,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2191.png",
+    "question": "Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Canada?",
+    "label": [
+        "Dr. G. Beaton"
+    ]
+}

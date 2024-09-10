@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4214,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4214.png",
+    "question": "What should these people be wearing?",
+    "label": [
+        "helmet",
+        "helmet",
+        "helmet",
+        "helmet",
+        "helmet",
+        "helmet",
+        "helmet",
+        "helmet",
+        "pad and helmet",
+        "pad and helmet"
+    ]
+}

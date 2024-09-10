@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2483,
+    "caption": "a glass filled with a bunch of flavored donuts",
+    "object_tags": [
+        "food",
+        "candy",
+        "indoor",
+        "plant",
+        "confectionery",
+        "flower",
+        "floor"
+    ]
+}

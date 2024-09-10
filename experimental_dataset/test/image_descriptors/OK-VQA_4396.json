@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4396,
+    "caption": "a brown teddy bear sitting on top of a counter",
+    "object_tags": [
+        "teddy",
+        "stuffed",
+        "toy",
+        "wall",
+        "window",
+        "indoor",
+        "hat"
+    ]
+}

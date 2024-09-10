@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1264,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1264.png",
+    "question": "What is the next step after identifying the pool ?",
+    "label": [
+        "Progression of Information Gathering",
+        "Progression of information gathering"
+    ]
+}

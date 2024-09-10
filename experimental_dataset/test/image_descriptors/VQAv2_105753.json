@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 105753,
+    "caption": "a table topped with vases filled with flowers",
+    "object_tags": [
+        "flower",
+        "flower arranging",
+        "table",
+        "centrepiece",
+        "vase",
+        "cut flowers",
+        "floral design",
+        "floristry",
+        "bouquet",
+        "tableware",
+        "rose",
+        "tablecloth",
+        "wine glass",
+        "artificial flower",
+        "ikebana",
+        "water",
+        "indoor",
+        "cloth",
+        "wedding",
+        "outdoor"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2513,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2513.png",
+    "question": "What kind of bird is that?",
+    "label": [
+        "seagull",
+        "seagull",
+        "seagull",
+        "seagull",
+        "pelican",
+        "pelican",
+        "seagul",
+        "seagul",
+        "dove",
+        "dove"
+    ]
+}

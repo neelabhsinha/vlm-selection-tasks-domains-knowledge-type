@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4436,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4436.png",
+    "question": "How does the greenery in this area help the environment?",
+    "label": [
+        "create oxygen",
+        "create oxygen",
+        "create oxygen",
+        "create oxygen",
+        "captures co2",
+        "captures co2",
+        "beautify",
+        "beautify",
+        "produce oxygen",
+        "produce oxygen"
+    ]
+}

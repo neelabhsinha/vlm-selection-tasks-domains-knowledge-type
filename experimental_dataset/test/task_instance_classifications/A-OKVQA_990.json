@@ -1,0 +1,12 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 990,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Mathematics"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Visual Knowledge"
+    ]
+}

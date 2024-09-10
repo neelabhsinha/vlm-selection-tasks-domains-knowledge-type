@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 536,
+    "caption": "a city street with people walking down it",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "wheel",
+        "sky",
+        "road",
+        "tire",
+        "bicycle wheel",
+        "town",
+        "bike",
+        "person",
+        "way",
+        "city",
+        "bicycle",
+        "people",
+        "street",
+        "parked",
+        "travel"
+    ]
+}

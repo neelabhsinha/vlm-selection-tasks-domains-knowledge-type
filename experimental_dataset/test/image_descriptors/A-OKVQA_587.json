@@ -1,0 +1,21 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 587,
+    "caption": "a woman sitting on the beach with a dog",
+    "object_tags": [
+        "person",
+        "outdoor",
+        "grass",
+        "clothing",
+        "water",
+        "umbrella",
+        "accessory",
+        "dog",
+        "holding",
+        "woman",
+        "beach",
+        "girl",
+        "ground",
+        "summer"
+    ]
+}

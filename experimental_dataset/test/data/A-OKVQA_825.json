@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 825,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_825.png",
+    "question": "In what position is the highest bird?",
+    "label": "['flying', 'flight', 'flying', 'back', 'laying', 'straight', 'perching', 'flight', 'on top', 'in flight']",
+    "choices": [
+        "flight",
+        "sitting",
+        "nesting",
+        "resting"
+    ],
+    "correct_choice": "flight"
+}

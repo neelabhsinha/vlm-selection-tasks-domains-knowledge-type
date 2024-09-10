@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2154,
+    "caption": "a bowl of apples and bananas on a table",
+    "object_tags": [
+        "fruit",
+        "natural foods",
+        "produce",
+        "local food",
+        "table",
+        "whole food",
+        "superfood",
+        "diet food",
+        "accessory fruit",
+        "banana",
+        "vegan nutrition",
+        "tableware",
+        "serveware",
+        "mcintosh",
+        "dishware",
+        "peel",
+        "indoor",
+        "staple food",
+        "saba banana",
+        "cooking plantain",
+        "vegetarian food",
+        "pear",
+        "still life photography",
+        "food",
+        "apple"
+    ]
+}

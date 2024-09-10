@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 501,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Government and Politics",
+        "Knowledge Base",
+        "Public Places",
+        "Reviews"
+    ],
+    "knowledge_type": [
+        "Geographical Knowledge",
+        "Cultural Knowledge"
+    ]
+}

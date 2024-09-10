@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 851,
+    "image_path": "./experimental_dataset/test/images/ChartQA_851.png",
+    "question": "Analysis the 2023 data and find out which are categories that have the highest percentage?",
+    "label": [
+        "Digestive health"
+    ]
+}

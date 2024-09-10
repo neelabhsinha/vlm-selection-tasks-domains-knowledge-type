@@ -1,0 +1,19 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 383,
+    "caption": "a sandwich cut in half on a white plate",
+    "object_tags": [
+        "sandwich",
+        "food",
+        "fast food",
+        "indoor",
+        "snack food",
+        "american food",
+        "bread",
+        "bun",
+        "torta",
+        "breakfast sandwich",
+        "cuisine",
+        "table"
+    ]
+}

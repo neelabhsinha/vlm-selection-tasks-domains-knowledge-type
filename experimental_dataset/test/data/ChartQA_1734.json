@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1734,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1734.png",
+    "question": "How many passengers were uplifted between 2008 and 2014?",
+    "label": [
+        "8092208"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 83067,
+    "image_path": "./experimental_dataset/test/images/VQAv2_83067.png",
+    "question": "How many orange cones are there?",
+    "label": [
+        "5",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 57878,
+    "caption": "a large jetliner flying over a city at night",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "plane",
+        "airplane",
+        "aviation",
+        "air travel",
+        "vehicle",
+        "aircraft",
+        "jet aircraft",
+        "flight",
+        "aerospace engineering",
+        "night",
+        "jet",
+        "air"
+    ]
+}

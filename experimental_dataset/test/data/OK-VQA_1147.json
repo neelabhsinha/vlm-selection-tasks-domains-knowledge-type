@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1147,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1147.png",
+    "question": "What is the type of knife that was used to cut this bread?",
+    "label": [
+        "serrated",
+        "serrated",
+        "serrated",
+        "serrated",
+        "serrated",
+        "serrated",
+        "bread knife",
+        "bread knife",
+        "bread knife",
+        "bread knife"
+    ]
+}

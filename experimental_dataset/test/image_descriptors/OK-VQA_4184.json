@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4184,
+    "caption": "a man in a suit and tie is talking on a cell phone",
+    "object_tags": [
+        "person",
+        "human face",
+        "black and white",
+        "watch",
+        "clothing",
+        "indoor",
+        "wearing"
+    ]
+}

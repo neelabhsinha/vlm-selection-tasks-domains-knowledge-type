@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 53154,
+    "image_path": "./experimental_dataset/test/images/VQAv2_53154.png",
+    "question": "Which is the smallest giraffe?",
+    "label": [
+        "i don't know",
+        "baby",
+        "youngest",
+        "far right",
+        "baby",
+        "left of picture",
+        "baby",
+        "1 farthest to left",
+        "3rd from right",
+        "can't tell"
+    ]
+}

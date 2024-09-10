@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 217,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_217.png",
+    "question": "These horses are used for what?",
+    "label": "['farming', 'farming', 'tilling', 'plowing field', 'plowing', 'ploughing', 'plowing', 'plow', 'plowing', 'tilling']",
+    "choices": [
+        "breeding",
+        "plowing",
+        "racing",
+        "show"
+    ],
+    "correct_choice": "plowing"
+}

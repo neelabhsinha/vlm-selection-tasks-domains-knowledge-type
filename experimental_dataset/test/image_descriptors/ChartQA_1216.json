@@ -1,0 +1,17 @@
+{
+    "dataset": "ChartQA",
+    "key": 1216,
+    "caption": "a screen shot of a bunch of different types of remote controls",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "software",
+        "computer icon",
+        "number",
+        "operating system",
+        "web page",
+        "website",
+        "office application software",
+        "design"
+    ]
+}

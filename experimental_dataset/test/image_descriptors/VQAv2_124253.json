@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 124253,
+    "caption": "a person walking down a street with a clock on it",
+    "object_tags": [
+        "outdoor",
+        "black and white",
+        "building",
+        "car",
+        "street",
+        "way",
+        "land vehicle",
+        "scene",
+        "vehicle",
+        "sky",
+        "town",
+        "road",
+        "neighbourhood",
+        "wheel",
+        "sidewalk",
+        "monochrome",
+        "pedestrian",
+        "city",
+        "people"
+    ]
+}

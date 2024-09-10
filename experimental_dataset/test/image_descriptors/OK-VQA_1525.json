@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1525,
+    "caption": "a man and woman sitting on a couch eating food",
+    "object_tags": [
+        "person",
+        "clothing",
+        "furniture",
+        "indoor",
+        "human face",
+        "wall",
+        "table",
+        "couch",
+        "smile",
+        "sitting",
+        "lap",
+        "coffee table",
+        "woman",
+        "sofa",
+        "people",
+        "holding",
+        "chair",
+        "remote",
+        "family"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 649,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_649.png",
+    "question": "What time period of the day is it?",
+    "label": "['afternoon', 'two', 'afternoon', 'two', 'daytime', 'afternoon', 'afternoon', 'afternoon', 'afternoon', 'afternoon']",
+    "choices": [
+        "afternoon",
+        "evening",
+        "dawn",
+        "morning"
+    ],
+    "correct_choice": "afternoon"
+}

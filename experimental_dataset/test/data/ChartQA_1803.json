@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1803,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1803.png",
+    "question": "In what year was the infant mortality rate 9.4 out of every 1,000 births?",
+    "label": [
+        "1990"
+    ]
+}

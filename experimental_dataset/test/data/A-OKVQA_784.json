@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 784,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_784.png",
+    "question": "What type of location is shown?",
+    "label": "['living room', 'family room', 'living room', 'living room', 'home', 'residential', 'living room', 'livingroom', 'living room', 'living room']",
+    "choices": [
+        "commercial",
+        "historical",
+        "medical",
+        "residential"
+    ],
+    "correct_choice": "residential"
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 234,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_234.png",
+    "question": "What leavening is used in this item?",
+    "label": "['yeast', 'yeast', 'yeast', 'yeast', 'unknown', 'yeast', 'yeast', 'yeast', 'flour', 'yeast']",
+    "choices": [
+        "salt",
+        "baking powder",
+        "sourdough starter",
+        "yeast"
+    ],
+    "correct_choice": "yeast"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2934,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2934.png",
+    "question": "The chef is holding a pizza in the photo so what type of restaurant does this suggest he may be cooking at?",
+    "label": [
+        "italian",
+        "italian",
+        "italian",
+        "italian",
+        "italian",
+        "italian",
+        "pizzeria",
+        "pizzeria",
+        "pizzeria",
+        "pizzeria"
+    ]
+}

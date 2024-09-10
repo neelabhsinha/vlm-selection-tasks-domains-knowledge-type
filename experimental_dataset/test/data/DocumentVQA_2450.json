@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2450,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2450.png",
+    "question": "How many different styles of Hawaiian clothes are advertised?",
+    "label": [
+        "100"
+    ]
+}

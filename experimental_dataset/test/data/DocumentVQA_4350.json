@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4350,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4350.png",
+    "question": "What is the percent of variance for equipment rental income category?",
+    "label": [
+        "18.2"
+    ]
+}

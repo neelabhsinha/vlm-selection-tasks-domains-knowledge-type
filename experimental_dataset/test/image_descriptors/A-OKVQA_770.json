@@ -1,0 +1,18 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 770,
+    "caption": "a tall clock tower towering over the city of london",
+    "object_tags": [
+        "outdoor",
+        "clock",
+        "sky",
+        "tree",
+        "building",
+        "tower",
+        "clock tower",
+        "grass",
+        "landmark",
+        "city",
+        "large"
+    ]
+}

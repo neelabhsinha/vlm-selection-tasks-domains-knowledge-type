@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 923,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_923.png",
+    "question": "What is does the space under the oven for do?",
+    "label": [
+        "vent",
+        "vent",
+        "bake",
+        "bake",
+        "hold pot and pan",
+        "hold pot and pan",
+        "storage",
+        "storage",
+        "bake",
+        "bake"
+    ]
+}

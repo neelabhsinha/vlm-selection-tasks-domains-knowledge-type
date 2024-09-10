@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 147150,
+    "image_path": "./experimental_dataset/test/images/VQAv2_147150.png",
+    "question": "Is the surfer wearing a wetsuit?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

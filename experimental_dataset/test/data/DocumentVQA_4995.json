@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4995,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4995.png",
+    "question": "Which subject had the highest pulse rate in baseline period?",
+    "label": [
+        "1"
+    ]
+}

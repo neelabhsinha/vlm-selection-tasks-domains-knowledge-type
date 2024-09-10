@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 843,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_843.png",
+    "question": "What religion is represented at the top of the clock tower?",
+    "label": "['islam', 'christian', 'north', 'catholic', 'christiananity', 'christianity', 'christian', 'christian', 'christianity', 'christian']",
+    "choices": [
+        "buddhism",
+        "hinduism",
+        "islam",
+        "christianity"
+    ],
+    "correct_choice": "christianity"
+}

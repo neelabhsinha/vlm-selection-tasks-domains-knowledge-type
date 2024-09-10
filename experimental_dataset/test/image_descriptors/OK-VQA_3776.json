@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3776,
+    "caption": "a large jetliner flying through a cloudy sky",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "flight",
+        "cloudy",
+        "plane",
+        "aircraft",
+        "wing",
+        "bird",
+        "clouds",
+        "blue",
+        "jet",
+        "high",
+        "dark",
+        "gray",
+        "airplane"
+    ]
+}

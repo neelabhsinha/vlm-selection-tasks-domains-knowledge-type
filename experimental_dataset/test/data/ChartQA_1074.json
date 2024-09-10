@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1074,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1074.png",
+    "question": "Does the life expectancy decrease over the years?",
+    "label": [
+        "No"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 5004,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_5004.png",
+    "question": "What is this woman going to hit with the ball?",
+    "label": [
+        "pin",
+        "pin",
+        "pin",
+        "pin",
+        "pin",
+        "pin",
+        "bowl",
+        "bowl",
+        "bowl pin",
+        "bowl pin"
+    ]
+}

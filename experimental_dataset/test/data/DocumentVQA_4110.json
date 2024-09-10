@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4110,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4110.png",
+    "question": "Protein intake among low income group is lowest for which ethnic group?",
+    "label": [
+        "Black"
+    ]
+}

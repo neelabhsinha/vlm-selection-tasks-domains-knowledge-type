@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 173889,
+    "image_path": "./experimental_dataset/test/images/VQAv2_173889.png",
+    "question": "What is the giraffe eating?",
+    "label": [
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass",
+        "grass"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1011,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1011.png",
+    "question": "Which person is controlling the horse?",
+    "label": "['woman', 'in front', 'woman', 'woman', 'women', 'woman', 'right', 'female rider', 'woman', 'woman']",
+    "choices": [
+        "man",
+        "woman",
+        "child",
+        "horse"
+    ],
+    "correct_choice": "woman"
+}

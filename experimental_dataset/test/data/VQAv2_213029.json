@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 213029,
+    "image_path": "./experimental_dataset/test/images/VQAv2_213029.png",
+    "question": "What is the dog laying on?",
+    "label": [
+        "carpet",
+        "floor",
+        "floor",
+        "floor",
+        "floor",
+        "floor",
+        "carpet",
+        "floor",
+        "floor",
+        "carpet"
+    ]
+}

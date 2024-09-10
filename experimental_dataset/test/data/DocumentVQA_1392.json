@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1392,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1392.png",
+    "question": "Who is the manager of A.S.C office?",
+    "label": [
+        "harold nesbitt",
+        "Harold Nesbitt"
+    ]
+}

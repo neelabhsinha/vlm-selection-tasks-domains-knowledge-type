@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 969,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_969.png",
+    "question": "They are most likely viewing the caged bird where?",
+    "label": "['living room', 'living room', 'home', 'living room', 'home', 'home', 'living room', 'living room', 'family room', 'home']",
+    "choices": [
+        "home",
+        "classroom",
+        "zoo",
+        "event"
+    ],
+    "correct_choice": "home"
+}

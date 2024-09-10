@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 150395,
+    "image_path": "./experimental_dataset/test/images/VQAv2_150395.png",
+    "question": "Are the people facing the sun?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4578,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4578.png",
+    "question": "When was this sport invented?",
+    "label": [
+        "1839",
+        "1839",
+        "1839",
+        "1839",
+        "1839",
+        "1839",
+        "1920",
+        "1920",
+        "1920s",
+        "1920s"
+    ]
+}

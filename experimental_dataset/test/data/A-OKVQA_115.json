@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 115,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_115.png",
+    "question": "This meal was likely prepared using which method?",
+    "label": "['grilling', 'grill', 'grilling', 'grilling', 'grill', 'grilling', 'grilling', 'grilled', 'grilling boiling', 'grilling']",
+    "choices": [
+        "oven",
+        "crockpot",
+        "grill",
+        "stovetop"
+    ],
+    "correct_choice": "grill"
+}

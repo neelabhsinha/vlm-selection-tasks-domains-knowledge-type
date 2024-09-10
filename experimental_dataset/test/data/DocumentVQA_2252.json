@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2252,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2252.png",
+    "question": "What is subheading A?",
+    "label": [
+        "tax incentives",
+        "Tax incentives"
+    ]
+}

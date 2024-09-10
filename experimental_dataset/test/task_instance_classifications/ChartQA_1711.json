@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 1711,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Economics",
+        "Nutrition and Food"
+    ],
+    "knowledge_type": [
+        "Mathematical Knowledge",
+        "Scientific Knowledge"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 195,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_195.png",
+    "question": "What causes these waves?",
+    "label": [
+        "tide",
+        "tide",
+        "tide",
+        "tide",
+        "wind",
+        "wind",
+        "wind",
+        "wind",
+        "gravity",
+        "gravity"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 95703,
+    "image_path": "./experimental_dataset/test/images/VQAv2_95703.png",
+    "question": "What color is the giraffe?",
+    "label": [
+        "brown and white",
+        "orange",
+        "brown and beige",
+        "brown",
+        "brown and orange",
+        "brown and tan",
+        "brown white",
+        "orange",
+        "brown and tan",
+        "brown and white"
+    ]
+}

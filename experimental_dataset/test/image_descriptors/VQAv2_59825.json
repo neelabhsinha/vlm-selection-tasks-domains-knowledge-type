@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 59825,
+    "caption": "a man in a suit and tie sitting at a table",
+    "object_tags": [
+        "person",
+        "human face",
+        "clothing",
+        "indoor",
+        "suit",
+        "management",
+        "businessperson",
+        "employment",
+        "wall",
+        "collaboration",
+        "job",
+        "man",
+        "white-collar worker",
+        "desk",
+        "sitting",
+        "table",
+        "business",
+        "paper"
+    ]
+}

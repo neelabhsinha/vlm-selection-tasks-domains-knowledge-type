@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4851,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4851.png",
+    "question": "What activity are these tools used for?",
+    "label": [
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook",
+        "cook"
+    ]
+}

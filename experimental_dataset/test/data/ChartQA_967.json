@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 967,
+    "image_path": "./experimental_dataset/test/images/ChartQA_967.png",
+    "question": "What is the sum total consumption of alcohol in Men and female in the year 16-24?",
+    "label": [
+        "19.4"
+    ]
+}

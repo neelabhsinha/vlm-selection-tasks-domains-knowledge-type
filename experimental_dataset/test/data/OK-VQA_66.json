@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 66,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_66.png",
+    "question": "When was the cola brand on the signs founded?",
+    "label": [
+        "1892",
+        "1892",
+        "1892",
+        "1892",
+        "1851",
+        "1851",
+        "1870's",
+        "1870's",
+        "1800",
+        "1800"
+    ]
+}

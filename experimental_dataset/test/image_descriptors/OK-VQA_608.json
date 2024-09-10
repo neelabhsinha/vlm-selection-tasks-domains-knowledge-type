@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 608,
+    "caption": "a man riding on the back of a toy truck",
+    "object_tags": [
+        "wheel",
+        "vehicle",
+        "tire",
+        "transport",
+        "land vehicle",
+        "outdoor"
+    ]
+}

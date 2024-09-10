@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 42136,
+    "image_path": "./experimental_dataset/test/images/VQAv2_42136.png",
+    "question": "Where is this bus going?",
+    "label": [
+        "ferry plaza",
+        "mission ferry plaza",
+        "ferry plaza",
+        "ferry plaza",
+        "mission ferry plaza",
+        "mission ferry plaza",
+        "mission ferry plaza",
+        "mission",
+        "mission ferry plaza",
+        "mission ferry plaza"
+    ]
+}

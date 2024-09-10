@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4643,
+    "caption": "a man walking with two cows down a road",
+    "object_tags": [
+        "outdoor",
+        "ground",
+        "tree",
+        "livestock",
+        "cattle",
+        "person",
+        "road",
+        "man",
+        "herd",
+        "ox",
+        "clothing",
+        "pack animal",
+        "bovine",
+        "path",
+        "cow"
+    ]
+}

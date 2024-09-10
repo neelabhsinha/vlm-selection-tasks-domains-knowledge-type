@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 526,
+    "caption": "a desk with a computer monitor, keyboard and mouse",
+    "object_tags": [
+        "indoor",
+        "computer monitor",
+        "furniture",
+        "office building",
+        "computer desk",
+        "office chair",
+        "computer",
+        "desktop computer",
+        "personal computer",
+        "desk",
+        "closet",
+        "wall",
+        "office",
+        "floor",
+        "table",
+        "space",
+        "chair"
+    ]
+}

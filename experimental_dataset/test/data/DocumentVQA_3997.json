@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3997,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3997.png",
+    "question": "What is the second subheading?",
+    "label": [
+        "Benefits"
+    ]
+}

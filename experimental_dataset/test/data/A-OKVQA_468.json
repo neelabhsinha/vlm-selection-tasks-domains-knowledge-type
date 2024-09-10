@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 468,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_468.png",
+    "question": "What is the first visible red word?",
+    "label": "['was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was', 'was']",
+    "choices": [
+        "fast",
+        "go",
+        "was",
+        "one"
+    ],
+    "correct_choice": "was"
+}

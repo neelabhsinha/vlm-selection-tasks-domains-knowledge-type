@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 323,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_323.png",
+    "question": "The piece of clothing the woman in the picture is wearing on her hands normally serves what purpose?",
+    "label": "['fashion', 'protection', 'protection', 'cleaning', 'protection', 'cooking', 'gloves', 'cover nose', 'protection', 'safety']",
+    "choices": [
+        "fashion",
+        "prevention",
+        "cure",
+        "protection"
+    ],
+    "correct_choice": "fashion"
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 715,
+    "caption": "a herd of sheep standing on top of a snow covered field",
+    "object_tags": [
+        "mammal",
+        "animal",
+        "sheep",
+        "outdoor",
+        "winter",
+        "snow",
+        "fence",
+        "livestock",
+        "herding",
+        "herd",
+        "standing",
+        "field",
+        "cold"
+    ]
+}

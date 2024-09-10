@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2943,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2943.png",
+    "question": "What day is being celebrated?",
+    "label": [
+        "4th of july",
+        "4th of july",
+        "4th of july",
+        "4th of july",
+        "4th of july",
+        "4th of july",
+        "fourth of july",
+        "fourth of july",
+        "independence day",
+        "independence day"
+    ]
+}

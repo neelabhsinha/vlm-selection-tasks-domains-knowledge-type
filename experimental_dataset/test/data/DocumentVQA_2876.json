@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2876,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2876.png",
+    "question": "Is the promotion overlay a coupon or a name generation piece?",
+    "label": [
+        "a name generation piece",
+        "A Name generation piece",
+        "Name generation piece"
+    ]
+}

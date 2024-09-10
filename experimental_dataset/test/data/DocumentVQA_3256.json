@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3256,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3256.png",
+    "question": "What is the Area Code ?",
+    "label": [
+        "303"
+    ]
+}

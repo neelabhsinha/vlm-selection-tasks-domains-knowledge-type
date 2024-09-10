@@ -1,0 +1,13 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4766,
+    "caption": "an aerial view of an airplane flying in the sky",
+    "object_tags": [
+        "text",
+        "line",
+        "diagram",
+        "screenshot",
+        "number",
+        "parallel"
+    ]
+}

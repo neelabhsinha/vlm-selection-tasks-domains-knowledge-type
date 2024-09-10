@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 986,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_986.png",
+    "question": "How many people are wearing hats?",
+    "label": "['two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two', 'two']",
+    "choices": [
+        "ten",
+        "twelve",
+        "two",
+        "seven"
+    ],
+    "correct_choice": "two"
+}

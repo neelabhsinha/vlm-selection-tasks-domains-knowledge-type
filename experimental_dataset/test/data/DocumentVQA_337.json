@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 337,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_337.png",
+    "question": "In which year will the 'Plenary session on Menopause' be held?",
+    "label": [
+        "1999"
+    ]
+}

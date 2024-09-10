@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 403,
+    "image_path": "./experimental_dataset/test/images/ChartQA_403.png",
+    "question": "Which of the following countries has a higher number of people with access to basic drinking water over the years, Fiji or the United States Virgin Islands?",
+    "label": [
+        "Fiji"
+    ]
+}

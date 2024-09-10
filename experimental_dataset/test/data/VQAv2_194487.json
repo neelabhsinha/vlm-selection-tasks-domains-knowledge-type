@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 194487,
+    "image_path": "./experimental_dataset/test/images/VQAv2_194487.png",
+    "question": "Are these long-stemmed roses?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

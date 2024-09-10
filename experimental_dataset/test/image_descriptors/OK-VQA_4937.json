@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4937,
+    "caption": "a black dog laying on a wooden chair",
+    "object_tags": [
+        "dog breed",
+        "dog",
+        "mammal",
+        "animal",
+        "pet",
+        "sporting group",
+        "companion dog",
+        "black",
+        "indoor",
+        "small greek domestic dog",
+        "puppy"
+    ]
+}

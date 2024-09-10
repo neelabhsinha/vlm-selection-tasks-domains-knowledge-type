@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1082,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1082.png",
+    "question": "What is the largest expense component in the year 1969?",
+    "label": [
+        "service salaries and payroll burden",
+        "service salaries and payroll burden?"
+    ]
+}

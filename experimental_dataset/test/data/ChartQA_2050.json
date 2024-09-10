@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2050,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2050.png",
+    "question": "What was the amount of travel and tourism in the Cayman Islands in 2010?",
+    "label": [
+        "531.6"
+    ]
+}

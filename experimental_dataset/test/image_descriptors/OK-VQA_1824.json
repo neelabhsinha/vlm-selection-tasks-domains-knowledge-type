@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1824,
+    "caption": "a person holding a cell phone in front of a mirror",
+    "object_tags": [
+        "person",
+        "mobile phone",
+        "gadget",
+        "indoor",
+        "holding",
+        "hand"
+    ]
+}

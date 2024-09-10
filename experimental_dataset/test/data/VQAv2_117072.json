@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 117072,
+    "image_path": "./experimental_dataset/test/images/VQAv2_117072.png",
+    "question": "What is behind the kitten?",
+    "label": [
+        "people",
+        "remotes",
+        "remote",
+        "remotes",
+        "remotes",
+        "remote",
+        "pillows",
+        "cloth",
+        "remote",
+        "phones"
+    ]
+}

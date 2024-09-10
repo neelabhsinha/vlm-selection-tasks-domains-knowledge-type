@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3383,
+    "caption": "a polar bear swimming in a pool of water",
+    "object_tags": [
+        "mammal",
+        "bear",
+        "animal",
+        "water",
+        "outdoor",
+        "polar",
+        "zoo",
+        "yellow"
+    ]
+}

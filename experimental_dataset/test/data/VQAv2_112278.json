@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 112278,
+    "image_path": "./experimental_dataset/test/images/VQAv2_112278.png",
+    "question": "What color is the traffic signal?",
+    "label": [
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 547,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_547.png",
+    "question": "What type of mirror has been installed here?",
+    "label": "['two way', 'two way', 'two way', 'two way', 'two way', 'two way', 'one way', 'two way', 'one way', 'two-way']",
+    "choices": [
+        "two way",
+        "projection",
+        "dome lit",
+        "vanity"
+    ],
+    "correct_choice": "two way"
+}

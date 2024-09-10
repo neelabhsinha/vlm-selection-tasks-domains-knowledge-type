@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1211,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1211.png",
+    "question": "WHat is the sum of 0-2.5 years and more than 10.5 years?",
+    "label": [
+        "399075"
+    ]
+}

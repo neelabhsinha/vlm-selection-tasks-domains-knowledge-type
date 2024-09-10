@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 282,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_282.png",
+    "question": "What is the closest item providing light?",
+    "label": "['candle', 'candle', 'candle', 'candle', 'candle', 'candle', 'candle', 'candle', 'candle', 'white candle']",
+    "choices": [
+        "lamp",
+        "flashlight",
+        "candle",
+        "lantern"
+    ],
+    "correct_choice": "candle"
+}

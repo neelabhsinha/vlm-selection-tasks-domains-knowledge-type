@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3781,
+    "caption": "a living room filled with people sitting on couches",
+    "object_tags": [
+        "indoor",
+        "clothing",
+        "person",
+        "furniture",
+        "wall",
+        "table",
+        "floor",
+        "footwear",
+        "people",
+        "woman",
+        "flooring",
+        "sitting",
+        "room",
+        "group"
+    ]
+}

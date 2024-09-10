@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 64,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_64.png",
+    "question": "What is likely to have happened?",
+    "label": "['wipeout', 'they fell', 'collusion', 'accident', 'people fell', 'collision', 'collision', 'crashing', 'accident', 'crashed']",
+    "choices": [
+        "dancing",
+        "eating",
+        "crashing",
+        "swimming"
+    ],
+    "correct_choice": "crashing"
+}

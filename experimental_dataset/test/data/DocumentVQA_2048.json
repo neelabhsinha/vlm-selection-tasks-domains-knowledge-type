@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2048,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2048.png",
+    "question": "Between which 2 tobacco Companies is the license negotiation?",
+    "label": [
+        "RJR and JT"
+    ]
+}

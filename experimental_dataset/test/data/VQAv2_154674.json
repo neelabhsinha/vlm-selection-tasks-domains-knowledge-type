@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 154674,
+    "image_path": "./experimental_dataset/test/images/VQAv2_154674.png",
+    "question": "Is this ready to eat?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

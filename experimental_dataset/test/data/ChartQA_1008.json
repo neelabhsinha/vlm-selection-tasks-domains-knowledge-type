@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1008,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1008.png",
+    "question": "What is share of SME owners in small business over 65 years?",
+    "label": [
+        "11.8"
+    ]
+}

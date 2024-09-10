@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1937,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1937.png",
+    "question": "How many fans did the Sacramento Kings basketball team have on their Facebook page in March 2021?",
+    "label": [
+        "7.69"
+    ]
+}

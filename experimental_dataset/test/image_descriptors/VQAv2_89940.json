@@ -1,0 +1,11 @@
+{
+    "dataset": "VQAv2",
+    "key": 89940,
+    "caption": "a suitcase filled with lots of different colored balls",
+    "object_tags": [
+        "grass",
+        "ball",
+        "outdoor",
+        "sports equipment"
+    ]
+}

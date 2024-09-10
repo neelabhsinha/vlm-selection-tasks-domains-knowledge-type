@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1863,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1863.png",
+    "question": "What was the household consumption expenditure per capita in Vietnam in 2019?",
+    "label": [
+        "1413.68"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2147,
+    "caption": "a plate of food with broccoli on it",
+    "object_tags": [
+        "food",
+        "plate",
+        "cuisine",
+        "indoor",
+        "white",
+        "dish",
+        "sauce",
+        "chicken",
+        "vegetable",
+        "broccoli",
+        "rice"
+    ]
+}

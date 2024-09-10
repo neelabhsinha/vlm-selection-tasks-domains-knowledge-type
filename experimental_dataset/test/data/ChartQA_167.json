@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 167,
+    "image_path": "./experimental_dataset/test/images/ChartQA_167.png",
+    "question": "Divide second largest segment by smallest segment, what's the result?",
+    "label": [
+        "13"
+    ]
+}

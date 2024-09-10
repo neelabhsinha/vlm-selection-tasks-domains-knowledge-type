@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 672,
+    "caption": "young children playing a game of frisbee",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "indoor",
+        "wall",
+        "floor",
+        "girl",
+        "boy",
+        "furniture",
+        "whiteboard",
+        "chair",
+        "group",
+        "people",
+        "school",
+        "class",
+        "classroom",
+        "room",
+        "playing",
+        "standing",
+        "game",
+        "child",
+        "young",
+        "ground"
+    ]
+}

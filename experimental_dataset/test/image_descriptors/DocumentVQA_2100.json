@@ -1,0 +1,14 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2100,
+    "caption": "an old photo of a train on a train track",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "black and white",
+        "parallel",
+        "font",
+        "diagram",
+        "receipt"
+    ]
+}

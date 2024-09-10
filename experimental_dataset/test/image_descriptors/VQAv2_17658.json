@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 17658,
+    "caption": "a woman and a man standing next to each other",
+    "object_tags": [
+        "person",
+        "clothing",
+        "birthday cake",
+        "wall",
+        "fashion accessory",
+        "human face",
+        "indoor",
+        "cake",
+        "man",
+        "smile",
+        "candle",
+        "woman",
+        "food",
+        "standing",
+        "people",
+        "party",
+        "hat",
+        "red",
+        "cutting"
+    ]
+}

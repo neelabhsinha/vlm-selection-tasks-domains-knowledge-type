@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 537,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_537.png",
+    "question": "What does the man in front that is riding the horse have on?",
+    "label": "['hat', 'cowboy hat', 'cowboy hat', 'hat', 'cowboy hat', 'cowboy hat', 'hat', 'cowboy hat', 'gloves', 'straw hat']",
+    "choices": [
+        "bowtie",
+        "backpack",
+        "motorcycle helmet",
+        "gloves"
+    ],
+    "correct_choice": "gloves"
+}

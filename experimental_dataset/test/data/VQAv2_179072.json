@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 179072,
+    "image_path": "./experimental_dataset/test/images/VQAv2_179072.png",
+    "question": "Is the couch covered in dog hair?",
+    "label": [
+        "no",
+        "no",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

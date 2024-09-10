@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 528,
+    "caption": "a cell phone sitting on top of a couch next to a remote control",
+    "object_tags": [
+        "indoor",
+        "gadget",
+        "electronic device",
+        "mobile phone",
+        "everyday carry",
+        "phone",
+        "remote",
+        "sofa",
+        "person",
+        "cellphone",
+        "floor",
+        "smartphone"
+    ]
+}

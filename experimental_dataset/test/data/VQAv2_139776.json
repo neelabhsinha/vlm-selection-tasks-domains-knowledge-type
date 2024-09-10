@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 139776,
+    "image_path": "./experimental_dataset/test/images/VQAv2_139776.png",
+    "question": "What color is the bike?",
+    "label": [
+        "gold",
+        "champagne",
+        "gold",
+        "gold",
+        "gold",
+        "silver",
+        "gold",
+        "gold",
+        "gold",
+        "gold"
+    ]
+}

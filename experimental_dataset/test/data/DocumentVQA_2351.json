@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2351,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2351.png",
+    "question": "What is the highest lysine level given?",
+    "label": [
+        "0.30%"
+    ]
+}

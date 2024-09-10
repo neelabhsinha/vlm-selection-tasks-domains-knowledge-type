@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 684,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_684.png",
+    "question": "Which person is most everyone shown here staring at now?",
+    "label": "['batter', 'batter', 'pitcher', 'batter', 'longoria', 'batter', 'longoria', 'batter', 'batter', 'batter']",
+    "choices": [
+        "hotdog salesman",
+        "pitcher",
+        "catcher",
+        "umpire"
+    ],
+    "correct_choice": "pitcher"
+}

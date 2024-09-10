@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 213337,
+    "caption": "a person's feet with a pair of shoes",
+    "object_tags": [
+        "clothing",
+        "jeans",
+        "shoe",
+        "person",
+        "footwear",
+        "indoor",
+        "shoes",
+        "floor",
+        "boot"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 325,
+    "caption": "a bus that is sitting on the side of the road",
+    "object_tags": [
+        "outdoor",
+        "text",
+        "building",
+        "vehicle",
+        "land vehicle",
+        "bus",
+        "window",
+        "car",
+        "sky",
+        "street",
+        "parked",
+        "sign",
+        "city"
+    ]
+}

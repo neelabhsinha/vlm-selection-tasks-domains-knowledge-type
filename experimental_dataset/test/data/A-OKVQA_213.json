@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 213,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_213.png",
+    "question": "What is the most likely age of the person?",
+    "label": "['eighty years', 'eighty', 'eighty', '80s', '90', '90', 'thirty', 'senior eighties', '17', 'eighty']",
+    "choices": [
+        "eight",
+        "24",
+        "90",
+        "52"
+    ],
+    "correct_choice": "90"
+}

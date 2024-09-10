@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4226,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4226.png",
+    "question": "Which competition is judged by a special committee ?",
+    "label": [
+        "the essay competition",
+        "Essay competition",
+        "The Essay competition"
+    ]
+}

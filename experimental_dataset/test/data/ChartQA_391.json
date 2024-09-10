@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 391,
+    "image_path": "./experimental_dataset/test/images/ChartQA_391.png",
+    "question": "Which two countries are being compared in the given line graph?",
+    "label": [
+        "[United Kingdom, Cape Verde]"
+    ]
+}

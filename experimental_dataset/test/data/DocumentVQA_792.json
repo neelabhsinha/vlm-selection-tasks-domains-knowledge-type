@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 792,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_792.png",
+    "question": "How much is the year-to-date sales?",
+    "label": [
+        "$263,800,996"
+    ]
+}

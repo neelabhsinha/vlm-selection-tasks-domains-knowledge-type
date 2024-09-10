@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 87001,
+    "task_type": "Visual Question-Answering",
+    "application_domain": [
+        "Professions",
+        "Knowledge Base",
+        "Anthropology"
+    ],
+    "knowledge_type": [
+        "Visual Knowledge",
+        "Technical Knowledge"
+    ]
+}

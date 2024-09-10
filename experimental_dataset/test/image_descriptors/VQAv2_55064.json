@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 55064,
+    "caption": "a row of old trucks parked next to each other",
+    "object_tags": [
+        "wheel",
+        "tire",
+        "vehicle",
+        "land vehicle",
+        "transport",
+        "forklift truck",
+        "parked",
+        "indoor",
+        "outdoor"
+    ]
+}

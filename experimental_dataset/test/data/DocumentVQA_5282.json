@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5282,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5282.png",
+    "question": "What is the reason for fewer teenagers?",
+    "label": [
+        "birth dearth of the '80's",
+        "Birth dearth of the '80's"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4140,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4140.png",
+    "question": "What era is this item made in?",
+    "label": [
+        "1800s",
+        "1800s",
+        "1800s",
+        "1800s",
+        "victorian",
+        "victorian",
+        "1900s",
+        "1900s",
+        "19th century",
+        "19th century"
+    ]
+}

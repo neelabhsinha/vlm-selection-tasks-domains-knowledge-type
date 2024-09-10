@@ -1,0 +1,20 @@
+{
+    "dataset": "VQAv2",
+    "key": 70623,
+    "caption": "a woman sitting in front of a laptop computer",
+    "object_tags": [
+        "person",
+        "clothing",
+        "people",
+        "ground",
+        "man",
+        "footwear",
+        "laptop",
+        "computer",
+        "group",
+        "outdoor",
+        "sitting",
+        "chair",
+        "crowd"
+    ]
+}

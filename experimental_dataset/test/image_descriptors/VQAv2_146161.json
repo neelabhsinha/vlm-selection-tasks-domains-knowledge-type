@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 146161,
+    "caption": "a wooden bench sitting in the middle of a park",
+    "object_tags": [
+        "tree",
+        "outdoor",
+        "furniture",
+        "plant",
+        "outdoor bench",
+        "ground",
+        "bench",
+        "fence",
+        "garden",
+        "park",
+        "sitting",
+        "wooden",
+        "forest",
+        "wood"
+    ]
+}

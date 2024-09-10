@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4617,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4617.png",
+    "question": "What does the third bar from the left represent?",
+    "label": [
+        "BHC"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "VQAv2",
+    "key": 73798,
+    "caption": "a dog laying on top of a rock near a body of water",
+    "object_tags": [
+        "water",
+        "outdoor",
+        "animal",
+        "mammal",
+        "dog",
+        "dog breed",
+        "ground",
+        "beach"
+    ]
+}

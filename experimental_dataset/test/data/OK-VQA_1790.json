@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1790,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1790.png",
+    "question": "What kind of grass is that?",
+    "label": [
+        "turf",
+        "turf",
+        "turf",
+        "turf",
+        "rye",
+        "rye",
+        "astroturn",
+        "astroturn",
+        "green",
+        "green"
+    ]
+}

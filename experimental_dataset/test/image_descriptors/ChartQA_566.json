@@ -1,0 +1,15 @@
+{
+    "dataset": "ChartQA",
+    "key": 566,
+    "caption": "a series of photographs showing a variety of items",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "colorfulness",
+        "line",
+        "font",
+        "parallel",
+        "rectangle",
+        "number"
+    ]
+}

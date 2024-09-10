@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 366,
+    "caption": "a lunch box filled with fruits and vegetables",
+    "object_tags": [
+        "food",
+        "fast food",
+        "cuisine",
+        "take-out food",
+        "food group",
+        "prepackaged meal",
+        "lunch",
+        "vegetable",
+        "carrot stick"
+    ]
+}

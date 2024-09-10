@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 285,
+    "caption": "a man sitting on the side of a road with a suitcase",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "clothing",
+        "sky",
+        "tree",
+        "road",
+        "smile",
+        "luggage and bags",
+        "man",
+        "travel",
+        "plant",
+        "sitting",
+        "riding",
+        "ground",
+        "sunglasses",
+        "bag",
+        "mountain",
+        "vacation"
+    ]
+}

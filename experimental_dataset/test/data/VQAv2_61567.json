@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 61567,
+    "image_path": "./experimental_dataset/test/images/VQAv2_61567.png",
+    "question": "Is this likely in a zoo?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

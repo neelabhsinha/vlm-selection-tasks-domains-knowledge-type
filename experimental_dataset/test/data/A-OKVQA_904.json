@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 904,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_904.png",
+    "question": "What is the boy behind the player picking up?",
+    "label": "['ball', 'tennis ball', 'tennis ball', 'ball', 'tennis ball', 'tennis ball', 'tennis ball', 'tennis ball', 'tennis ball', 'ball']",
+    "choices": [
+        "tennis ball",
+        "shoe",
+        "towel",
+        "racket"
+    ],
+    "correct_choice": "tennis ball"
+}

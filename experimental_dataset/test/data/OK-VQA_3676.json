@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3676,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3676.png",
+    "question": "What type of blanket is on this bed?",
+    "label": [
+        "comforter",
+        "comforter",
+        "comforter",
+        "comforter",
+        "comforter",
+        "comforter",
+        "quilt",
+        "quilt",
+        "cotton blanket",
+        "cotton blanket"
+    ]
+}

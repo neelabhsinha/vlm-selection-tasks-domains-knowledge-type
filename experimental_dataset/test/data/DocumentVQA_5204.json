@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5204,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5204.png",
+    "question": "What is Marianne T Weggeman's employee number?",
+    "label": [
+        "944010"
+    ]
+}

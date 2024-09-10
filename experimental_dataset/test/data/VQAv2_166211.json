@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 166211,
+    "image_path": "./experimental_dataset/test/images/VQAv2_166211.png",
+    "question": "What are they using to eat the pizza?",
+    "label": [
+        "fork and knife",
+        "hands",
+        "silverware",
+        "knife fork",
+        "forks",
+        "knives and hands",
+        "utensils",
+        "utensils",
+        "knife",
+        "utensils"
+    ]
+}

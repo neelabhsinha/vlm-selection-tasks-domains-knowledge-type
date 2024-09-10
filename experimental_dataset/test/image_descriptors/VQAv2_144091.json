@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 144091,
+    "caption": "a large jetliner taking off from an airport runway",
+    "object_tags": [
+        "outdoor",
+        "transport",
+        "plane",
+        "sky",
+        "aircraft",
+        "airplane",
+        "air travel",
+        "vehicle",
+        "airliner",
+        "airline",
+        "aircraft engine",
+        "jet",
+        "flap",
+        "jet aircraft",
+        "jet engine",
+        "aviation",
+        "takeoff",
+        "airport",
+        "aerospace engineering",
+        "twinjet",
+        "large",
+        "runway",
+        "airbus"
+    ]
+}

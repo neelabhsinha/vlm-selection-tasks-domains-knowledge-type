@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 89040,
+    "image_path": "./experimental_dataset/test/images/VQAv2_89040.png",
+    "question": "What language are the signs?",
+    "label": [
+        "spanish",
+        "french",
+        "foreign",
+        "italian",
+        "italian",
+        "italian",
+        "spanish",
+        "english french",
+        "italian",
+        "russian"
+    ]
+}

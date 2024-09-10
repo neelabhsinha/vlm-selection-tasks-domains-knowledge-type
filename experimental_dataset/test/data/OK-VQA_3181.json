@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3181,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3181.png",
+    "question": "What kind of baseball play is this called?",
+    "label": [
+        "bunt",
+        "bunt",
+        "bunt",
+        "bunt",
+        "bunt",
+        "bunt",
+        "bunt",
+        "bunt",
+        "bunt",
+        "bunt"
+    ]
+}

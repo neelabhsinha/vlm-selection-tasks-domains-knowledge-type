@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3878,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3878.png",
+    "question": "What is the budget for Luncheon and Dinner?",
+    "label": [
+        "900.00"
+    ]
+}

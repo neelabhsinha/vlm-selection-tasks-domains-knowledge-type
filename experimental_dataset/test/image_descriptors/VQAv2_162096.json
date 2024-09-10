@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 162096,
+    "caption": "a young man riding a skateboard down a street",
+    "object_tags": [
+        "footwear",
+        "person",
+        "clothing",
+        "ankle",
+        "skateboard",
+        "ground",
+        "sport",
+        "skating",
+        "shorts",
+        "skateboarding equipment",
+        "shoe",
+        "calf",
+        "outdoor",
+        "road",
+        "floor",
+        "young",
+        "shoes",
+        "street",
+        "boy",
+        "girl"
+    ]
+}

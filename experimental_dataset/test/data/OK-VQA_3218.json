@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3218,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3218.png",
+    "question": "What is the most common item transported in this type of vehicle?",
+    "label": [
+        "log",
+        "log",
+        "log",
+        "log",
+        "log",
+        "log",
+        "lumber",
+        "lumber",
+        "tree",
+        "tree"
+    ]
+}

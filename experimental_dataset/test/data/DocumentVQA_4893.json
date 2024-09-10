@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4893,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4893.png",
+    "question": "what is the name of chain corporate ?",
+    "label": [
+        "Gas America"
+    ]
+}

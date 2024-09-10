@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 146298,
+    "image_path": "./experimental_dataset/test/images/VQAv2_146298.png",
+    "question": "What is in the air?",
+    "label": [
+        "bird",
+        "bird",
+        "bird",
+        "hawk",
+        "bird",
+        "bird",
+        "bird",
+        "bird",
+        "bird",
+        "bird"
+    ]
+}

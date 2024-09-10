@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 119,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_119.png",
+    "question": "Why are the people behind the fence there?",
+    "label": "['spectators', 'audience', 'spectators', \"they're riding\", 'spectating', 'spectators', 'spectators', 'spectators', 'spectators', 'observing']",
+    "choices": [
+        "coaching",
+        "spectating",
+        "relaxing",
+        "taking photos"
+    ],
+    "correct_choice": "spectating"
+}

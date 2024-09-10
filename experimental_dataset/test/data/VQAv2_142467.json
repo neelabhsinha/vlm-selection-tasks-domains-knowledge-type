@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 142467,
+    "image_path": "./experimental_dataset/test/images/VQAv2_142467.png",
+    "question": "What holiday is being celebrated?",
+    "label": [
+        "christmas",
+        "christmas",
+        "christmas",
+        "christmas",
+        "christmas",
+        "christmas",
+        "christmas",
+        "christmas",
+        "christmas",
+        "christmas"
+    ]
+}

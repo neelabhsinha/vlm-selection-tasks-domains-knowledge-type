@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 239,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_239.png",
+    "question": "What kind of bike is this?",
+    "label": "['scooter', 'scooter', 'e-bike', 'motor bike', 'moped', 'scooter', 'scooter', 'moped', 'vespa', 'vespa']",
+    "choices": [
+        "unicycle",
+        "vespa",
+        "bmx",
+        "motorcycle"
+    ],
+    "correct_choice": "vespa"
+}

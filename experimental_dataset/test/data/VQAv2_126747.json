@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 126747,
+    "image_path": "./experimental_dataset/test/images/VQAv2_126747.png",
+    "question": "What is the man wearing on his head?",
+    "label": [
+        "hair",
+        "nothing",
+        "nothing",
+        "nothing",
+        "nothing",
+        "hair",
+        "hair",
+        "hair",
+        "nothing",
+        "nothing"
+    ]
+}

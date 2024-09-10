@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1276,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1276.png",
+    "question": "How many restaurants were owned by Jack in the Box Inc. in 2020?",
+    "label": [
+        "144"
+    ]
+}

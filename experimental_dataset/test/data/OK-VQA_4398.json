@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4398,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4398.png",
+    "question": "What kind of flooring was used in this bathroom?",
+    "label": [
+        "marble",
+        "marble",
+        "marble",
+        "marble",
+        "granite",
+        "granite",
+        "carpet",
+        "carpet",
+        "tile",
+        "tile"
+    ]
+}

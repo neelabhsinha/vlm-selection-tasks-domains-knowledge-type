@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 419,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_419.png",
+    "question": "From which item can you get the most protein?",
+    "label": "['from meat', 'salami', 'meat', 'salami', 'meat', 'deli meat', 'ham', 'meat cheese', 'meat', 'salami']",
+    "choices": [
+        "salami",
+        "wine",
+        "cheese",
+        "bread"
+    ],
+    "correct_choice": "salami"
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4554,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4554.png",
+    "question": "What is the bowl made of?",
+    "label": [
+        "styrofoam",
+        "styrofoam",
+        "styrofoam",
+        "styrofoam",
+        "plastic",
+        "plastic",
+        "porcelain",
+        "porcelain",
+        "ceramic",
+        "ceramic"
+    ]
+}

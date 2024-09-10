@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1039,
+    "caption": "a truck driving down a street next to tall buildings",
+    "object_tags": [
+        "sky",
+        "cloud",
+        "outdoor",
+        "land vehicle",
+        "wheel",
+        "vehicle",
+        "tree",
+        "tire",
+        "road",
+        "town",
+        "people",
+        "travel",
+        "person",
+        "cloudy",
+        "driving",
+        "clouds",
+        "street",
+        "city"
+    ]
+}

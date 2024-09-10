@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2268,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2268.png",
+    "question": "What are some of the more usual colors for courts where this game is played?",
+    "label": [
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green",
+        "green and maroon",
+        "green and maroon"
+    ]
+}

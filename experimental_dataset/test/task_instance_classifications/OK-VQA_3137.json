@@ -1,0 +1,13 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3137,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Computer Science",
+        "Social Media"
+    ],
+    "knowledge_type": [
+        "Technical Knowledge",
+        "Visual Knowledge"
+    ]
+}

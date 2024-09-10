@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 972,
+    "image_path": "./experimental_dataset/test/images/ChartQA_972.png",
+    "question": "Which age category of female is the highest?",
+    "label": [
+        "20 to 29 years"
+    ]
+}

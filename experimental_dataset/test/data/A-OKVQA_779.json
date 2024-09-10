@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 779,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_779.png",
+    "question": "What is the vase made of?",
+    "label": "['ceramic', 'porcelain', 'clay', 'jar', 'porcelain', 'ceramic', 'ceramic', 'made sand', 'glass', 'clay']",
+    "choices": [
+        "glass",
+        "clay",
+        "wood",
+        "plastic"
+    ],
+    "correct_choice": "clay"
+}

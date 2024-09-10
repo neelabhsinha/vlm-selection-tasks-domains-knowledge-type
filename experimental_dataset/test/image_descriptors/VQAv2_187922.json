@@ -1,0 +1,30 @@
+{
+    "dataset": "VQAv2",
+    "key": 187922,
+    "caption": "a person kiteboarding over a body of water",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "windsports",
+        "cloud",
+        "water",
+        "kite sports",
+        "paragliding",
+        "extreme sport",
+        "surfing",
+        "parachuting",
+        "outdoor recreation",
+        "adventure",
+        "air sports",
+        "recreation",
+        "kitesurfing",
+        "kite",
+        "parachute",
+        "person",
+        "beach",
+        "ocean",
+        "parasailing",
+        "mountain",
+        "kiteboarding"
+    ]
+}

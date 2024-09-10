@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1022,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1022.png",
+    "question": "What color bar has the most appearances?",
+    "label": [
+        "light blue"
+    ]
+}

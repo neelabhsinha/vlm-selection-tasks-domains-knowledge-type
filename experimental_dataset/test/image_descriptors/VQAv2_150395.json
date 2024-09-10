@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 150395,
+    "caption": "people standing on top of a wooden bench",
+    "object_tags": [
+        "outdoor",
+        "clothing",
+        "person",
+        "sky",
+        "man",
+        "people",
+        "grass",
+        "hiking",
+        "footwear",
+        "bench",
+        "group",
+        "plant",
+        "ground",
+        "standing",
+        "wooden"
+    ]
+}

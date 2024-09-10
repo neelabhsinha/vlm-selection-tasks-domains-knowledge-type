@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1146,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1146.png",
+    "question": "How big is the ship that these people are on?",
+    "label": [
+        "very big",
+        "very big",
+        "very big",
+        "very big",
+        "very big",
+        "very big",
+        "big",
+        "big",
+        "large",
+        "large"
+    ]
+}

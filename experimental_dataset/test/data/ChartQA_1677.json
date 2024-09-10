@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1677,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1677.png",
+    "question": "How much silver was consumed in the United States in 2010?",
+    "label": [
+        "189.6"
+    ]
+}

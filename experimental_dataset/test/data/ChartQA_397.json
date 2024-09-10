@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 397,
+    "image_path": "./experimental_dataset/test/images/ChartQA_397.png",
+    "question": "When does the gap between the two countries reach the smallest?",
+    "label": [
+        "1992"
+    ]
+}

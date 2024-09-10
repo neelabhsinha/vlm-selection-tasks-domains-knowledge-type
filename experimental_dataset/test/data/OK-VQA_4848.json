@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4848,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4848.png",
+    "question": "What time of year is it?",
+    "label": [
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter",
+        "winter"
+    ]
+}

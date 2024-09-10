@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 669,
+    "image_path": "./experimental_dataset/test/images/ChartQA_669.png",
+    "question": "What is the average percent across all the data?",
+    "label": [
+        "33.33"
+    ]
+}

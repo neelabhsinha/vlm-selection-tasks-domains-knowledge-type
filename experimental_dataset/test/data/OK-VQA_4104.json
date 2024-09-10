@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4104,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4104.png",
+    "question": "The association for the sport shown in this photo goes by the acronym asp what does asp stand for?",
+    "label": [
+        "association of surf profession",
+        "association of surf profession",
+        "association of surf profession",
+        "association of surf profession",
+        "association of surf profession",
+        "association of surf profession",
+        "association of surf professional",
+        "association of surf professional",
+        "surf",
+        "surf"
+    ]
+}

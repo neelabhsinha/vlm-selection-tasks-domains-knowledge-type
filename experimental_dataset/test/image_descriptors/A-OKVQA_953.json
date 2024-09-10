@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 953,
+    "caption": "a man standing next to a train on a train track",
+    "object_tags": [
+        "clothing",
+        "person",
+        "man",
+        "outdoor",
+        "ground",
+        "footwear",
+        "train",
+        "track",
+        "trousers",
+        "people",
+        "standing",
+        "street",
+        "train station"
+    ]
+}

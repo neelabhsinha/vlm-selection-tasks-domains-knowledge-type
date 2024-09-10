@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 955,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_955.png",
+    "question": "What is date of arrival?",
+    "label": [
+        "Tues. Feb. 4",
+        "Tues, Feb 4",
+        "Feb. 4"
+    ]
+}

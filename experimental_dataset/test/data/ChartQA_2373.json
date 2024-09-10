@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2373,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2373.png",
+    "question": "What was the retail sales of chocolate in Canada in 2018?",
+    "label": [
+        "2.6"
+    ]
+}

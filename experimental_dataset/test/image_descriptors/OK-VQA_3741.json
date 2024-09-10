@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3741,
+    "caption": "a table topped with lots of stuffed animals",
+    "object_tags": [
+        "indoor",
+        "teddy",
+        "toy",
+        "snack",
+        "stuffed",
+        "fast food",
+        "teddy bear",
+        "table",
+        "meal",
+        "food",
+        "wall",
+        "display",
+        "variety",
+        "assortment"
+    ]
+}

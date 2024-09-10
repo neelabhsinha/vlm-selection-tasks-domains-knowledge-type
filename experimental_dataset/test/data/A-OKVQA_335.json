@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 335,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_335.png",
+    "question": "How many lights are visible in the room?",
+    "label": "['2 lights', 'two', 'two', 'two', 'two', '2 lights', 'two', 'two', 'two', 'two']",
+    "choices": [
+        "two",
+        "three",
+        "five",
+        "six"
+    ],
+    "correct_choice": "two"
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 153513,
+    "caption": "a small bird perched on top of a tree branch",
+    "object_tags": [
+        "animal",
+        "bird",
+        "outdoor",
+        "oscine",
+        "tree",
+        "branch",
+        "perched",
+        "beak",
+        "yellow",
+        "twig",
+        "wildlife",
+        "winter"
+    ]
+}

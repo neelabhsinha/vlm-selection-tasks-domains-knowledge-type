@@ -1,0 +1,16 @@
+{
+    "dataset": "VQAv2",
+    "key": 51396,
+    "caption": "a plate of food with broccoli",
+    "object_tags": [
+        "food",
+        "broccoli",
+        "vegetable",
+        "cruciferous vegetables",
+        "cuisine",
+        "leaf vegetable",
+        "recipe",
+        "broccoflower",
+        "indoor"
+    ]
+}

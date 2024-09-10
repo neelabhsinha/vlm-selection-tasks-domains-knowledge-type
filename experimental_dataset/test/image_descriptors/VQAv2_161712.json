@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 161712,
+    "caption": "a man sitting in front of a laptop computer",
+    "object_tags": [
+        "indoor",
+        "person",
+        "clothing",
+        "human face",
+        "wall",
+        "window",
+        "boy",
+        "furniture",
+        "house",
+        "comfort",
+        "reading",
+        "toddler",
+        "sitting",
+        "child",
+        "room",
+        "family"
+    ]
+}

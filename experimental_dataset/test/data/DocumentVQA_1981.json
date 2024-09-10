@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1981,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1981.png",
+    "question": "What is the description of sample?",
+    "label": [
+        "average sample for campaign 1963-64",
+        "Average Sample for Campaign 1963-64"
+    ]
+}

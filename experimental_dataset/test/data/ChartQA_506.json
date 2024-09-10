@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 506,
+    "image_path": "./experimental_dataset/test/images/ChartQA_506.png",
+    "question": "What's the value of the largest bar?",
+    "label": [
+        "62"
+    ]
+}

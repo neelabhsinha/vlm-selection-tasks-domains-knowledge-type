@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 642,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_642.png",
+    "question": "What kind of tomato sauce is there?",
+    "label": [
+        "marinara",
+        "marinara",
+        "marinara",
+        "marinara",
+        "sweet and sour",
+        "sweet and sour",
+        "tomato",
+        "tomato",
+        "hot oil tomato sauce",
+        "hot oil tomato sauce"
+    ]
+}

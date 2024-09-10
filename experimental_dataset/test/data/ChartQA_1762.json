@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1762,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1762.png",
+    "question": "How many retail stores did Jimmy Choo operate in Asia as of March 28, 2020?",
+    "label": [
+        "105"
+    ]
+}

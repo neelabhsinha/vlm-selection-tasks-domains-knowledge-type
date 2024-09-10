@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2848,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2848.png",
+    "question": "Why is this crowd assembled?",
+    "label": [
+        "to fly kite",
+        "to fly kite",
+        "to fly kite",
+        "to fly kite",
+        "day in park",
+        "day in park",
+        "good weather",
+        "good weather",
+        "kite",
+        "kite"
+    ]
+}

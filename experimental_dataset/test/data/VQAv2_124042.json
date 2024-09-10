@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 124042,
+    "image_path": "./experimental_dataset/test/images/VQAv2_124042.png",
+    "question": "Where is the woman sitting?",
+    "label": [
+        "cement",
+        "on cement stool",
+        "yes",
+        "seat",
+        "yes",
+        "stump",
+        "on traffic stopper",
+        "on barrier",
+        "car barrier",
+        "stone"
+    ]
+}

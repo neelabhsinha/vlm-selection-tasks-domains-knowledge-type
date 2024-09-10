@@ -1,0 +1,25 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 110,
+    "caption": "a plastic container filled with fruit and vegetables",
+    "object_tags": [
+        "food",
+        "staple food",
+        "fast food",
+        "produce",
+        "food group",
+        "ingredient",
+        "take-out food",
+        "prepackaged meal",
+        "diet food",
+        "vegetarian food",
+        "fruit",
+        "indoor",
+        "meal",
+        "superfood",
+        "lunch",
+        "container",
+        "plastic",
+        "vegetable"
+    ]
+}

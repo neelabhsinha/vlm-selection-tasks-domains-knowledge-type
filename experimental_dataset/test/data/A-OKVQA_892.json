@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 892,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_892.png",
+    "question": "What was the child given to eat?",
+    "label": "['fruit', 'banana', 'banana', 'banana', 'banana', 'banana', 'banana', 'banana', 'banana', 'banana']",
+    "choices": [
+        "meat",
+        "pie",
+        "vegetables",
+        "fruit"
+    ],
+    "correct_choice": "fruit"
+}

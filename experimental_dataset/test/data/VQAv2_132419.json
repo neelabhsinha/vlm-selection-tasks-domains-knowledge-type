@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 132419,
+    "image_path": "./experimental_dataset/test/images/VQAv2_132419.png",
+    "question": "What are the people doing?",
+    "label": [
+        "greeting",
+        "celebrating",
+        "talking to small children",
+        "saying hello",
+        "giving flowers and teddy bear to soldiers",
+        "welcoming soldiers",
+        "standing",
+        "giving leis",
+        "smiling",
+        "greeting"
+    ]
+}

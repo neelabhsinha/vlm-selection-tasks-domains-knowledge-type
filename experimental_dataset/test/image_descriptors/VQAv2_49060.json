@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 49060,
+    "caption": "a blender filled with lots of fruit",
+    "object_tags": [
+        "fruit",
+        "indoor",
+        "clementine",
+        "orange",
+        "citrus",
+        "bitter orange",
+        "tangerine",
+        "mandarin orange",
+        "grapefruit",
+        "valencia orange",
+        "tangelo",
+        "rangpur",
+        "food",
+        "oranges"
+    ]
+}

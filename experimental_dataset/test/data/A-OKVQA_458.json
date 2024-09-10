@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 458,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_458.png",
+    "question": "What are the people doing on the grass?",
+    "label": "['discussing', 'eating', 'eating', 'crafting', 'side', 'picnic', 'eating', 'eating', 'picnic', 'picnicking']",
+    "choices": [
+        "gaming",
+        "wrestling",
+        "eating",
+        "sports"
+    ],
+    "correct_choice": "eating"
+}

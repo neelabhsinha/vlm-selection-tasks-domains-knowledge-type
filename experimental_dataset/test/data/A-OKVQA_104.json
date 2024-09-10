@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 104,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_104.png",
+    "question": "In which way are the adults shown here likely related to the child?",
+    "label": "['mother/child', 'parents', 'parents', 'parents', 'mother/child', 'parents', 'parents', 'grandparents', 'parents', 'parents']",
+    "choices": [
+        "grandparents",
+        "strangers",
+        "friends",
+        "sister"
+    ],
+    "correct_choice": "grandparents"
+}

@@ -1,0 +1,27 @@
+{
+    "dataset": "VQAv2",
+    "key": 170794,
+    "caption": "a vase filled with flowers on top of a table",
+    "object_tags": [
+        "flower",
+        "floristry",
+        "floral design",
+        "flower arranging",
+        "cut flowers",
+        "bouquet",
+        "petal",
+        "annual plant",
+        "artificial flower",
+        "indoor",
+        "vase",
+        "ikebana",
+        "centrepiece",
+        "flowerpot",
+        "chrysanths",
+        "houseplant",
+        "plant",
+        "wall",
+        "window",
+        "yellow"
+    ]
+}

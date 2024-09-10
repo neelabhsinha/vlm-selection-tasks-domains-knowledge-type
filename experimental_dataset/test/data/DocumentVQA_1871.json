@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1871,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1871.png",
+    "question": "What Ellen gilchrist wrote for the magazine?",
+    "label": [
+        "A short story",
+        "short story"
+    ]
+}

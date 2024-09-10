@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1966,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1966.png",
+    "question": "What was the growth in demand for refined copper in 2016?",
+    "label": [
+        "2.5"
+    ]
+}

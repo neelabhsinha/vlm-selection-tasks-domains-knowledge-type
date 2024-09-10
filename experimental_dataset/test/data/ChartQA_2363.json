@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2363,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2363.png",
+    "question": "How many life insurance policies were in Singapore in 2018?",
+    "label": [
+        "14.79"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4180,
+    "caption": "a cup with a toothbrush in it next to a toothbrush holder",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "household supply",
+        "bathroom",
+        "cup",
+        "brush",
+        "tool",
+        "toothbrush"
+    ]
+}

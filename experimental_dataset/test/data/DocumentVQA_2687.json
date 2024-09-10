@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2687,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2687.png",
+    "question": "Who is the Chairman ?",
+    "label": [
+        "Mr. R.V.K.M. Suryarau"
+    ]
+}

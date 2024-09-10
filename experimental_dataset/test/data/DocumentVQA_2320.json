@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2320,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2320.png",
+    "question": "What is the name on the first stamp?",
+    "label": [
+        "THOMAS JEFFERSON",
+        "Thomas Jefferson"
+    ]
+}

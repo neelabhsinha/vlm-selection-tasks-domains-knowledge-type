@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2890,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2890.png",
+    "question": "According to step 3, where the suction cup is engaged?",
+    "label": [
+        "INNER DIAMETER OF THE ULTAMET INSERT",
+        "Inner diameter of the ultamet insert"
+    ]
+}

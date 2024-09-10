@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 952,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_952.png",
+    "question": "In what city is this place located?",
+    "label": [
+        "hong kong",
+        "hong kong",
+        "hong kong",
+        "hong kong",
+        "lombok",
+        "lombok",
+        "city",
+        "city",
+        "thailand",
+        "thailand"
+    ]
+}

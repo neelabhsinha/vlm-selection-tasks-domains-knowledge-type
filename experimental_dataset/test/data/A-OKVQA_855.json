@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 855,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_855.png",
+    "question": "The girl is holding the pizza with what?",
+    "label": "['her mouth', 'mouth', 'mouth', 'her mouth', 'teeth', 'mouth', 'mouth', 'teeth', 'mouth', 'her mouth']",
+    "choices": [
+        "hands",
+        "feet",
+        "teeth",
+        "fork"
+    ],
+    "correct_choice": "teeth"
+}

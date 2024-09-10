@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 349,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_349.png",
+    "question": "What is the gray thing on the nearest motorcycle for?",
+    "label": "['cover', 'protect bike', 'protection', 'protection', 'protect motorcycle', 'rain protection', 'protective tarp', 'weather protection', 'motorcycle cover', 'protection']",
+    "choices": [
+        "displaying wealth",
+        "rain protection",
+        "just aesthetics",
+        "heating food"
+    ],
+    "correct_choice": "rain protection"
+}

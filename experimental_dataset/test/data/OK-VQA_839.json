@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 839,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_839.png",
+    "question": "What famous founding father was known for his association with this object?",
+    "label": [
+        "benjamin franklin",
+        "benjamin franklin",
+        "benjamin franklin",
+        "benjamin franklin",
+        "benjamin franklin",
+        "benjamin franklin",
+        "benjamin franklin",
+        "benjamin franklin",
+        "ben franklin",
+        "ben franklin"
+    ]
+}

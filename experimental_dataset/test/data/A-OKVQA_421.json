@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 421,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_421.png",
+    "question": "What food type likely fills the freezer?",
+    "label": "['breakfast', 'ice cream', 'ice cream', 'ice', 'ice cream', 'icecream', 'ice cream', 'ice cream', 'dessert', 'ice cream']",
+    "choices": [
+        "vegetables",
+        "pasta",
+        "ice cream",
+        "meat"
+    ],
+    "correct_choice": "ice cream"
+}

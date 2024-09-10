@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2691,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2691.png",
+    "question": "Which is the resort course in America that is ranked #4 by Golf digest?",
+    "label": [
+        "Ocean Course",
+        "Ocean course"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 127612,
+    "caption": "a brown and white dog laying on a couch",
+    "object_tags": [
+        "pet",
+        "dog breed",
+        "indoor",
+        "mammal",
+        "animal",
+        "dog",
+        "sofa",
+        "companion dog",
+        "brown",
+        "small greek domestic dog",
+        "wall",
+        "puppy"
+    ]
+}

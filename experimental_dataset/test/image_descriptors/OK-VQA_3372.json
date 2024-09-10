@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3372,
+    "caption": "people standing on the side of a road near a truck",
+    "object_tags": [
+        "outdoor",
+        "road",
+        "land vehicle",
+        "wheel",
+        "mountain",
+        "sky",
+        "road surface",
+        "tree",
+        "asphalt",
+        "motor vehicle",
+        "travel",
+        "street",
+        "truck",
+        "people",
+        "driving",
+        "vehicle"
+    ]
+}

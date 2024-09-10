@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 871,
+    "image_path": "./experimental_dataset/test/images/ChartQA_871.png",
+    "question": "What is the average of Don`t know?",
+    "label": [
+        "2.44"
+    ]
+}

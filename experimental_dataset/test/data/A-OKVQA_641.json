@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 641,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_641.png",
+    "question": "Where did the idea of ketchup originally come from?",
+    "label": "['china', 'germany', 'china', 'america', 'china', 'america', 'italy', 'china', 'china', 'china']",
+    "choices": [
+        "japan",
+        "turkey",
+        "vietnam",
+        "china"
+    ],
+    "correct_choice": "china"
+}

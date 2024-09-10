@@ -1,0 +1,12 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5050,
+    "caption": "a collage of photographs showing a school bus",
+    "object_tags": [
+        "text",
+        "handwriting",
+        "screenshot",
+        "parallel",
+        "number"
+    ]
+}

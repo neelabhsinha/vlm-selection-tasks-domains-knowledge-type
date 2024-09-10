@@ -1,0 +1,32 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1623,
+    "caption": "a young girl riding a skateboard down a street",
+    "object_tags": [
+        "outdoor",
+        "person",
+        "footwear",
+        "sport",
+        "wheel",
+        "land vehicle",
+        "car",
+        "road",
+        "vehicle",
+        "sports equipment",
+        "clothing",
+        "skating",
+        "skateboarding equipment",
+        "street sports",
+        "riding",
+        "skateboarder",
+        "boardsport",
+        "roller sport",
+        "longboarding",
+        "skateboard",
+        "street",
+        "skateboarding",
+        "boy",
+        "young",
+        "ground"
+    ]
+}

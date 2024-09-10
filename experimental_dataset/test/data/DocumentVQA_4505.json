@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4505,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4505.png",
+    "question": "What is the number of animals received ?",
+    "label": [
+        "590"
+    ]
+}

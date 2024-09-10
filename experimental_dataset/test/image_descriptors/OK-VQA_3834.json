@@ -1,0 +1,21 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3834,
+    "caption": "a plate of food on a table with a vase of flowers",
+    "object_tags": [
+        "table",
+        "indoor",
+        "wall",
+        "vase",
+        "snack",
+        "flower arranging",
+        "fruit",
+        "floral design",
+        "centrepiece",
+        "cut flowers",
+        "food",
+        "flower",
+        "floor",
+        "plant"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1521,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1521.png",
+    "question": "What was Tajikistan's gross domestic product in 2019?",
+    "label": [
+        "8.12"
+    ]
+}

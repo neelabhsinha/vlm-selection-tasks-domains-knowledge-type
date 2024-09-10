@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 849,
+    "image_path": "./experimental_dataset/test/images/ChartQA_849.png",
+    "question": "What percentage of people (combined) use iMessage?",
+    "label": [
+        "78"
+    ]
+}

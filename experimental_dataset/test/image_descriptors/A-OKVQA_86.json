@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 86,
+    "caption": "a table topped with bowls filled with different types of food",
+    "object_tags": [
+        "food",
+        "ingredient",
+        "indoor",
+        "vegetarian food",
+        "carrot",
+        "food group",
+        "staple food",
+        "dairy",
+        "broccoli",
+        "meal",
+        "superfood",
+        "dip",
+        "vegetable",
+        "container",
+        "recipe"
+    ]
+}

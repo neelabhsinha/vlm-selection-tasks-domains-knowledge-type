@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4973,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4973.png",
+    "question": "What is the \u2018name of Claimant\u2019?",
+    "label": [
+        "dr. william j. darby"
+    ]
+}

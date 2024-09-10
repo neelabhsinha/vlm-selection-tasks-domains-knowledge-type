@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 51751,
+    "caption": "a vase filled with flowers on top of a table",
+    "object_tags": [
+        "fireworks",
+        "night",
+        "fire",
+        "outdoor",
+        "light"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1534,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1534.png",
+    "question": "Which days \u2018Epidemiology of Occupational Hazards\u2019 course conducted?",
+    "label": [
+        "T-Th-S"
+    ]
+}

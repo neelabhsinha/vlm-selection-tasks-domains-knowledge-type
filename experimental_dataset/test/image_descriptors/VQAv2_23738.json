@@ -1,0 +1,21 @@
+{
+    "dataset": "VQAv2",
+    "key": 23738,
+    "caption": "a man cutting a cake with a sword",
+    "object_tags": [
+        "clothing",
+        "person",
+        "cake",
+        "birthday cake",
+        "man",
+        "indoor",
+        "military",
+        "human face",
+        "table",
+        "cutting",
+        "dessert",
+        "cut",
+        "uniform",
+        "standing"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2742,
+    "caption": "a cat sitting on top of a bed",
+    "object_tags": [
+        "animal",
+        "cat",
+        "small to medium-sized cats",
+        "domestic cat",
+        "mammal",
+        "indoor",
+        "felidae",
+        "whiskers",
+        "siamese"
+    ]
+}

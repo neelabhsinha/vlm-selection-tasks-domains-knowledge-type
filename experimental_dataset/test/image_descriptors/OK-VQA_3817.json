@@ -1,0 +1,30 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3817,
+    "caption": "a traffic light on the corner of a city street",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "sky",
+        "tree",
+        "transport",
+        "car",
+        "signaling device",
+        "wheel",
+        "traffic",
+        "light",
+        "traffic light",
+        "building",
+        "street",
+        "vehicle registration plate",
+        "public utility",
+        "automotive parking light",
+        "road",
+        "city",
+        "red",
+        "stop",
+        "intersection",
+        "signal"
+    ]
+}

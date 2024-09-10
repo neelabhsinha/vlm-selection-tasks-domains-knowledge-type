@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 258,
+    "image_path": "./experimental_dataset/test/images/ChartQA_258.png",
+    "question": "Which country represented by longest bar?",
+    "label": [
+        "Mongolia"
+    ]
+}

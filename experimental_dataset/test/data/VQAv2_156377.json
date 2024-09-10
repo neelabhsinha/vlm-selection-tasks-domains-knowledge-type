@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 156377,
+    "image_path": "./experimental_dataset/test/images/VQAv2_156377.png",
+    "question": "How many wine bottles sit on the counter?",
+    "label": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ]
+}

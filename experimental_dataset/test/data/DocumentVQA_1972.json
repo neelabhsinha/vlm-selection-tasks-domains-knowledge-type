@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1972,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1972.png",
+    "question": "Which was CLAUD T.CARNEY\u2019s grammar school?",
+    "label": [
+        "hill city, kansas",
+        "Hill city, Kansas"
+    ]
+}

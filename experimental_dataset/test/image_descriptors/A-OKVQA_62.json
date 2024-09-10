@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 62,
+    "caption": "a small dock with boats in the water",
+    "object_tags": [
+        "outdoor",
+        "tree",
+        "water",
+        "waterway",
+        "vehicle",
+        "channel",
+        "canal",
+        "grass",
+        "plant",
+        "barge",
+        "boat",
+        "docked",
+        "river",
+        "dock",
+        "watercraft",
+        "lake"
+    ]
+}

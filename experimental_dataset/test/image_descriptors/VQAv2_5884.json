@@ -1,0 +1,19 @@
+{
+    "dataset": "VQAv2",
+    "key": 5884,
+    "caption": "a person on a snowboard in the snow",
+    "object_tags": [
+        "outdoor",
+        "snow",
+        "tree",
+        "person",
+        "winter",
+        "footwear",
+        "freezing",
+        "blizzard",
+        "sport",
+        "clothing",
+        "winter storm",
+        "snowboarding"
+    ]
+}

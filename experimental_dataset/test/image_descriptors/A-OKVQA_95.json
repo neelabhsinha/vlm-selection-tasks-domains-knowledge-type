@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 95,
+    "caption": "a woman holding a cell phone while walking down the street",
+    "object_tags": [
+        "person",
+        "clothing",
+        "outdoor",
+        "human face",
+        "building",
+        "street fashion",
+        "woman",
+        "phone",
+        "street",
+        "snapshot",
+        "girl",
+        "night",
+        "city",
+        "cellphone",
+        "ground",
+        "sidewalk",
+        "telephone"
+    ]
+}

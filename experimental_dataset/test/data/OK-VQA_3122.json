@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3122,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3122.png",
+    "question": "What company is this train?",
+    "label": [
+        "virgin",
+        "virgin",
+        "virgin",
+        "virgin",
+        "virgin",
+        "virgin",
+        "virgin",
+        "virgin",
+        "amtrak",
+        "amtrak"
+    ]
+}

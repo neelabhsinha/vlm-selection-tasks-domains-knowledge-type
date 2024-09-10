@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 115073,
+    "image_path": "./experimental_dataset/test/images/VQAv2_115073.png",
+    "question": "Will the dog eat the object in its mouth?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

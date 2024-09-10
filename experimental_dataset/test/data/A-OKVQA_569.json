@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 569,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_569.png",
+    "question": "What is the purpose of the item on the fridge handle?",
+    "label": "['drying', 'dry hands', 'cleanliness', 'dry dishes', 'wiping hands', 'rag', 'drying', 'dry dishes', 'cleaning', 'wiping']",
+    "choices": [
+        "wash dishes",
+        "wash floor",
+        "empty oven",
+        "dry hands"
+    ],
+    "correct_choice": "dry hands"
+}

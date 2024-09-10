@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 824,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_824.png",
+    "question": "What is the animal engaging in?",
+    "label": "['unrolling paper', 'cleaning', 'playing', 'eating', 'mischief', 'tearing', 'mischeif', 'eating paper', 'cat', 'playing']",
+    "choices": [
+        "cleaning",
+        "peeing",
+        "pooing",
+        "playing"
+    ],
+    "correct_choice": "playing"
+}

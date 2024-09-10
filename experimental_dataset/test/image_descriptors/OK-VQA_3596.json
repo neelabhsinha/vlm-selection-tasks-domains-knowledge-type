@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3596,
+    "caption": "a sandwich with meat and cheese on a plate",
+    "object_tags": [
+        "food",
+        "fast food",
+        "american food",
+        "cuisine",
+        "plate",
+        "dish",
+        "snack",
+        "bread",
+        "baked goods",
+        "sandwich",
+        "bun",
+        "banh",
+        "junk food",
+        "gluten",
+        "snack food",
+        "indoor"
+    ]
+}

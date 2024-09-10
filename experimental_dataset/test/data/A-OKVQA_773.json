@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 773,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_773.png",
+    "question": "What is the white building with a green roof?",
+    "label": "['hotel', 'apartment', 'hotel', 'hotel', 'hotel', 'apartment', 'hotel', 'hotel', 'resort', 'hotel']",
+    "choices": [
+        "office building",
+        "resort",
+        "residential building",
+        "university"
+    ],
+    "correct_choice": "resort"
+}

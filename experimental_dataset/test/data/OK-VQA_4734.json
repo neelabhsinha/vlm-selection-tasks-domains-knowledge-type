@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4734,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4734.png",
+    "question": "What long equiptment is used to play this sport?",
+    "label": [
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "bat",
+        "baseball bat",
+        "baseball bat"
+    ]
+}

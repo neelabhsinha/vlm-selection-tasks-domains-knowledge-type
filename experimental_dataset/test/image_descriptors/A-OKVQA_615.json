@@ -1,0 +1,22 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 615,
+    "caption": "a dog laying on top of a couch",
+    "object_tags": [
+        "indoor",
+        "couch",
+        "animal",
+        "furniture",
+        "dog",
+        "comfort",
+        "sofa bed",
+        "wall",
+        "laying",
+        "remote",
+        "floor",
+        "lying",
+        "brown",
+        "sofa",
+        "cat"
+    ]
+}

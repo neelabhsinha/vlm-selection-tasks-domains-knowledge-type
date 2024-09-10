@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 783,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_783.png",
+    "question": "Which vehicle holds the most people?",
+    "label": "['train', 'train', 'train', 'train', 'train', 'train', 'train', 'train', 'train', 'train']",
+    "choices": [
+        "boat",
+        "train",
+        "truck",
+        "car"
+    ],
+    "correct_choice": "train"
+}

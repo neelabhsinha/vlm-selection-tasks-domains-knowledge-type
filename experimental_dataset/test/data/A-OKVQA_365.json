@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 365,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_365.png",
+    "question": "What is the clear container topped with an orange made out of?",
+    "label": "['glass', 'glass', 'glass', 'glass', 'glass', 'glass', 'glass', 'glass', 'glass', 'glass']",
+    "choices": [
+        "paper",
+        "steel",
+        "plastic",
+        "glass"
+    ],
+    "correct_choice": "glass"
+}

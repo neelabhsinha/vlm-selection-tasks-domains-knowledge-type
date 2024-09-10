@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1990,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1990.png",
+    "question": "What was the value of Real estate crowdfunding in 2018?",
+    "label": [
+        "189.2"
+    ]
+}

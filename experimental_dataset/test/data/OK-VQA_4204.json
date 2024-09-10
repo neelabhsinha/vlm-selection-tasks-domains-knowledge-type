@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4204,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4204.png",
+    "question": "What kind of chair is used for this area?",
+    "label": [
+        "office chair",
+        "office chair",
+        "office chair",
+        "office chair",
+        "office",
+        "office",
+        "office",
+        "office",
+        "roll",
+        "roll"
+    ]
+}

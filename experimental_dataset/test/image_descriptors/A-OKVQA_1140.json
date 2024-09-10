@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1140,
+    "caption": "a street sign on a pole in front of a building",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "sky",
+        "text",
+        "land vehicle",
+        "car",
+        "road",
+        "vehicle",
+        "window",
+        "town",
+        "sign",
+        "neighbourhood",
+        "mixed-use",
+        "way",
+        "signage",
+        "wheel",
+        "sidewalk",
+        "billboard",
+        "city",
+        "street",
+        "downtown"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1181,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1181.png",
+    "question": "Would this be considered a formal or informal meal?",
+    "label": [
+        "informal",
+        "informal",
+        "informal",
+        "informal",
+        "informal",
+        "informal",
+        "informal",
+        "informal",
+        "formal",
+        "formal"
+    ]
+}

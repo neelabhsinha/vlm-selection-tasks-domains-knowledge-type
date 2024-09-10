@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 218,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_218.png",
+    "question": "What type of shelves are these?",
+    "label": "['display shelves', 'movable', 'display', 'bakery', 'display', 'donuts', 'metal', 'bakery', 'racks', 'food shelves']",
+    "choices": [
+        "bakery",
+        "book",
+        "grocery",
+        "shoe"
+    ],
+    "correct_choice": "bakery"
+}

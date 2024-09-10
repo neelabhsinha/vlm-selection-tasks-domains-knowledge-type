@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1331,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1331.png",
+    "question": "From which university has Arnold completed his B.S. ?",
+    "label": [
+        "The Ohio State University"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 172855,
+    "image_path": "./experimental_dataset/test/images/VQAv2_172855.png",
+    "question": "Is an adult holding the umbrella?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

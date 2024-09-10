@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 28,
+    "image_path": "./experimental_dataset/test/images/ChartQA_28.png",
+    "question": "How many percent are fewer refugees in Jordan??",
+    "label": [
+        "0.6"
+    ]
+}

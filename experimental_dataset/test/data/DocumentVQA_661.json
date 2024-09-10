@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 661,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_661.png",
+    "question": "what day of the week is mentioned in the document?",
+    "label": [
+        "friday",
+        "Friday"
+    ]
+}

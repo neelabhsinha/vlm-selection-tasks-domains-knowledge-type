@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 309,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_309.png",
+    "question": "What kind of footwear is the walker wearing?",
+    "label": "['dress shoes', 'shoes', 'dress shoes', 'black shoes', 'shoes', 'dress shoes', 'dress shoes', 'shoes', 'shoes', 'shoes']",
+    "choices": [
+        "none",
+        "shoes",
+        "sandals",
+        "socks"
+    ],
+    "correct_choice": "shoes"
+}

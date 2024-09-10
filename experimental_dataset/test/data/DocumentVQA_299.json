@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 299,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_299.png",
+    "question": "Whatis \"DUE ON BEFORE\" date?",
+    "label": [
+        "06/15/74"
+    ]
+}

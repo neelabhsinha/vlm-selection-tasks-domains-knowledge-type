@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 498,
+    "image_path": "./experimental_dataset/test/images/ChartQA_498.png",
+    "question": "What is the two option given to the question?",
+    "label": [
+        "[Should not, Should]"
+    ]
+}

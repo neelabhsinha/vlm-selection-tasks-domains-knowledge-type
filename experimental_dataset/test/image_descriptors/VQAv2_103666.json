@@ -1,0 +1,11 @@
+{
+    "dataset": "VQAv2",
+    "key": 103666,
+    "caption": "a knife sticking out of an apple",
+    "object_tags": [
+        "black and white",
+        "footwear",
+        "person",
+        "legs"
+    ]
+}

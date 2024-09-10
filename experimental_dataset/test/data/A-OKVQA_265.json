@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 265,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_265.png",
+    "question": "Why is the man jumping on the red pipe?",
+    "label": "['doing tricks', 'doing tricks', 'to grind', 'ski move', 'for fun', 'for fun', 'skiing', 'snowboarding', 'skiing tricks', 'tricks']",
+    "choices": [
+        "to dodge",
+        "to sit",
+        "to grind",
+        "to roll"
+    ],
+    "correct_choice": "to grind"
+}

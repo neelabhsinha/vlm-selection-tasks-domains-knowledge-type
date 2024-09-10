@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2292,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2292.png",
+    "question": "What is the expected price of boric acid per metric ton in 2016?",
+    "label": [
+        "696"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "VQAv2",
+    "key": 125572,
+    "caption": "a person laying on the ground with a horse",
+    "object_tags": [
+        "ground",
+        "outdoor",
+        "person",
+        "clothing",
+        "animal sports",
+        "horse",
+        "rodeo",
+        "people",
+        "crowd",
+        "brown"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4413,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4413.png",
+    "question": "What did this organism evolve from?",
+    "label": [
+        "bird",
+        "bird",
+        "reptile",
+        "reptile",
+        "fish",
+        "fish",
+        "bird",
+        "bird",
+        "egg",
+        "egg"
+    ]
+}

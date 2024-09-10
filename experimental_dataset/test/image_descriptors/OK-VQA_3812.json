@@ -1,0 +1,26 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3812,
+    "caption": "people sitting on a bench in front of a river",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "tree",
+        "people",
+        "clothing",
+        "person",
+        "cloud",
+        "lake",
+        "plant",
+        "tourism",
+        "footwear",
+        "building",
+        "group",
+        "water",
+        "public space",
+        "river",
+        "park",
+        "vacation",
+        "city"
+    ]
+}

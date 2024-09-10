@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 895,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_895.png",
+    "question": "What breed of dog is riding in the car?",
+    "label": [
+        "german shepard",
+        "german shepard",
+        "german shepard",
+        "german shepard",
+        "german shepherd",
+        "german shepherd",
+        "german shepherd",
+        "german shepherd",
+        "labrador retriever",
+        "labrador retriever"
+    ]
+}

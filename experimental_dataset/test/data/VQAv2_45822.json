@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 45822,
+    "image_path": "./experimental_dataset/test/images/VQAv2_45822.png",
+    "question": "How many people can the bus hold?",
+    "label": [
+        "100",
+        "100",
+        "many",
+        "50",
+        "25",
+        "24",
+        "40",
+        "60",
+        "30",
+        "30 - 40"
+    ]
+}

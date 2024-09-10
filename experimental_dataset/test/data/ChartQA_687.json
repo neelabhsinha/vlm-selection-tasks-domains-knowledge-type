@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 687,
+    "image_path": "./experimental_dataset/test/images/ChartQA_687.png",
+    "question": "What is the ratio of craft to comedy?",
+    "label": [
+        "1.25"
+    ]
+}

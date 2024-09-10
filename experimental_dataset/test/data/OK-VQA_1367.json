@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1367,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1367.png",
+    "question": "What are the people who guard these animals called?",
+    "label": [
+        "cowboy",
+        "cowboy",
+        "shepherd",
+        "shepherd",
+        "shepherd",
+        "shepherd",
+        "farmer",
+        "farmer",
+        "herder",
+        "herder"
+    ]
+}

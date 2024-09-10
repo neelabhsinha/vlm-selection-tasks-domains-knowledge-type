@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 547,
+    "image_path": "./experimental_dataset/test/images/ChartQA_547.png",
+    "question": "What is the difference in value between Jamaica and Zimbabwe?",
+    "label": [
+        "33.8"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2340,
+    "caption": "a book with a picture of a person on it",
+    "object_tags": [
+        "text",
+        "diagram",
+        "parallel",
+        "rectangle",
+        "line",
+        "plan",
+        "black and white",
+        "schematic",
+        "technical drawing",
+        "crossword puzzle"
+    ]
+}

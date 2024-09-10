@@ -1,0 +1,26 @@
+{
+    "dataset": "VQAv2",
+    "key": 204386,
+    "caption": "a man standing next to a boat on the water",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "vehicle",
+        "transport",
+        "watercraft",
+        "sky",
+        "beach",
+        "boating",
+        "canoe",
+        "sunset",
+        "ship",
+        "waterway",
+        "ground",
+        "person",
+        "boat",
+        "river",
+        "lake",
+        "landscape",
+        "silhouette"
+    ]
+}

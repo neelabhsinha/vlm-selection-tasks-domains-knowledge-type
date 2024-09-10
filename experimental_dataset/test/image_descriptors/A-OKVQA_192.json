@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 192,
+    "caption": "a man sitting on top of a toilet in a bathroom",
+    "object_tags": [
+        "clothing",
+        "person",
+        "footwear",
+        "indoor",
+        "man",
+        "wall",
+        "floor",
+        "people",
+        "toilet",
+        "ground"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4406,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4406.png",
+    "question": "What colors would the sky be if this was sunrise?",
+    "label": [
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "purple",
+        "purple",
+        "blue",
+        "blue",
+        "orange and pink",
+        "orange and pink"
+    ]
+}

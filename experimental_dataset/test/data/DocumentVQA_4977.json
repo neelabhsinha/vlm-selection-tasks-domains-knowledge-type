@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4977,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4977.png",
+    "question": "What is the rate of DAILY EUROPEAN PLAN at the hotel for 1 or 2 persons, one twin bedded room?",
+    "label": [
+        "$15.50 to $20.50"
+    ]
+}

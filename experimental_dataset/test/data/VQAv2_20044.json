@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 20044,
+    "image_path": "./experimental_dataset/test/images/VQAv2_20044.png",
+    "question": "Is the water deep for the animal to go in?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "yes"
+    ]
+}

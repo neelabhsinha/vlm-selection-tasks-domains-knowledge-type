@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 232,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_232.png",
+    "question": "What is NNK?",
+    "label": [
+        "tobacco-specific nitrosamine",
+        "4-(methylnitrosoamino)-1-(3-pyridyl)-1-butanone"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3606,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3606.png",
+    "question": "What is the last \u2018guidelines\u2019 mentioned?",
+    "label": [
+        "Label areas you could not observe"
+    ]
+}

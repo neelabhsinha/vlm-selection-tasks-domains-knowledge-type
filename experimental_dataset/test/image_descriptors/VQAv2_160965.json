@@ -1,0 +1,10 @@
+{
+    "dataset": "VQAv2",
+    "key": 160965,
+    "caption": "a teddy bear sitting on top of a map",
+    "object_tags": [
+        "map",
+        "animal",
+        "dog"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 908,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_908.png",
+    "question": "What is the name of the symposium?",
+    "label": [
+        "Clinical Nutrition Symposium",
+        "Clinical nutrition symposium"
+    ]
+}

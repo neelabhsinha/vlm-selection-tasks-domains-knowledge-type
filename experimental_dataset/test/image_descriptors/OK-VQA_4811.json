@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4811,
+    "caption": "an aerial view of an airplane flying over a mountain range",
+    "object_tags": [
+        "cloud",
+        "plane",
+        "airplane",
+        "outdoor",
+        "air travel",
+        "airline",
+        "aircraft",
+        "airliner",
+        "sky",
+        "mountain",
+        "flight",
+        "aerial",
+        "ground"
+    ]
+}

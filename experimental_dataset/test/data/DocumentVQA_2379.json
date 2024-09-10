@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2379,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2379.png",
+    "question": "What is the percentage of operations done on patients diagnosed with primary arthritis ?",
+    "label": [
+        "85,9",
+        "85.9"
+    ]
+}

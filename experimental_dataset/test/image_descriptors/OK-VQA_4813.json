@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4813,
+    "caption": "two people sitting on a bench near a forest",
+    "object_tags": [
+        "outdoor",
+        "grass",
+        "tree",
+        "plant",
+        "landscape",
+        "bicycle",
+        "sky",
+        "mountain",
+        "bench",
+        "field",
+        "person",
+        "wooden",
+        "nature",
+        "people",
+        "wood",
+        "bike"
+    ]
+}

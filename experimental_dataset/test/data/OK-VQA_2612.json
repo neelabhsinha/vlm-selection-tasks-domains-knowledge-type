@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2612,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2612.png",
+    "question": "Is this fresh water or salt water?",
+    "label": [
+        "fresh",
+        "fresh",
+        "fresh",
+        "fresh",
+        "fresh",
+        "fresh",
+        "fresh",
+        "fresh",
+        "fresh",
+        "fresh"
+    ]
+}

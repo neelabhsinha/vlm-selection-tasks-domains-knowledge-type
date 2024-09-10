@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 778,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_778.png",
+    "question": "The animal has what kind of a tail?",
+    "label": "['fluffy', 'long', 'furry tail', 'bushy', 'fluffy', 'fluffy', 'fluffy', 'bushy', 'fluffy', 'furry']",
+    "choices": [
+        "hairless",
+        "blue",
+        "barbed",
+        "fluffy"
+    ],
+    "correct_choice": "fluffy"
+}

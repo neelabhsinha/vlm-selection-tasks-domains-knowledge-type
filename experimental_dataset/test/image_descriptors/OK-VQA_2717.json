@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2717,
+    "caption": "people standing around a clock tower",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "tree",
+        "clock",
+        "ground",
+        "cloud",
+        "palm tree",
+        "public space",
+        "building",
+        "tower",
+        "people",
+        "person",
+        "city",
+        "stone",
+        "standing",
+        "street"
+    ]
+}

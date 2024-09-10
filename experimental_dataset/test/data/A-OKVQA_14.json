@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 14,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_14.png",
+    "question": "What flag is represented on the wall?",
+    "label": "[\"don't know\", 'american', 'american', 'usa', 'cuba', 'united states', 'united states', 'american', 'usa', 'usa']",
+    "choices": [
+        "english",
+        "moravian",
+        "american",
+        "french"
+    ],
+    "correct_choice": "american"
+}

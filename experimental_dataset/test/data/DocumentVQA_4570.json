@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4570,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4570.png",
+    "question": "What is the freebie 'E' in the ABC's of traveling for members?",
+    "label": [
+        "FREE HEADPHONES",
+        "Free headphones",
+        "HEADPHONES"
+    ]
+}

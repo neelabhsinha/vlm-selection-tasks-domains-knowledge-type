@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 653,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_653.png",
+    "question": "What is this woman doing that only 10% of people do?",
+    "label": "['dieting', 'dieting', 'eat', 'eating breakfast', 'left-handed eating', 'using left', 'eat left-handed', 'eating alone', 'eat yogurt', 'eat yogurt']",
+    "choices": [
+        "smile",
+        "stare",
+        "eat left-handed",
+        "sit"
+    ],
+    "correct_choice": "eat left-handed"
+}

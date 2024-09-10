@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4729,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4729.png",
+    "question": "What hobby might this depict?",
+    "label": [
+        "coupon clip",
+        "coupon clip",
+        "coupon clip",
+        "coupon clip",
+        "scrapbook",
+        "scrapbook",
+        "scrapbook",
+        "scrapbook",
+        "coupon",
+        "coupon"
+    ]
+}

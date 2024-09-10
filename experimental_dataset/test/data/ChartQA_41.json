@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 41,
+    "image_path": "./experimental_dataset/test/images/ChartQA_41.png",
+    "question": "What is the product of the smallest value on the blue bar and the smallest value on the upper bar?",
+    "label": [
+        "96"
+    ]
+}

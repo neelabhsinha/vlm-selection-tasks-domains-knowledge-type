@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1010,
+    "caption": "two men are standing in front of a yellow truck",
+    "object_tags": [
+        "land vehicle",
+        "outdoor",
+        "vehicle",
+        "high-visibility clothing",
+        "firefighter",
+        "workwear",
+        "emergency service",
+        "car",
+        "person",
+        "blue-collar worker",
+        "orange",
+        "yellow",
+        "police"
+    ]
+}

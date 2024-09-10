@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 349,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_349.png",
+    "question": "Name the device which seperates the court above?",
+    "label": [
+        "net",
+        "net",
+        "net",
+        "net",
+        "net",
+        "net",
+        "net",
+        "net",
+        "tennis net",
+        "tennis net"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 798,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_798.png",
+    "question": "What is the boy riding?",
+    "label": "['skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'skateboard']",
+    "choices": [
+        "surfboard",
+        "skateboard",
+        "bicycle",
+        "motorcycle"
+    ],
+    "correct_choice": "skateboard"
+}

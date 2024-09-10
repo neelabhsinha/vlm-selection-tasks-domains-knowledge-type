@@ -1,0 +1,26 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 300,
+    "caption": "a dining room table with a vase of flowers on it",
+    "object_tags": [
+        "indoor",
+        "wall",
+        "furniture",
+        "table",
+        "dining table",
+        "interior design",
+        "vase",
+        "kitchen & dining room table",
+        "linens",
+        "dining room",
+        "tablecloth",
+        "houseplant",
+        "coffee table",
+        "dining",
+        "flower",
+        "red",
+        "chair",
+        "floor",
+        "room"
+    ]
+}

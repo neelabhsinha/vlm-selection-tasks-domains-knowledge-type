@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 101,
+    "caption": "a woman holding a bird in her hand",
+    "object_tags": [
+        "bird of prey",
+        "bird",
+        "outdoor",
+        "person",
+        "clothing",
+        "tree",
+        "grass",
+        "smile",
+        "hawk",
+        "plant",
+        "falcon",
+        "owl",
+        "human face",
+        "falconry",
+        "woman",
+        "ground",
+        "wildlife"
+    ]
+}

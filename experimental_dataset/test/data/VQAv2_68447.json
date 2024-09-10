@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 68447,
+    "image_path": "./experimental_dataset/test/images/VQAv2_68447.png",
+    "question": "How many veggies are on the tray?",
+    "label": [
+        "6",
+        "15",
+        "15",
+        "15",
+        "4",
+        "5",
+        "6",
+        "15",
+        "12",
+        "15"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4804,
+    "caption": "people sitting around a bunch of bananas",
+    "object_tags": [
+        "clothing",
+        "person",
+        "plant",
+        "man",
+        "outdoor",
+        "grass",
+        "people",
+        "flower",
+        "woman",
+        "standing",
+        "group"
+    ]
+}

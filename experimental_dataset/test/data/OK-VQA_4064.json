@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4064,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4064.png",
+    "question": "Why the sheep does't need food?",
+    "label": [
+        "fake",
+        "fake",
+        "fake",
+        "fake",
+        "fake",
+        "fake",
+        "statue",
+        "statue",
+        "not real",
+        "not real"
+    ]
+}

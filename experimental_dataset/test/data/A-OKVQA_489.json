@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 489,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_489.png",
+    "question": "Why is the woman sitting in the back of the man's bike on the right?",
+    "label": "['two seater', 'passenger', 'traveling', 'cart', 'transportation', 'passenger', 'riding', 'to travel', 'get ride', 'paying passenger']",
+    "choices": [
+        "to terrorize",
+        "to scare",
+        "to sleep",
+        "to travel"
+    ],
+    "correct_choice": "to travel"
+}

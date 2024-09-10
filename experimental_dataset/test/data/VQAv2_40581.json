@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 40581,
+    "image_path": "./experimental_dataset/test/images/VQAv2_40581.png",
+    "question": "What is on top of the chair?",
+    "label": [
+        "clothing",
+        "clothes",
+        "pillows",
+        "clothing",
+        "clothes",
+        "clothes",
+        "clothing",
+        "clothes",
+        "throw",
+        "clothes"
+    ]
+}

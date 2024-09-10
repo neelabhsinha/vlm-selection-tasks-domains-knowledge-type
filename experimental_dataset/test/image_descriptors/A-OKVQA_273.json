@@ -1,0 +1,17 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 273,
+    "caption": "a dog laying on a couch next to a book",
+    "object_tags": [
+        "indoor",
+        "pet",
+        "dog breed",
+        "laying",
+        "dog",
+        "sofa",
+        "black",
+        "mammal",
+        "sitting",
+        "animal"
+    ]
+}

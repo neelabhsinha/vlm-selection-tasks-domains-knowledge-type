@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1057,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1057.png",
+    "question": "What is excess mortality rate in men for heart disease?",
+    "label": [
+        "43%"
+    ]
+}

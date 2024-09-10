@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 190,
+    "image_path": "./experimental_dataset/test/images/ChartQA_190.png",
+    "question": "What's the percentage of US adults choosing never?",
+    "label": [
+        "16"
+    ]
+}

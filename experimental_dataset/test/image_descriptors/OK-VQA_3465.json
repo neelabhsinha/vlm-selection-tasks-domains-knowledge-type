@@ -1,0 +1,16 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3465,
+    "caption": "a man holding a hot dog and a woman holding a cup of coffee",
+    "object_tags": [
+        "person",
+        "human face",
+        "smile",
+        "clothing",
+        "fast food",
+        "indoor",
+        "woman",
+        "food",
+        "people"
+    ]
+}

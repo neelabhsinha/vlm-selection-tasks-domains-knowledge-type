@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 518,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_518.png",
+    "question": "What derby is the horse apart of?",
+    "label": [
+        "kentucky",
+        "kentucky",
+        "kentucky",
+        "kentucky",
+        "kentucky",
+        "kentucky",
+        "kentucky",
+        "kentucky",
+        "horse race",
+        "horse race"
+    ]
+}

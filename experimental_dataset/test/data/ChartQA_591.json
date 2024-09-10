@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 591,
+    "image_path": "./experimental_dataset/test/images/ChartQA_591.png",
+    "question": "Which country has the lesser protected areas over the years, Lithuania or Saudi Arabia?",
+    "label": [
+        "Saudi Arabia"
+    ]
+}

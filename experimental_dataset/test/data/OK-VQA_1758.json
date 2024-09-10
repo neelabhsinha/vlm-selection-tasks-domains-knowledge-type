@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1758,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1758.png",
+    "question": "What is the first car of a train called?",
+    "label": [
+        "head",
+        "head",
+        "head",
+        "head",
+        "locomotive",
+        "locomotive",
+        "locomotive",
+        "locomotive",
+        "engine",
+        "engine"
+    ]
+}

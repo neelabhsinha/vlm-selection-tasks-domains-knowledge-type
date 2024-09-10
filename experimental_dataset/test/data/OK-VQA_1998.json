@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1998,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1998.png",
+    "question": "What is the most popular flavor of this kind of pastry?",
+    "label": [
+        "glazed",
+        "glazed",
+        "glazed",
+        "glazed",
+        "blueberry",
+        "blueberry",
+        "doughnut",
+        "doughnut",
+        "vanilla",
+        "vanilla"
+    ]
+}

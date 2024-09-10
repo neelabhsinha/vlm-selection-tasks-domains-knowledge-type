@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 526,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_526.png",
+    "question": "What might be done with the purple ball here?",
+    "label": "['exercises', 'sitting', 'sit', 'exercise', 'sit', 'exercise', 'exercise', 'exercise', 'sit', 'exercise']",
+    "choices": [
+        "basketball game",
+        "ride it",
+        "puncture it",
+        "sitting"
+    ],
+    "correct_choice": "sitting"
+}

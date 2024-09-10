@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4890,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4890.png",
+    "question": "What is the purpose of these vehicles?",
+    "label": [
+        "transportation",
+        "transportation",
+        "transport",
+        "transport",
+        "cargo transport",
+        "cargo transport",
+        "move freight",
+        "move freight",
+        "haul equipment",
+        "haul equipment"
+    ]
+}

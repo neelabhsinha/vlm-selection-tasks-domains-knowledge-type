@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2686,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_2686.png",
+    "question": "What type of tool is she using for her hair?",
+    "label": [
+        "brush",
+        "brush",
+        "brush",
+        "brush",
+        "brush",
+        "brush",
+        "brush",
+        "brush",
+        "brush",
+        "brush"
+    ]
+}

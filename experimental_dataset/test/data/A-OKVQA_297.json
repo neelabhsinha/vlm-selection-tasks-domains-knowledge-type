@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 297,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_297.png",
+    "question": "What type of shot is the woman about to hit?",
+    "label": "['righthand', 'serve', 'forehand', 'forehand', 'forehand', 'forehand', 'forehand', 'forehand', 'tennis shot', 'swing']",
+    "choices": [
+        "forehand",
+        "serve",
+        "backhand",
+        "slice"
+    ],
+    "correct_choice": "forehand"
+}

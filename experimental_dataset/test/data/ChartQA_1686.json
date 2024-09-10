@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1686,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1686.png",
+    "question": "In what year did the average ticket price for Orlando Magic games change?",
+    "label": [
+        "2015/16"
+    ]
+}

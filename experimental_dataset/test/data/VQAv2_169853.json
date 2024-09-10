@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 169853,
+    "image_path": "./experimental_dataset/test/images/VQAv2_169853.png",
+    "question": "How many wheels do you see?",
+    "label": [
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+    ]
+}

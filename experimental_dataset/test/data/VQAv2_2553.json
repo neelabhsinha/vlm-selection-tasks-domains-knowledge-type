@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 2553,
+    "image_path": "./experimental_dataset/test/images/VQAv2_2553.png",
+    "question": "What brand are her wristbands?",
+    "label": [
+        "nike",
+        "nike",
+        "nike",
+        "hard to tell",
+        "nike",
+        "nike",
+        "nike",
+        "nike",
+        "nike",
+        "nike"
+    ]
+}

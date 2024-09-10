@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 355,
+    "image_path": "./experimental_dataset/test/images/ChartQA_355.png",
+    "question": "Which country data below 80% for the last five years ?",
+    "label": [
+        "Sudan"
+    ]
+}

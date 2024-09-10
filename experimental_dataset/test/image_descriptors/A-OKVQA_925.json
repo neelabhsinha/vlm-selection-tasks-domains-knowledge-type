@@ -1,0 +1,23 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 925,
+    "caption": "a man and woman standing next to a tall clock tower",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "cloud",
+        "street light",
+        "city",
+        "ground",
+        "statue",
+        "town square",
+        "public space",
+        "building",
+        "street",
+        "light",
+        "person",
+        "lamp",
+        "standing",
+        "square"
+    ]
+}

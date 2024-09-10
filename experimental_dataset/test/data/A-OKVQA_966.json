@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 966,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_966.png",
+    "question": "What is the pet doing?",
+    "label": "['sitting', 'siting', 'being photographed', 'wearing helmet', 'wearing helmet', 'sitting', 'sitting', 'wearing helmet', 'sitting', 'sitting']",
+    "choices": [
+        "getting sick",
+        "crying",
+        "being punished",
+        "being photographed"
+    ],
+    "correct_choice": "being photographed"
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1196,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1196.png",
+    "question": "In which state is the Toxicology forum where the filer worked is located at?",
+    "label": [
+        "VIRGINIA",
+        "Virginia"
+    ]
+}

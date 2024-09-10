@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 915,
+    "caption": "a green truck driving down a city street",
+    "object_tags": [
+        "vehicle",
+        "wheel",
+        "land vehicle",
+        "outdoor",
+        "transport",
+        "truck",
+        "tire",
+        "road",
+        "tree",
+        "text",
+        "mode of transport",
+        "green",
+        "auto part",
+        "commercial vehicle",
+        "street",
+        "vehicle registration plate",
+        "motor vehicle",
+        "truck driver",
+        "lorry",
+        "city",
+        "driving"
+    ]
+}

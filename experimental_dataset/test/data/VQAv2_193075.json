@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 193075,
+    "image_path": "./experimental_dataset/test/images/VQAv2_193075.png",
+    "question": "Is this a common scene in everyone's house?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

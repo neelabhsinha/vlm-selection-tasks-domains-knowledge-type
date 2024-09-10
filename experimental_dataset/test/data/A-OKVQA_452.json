@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 452,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_452.png",
+    "question": "What is the first word on the trailer?",
+    "label": "['clean', 'clean', 'clean', 'clean', 'clean', 'clean', 'clean', 'clean', 'clean', 'clean']",
+    "choices": [
+        "clean",
+        "dry",
+        "emergency",
+        "services"
+    ],
+    "correct_choice": "clean"
+}

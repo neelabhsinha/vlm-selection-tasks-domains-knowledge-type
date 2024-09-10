@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 549,
+    "image_path": "./experimental_dataset/test/images/ChartQA_549.png",
+    "question": "What is the difference in all the bar and the largest bar?",
+    "label": [
+        "25"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4583,
+    "caption": "a pizza sitting on top of a stove top oven",
+    "object_tags": [
+        "fast food",
+        "food",
+        "indoor",
+        "pizza",
+        "baked goods",
+        "pizza cheese",
+        "italian food",
+        "cookware and bakeware",
+        "pan",
+        "stove",
+        "oven",
+        "tray"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3752,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3752.png",
+    "question": "What is \u2018schedule 14\u2019?",
+    "label": [
+        "Raw and packing materials, manufactured and other goods"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3806,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3806.png",
+    "question": "What is the number of the last subheading on the page?",
+    "label": [
+        "12"
+    ]
+}

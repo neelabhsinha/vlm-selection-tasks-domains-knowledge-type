@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 325,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_325.png",
+    "question": "What police force does the police car behind the truck belong to probably?",
+    "label": "['city police', 'nyc', 'american', 'city', 'new york', 'philadelphia', 'nypd', 'nypd', 'cops', 'city']",
+    "choices": [
+        "detroit",
+        "new york",
+        "baltimore",
+        "washington dc"
+    ],
+    "correct_choice": "new york"
+}

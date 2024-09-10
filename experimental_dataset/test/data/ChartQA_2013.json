@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2013,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2013.png",
+    "question": "What was the gross domestic product of Senegal in 2019?",
+    "label": [
+        "23.31"
+    ]
+}

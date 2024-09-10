@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 522,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_522.png",
+    "question": "Why is the cat looking at the screen?",
+    "label": "['is interested', \"something's moving\", 'curiosity', 'something moving', 'movement', 'animal show', 'bird', 'watching tv', 'interested', 'watching scene']",
+    "choices": [
+        "warmth",
+        "no reason",
+        "light",
+        "curiosity"
+    ],
+    "correct_choice": "curiosity"
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4824,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4824.png",
+    "question": "According to budget request summary what is total amount of other expenses??",
+    "label": [
+        "$ 975.00",
+        "975.00"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 127365,
+    "image_path": "./experimental_dataset/test/images/VQAv2_127365.png",
+    "question": "How tall is the giraffe?",
+    "label": [
+        "6'",
+        "not tall",
+        "6 feet",
+        "17 feet",
+        "11 ft",
+        "very",
+        "tall",
+        "10 feet",
+        "5 feet",
+        "15 feet"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 154415,
+    "caption": "a wooden table topped with a plate of food",
+    "object_tags": [
+        "snack",
+        "indoor",
+        "baked goods",
+        "meal",
+        "bread",
+        "platter",
+        "food",
+        "table",
+        "doughnut",
+        "wooden",
+        "breakfast"
+    ]
+}

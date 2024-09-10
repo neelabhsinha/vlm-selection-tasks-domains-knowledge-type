@@ -1,0 +1,22 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4769,
+    "caption": "a donut sitting on top of a napkin next to a cup of coffee",
+    "object_tags": [
+        "food",
+        "doughnut",
+        "snack",
+        "baked goods",
+        "donut",
+        "dessert",
+        "bagel",
+        "ciambella",
+        "pastry",
+        "cider doughnut",
+        "pretzel",
+        "indoor",
+        "cup",
+        "coffee",
+        "breakfast"
+    ]
+}

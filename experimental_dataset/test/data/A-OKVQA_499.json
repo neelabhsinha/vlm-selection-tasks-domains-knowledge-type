@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 499,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_499.png",
+    "question": "What does the large wheel on the left do?",
+    "label": "['spin', 'turn around', 'spin', 'sightseeing rides', 'spin people', 'cycles', 'spin', 'spins', 'giant wheel', 'spin around']",
+    "choices": [
+        "purify water",
+        "generate electricity",
+        "sightseeing rides",
+        "mill grain"
+    ],
+    "correct_choice": "sightseeing rides"
+}

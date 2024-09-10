@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1069,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1069.png",
+    "question": "Where is the boat headed?",
+    "label": [
+        "shore",
+        "shore",
+        "shore",
+        "shore",
+        "to sea",
+        "to sea",
+        "island",
+        "island",
+        "north",
+        "north"
+    ]
+}

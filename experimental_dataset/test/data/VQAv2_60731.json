@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 60731,
+    "image_path": "./experimental_dataset/test/images/VQAv2_60731.png",
+    "question": "Is everything in its proper place in this bathroom?",
+    "label": [
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no",
+        "no"
+    ]
+}

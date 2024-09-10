@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4088,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4088.png",
+    "question": "What is Goal no. 3?",
+    "label": [
+        "a) EDUCATE MOTHERS AND CHILDREN IN BASICS OF NUTRITION",
+        "Educate mothers and children in Basics of Nutrition"
+    ]
+}

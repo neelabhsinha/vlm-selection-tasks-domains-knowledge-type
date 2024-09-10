@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 359,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_359.png",
+    "question": "What is the waist size of the man in the black shorts?",
+    "label": [
+        "34",
+        "34",
+        "34",
+        "34",
+        "30",
+        "30",
+        "36 in",
+        "36 in",
+        "medium",
+        "medium"
+    ]
+}

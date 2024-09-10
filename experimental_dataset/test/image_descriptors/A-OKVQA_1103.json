@@ -1,0 +1,30 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1103,
+    "caption": "a white truck driving down a city street",
+    "object_tags": [
+        "outdoor",
+        "vehicle",
+        "road",
+        "land vehicle",
+        "sky",
+        "street",
+        "wheel",
+        "mode of transport",
+        "bus",
+        "crosswalk",
+        "lane",
+        "transport",
+        "zebra crossing",
+        "traffic",
+        "way",
+        "car",
+        "pedestrian crossing",
+        "asphalt",
+        "truck",
+        "road surface",
+        "person",
+        "city",
+        "intersection"
+    ]
+}

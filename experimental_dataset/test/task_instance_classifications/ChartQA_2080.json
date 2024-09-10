@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 2080,
+    "task_type": "Chart Understanding",
+    "application_domain": [
+        "Mathematics",
+        "Government and Politics",
+        "Knowledge Base"
+    ],
+    "knowledge_type": [
+        "Temporal Knowledge",
+        "Geographical Knowledge"
+    ]
+}

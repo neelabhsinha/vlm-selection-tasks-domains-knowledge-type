@@ -1,0 +1,25 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1600,
+    "caption": "a flock of ducks floating on top of a lake",
+    "object_tags": [
+        "outdoor",
+        "water",
+        "aquatic bird",
+        "bird",
+        "tree",
+        "animal",
+        "water bird",
+        "duck",
+        "bank",
+        "geese and swans",
+        "freshwater marsh",
+        "bayou",
+        "ducks, geese and swans",
+        "lake",
+        "swimming",
+        "pond",
+        "nature",
+        "goose"
+    ]
+}

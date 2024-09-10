@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 484,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_484.png",
+    "question": "How is the device the boy is holding powered?",
+    "label": "['batteries', 'battery', 'batteries', 'batteries', 'batteries', 'batteries', 'battery', 'battery', 'playing', 'batteries']",
+    "choices": [
+        "solar",
+        "battery",
+        "gas",
+        "electricity"
+    ],
+    "correct_choice": "battery"
+}

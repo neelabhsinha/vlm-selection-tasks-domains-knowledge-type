@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3579,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3579.png",
+    "question": "What is the title of Table 1 ?",
+    "label": [
+        "Baseline and Post Intervention Lipid and Lipoprotein Levels in Postmenopausal Women*"
+    ]
+}

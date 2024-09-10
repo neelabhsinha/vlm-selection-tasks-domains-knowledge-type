@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 186003,
+    "image_path": "./experimental_dataset/test/images/VQAv2_186003.png",
+    "question": "What color is the knife handle?",
+    "label": [
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red",
+        "red"
+    ]
+}

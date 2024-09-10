@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 5207,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_5207.png",
+    "question": "what is the sales in 2011?",
+    "label": [
+        "109,274"
+    ]
+}

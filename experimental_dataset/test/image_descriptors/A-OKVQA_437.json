@@ -1,0 +1,15 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 437,
+    "caption": "a row of boats parked next to each other",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "boat",
+        "ship",
+        "fence",
+        "wire fencing",
+        "vehicle",
+        "watercraft"
+    ]
+}

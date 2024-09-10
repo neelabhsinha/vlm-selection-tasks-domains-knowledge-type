@@ -1,0 +1,14 @@
+{
+    "dataset": "ChartQA",
+    "key": 1235,
+    "caption": "a table with a bunch of remote controls on top of it",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "software",
+        "computer icon",
+        "number",
+        "parallel",
+        "design"
+    ]
+}

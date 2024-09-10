@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 906,
+    "image_path": "./experimental_dataset/test/images/ChartQA_906.png",
+    "question": "In which age the denmark social media users rate was maximum?",
+    "label": [
+        "16-19 years"
+    ]
+}

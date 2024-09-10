@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1087,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1087.png",
+    "question": "Why is one player wearing gloves?",
+    "label": "['pitcher', 'grip', 'batter', 'discretionary', 'grip', 'pitcher', 'at bat', 'batting', 'better grip', 'playing baseball']",
+    "choices": [
+        "fashion",
+        "grip",
+        "warmth",
+        "health"
+    ],
+    "correct_choice": "grip"
+}

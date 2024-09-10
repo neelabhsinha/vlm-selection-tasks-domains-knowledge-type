@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1476,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1476.png",
+    "question": "What is the name of the reports?",
+    "label": [
+        "executive reports",
+        "EXECUTIVE REPORTS"
+    ]
+}

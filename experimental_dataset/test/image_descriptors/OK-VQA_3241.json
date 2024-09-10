@@ -1,0 +1,23 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3241,
+    "caption": "a white plate topped with meat and vegetables",
+    "object_tags": [
+        "food",
+        "plate",
+        "cuisine",
+        "dish",
+        "garnish",
+        "a la carte food",
+        "ingredient",
+        "root vegetable",
+        "recipe",
+        "carrot",
+        "indoor",
+        "table",
+        "vegetable",
+        "salad",
+        "restaurant",
+        "meat"
+    ]
+}

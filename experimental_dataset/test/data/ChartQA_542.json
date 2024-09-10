@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 542,
+    "image_path": "./experimental_dataset/test/images/ChartQA_542.png",
+    "question": "Which country has higher Tax revenue according to the graph?",
+    "label": [
+        "Netherlands"
+    ]
+}

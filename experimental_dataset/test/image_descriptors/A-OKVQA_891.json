@@ -1,0 +1,28 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 891,
+    "caption": "a bus is parked in front of a church",
+    "object_tags": [
+        "outdoor",
+        "cloud",
+        "sky",
+        "church",
+        "road",
+        "text",
+        "vehicle",
+        "place of worship",
+        "land vehicle",
+        "car",
+        "medieval architecture",
+        "spire",
+        "cathedral",
+        "street",
+        "gothic architecture",
+        "steeple",
+        "building",
+        "tower",
+        "cloudy",
+        "large",
+        "city"
+    ]
+}

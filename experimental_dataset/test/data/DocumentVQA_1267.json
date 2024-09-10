@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1267,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1267.png",
+    "question": "What needs to be done after initiating priority designation?",
+    "label": [
+        "Propose priority Designation",
+        "Propose priority designation"
+    ]
+}

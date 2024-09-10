@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 25743,
+    "image_path": "./experimental_dataset/test/images/VQAv2_25743.png",
+    "question": "What color is the dress the girl is wearing?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white",
+        "white"
+    ]
+}

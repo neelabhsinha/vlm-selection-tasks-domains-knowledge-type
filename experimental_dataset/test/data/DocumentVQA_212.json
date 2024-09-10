@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 212,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_212.png",
+    "question": "What is the \"index\"  of single brand users in the franchise?",
+    "label": [
+        "69",
+        "(69)"
+    ]
+}

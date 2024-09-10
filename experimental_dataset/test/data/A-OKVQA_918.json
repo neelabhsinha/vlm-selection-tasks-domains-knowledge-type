@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 918,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_918.png",
+    "question": "What is this wall used for?",
+    "label": "['artwork', 'holding paintings', 'hanging pictures', 'hang paintings', 'back draft', 'art', 'decoration art', 'art', 'pictures', 'display photos']",
+    "choices": [
+        "protection",
+        "art",
+        "privacy",
+        "awards"
+    ],
+    "correct_choice": "art"
+}

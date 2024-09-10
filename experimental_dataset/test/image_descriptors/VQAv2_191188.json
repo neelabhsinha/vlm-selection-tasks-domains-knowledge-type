@@ -1,0 +1,23 @@
+{
+    "dataset": "VQAv2",
+    "key": 191188,
+    "caption": "a woman standing next to a herd of sheep",
+    "object_tags": [
+        "grass",
+        "outdoor",
+        "sky",
+        "plant",
+        "pasture",
+        "person",
+        "ranch",
+        "hiking",
+        "cloud",
+        "grassland",
+        "livestock",
+        "fence",
+        "building",
+        "clothing",
+        "field",
+        "farm"
+    ]
+}

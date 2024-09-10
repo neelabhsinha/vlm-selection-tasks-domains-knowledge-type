@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1499,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1499.png",
+    "question": "What is the boy doing to the girl's hair?",
+    "label": [
+        "brush it",
+        "brush it",
+        "brush it",
+        "brush it",
+        "brush it",
+        "brush it",
+        "brush",
+        "brush",
+        "comb",
+        "comb"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2142,
+    "caption": "a herd of zebras grazing in a grassy field",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "grass",
+        "outdoor",
+        "wildlife",
+        "terrestrial animal",
+        "safari",
+        "field",
+        "herd",
+        "savanna",
+        "snout",
+        "plant",
+        "swine",
+        "standing",
+        "elephant",
+        "grazing",
+        "zebra"
+    ]
+}

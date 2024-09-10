@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 168997,
+    "image_path": "./experimental_dataset/test/images/VQAv2_168997.png",
+    "question": "Should the child eat what is in the pan?",
+    "label": [
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "pizza",
+        "yes"
+    ]
+}

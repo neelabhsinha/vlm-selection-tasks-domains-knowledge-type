@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 823,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_823.png",
+    "question": "Is this a real live scene?",
+    "label": "['no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no', 'no']",
+    "choices": [
+        "maybe",
+        "yes",
+        "no",
+        "unsure"
+    ],
+    "correct_choice": "no"
+}

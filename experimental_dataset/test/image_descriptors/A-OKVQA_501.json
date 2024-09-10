@@ -1,0 +1,20 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 501,
+    "caption": "people walking down a street",
+    "object_tags": [
+        "building",
+        "outdoor",
+        "billboard",
+        "monochrome",
+        "black and white",
+        "text",
+        "shop",
+        "street",
+        "person",
+        "sign",
+        "people",
+        "store",
+        "city"
+    ]
+}

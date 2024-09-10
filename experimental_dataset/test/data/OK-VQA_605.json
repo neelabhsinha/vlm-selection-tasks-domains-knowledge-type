@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 605,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_605.png",
+    "question": "How creepy is the decor in this room?",
+    "label": [
+        "very",
+        "very",
+        "very",
+        "very",
+        "very",
+        "very",
+        "super",
+        "super",
+        "creepy",
+        "creepy"
+    ]
+}

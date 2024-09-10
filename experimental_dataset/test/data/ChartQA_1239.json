@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1239,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1239.png",
+    "question": "What the sum of the percentage of two eyewear sold online?",
+    "label": [
+        "17.6"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1290,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1290.png",
+    "question": "What is the  telephone number of Maurice H Halford?",
+    "label": [
+        "(03)342 5660",
+        "(03) 342 5660"
+    ]
+}

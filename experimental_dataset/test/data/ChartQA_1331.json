@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1331,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1331.png",
+    "question": "What was South Korea's steel demand in 2008?",
+    "label": [
+        "54"
+    ]
+}

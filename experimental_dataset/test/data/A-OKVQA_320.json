@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 320,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_320.png",
+    "question": "What is the man's left hand holding?",
+    "label": "['camera', 'camera', 'skateboard', 'camera', 'skateboard', 'skateboard', 'skateboard', 'skateboard', 'camera', 'camera']",
+    "choices": [
+        "head",
+        "ceiling",
+        "dog",
+        "skateboard"
+    ],
+    "correct_choice": "skateboard"
+}

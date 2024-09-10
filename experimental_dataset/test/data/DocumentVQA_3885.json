@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 3885,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_3885.png",
+    "question": "What is heading numbered II ?",
+    "label": [
+        "Committees of the Board"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "VQAv2",
+    "key": 116800,
+    "caption": "a pot filled with carrots and onions on top of a stove",
+    "object_tags": [
+        "carrot",
+        "indoor",
+        "baby carrot",
+        "root vegetable",
+        "carrot stick",
+        "food",
+        "vegetable"
+    ]
+}

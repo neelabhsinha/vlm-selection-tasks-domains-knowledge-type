@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 66,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_66.png",
+    "question": "How many days were the subject J.W. on baseline diet ?",
+    "label": [
+        "40"
+    ]
+}

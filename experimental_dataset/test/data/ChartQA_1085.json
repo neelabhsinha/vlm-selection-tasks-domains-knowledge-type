@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1085,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1085.png",
+    "question": "What is the overall ratio of male to female?",
+    "label": [
+        "1"
+    ]
+}

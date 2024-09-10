@@ -1,0 +1,19 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3810,
+    "caption": "a purse, cell phone, and other items on a table",
+    "object_tags": [
+        "indoor",
+        "everyday carry",
+        "phone",
+        "table",
+        "mobile phone",
+        "plastic",
+        "accessory",
+        "floor",
+        "bag",
+        "sitting",
+        "items",
+        "case"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4222,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4222.png",
+    "question": "What is the date written in the \u2018slip\u2019?",
+    "label": [
+        "12/20"
+    ]
+}

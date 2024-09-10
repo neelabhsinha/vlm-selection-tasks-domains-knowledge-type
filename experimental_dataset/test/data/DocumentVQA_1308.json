@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1308,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1308.png",
+    "question": "What is the Timing of Breakfast ?",
+    "label": [
+        "7:00 - 8:45 a.m"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset": "OK-VQA",
+    "key": 2472,
+    "caption": "a blue and yellow train parked at a train station",
+    "object_tags": [
+        "transport",
+        "railroad",
+        "train",
+        "vehicle",
+        "outdoor",
+        "track",
+        "land vehicle",
+        "railway",
+        "rolling stock",
+        "public transport",
+        "building",
+        "railroad car",
+        "passenger car",
+        "rolling",
+        "train station",
+        "locomotive",
+        "mode of transport",
+        "transport hub",
+        "platform",
+        "rail",
+        "blue",
+        "yellow",
+        "stopped",
+        "parked"
+    ]
+}

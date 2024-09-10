@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1735,
+    "caption": "a black and white cat sitting in the bushes",
+    "object_tags": [
+        "small to medium-sized cats",
+        "window",
+        "felidae",
+        "cat",
+        "whiskers",
+        "mammal",
+        "black",
+        "domestic cat",
+        "sitting",
+        "white",
+        "indoor",
+        "animal",
+        "outdoor"
+    ]
+}

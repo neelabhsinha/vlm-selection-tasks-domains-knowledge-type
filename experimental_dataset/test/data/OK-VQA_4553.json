@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4553,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_4553.png",
+    "question": "What is the brick portion of this area referred to as?",
+    "label": [
+        "platform",
+        "platform",
+        "platform",
+        "platform",
+        "platform",
+        "platform",
+        "station",
+        "station",
+        "stand area",
+        "stand area"
+    ]
+}

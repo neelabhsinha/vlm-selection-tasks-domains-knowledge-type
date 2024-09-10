@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 168,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_168.png",
+    "question": "Which food on the dish is a meat?",
+    "label": "['chicken', 'chicken', 'chicken', 'chicken', 'chicken', 'turkey', 'chicken', 'chicken', 'turkey', 'chicken']",
+    "choices": [
+        "broccoli",
+        "turkey",
+        "rice",
+        "green beans"
+    ],
+    "correct_choice": "turkey"
+}

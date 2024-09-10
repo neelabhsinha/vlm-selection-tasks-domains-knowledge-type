@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1633,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1633.png",
+    "question": "What percentage of Nigeria's population will access the internet by 2025?",
+    "label": [
+        "64.9"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 52,
+    "caption": "a yellow and blue train traveling down train tracks",
+    "object_tags": [
+        "outdoor",
+        "railroad",
+        "train",
+        "transport",
+        "track",
+        "vehicle",
+        "railway",
+        "sky",
+        "land vehicle",
+        "public transport",
+        "rolling stock",
+        "train station",
+        "transport hub",
+        "passenger car",
+        "railroad car",
+        "platform",
+        "locomotive",
+        "ground",
+        "yellow",
+        "rail"
+    ]
+}

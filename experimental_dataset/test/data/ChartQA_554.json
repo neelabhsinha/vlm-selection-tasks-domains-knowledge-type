@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 554,
+    "image_path": "./experimental_dataset/test/images/ChartQA_554.png",
+    "question": "Which decision is represented by yellow color?",
+    "label": [
+        "Right decision"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 914,
+    "image_path": "./experimental_dataset/test/images/ChartQA_914.png",
+    "question": "What is the percentage of PET plastics collection rate in Italy in 2015?",
+    "label": [
+        "55"
+    ]
+}

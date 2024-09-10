@@ -1,0 +1,15 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3730,
+    "caption": "a small boat sitting on top of a sandy beach",
+    "object_tags": [
+        "outdoor",
+        "watercraft",
+        "transport",
+        "ship",
+        "sky",
+        "boat",
+        "ground",
+        "beach"
+    ]
+}

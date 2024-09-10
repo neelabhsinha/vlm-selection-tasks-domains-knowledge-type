@@ -1,0 +1,12 @@
+{
+    "dataset": "VQAv2",
+    "key": 43412,
+    "caption": "a dog jumping in the air to catch a frisbee",
+    "object_tags": [
+        "frisbee",
+        "mammal",
+        "animal",
+        "dog",
+        "night"
+    ]
+}

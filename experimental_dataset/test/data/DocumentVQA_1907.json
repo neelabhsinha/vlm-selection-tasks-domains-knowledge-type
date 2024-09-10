@@ -1,0 +1,10 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 1907,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_1907.png",
+    "question": "what is the definition of royalties ?",
+    "label": [
+        "Funds are coming in to you or your institution due to your patent",
+        "funds are coming in to you or your institution due to your patent"
+    ]
+}

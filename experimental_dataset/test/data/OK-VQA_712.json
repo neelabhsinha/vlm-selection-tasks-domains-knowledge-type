@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 712,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_712.png",
+    "question": "What does the square thing let you do?",
+    "label": [
+        "see yourself",
+        "see yourself",
+        "see yourself",
+        "see yourself",
+        "reflect",
+        "reflect",
+        "reflect",
+        "reflect",
+        "see your reflection",
+        "see your reflection"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1648,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1648.png",
+    "question": "How many coronavirus cases were there in Qatar as of November 4, 2020?",
+    "label": [
+        "133370"
+    ]
+}

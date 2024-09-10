@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 82766,
+    "image_path": "./experimental_dataset/test/images/VQAv2_82766.png",
+    "question": "What color is the nose of the plane?",
+    "label": [
+        "white",
+        "white",
+        "white",
+        "yellow",
+        "white",
+        "yellow",
+        "yellow",
+        "white",
+        "yellow",
+        "white"
+    ]
+}

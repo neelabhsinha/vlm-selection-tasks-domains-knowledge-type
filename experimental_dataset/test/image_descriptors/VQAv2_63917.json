@@ -1,0 +1,22 @@
+{
+    "dataset": "VQAv2",
+    "key": 63917,
+    "caption": "a table that has some umbrellas on it",
+    "object_tags": [
+        "furniture",
+        "umbrella",
+        "outdoor",
+        "kitchen & dining room table",
+        "coffee table",
+        "outdoor table",
+        "tree",
+        "shade",
+        "plant",
+        "patio",
+        "restaurant",
+        "chair",
+        "ground",
+        "table",
+        "dining"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 201192,
+    "image_path": "./experimental_dataset/test/images/VQAv2_201192.png",
+    "question": "Is there a mirror in this room?",
+    "label": [
+        "no",
+        "yes",
+        "no",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "yes",
+        "no",
+        "no"
+    ]
+}

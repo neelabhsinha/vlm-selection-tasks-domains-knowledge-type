@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1425,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1425.png",
+    "question": "What is the global demand for primary energy in 2040?",
+    "label": [
+        "17715"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 140969,
+    "image_path": "./experimental_dataset/test/images/VQAv2_140969.png",
+    "question": "What food dish is this?",
+    "label": [
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog",
+        "hot dog"
+    ]
+}

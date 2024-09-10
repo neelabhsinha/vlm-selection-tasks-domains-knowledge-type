@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 894,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_894.png",
+    "question": "What is the boy in the middle in the red shirt holding?",
+    "label": "['trophy', 'trophy', 'trophy', 'hat', 'trophy', 'trophy', 'trophy', 'trophy', 'trophy', 'bag']",
+    "choices": [
+        "doll",
+        "trophy",
+        "submarine",
+        "action figure"
+    ],
+    "correct_choice": "trophy"
+}

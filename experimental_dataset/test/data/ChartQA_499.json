@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 499,
+    "image_path": "./experimental_dataset/test/images/ChartQA_499.png",
+    "question": "Look at Democrats, Find the ratio between the two options?",
+    "label": [
+        "0.75"
+    ]
+}

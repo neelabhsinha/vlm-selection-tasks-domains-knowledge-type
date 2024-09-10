@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 749,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_749.png",
+    "question": "What is the same color as the fork?",
+    "label": "['container', 'sky', 'bento', 'bento box', 'plate', 'bento', 'box', 'container', 'egg', 'container']",
+    "choices": [
+        "egg yolk",
+        "sky",
+        "donkey",
+        "grass"
+    ],
+    "correct_choice": "sky"
+}

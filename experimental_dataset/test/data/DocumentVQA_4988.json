@@ -1,0 +1,11 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 4988,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_4988.png",
+    "question": "How much is the \u2018Charges\u2019 given under the \u2018reference RM SRV1210\u2019?",
+    "label": [
+        "n   7.58",
+        "N 7.58",
+        "n 7.58"
+    ]
+}

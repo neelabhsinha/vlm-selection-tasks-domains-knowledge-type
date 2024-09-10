@@ -1,0 +1,24 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 8,
+    "caption": "a man riding a wave on top of a surfboard",
+    "object_tags": [
+        "outdoor",
+        "wave",
+        "water",
+        "surfing",
+        "surf",
+        "surfboard",
+        "person",
+        "sport",
+        "ocean",
+        "boardsport",
+        "wind wave",
+        "surfing equipment",
+        "wakesurfing",
+        "sports equipment",
+        "tide",
+        "riding",
+        "beach"
+    ]
+}

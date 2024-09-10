@@ -1,0 +1,20 @@
+{
+    "dataset": "OK-VQA",
+    "key": 397,
+    "caption": "a gray and white cat sitting on a brick wall",
+    "object_tags": [
+        "animal",
+        "mammal",
+        "cat",
+        "small to medium-sized cats",
+        "domestic cat",
+        "felidae",
+        "whiskers",
+        "domestic short-haired cat",
+        "tail",
+        "ground",
+        "tabby cat",
+        "malayan cat",
+        "outdoor"
+    ]
+}

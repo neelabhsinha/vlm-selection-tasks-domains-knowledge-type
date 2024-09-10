@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 59917,
+    "caption": "a man standing on top of a sandy beach holding a kite",
+    "object_tags": [
+        "clothing",
+        "person",
+        "sky",
+        "outdoor",
+        "footwear",
+        "ground",
+        "man",
+        "jeans",
+        "woman",
+        "tree",
+        "travel",
+        "people",
+        "smile",
+        "tourism",
+        "standing",
+        "holding",
+        "mountain",
+        "beach"
+    ]
+}

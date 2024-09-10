@@ -1,0 +1,14 @@
+{
+    "dataset": "OK-VQA",
+    "key": 66,
+    "caption": "a sign that is on the side of a building",
+    "object_tags": [
+        "outdoor",
+        "building",
+        "waste container",
+        "sign",
+        "ground",
+        "red",
+        "wooden"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3067,
+    "caption": "a large jetliner flying through a blue sky",
+    "object_tags": [
+        "sky",
+        "transport",
+        "aircraft",
+        "plane",
+        "outdoor",
+        "air travel",
+        "flight",
+        "wing",
+        "vehicle",
+        "airplane",
+        "general aviation",
+        "flap",
+        "cloud",
+        "monoplane",
+        "aerospace engineering",
+        "jet aircraft",
+        "airshow",
+        "aviation",
+        "aircraft engine",
+        "air racing",
+        "blue",
+        "aerospace manufacturer",
+        "aerobatics",
+        "red",
+        "jet",
+        "air"
+    ]
+}

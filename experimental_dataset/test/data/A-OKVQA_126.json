@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 126,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_126.png",
+    "question": "What theme park attraction are they most likely visiting?",
+    "label": "['disneyland', 'amusement park', 'disneyland', 'disneyland', 'disney', 'magic castle', 'disneyland', 'disneyland', 'disneyland', 'disneyland']",
+    "choices": [
+        "disney world",
+        "disneyland",
+        "universal studios",
+        "six flags"
+    ],
+    "correct_choice": "disneyland"
+}

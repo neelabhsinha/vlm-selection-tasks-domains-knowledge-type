@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 832,
+    "image_path": "./experimental_dataset/test/images/ChartQA_832.png",
+    "question": "In which year the growth rate of the managed security services market in North America peaked?",
+    "label": [
+        "2014"
+    ]
+}

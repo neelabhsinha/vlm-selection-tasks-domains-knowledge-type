@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 2397,
+    "image_path": "./experimental_dataset/test/images/ChartQA_2397.png",
+    "question": "How many stores did Ross Stores, Inc. have in California as of January 30, 2021?",
+    "label": [
+        "431"
+    ]
+}

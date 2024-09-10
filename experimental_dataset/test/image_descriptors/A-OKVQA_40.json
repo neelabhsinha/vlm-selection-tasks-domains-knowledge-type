@@ -1,0 +1,29 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 40,
+    "caption": "a horse pulling a carriage down a street",
+    "object_tags": [
+        "outdoor",
+        "sky",
+        "building",
+        "road",
+        "street",
+        "bridle",
+        "mare",
+        "halter",
+        "horse tack",
+        "rein",
+        "horse supplies",
+        "stallion",
+        "horse and buggy",
+        "horse harness",
+        "cart",
+        "ground",
+        "carriage",
+        "horse",
+        "horse-drawn vehicle",
+        "mammal",
+        "animal",
+        "city"
+    ]
+}

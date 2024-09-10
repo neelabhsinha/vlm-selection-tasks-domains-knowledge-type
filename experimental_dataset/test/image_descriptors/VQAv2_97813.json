@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 97813,
+    "caption": "a blue and white bus parked on the side of a road",
+    "object_tags": [
+        "outdoor",
+        "land vehicle",
+        "vehicle",
+        "transport",
+        "bus",
+        "road",
+        "sky",
+        "grass",
+        "mode of transport",
+        "building",
+        "blue",
+        "tree",
+        "text",
+        "wheel",
+        "tour bus service",
+        "street",
+        "parked"
+    ]
+}

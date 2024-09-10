@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1446,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1446.png",
+    "question": "How many active rigs were in the Permian basin as of May 2021?",
+    "label": [
+        "232"
+    ]
+}

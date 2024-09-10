@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 1464,
+    "image_path": "./experimental_dataset/test/images/ChartQA_1464.png",
+    "question": "How many cases of the coronavirus were confirmed in Delhi as of June 27, 2021?",
+    "label": [
+        "1407401"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 621,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_621.png",
+    "question": "How many transportation have on headlights?",
+    "label": "['two', 'two', 'two', 'two', 'two', 'two', 'two', 'one', 'two', 'two']",
+    "choices": [
+        "one",
+        "none",
+        "two",
+        "three"
+    ],
+    "correct_choice": "two"
+}

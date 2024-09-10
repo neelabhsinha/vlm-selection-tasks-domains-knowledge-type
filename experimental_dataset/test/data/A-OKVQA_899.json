@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 899,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_899.png",
+    "question": "What is between the two meals?",
+    "label": "['bottle', 'beverage', 'soda bottle', 'drink', 'wine', 'wine bottle', 'beer', 'cheese', 'wine', 'soda bottle']",
+    "choices": [
+        "wine",
+        "orange juice",
+        "coffee",
+        "water"
+    ],
+    "correct_choice": "wine"
+}

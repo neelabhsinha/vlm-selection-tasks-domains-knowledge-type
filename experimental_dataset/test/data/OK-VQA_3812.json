@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3812,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3812.png",
+    "question": "What landmark is in the photo?",
+    "label": [
+        "tower",
+        "tower",
+        "tower",
+        "tower",
+        "church tower",
+        "church tower",
+        "big ben tower",
+        "big ben tower",
+        "park",
+        "park"
+    ]
+}

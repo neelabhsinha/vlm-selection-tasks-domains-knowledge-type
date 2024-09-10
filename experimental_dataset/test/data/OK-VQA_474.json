@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 474,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_474.png",
+    "question": "What is he listening to?",
+    "label": [
+        "music",
+        "music",
+        "music",
+        "music",
+        "music",
+        "music",
+        "music",
+        "music",
+        "headphone",
+        "headphone"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 207,
+    "image_path": "./experimental_dataset/test/images/ChartQA_207.png",
+    "question": "Is the average value of Philippines and North America greater than 2500 MW?",
+    "label": [
+        "Yes"
+    ]
+}

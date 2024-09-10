@@ -1,0 +1,18 @@
+{
+    "dataset": "VQAv2",
+    "key": 103666,
+    "image_path": "./experimental_dataset/test/images/VQAv2_103666.png",
+    "question": "What type of surface are the knives plunged into?",
+    "label": [
+        "apple skin",
+        "fruit",
+        "apple skin",
+        "apple",
+        "firm",
+        "apple",
+        "apple",
+        "apple",
+        "fruit",
+        "apple"
+    ]
+}

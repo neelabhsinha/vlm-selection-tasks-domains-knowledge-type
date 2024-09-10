@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 977,
+    "task_type": "Knowledge-based Visual Question-Answering",
+    "application_domain": [
+        "Books",
+        "Knowledge Base",
+        "History",
+        "Linguistics"
+    ],
+    "knowledge_type": [
+        "Literary Knowledge"
+    ]
+}

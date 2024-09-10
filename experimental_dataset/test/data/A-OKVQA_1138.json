@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 1138,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_1138.png",
+    "question": "How can you tell the incense has been burned already?",
+    "label": "['burn marks', 'see incense', 'only sticks', 'blackened tips', 'ashes', 'orange', 'prayer', \"it's black\", 'black ends', 'burned sticks']",
+    "choices": [
+        "smoke",
+        "faded decor",
+        "oil down",
+        "ashes"
+    ],
+    "correct_choice": "ashes"
+}

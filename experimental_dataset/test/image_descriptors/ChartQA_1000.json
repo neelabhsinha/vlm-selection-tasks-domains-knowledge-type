@@ -1,0 +1,13 @@
+{
+    "dataset": "ChartQA",
+    "key": 1000,
+    "caption": "a blue and white photo of a blue and white airplane",
+    "object_tags": [
+        "text",
+        "screenshot",
+        "number",
+        "software",
+        "parallel",
+        "rectangle"
+    ]
+}

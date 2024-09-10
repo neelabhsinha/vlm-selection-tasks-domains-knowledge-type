@@ -1,0 +1,25 @@
+{
+    "dataset": "VQAv2",
+    "key": 43754,
+    "caption": "a man flying through the air while riding a skateboard",
+    "object_tags": [
+        "sky",
+        "outdoor",
+        "cloud",
+        "extreme sport",
+        "person",
+        "sport",
+        "stunt",
+        "stunt performer",
+        "air",
+        "sports equipment",
+        "man",
+        "jumping",
+        "boardsport",
+        "outdoor recreation",
+        "freestyle",
+        "snowboarding",
+        "performing",
+        "high"
+    ]
+}

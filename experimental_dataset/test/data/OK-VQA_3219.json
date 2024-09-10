@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 3219,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_3219.png",
+    "question": "What vegetable is shown?",
+    "label": [
+        "broccoli",
+        "broccoli",
+        "broccoli",
+        "broccoli",
+        "broccoli and cauliflower",
+        "broccoli and cauliflower",
+        "broccoli and califlower",
+        "broccoli and califlower",
+        "pepper",
+        "pepper"
+    ]
+}

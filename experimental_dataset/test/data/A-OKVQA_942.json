@@ -1,0 +1,14 @@
+{
+    "dataset": "A-OKVQA",
+    "key": 942,
+    "image_path": "./experimental_dataset/test/images/A-OKVQA_942.png",
+    "question": "What are the horses feet called?",
+    "label": "['hoofs', 'hooves', 'hooves', 'hooves', 'hooves', 'hooves', 'hooves', 'hoofs', 'hooves', 'hooves']",
+    "choices": [
+        "stompers",
+        "claws",
+        "hooves",
+        "feet"
+    ],
+    "correct_choice": "hooves"
+}

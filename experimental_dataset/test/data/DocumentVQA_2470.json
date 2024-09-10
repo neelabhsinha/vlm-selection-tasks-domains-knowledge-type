@@ -1,0 +1,9 @@
+{
+    "dataset": "DocumentVQA",
+    "key": 2470,
+    "image_path": "./experimental_dataset/test/images/DocumentVQA_2470.png",
+    "question": "What is the cost of the Needlepoint 'catalog only'?",
+    "label": [
+        "$1.00"
+    ]
+}

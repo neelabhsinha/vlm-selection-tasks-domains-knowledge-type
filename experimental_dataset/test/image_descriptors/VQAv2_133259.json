@@ -1,0 +1,24 @@
+{
+    "dataset": "VQAv2",
+    "key": 133259,
+    "caption": "a person sitting on a motorcycle",
+    "object_tags": [
+        "motorcycle",
+        "clothing",
+        "outdoor",
+        "person",
+        "motorbike",
+        "vehicle",
+        "land vehicle",
+        "tire",
+        "wheel",
+        "auto part",
+        "fuel tank",
+        "grass",
+        "cruiser",
+        "woman",
+        "parked",
+        "jacket",
+        "bike"
+    ]
+}

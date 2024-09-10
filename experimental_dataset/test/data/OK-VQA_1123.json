@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 1123,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_1123.png",
+    "question": "What type of batter in pictured?",
+    "label": [
+        "cake batter",
+        "cake batter",
+        "cake batter",
+        "cake batter",
+        "cake batter",
+        "cake batter",
+        "cake",
+        "cake",
+        "cake",
+        "cake"
+    ]
+}

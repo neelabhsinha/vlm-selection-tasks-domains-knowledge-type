@@ -1,0 +1,9 @@
+{
+    "dataset": "ChartQA",
+    "key": 130,
+    "image_path": "./experimental_dataset/test/images/ChartQA_130.png",
+    "question": "Identify the percentage in the pie chart, 'Don't Know' category?",
+    "label": [
+        "30"
+    ]
+}

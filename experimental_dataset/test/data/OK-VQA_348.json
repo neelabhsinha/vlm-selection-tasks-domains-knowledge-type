@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 348,
+    "image_path": "./experimental_dataset/test/images/OK-VQA_348.png",
+    "question": "Can you name the place where the boy is playing?",
+    "label": [
+        "driveway",
+        "driveway",
+        "driveway",
+        "driveway",
+        "driveway",
+        "driveway",
+        "concrete",
+        "concrete",
+        "park lot",
+        "park lot"
+    ]
+}

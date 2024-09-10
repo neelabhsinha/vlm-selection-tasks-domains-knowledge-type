@@ -1,0 +1,18 @@
+{
+    "dataset": "OK-VQA",
+    "key": 4336,
+    "caption": "a cat that is looking at a computer keyboard",
+    "object_tags": [
+        "cat",
+        "keyboard",
+        "animal",
+        "small to medium-sized cats",
+        "computer",
+        "whiskers",
+        "indoor",
+        "felidae",
+        "computer keyboard",
+        "head",
+        "close"
+    ]
+}
