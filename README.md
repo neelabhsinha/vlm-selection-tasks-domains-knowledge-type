@@ -243,5 +243,26 @@ The results of the paper are available in the `aggregated_results` directory. Th
 If you use this dataset or code in your research, please cite the following paper:
 
 ```bibtex
-NOT ADDED AS THE PAPER IS CURRENTLY UNDER REVIEW
+@inproceedings{sinha-etal-2025-guiding,
+    title = "Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types",
+    author = "Sinha, Neelabh  and
+      Jain, Vinija  and
+      Chadha, Aman",
+    editor = "Zhang, Wei Emma  and
+      Dai, Xiang  and
+      Elliot, Desmond  and
+      Fang, Byron  and
+      Sim, Mongyuan  and
+      Zhuang, Haojie  and
+      Chen, Weitong",
+    booktitle = "Proceedings of the First Workshop of Evaluation of Multi-Modal Generation",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.evalmg-1.7/",
+    pages = "76--94",
+    abstract = "Visual Question-Answering (VQA) has become key to user experience, particularly after improved generalization capabilities of Vision-Language Models (VLMs). But evaluating VLMs for an application requirement using a standardized framework in practical settings is still challenging. This paper aims to solve that using an end-to-end framework. We present VQA360 - a novel dataset derived from established VQA benchmarks, annotated with task types, application domains, and knowledge types, for a comprehensive evaluation. We also introduce GoEval, a multimodal evaluation metric developed using GPT-4o, achieving a correlation factor of 56.71{\%} with human judgments. Our experiments with state-of-the-art VLMs reveal that no single model excels universally, thus, making a right choice a key design decision. Proprietary models such as Gemini-1.5-Pro and GPT-4o-mini generally outperform others, but open-source models like InternVL-2-8B and CogVLM-2-Llama-3-19B also demonstrate competitive strengths, while providing additional advantages. Our framework can also be extended to other tasks."
+}
+
 ```
