@@ -1,8 +1,17 @@
-# Guiding Vision-Language Model Selection for Visual Question-Answering with VQA360 Dataset and GoEval Metric
+# Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types
+
+![Type](https://img.shields.io/badge/arXiv-2409.09269-yellow)
+![Concepts](https://img.shields.io/badge/Concepts-Deep_Learning,_Computer_Vision-blue)
+![Language](https://img.shields.io/badge/Language-Python-red)
+![Libraries](https://img.shields.io/badge/Libraries-PyTorch,_HuggingFace-green)
 
 ## Overview
 
-This repository contains the code for evaluating various Vision-Language Models (VLMs) on multiple tasks across different domains, categories, and types of reasoning. The evaluation process supports multiple models and metrics, with pre-built tasks to handle data collection, image descriptor generation, model execution, and performance evaluation.
+Original Implementation of the paper Guiding Vision-Language Model Selection for Visual Question-Answering Across Tasks, Domains, and Knowledge Types, accepted at The First Workshop of Evaluation of Multi-Modal Generation (EvalMG) in 31st International Conference on Computational Linguistics (COLING), 2025.
+
+arXiv Link: [2409.09269](https://arxiv.org/abs/2409.09269)
+
+ACL Anthology Link: [2025.evalmg-1.7](https://aclanthology.org/2025.evalmg-1.7/)
 
 ## Table of Contents
 
